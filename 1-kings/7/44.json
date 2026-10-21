@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meri",
+      "rationale": "הים tähendab sõna-sõnalt 'meri' — see on basseini nimi, mitte 'nõu' ega 'bassein'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaksteist",
+      "rationale": "Veebasseini kandvate veiste täpne arv"
+    }
+  ],
+  "translation": "ja ⟨את⟩ ühe mere ja ⟨את⟩ veised kaksteist mere all;",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/41-44.1792545367521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mere"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "veised"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "veised"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-21T01:16:07.525916010Z",
+  "model": "glm-5.3"
+}

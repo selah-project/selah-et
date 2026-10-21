@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "palge eest",
+      "rationale": "מפני 'palgelt, eest' — heebrea idioom, 'kellegi näo eest põgenema'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "asus elama",
+      "rationale": "וישב 'istus\/elas' — 'istus maha' jääks passiivseks; teine וישב jätab 'istus' kujundi"
+    }
+  ],
+  "translation": "Ja Paroo kuulis selle asja ja tahtis tappa ⟨את⟩ Moše; ja Moše põgenes Paroo palge eest ning asus elama Midjani maale, ja ta istus juures kaevul.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/2\/13-16.1792538243257.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja Paroo kuulis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle asja"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ja tahtis"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "tappa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošet"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ja Moše põgenes"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "palge eest"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asus elama"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjani"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja ta istus"
+    },
+    {
+      "surface": "על",
+      "gloss": "juures"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "kaevul"
+    }
+  ],
+  "timestamp": "2026-10-20T23:17:23.258294541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩, ⟨tema⟩",
+      "rationale": "Heebreas puuduvad kõrvallause predikaat ja osutav asesõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "hasiid",
+      "rationale": "חסיד: 'hasiid \/ vaga \/ heatahtlik' — KJV 'holy', JPS 'godly', eesti traditsioonis läheb 'halastav' ekslikult hesedi suunas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri \/ elujõud', mitte immateriaalne hing"
+    }
+  ],
+  "translation": "Kaitse mu hinge, sest hasiid ⟨olen⟩ mina; päästa mu, sina, mu Elohim, kes sinu peale loodab ⟨tema⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/86\/1-4.1792553593685.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Kaitse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hinge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasiid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "päästa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mu, sinu sulase"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "kes loodab"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu peale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:13.686363938Z",
+  "model": "glm-5.3"
+}

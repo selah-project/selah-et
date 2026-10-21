@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Heebrea puudub kopolula 'mina Jahve' järel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kardate",
+      "rationale": "ירא hõlmab nii kartust kui aukartust; 'auäratusega' oleks liiga kitsas"
+    }
+  ],
+  "translation": "Minu šabateid te peate ja minu pühamu ees te olge auäratusega: mina ⟨olen⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "38972aee43b457c8e8b5c4ec8590fdf8d503e7b18003912411a509e5692bc367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/2-4.1792543618989.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu šabateid"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "minu šabateid"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "te peate"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ja minu pühamu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "te kardate"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:58.993618732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "isand",
+      "rationale": "אדניך on siin inimene (kuningas), seisukoha järgi 'isand', mitte Nimi."
+    }
+  ],
+  "translation": "Ja kuningas himustab su ilu, sest tema on sinu isand — ja kummarda teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/9-12.1792552826701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ja himustab"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "su ilu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sinu isand"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "ja kummarda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:26.704463134Z",
+  "model": "glm-5.3"
+}

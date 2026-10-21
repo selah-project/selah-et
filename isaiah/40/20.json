@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 40:20",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המסכן תרומה",
+      "rationale": "Tuntud lahkhel: 'kes on andamist liiga vaene' (KJV\/ASV) vs 'halvaks valitud ohvriks' (JPS 'pühendatud tamm') — sõnajärg on ebamäärane"
+    },
+    {
+      "kind": "addition",
+      "subject": "on \/ see",
+      "rationale": "Eesti keel vajab kópulat ja asesõna, heebrea jätab mõlemad ära"
+    },
+    {
+      "kind": "irony",
+      "subject": "לא ימוט",
+      "rationale": "Iroonia: surnud puust jumaluskujul käsk 'ei tohi kõikuda' — kogu jumalik püsivus sõltub tislerist"
+    }
+  ],
+  "translation": "Kes ⟨on⟩ andami jaoks liiga vaene, valib puu, mis ei mädane, otsib talle targa meistri kujut valmistama, et ⟨see⟩ ei kõiguks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/40\/17-20.1792547405006.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המסכן",
+      "gloss": "liiga vaene"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "andami jaoks"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "mädaneb"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "valib"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "meister"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "otsib"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "valmistama"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "kujut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kõiguks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:05.008007528Z",
+  "model": "glm-5.3"
+}

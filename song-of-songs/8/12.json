@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "saad",
+      "rationale": "Heebrea jätab verbsõna ära; לך tähendab 'sinule' — eesti nõuab tegusõna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "on enne mind",
+      "rationale": "לפני otsetõlge 'mu ees\/minu juures'; alternatiivne luge: 'on mu käsutada'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tuhat \/ kakssada",
+      "rationale": "Arvud kordavad eelmise salmi tuhandet ja jagavad selle hoidjate vahel"
+    }
+  ],
+  "translation": "Mu viinamägi, mu oma, on enne mind; sina, Šlomo, saad tuhande, ja need, kes hoiavad ⟨את⟩ tema vilja, kakssada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/9-12.1792555821345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "mu viinamäki"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "mu oma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "on enne mind"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tuhande"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sina saad"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šlomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ja kakssada"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "hoidjatele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema vilja"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "tema vilja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:21.346466626Z",
+  "model": "glm-5.3"
+}

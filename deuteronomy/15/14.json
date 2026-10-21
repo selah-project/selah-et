@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 15:14",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuillaldaselt varusta",
+      "rationale": "ענק tähendab otseselt 'kaelarauast varustama, ehtima'; kaks korduvat vormi h- ja t- infiksiiviga (lahter pole tühi: kordus jääb)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העניק תעניק",
+      "rationale": "Infiksiivi kordus rõhutab kohustust; eesti keeles kaks korda 'varusta'."
+    }
+  ],
+  "translation": "küllaldaselt varusta tema oma karjast ja oma rehepealt ja oma veinipressist; millega Jahve, su Elohim, sind õnnistanud on, sida anna talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90206ecf89e263a8338873b7dc775a43a41fbcad121ff08945f9201c13a89c5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/15\/13-16.1792540884640.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העניק",
+      "gloss": "kuillaldaselt varusta"
+    },
+    {
+      "surface": "תעניק",
+      "gloss": "varusta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "מצאנך",
+      "gloss": "oma karjast"
+    },
+    {
+      "surface": "ומגרנך",
+      "gloss": "ja oma rehepealt"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "ja oma veinipressist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millega"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "sind õnnistanud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-21T00:01:24.641740916Z",
+  "model": "glm-5.3"
+}

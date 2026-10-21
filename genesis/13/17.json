@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ma",
+      "rationale": "Heebrea puudub kaudne kõne marker; eesti vajab seda lause lõpetamiseks"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Tõuse, käi",
+      "rationale": "Jahve käsib Avrahamil otseselt — käsk üle võtta maa pikkuses ja laiuses"
+    }
+  ],
+  "translation": "Tõuse, käi mööda maad, selle pikkuses ja laiuses, sest sulle annan Ma selle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/13\/17-18.1792537448837.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tõuse"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "käi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mööda maad"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "selle pikkuses"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "ja laiuses"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "annan Ma selle"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:08.838792794Z",
+  "model": "glm-5.3"
+}

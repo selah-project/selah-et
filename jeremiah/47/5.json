@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 47:5",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pärispaljaks",
+      "rationale": "קרחה on kahju märk: pea paljaks ajamine, mitte lihtsalt kiilus"
+    },
+    {
+      "kind": "crux",
+      "subject": "nende orust",
+      "rationale": "עמקם: 'nende org' (Ashkeloni ümbruse madalik) või loetu 'ammukem' — 'kui kaua veel' viimase tähe tõttu"
+    },
+    {
+      "kind": "crux",
+      "subject": "sa end lõikad",
+      "rationale": "תתגודדי: leinarihvides end lõikamine; haruldased tähevahetused teevad teksti keeruliseks"
+    },
+    {
+      "kind": "you",
+      "subject": "leeri jäänusele",
+      "rationale": "pöördumine otse ellujäänute poole"
+    }
+  ],
+  "translation": "Pärispaljaks on tulnud Azzale, hukkunud ⟨on⟩ Ashkelon, jäänus nende orust. Kui kaua sa end lõikad?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2f11236b7b61a040822ab48a1d3d4bbcda20878906becfa0b51cdab63a092c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/47\/5-7.1792549296176.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "pärispaljaks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Azzale"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzale"
+    },
+    {
+      "surface": "נדמתה",
+      "gloss": "hukkunud"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "jäänus"
+    },
+    {
+      "surface": "עמקם",
+      "gloss": "nende orust"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kui kaua"
+    },
+    {
+      "surface": "תתגודדי",
+      "gloss": "sa end lõikad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:21:36.177689627Z",
+  "model": "glm-5.3"
+}

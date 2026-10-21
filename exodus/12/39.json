@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 12:39",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea passiiv 'nad aeti' viiakse eesti keelde omavoolulise lausega; sidesõna kuju nõuab lisatud abiverbi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "matsot-kookideks",
+      "rationale": "מצות jääb nimesõnana 'matsot'; tähendus 'hapnemata' antakse lauses sõnaga 'ei olnud hapnenud'."
+    },
+    {
+      "kind": "elision",
+      "subject": "להם",
+      "rationale": "Kohakäändsõna 'endale' väljendab eesti keeles heebrea refleksiivset eessõna + asesõna kogumit."
+    }
+  ],
+  "translation": "Ja nad küpsetasid ⟨את⟩ taina, mille nad tõid Mitsraimist välja, ümarateks matsot-kookideks, sest see ei olnud hapnenud, sest nad ⟨oli⟩ Mitsraimist välja aetud ega suutnud viivitada, ja ka varustust nad endale ei valmistanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7bf3a9cd1430b60cc5e41d7951e4c1ca0b2c7491e6175a75e848e6783d1e0d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/12\/37-40.1792538474325.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאפו",
+      "gloss": "Ja nad küpsetasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taina"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "taina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "nad tõid välja"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "ümarateks kookideks"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsot-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "olin hapnenud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גרשו",
+      "gloss": "nad aeti välja"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nad suutnud"
+    },
+    {
+      "surface": "להתמהמה",
+      "gloss": "viivitada"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "varustust"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nad valmistanud"
+    },
+    {
+      "surface": "להם",
+      "gloss": "endale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:21:14.327030162Z",
+  "model": "glm-5.3"
+}

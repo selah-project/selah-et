@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 5:15",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreas puudub öeldis; nominallauses lisatud 'on'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שֵׁשׁ",
+      "rationale": "'valge marmor' vs 'valge linane riie' — שש tähendab nii marmort kui valget linast"
+    },
+    {
+      "kind": "crux",
+      "subject": "בָּחוּר",
+      "rationale": "'väljavalitud' vs 'nooruk' (sama tähekuju בחור tähendab ka noort mehest) — kõikides tõlgetes valitakse 'valitud'"
+    }
+  ],
+  "translation": "Tema sääred ⟨on⟩ marmorsambad, seatud puhta kulla alustele; tema välimus ⟨on⟩ nagu Lubanon, väljavalitud nagu seedrid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/13-16.1792555835079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוקיו",
+      "gloss": "tema sääred"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "sambad"
+    },
+    {
+      "surface": "שש",
+      "gloss": "marmor"
+    },
+    {
+      "surface": "מיסדים",
+      "gloss": "seatud"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "alustele"
+    },
+    {
+      "surface": "פז",
+      "gloss": "puhta kulla"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "tema välimus"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "nagu Lubanon"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "väljavalitud"
+    },
+    {
+      "surface": "כארזים",
+      "gloss": "nagu seedrid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:35.080602052Z",
+  "model": "glm-5.3"
+}

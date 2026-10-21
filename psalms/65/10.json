@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohimi jõuke",
+      "rationale": "פלג אלהים: kas 'Elohimi jõgi\/jõuke' (külluse pilt) või ülivõrde 'Elohimile ainuomane jõgi'; jätameainsuse pildiga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "külastad",
+      "rationale": "פקד on 'külaskäik\/valvamine\/meeleheitmine' — heebrea jätab lahti, kas sõbralik või karm."
+    }
+  ],
+  "translation": "Sa külastad maad ja jootad seda, külluslikult Sa seda rikastad: Elohimi jõuke on veest täis; Sa valmistad nende vilja, sest nõnda valmistad Sa seda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/65\/9-12.1792553273289.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "külastad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "ja jootad seda"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "külluslikult"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "rikastad"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "jõuke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veest"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "valmistad"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "nende vilja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "valmistad seda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:53.289697157Z",
+  "model": "glm-5.3"
+}

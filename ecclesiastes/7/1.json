@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub embuv sõna; võrdlus on nimeta"
+    },
+    {
+      "kind": "crux",
+      "subject": "טוב ... מן",
+      "rationale": "Kordus: 'parem ... kui'; teine טוב on omadussõna salvile, mitte võrdluse kordus"
+    }
+  ],
+  "translation": "Parem ⟨on⟩ hea nimi kui hea salvi, ja päev surmast kui päev sündimisest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/1-4.1792556080537.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "hea nimi"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kui hea salvi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea salvi"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ja päev"
+    },
+    {
+      "surface": "המות",
+      "gloss": "surmast"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kui päev"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "sündimisest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:40.538328412Z",
+  "model": "glm-5.3"
+}

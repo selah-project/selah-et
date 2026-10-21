@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה\/יריבי ja לחם\/לחמי",
+      "rationale": "Juure kordus — sama verbi kordub vaste nimes: vaidle minu vaidlejatega, võidle minu võitlejatega."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Psalm pöördub otse Jahve poole palves."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kuulub⟩",
+      "rationale": "Eesti keel nõuab omistuse käänet; heebrea luba on lihtsalt 'taavetile'."
+    }
+  ],
+  "translation": "Taavetile ⟨kuulub⟩. Vaidle, Jahve, ⟨את⟩ minu vaidlejatega, võidle ⟨את⟩ minu võitlejatega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/1-4.1792552666382.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Taavetile"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "vaitle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu vaidlejatega"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "minu vaidlejatega"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "võidle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu võitlejatega"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "minu võitlejatega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:46.383224562Z",
+  "model": "glm-5.3"
+}

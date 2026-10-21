@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 18:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ poeg",
+      "rationale": "Heebrea keeles puudub kopeeriv verb: 'ja vaata, poeg Sarale'."
+    },
+    {
+      "kind": "crux",
+      "subject": "elu aeg",
+      "rationale": "כעת חיה: 'elu ajaks' (järgmisel aastal samal ajal) vs 'kui elus ollakse' — tõlkijad lahku läinud."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Verbita kõrvulause 'ja tema tema taga' nõuab eesti keeles kopeerit."
+    }
+  ],
+  "translation": "Ja ta ütles: pöördudes pöördun ma sinu juurde tagasi elu ajal, ja vaata, Sarale, sinu naisele, ⟨on⟩ poeg. Ja Sara kuulas telgi sissepääsu juures, ja tema ⟨oli⟩ tema taga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/18\/9-12.1792537563186.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pöördudes"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "pöördun tagasi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu juurde"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "elu ajal"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "elu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarale"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "sinu naisele"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ja Sara"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sissepääsu juures"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "telgi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tema taga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:06:03.186824780Z",
+  "model": "glm-5.3"
+}

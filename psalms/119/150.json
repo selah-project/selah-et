@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Toora",
+      "rationale": "תורה jääb nimeks 'Toora', mitte 'seadus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרבו \/ רחקו",
+      "rationale": "lähenevad–kaugel: vastandite paaris, salmi telg"
+    }
+  ],
+  "translation": "Lähenevad need, kes taga ajavad kurja nõu; sinu Toorast nad on kaugel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/149-152.1792554180723.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "Lähenevad"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "need, kes taga ajavad"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kurja nõu"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "sinu Toorast"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "on kaugel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:00.724198416Z",
+  "model": "glm-5.3"
+}

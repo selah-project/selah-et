@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 17:19",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid need, kes",
+      "rationale": "Eesti suhtelause nõuab kopeeri ja sidesõna, heebrea on keskkond"
+    },
+    {
+      "kind": "elision",
+      "subject": "בערי המבצר",
+      "rationale": "Konstruktiiv 'kindluse linnadesse' tihendatud üheks omadussõnaks 'kindlustatud linnadesse'"
+    }
+  ],
+  "translation": "Need olid need, kes teenisid ⟨את⟩ kuningat, peale nende, kelle kuningas oli pannud kindlustatud linnadesse kogu Juudas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/17\/17-19.1792557911339.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Need"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "kes teenisid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningat"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "peale nende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "oli pannud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "linnadesse"
+    },
+    {
+      "surface": "המבצר",
+      "gloss": "kindlustatud"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:11.342266249Z",
+  "model": "glm-5.3"
+}

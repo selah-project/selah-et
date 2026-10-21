@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "leivakoda ja kaaslased",
+      "rationale": "Jaakobi imperatiivid on pööratud tema kogu leivakojale."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leivakoda",
+      "rationale": "ביתו tähendab sõna-sõnalt 'maja'; eesti 'leivakoda' kannab perekonnakodu tähendust – tõlkesaab valida ka 'maja'."
+    },
+    {
+      "kind": "addition",
+      "subject": "end",
+      "rationale": "Eesti refleksiiv nõuab 'end' puhtuse verbi juures; heebrea והטהרו on lihtne refleksiivne vorm."
+    }
+  ],
+  "translation": "Ja Jaakob ütles oma leivakojale ja kõigile, kes olid temaga: Eemaldage ⟨את⟩ võõra rahva jumalad, kes on teie sees, ja puhastage end ning vahetage oma riided.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/35\/1-4.1792537953170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oma leivakoja poole"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oma leivakoda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja kõigi poole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "olid temaga"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "eemaldage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "võõra rahva jumalad"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalad"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "võõra rahva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "on teie sees"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "ja puhastage end"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "ja vahetage"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "oma riided"
+    }
+  ],
+  "timestamp": "2026-10-20T23:12:33.172026602Z",
+  "model": "glm-5.3"
+}

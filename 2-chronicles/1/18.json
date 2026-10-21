@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kavatses",
+      "rationale": "Vanas tõlkes 'kavatses ehitan' — heebrea לבנות on lihtne infinitiiv 'ehitada', mitte kaudiv kuju"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oma südames⟩",
+      "rationale": "Kõne siht puudub — Shelomo räägib endale või kuulutab; lisatud selgituseks"
+    }
+  ],
+  "translation": "Ja ütles Shelomo ⟨oma südames⟩: ehitan maja Jahve nimele ja maja oma kuninglikule võimule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "65e46b81f10873ef196f892f032518e9cbed6031977106b539d9c17b1764a9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/1\/17-18.1792557616287.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ehitan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nimele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja maja"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "oma kuninglikule võimule"
+    }
+  ],
+  "timestamp": "2026-10-21T04:40:16.288203915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on see, kes⟩",
+      "rationale": "eesti kõneviis nõuab rõhutatud והוא lahtikirjutamist predikaadiga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vägitegusid",
+      "rationale": "חיל on jõud\/vaprus\/vägi — 'vaprust teha' on keeles püsinud piltlik väljend"
+    }
+  ],
+  "translation": "Elohimiga me teeme vägitegusid, ja tema ⟨on see, kes⟩ tallab meie ahistajad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/13-14.1792553838671.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimiga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "me teeme"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vägitegusid"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "tallab"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "meie ahistajad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:18.671836135Z",
+  "model": "glm-5.3"
+}

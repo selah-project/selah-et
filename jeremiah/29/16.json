@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 29:16",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kohta",
+      "rationale": "Eesti vajab sidesõna 'kohta', et siduda aplikatsioon 'teie vennad' lausesse; heebreas puudub."
+    },
+    {
+      "kind": "you",
+      "subject": "pagulased Babelis",
+      "rationale": "Kiri pöördub vahetult pagulaste poole: 'teie vennad', kes jäid Jerušalaimi."
+    }
+  ],
+  "translation": "Sest nõnda ütleb Jahve kuningale, kes istub Daviti troonil, ja kogu rahvale, kes elab selles linnas, teie vendade kohta, kes ei läinud teiega ⟨את⟩ pagulusse:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/13-16.1792548818726.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kes istub"
+    },
+    {
+      "surface": "אל",
+      "gloss": "troonil"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja kogu rahvale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kes elab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "selles"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "teie vendade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "läinud"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teiega",
+      "marks": "pagulusse"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "pagulusse"
+    }
+  ],
+  "timestamp": "2026-10-21T02:13:38.729188600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oled⟩",
+      "rationale": "Eesti nõuab köitva verbi; heebrea nimelause ei kasuta seda"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Otsene pöördumine palves JAHVE poole"
+    }
+  ],
+  "translation": "Ütlesin Jahvele: Minu El ⟨oled⟩ sina; kuula, Jahve, mu anumiste häält.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/140\/5-8.1792554320541.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ütlesin"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Minu El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kuula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mu anumiste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:20.542703466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mina olen",
+      "rationale": "Eesti nõuab käskliidi 'mina olen Joosep', heebrea ütleb vaid אני יוסף."
+    },
+    {
+      "kind": "you",
+      "subject": "oma vendadele",
+      "rationale": "Joosepi esimesed sõnad vendadele pärast paljastamist — otsene pöördumine."
+    },
+    {
+      "kind": "crux",
+      "subject": "kas mu isa elab veel",
+      "rationale": "Küsimus tuleb kohe pärast 45:1–2 nuttu; mõned loevad seda kui äsjase teate (44:27–29) kordust, teised kui kahetsusväärast viidet isa kaotusele."
+    }
+  ],
+  "translation": "Ja Joosep ütles oma vendadele: Mina olen Joosep. Kas mu isa elab veel? Ja ta vennad ei suutnud talle vastata, sest nad olid tema palge ees hämmingus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/45\/1-4.1792538171375.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...-le"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "oma vendadele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosep"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "kas ... veel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suutnud"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ta vennad"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "vastama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "talle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "olid hämmingus"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "tema palge ees"
+    }
+  ],
+  "timestamp": "2026-10-20T23:16:11.376678883Z",
+  "model": "glm-5.3"
+}

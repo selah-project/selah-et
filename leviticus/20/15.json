@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יתן שכבתו",
+      "rationale": "sõnasõnaline 'annab oma lamamise' — eufemism, mida tõlkijad tavaliselt pehmendavad 'magab'."
+    },
+    {
+      "kind": "you",
+      "subject": "teile",
+      "rationale": "käsk verbis תהרגו pöördub koguduse poole — 'tapke ära'."
+    }
+  ],
+  "translation": "Ja mees, kes paneb oma lamamise kariloomaga: surma ta surgu, ja ⟨את⟩ karilooma tapke ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/20\/13-16.1792539534035.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "paneb"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "oma lamamise"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kariloomaga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ta surgu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "karilooma"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "karilooma"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "tapke ära"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:54.036527733Z",
+  "model": "glm-5.3"
+}

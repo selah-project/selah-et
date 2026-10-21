@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨käes⟩",
+      "rationale": "Heebrea lühike omastav sidesõnata lause 'päästmine aga Jahvele' vajab eesti keeles sidesõna."
+    },
+    {
+      "kind": "crux",
+      "subject": "התשועה",
+      "rationale": "'päästmine \/ võit \/ abi' — heebrea sõna hõlmab kõiki; valitud 'päästmine'."
+    }
+  ],
+  "translation": "Hobune on valmis sõjapäevaks, aga päästmine on Jahve ⟨käes⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "243034cdca2f0efe63be48014d3d8c29e9982e3f1e7a05bbc98fffff9eb9e825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/29-31.1792554847336.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "Hobune"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "on valmis"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päevaks"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sõja"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "aga Jahvele"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "päästmine"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:07.337234421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viha",
+      "rationale": "אפי on sõnaselgelt 'mu nina\/ninamood', viha kujund; 'viha' katab kujundi ära"
+    },
+    {
+      "kind": "alternative",
+      "subject": "temast",
+      "rationale": "ממנו on ainsuse lõpp ('temast') rääkides mitmuse Jisraelist — nii seisab ka heebrea tekstis"
+    }
+  ],
+  "translation": "Ma parandan nende taganemise, ma armastan neid vabatahtlikult, sest mu viha on temast tagasi pöördunud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/14\/5-8.1792551115701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "ma parandan"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "nende taganemise"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "ma armastan neid"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "vabatahtlikult"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שב",
+      "gloss": "on tagasi pöördunud"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mu viha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:55.701920318Z",
+  "model": "glm-5.3"
+}

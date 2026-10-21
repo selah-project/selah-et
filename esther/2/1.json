@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kaudne kõneviis; eesti nõuab abiverbi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kui rahe vaibunud",
+      "rationale": "חמת sõna-sõnalt 'kuumus'; rahe='punanenud kuumus' hoiab pildi"
+    }
+  ],
+  "translation": "Pärast neid asju, kui Ahšveroši, kuninga, rahe ⟨oli⟩ vaibunud, meenutas ta ⟨את⟩ Vaštit ja ⟨את⟩ seda, mida ta oli teinud, ja ⟨את⟩ seda, mis tema kohta ⟨oli⟩ määratud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bdd3d203ce627ff1a40a7847651526a09c59a571ec214639253a16270c51805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/2\/1-4.1792556184393.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "neid asju"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "kui rahe vaibunud"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "rahe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahšveroši"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "meenutas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vašti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vaštit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sedamida ta oli teinud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sedamis oli määratud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "oli määratud"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tema kohta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:24.393846567Z",
+  "model": "glm-5.3"
+}

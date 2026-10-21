@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "auku",
+      "rationale": "שיחות on langemisauk \/ lõks; 'kaevatud augud' kujund pahatahtlikust plaanist, כרה 'kaevama' ka 'kavalalt plaanima'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kõlakad",
+      "rationale": "שיחות võib tähendada ka 'kõneid, nõupidamisi' — ülbused pidasid nõu, mitte ei kaevanud"
+    }
+  ],
+  "translation": "Ülbused on kaevanud mulle auku, mis ei ole sinu Toora järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/85-88.1792554042986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "on kaevanud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ülbused"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "auku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "ole sinu Toora järgi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:42.986605807Z",
+  "model": "glm-5.3"
+}

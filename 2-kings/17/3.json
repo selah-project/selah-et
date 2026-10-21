@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "andam",
+      "rationale": "מנחה on siin andam\/tribuut, mitte ohvriand — D2 järgi ei kasuta 'minha' sõna tähenduses 'andam'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישב",
+      "rationale": "'tõi\/andis andami' vs 'tõotas, maksis igal aastal' — Assüüria vasallriigi termin 'andami üles tooma'"
+    }
+  ],
+  "translation": "Tema vastu tõusis Salmanassar, Assuri kuningas, ja Hooseast sai tema sulane, ja ta tõotas talle andamit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da18edcf9fd832a727673d871d9c38f9ccc7f95932c82acc23e3084d30fda39c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/17\/1-4.1792546240901.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "tema vastu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tõusis"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Salmanassar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuri"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hooseast"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sulane"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja tõotas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "andamit"
+    }
+  ],
+  "timestamp": "2026-10-21T01:30:40.904356228Z",
+  "model": "glm-5.3"
+}

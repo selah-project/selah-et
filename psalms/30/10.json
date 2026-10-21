@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeeriva 'mis kasu on' konstruktsiooni verbi; eesti keel lisab 'on'."
+    },
+    {
+      "kind": "crux",
+      "subject": "hauasüvend",
+      "rationale": "שחת: 'hauasüvend, auk' vs 'hukk, korrupsioon' (YLT 'corruption')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היודך \/ היגיד",
+      "rationale": "Kaks küsimust paralleelstruktuuris; ידה 'tunnistada' vs נגד 'kuulutada' — rütmiline paar, mida eesti keeles on raske täielikult edasi anda."
+    }
+  ],
+  "translation": "Mis kasu ⟨on⟩ mu veres, kui ma astun alla hauasüvendi? Kas tolm tunnistab sind? Kas ta kuulutab sinu tõesust?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/30\/9-12.1792552601029.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mis kasu"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "⟨on⟩ kasu"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "mu veres"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "kui ma astun alla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hauasüvendi juurde"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hauasüvend"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Kas tunnistab sind"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tolm"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Kas ta kuulutab"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinu tõesust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:41.029802557Z",
+  "model": "glm-5.3"
+}

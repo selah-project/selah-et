@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 23:3",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puuduv kopula 'הוא הנלחם' rõhutusstruktuuris"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפניכם",
+      "rationale": "otsetõlge 'teie palge eest' → 'teu ees'; nägu-kuju kadunud"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Jehošua kõne pöördub otseselt rahva poole"
+    }
+  ],
+  "translation": "Ja teie nägid ⟨את⟩ kõike, mida Jahve, teie Elohim, tegi kõigi nende rahvastega teu ees, sest Jahve, teie Elohim, ⟨on⟩ see, kes teie eest võitleb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8c2f9da2dec990b34a449ef06ca44ce1e4510c6ac9bb0075ecde4b755cf3c926",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/23\/1-4.1792541783711.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ja teie"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nägid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvastega"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nende"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "teu ees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "kes võitleb"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teie eest"
+    }
+  ],
+  "timestamp": "2026-10-21T00:16:23.712751675Z",
+  "model": "glm-5.3"
+}

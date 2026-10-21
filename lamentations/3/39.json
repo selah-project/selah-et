@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuriseb",
+      "rationale": "אָנַן tähendab kurtma-nurisema; 'kurtma' oleks teine valik"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאו",
+      "rationale": "חֵטְא tähendab nii pattu kui patu karistust — KJV 'pattuse karistus' vs JPS 'pattu pärast'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kannatab⟩",
+      "rationale": "Eesti vajab tegusõna, heebrea paneb 'mehe' ja 'patu' kõrvuti"
+    }
+  ],
+  "translation": "Miks nuriseb elav inimene, mees, ⟨kannatab⟩ oma patu eest?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/37-40.1792555904995.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "nuriseb"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elav"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mees"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kannatab⟩ oma patu eest"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "patu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:44.996149037Z",
+  "model": "glm-5.3"
+}

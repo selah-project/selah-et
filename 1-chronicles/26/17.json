@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 26:17",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea ei kasuta kopeelat; loendusvalem on nimedeata."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Asuppim",
+      "rationale": "לאספים tähendab 'kogumised (ohvriandide kogumispaik)'; jätan nime kujul nagu vanemates tõlgetes."
+    },
+    {
+      "kind": "measurement",
+      "subject": "vahipostide arv",
+      "rationale": "Salm loendab väravavahide arvu iga ilmakaare järgi."
+    }
+  ],
+  "translation": "Idaküljel ⟨olid⟩ levilased kuus, põhjaküljel päevas neli, lõunaküljel päevas neli, ja Asuppimi juures kaks-kaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/26\/17-20.1792557576829.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למזרח",
+      "gloss": "idaküljel"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levilased"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "לצפונה",
+      "gloss": "põhjaküljel"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päevas"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neli"
+    },
+    {
+      "surface": "לנגבה",
+      "gloss": "lõunaküljel"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päevas"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "neli"
+    },
+    {
+      "surface": "ולאספים",
+      "gloss": "ja Asuppimi juures"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:39:36.830441842Z",
+  "model": "glm-5.3"
+}

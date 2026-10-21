@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלאמים",
+      "rationale": "בל־אמים on tõenäoliselt kirjutaja viga: בעמים kordus läbi konsonantide; kirjapilt בל (mitte) + אמים (kogukonnad) ei anna mõtet"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אזמרך",
+      "rationale": "זמר tähendab sõna-sõnalt keelpillil mängimist, seega 'ma mängin sulle pilli', mitte üldine 'laulan'"
+    }
+  ],
+  "translation": "ma tunnistan sind rahvaste seas, Adonai; ma mängin sulle pilli rahvaste hulgas ⟨אין⟩ ⟨אמים⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/9-12.1792553055768.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ma tunnistan sind"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "rahvaste seas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ma mängin sulle pilli"
+    },
+    {
+      "surface": "בל",
+      "gloss": "בל"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "אמים"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.769483840Z",
+  "model": "glm-5.3"
+}

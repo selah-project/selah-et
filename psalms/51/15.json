@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Siis",
+      "rationale": "Eesti keel vajab tingimuse tagajärje sidumiseks sõna, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב",
+      "rationale": "s. 14 'anna tagasi' ja s. 15 'pöörduvad' — sama juur שוב, seos kaob eesti keeles"
+    }
+  ],
+  "translation": "Siis õpetan ma üleastujaid sinu teid, ja patjad pöörduvad sinu juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/13-16.1792553020995.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "õpetan ma"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "üleastujaid"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "sinu teid"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ja patjad"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu juurde"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "pöörduvad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:40.996258585Z",
+  "model": "glm-5.3"
+}

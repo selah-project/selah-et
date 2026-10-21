@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingeline",
+      "rationale": "נפש on hingamine, elujõud, isik — mitte 'hing' keha-vaimu mõttes"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמר...ישמר",
+      "rationalale": "",
+      "rationale": "שׁמר kordus kolmandat korda; psalmi võtmesõna, eesti keeles 'hoiab' kordub samuti"
+    }
+  ],
+  "translation": "Jahve hoiab sind kogu kurja eest, ta hoiab ⟨את⟩ sinu hingelist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/121\/5-8.1792554213881.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "hoiab sind"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja eest"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ta hoiab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu hingelise"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinu hingelist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:33.882312551Z",
+  "model": "glm-5.3"
+}

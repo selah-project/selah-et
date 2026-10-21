@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "istas habemed paljaks",
+      "rationale": "ויגלחם 'ajas neid paljaks (raseerima)' — 2Sa 10:4 kontekstis on tegu habemega, solvangu kandvaks osaks"
+    },
+    {
+      "kind": "crux",
+      "subject": "המפשעה",
+      "rationale": "Sammuse, säärevahe euufeemism: 'istmejoon' vs traditsiooniline 'tagumikuni'"
+    }
+  ],
+  "translation": "Siis Hanun võttis ⟨את⟩ Davidi teenrid ja ajas neil habemed paljaks, ja lõikas ⟨את⟩ nende rõivad pooleks kuni istmejooneni, ja saatis nad ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/19\/1-4.1792557443730.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "võttis"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi teenrid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "teenrid"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "ajas neil paljaks"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ja lõikas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende rõivad"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "nende rõivad"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "pooleks"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "istmejooneni"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ja saatis nad ära"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:23.732287715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeriv verb, eesti nõuab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "זלעפה",
+      "rationale": "põletav viha\/horror vs põud — haruldane sõna, tõlkijad valivad 'tuska', 'hirmu' või 'raevu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuumtus",
+      "rationale": "זלעפה on sõna-sõnalt 'põlemine\/hõõgumine', köLinekmet tungi pilt"
+    }
+  ],
+  "translation": "Kuumtus ⟨on⟩ mind haaranud halbade pärast, kes sinu Toora hülgavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/53-56.1792554014448.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "kuumtus"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "haaranud mind"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "halbade pärast"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "kes hülgavad"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sinu Toora"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:14.449365224Z",
+  "model": "glm-5.3"
+}

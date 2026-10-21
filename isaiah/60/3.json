@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tulevad",
+      "rationale": "הלכו on sõna-sõnalt 'kõnnivad' — JPS 'shall walk at thy light' vs KJV 'come'."
+    }
+  ],
+  "translation": "Ja rahvad tulevad su valguse juurde ja kuningad su koitma särale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/60\/1-4.1792547805840.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Ja ... tulevad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "su valguse juurde"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ja kuningad"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "särale"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "su koitma"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:45.844195424Z",
+  "model": "glm-5.3"
+}

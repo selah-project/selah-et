@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישא",
+      "rationale": "'Tõsta' objekt (kõri\/hääl) on heebreas varjatud — kordub järgmises verbis ישמיע קולו"
+    }
+  ],
+  "translation": "Ta ei karju ega tõsta ega lase oma häält kuulda väljakul.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/42\/1-4.1792547393311.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "karju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "tõsta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "lase kuulda"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "väljakul"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "oma häält"
+    }
+  ],
+  "timestamp": "2026-10-21T01:49:53.311983040Z",
+  "model": "glm-5.3"
+}

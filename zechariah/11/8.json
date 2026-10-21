@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kolm karjust",
+      "rationale": "kes on kolm karjust, keda ühe kuuga hävitati —lähimineviku kuningad, prohvetid või võimumehed — on tuntud lahendamatu küsimus."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ותקצר נפשי",
+      "rationale": "sõn-sõnalt 'ja mu nefesh lühenes nende peal' = sai kannatamatuks; eesti idiom kasutab 'kannatus katkes' pilti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on elujõud\/hingamine, mitte 'hing' Cartesiauste mõttes; jäetud kõlana nefesh."
+    }
+  ],
+  "translation": "Ja ma hävitasin ⟨את⟩ kolm karjust ühe kuu jooksul, ja mu nefesh sai kannatamatuks nende suhtes, ja ka nende nefesh noris minust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/11\/5-8.1792552124186.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "ja ma hävitasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolm karjust"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "karjust"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ühe kuu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ja sai lühikeseks\/kannatamatuks"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefesh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nende suhtes"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende nefesh"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "noris"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:08:44.187873650Z",
+  "model": "glm-5.3"
+}

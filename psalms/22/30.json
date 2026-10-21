@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kurgus\/elujõud, mitte immateriaalne hing"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונפשו לא חיה",
+      "rationale": "'ja tema nefesh ei elanud' — 'kes ei saa elus hoida oma hinge' (KJV) vs 'kelle hing pole elustatud' (YLTe lähedane)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "maa rasvased",
+      "rationale": "דשני ארץ sõnasõnalt 'maa rasvased' = rikkad, jõukad"
+    }
+  ],
+  "translation": "Söövad ja kummarduvad kõik maa rasvased tema ees; langetavad põlvi kõik tolmusse laskujad, ja kes ei ole saanud elavaks oma hinge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/29-32.1792552564068.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "söövad"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kummarduvad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "maa rasvased"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "langetavad põlvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "tolmusse laskujad"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tolm"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ja oma hinge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "saanud elavaks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:04.070249559Z",
+  "model": "glm-5.3"
+}

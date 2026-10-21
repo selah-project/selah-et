@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 27:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨võib⟩ · ⟨selle⟩",
+      "rationale": "Heebrea jätab subjekti ja objekti asesõna mainimata; kontekst (järgmine rikkal kogutud varast) nõuab eesti keeles lisa"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכין ... ילבש",
+      "rationale": "Kes valmistab ja kes kannab: kas rikkus kogub, aga õigane saab selle (KJV\/JPS), või õiglane ise valmistab (väiksem rõhk)"
+    }
+  ],
+  "translation": "Tema ⟨võib⟩ valmistada, aga õiglane paneb ⟨selle⟩ selga, ja hõbeda jagab süütu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "24fc5a709e77503ddc4f71ba9a6dd18a8a312680d14654d7ec564172bd51f070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/27\/17-20.1792555469492.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכין",
+      "gloss": "valmistada"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "aga õiglane"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "paneb selga"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ja hõbe"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "süütu"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "jagab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:29.492972192Z",
+  "model": "glm-5.3"
+}

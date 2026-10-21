@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nahum 2:6",
+  "book": "nahum",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea passiiv puudub tegusõnaga; eesti keel vajab koppelduvat 'on'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הסכך",
+      "rationale": "Kaitsekate piiramismasina kohal (ASV 'mantelet') vs laiem 'kate\/kaitse'."
+    }
+  ],
+  "translation": "Ta meenutab oma vägevaid, nad komistavad oma käimises; nad kiirustavad tema müürile, ja varjukate ⟨on⟩ ette valmistatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nahum\/2\/5-8.1792551592931.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "meenutab"
+    },
+    {
+      "surface": "אדיריו",
+      "gloss": "oma vägevaid"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "komistavad"
+    },
+    {
+      "surface": "בהלכותם",
+      "gloss": "oma käimises"
+    },
+    {
+      "surface": "ימהרו",
+      "gloss": "kiirustavad"
+    },
+    {
+      "surface": "חומתה",
+      "gloss": "tema müürile"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "ja ⟨on⟩ ette valmistatud"
+    },
+    {
+      "surface": "הסכך",
+      "gloss": "varjukate"
+    }
+  ],
+  "timestamp": "2026-10-21T02:59:52.931736493Z",
+  "model": "glm-5.3"
+}

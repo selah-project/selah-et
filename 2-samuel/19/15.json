@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kui ühe mehe süda",
+      "rationale": "Väljend 'nagu ühe mehe südant' tähistab üksmeelt — kõik Juuda mehed nagu üks mees"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Pöördu tagasi",
+      "rationale": "Juuda meeste sõnum kutsub kuningat tagasi pöörduma"
+    }
+  ],
+  "translation": "Ja ta kummutas ⟨את⟩ kõigi Juuda meeste südant kui ühe mehe süda, ja nad saatsid kuningale sõna: Pöördu tagasi sina ja kõik su teenrid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/19\/13-16.1792544909369.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ja ta kummutas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "südant"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "kui ühe mehe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ja nad saatsid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "su teenrid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:08:29.372729336Z",
+  "model": "glm-5.3"
+}

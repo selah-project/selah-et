@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olid⟩ ⟨olemas⟩",
+      "rationale": "Heebreal puudub kopeel; תמול 'eile' on määrsõna, mitte öeldis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמול \/ צל",
+      "rationale": "lühidus (eile) ja varju kõrvutus — inimese elu möödub hetkega nagu vari"
+    },
+    {
+      "kind": "substitution",
+      "subject": "varjuks",
+      "rationale": "צל 'vari, varjupaik' — elu kui varitsev kuma, mitte pelgalt lühike aeg"
+    }
+  ],
+  "translation": "Sest eile ⟨olid⟩ meie ⟨olemas⟩ ega tea me midagi, sest varjuks ⟨on⟩ meie päevad maa peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "beda7c3bb7c108b4aa7fdd86ab6bfa2626227bdffa1ec19deae0163fd119070c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/8\/9-12.1792555182584.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "eile"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "meie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "teagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "צל",
+      "gloss": "varjuks"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "meie päevad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:42.585227320Z",
+  "model": "glm-5.3"
+}

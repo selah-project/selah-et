@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שׁלמה\/רשעים",
+      "rationale": "Tasu (šelumat) pärineb juurest šalom — 'kätte makstud rahu'; tasu ja õeluse vastandus on eesti keeles tasakaalustatud, kuid juur on kadunud."
+    }
+  ],
+  "translation": "Ainult oma silmadega sa vaatad ja näed õelaste tasu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/5-8.1792553654432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "oma silmadega"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "vaatad"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ja tasu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelaste"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:14.435527692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעת אל עת",
+      "rationale": "sõna-sõnalt 'ajast ajani', tõlgitud kui 'ajast ajaga' — korduva vahelduse mõte"
+    },
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "eesti keel vajab kaassõna ja oleviku, heebrea neid ei ütle"
+    }
+  ],
+  "translation": "Ja nende vendadega, kes ⟨olid⟩ nende asulates, tuli seitsmeks päevaks kohale, ajast ajaga, nendega ühes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1b8dc48d5a3604b0302f45d6d77293ebb155ed27dbe38e16f5dba3809841791b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/9\/25-28.1792557303528.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "ja nende vendadega"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "nende asulates"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tuli kohale"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "seitsmeks"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päevaks"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "ajast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ajaga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ajaga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ühes"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nendega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:03.529516198Z",
+  "model": "glm-5.3"
+}

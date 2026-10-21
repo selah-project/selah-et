@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבותם אחר מהרו",
+      "rationale": "עצב mitmus tähendab nii 'ebajumalad' kui 'valud'; KJV loeb 'nende valud paiskab neid tagasi (teise jumala) juurde', JPS 'nende ebajumalad olgu paljundatud'; עצבותם on genitiivikonstruktsioon ja tõlgendus on vana vaieldav koht."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נסכיהם",
+      "rationale": "נסך on ohvervedelik või valatud kujutis; 'niiskused verest' hoiab sõna kuju, tavaline tõlge on 'ohvrivalamised'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אחר",
+      "gloss-märkus": "'teine\/teise (jumala) järel' — kontekstist on objekt puudu, eesti tõlge lisab ⟨teise jumala⟩ mõistmiseks."
+    }
+  ],
+  "translation": "Nende ebajumalade valu paiskab neid tagasi ⟨teise jumala⟩ juurde; ma ei vala välja nende vereniiskusi, ega tõsta ma ⟨את⟩ nende nimesid oma huultele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/16\/1-4.1792552432988.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "paiskab"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "nende ebajumalade valu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "tagasi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "kiirustades"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ma valan välja"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "nende niiskused"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verest"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ega"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "tõsta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende nimesid"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "nende nimesid"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "oma huulte"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:52.990163431Z",
+  "model": "glm-5.3"
+}

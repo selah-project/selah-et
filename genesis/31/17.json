@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel nõuab omadussõna, heebrea kaudkääne ilma selleta"
+    }
+  ],
+  "translation": "Ja Jaakov tõusis ja tõstis ⟨את⟩ oma pojad ning ⟨את⟩ oma naised kaamelite peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/17-20.1792537839924.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja Jaakov tõusis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja tõstis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma pojad"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oma pojad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ning ⟨את⟩",
+      "marks": "oma naised"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "oma naised"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "kaamelite"
+    }
+  ],
+  "timestamp": "2026-10-20T23:10:39.924720442Z",
+  "model": "glm-5.3"
+}

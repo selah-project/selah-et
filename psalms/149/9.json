@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hastid",
+      "rationale": "חסיד on 'hastid' (lojaalne, pühendunud), mitte 'pühak' — hoian heebrea sõna kuju."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨asjas⟩ ⟨mis on⟩",
+      "rationale": "Eesti keel vajab täpsustavaid sõnu, mis heebrea liideses vaikivad."
+    },
+    {
+      "kind": "crux",
+      "subject": "see on hiilgus",
+      "rationale": "KJV\/BSB: 'au on kõigile tema pühadele' vs JPS: 'tema (Jahve) on kõigi tema hastide hiilgus' — הוא võib viidata JHVH-le."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Halael-Jah!",
+      "rationale": "Imperatiivne üleskutse lugejale Jahi kiitma."
+    }
+  ],
+  "translation": "Ette teha nendes ⟨asjas⟩ kohus, ⟨mis on⟩ kirja pandud; see on hiilgus kõigile tema hastidile. Halael-Jah!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "160c2a340697673a20fbb6ffed151693873661293a24c2ec985b104fe9f2e0c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/149\/9-9.1792554425830.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ette teha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nendes"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohus"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "kirja pandud"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hiilgus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see on"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "tema hastid"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halael"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:05.831202567Z",
+  "model": "glm-5.3"
+}

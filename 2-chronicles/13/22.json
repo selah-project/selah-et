@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 13:22",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab kopeela, heebrea passiivsed osastavad seda ei sisalda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "midraš",
+      "rationale": "מדרש tähendab 'uurimist, esitust' — hoitud heebrea kõnena, mitte 'kroonika' ega 'loost'."
+    }
+  ],
+  "translation": "Ülejäänud Avija asjad ja tema teed ning tema sõnad ⟨on⟩ kirja pandud prohveti Iddo midrašis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ca13cf73f251460d02be4f2e656a6bd7b95d67e0a15a12dd41fd7200891631f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/13\/21-23.1792557830267.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Ülejäänud"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asjad"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avija"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "ja tema teed"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ning tema sõnad"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kirja pandud"
+    },
+    {
+      "surface": "במדרש",
+      "gloss": "midrašis"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prohveti"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "Iddo"
+    }
+  ],
+  "timestamp": "2026-10-21T04:43:50.268449061Z",
+  "model": "glm-5.3"
+}

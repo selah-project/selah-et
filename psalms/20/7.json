@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 20:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võidetu",
+      "rationale": "משיחו on 'tema võitu' (kuningas), mitte 'Messias'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הושיע\/ישע",
+      "rationale": "sama juur ישע kaks korda salmis; eesti 'päästab\/pääste' säilitab kõla"
+    }
+  ],
+  "translation": "Nüüd ma tean, et Jahve päästab oma võidetu; vastab talle oma pühast taevast, oma parema käe päästeväega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/20\/5-8.1792552454686.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "päästab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "oma võidetu"
+    },
+    {
+      "surface": "יענהו",
+      "gloss": "vastab talle"
+    },
+    {
+      "surface": "משמי",
+      "gloss": "oma taevast"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pühast"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "väega"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "pääste"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oma parema käe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:14.687714550Z",
+  "model": "glm-5.3"
+}

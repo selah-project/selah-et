@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מוסרותימו",
+      "rationale": "sõna tähendab nii õppimist\/piitsutust kui ahelat — siin köit\/paelu, kujund"
+    }
+  ],
+  "translation": "„Rebime katki ⟨את⟩ nende köied ja heidame meist minema nende paelud.“",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/2\/1-4.1792552158951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Rebime katki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende köied"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "nende köied"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ja heidame minema"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "meist"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "nende paelud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:18.952499798Z",
+  "model": "glm-5.3"
+}

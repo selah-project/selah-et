@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 50:7",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נוה צדק",
+      "rationale": "'tsedeki karjamaa' (karjapilt, nagu BSB) vs 'õiguse eluase' (elupaik, KJV\/JPS 'habitation of justice')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neidsid nad ära",
+      "rationale": "אכלום sõnasõnalt 'sõid nad'; kujundlik hävitamine"
+    }
+  ],
+  "translation": "Kõik, kes nad leidsid, neidsid nad ära, ja nende vaenlased ütlesid: me ei ole süüdi, sest nad pattusid Jahve vastu, tsedeki karjamaa ja nende isade lootuse, Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/50\/5-8.1792549420069.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "kes-nad-leidsid"
+    },
+    {
+      "surface": "אכלום",
+      "gloss": "neidsid-nad-ära"
+    },
+    {
+      "surface": "וצריהם",
+      "gloss": "ja-nende-vaenlased"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ütlesid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "נאשם",
+      "gloss": "ole-süüdi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nad-pattusid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve-vastu"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "karjamaa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומקוה",
+      "gloss": "ja-lootus"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "nende-isade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:23:40.072736439Z",
+  "model": "glm-5.3"
+}

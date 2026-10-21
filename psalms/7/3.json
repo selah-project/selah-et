@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elujõud",
+      "rationale": "נפש on hingamine, kõri, elujõud — mitte 'hing' kehalise-vaimuliku vastanduse mõttes."
+    },
+    {
+      "kind": "crux",
+      "subject": "פרק",
+      "rationale": "Partitsiip 'põkkamas\/rebimas': KJV 'rending it in pieces' vs tõlgendus 'tehes puhta töö, kuni (lõpetab)'; lause on lõpetamata ja varieeruv."
+    }
+  ],
+  "translation": "et ta ei kiskuks nagu lõvi kallale mu elujõule, kui päriselt kiskuma ja pole kedagi, kes päästaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/1-4.1792552300674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "kiskuks kallale"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "nagu lõvi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu elujõule"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "päriselt kiskuma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja pole"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kes päästaks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:40.675916359Z",
+  "model": "glm-5.3"
+}

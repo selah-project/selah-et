@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חכלילי",
+      "rationale": "חַכְלִיל 'tumedalt särama (silmadest)' ilmub Tanahhis ainult siin ja 5Ms 33:28 kõrvalvormis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tumedalt säravad",
+      "rationale": "חכלילי on erandlikult ainult silmade kohta — kas veinist tulenev läige või sügav pimedus; 'punased' (KJV) on liiga kindel"
+    }
+  ],
+  "translation": "Tumedalt säravad silmad veinist ja hambad on piimast valged.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/49\/9-12.1792538213723.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "tumedalt säravad"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silmad"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "veinist"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "on valged"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "hambad"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "piimast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:16:53.724554254Z",
+  "model": "glm-5.3"
+}

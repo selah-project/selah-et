@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/elujõud', mitte immateriaalne hinge"
+    },
+    {
+      "kind": "crux",
+      "subject": "süüdistavad",
+      "rationale": "ירשיעו tähendab nii 'kuulutavad süüdi' kui 'teevad ülbeks\/rikkuvad'; valitud õiguslik tähendus"
+    }
+  ],
+  "translation": "Nad tungivad kokku õige hinge vastu ja süüdistavad süütut verd.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/94\/21-23.1792553749143.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "Nad tungivad kokku"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hinge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ja verd"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "süütut"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "süüdistavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:49.143496201Z",
+  "model": "glm-5.3"
+}

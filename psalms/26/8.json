@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Otsene pöördumine Jahve poole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškan",
+      "rationale": "משכם jääb miškaniks, mitte 'kogudusetelk'"
+    }
+  ],
+  "translation": "Jahve, ma armastasin su koja eluaset ja su au miškani paika.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/26\/5-8.1792552544364.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ma armastasin"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "eluaset"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "su koja"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ja paika"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškani"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "su au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:44.366114757Z",
+  "model": "glm-5.3"
+}

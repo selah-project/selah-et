@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaakum",
+      "rationale": "חטאת tähendab nii pattu kui patuohvrit; eesti valib ohvri tähenduse konteksti järgi"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea jaatav kõneviis nõuab eesti keeles asesõna"
+    }
+  ],
+  "translation": "Ja preester võtab oma sõrmega vaakumi verest ja paneb põletusohvri altari sarvedele ning ⟨את⟩ selle vere valab ta põletusohvri altari vundamendile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f3de7bc05e6a09352645a24e433fe137da922cc9cdf8fa7bdd64fe6a44ff8020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/4\/25-28.1792539157882.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ja võtab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verest"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "vaakumist"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "oma sõrmega"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja paneb"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "sarvedele"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "põletusohvri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "selle verre"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "selle vere"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "valab ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "vundamendile"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "põletusohvri"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:37.882833326Z",
+  "model": "glm-5.3"
+}

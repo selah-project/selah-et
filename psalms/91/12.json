@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "komistaks",
+      "rationale": "נגף on otseselt 'põrkuma, jalga tõmbama' — kivi vastu"
+    }
+  ],
+  "translation": "Kätele kannavad nad sind üles, et sa ei komistaks kivi oma jalga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/9-12.1792553609086.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kätele"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "kätele"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "kannavad nad sind üles"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et sa ei"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "komistaks"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "oma jalga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:29.088466567Z",
+  "model": "glm-5.3"
+}

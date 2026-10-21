@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדקה → tsedekit",
+      "rationale": "Reegli kohaselt tsedek ilma 'õiguseks' taandamata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפט ... משפט",
+      "rationale": "Sõna kordus jae sees — rõhutab kohtu teemat, eesti keeles säilinud 'kohust ... kohust'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועז מלך",
+      "rationale": "'ja kuninga vägi' (määrus) vs 'kuningas, kes armastab kohust' (JPS loeb עז kuninga epiteedina 'vägev kuningas')"
+    },
+    {
+      "kind": "you",
+      "subject": "sina",
+      "rationale": "Pöördumine otse Jumala poole teises tegelasooes"
+    }
+  ],
+  "translation": "Ja kuninga vägi — kohust armastab sina; sina oled rajanud õigsuse; kohust ja tsedekit Jaakobis sina tegid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/99\/1-4.1792553707727.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuniga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohust"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "rajasid"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "õigsuse"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohust"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedekit"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakobis"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tegid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:07.728989462Z",
+  "model": "glm-5.3"
+}

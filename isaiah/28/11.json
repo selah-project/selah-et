@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלעגי",
+      "rationale": "KJV 'stammering' (nõrkemeelne) versus YLT\/BSB 'mocking\/scorned' (mõnitav) — sõna võib tähendada nii mumistavat kõnet kui võõrast mõnitajat."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea puudub subjekt; eesti keeles vajalik sõnastuslik subjekt ⟨ta⟩."
+    },
+    {
+      "kind": "mystery",
+      "subject": "kõne võõras keeles",
+      "rationale": "Järgmine salm näitab, et see on peidetud\/mõistatuslik kõne, mida rahvas ei taha kuulda."
+    }
+  ],
+  "translation": "Sest möögas huulte ja teise keelega räägib ⟨ta⟩ sellele rahvale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "11b4fd3a9c5cf7373b84b5d72b8c2fac7240a7d45b8f3e621607bd29708931da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/28\/10-11.1792558368567.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "möögas"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "huulte"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ja teise keelega"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "teise"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sellele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:48.568551082Z",
+  "model": "glm-5.3"
+}

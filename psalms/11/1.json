@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinge",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte immateriaalne 'hing'"
+    },
+    {
+      "kind": "crux",
+      "subject": "rända linnuna oma mäele",
+      "rationale": "נודו הרכם צפור: kellele see käsutab — põgenejaile üldiselt võiDavditi enesele; 'teie mägi' lubab põgenemist nagu lind"
+    },
+    {
+      "kind": "you",
+      "subject": "keegi põgenemist nõudvatest",
+      "rationale": "kõne muudab psalmi dialoogiks: nõustajad ütlevad psalmistile 'põene'"
+    }
+  ],
+  "translation": "Koorijuhatajale. Davidi psalm. Jahve juures olen varju võtnud — kuidas ütlete mu hingele: Rända linnuna oma mäele?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/11\/1-4.1792552344549.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi psalm"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve juures"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "olen varju võtnud"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ütlete"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mu hingele"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "rända"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "oma mäele"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "linduna"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:24.550652337Z",
+  "model": "glm-5.3"
+}

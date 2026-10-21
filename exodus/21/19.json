@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Asesõna lisatud selguseks: lööja tasub ohvri puhkuse eest"
+    },
+    {
+      "kind": "substitution",
+      "subject": "puhkus",
+      "rationale": "שבתו tähendab 'tema seismist\/puhkamist' — haigusle oldud aeg ja sellest tulenev kaotus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ורפא ירפא",
+      "rationale": "Infinitivus absolutus: 'tervendades tervendab' — täielik kohustus, eesti keeles nõrgeneb"
+    }
+  ],
+  "translation": "kui ta tõuseb ja käib õues oma kepi toel, siis jääb lööja süüta; ainult tasub ta ⟨tema⟩ puhkuse ja tervenemise ta tervendab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/17-20.1792538698519.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ta tõuseb"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "ja käib"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "õues"
+    },
+    {
+      "surface": "על",
+      "gloss": "toel"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "oma kepi"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "siis jääb süüta"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "lööja"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "puhkuse"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "tasub ta"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ja tervenemise"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "ta tervendab"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:58.520920382Z",
+  "model": "glm-5.3"
+}

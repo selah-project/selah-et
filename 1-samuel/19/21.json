@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 19:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rääkisid prohvetlikult",
+      "rationale": "välditakse sõna 'ennustasid', mis D2 järgi on נביא jaoks tagasi lükatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם המה",
+      "rationale": "korduv refrään 'ka nemad' kolm korda, eesti kaotab rütmi osaliselt"
+    }
+  ],
+  "translation": "Ja teatati Šaulile, ja ta saatis teisi sõnumitoojaid, ja ka nemad rääkisid prohvetlikult; ja Šaul lisas ning saatas kolmandat korda sõnumitoojad, ja ka nemad rääkisid prohvetlikult.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "968640c62f64dd850335c1eaf20d1bfa4874addaf5de62b176c881170ba92811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/19\/21-24.1792544224073.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ja teatati"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulile"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja ta saatis"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sõnumitoojad"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "teisi"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "rääkisid prohvetlikult"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ja lisas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatis"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sõnumitoojad"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmandat korda"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "rääkisid prohvetlikult"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    }
+  ],
+  "timestamp": "2026-10-21T00:57:04.073990091Z",
+  "model": "glm-5.3"
+}

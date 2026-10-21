@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "התימני",
+      "rationale": "Teemani — Temani (Teemani) on Teemani inimese järguline nimetus, tõlgitud nime kaudu, mitte lihtsalt 'lõunamaa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ja ... ning 'ja'",
+      "rationale": "Eesti vajab korduvateks wayyiqtol-ahelateks sidesõna; heebrea järgnevusest on see kaasatud."
+    }
+  ],
+  "translation": "Ja Jovav suri, ja tema asemele hakkas valitsema Huusham Teemani maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "742549d6c0bd682ab1d4fc47b97c0c2b432ca09cc421c500ccc5e811972928df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/1\/45-48.1792557113913.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ja ... suri"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jovav"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "hakkas valitsema"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "tema asemele"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Huusham"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Teemani"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:53.914212501Z",
+  "model": "glm-5.3"
+}

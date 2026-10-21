@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Toorat",
+      "rationale": "תורתיו jääb nimeks Toora, mitte 'seadused'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמרו\/ינצרו",
+      "rationale": "kaks 'hoidma' tüve paaris — eesti keeles eraldatud 'pidama\/täitma'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Halleluu-Jah",
+      "rationale": "kõne kutsub kogudust üles kiitma"
+    }
+  ],
+  "translation": "Selleks et nad pidaksid tema määrusi ja täidaksid tema Toorat. Halleluu-Jah!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e1ebe7267b8e6df7da5f67b082a68150ef37cb5a8e473d80d2acb2c155e5af9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/45-45.1792553763335.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "selleks et"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "nad pidaksid"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "tema määrusi"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ja tema Toorat"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "täidaksid"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halleluu-"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:03.335706278Z",
+  "model": "glm-5.3"
+}

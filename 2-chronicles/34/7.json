@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ašeerad",
+      "rationale": "האשרים on Asjera nime kandvad kujud, mitte 'heinamaad' (KJV 'groves')"
+    },
+    {
+      "kind": "hapax-kontekst",
+      "subject": "חמנים",
+      "rationale": "päikesesambad — kaksikute fraasi liik; sõna viitab päikesejuhatustele, KJV 'idols' hägustab"
+    }
+  ],
+  "translation": "Ja ta lõhkus ⟨את⟩ altarid ja ⟨את⟩ ašeerad, ja kivikujud purustas ta põrmuks, ja kõik päikesesambad raius ta maha kogu Jisraeli maal, ja ta pöördus tagasi Jerušalaimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "261d8261f136a4af713a37ab7c9e3b06b2f33404cf8f0dfb9dc10eed59bd6fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/34\/5-8.1792558207751.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "ja lõhkus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarid"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ašeerad"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašeerad"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "ja kivikujud"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "purustas"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "põrmuks"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "päikesesambad"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "raius maha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja pöördus tagasi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:50:07.753631289Z",
+  "model": "glm-5.3"
+}

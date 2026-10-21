@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "perfekt vs tulevik",
+      "rationale": "Heebrea perfekt võib siin olla tulevikuline tähendusega (KJV 'shall build'), valisin perfekti (YLT\/ASV järgi)."
+    }
+  ],
+  "translation": "Sest Jahve on üles ehitanud Siioni, ta on ilmunud oma hiilguses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/17-20.1792553710534.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "on üles ehitanud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "on ilmunud"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "oma hiilguses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:10.534474829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 4:17",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea ei saa kopulat; vordlus 'lähemal kui' on vajalik eesti keeles"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתת הכסילים זבח",
+      "rationale": "Literaarselt 'kui rumalad annavad ohvri'; JPS loeb 'parem on kuulata kui rumalate ohver' — vordluse asjus lahknevad tõlkijad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "האלהים jaab Elohimi kujul, mitte 'Jumal'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "loeja",
+      "rationale": "Käsk 'hoia oma jalgu' poördub otse lugeja poole"
+    }
+  ],
+  "translation": "Hoia oma jalgu, kui sa lähad Elohimi kotta, ja ⟨on⟩ lähemal kuulda kui rumalate ohvri andmine, sest nemad ei tea, et nad teevad kurja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c4c40bfc66b7e8e7dd4175a5c71ccfeea7371971a9eea5a61070d695542db2b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/4\/17-17.1792556037236.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hoia"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "oma jalgu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sa lähad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kotta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kotta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ja ⟨on⟩ lähemal"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "kuulda"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "kui annavad"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "rumalate"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ohvri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nemad ei"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "tea"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "teevad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:57.236564853Z",
+  "model": "glm-5.3"
+}

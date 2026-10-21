@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõmbasid hinge",
+      "rationale": "נפש 'hingas\/puhkas' — 'puhkas' on tagasihoidlik; heebrea ütleb 'või sai hingata'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Heebrea וינפש on ainsuses (kuningas), eesti kõneleb kogu seltskonnast."
+    }
+  ],
+  "translation": "Ja kuningas ja kogu rahvas, kes ⟨את⟩ temaga oli, tulid väsinuna, ja seal nad ⟨tõmbasid⟩ hinge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/16\/13-16.1792544788503.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tulid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga",
+      "marks": "temaga"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "väsinuna"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ja tõmbasid hinge"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-21T01:06:28.509897074Z",
+  "model": "glm-5.3"
+}

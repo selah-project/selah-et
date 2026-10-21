@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 16:11",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel nõuab omastavat pronoomeni, heebrea לו ütleb lihtsalt 'tema jaoks'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעדו ובעד ביתו",
+      "rationale": "Korduv בעד 'eest' teeb kajava paralleeli 'oma eest ja oma pere eest', mis eesti keeles osaliselt säilib."
+    }
+  ],
+  "translation": "Ja Aharon toob lähedale ⟨את⟩ patuohvri pulli, kes tema oma on, ja teeb lepitust oma eest ja oma pere eest, ning slaubib ⟨את⟩ patuohvri pulli, kes tema oma on.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/16\/9-12.1792539425817.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ja-toob-lähedale"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patuohvri pulli"
+    },
+    {
+      "surface": "פר",
+      "gloss": "pulli"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "patuohvri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema oma"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja-teeb-lepitust"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "oma eest"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja-eest"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oma pere"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja-slaubib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patuohvri pulli"
+    },
+    {
+      "surface": "פר",
+      "gloss": "pulli"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "patuohvri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema oma"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:05.818751568Z",
+  "model": "glm-5.3"
+}

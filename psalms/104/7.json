@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מן גערתך",
+      "rationale": "Tõlgitud 'sinu käsu peale'; sõnasõnalt 'su käsu (noomituse) eest'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "käsk",
+      "rationale": "גערה on noomimus, ähvardav käsk — 'käsk' üksi on liiga leige"
+    }
+  ],
+  "translation": "Sinu käsu peale põgenevad nad, sinu äikesekõle peale kiirustavad nad minema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/5-8.1792553773528.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "peale"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "Sinu käsu"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "põgenevad nad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "peale"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kõle"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sinu äikesekõle"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "kiirustavad nad minema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:13.530110403Z",
+  "model": "glm-5.3"
+}

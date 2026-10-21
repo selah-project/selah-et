@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Eesti keel nõuab kopolat; heebrea puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lunastuse kalju",
+      "rationale": "צור ישועתי sõna-sõnalt 'minu-päästmise kalju'; 'lunastuse kalju' on eesti kujund, lähim tähendusele"
+    },
+    {
+      "kind": "you",
+      "subject": "kuningas Taavetile",
+      "rationale": "Jumal räägib kuningast, kes omakorda pöördub Jumala poole: 'Sa oled mu isa'"
+    }
+  ],
+  "translation": "Tema hüüab minu poole: Sa oled mu isa, mu El ja mu lunastuse kalju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/25-28.1792553628867.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "hüüab minu poole"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa oled"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mu El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ja kalju"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mu lunastuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:48.868649533Z",
+  "model": "glm-5.3"
+}

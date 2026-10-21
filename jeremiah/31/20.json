@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 31:20",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחם ארחמנו",
+      "rationale": "infinitiivi absoluut koos finiitverbiga: 'halastades halastan' — tugevdatud kindel lubadus"
+    },
+    {
+      "kind": "crux",
+      "subject": "זכר אזכרנו",
+      "rationale": "kokkukeritud kordus 'mäletades mäletan teda veel' — tavaliselt tõlgitud lihtsalt 'mäletan teda ikka veel'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעי",
+      "rationale": "'sisikond, sooled' kui kaastunde iste — eesti 'sisikond' säilitab kehalisuse, mida 'süda' kaotaks"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבן יקיר",
+      "rationale": "küsimus või väitis: 'kas Efraim on mulle kallis poeg?' (KJV, JPS) vs 'Efraim on mulle kallis poeg' (Wycliffe) — heebrea הֲ küsimusepartikkel viitab küsimusele"
+    }
+  ],
+  "translation": "Kas Efraim on mulle kallis poeg, hõlmu laps? Iga kord, kui ma temast räägin, mäletan ma teda ikka veel; seepärast kõhkub mu sisikond tema pärast, halastades halastan ma teda, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a376f08c9d7f899c2c8e8ac50c0b0b5ae1a6749ce6dc3be31292fabfd22fff8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/31\/17-20.1792548899846.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבן",
+      "gloss": "kas ... poeg"
+    },
+    {
+      "surface": "יקיר",
+      "gloss": "kallis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "laps"
+    },
+    {
+      "surface": "שעשעים",
+      "gloss": "hõlmu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "iga kord, kui"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ma räägin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mäletan"
+    },
+    {
+      "surface": "אזכרנו",
+      "gloss": "ma mäletan teda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ikka veel"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "המו",
+      "gloss": "kõhkub"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mu sisikond"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema pärast"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "halastades"
+    },
+    {
+      "surface": "ארחמנו",
+      "gloss": "halastan ma teda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:14:59.849122872Z",
+  "model": "glm-5.3"
+}

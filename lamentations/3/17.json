@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on lähemal 'kurgule\/elujõule' kui 'hingele'"
+    },
+    {
+      "kind": "crux",
+      "subject": "heites subjekti",
+      "rationale": "KJV lisab 'thou' (sina, Jahve); heebrea tegevussõnal puudub ütluses subjekt"
+    }
+  ],
+  "translation": "Ja kõrvale heideti mu hing rahust, unustasin ⟨heasolu⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/17-20.1792555914898.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "ja kõrvale heideti"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "rahust"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "unustasin"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "heasolu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:54.899085889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea ei üelda koopulat ega võrdlusmärksõna; kõrvaleseisatus on nimisõnaline"
+    },
+    {
+      "kind": "substitution",
+      "subject": "suutäis",
+      "rationale": "פת on üks paarisõna — üks suutäis leiba, mitte kogu söögikord"
+    }
+  ],
+  "translation": "Parem on kuiv suutäis ja rahu sellega kui ⟨on⟩ maja, täis tapatalusid, aga tüliga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/17\/1-4.1792554828453.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "פת",
+      "gloss": "suutäis"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "kuiv"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "ja rahu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sellega"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kui maja"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täis"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "tapatalusid"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tüli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:48.454531396Z",
+  "model": "glm-5.3"
+}

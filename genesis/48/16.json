@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וידגו",
+      "rationale": "verb pärineb kalade marjastamisest — 'kasvagu nagu kalad' hoiab kala-pildi, mis eesti tavatõlkes 'kasvagu paljudeks' kaotab"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלאך",
+      "rationale": "'ingel' vs 'sõnumitooja' — malakh on kumbki; siin loetav isikuna, kes Jisraeli kogu elu on kaitnud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגאל",
+      "rationale": "gool on lähisugulase-lunastaja sõna — 'lunastama' on lähim, kuid suguluse kohustus jääb tahva"
+    }
+  ],
+  "translation": "see ingel, kes ⟨את⟩ mind kogu kurjast on lunastanud, õnnistagu ⟨את⟩ neid noorukeid, ja minu nimi ja mu isade Avrahami ja Jitshaki nimi olgu neile kutsutud, ja nad kasvagu nagu kalad paljudeks maa keskel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae6a3e29f2e5d88d418ae237d58e78f162bf8464a8f9ea965299d0a3727d48c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/48\/13-16.1792538195011.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "see ingel"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "kes on lunastanud"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mind",
+      "marks": "mind"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurjast"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "õnnistagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neid noorukeid"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "neid noorukeid"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja olgu kutsutud"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "minu nimi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "mu isade"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahami"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "ja Jitshaki"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "ja nad kasvagu nagu kalad"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "paljudeks"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:16:35.013536118Z",
+  "model": "glm-5.3"
+}

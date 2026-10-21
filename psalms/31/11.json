@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "חיי otseselt 'mu elu'; eesti kõla nõuab 'mu elupäevad'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עששו",
+      "rationale": "Sama verb עשש nagu salmis 10 — korduv kahanemise kaja silmast luudeni"
+    }
+  ],
+  "translation": "Sest lõppes kurvuses mu elupäevad ja mu aastad ohkamises; minu süü tõttu on vääratanud mu jõud ja mu luud on kahanenud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21e5a0a01b61be25b7de9ab34374bae0c4876a2846f4b534e6e92c533057e93b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/10-11.1792558574776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "lõppes"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "kurvuses"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elupäevad"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ja mu aastad"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ohkamises"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "on vääratanud"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "minu süü tõttu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mu jõud"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ja mu luud"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "on kahanenud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:14.785848809Z",
+  "model": "glm-5.3"
+}

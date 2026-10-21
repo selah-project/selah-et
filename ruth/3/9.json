@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "äär",
+      "rationale": "כנף on tiib\/kuule äär; 'kuue äär' laiendab, kuid 'tiib' oleks liiga linnulik"
+    },
+    {
+      "kind": "idiom",
+      "subject": "laota oma kuue äär",
+      "rationale": "פרש כנף — kaitse- ja abiellumismärk; sõna-sõnalt 'laota oma tiiva'"
+    },
+    {
+      "kind": "you",
+      "subject": "Boas Routile",
+      "rationale": "Boasi küsimus ja Ruthi vastus otse köites"
+    }
+  ],
+  "translation": "Ja ta ütles: Kes sina ⟨את⟩ oled? Ja tema ütles: Mina olen Rutt, su teenijanna — laota oma kuue äär oma teenijanna kohale, sest sina oled lunastaja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/3\/9-12.1792555895663.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ta ütles"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "oled? Ja tema ütles"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "רות",
+      "gloss": "olen Rutt"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "su teenijanna"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "laota"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "oma kuue äär"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohale"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "oma teenijanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lunastaja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina oled"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:35.664292578Z",
+  "model": "glm-5.3"
+}

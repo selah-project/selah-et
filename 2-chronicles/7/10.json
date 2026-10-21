@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 7:10",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kuupäev",
+      "rationale": "Eesti keeles peab täpsustama 'kolm ja kakskümmend' kui 'kaheteistkümne[ndal] … päeval' — heebrea loendab 'kakskümmend ja kolm'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טובי לב \/ הטובה",
+      "rationale": "Sõnamäng 'heasüdamlikud' ja 'hea(tegu)' — sama juur טוב kordub, eesti keeles osaliselt säilinud."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuupäev",
+      "rationale": "Kalendrimõõt: kuu seitsmenda kuu 23. päev."
+    }
+  ],
+  "translation": "Ja kaheteistkümnendal käinal kaheteistkümneneljandal päeval seitsmendas kuus saatis ta ⟨את⟩ rahva nende telkidesse, rõõmsad ja heasüdamlikud selle hea pärast, mida Jahve oli teinud Davidile ja Šelomole ja Jisraelile, tema rahvale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e78a55af438030c1d5802a1d0581fbff84d0c3fa7c46be60dbcd2bf941ee4033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/7\/9-12.1792557759025.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ja päeval"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ja kolm"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsmendas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saatis ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "לאהליהם",
+      "gloss": "nende telkidesse"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "rõõmsad"
+    },
+    {
+      "surface": "וטובי",
+      "gloss": "ja heasüdamlikud"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südames"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "ja Šelomole"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ja Jisraelile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema rahvale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:42:39.026855087Z",
+  "model": "glm-5.3"
+}

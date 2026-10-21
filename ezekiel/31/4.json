@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sügavus",
+      "rationale": "תהום on kõigutuse \/ mürgiva vee sügavus, mitte lihtsalt 'sügavus' — pilt merepõhjast, mis puud toidab."
+    },
+    {
+      "kind": "crux",
+      "subject": "naissugu jõgedel ja kanalitel",
+      "rationale": "Heebrea tekst kõneleb vetest naissoost isikuna (נהרתיה, תעלתיה — 'tema jõed, tema kanalid'); eesti ei saa sõnade läbi näidata, kes saadab — veed või puu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלוהו \/ רממתהו",
+      "rationale": "Kaks kõrvallistuvat verbi 'kasvatasid teda \/ tõstis teda' — kasvu-keele kordus, eestis jääb rütm nõrgemaks."
+    }
+  ],
+  "translation": "Vedekasvatasid teda, sügavus tõstis ta kõrgusele; ⟨את⟩ tema jõed voolasid tema istanduse ümber ja ⟨את⟩ tema kanalid saatis ta kõigi väljapuude juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b79ede7127730a1683a66ef27a39d18ce3be62ed46917bd6512c49eeace4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/31\/4-4.1792558507817.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "veded"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "kasvatasid teda"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "sügavus"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "tõstis teda kõrgusele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema jõed"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "tema jõed"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "voolasid"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "tema istanduse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema kanalid"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "tema kanalid"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "saatis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puude"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "välja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:07.819649939Z",
+  "model": "glm-5.3"
+}

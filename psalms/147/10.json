@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jahve",
+      "rationale": "heebrea osastapp konnab tegijat ülempoolt (jättes v8-st); eesti keeles lisatud ⟩Jahve⟨ ja 'talle'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחפץ\/ירצה",
+      "rationale": "kaks erinevat tegusõna 'rõõmu tundma \/ meeldima' kordub paral-leelselt kahes värssipooles — eesti keeles kahe erineva verbiga säilitatud"
+    }
+  ],
+  "translation": "Ei rõõmu Jahve hobuse väes, ei meeldi talle mehe sääred.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/9-12.1792554361913.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "väes"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hobuse"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "rõõmu ⟨Jahve⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "sääres"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "meeldi talle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:01.914066852Z",
+  "model": "glm-5.3"
+}

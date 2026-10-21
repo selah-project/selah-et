@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingeam\/vitaliteet', mitte immutableeritud 'hing'; võib olla ka 'isik'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Heebrea erandid väljend 'välja arvatud kui', otseses tõlkes 'sest kui' eksitaks."
+    }
+  ],
+  "translation": "hing, kes seda puudutab, on ebapuhas kuni õhtuni ega söö pühadest asjadest, välja arvatud kui ta on pesnud oma iha vees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/22\/5-8.1792539483381.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "puudutab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "seda"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "on ebapuhas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "õhtuni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "söö"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-st"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pühadest asjadest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "välja arvatud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "on pesnud"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "oma iha"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vees"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:03.382464913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צר מעון",
+      "rationale": "'kaim minu elamises' (JPS: rival in My habitation) vs 'mu elamuse kitsust\/ahastust' (ASV: affliction of my habitation) — sõnatüvi צר tähendab nii kitsast vaenlast kui ahastust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaim",
+      "rationale": "צר otse: 'kitsas (koht), vaenlane, ahastus' — kaim annab õigel kujul edasi püüdleva rivaali pildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mu⟩",
+      "rationale": "Heebrea tekstis puudub possessiiv — KJV lisab 'my' elamusele, tõlkija valik."
+    },
+    {
+      "kind": "you",
+      "subject": "Eeli kohta",
+      "rationale": "Jumala kõne pöördub otse preester Eeli poole: 'sa näed... sinu majas'."
+    }
+  ],
+  "translation": "Ja sa näed kaimu ⟨mu⟩ elamises, kõiges heas, mida ta teeb ⟨את⟩ Jisraeliga, ega ole vana meest sinu kogu maja päevi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3c8c4a7422d3358d555b7c96695994b5742afff7d9ec878d6879b991cac13791",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/2\/32-32.1792558299945.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "Ja sa näed"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kaimu"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "elamises"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõiges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "ta teeb head"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeliga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vana meest"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sinu majas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päevad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:39.946377991Z",
+  "model": "glm-5.3"
+}

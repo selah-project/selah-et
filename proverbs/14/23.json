@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab olemasoluverbi, heebrea יהיה jääb sisult varju"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצב",
+      "rationale": "Sõna tähendab nii 'vaev, valuline töö' kui ka 'savipottpaljas' — enamik tõlkeid valib 'töö\/vaev'"
+    }
+  ],
+  "translation": "Kogu vaevanägemises ⟨on⟩ kasu, aga huulte sõna — ainult puudust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/21-24.1792554683170.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "vaevanägemises"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "kasu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "aga sõna"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huulte"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "puudust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:23.171555734Z",
+  "model": "glm-5.3"
+}

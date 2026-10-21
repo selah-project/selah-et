@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on suunatud⟩",
+      "rationale": "Heebrea võrdlus jätab tegusõna ära — 'silmad … käe poole' —, eesti võrdluskond vajab verbi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדים\/שפחה ja אדוניהם\/גברתה",
+      "rationale": "Mees-orja ja nais-orja ning nende isanda ja emanda paariline peegeldus — kiasm, mis eesti keeles säilib, kuid assoneeruv kõla läheb kaotsi"
+    },
+    {
+      "kind": "crux",
+      "subject": "käe poole",
+      "rationale": "Orja silmad isanda 'käel' — kas ootus toitu või hirm löögi ees; mõlemad loetakse"
+    }
+  ],
+  "translation": "Vaata, nagu orjade silmad ⟨on suunatud⟩ nende isandate käe poole, nagu teenija neiupooli silmad tema emanda käe poole, nii on meie silmad Jahve, meie Elohimi poole, kuni tema meid armu näitab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/123\/1-4.1792554250500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "nagu … silmad"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "orjade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käe"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "nende isandate"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "nagu … silmad"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "teenija neiupooli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käe"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "tema emanda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "meie silmad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "tema meid armu näitab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:10.501419514Z",
+  "model": "glm-5.3"
+}

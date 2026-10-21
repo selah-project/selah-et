@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab koppelverbi, heebreas puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנך יפה",
+      "rationale": "Kordus 'vaata, sa oled ilus' — peeglikordus, värsi rütm"
+    }
+  ],
+  "translation": "Vaata, sa oled ilus, mu sõbranna, vaata, sa oled ilus, su silmad on tuvid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/13-16.1792555760442.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "vaata, sa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "oled ilus"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mu sõbranna"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "vaata, sa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "oled ilus"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "su silmad"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "on tuvid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:20.443276689Z",
+  "model": "glm-5.3"
+}

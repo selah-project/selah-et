@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai Jahve",
+      "rationale": "האדן יהוה on kaks nimetust järjest: Adonai + Jahve, mitte 'Issand Jumal'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "palge ette ilmuma",
+      "rationale": "ראה את פני otseses 'näha pale' tähendab ilmuda kellegi ette"
+    }
+  ],
+  "translation": "Kolm korda aastas peavad kõik su meessoost ilmuma ⟨את⟩ Adonai Jahve, Jisraeli Elohimi palge ette.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1e617d7afe9b9fd0d4cee2933e07b0d7cc31baa3170428c174bb56784064470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/34\/21-24.1792538908807.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "korda"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "aastas"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ilmuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "su meessoost"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palge"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palge"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-20T23:28:28.808230176Z",
+  "model": "glm-5.3"
+}

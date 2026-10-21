@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud, mitte hingesellaste 'hing'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hävitab",
+      "rationale": "תורישמו pärineb ירש 'pärima\/vallutama' — 'mu käsi nad omandab\/kärbib', 'hävitab' on tähenduslik laiend"
+    },
+    {
+      "kind": "you",
+      "subject": "vaenlase kõne",
+      "rationale": "Vaenlase (Egiptuse) sõnad otsekõnes — kõlava kordusega ahel jahtima-kätte-saaki"
+    }
+  ],
+  "translation": "Ütles vaenlane: Jahti ma ajan, kätte ma saan, saaki ma jaotan; täitub mu hing nendest; ma tõmban välja oma mõõga, mu käsi nad hävitab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/15\/9-12.1792538447412.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlane"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "jahti ma ajan"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "kätte ma saan"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "jaotan"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "saaki"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "täitub"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ma tõmban välja"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "oma mõõga"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "hävitab"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käsi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:47.413032703Z",
+  "model": "glm-5.3"
+}

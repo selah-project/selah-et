@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mina olen",
+      "rationale": "Heebrea puudub kõlaosalus verb; eesti keel lisab ⟨on⟩-tüüpi siduri"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Moshe kõneleb Jisraelile Moabi maal"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחם \/ לא",
+      "rationale": "Korduv eitus לא leiva ja joogi kohal annab rütmilise paari, mis eesti keeles osaliselt säilib"
+    }
+  ],
+  "translation": "Leiba te ei söönud ning veini ja kangemat jooki te ei joonud, et te teaksite, et mina olen Jahve, teie Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3ff286b507b05a5626bad7cbdae800b9101d58252de0e53c40754f216738c457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/29\/5-8.1792541164097.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "te sõinud"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "veini"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "kangemat jooki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "te joonud"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "te teaksite"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T00:06:04.098403314Z",
+  "model": "glm-5.3"
+}

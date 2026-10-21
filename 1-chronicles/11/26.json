@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olid⟩",
+      "rationale": "Eesti nõuab kopolat — heebrea loend puudub; nimed loetletakse ilma tegusõnata."
+    },
+    {
+      "kind": "elision",
+      "subject": "עשה אל",
+      "rationale": "Kaks järgnevat märki kannavad ühe nime Asahel; teine märk ei ole eraldi sõna."
+    }
+  ],
+  "translation": "Ja vägede kangelased ⟨olid⟩: Asahel, Joabi vend, Elhanan, Dodu poeg, Beet-Lehemist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36ab2fa21c491604a086b1aa31cf077a625b894eddad66586599f0ebb1f72a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/25-28.1792557329132.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "Ja kangelased"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "vägede"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vend"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Beet-Lehemist"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beet-Lehemist"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:29.132852865Z",
+  "model": "glm-5.3"
+}

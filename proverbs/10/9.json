@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "saab teatavaks",
+      "rationale": "יודע võibPassiivselt tähendada 'temast saab teatavaks' või 'tema märgatakse' — käänatud suunitlus on juba antiiksetel tõlkijatel lahknenud."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך ... ילך",
+      "rationale": "Sama juure kordus (käima\/käib) annab heebrea parallelismi, eesti keeles osaliselt säilinud."
+    }
+  ],
+  "translation": "Käija lihtsuses käib turvaliselt, aga kes oma teed väärab, see saab teatavaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/10\/9-12.1792554606437.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "käija"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "lihtsuses"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "käib"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvaliselt"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "aga kes väärab"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "oma teed"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "saab teatavaks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:06.437817259Z",
+  "model": "glm-5.3"
+}

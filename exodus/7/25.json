@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seitse päeva",
+      "rationale": "Loendab päevad täpselt, pärast mida algab teine löök."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Niiluse jõe",
+      "rationale": "היאר on 'jõgi' kui Niiluse pärisnimi; tõlgitud üldnimena koos täiendiga."
+    }
+  ],
+  "translation": "Ja täitusid seitse päeva pärast seda, kui Jahve lõi ⟨את⟩ Niiluse jõe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/7\/25-28.1792538377497.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ja täitusid"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast seda, kui"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "lõi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Niiluse jõe"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Niiluse jõe"
+    }
+  ],
+  "timestamp": "2026-10-20T23:19:37.498555729Z",
+  "model": "glm-5.3"
+}

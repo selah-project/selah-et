@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kattis pahameilega",
+      "rationale": "סכותה באף: kas 'sa kattsid meid (end) pahameilega' või 'sa varjasid ennast vihas' — objekt heebreas puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pahameil",
+      "rationale": "אף on 'ninasõõr\/nina', ülekandes 'pahamealiku viha' — nina on viha ase kohakeeles."
+    }
+  ],
+  "translation": "Sa kattsid pahameiles ja ajasid meid taga, sa tapsid, sa ei halastanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/41-44.1792555880522.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "kattsid"
+    },
+    {
+      "surface": "באף",
+      "gloss": "pahameiles"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "ajasid meid taga"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "tapsid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "halastanud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:20.523009948Z",
+  "model": "glm-5.3"
+}

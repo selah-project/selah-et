@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekhelet",
+      "rationale": "תכלת on sinine värv kärssvähast; hoitud kõlakujul 'tekhelet', sest eesti sõna 'sinine' kaotab päritolu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ussikarva karmiin",
+      "rationale": "תולעת השני on sõnasõnalt 'ussi-punane' (koivähk), hoitud kaks sõna nagu heebrea kaks sõna"
+    }
+  ],
+  "translation": "Ja nemad võtavad ⟨את⟩ kulla ja ⟨את⟩ tekheleti ja ⟨את⟩ argamani ja ⟨את⟩ ussikarva karmiini ja ⟨את⟩ peene lina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81c9002946f405ab8a2182999912fcd16aee4e5d5b853fda00f1a466b7d6ace5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/28\/5-8.1792538785241.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ja nemad"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "võtavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulla"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tekheleti"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekheleti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "argamani"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "ussikarva karmiini"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ussi-"
+    },
+    {
+      "surface": "השני",
+      "gloss": "karva karmiini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "peene lina"
+    },
+    {
+      "surface": "השש",
+      "gloss": "peene lina"
+    }
+  ],
+  "timestamp": "2026-10-20T23:26:25.242165383Z",
+  "model": "glm-5.3"
+}

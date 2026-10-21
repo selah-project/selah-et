@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seemet",
+      "rationale": "זרע tähendab 'seem' — järeltulijad, mitte üldine 'jälkelased'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלל \/ קדש",
+      "rationale": "rüvetamine ja pühitsemine — vastandjuured samas salmis"
+    }
+  ],
+  "translation": "Ja ta ei rüveta oma seemet oma rahva seas, sest mina olen Jahve, kes ta pühitseb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "745913d3494e41fdb4387393ee52a5164dc9e3962735156ade6f31ca1d55ccd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/21\/14-16.1792543579258.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "rüveta"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "oma seemet"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "oma rahva seas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "kes ta pühitseb"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:19.260583192Z",
+  "model": "glm-5.3"
+}

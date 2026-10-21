@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 14:50",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Kopula lisatud, heebrea 'ja nimi X' kooseis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "onu",
+      "rationale": "דוד tähendab 'onu\/armsam' — Sauli isa Kiisi vend, vt 14:51"
+    }
+  ],
+  "translation": "Ja Sauli naise nimi ⟨oli⟩ Ahinoam, Ahimaatsi tütar; ja tema väe pealiku nimi ⟨oli⟩ Abner, Neri poeg, Sauli onu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3ffed4de3ae8155c73a30ae9b480fd86c68f84ddcd75ad2196c88586413aff8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/49-52.1792543939448.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naisel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ahimaatsi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pealikul"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tema väe"
+    },
+    {
+      "surface": "אבינר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Neri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "onu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:19.451566951Z",
+  "model": "glm-5.3"
+}

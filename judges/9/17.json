@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפשו on elujõud, mitte 'hing'; 'pani oma נפש endast eemale' tähendab elu surmaohtu seadmist"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "aleph-tav koos suffiksiga, tõlgitud lihtsalt 'teid'"
+    }
+  ],
+  "translation": "kes võitles minu isa teie eest ja pani ⟨את⟩ oma elu pingule ja päästis ⟨את⟩ teid midjanlastest",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/9\/17-20.1792542004937.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "võitles"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "minu isa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teie eest"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "paiskas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma elu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma elu"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "endast eemale"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "päästis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    }
+  ],
+  "timestamp": "2026-10-21T00:20:04.937689424Z",
+  "model": "glm-5.3"
+}

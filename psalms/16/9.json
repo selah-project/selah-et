@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבודי — mu au",
+      "rationale": "KJV\/JPS 'mu au\/suurus', Geneva\/KJV variandis 'keel', LXX 'keel'; heebrea sõna on 'kaal, hiilgus'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויגל — põrkab rõõmust",
+      "rationale": "Juur tähendab 'pöörele viima (tugevas tundmuses)'; eesti ütleb põrkama rõõmust."
+    }
+  ],
+  "translation": "Sellepärast rõõmustab mu süda ja põrkab rõõmust mu au, isegi mu liha elab turvaliselt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/16\/9-11.1792552349437.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sellepärast"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "rõõmustab"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ja põrkab rõõmust"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mu au"
+    },
+    {
+      "surface": "אף",
+      "gloss": "isegi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mu liha"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "elab"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "turvaliselt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:29.437925774Z",
+  "model": "glm-5.3"
+}

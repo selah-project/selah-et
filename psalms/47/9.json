@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kõpula, מלך on predikaat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהים ... אלהים",
+      "rationale": "korduv Elohim fraasi algul ja keskel — kordus on kaotatud eesti lausestruktuuris"
+    }
+  ],
+  "translation": "Elohim on kuningas rahvaste üle, Elohim istub oma püha troonil.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cdf1c7bfa7a6d88c56939cd2a2fd8ef6e560d347d67c36d08b2408182d00591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/47\/9-10.1792552812369.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "on kuningas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istub"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troonil"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "oma püha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:12.369623202Z",
+  "model": "glm-5.3"
+}

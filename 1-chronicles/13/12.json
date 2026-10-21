@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kõne Davidile endale",
+      "rationale": "Küsimus 'Kuidas saan ma...' on Davidi enda kõne — enesele adresseeritud küsimus, lugejat kaasav retooriline küsimus."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הֵיךְ",
+      "rationale": "'kuidas?' — haruldane küsisõna, ilmub Tanahhis vaid üksikutes kohtades."
+    }
+  ],
+  "translation": "Ja David kartis sel päeval Elohiimi, öeldes: Kuidas saan ma tuua endale ⟨את⟩ Elohiimi ⟨את⟩ arku?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14ff900c392302f655b63eff9a3f4d7bde999bce09c6991ec9f8fc0f270c52a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/13\/9-12.1792557363948.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ja kartis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohiimi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohiimi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "היך",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "saan ma tuua"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "endale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohiimi arku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohiimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:03.949947702Z",
+  "model": "glm-5.3"
+}

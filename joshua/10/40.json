@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 10:40",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנשמה",
+      "rationale": "nesama on 'hingav, hingeõhu omav' — 'kõik, kes hingas', mitte 'hing' abstraktselt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "החרים",
+      "rationale": "חרם 'keelutuse alla panna' — edasi antud kui 'pühendas hävitamisele'"
+    },
+    {
+      "kind": "crux",
+      "subject": "והאשדות",
+      "rationale": "ašedot: KJV 'allikad', teised 'nõlvad\/kalded' — kumbki võimalik"
+    }
+  ],
+  "translation": "Ja Jehošua lõi ⟨את⟩ kogu seda maad: mäed ja lõunaala, madaliku ja nõlvad, ja ⟨את⟩ kõik nende kuningad; ei jätnud ta ellujääjat, vaid pühendas hävitamisele ⟨את⟩ kogu, kes hingas — nagu käskis Jahve, Jisraeli Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6bb539f0ac75b7c10ed5cb62aef239b0c024aa8b09a9dd20b08f7fafacd18206",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/10\/37-40.1792541562611.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "lõi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu seda maad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "seda maad"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "והנגב",
+      "gloss": "ja lõunaala"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ja madalik"
+    },
+    {
+      "surface": "והאשדות",
+      "gloss": "ja nõlvad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik nende kuningad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "nende kuningad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jätnud"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ellujääjat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogu, kes hingas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "kes hingas"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "pühendas hävitamisele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käskis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:12:42.613586168Z",
+  "model": "glm-5.3"
+}

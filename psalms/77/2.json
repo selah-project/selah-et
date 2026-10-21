@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeruv verb, eesti keel vajab seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קולי אל אלהים",
+      "rationale": "Kordus: fraas 'minu hääl Elohimi poole' esineb salmis kaks korda, kaja jääb tõlkes säilitatuks"
+    }
+  ],
+  "translation": "Minu hääl ⟨on⟩ Elohimi poole ja ma kisendan; minu hääl ⟨on⟩ Elohimi poole ja tema paneb kõrva minu jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/1-4.1792553392636.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Minu hääl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ja ma kisendan"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "minu hääl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ja tema paneb kõrva"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu jaoks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:52.637515185Z",
+  "model": "glm-5.3"
+}

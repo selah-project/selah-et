@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 1:13",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rasedaid naisi",
+      "rationale": "heebrea הרות on lihtsalt 'rasedad'; 'naised' lisatud eesti keele selguseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sest",
+      "rationale": "על 'pärale\/pärast' teises kohas tähendab põhjust, 'sest' edastab selle"
+    },
+    {
+      "kind": "crux",
+      "subject": "ei pöördu ma sellest tagasi",
+      "rationale": "לא אשיבנו: 'ei võta tagasi' (kättemaksu) vs 'ei pöördu sellest' vs 'ei jäta karistuseta'"
+    }
+  ],
+  "translation": "Nii ütleb Jahve: Kolme üleastumise pärast Ammoni poegade vastu ja nelja pärast ei pöördu ma sellest tagasi, sest nad lõhkesid lõhki Gileadi rasedaid naisi, et ⟨את⟩ oma piiri laiendada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8ea3357f7bb8576374b578ef6b087b6cd8cff0b290d2424767d26a7ec99e6a0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/1\/13-15.1792551112781.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üleastumise"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nelja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "pöördu ma sellest tagasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בקעם",
+      "gloss": "nad lõhkesid lõhki"
+    },
+    {
+      "surface": "הרות",
+      "gloss": "rasedaid naisi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "הרחיב",
+      "gloss": "laiendada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma piiri"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "oma piiri"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:52.782401233Z",
+  "model": "glm-5.3"
+}

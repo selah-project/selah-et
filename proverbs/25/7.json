@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 25:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel nõuab oleviku kaudse kõne jaoks köidiku, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר ראו עיניך",
+      "rationale": "osad tõlked loevad 'keda sinu silmad on näinud' üliku kohta, teised (nt BSB) järgmise salmi poole üle minnevat lauset"
+    }
+  ],
+  "translation": "Sest parem, et sulle öeldakse: Tule siia üles, kui sind alandatakse üliku näos, keda sinu silmad on näinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/5-8.1792554986662.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "öeldakse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tule üles"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siia"
+    },
+    {
+      "surface": "מהשפילך",
+      "gloss": "kui sind alandatakse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "näos"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "üliku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "on näinud"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sinu silmad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:26.663281387Z",
+  "model": "glm-5.3"
+}

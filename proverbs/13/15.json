@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koopula, mida heebrea ei väljenda, lisatud sulgudes."
+    },
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'püsiv \/ igavene' (nii tee ise kestab) vs KJV-rõhutuse 'kange \/ raske' — kumb tähendus on siin, on vaidluse all."
+    }
+  ],
+  "translation": "Hea mõistus annab armu, aga reetjate tee ⟨on⟩ püsiv.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb6c3147f9e08a85b9bcee30626f8eea74e1c97f856cb57d264f358145ecd904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/13-16.1792554668235.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "mõistus"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armu"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "aga tee"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "reetjate"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "püsiv"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:08.235953588Z",
+  "model": "glm-5.3"
+}

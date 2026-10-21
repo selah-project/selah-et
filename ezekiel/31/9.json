@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 31:9",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨asuvad⟩",
+      "rationale": "Eesti keel vajab küsisõna järel öeldist, heebrea seda ei ütle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "האלהים jääb nimega Elohim, mitte 'Jumal'"
+    }
+  ],
+  "translation": "Ilusaks tegin ta oma rippuvate okste rohkuses, ja kadeks jäid temale kõik Eedeni puud, mis ⟨asuvad⟩ Elohimi aias.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e4b565a9ac3f61e4c1b55a412452169718165a59770a07640a1dd14b3b315cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/31\/9-12.1792550421665.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ilusaks"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "tegin ta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "rohkuses"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "oma rippuvate okste"
+    },
+    {
+      "surface": "ויקנאהו",
+      "gloss": "ja kadeks jäid temale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puud"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eedeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "aias"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:40:21.665804127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefesh on elujõud\/hing, mitte 'elu' üksi; tõlkes 'elu' kitsendab sõna ulatust."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונתתי",
+      "rationale": "verbi kordus salmides 18 ja 20: 'ma annan' nad vaenlastele, nagu nad andsid (vabastasid ja tagasi võtsid) oma orje — mõõdu-mõõdu mõttekäik."
+    }
+  ],
+  "translation": "ja ma annan ⟨את⟩ nad nende vaenlaste kätte ja nende elu tagaajajate kätte; ja nende raie saab toiduks taeva lindudele ja maa kariloomadele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d0230518154abe19c650c24ad53b1258aa8c3287d60cf6dadaf0dde2c2238a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/34\/17-20.1792548972129.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ja ma annan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nad",
+      "marks": "nad"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "nende vaenlaste"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ja kätte"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "tagaajajate"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende elu"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja saab"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "nende raie"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "toiduks"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "lindudele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "ja kariloomadele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T02:16:12.133214328Z",
+  "model": "glm-5.3"
+}

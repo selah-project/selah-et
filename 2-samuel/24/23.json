@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 24:23",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלך Aravna kohta",
+      "rationale": "kas Aravna 'kuningana' andis (nagu kuningas annab) või on see vokaaliviga tekstis; LXX ja 1Aj 21:23 panevad 'vaata, kõik' — võimalik ka 'Aravna andis kuningale kõik, öeldes kuningale: ...'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kui⟩",
+      "rationale": "eesti vajab viidet, et המלך on siin võrdlus ('kui kuningas'), mitte uus tegelane"
+    }
+  ],
+  "translation": "Kõike selle andis Aravna, ⟨kui⟩ kuningas, kuningale; ja Aravna ütles kuningale: Jahve, su Elohim, olgu sinule meeldiv.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eef23091f1960a4a3cb001a5ece3a77b5eaa80131300db4cd2e7f250f6a1ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/24\/21-24.1792545086943.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "kõike"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨kui⟩ kuningas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "ירצך",
+      "gloss": "olgu sinule meeldiv"
+    }
+  ],
+  "timestamp": "2026-10-21T01:11:26.945987928Z",
+  "model": "glm-5.3"
+}

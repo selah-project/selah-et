@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab olla-verbi, heebrea puudub."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kõik päevad",
+      "rationale": "Haiguse kestuse loendus — aja mõõtmine määrab ebepuhasuse."
+    }
+  ],
+  "translation": "Kõik päevad, mil haigus ⟨negá⟩ on temas, ⟨on⟩ ta ebapuhas; ebapuhas ⟨on⟩ ta; üksinda istugu ta; väljaspool leeri olgu tema eluase.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/13\/45-48.1792539346120.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millal"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "haigus ⟨negá⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temas"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "on ta ebapuhas"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ebapuhas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "üksinda"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istugu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "väljaspool"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "leeri"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "tema eluase"
+    }
+  ],
+  "timestamp": "2026-10-20T23:35:46.121744566Z",
+  "model": "glm-5.3"
+}

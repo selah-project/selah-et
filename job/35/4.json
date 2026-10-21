@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "koos",
+      "rationale": "עמך tähendab 'sinuga'; 'koos' lisatud eesti sujuvuseks."
+    },
+    {
+      "kind": "you",
+      "subject": "Iiobile",
+      "rationale": "Elihu teatab otseidakonda Iiobile ja tema sõpradele."
+    }
+  ],
+  "translation": "Mina vastan sulle sõnadega ja ⟨את⟩ sinu sõpru sinuga koos.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e04816e5d1a8957923456f5248ca98dffef2dba5d3f6ce0ef87a2b9cbcfb6711",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/35\/1-4.1792555602167.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "vastan sulle"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sõnadega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinu sõpru"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sinu sõpru"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinuga koos"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:42.168736387Z",
+  "model": "glm-5.3"
+}

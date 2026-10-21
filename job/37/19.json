@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 37:19",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oma kõnet⟩",
+      "rationale": "Heebrea ütleb lihtsalt 'ei saa me seada'; objekt on eesti keeles vajalik"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kuulajale",
+      "rationale": "Kõne pöördub Jumala poole palvega: 'tee meile teatavaks'"
+    }
+  ],
+  "translation": "Tee meile teatavaks, mida me temale ütleme, sest pimeduse pärast ei saa me ⟨oma kõnet⟩ järjekorda seada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cbb4c362c235142bd4b31535de6b1ff06c6cc4906da45564f1d9aab8759b0e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/17-20.1792555705876.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיענו",
+      "gloss": "tee meile teatavaks"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "me ütleme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "järjekorda seada"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pimeduse pärast"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeduse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:25.877500267Z",
+  "model": "glm-5.3"
+}

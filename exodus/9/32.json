@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea kasutab asesõna הנה kui kopeelat; eesti keel nõuab tegusõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפילות",
+      "rationale": "'Küpsmata, hilised' — KJV 'ei olnud veel üles kasvanud', Geneva 'peidus maa sees'"
+    }
+  ],
+  "translation": "Aga nisu ja speltanisu ei saanud löödud, sest need ⟨olid⟩ hilised.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/9\/29-32.1792538381684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Aga nisu"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ja speltanisu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "saanud löödud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "hilised"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "need"
+    }
+  ],
+  "timestamp": "2026-10-20T23:19:41.685930696Z",
+  "model": "glm-5.3"
+}

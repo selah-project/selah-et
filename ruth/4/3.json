@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keele sidesõna puudub heebrea passiivses väljendis 'Naomi, tulnud tagasi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכרה",
+      "rationale": "Kvkv tähendab kas 'müüb' (jätkav) või 'on müünud' (lõpetav) — tõlkijad lähevad lahku."
+    }
+  ],
+  "translation": "Ja ta ütles lunustajale: Naomi, kes on tulnud tagasi Moabi väljalt, müüb meie venna Elimeleki põllutüki.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f9f10f41f90983eba33f5e91f718cbea656441d54503a322e36385173b5c96e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/4\/1-4.1792555910162.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ta ütles"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "lunustajale"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "põllutüki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "meie vennale"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimelekile"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "müüb"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "kes on tulnud tagasi"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "väljalt"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:50.163484283Z",
+  "model": "glm-5.3"
+}

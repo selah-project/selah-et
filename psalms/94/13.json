@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "puhkus",
+      "rationale": "להשקיט tähendab sõna-sõnalt 'vaigistama\/rahu andma' — puhkus on kaudsem kujutus"
+    },
+    {
+      "kind": "crux",
+      "subject": "kaevatakse",
+      "rationale": "כרה 'kaevama' kujundlikult 'külvama\/ette valmistama': 'kuni kurjale on auk kaevatud' vs 'kuni auk on valmis'"
+    }
+  ],
+  "translation": "et anda talle puhkust kurjade päevade eest, kuni kurjale kaevatakse hävingu-auk.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/94\/13-16.1792553658284.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "et anda puhkust"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "päevade eest"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurjade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "kaevatakse"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kurjale"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hävingu-auk"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:18.285040642Z",
+  "model": "glm-5.3"
+}

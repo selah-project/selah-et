@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי בריתי",
+      "rationale": "Tegu on teinekord pandud leping; eesti 'tegema lepingu' vastab pildile 'lõikama'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי זבח",
+      "rationale": "'Ohvri peal \/ ohvri üle' — üle ohvri tehtud leping vs. ohvri juures; tõlkijad lahku läinud"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Koguge",
+      "rationale": "Jumal käsib püüd koguda — kutsung publiku ees"
+    }
+  ],
+  "translation": "Koguge mulle kokku mu vagad, kes on teinud minu lepingu minu ohvri peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/5-8.1792552936062.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Koguge kokku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "mu vagad"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "on teinud"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "minu lepingu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peal"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ohvri"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:16.063702590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "D2: חסד jääb hesed'iks, mitte 'halastus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "Heebrea puudub verb; kordus 'seest igavesti tema hesed' eeldab eestis verbi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "Imperatiiv 'Tänu ajage' pöördub koguduse poole"
+    }
+  ],
+  "translation": "Tänu ajage Jahvele, sest ta on hea, sest igavesti ⟨kestab⟩ tema hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/1-4.1792553963097.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tänu ajage"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:23.097632208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 2:5",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ranna-äär",
+      "rationale": "חבל on otseselt 'köis, mõõnuõng', kõrvtähendusega 'piirkond'; köie pilt läheb kaotsi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרתים \/ כרת",
+      "rationale": "v5 'kretid' ja v6 'כרת karjamaad' — sama tähekombinatsioon, linnupilk seob Philistia hävingu karjamaaks muutumisega"
+    },
+    {
+      "kind": "you",
+      "subject": "Philistia rannikule",
+      "rationale": "pilkne otsekõne: 'teie vastu', 'sind' — Kanaan, peplistide maa"
+    }
+  ],
+  "translation": "Hoi, mere ranna-asujad, Kreti rahvas! Jahve sõna on teie vastu, Kanaan, peplistide maa: ja ma hävitan sind ilma elanikuta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "061070029fe53190c117967deeda02d981db13992484cb046daf42f2543ad383",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/2\/5-8.1792551781897.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ranna-asujad"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ranna-äär"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "כרתים",
+      "gloss": "Kreti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teie vastu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peplistide"
+    },
+    {
+      "surface": "והאבדתיך",
+      "gloss": "ja ma hävitan sind"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "elanikuta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:03:01.897893418Z",
+  "model": "glm-5.3"
+}

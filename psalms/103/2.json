@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heateod",
+      "rationale": "גמול tähendab 'tasu, kohtlemine' nii heas kui halvas mõttes; 'teod' on määratlemata"
+    },
+    {
+      "kind": "you",
+      "subject": "hing",
+      "rationale": "Pilk jätkub otsekõnet hingele"
+    }
+  ],
+  "translation": "Kiida, mu hing, ⟨את⟩ Jahvet ja ära unusta ühtegi tema heategu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/1-4.1792553755531.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "kiida"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "unusta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "tema heategu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:55.532348780Z",
+  "model": "glm-5.3"
+}

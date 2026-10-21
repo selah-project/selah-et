@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreal puudub kopula; eesti keel vajab sula 'on', märgitud sulgudesse."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כבדה",
+      "rationale": "Sõnaõlne kujund 'raske' (כבד kaaluma) — patt on otseses mõttes raskendav."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי ... כי",
+      "rationale": "Korduv כי 'sest ... sest' ehitab värsi kaheks paralleelseks pooleks, eesti keeles säilub vaid osaliselt."
+    }
+  ],
+  "translation": "Ja Jahve ütles: Sodoma ja Amora karje — sest suur ⟨on⟩, ja nende patt — sest väga raske ⟨on⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30fc63de129fd5a53448b3993e9ed6eafa2881d3c70312d96c097918b8545aac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/18\/17-20.1792537587961.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "karje"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "ja Amora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suur"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "ja nende patt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "raske"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:06:27.962864955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימלו",
+      "rationale": "נמל põhjal 'lõigatakse\/niidetakse', mõned loevad מלל 'lõpetada' — tähendus samas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימלו \/ יבולון",
+      "rationale": "Kaks kokkukõlavat jaatavat verbi — paralleelsus, mis eesti keeles sumbunud."
+    }
+  ],
+  "translation": "sest nagu rohi nad ruttu niidetaks ja nagu roheline mürsk-nende seas nad närbuvad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/1-4.1792552766239.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nagu rohi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ruttu"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "niidetaks"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ja nagu roheline"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "mürsk-rohi"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "närbuvad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:26.241361094Z",
+  "model": "glm-5.3"
+}

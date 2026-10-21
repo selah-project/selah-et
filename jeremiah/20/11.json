@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 20:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeeris 'Jahve on minuga' — sidesõna on lisatud eesti keele nõudel."
+    },
+    {
+      "kind": "crux",
+      "subject": "כלמת עולם לא תשכח",
+      "rationale": "Sõna-sõnalt 'igavest häbi ei unustata' — tõlkijad lahkuvaad: subjekt on häbi, mis jääb unustamatuks (KJV), või häbi, mida keegi ei unusta (VULG-il pööratud tähendus)."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא השכילו",
+      "rationale": "'Pole targasti toiminud' — sõna-sõnalt 'ei ole teinud tarkusega'; mitmed tõlked pehmendavad ('ei õnnestunud', KJV 'ei jõua õitsenguni')."
+    }
+  ],
+  "translation": "Ja Jahve ⟨on⟩ minuga ⟨את⟩ kui vägev, hirmuäratav ⟨sõjamees⟩; seepärast komistavad mu tagaajajad ega suuda ⟨võimule⟩: nad ⟨on⟩ väga häbistatud, sest nad pole targasti toiminud — igavene häbi ei unustata ⟨iial⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf05dfb61d5dec4295e80304dff9a18ddc66a8031c0b624ea8dd9b4439c579c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/20\/10-11.1792558439764.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "minuga"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "kui vägev"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "hirmuäratav"
+    },
+    {
+      "surface": "על",
+      "gloss": "selle pärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "mu tagaajajad"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "komistavad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suuda"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "on häbistatud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "pole targasti toiminud"
+    },
+    {
+      "surface": "כלמת",
+      "gloss": "häbi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unustata"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:59.765675568Z",
+  "model": "glm-5.3"
+}

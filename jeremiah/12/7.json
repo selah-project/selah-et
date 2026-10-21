@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud, mitte möisteline 'hing' — 'oma elu armsaim'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידדות",
+      "rationale": "Haruldane sõna, kõlab vastu jaotuse ידיד 'armas' — hellitav korduskoosseis koos pärandi-teemaga."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידדות",
+      "rationale": "Sõna esineb Tanahhis ainult siin."
+    }
+  ],
+  "translation": "Jätsin maha ⟨את⟩ oma koja, hülgasin ⟨את⟩ oma pärandi, andsin ⟨את⟩ oma hinge armsama tema vaenlaste kätte.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e889ccb7b7f2fff17e20503c26f510ea5721690d9d5b6186db82ee5273a6addc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/12\/5-8.1792548346842.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Jätsin maha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma koja"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "oma koja"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "hülgasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma pärandi"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "oma pärandi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "andsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma hinge armsama"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "armsama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "oma hinge"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "tema vaenlaste"
+    }
+  ],
+  "timestamp": "2026-10-21T02:05:46.843625382Z",
+  "model": "glm-5.3"
+}

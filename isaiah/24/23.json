@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 24:23",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puudub koppel; viimane klausel on nimetav lause 'au tema vanemate ees'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הלבנה \/ החמה",
+      "rationale": "sõna-sõnalt 'valge' (kuu) ja 'kuuma\/palavuse' (päike); tähendus jõuab kaudselt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חפרה \/ בושה",
+      "rationale": "kaks erinevat häbi-verbi ühesuguses rütmis kahes parallelsetes pooldvrsis"
+    }
+  ],
+  "translation": "Ja kuu kattub häbiga ja päike häbistub, sest troonile astub Jahve Tsevaot Siioni mäel ja Jerušalaimis, ja tema vanemate ees ⟨on⟩ au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/24\/21-23.1792547007996.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחפרה",
+      "gloss": "ja kattub häbiga"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "ובושה",
+      "gloss": "ja häbistub"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "päike"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "troonile astub"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mäel"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ja Jerušalaimis"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ja ees"
+    },
+    {
+      "surface": "זקניו",
+      "gloss": "tema vanemate"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:27.997447500Z",
+  "model": "glm-5.3"
+}

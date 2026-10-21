@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעל עליו",
+      "rationale": "Alah 'tõusis selle peale' voi hoopohoidlikult 'ohverdas sellel' (nii enamus tõlkeid); järgmine salm (16:13) toob ohvrid eraldi, seepärast kandsin sõna kuju — kuningas tõuseb ise altarile, mis on erakordne"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המלך x3",
+      "rationale": "Sõna 'kuningas' kordub salmis kolm korda — terav, monotoonne rütm, mis annab edasi kuninga agarust uue altariga"
+    }
+  ],
+  "translation": "Ja kuningas tuli Damaskusest, ja kuningas nägi ⟨את⟩ altari, ja kuningas astus altari juurde, ja tõusis selle peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/16\/9-12.1792546263108.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damaskusest"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ja astus lähedale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": "altari juurde"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja tõusis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "selle peale"
+    }
+  ],
+  "timestamp": "2026-10-21T01:31:03.111698762Z",
+  "model": "glm-5.3"
+}

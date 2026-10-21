@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצילם",
+      "rationale": "Sufiks -ם: 'päästab neid' (õiged ise) või 'päästab neid' (veri ohvrid) — varasemad tõlked lahku löövad"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ארב דם",
+      "rationale": "Sõnasõnaline 'veri varitsus': kättemaksu varitsemine, tõlgitud kui 'veri varitsevad'"
+    }
+  ],
+  "translation": "Kelmatute sõnad ⟨on⟩ veri varitsevad, aga õigete suu päästab ⟨neid⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2779ffb0844c10ed427f898d0e6419f70e0ab81aee59b173f3351f6e1aae832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/5-8.1792554620145.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sõnad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kelmatute"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "varitsevad"
+    },
+    {
+      "surface": "דם",
+      "gloss": "veri"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "aga suu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "õigete"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "päästab ⟨neid⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:20.146691712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "üks küünar ja pool küünart",
+      "rationale": "ratta kõrgus on mõõdetud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rataste käed",
+      "rationale": "יָדוֹת on 'käed' ehk telje- ehed; KJV 'axletrees', Targum räägib tugevast vankri osast"
+    },
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "kopp puudub heebreas"
+    }
+  ],
+  "translation": "Ja neli ratast olid allpool piirete, ja rataste käed ⟨olid⟩ aluses; ja ühe ratta kõrgus oli üks küünar ja pool küünart.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7aa9eb00715aff3dd39edf6a0ecc6048e80fab1c215b20abe1a1f8d33ffec6a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/29-32.1792545321869.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "ratast"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "allpool"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "piirete"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "ja käed"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "rataste"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "aluses"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "ja kõrgus"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ratta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "üks küünar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja pool"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "küünart"
+    }
+  ],
+  "timestamp": "2026-10-21T01:15:21.875928241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 27:13",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "peaksite",
+      "rationale": "Eesti keel vajab modaalsust; heebrea kasutab küsimusega ולמה tulevikut"
+    },
+    {
+      "kind": "you",
+      "subject": "Sedekijale",
+      "rationale": "Pöördumine Juuda kuninga Sedekija poole: אתה ainsuses, תמותו mitmuses"
+    }
+  ],
+  "translation": "Miks te peaksite surema, sina ja sinu rahvas, mõõga, nälja ja katku läbi, nii nagu Jahve rääkis rahvale, kes ei teeni ⟨את⟩ Babeli kuningat?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "991f2449ecf4ad3dc2b9acf02475d511e4026d6e87cf6cfc40ff5334cfac17cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/27\/13-16.1792548788843.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "peaksite surema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ja sinu rahvas"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mõõga läbi"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "nälja"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ja katku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "see rahvas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "teeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babeli kuningat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningat"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    }
+  ],
+  "timestamp": "2026-10-21T02:13:08.844267826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "copula 'olen'",
+      "rationale": "Estonian requires copula; Hebrew has pronoun אני only"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct address 'mu rahvas' to exiled Israel"
+    }
+  ],
+  "translation": "Ja te saate teada, et mina olen Jahve, kui ma avan ⟨את⟩ teie hauad ja toon ⟨את⟩ teid üles teie haudadest, mu rahvas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f655020aca498b37a406df189e54182ff6b2c59680957d06f84273514fa0c5b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/37\/13-16.1792550573798.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Ja te saate teada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "kui ma avan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teie hauad"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "teie hauad"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "ja toon üles"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "teie haudadest"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    }
+  ],
+  "timestamp": "2026-10-21T02:42:53.799140146Z",
+  "model": "glm-5.3"
+}

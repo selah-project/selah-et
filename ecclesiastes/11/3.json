@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "יריקו ja יהוא vajavad eesti keeles subjekti; יהוא ainult 'on', 'jääb' on kaudne."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול...יפול",
+      "rationale": "Korduv kukkumine ja 'kohale, kus ... sinna' peegeldab heebrea ümbersõnastust."
+    }
+  ],
+  "translation": "Kui pilved täituvad vihmaga, valavad nad maale; ja kui puu kukub lõunasse või põhja — kohale, kus puu kukub, sinna ta ⟨jääb⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/11\/1-4.1792556137192.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "täituvad"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "pilved"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "vihmaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "maale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "valavad nad"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "kukub"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "lõunasse"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "või kui"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "põhja"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kohale"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kus ... kukub"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨jääb⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:37.193255123Z",
+  "model": "glm-5.3"
+}

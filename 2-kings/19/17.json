@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rahvad",
+      "rationale": "הגוים on 'goimid', paganarahvad, eesti keeles 'rahvad' kõige lähem"
+    }
+  ],
+  "translation": "Tõesti, Jahve, Assuri kuningad on hävitanud ⟨את⟩ rahvad ja ⟨את⟩ nende maa,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/19\/17-20.1792546353748.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "tõesti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "hävitanud"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningad"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahvad"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nende maa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nende maa"
+    }
+  ],
+  "timestamp": "2026-10-21T01:32:33.749763928Z",
+  "model": "glm-5.3"
+}

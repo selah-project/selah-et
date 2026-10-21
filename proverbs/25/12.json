@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea võrdluses puudub sidesõna; eesti vajab seda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נזם",
+      "rationale": "sõna tähendab nina- või kõrvarõngast; eesti 'kõrvarõngas' on valik pildist."
+    }
+  ],
+  "translation": "Kuldkõrvarõngas ja puhta kulla ehete ⟨on⟩ tark noomija kuulval kõrval.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/9-12.1792554944788.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "kõrvarõngas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuldne"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "ja ehete"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "puhast kulla"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "noomija"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuulval"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kõrval"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulval"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:44.789777049Z",
+  "model": "glm-5.3"
+}

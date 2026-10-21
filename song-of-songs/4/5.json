@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שני\/כשני",
+      "rationale": "Kordus 'kaks ... nagu kaks' kajab eestikeeles ära, kuid heebrea kõlavärsi rütm osaliselt kaob."
+    },
+    {
+      "kind": "substitution",
+      "subject": "talle",
+      "rationale": "עפרים tähendab tolmukarva järgi hirvetallt; gasell ja hirv on D4 tabelis eraldi juured."
+    }
+  ],
+  "translation": "Sinu kaks rinda on nagu kaks talle, kaksikud gasellitar, kes karjatavad liilijate seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/4\/5-8.1792555833807.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "sinu rinda"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "nagu kaks"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "talle"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "kaksikud"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "gasellitar"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "karjatavad"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "liilijate seas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:33.807865989Z",
+  "model": "glm-5.3"
+}

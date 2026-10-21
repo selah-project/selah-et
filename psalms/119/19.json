@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Heebrea ei väljenda öeldistähti; eesti köiteline lause vajab köitelauset."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממני",
+      "rationale": "Sõna-sõnalt 'minu eest' kohatiivi; tähendus on sama."
+    }
+  ],
+  "translation": "Muulane ⟨olen⟩ ma maal, ära peida minu eest oma käske.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/17-20.1792553996519.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Muulane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "peida"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minu eest"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "oma käske"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:56.520334431Z",
+  "model": "glm-5.3"
+}

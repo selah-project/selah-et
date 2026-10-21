@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "plekk",
+      "rationale": "מומו on füüsiline 'viga, kehaline defekt' — kandub siin moraalselt noomijale endale."
+    },
+    {
+      "kind": "addition",
+      "subject": "kes",
+      "rationale": "Eesti keel vajab osalausese relative 'kes', heebrea kasutab partitsipi."
+    }
+  ],
+  "translation": "Kes noomib pilkaja, võtab endale häbi, ja kes laidab ⟨את⟩ õelat, saab endale oma pleki.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "317789d59a13b65425f57b2092ebca09432f10f69a90f329dc79d1daa084dcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/9\/6-7.1792558624454.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "kes noomib"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "pilkaja"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "võtab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "häbi"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "ja kes laidab"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "õelat"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "oma pleki"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:04.463705610Z",
+  "model": "glm-5.3"
+}

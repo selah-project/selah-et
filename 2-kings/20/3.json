@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "terviklik süda",
+      "rationale": "שלם tähendab 'terve, lõpuni tehtud' — mitte moraalne 'täiuslik', vaid jagamatu süda."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבך … בכי",
+      "rationale": "Sama juur kaks korda: 'ja nuttis … nutuga' — heebrea lühidus, eesti keeles kahe sõnaga."
+    }
+  ],
+  "translation": "Oh nüüd, Jahve, mäleta palun ⟨את⟩ seda, kuidas ma olen sinu näo ees käinud tõesega ja tervikliku südamega, ja seda, mis hea on sinu silmis, olen ma teinud. Ja Hiskija nuttis suure nutuga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/1-4.1792546404860.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Oh nüüd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mäleta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda, kuidas ma olen käinud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ma olen käinud"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinu näo ees"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "tõesega"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "ja südamega"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tervikliku"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ja seda, mis hea"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sinu silmis"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "olen ma teinud"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ja nuttis"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskija"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "nutuga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suure"
+    }
+  ],
+  "timestamp": "2026-10-21T01:33:24.862206807Z",
+  "model": "glm-5.3"
+}

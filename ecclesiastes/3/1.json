@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeeriva verbi; nimelt lause 'kõigele aeg' on tüüpvorm"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ihu",
+      "rationale": "חפץ tähendab nii meelt, soovi kui ka asja; valitud 'ihu' kui 'tahtmise' poolest"
+    },
+    {
+      "kind": "measurement",
+      "subject": "זמן \/ עת",
+      "rationale": "Kogu salm loeb aegu — põhiline 'loenduse' raam kogu peatükile"
+    }
+  ],
+  "translation": "Kõigele ⟨on⟩ määratud aeg ja iga ihu jaoks aeg taeva all.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/3\/1-4.1792556027365.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "kõigele"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "määratud aeg"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aeg"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "iga ... jaoks"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ihu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:47.366160316Z",
+  "model": "glm-5.3"
+}

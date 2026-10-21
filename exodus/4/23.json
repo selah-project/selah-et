@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verbiaeg",
+      "rationale": "Heebrea perfekt 'ma ütlesin \/ sa keeldusid' kõlab eesti jaosiku ajana, kuigi see on Parao tulevasele keeldumisele ettekuulutus — ideaalne prohvetlik perfekt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלח \/ בן \/ בכור",
+      "rationale": "'saatma', 'poeg' ja 'esmasündinu' kordus peegeldab Jisraeli ja Parao esmasündinu — samad sõnad mõlemal poolel."
+    }
+  ],
+  "translation": "ja ma ütlesin sulle: saada ⟨את⟩ minu poeg minema, et ta mind teeniks, aga sa keeldusid teda minema saata — vaata, mina tapsen ⟨את⟩ sinu poja, sinu esmasündinu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae3d94da7b0abb2679d008711b7ff2ebba24b654259f351a3c86471a595b2561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/4\/21-24.1792538306563.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saada minema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu poeg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "minu poeg"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "et ta mind teeniks"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "aga sa keeldusid"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "teda minema saata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "tapsen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu poja"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sinu poja"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "sinu esmasündinu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:18:26.565158538Z",
+  "model": "glm-5.3"
+}

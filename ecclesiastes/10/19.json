@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leib",
+      "rationale": "לחם tähendab sõna-sõnalt 'leiba'; 'pidusöök' on kontekstipõhine laiend"
+    },
+    {
+      "kind": "crux",
+      "subject": "hõbe vastab kõigele",
+      "rationale": "kas 'hõbe vastab (asemeks) kõigele' või 'hõbe pakub kõik'"
+    }
+  ],
+  "translation": "Naeru jaoks tehakse ⟨pidusöök⟩, ja vein rõõmustab elu, ja hõbe vastab ⟨את⟩ kõigele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/10\/17-20.1792556126095.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Naeru jaoks"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "tehakse"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "⟨pidusöök⟩"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ja vein"
+    },
+    {
+      "surface": "יומח",
+      "gloss": "rõõmustab"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elu"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "ja hõbe"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "vastab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõigele"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kõigele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:26.096582325Z",
+  "model": "glm-5.3"
+}

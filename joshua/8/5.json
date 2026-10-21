@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab olemasolu-verbi, heebrea seda ei ütle"
+    }
+  ],
+  "translation": "Ja mina ja kogu rahvas, kes ⟨on⟩ ⟨את⟩ minuga, läheme linna poole; ja see juhtub: kui nad tulevad välja meile vastu, nagu esimesel korral, siis põgenevame me nende eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/8\/5-8.1792541463399.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ja mina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minuga",
+      "marks": "minuga"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "läheme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja see juhtub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "tulevad välja"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "meile vastu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "esimesel korral"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "siis põgenevame me"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "nende eest"
+    }
+  ],
+  "timestamp": "2026-10-21T00:11:03.400386166Z",
+  "model": "glm-5.3"
+}

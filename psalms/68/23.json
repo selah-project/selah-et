@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשיב אשיב",
+      "rationale": "Korduv 'ma toon tagasi' — heebrea kinnituskordus, eesti keeles säilitatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "keda tuuakse tagasi",
+      "rationale": "Heebreas ei ütle objekti: kas vaenlasi (eesmine kontekst) või Jisraeli (LXX, Targum)"
+    }
+  ],
+  "translation": "Ütles Adonai: Bašanist ma toon tagasi, ma toon tagasi mere sügavustest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/21-24.1792553187541.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Bašanist"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ma toon tagasi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ma toon tagasi"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "sügavustest"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:27.542127288Z",
+  "model": "glm-5.3"
+}

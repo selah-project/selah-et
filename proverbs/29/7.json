@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tunneb vaeste õigust",
+      "rationale": "KJV lisab 'ei hoia lugu seda teada saada'; heebrea ütleb vaid 'ei mõista teadmist' — lüngad loodud pikkusega, mitte lisatud sõnadega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaeste",
+      "rationale": "דלים otseselt 'rippuvaid, õhukesi, nõrku' — kitsas 'vaesed' jätab kehalise pildi välja."
+    }
+  ],
+  "translation": "Õine tunneb vaeste õigust, õel ei mõista teadmist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/5-8.1792555011023.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "tunneb"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Õine"
+    },
+    {
+      "surface": "דין",
+      "gloss": "õigust"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "vaeste"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mõista"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "teadmist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:51.024643896Z",
+  "model": "glm-5.3"
+}

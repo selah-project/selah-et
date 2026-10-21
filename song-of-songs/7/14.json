@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דודאים \/ דודי",
+      "rationale": "Armulehed (dudaim) ja 'mu armas' (dodi) kõlavad ühesalmiliselt — sõnamäng, mis eesti keeles taandub."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדודאים",
+      "rationale": "'Armulehed' (mandrakes): kirjandlik tõlge; alternatiiv 'mandraagorid' — taim, mida seostati armastusega (1Ms 30:14)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "valitud viljad",
+      "rationale": "מגדים tähendab 'esilepaistvaid asju, parimaid vilju' — üldistatud 'meeldsaid asju' kaotab täpsuse."
+    }
+  ],
+  "translation": "Armulehed on lõhna andnud, ja meie uste ees on kõik valitud viljad, uued ühtlasi vanad; mu armas, sinu jaoks olen ma need salaja varjanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/7\/13-14.1792555794840.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "armulehed"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "on andnud"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "lõhna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja meie uste ees"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "meie ustel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "valitud viljad"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "uued"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ühtlasi"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "vanad"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mu armas"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "olen ma salaja varjanud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu jaoks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:54.841840311Z",
+  "model": "glm-5.3"
+}

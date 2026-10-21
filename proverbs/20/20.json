@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אישון חשך",
+      "rationale": "sõna-sõnalt 'pimeduse pupill (silma väike mees)' — 'sügavaim pimedus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקלל\/נרו ידעך",
+      "rationale": "needusega kustub lamp — kerge (קלל 'kerge, põlglik') ja kustumise pilt"
+    }
+  ],
+  "translation": "Kes neab oma isa ja ema, kustub tema lamp pimmatuse pimeduses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "748b86903346a29a87c3c9293d10a3738c5cd48239d46e83f3222714a58e2b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/20\/17-20.1792554764178.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "neab"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja ema"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "kustub"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "tema lamp"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "pimmatuse"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeduses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:44.179641980Z",
+  "model": "glm-5.3"
+}

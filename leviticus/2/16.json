@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viiruk",
+      "rationale": "לבונה on viiruk — tõlgitud üldtuntud sõnaga, selle nime 'valge' tähendus jääb kaduma."
+    },
+    {
+      "kind": "addition",
+      "subject": "osa",
+      "rationale": "Heebrea ei ütle 'osa' — sõnasõna on 'selle mälestusosa, selle tambutud teradest ja selle õlist'."
+    }
+  ],
+  "translation": "ja preester suitsutagu ⟨את⟩ selle mälestusosa, osa selle tambutud teradest ja selle õlist, koos kogu selle viirukiga — tuleohver Jahvele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/2\/13-16.1792539113905.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ja suitsutagu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle mälestusosa"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "selle mälestusosa"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "selle tambutud teradest"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ja selle õlist"
+    },
+    {
+      "surface": "על",
+      "gloss": "koos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "selle viirukiga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuleohver"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:31:53.906463Z",
+  "model": "glm-5.3"
+}

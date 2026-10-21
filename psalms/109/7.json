@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא רשע",
+      "rationale": "Sõnaltõlge 'lähegu välja õelana' (YLT) vs 'mõistetagu süüdi' (KJV\/JPS) — kohus keeldudes õigeks mõistmast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רשע",
+      "rationale": "Sõna-sõnalt 'õel' kui iseloomustus, siin öeldud 'süüdi mõistetuna', sest väljumine puudutab kohtuotsust, mitte iseloomu."
+    }
+  ],
+  "translation": "Tema kohut mõistes tulgu ta välja süüdi mõistetuna, ja tema palvetigu olgu patuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/5-8.1792553877462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Tema kohut mõistes"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tulgu välja"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "süüdi mõistetuna"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ja tema palvetigu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "patuks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:57.463328489Z",
+  "model": "glm-5.3"
+}

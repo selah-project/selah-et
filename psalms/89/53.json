@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tänu olgu",
+      "rationale": "ברוך on põhimõtteliselt 'ligutatud\/põlvitatud', õnnistatud; eesti kaudkäsk nõuab 'olgu' lisamist"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "kahekordne 'aamen ja aamen' — kordus jääb tervena, nagu heebrea"
+    }
+  ],
+  "translation": "Tänu olgu Jahvele igavesti. Aamen ja aamen.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab2d7a11e0b03a4cb86247a80d0c7ed23c25899170d2a18e8d48b3baa59d53d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/53-53.1792553596495.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tänu olgu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aamen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ja aamen"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:16.495846110Z",
+  "model": "glm-5.3"
+}

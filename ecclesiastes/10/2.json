@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea on koppelkonstruktsioon ilma koppulata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמאל \/ חכם-כסיל",
+      "rationale": "parem\/vasak kandev kujund: parem käsi õnn ja jõud, vasak (juur 'pime, põhi') kuratähe pool — kultuuriline, mitte keeleline"
+    }
+  ],
+  "translation": "Targa süda ⟨on⟩ tema paremal käel, ja rumala süda tema vasakul käel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/10\/1-4.1792556147222.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "targa"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "tema paremal käel"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja rumala süda"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "rumala"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "tema vasakul käel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:47.222801327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jäetakse kõla järgi — tuul\/Vaim\/hingus on üks sõna."
+    },
+    {
+      "kind": "addition",
+      "subject": "templit",
+      "rationale": "Heebreas on מלא subjektiks 'au' ja objektiks puudub artikkel kohta; eesti kääne nõuab pühakoja sõna."
+    }
+  ],
+  "translation": "Ja ruahh tõstis mind üles ja tõi mind siseõuele, ja vaata, Jahve au täitis ⟨את⟩ templi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/43\/5-8.1792550830893.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "ja tõstis mind üles"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "ja tõi mind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "õuele"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "õuele"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "sise-"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täitis"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨את⟩ templi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:47:10.894394109Z",
+  "model": "glm-5.3"
+}

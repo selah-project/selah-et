@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "et",
+      "rationale": "Heebrea infinitiiv להשמדם seisab paljalt; eesti eesmärk-lause nõuab sidesõna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בפרח \/ ויציצו",
+      "rationale": "kaks õitsemise verbi kõrvuti — tärkama ja õitsema — rohi-kujundi tugevdamine"
+    },
+    {
+      "kind": "crux",
+      "subject": "להשמדם",
+      "rationale": "'et nad hävitataks' (eesmärk, nagu KJV\/JPS) vs 'sest nad hävitatakse' (tagajärg) — infinitiivi tähendusvälja tõlkevalik"
+    }
+  ],
+  "translation": "Kui õelased tärkavad nagu rohi ja kõik pahategejad õitsevad — ⟨et⟩ nad hävitataks igavesest igaveseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/5-8.1792553670255.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "tärkavad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelased"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "rohi"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ja õitsevad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pahategejad"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahategejate (objektist)"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "⟨et⟩ nad hävitataks"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igaveseni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:30.257777455Z",
+  "model": "glm-5.3"
+}

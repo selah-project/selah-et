@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגת \/ תגידו",
+      "rationale": "Gat sõnaga תגידו 'kuulutage' — kõlasõna, eesti keeles kulunud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעפרה \/ עפר",
+      "rationale": "kohanimi Beet-LeaFra ('põrumaja') mängib sõnaga עפר 'põrm' — veerdi end põrumajas põrmus"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mina⟩",
+      "rationale": "heebrea hitpa'eli-vorm התפלשתי kannab tegijat 'mina', kuid eesti lause vajab selget asesõna"
+    }
+  ],
+  "translation": "Gatis ärge kuulutage, ärge nutke; Beet-Leafras veeren ⟨mina⟩ põrmus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/1\/9-12.1792551446279.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gatis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kuulutage"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "nutke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "nutke"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafras"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "põrmus"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ma veeren ennast"
+    }
+  ],
+  "timestamp": "2026-10-21T02:57:26.280826189Z",
+  "model": "glm-5.3"
+}

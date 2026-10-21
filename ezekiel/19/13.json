@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea tütarlause passiiv (שתולה, naissoost viinapuu) vajab eesti keeles subjekti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "istutatud",
+      "rationale": "שתול tähendab otseselt 'ümber istutama' — viinapuu on viidud ära oma kohalt"
+    }
+  ],
+  "translation": "Ja nüüd on ⟨ta⟩ istutatud kõrbes, kuivuse ja janu maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "760240454d3d2d7140397754ff3351606b620919c575a7e7e00182fdaf26910b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/19\/13-14.1792549983600.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nüüd"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "istutatud"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kuivuse"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "ja janu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:33:03.601032916Z",
+  "model": "glm-5.3"
+}

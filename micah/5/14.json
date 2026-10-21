@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vihas",
+      "rationale": "באף on sõna-sõnalt 'ninas, ninasõõrme kaudu' — raev on kehaasend, mitte abstraktsioon; eesti keel nõuab 'vihas'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ei kuulanud",
+      "rationale": "שמעו tähendab 'ei kuulnud' tähenduses 'ei allunud, ei täitnud' — kuulmine on kuuletumine"
+    }
+  ],
+  "translation": "Ja ma teen nõu tasu ninasõõrme kaudu — vihas ja raevus täidan ma kätte ⟨את⟩ rahvaste üle, kes ei kuulanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/5\/13-14.1792551517033.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ja ma teen"
+    },
+    {
+      "surface": "באף",
+      "gloss": "vihas"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ja raevus"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kättemaksu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahvaste"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulanud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:58:37.034086503Z",
+  "model": "glm-5.3"
+}

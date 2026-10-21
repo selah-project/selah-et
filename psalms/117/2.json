@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "heebrea puudub kopeeriv verb; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb translitereeritud kujul 'hesed', nagu reegel nõuab"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבר",
+      "rationale": "'on tugev\/meie üle valitsenud' vs 'on meie üle võitnud\/palju'; heebrea kujund jääb avatuks"
+    }
+  ],
+  "translation": "Sest tema hesed on meie üle võitnud, ja Jahve truudus ⟨kestab⟩ igavesti. Halleluja — kiitke Jah!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/117\/1-2.1792553911267.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "on võitnud"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meie üle"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja truudus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:31.267814925Z",
+  "model": "glm-5.3"
+}

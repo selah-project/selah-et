@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "Nimi 'õis' (tsits) ja verb 'õitseb' (jatsits) on sama juure kaja — sõnamäng, mis eesti keeles osaliselt taastub 'õis\/õitseb' paaris."
+    },
+    {
+      "kind": "substitution",
+      "subject": "inimene",
+      "rationale": "אנוש tähendab 'surelik inimene' — rõhk nõrkuses ja surelikus, mitte lihtsalt 'inimene'."
+    }
+  ],
+  "translation": "Inimese päevad on nagu rohi, nagu põllu õis, nõnda ta õitseb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/13-16.1792553775536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "nagu rohi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "nagu õis"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ta õitseb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:15.537488928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "esikpoeg",
+      "rationale": "בכור tähendab 'esmasündinu', nii inimese kui looma kohta"
+    },
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Eesti lause vajab predikatiivse הוא jaoks verbi ⟨kuulub⟩ ja ⟨see⟩"
+    }
+  ],
+  "translation": "Ainult esikpoeg, kes Jahvele esmasündinuna pühitsetakse kariloomade hulgas — seda ei või keegi pühitseda ⟨את⟩: olgu härg, olgu tall, Jahvele kuulub ⟨see⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/27\/25-28.1792539673551.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "esikpoeg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "esmasündinuna pühitsetakse"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "kariloomade hulgas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "või pühitseda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "keegi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda (esikpoega)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tall"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kuulub ⟨see⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T23:41:13.552513209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on hingamine\/elujõud, mitte 'hing' hingehoiatuslikus mõttes; jään heebrea kõla juurde"
+    },
+    {
+      "kind": "addition",
+      "subject": "sind",
+      "rationale": "Heebrea tekst jätab objekti välja; 'kiidab sind' nõuab eesti keeles objekti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלב\/דשן",
+      "rationale": "Rasv ja üleküllus — ohvri rasva kujund, lihvitult rahulolu kujundiks"
+    }
+  ],
+  "translation": "Nagu rasva ja üleküllusega saab küllastunuks mu nefesh, ja rõõmuhõisetega huuled kiidab mu suu sind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/63\/5-8.1792553112610.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasva"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ja üleküllusega"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "saab küllastunuks"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefesh"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ja huuled"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "rõõmuhõisetega"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "kiidab"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mu suu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:12.611790909Z",
+  "model": "glm-5.3"
+}

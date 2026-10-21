@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 9:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebreas puudub sidesõna; eesti keel nõuab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Bini",
+      "rationale": "בן on 'poeg'; põlvnemisahelas jäetakse see üheks liigendiks 'Bini', nagu heebrea lühivorm"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sugupuu",
+      "rationale": "Viie põlvne nimekelaad - isikute loend õigusega meenutada"
+    }
+  ],
+  "translation": "Ja ⟨oli⟩ mees Bini-Jaaminist, ja tema nimi ⟨oli⟩ Kiish, Bini Aviel, Bini Seror, Bini Bekorat, Bini Afiahh, Bini mehe Jemini, vägev väes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/9\/1-4.1792543892488.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja ⟨oli⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "Jaaminist"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja tema nimi"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiish"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Aviel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "Seror"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "בכורת",
+      "gloss": "Bekorat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "אפיח",
+      "gloss": "Afiahh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Bini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Jemini"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "väes"
+    }
+  ],
+  "timestamp": "2026-10-21T00:51:32.490247295Z",
+  "model": "glm-5.3"
+}

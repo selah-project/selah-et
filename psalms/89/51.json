@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨teotust⟩",
+      "rationale": "heebrea lisab חרפת implitsiitselt uuesti; eesti keel vajab objekti kordust selguse jaoks"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Pea meeles",
+      "rationale": "imperatiivne palve, Jumalale suunatud"
+    }
+  ],
+  "translation": "Pea meeles, Adonai, oma sulaste teotust — ma kannan oma rinnas kõigi rahvaste paljude ⟨teotust⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/49-52.1792553627898.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pea meeles"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "teotust"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "oma sulaste"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "ma kannan"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "oma rinnas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "paljude"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:47.899233053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Hebrea puudub kõlasõna; eesti keel vajab sõna 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tänutusohvrid",
+      "rationale": "שלמים tähendab 'tasu\/terviklikkuse ohvrid'; 'tänutusohvrid' on tavatõlge, heebrea sõna kõla kaob"
+    }
+  ],
+  "translation": "See on Toora põletusohvri kohta, ohvriandami kohta, patuohvri kohta ja süüohvri kohta, ja pühitsemisohvrite kohta, ja tänutusohvrite ohverdamise kohta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "27c0e782f3e5810d8f2238974b0852f656416c3ad9b561b22bdb14ef52b1f99a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/7\/37-38.1792539132546.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "on Toora"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "põletusohvri kohta"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ohvriandami kohta"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "ja patuohvri kohta"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "ja süüohvri kohta"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "ja pühitsemisohvrite kohta"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ja ohverdamise kohta"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "tänutusohvrite"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:12.546987221Z",
+  "model": "glm-5.3"
+}

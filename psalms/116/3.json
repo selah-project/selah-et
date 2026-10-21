@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבלי מות",
+      "rationale": "'surma köied\/köied' vs 'surma valud' — sõna חבל tähendab nii köit kui valu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול jääb nimeks, mitte 'põrgu' ega 'hauemaailm'"
+    }
+  ],
+  "translation": "Surma köied ümbritsesid mind ja šeoli kitsused leidsid mu, ahastust ja kurbust ma leian.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/116\/1-4.1792553987391.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ümbristasid mind"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "köied"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ja kitsused"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeoli"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "leidsid mu"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahastus"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ja kurbus"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ma leian"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:47.392429908Z",
+  "model": "glm-5.3"
+}

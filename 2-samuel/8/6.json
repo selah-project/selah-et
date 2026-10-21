@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 8:6",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצבים",
+      "rationale": "Mitmus: 'postid\/garnisonid' või 'valitsejad\/prefektid' — enamik tõlkeid valib garnisonid."
+    },
+    {
+      "kind": "substitution",
+      "subject": "andamit",
+      "rationale": "מנחה on siis andam\/tribuut, mitte ohvrikingimus 'minha'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "päästis",
+      "rationale": "וישע tähendab 'päästis\/andas võidu'; KJV 'preserved' vs ASV 'gave victory'."
+    }
+  ],
+  "translation": "Ja David pani Ari Da⟨mess〉 Damaskusesse sõjaväeposte, ja Aramist sai Davidile teenijaid, andamit kandvad, ja Jahve päästis Davidit kõiges, kuhu ta läks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/8\/5-8.1792544652954.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "sõjaväeposte"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Ari"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskusesse"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramist"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "teenijaid"
+    },
+    {
+      "surface": "נושאי",
+      "gloss": "kandvad"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "andamit"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "ja päästis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõiges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuhu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ta läks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:04:12.958911419Z",
+  "model": "glm-5.3"
+}

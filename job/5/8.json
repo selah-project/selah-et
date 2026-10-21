@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "teine אל on eessõna 'el'; eesti kõla ei luba 'El El-i', seega eessõna sulgudesse."
+    },
+    {
+      "kind": "alternative",
+      "subject": "דברתי",
+      "rationale": "võimalik ka 'oma palve' või 'oma sõna' — דברה tähendab asja, kõnet, põhjust."
+    }
+  ],
+  "translation": "A hoopis, mina otsin üles El-i, ja Elohimi ette panen oma asja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/5\/5-8.1792555152890.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "a hoopis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "otsin üles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El-i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi ette"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "panen"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "oma asja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:12.891190578Z",
+  "model": "glm-5.3"
+}

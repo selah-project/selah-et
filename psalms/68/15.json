@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lund sadas",
+      "rationale": "שׁלג 'lumineb \/ on lumeni valge' — verbi pilt tapetute linastest rõivastest, eesti keeles lauldud ilmastikupildiks."
+    },
+    {
+      "kind": "crux",
+      "subject": "בפרש שדי",
+      "rationale": "'Kui Šaddai pillutas' — mõned lugevad 'Basani Härjamaal' (בפר = Härjamaa), sidudes jäärgmise salmiga."
+    }
+  ],
+  "translation": "Kui Šaddai seal kuningaid pillutas, lund sadas Tsalmonis ⟨see⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/13-16.1792553184313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "kui ... pillutas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningaid"
+    },
+    {
+      "surface": "בה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "lund sadas"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "Tsalmonis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:24.314332816Z",
+  "model": "glm-5.3"
+}

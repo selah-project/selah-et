@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebreas puudub kopeeriva oleviku tegusõna; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jahve ees",
+      "rationale": "ליהוה ('Jahve jaoks\/ees') on renderdatud eestipäraselt käändega, mitte eessõnaga"
+    }
+  ],
+  "translation": "A Sodomi mehed ⟨olid⟩ kurjad ja patused Jahve ees ⟨vägega⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/13\/13-16.1792537473082.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ja mehed"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomi"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kurjad"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ja patused"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve ees"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:33.083169740Z",
+  "model": "glm-5.3"
+}

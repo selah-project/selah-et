@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefe",
+      "rationale": "בנפשו 'tema nefeligа' — nefel on elujõud, mitte 'hing'; KJV 'mine own soul', ASV 'his life' lahku lähevad"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפשו",
+      "rationale": "kelle nefel: kõneleja oma (KJV\/JPS) või Avšalomi oma (ASV 'his life')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא כן kontekst",
+      "rationale": "v13 jätkab v12 tingimust: 'või (kui ma oleksin teinud)…'"
+    }
+  ],
+  "translation": "Või oleksin ma teinud tema nefelega ⟨tema⟩ elu vastu pettuse, ja ükski asi ei jää peidetud kuninga eest, ja sina ise ⟨siis⟩ seisaksid mu vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/18\/13-16.1792544866628.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "oleksin teinud"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "tema nefeli — elu vastu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pettus"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja ükski"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "jää peidetud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "eest"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "seisaksid"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "mu vastu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:07:46.629863845Z",
+  "model": "glm-5.3"
+}

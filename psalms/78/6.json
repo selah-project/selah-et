@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "neist",
+      "rationale": "Eesti kaudne objekt nõuab lisatud viidet, heebreas jääb see konteksti"
+    }
+  ],
+  "translation": "Selleks, et tunneks tulevane põlvkond, pojad, kes sünnivad, kes tõusevad ja räägivad neist oma poegadele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2149cee6f13cc441aeedddc44382796a7489691504cdf8736fb1dcc788b90e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/5-8.1792553455255.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "selleks, et"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tunneksid"
+    },
+    {
+      "surface": "דור",
+      "gloss": "põlvkond"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "tulevane"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "kes sünnivad"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "tõusevad"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ja räägivad"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "nende poegadele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:55.256163305Z",
+  "model": "glm-5.3"
+}

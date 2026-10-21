@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "Vanne tõlgitakse tavaliselt eitusega («kindlasti ei näe ükski...»); «kui» säilitab heebrea tingiva sidesõna kuju."
+    },
+    {
+      "kind": "idiom",
+      "subject": "see kurat põlv",
+      "rationale": "Heebrea appositsioon «הדור הרע הזה» on täiendus, mitte uus nimetatud rühm."
+    }
+  ],
+  "translation": "Kui ükski nendest meestest, see kurat põlv, ei näe seda head ⟨את⟩ maad, mille ma vandusin anda teie isadele —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/33-36.1792540574663.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ei näe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ükski mees"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "nendest meestest"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "põlv"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "head"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ma vandusin"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "anda"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "teie isadele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:56:14.665177316Z",
+  "model": "glm-5.3"
+}

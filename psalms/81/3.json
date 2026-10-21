@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תף",
+      "rationale": "tamburiin (käsitselüüratsiou trumm) — 'kandle hääl' on küll viga; õigemini: 'andke tamburiini'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nebel",
+      "rationale": "נבל on 12-keelne kannel\/psalter; jäetud kõla järgi nimeks"
+    }
+  ],
+  "translation": "Võtke üles laul ja andke kandle hääl, armas kannel koos nebeliga!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/81\/1-4.1792553507151.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Võtke üles"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "laul"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "תף",
+      "gloss": "kandle hääl"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kannel"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "armas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebeliga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:47.152316753Z",
+  "model": "glm-5.3"
+}

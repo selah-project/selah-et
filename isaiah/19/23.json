@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את (854)",
+      "rationale": "Siin on את prepositsioon 'koos', mitte objektimarker: 'teenib koos Assuriga' (KJV\/JPS) vs 'teenib Assurit' (orjana)"
+    }
+  ],
+  "translation": "Sel päeval saab olema maantee Mitsraimist Assurisse, ja Assur tuleb Mitsraimi ning Mitsraim Assuri, ja Mitsraim teenib koos ⟨את⟩ Assuriga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/21-24.1792546928878.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "samasel"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "saab olema"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "maantee"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Assurisse"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ja tuleb"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ja Mitsraim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "Assuri"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ja teenivad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assuriga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuriga"
+    }
+  ],
+  "timestamp": "2026-10-21T01:42:08.879995279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 33:23",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "painutanud ennast",
+      "rationale": "נכנע tähendab sõna-sõnalt 'põlviliigutama, alandama'; 'alandas ennast' oleks täpsem kujund"
+    },
+    {
+      "kind": "crux",
+      "subject": "hBRBH AShMH",
+      "rationale": "'kordas üha rohkem süüd' (juut. traditsioon ja YLT) vs 'suurendas süüd'; heebrea infinitiiv אשמה kandub otse"
+    }
+  ],
+  "translation": "Aga ta ei painutanud ennast Jahve palge ees, nagu oli painutanud ennast Menasše, tema isa; sest tema, Amon, kordas süüd üha rohkem.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "297338e508f900282c9279f692e027bdc01c6186fa2b0c1cf026eda34dc7946f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/33\/21-24.1792558184335.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "נכנע",
+      "gloss": "painutanud ennast"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כהכנע",
+      "gloss": "nagu oli painutanud ennast"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasše"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tema isa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kordas üha rohkem"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "süüd"
+    }
+  ],
+  "timestamp": "2026-10-21T04:49:44.336739669Z",
+  "model": "glm-5.3"
+}

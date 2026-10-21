@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 13:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פים",
+      "rationale": "pim esineb Tanahhis ainult siin; kaalumõõt, umbes 2\/3 seeklit."
+    },
+    {
+      "kind": "crux",
+      "subject": "pim",
+      "rationale": "KJV luges 'viil' (tänapäeva teadmine: mõõt 'pim'); JPS\/BSB 'pimi hind'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולשלש קלשון",
+      "rationale": "'kolmeharuline kahvel' vs 'kolmandik seeklit' (BSB); mõlemad võimalikud."
+    },
+    {
+      "kind": "measurement",
+      "subject": "pim",
+      "rationale": "Salm nimetab kaalumõõtu (pim) teritustöö hinnana."
+    }
+  ],
+  "translation": "Ja viilimise hind oli pim matest ja äketelt ning kolmeharulise kahvli ja kirveste jaoks ning esi ⟨teritamiseks⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "120d8c878cc517918208a6576b7c2857257af530c550366fea7ce813295c2815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/13\/21-23.1792543920925.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "הפצירה",
+      "gloss": "viilimise"
+    },
+    {
+      "surface": "פים",
+      "gloss": "pim"
+    },
+    {
+      "surface": "למחרשת",
+      "gloss": "matest"
+    },
+    {
+      "surface": "ולאתים",
+      "gloss": "ja äketelt"
+    },
+    {
+      "surface": "ולשלש",
+      "gloss": "ja kolmelise"
+    },
+    {
+      "surface": "קלשון",
+      "gloss": "kahvli"
+    },
+    {
+      "surface": "ולהקרדמים",
+      "gloss": "ja kirveste jaoks"
+    },
+    {
+      "surface": "ולהציב",
+      "gloss": "ja esi püstitamiseks"
+    },
+    {
+      "surface": "הדרבן",
+      "gloss": "esi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:00.926218916Z",
+  "model": "glm-5.3"
+}

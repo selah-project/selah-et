@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושטן",
+      "rationale": "KJV 'Satan', teised 'adversary' — siin koht ilmselt inimene-süüdistaja kohtus, tõlgitud 'vastane'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עליו",
+      "rationale": "Kohati 'tema üle' (võimu all), kuid koos 'seisma' mõistega 'tema kõrvale\/kõrval' — süüdistaja seisab süüdistatava kõrval."
+    }
+  ],
+  "translation": "Määra tema kõrvale õel ja vastane seisku tema paremal käel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/5-8.1792553877462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Määra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema kõrvale"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õel"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ja vastane"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisku"
+    },
+    {
+      "surface": "על",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "paremal käel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:57.463134733Z",
+  "model": "glm-5.3"
+}

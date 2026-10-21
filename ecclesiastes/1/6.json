@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סובב סובב ... סביבתיו שב",
+      "rationale": "Juure סבב kordus viis korda koos שב-ga — tuule ringliikumine tehtud kuuldatavaks; eesti 'ringi-ringi' aitab, kuid ei kanna kogu tihedust"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "Heebrea רוח on üks sõna — 'tuul', 'vägi', 'hingus'; eesti 'ruahh' säilitab ühetähenduslikkuse"
+    }
+  ],
+  "translation": "Läheb lõunasse ja pöörab ringi põhja; ringi-ringi käib ruahh, ja oma ringidel pöördub ruahh tagasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/5-8.1792556035506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "läheb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "lõunasse"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ja pöörab ringi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "põhja"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "käib"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja mööda"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "oma ringeid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "pöördub tagasi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruahh"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:55.507422830Z",
+  "model": "glm-5.3"
+}

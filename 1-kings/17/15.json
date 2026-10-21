@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Elija⟩",
+      "rationale": "asesõnad הוא\/והיא on eesti jaoks vastassooga täpsustatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mitu⟩",
+      "rationale": "ימים 'päevad' pluuralis suunitlusega 'palju päevi'"
+    }
+  ],
+  "translation": "Ja ta läks ja tegi Elija sõna järgi; ja tema sõi, tema ⟨Elija⟩ ja tema koda — ⟨mitu⟩ päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "abd7c02b3ec8f488cdcb15d5b438955f1e3c3beb632ddba858b5d1e3a10c924f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/17\/13-16.1792545640727.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ja ta läks"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sõna järgi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja sõi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ja tema koda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T01:20:40.730262792Z",
+  "model": "glm-5.3"
+}

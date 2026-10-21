@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 25:22",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "panis üle",
+      "rationale": "פקד on 'külastama, üle vaatama, ametisse panema' — kontekst määrab tähenduse 'määras kuberneriks'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kaljumäger",
+      "rationale": "lemma שפן tähendab loomana kaljumäge, kuid siin on see inimese nimi Šafan ja nii jääb see nimeks"
+    }
+  ],
+  "translation": "Ja rahvale, kes jäi Juuda maale ja kelle Nebukadnetsar, Babeli kuningas, oli järele jätnud, pani ta nende üle ⟨את⟩ Gedalja, Ahikami poja, Šafani poja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/25\/21-24.1792546491298.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ja rahvas"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "kes jäi järele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "oli järele jätnud"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "pani (üle)"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende üle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalja"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikami"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafani"
+    }
+  ],
+  "timestamp": "2026-10-21T01:34:51.299846098Z",
+  "model": "glm-5.3"
+}

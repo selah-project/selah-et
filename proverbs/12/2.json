@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיק רצון",
+      "rationale": "'toob välja meelepidamise' — hea inimene saavutab Jahve heakskiidu; alternatiivne luge: Jahve annab heale inimesele meelepidamise"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Jahve⟩",
+      "rationale": "teises pooltasus puudub tegevussubjekt; eesti keeles lisatud selguseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meelepidamine",
+      "rationale": "רצון on 'soosing, meelepidamine', sõnaliselt 'tahtmine'"
+    }
+  ],
+  "translation": "Hea ⟨on⟩ see, kes Jahvelt osa saab meelepahast ⟨vabanemisest⟩; aga kurja kavaluse mehe teeb ⟨Jahve⟩ süüdlaseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/1-4.1792554640088.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "saab osa \/ toob välja"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "meelepidamist"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvelt"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "aga mees"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "kavalusi"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "teeb süüdlaseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:40.088837345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 24:23",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keele ajavorm nõuab 'oli käsinud', heebrea צוה on lihtminevik"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Eessõna אל sulandub eesti pöördsõnaga 'rääkis Jisraeli poegadele'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kividega",
+      "rationale": "אבן on ainsuses 'kiviga', kuid eesti tavasõna on 'kividega' — tegu on heebrea tavapärase väljendiga"
+    }
+  ],
+  "translation": "Ja Moše rääkis Jisraeli poegadele, ja nad viisid ⟨את⟩ needja väljapoole laagrit ja paiskasid ⟨את⟩ teda kividega; ja Jisraeli pojad tegid nii, nagu Jahve oli käskinud ⟨את⟩ Mošet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/24\/21-23.1792539580447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja rääkis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegadele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ja nad viisid välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "needja"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "needja"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "väljapoole"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "laagrit"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "ja paiskasid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kividega"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tegid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii, nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošet"
+    }
+  ],
+  "timestamp": "2026-10-20T23:39:40.448885220Z",
+  "model": "glm-5.3"
+}

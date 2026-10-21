@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא",
+      "rationale": "נשא 'või.Uint nõudma' vs נשא 'kandma\/ära viima' — 'tema peale ei saa' ka võimalik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "andam",
+      "rationale": "נשא tähendab võlgade kättenõudmist; 'andamit ajama' edastab surve tähenduse"
+    }
+  ],
+  "translation": "Ei aja vaenlane temalt andamit peale, ja ülekohuse poeg teda ei rõhu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/21-24.1792553610256.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "aja peale andamit"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temalt"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ja poeg"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ülekohuse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "rõhu teda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:30.257078701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 11:12",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Copula supplied for the recognition formula, Hebrew lacks it."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "",
+      "rationale": "First אשר functions as the causal link 'for\/because' after the formula; Estonian colon carries it."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerusalem's leaders",
+      "rationale": "Direct second-person-plural address continues the judgment speech against the men of the city."
+    }
+  ],
+  "translation": "Ja te tunnete ära, et mina ⟨on⟩ Jahve: minu määrustes te ei käinud ja minu kohtumõistmeid te ei teinud, vaid ümberkaudsete rahvaste kohaselt te tegite.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/11\/9-12.1792549710141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Ja te tunnete ära"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "minu määrustes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "te käinud"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ja minu kohtumõistmeid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "te teinud"
+    },
+    {
+      "surface": "וכמשפטי",
+      "gloss": "vaid ... kohaselt"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ümberkaudsete teist"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "te tegite"
+    }
+  ],
+  "timestamp": "2026-10-21T02:28:30.143630432Z",
+  "model": "glm-5.3"
+}

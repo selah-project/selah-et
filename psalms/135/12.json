@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחלה נחלה",
+      "rationale": "Kordus: 'pärandiks, pärandiks' — heebrea kordab sõna rõhuks, eesti keeles säilitatud."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Sidesõna 'tema' lisatud eesti kõlalisuse jaoks; heebrea עמו on 'tema rahvas'."
+    }
+  ],
+  "translation": "ja andis nende maa pärandiks, pärandiks Jisraelile, ⟨tema⟩ rahvale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "781ca35a308d590b6917aae6c52dcc94fc691669097430572681af0483e33b95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/135\/12-12.1792558607935.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ja andis"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "nende maa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "pärandiks"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "pärandiks"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema rahvale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:47.938227092Z",
+  "model": "glm-5.3"
+}

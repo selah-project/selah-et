@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Veereta",
+      "rationale": "גול tähendab sõna-sõnalt 'veeretama'; enamik tõlkeid ütleb 'usalda', pilt kaob."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ see, kes",
+      "rationale": "Eesti kõlafraas vajab rõhutatud והוא jaoks sidesõna, heebrea seda ei ole."
+    }
+  ],
+  "translation": "Veereta oma tee Jahve peale ja looda tema peale, ja tema ⟨on⟩ see, kes teeb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/5-8.1792552722853.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Veereta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "oma tee"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "ja looda"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:42.853885895Z",
+  "model": "glm-5.3"
+}

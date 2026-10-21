@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "need kolm päeva",
+      "rationale": "heebrea חליתי היום שלשה on sõnajärjega 'haige olen olnud päeva kolm' — eesti sõnajärg nõuab ümberkorraldust"
+    },
+    {
+      "kind": "you",
+      "subject": "Davidilt haigele noorukile",
+      "rationale": "David küsib otse: kelle oma sa oled ja kust sa oled"
+    }
+  ],
+  "translation": "Ja David ütles talle: kelle oma sa oled ja kust sa pärit oled? Ja ta ütles: noorukina olen ma mitsritlane, orjas ühele amaleki mehele; ja mu isand jättis mu maha, sest ma olen haige olnud need kolm päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/30\/13-16.1792544432890.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למי",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ja kust"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "siit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "נער",
+      "gloss": "noorukina"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "mitsritlane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "orjas"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "üle ühele mehele"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amaleki"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "ja jättis mu maha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mu isand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "olen haige olnud"
+    },
+    {
+      "surface": "היום",
+      "gloss": "need"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T01:00:32.891111887Z",
+  "model": "glm-5.3"
+}

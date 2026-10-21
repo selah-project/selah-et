@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העיר התיכנה",
+      "rationale": "'kesklinn' vs 'keskmine õu' (esiplats) — heebrea tekst ütleb 'linna keskmine [osa]'; KJV 'middle court' tuleb tõenäoliselt sõna עיר ('õu') teisest lugemisest."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ja sündis",
+      "rationale": "ויהי on lause avav vormel 'ja oli nii, et', eesti keeles 'ja sündis'."
+    }
+  ],
+  "translation": "Ja sündis: Ješajahu ei olnud veel keskset linnaosast välja jõudnud, kui Jahevi sõna tuli tema juurde, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/1-4.1792546404860.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "olin veel jõudnud välja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linnaosast"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "kesksest"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ja sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahevi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tema juurde"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-21T01:33:24.862396511Z",
+  "model": "glm-5.3"
+}

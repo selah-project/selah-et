@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub sidesõna; eesti keel nõuab"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תכון",
+      "rationale": "Ka 'jäbeks jääma, teda ülal pidama' — 'püstitatud' on otsesem kujund"
+    }
+  ],
+  "translation": "kelle juures mu käsi ⟨on⟩ kindlalt püstitatud, ja mu käsivars ka teda tugevdab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/21-24.1792553610256.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käsi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨on⟩ kindlalt püstitatud"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema juures"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "mu käsivars"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "teda tugevdab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:30.256791979Z",
+  "model": "glm-5.3"
+}

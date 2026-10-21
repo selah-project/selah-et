@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab olevat, heebrea seda ei ütle"
+    },
+    {
+      "kind": "crux",
+      "subject": "התל",
+      "rationale": "'narritama' (KJV\/JPS) vs 'petma' (Geneva\/ASV) — juur ühendab mõlemad"
+    },
+    {
+      "kind": "you",
+      "subject": "sõpradele",
+      "rationale": "Iiob pöördub otse kolme sõbra poole"
+    }
+  ],
+  "translation": "Kas ⟨on⟩ hea, et ta teid põhjalikult uurib? Kas te petate teda, nagu petetakse surelikku?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/9-12.1792555274663.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "kas ⟨on⟩ hea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "põhjalikult uurib"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "nagu petetakse"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "surelikku"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "te petate"
+    },
+    {
+      "surface": "בו",
+      "gloss": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:14.664413878Z",
+  "model": "glm-5.3"
+}

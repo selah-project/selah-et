@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paljastab kõrva",
+      "rationale": "wayyigleg ozen on otsekohene pilt 'kõrv paljaks teha' — idiom 'avama kõrva' haihtub; 'õpetuseks' katab musari nii karistuse kui õpetuse"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאון",
+      "rationale": "awen tähendab 'tühjus, pahatus, ebajumal' — valitud 'ülekohtus' kui laiem pahatus"
+    }
+  ],
+  "translation": "Ja ta paljastab nende kõrva õpetuseks ja ütleb, et nad pöörduksid tagasi ülekohtust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/36\/9-12.1792555640065.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ja ta paljastab"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "nende kõrva"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "õpetuseks"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütleb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "nad pöörduksid tagasi"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "ülekohtust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:20.066182580Z",
+  "model": "glm-5.3"
+}

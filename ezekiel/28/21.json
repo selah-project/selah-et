@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "prohvetile Hesekielile",
+      "rationale": "Jumala kõne pöördub otseselt 'inimesepoja' poole."
+    },
+    {
+      "kind": "substitution",
+      "subject": "inimesepoeg",
+      "rationale": "בן אדם on otseselt 'inimese poeg', mitte üldine 'inimene'."
+    }
+  ],
+  "translation": "Inimespooeg, pööra oma nägu Tsidoni poole ja prohvetenda tema vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "220d8c7a45d6df066f1c93654310aa45daa615d836d24eb69465c58f080b106f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/28\/21-24.1792550335435.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "inimesepoeg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "שים",
+      "gloss": "pane"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sinu nägu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ja prohvetenda"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tema vastu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:38:55.436466369Z",
+  "model": "glm-5.3"
+}

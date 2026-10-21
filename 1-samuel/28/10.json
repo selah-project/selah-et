@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "'Jahve elab' — heebrea vandumisvorm, 'nii tõesti kui'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עון",
+      "rationale": "sõna otseses tähenduses 'pahesus, eksimus'; siin karistusena, nagu 'pahesus ei satu sinu peale'"
+    }
+  ],
+  "translation": "Ja Šaul vandus talle Jahve nimel, öeldes: Nii tõesti kui Jahve elab, ei taba sind selle asja pärast karistus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/28\/9-12.1792544253353.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ja vandus"
+    },
+    {
+      "surface": "לה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve nimel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "חי",
+      "gloss": " elab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "taba sind"
+    },
+    {
+      "surface": "עון",
+      "gloss": "karistus"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "selle asja pärast"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    }
+  ],
+  "timestamp": "2026-10-21T00:57:33.354810758Z",
+  "model": "glm-5.3"
+}

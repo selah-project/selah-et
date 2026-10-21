@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kurvastanud",
+      "rationale": "עצבו: 'ei olnud teda pahandanud\/kurvastanud ega noominud' — kõik tõlkijad pehmendavad erinevalt."
+    },
+    {
+      "kind": "addition",
+      "subject": "tema ema",
+      "rationale": "Heebrea ütleb üksnes 'tõi ilmale'; subjekt on lisatud selguseks (מימיו kontekstist Davidi naine Haggit)."
+    }
+  ],
+  "translation": "Ja tema isa ei olnud teda kogu tema päevade ajal kurvastanud, öeldes: Miks sa nii tegid? Ja tema oli ka väga ilusa välimusega, ja tema ema tõi ⟨את⟩ ta ilmale pärast Avšalomi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/1\/5-8.1792545100319.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "kurvastanud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tema isa"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "kogu tema päevade ajal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tegid"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ja ka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilusa"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "välimusega"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tõi ilmale"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:11:40.322762218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושננתם",
+      "rationale": "שנן tähendab 'teritama, korduvalt süstima' — eesti 'kordama-õpetad' hoiab kordamise pildi, tavaline 'usinasti õpetama' kaotab selle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "istud\/käid\/heidad\/tõused",
+      "rationale": "Kolm infinitivkonstruktsiooni + paar antiteesidest (majas\/teel, lamades\/tõustes) — päeva täielik ring"
+    }
+  ],
+  "translation": "Ja sa kordama-õpetad neid oma lastele ja räägid neist, kui sa istud oma majas ja kui sa käid teel ning kui sa heidad magama ja kui sa tõused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/6\/5-8.1792540666323.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ja sa kordama-õpetad"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "oma lastele"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ja räägid"
+    },
+    {
+      "surface": "בם",
+      "gloss": "neist"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "kui sa istud"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "oma majas"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ja kui sa käid"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teel"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "kui sa heidad magama"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ja kui sa tõused"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:46.324625883Z",
+  "model": "glm-5.3"
+}

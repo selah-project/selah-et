@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olgu",
+      "rationale": "Eesti keel vajab käskivat kõneviisi, heebrea partitsipe on nimiline"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalju",
+      "rationale": "צור on järsk kaljurünkas, 'kivi' oleks liiga väike pilt"
+    }
+  ],
+  "translation": "Taavetile. Kiidetud olgu Jahve, mu kalju, kes õpetab mu käed sõjaks, mu sõrmed lahinguks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/144\/1-4.1792554384240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Taavetile"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "kiidetud olgu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "kes õpetab"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käed"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "sõjaks"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mu sõrmed"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "lahinguks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:24.240565342Z",
+  "model": "glm-5.3"
+}

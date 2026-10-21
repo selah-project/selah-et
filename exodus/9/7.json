@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨vaatama⟩",
+      "rationale": "Heebrea ütleb vaid 'saatas' — saatmise eesmärk (kontrollida) on lisatud, mitte tekstis."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד אחד",
+      "rationale": "Otsene 'kuni üks' tähendab idiomina 'mitte ükski'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sai raskeks",
+      "rationale": "ויכבד on kõva 'raskeks muutumine' (kaal, raskus), mitte 'kangestus'."
+    }
+  ],
+  "translation": "Ja Paraoh saatas ⟨vaatama⟩, ja vaata — Jisraeli kariloomadest ei olnud surnud ükski; ja Paraohi süda sai raskeks, ja ta ei lasknud ⟨את⟩ rahvast minna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd39f570aa916172511f2f0bdf97ee05281021bea126b548275b64ed02f44fa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/9\/5-8.1792538421076.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מת",
+      "gloss": "surnud"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "kariloomadest"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ühtegi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ükski"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ja sai raskeks"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraohi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "lasknud minna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahvast"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:21.077179939Z",
+  "model": "glm-5.3"
+}

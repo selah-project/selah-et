@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pahategu",
+      "rationale": "עון tähendab ' eksimus\/pahategu', aga 'נשא עון' on idioom 'kandma\/andestama eksimust' — traditsioon loeb seda 'karistusena', nagu KJV 'my punishment'; eesti tekst jätab valiku lahtiseks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוני מנשא",
+      "rationale": "sõnade õhkus: 'suur on mu pahategu kanda' — verbi puudumine jätab lause peaaegu otsese kõnelausena, mis tõlkes tasandub."
+    }
+  ],
+  "translation": "Ja Kain ütles Jahvele: suur on mu pahategu, ⟨rohkem kui kanda jaksan⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "614a325e7ab193bba258d3f466e4c3590238162024961e7204c4ea38bbad684d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/4\/13-16.1792537357115.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mu pahategu"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "kui kanda"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:37.116464602Z",
+  "model": "glm-5.3"
+}

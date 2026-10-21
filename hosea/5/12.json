@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koide",
+      "rationale": "עש on rõivaid sööev koi — vaikne sisemine lagundaja, mitte välise löögi kujund"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעש \/ וכרקב",
+      "rationale": "Kaks paralleelset lagunemiskujundit: koi (Efraim) ja kõdu (Juuda)"
+    }
+  ],
+  "translation": "Ja mina olen nagu koide Efraimile ja nagu kõdu Juuda hoonele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea7228a07a1c959833b7a5e463e837d63fa3e709d76090717e3b576714feddda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/5\/9-12.1792550975835.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ja mina"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "nagu koide"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraimile"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ja nagu kõdu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "hoonele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:35.836557961Z",
+  "model": "glm-5.3"
+}

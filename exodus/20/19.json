@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Suunaline partikkel sulandub eesti käändesse 'Mošele'."
+    },
+    {
+      "kind": "you",
+      "subject": "rahvas Mošele",
+      "rationale": "Otsene pöördumine: rahvas kõneleb Mošega, käsk 'räägi sina meiega'."
+    }
+  ],
+  "translation": "Ja nad ütlesid Mošele: räägi sina meiega ja me kuuleme; ärgu räägigu Elohim meiega, et me ei sureks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/17-20.1792538593004.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ja nad ütlesid"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "räägi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meiega"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ja me kuuleme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägigu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meiega"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "me ei sureks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:13.005586142Z",
+  "model": "glm-5.3"
+}

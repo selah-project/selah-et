@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laek",
+      "rationale": "ארון on sõna-sõnalt 'kirst\/laegas', mitte 'liidu laegas' — hoitud lihtsalt 'laek'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Even-ha-Ezer",
+      "rationale": "paiknemäärus on jaotatud kaheks tokeniks מאבן + העזר, üks kohanimi"
+    }
+  ],
+  "translation": "Ja filistlased võtsid ⟨את⟩ Elohimi laeka ja tõid selle Even-ha-Ezerist Ashdodi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/1-4.1792543751742.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ja filistlased"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "võtsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimi laeka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laeka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ja tõid selle"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Even-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezerist"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdodi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:11.744169942Z",
+  "model": "glm-5.3"
+}

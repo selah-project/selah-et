@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "Hoiame heebrea sõna hesed, mitte 'armastus' ega 'halastus'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוחי 'mu ruahh' — hingus\/elujõud, mitte 'vaim' ega 'hing' üksi."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדתך",
+      "rationale": "'Sinu külastus\/hoolitsus\/piinamine' — paqad on mitmetähenduslik: hoolekanne või karistus, mis siin teravalt kõlab."
+    }
+  ],
+  "translation": "Elu ja hesedi tegid sa minuga, ja sinu hoolitsus hoidis mu ruahhi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5b244dc857c8dc500384d425383971a53fb7804a31da230e00b822d82ca665e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/10\/9-12.1792555186507.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ja hesedi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tegid sa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minuga"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "ja sinu hoolitsus"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "hoidis"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mu ruahhi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:46.508611144Z",
+  "model": "glm-5.3"
+}

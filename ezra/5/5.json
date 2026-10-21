@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 5:5",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Aramaic טעמא 'asi' lacks a demonstrative; eesti keel vajab selle selguseks 'see'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "asi",
+      "rationale": "טעמא tähendab sõna-sõnalt 'maitset', kõnekäändena 'kohtuotsus\/asjaolu'"
+    }
+  ],
+  "translation": "Aga nende Elohimi silm oli Juuda vanemate peal, ja nad ei suutnud neid peatada, kuni ⟨see⟩ asi jõudis Dariuse juurde, ja siis vastati kirjaga selle asja kohta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c12269a154ee8906e589cd04b1fe162a19b41ca4dea296c6068b0a519771fd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/5\/5-8.1792556702684.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועין",
+      "gloss": "ja silm"
+    },
+    {
+      "surface": "אלההם",
+      "gloss": "nende Elohimi"
+    },
+    {
+      "surface": "הות",
+      "gloss": "oli"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "vanemate"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "בטלו",
+      "gloss": "suutnud neid peatada"
+    },
+    {
+      "surface": "המו",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "Dariuse juurde"
+    },
+    {
+      "surface": "יהך",
+      "gloss": "jõudis"
+    },
+    {
+      "surface": "ואדין",
+      "gloss": "ja siis"
+    },
+    {
+      "surface": "יתיבון",
+      "gloss": "vastati"
+    },
+    {
+      "surface": "נשתונא",
+      "gloss": "kirjaga"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohta"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "selle"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:02.684893434Z",
+  "model": "glm-5.3"
+}

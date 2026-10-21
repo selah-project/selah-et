@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתינו jääb juurena 'tsedek', mitte 'õigus' ega 'võit' (JPS 'victory')"
+    },
+    {
+      "kind": "invitation",
+      "subject": "באו ונספרה",
+      "rationale": "hüüd koos kutsungiga 'tulge ja räägigem' — köidab kuulaja"
+    }
+  ],
+  "translation": "Jahve on välja toonud ⟨את⟩ meie tsedek; tulge ja räägigem Siionis ⟨את⟩ Jahve, meie Elohimi teost.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/51\/9-12.1792549520822.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "on välja toonud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meie tsedek"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "meie tsedek"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulge"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "ja räägigem"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siionis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teost"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "teo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T02:25:20.824461383Z",
+  "model": "glm-5.3"
+}

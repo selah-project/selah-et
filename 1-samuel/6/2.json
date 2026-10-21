@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "end juurde",
+      "rationale": "Eesti kõne vajab kutsujale suunda, heebrea vaid קרא + daativ"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laegas",
+      "rationale": "ארון tähendab lihtsalt kasti\/laeka, nimetus 'liidu laegas' tekstis puudub"
+    },
+    {
+      "kind": "you",
+      "subject": "plistlaste käest",
+      "rationale": "Küsimus ja käsk 'andke teada' pöörduvad otseselt preestrite ja ennustajate poole"
+    }
+  ],
+  "translation": "Ja plistlased kutsusid ⟨end juurde⟩ preestreid ja ennustajaid, öeldes: Mida me teeme Jahve laegasega? Andke meile teada, millega saadame selle tema endisele kohale tagasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8163b932545a7fd9309a51ec7c18914fce54082652ab8395ecabc855561981be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/2-3.1792558325622.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ja kutsusid"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plistlased"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "preestreid"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "ja ennustajaid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "me teeme"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "laegasega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "andke meile teada"
+    },
+    {
+      "surface": "במה",
+      "gloss": "millega"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "saadame selle"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "tema endisele kohale tagasi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:05.623465747Z",
+  "model": "glm-5.3"
+}

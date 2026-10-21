@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחם",
+      "rationale": "Sama tüvi nagu Lo-Ruhama (s 6): Jisraelile 'pole armastatud', Jehuda vest saab armastada — kõrvutus jääb eesti keeles vaid osaliselt."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביהוה",
+      "rationale": "'Jahve nende Elohimiga' — kas ' läbi \/ poolt Jahvet' (instrumentaal) või 'Jahve, nende Elohim, päästab'; eestis jäetud instrumentaalseks."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ Jehuda vest ma armastan ja päästan nad Jahve nende Elohimiga, ega päästa neid vibuga ega mõõga ega sõjaga, hobuste ega ratsanikega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/1\/5-8.1792550952315.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehuda vest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vest"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ma armastan"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ja päästan nad"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nende Elohimiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "päästa neid"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "vibuga"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ega mõõga"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ega sõjaga"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "hobuste"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ega ratsanikega"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:12.317142835Z",
+  "model": "glm-5.3"
+}

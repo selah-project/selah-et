@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kasuvõtt",
+      "rationale": "בנשך tähendab otseselt 'hammustust' — võetud laenu intressilt; 'intress' on mõisteline asendus"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea puudub isikuline asesõna; lisatud eesti käänete selguseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iialgi",
+      "rationale": "לעולם on 'varjatud aeg, kaugpunkt' — ajatus, mitte lihtsalt 'iialgi'"
+    }
+  ],
+  "translation": "Oma hõbedat ei anna ta kasuvõtule ega võta altkäemaksu süütu vastu — kes seda teeb, ei kõigu iialgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/15\/5-5.1792552336674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "oma hõbedat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annab ta"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "kasuvõtule"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ega altkäemaksu"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "süütu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "võta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kes teeb"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "seda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kõigu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iialgi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:16.674927373Z",
+  "model": "glm-5.3"
+}

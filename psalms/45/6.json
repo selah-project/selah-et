@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sõnajärg",
+      "rationale": "heebrea sõnajärg on killustatud: 'nooled teravad — rahvad sinu alla langevad — südamesse kuninga vaenlaste'; tõlkijad paigutavad lause liikmed erinevalt"
+    }
+  ],
+  "translation": "Sinu nooled on teravad — rahvad langevad sinu alla — need ⟨tungivad⟩ südamesse kuninga vaenlaste.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/5-8.1792552870877.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "sinu nooled"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "teravad"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sinu alla"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "langevad"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "südamesse"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "vaenlaste"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:10.879457030Z",
+  "model": "glm-5.3"
+}

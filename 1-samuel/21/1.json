@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "David",
+      "rationale": "Heebrea jätab subjekti (David, 20:42 järel) nimetamata; eesti keel nõuab seda"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨David⟩",
+      "rationale": "Lisatud subjekt sulgudes, sest salmi tegija jääb heebrea keeles nimetamata"
+    }
+  ],
+  "translation": "Ja ⟨David⟩ tõusis ja läks minema; ja Jonatan läks linna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/21\/1-4.1792544168146.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja ⟨David⟩ tõusis"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja läks minema"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ja Jonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "läks"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    }
+  ],
+  "timestamp": "2026-10-21T00:56:08.147666808Z",
+  "model": "glm-5.3"
+}

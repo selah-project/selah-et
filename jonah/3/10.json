@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahetles",
+      "rationale": "נחם on sõna-sõnalt 'ohkama, tugevalt hinge tõmbama' — 'kahetsema' on tavatõlge, kuid ei kannata hinge tõmmet"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרעה \/ הרעה",
+      "rationale": "Sama sõna 'kurja\/halva' kordub: nad pöörasid kurjalt teelt, ja Elohim kahetsetud kurja — sõnamäng, mis seob teo ja tagajärje"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Eesliit 'üle\/kohal' ei ole eesti kaudobjekti puhul eraldi tõlgitav"
+    }
+  ],
+  "translation": "Ja Elohim nägi ⟨את⟩ nende tegusid, et nad olid pöördunud tagasi oma kurjalt teelt; ja Elohim kahetses ⟨את⟩ ⟩kohaliku halva⟨ ⟨את⟩ halva, millest ta oli rääkinud, et ta neile teeks, ja ta ei teinud seda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jonah\/3\/9-10.1792558533770.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende tegusid"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "nende tegusid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nad olid pöördunud tagasi"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "oma teelt"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kurjalt"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ja kahetses"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "halva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millest"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ta oli rääkinud"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et teeks"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teinud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:33.775573605Z",
+  "model": "glm-5.3"
+}

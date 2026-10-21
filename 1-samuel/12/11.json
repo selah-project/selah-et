@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Bedan",
+      "rationale": "בדן 'Bedan' — LXX ja Targum lugevad 'Barak', Wycliffe 'Sampson'; kolm võimalust"
+    },
+    {
+      "kind": "you",
+      "subject": "Iisraelile",
+      "rationale": "Šmueli kõne teise isiku pöödes: 'päästis teid', 'te elasite'"
+    }
+  ],
+  "translation": "Ja Jahve saatis ⟨את⟩ Jerubbaali ja ⟨את⟩ Bedani ja ⟨את⟩ Jiftahi ja ⟨את⟩ Šmueli, ja päästis ⟨את⟩ teid teie ümberringi olevate vaenlaste käest, ja te elasite turvaliselt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/12\/9-12.1792543844332.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaali"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Bedani"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jiftahi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Šmueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmueli"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ja päästis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "teie vaenlaste"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ümberringi"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ja te elasite"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "turvaliselt"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:44.336640728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paistetega",
+      "rationale": "עפלים tähendab nii 'paistetust\/kasvajat' kui 'kindluskünka'; kujundlik kattuvus jääb eesti keeles kadunuks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותעל ... השמים",
+      "rationale": "Hüüd 'tõusis' (עלה) 'taevasse' - heebrea kõlakord tõusmine\/taevas rõhutab kisa kõrgust, eesti keeles jääb nõrgemaks"
+    }
+  ],
+  "translation": "Ja mehed, kes ei surnud, löödi paistetega, ja linna hüüd tõusis taevasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/9-12.1792543743370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Ja mehed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "surnud"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "löödi"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "paistetega"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ja tõusis"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "hüüd"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taevasse"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:03.374524534Z",
+  "model": "glm-5.3"
+}

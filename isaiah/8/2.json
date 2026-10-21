@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mehed",
+      "rationale": "Eesti keel vajab kandvat sõna; heebrea laseb omadussõnal נאמנים ise nimisõna tähendust kanda."
+    }
+  ],
+  "translation": "Ja ma tõstan endale tunnistajaks usaldusväärsed mehed: ⟨את⟩ Urja preestri ja ⟨את⟩ Sekarja, Jeberekja poja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/8\/1-4.1792546810947.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ja ma tõstan tunnistajaks"
+    },
+    {
+      "surface": "לי",
+      "gloss": "endale"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "tunnistajad"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "usaldusväärsed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urja preestri"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sekarja"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Sekarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekja"
+    }
+  ],
+  "timestamp": "2026-10-21T01:40:10.948712605Z",
+  "model": "glm-5.3"
+}

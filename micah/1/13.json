@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 1:13",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רתם",
+      "rationale": "'Rakenda riistades' — haruldane tegusõna; osad loevad käsku ('rakenda kaarik'), teised oletavad sõna mõranemist ja paigutavad puuduva teksti järele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hobustele",
+      "rationale": "לרכש on rendihobane, posti-teenistuse loom; 'hobune' kaotab ameti varju."
+    },
+    {
+      "kind": "you",
+      "subject": "Lakishi asukas",
+      "rationale": "Pöördumine Lakishi elaniku poole, naissoost partitsiip יושבת."
+    }
+  ],
+  "translation": "Rakenda kaarik hobustele, Lakishi asukas: tema ⟨on⟩ patu algus Tsiioni tütre jaoks, sest sinus leiti Jisraeli üleastumised.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e58cdf6ab36079e078ebc23e8684a54a179cff85e840de61b7a24d1496642c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/1\/13-16.1792551445665.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רתם",
+      "gloss": "rakenda"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "kaarik"
+    },
+    {
+      "surface": "לרכש",
+      "gloss": "hobustele"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "asukas"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakishi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "algus"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "patu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "tütre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiioni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinus"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "leiti"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "üleastumised"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T02:57:25.665596088Z",
+  "model": "glm-5.3"
+}

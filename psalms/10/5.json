@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "õitsevad",
+      "rationale": "יחילו (juur חול) tõlgitud 'õitsevad\/kindleks jäävad' (ASV\/BSB) vs 'rasked\/on tusas' (KJV) vs 'õitsevad' (JPS\/Geneva); juur tähendab algupäraselt keerduma\/värelema."
+    },
+    {
+      "kind": "substitution",
+      "subject": "puhab üle",
+      "rationale": "יפיח sõna-sõnalt 'puhub (pahalt)', põlguse liigutus vaenlaste suunas."
+    },
+    {
+      "kind": "idiom",
+      "subject": "eemal tema silmist",
+      "rationale": "מנגדו sõna-sõnalt 'tema ees\/temast eemal', tähendab 'väljaspool tema nägemisulatust'."
+    }
+  ],
+  "translation": "Tema teed õitsevad igal ajal, sinu kohtumõistmised on kõrgel, eemal tema silmist; kõiki oma vaenlasi puhub ta üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/5-8.1792552305714.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "õitsevad"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tema teed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "igal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kõrgel"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sinu kohtumõistmised"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "eemal tema silmist"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "oma vaenlasi"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "puhub üle"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:45.715382872Z",
+  "model": "glm-5.3"
+}

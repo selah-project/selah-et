@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub kopeeruv verb 'ta on vägev' — lause on peaaegu rööpline"
+    },
+    {
+      "kind": "crux",
+      "subject": "יועידני",
+      "rationale": "'kes määrab mulle aja (kohtumõistmiseks)' vs 'kes kutsub mu välja'; mõlemad võimalikud"
+    }
+  ],
+  "translation": "Kui jõust, vaata, ta ⟨on⟩ vägev; ja kui kohtust, kes seab mind ⟨kohuse ette⟩?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/17-20.1792555220425.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "jõust"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kohtust"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "seab mind ⟨kohuse ette⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:20.425988524Z",
+  "model": "glm-5.3"
+}

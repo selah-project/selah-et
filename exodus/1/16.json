@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבנים",
+      "rationale": "Kaksus 'kaks kivi' — kas sünnitustool, potiketas või otseselt kaks kivi; kujusõnana jäetud 'kivipaar'."
+    },
+    {
+      "kind": "you",
+      "subject": "vaarao",
+      "rationale": "Otsene kõne ämmaemandatele (naissugu, naislõpp -כן\/-ן), käsud tulevad Mitsraimi kuningalt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בילדכן",
+      "gloss ": "",
+      "rationale": "'Kui te aitate ... sünnitama' — otse 'kui te sünnitate neile'; kausatiiv lühenenud."
+    }
+  ],
+  "translation": "ja ütles: kui te aitate heebria naisi sünnitada ja näete neid kivipaaril — kui poeg see on, siis tappke ⟨את⟩ ta ära, ja kui tütar, siis elagu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/1\/13-16.1792538239188.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "aitate sünnitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heebria naisi"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "heebria naisi"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "ja näete"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivipaaril"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see on"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "siis tappke"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see on"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "siis elagu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:17:19.190233136Z",
+  "model": "glm-5.3"
+}

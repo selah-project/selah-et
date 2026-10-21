@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti koomale vajalik verb, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב...אהב",
+      "rationale": "korduv 'armastab' seob paralleeli: rõõmu-armastus toob puuduse, veini-armastus ei too rikkust"
+    }
+  ],
+  "translation": "Rõõmu armastav mees ⟨on⟩ puuduses, veini ja õli armastaja ei rikastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/17-20.1792554859359.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "puuduses"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastab"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "rõõmu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastaja"
+    },
+    {
+      "surface": "יין",
+      "gloss": "veini"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ja õli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "rikastu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:19.359711657Z",
+  "model": "glm-5.3"
+}

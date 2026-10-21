@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "süda lõi teda",
+      "rationale": "Heebrea idiom 'süda lõi teda' = südametunnistus tulistas teda; jäetud sõnasõnaliselt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "äärise",
+      "rationale": "כנף on otseselt 'tiib', rõiva kontekstis 'kuue äär või kuljus'."
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "אשר לשאול on konstruktsioon 'mis Saulile', eesti keel vajab kopulat 'oli'."
+    }
+  ],
+  "translation": "Ja sündis pärast seda, et Davidi süda lõi ⟨את⟩ teda, sest ta oli lõiganud ⟨את⟩ äärise, mis oli Saulil.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "29eac7974ee29c48af6575d40d5b23d0a2c1e0fab5e0a62a85877172c79f3599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/24\/6-7.1792558318179.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seda"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "löi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda (Davidi)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "oli lõiganud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "äärise"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "äärise"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "oli Saulil"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:58.179736201Z",
+  "model": "glm-5.3"
+}

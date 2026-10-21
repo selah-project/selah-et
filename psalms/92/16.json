@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kaudne kõnesviis; eesti keel vajab seda"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Kõnesisene konjunktsioon, mis tõlgitakse kaudselt sõnaga 'et'"
+    }
+  ],
+  "translation": "Et kuulutada, et Jahve ⟨on⟩ õige, mu kalju, ja ei mingit ülekohtu temas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "baa0149e723fe8db5984ba405cba4f9deb98970eb859497e40d5395d4469691d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/16-16.1792558613087.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Et kuulutada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "õige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ülekohtu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:53.089008584Z",
+  "model": "glm-5.3"
+}

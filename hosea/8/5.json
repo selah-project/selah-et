@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mu nina on süttinud",
+      "rationale": "חרה אפי sõnasõnalt 'mu nina põles' — viha idiom"
+    },
+    {
+      "kind": "crux",
+      "subject": "זנח",
+      "rationale": "Kes hülgab keda: 'ta hülgas sinu vasika' (Jahve subjektina) vs 'sinu vasikas hülgas sind' (KJV)"
+    },
+    {
+      "kind": "you",
+      "subject": "Šomeronile",
+      "rationale": "Jumal pöördub otseselt Šomeroni poole"
+    }
+  ],
+  "translation": "Hüljatud on sinu vasikas, Šomeron; mu nina on nende vastu süttinud — kuni milleni nad ei suuda puhtust?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/8\/5-8.1792551040033.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "hüljatud"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "sinu vasikas"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "süttinud"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mu nina"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nende vastu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "milleni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "nad suuda"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "puhtust"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:40.034549257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaksteist vürsti",
+      "rationale": "Kokkuvõttev arv: kaksteista poega, kaksteist vürsti — arv langeb kokku 1Ms 17:20 lubadusega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vürsti",
+      "rationale": "נשיא on hõimupealik, tõstetud; 'vürst' on lähim eesti kuju, mitte kuningas."
+    },
+    {
+      "kind": "crux",
+      "subject": "טירתם",
+      "rationale": "'Kindlustatud laager' vs KJV 'castles' vs ASV 'encampments'; sõna tähendab müüri või kindlusega ümbritsetud asulat."
+    }
+  ],
+  "translation": "Need on Jišmaeli pojad, ja need on nende nimed nende asulate ja nende kindlustatud laagrite järgi: kaksteist vürsti nende rahvaste järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b9b1cc5dc6d1465cb8be9cfc3e52427254c6a149068b50f706c01cec1530052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/25\/13-16.1792537722164.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "הם",
+      "gloss": "need on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaeli"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "nende nimed"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "nende asulate järgi"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "ja nende kindlustatud laagrite järgi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "vürsti"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "nende rahvaste järgi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:08:42.165394766Z",
+  "model": "glm-5.3"
+}

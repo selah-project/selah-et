@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 19:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח ei ole ainult 'hing' ega 'tuul' — see on üks sõna, mis kannab hingeust, ja siin pilkab naise meele järgi tema hingeõhku."
+    },
+    {
+      "kind": "crux",
+      "subject": "lapsed",
+      "rationale": "בני בטני sõna-sõnalt 'mu kõhu lapsed'; JPS loeb 'mu hõimu lapsed' — kuju kui sugulaskond."
+    },
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Sovenitud possessiivpronoomen, mida heebrea ei korda."
+    }
+  ],
+  "translation": "Mu ruahh on mu naisele võõras, ja ma palun ⟨oma⟩ südame laste poole, oma kõhu laste poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/19\/17-20.1792555394300.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "mu ruahh"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "võõras"
+    },
+    {
+      "surface": "לאשתי",
+      "gloss": "mu naisele"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "ja ma palun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "laste poole"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mu kõhu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:14.301034066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "sünnitada",
+      "rationale": "ללדת on passiiv-neutraalne 'sündida\/sünnitada'; KJV 'to be born' vs heebrea 'to bring forth'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לטעת \/ נטוע",
+      "rationale": "Sama juur kordub: istutada \/ istutatud — paari järelepidevus"
+    }
+  ],
+  "translation": "Aeg sünnitada ja aeg surra; aeg istutada ja aeg välja kitkuda ⟨see, mis⟩ ⟨on⟩ istutatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/3\/1-4.1792556027365.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "aeg"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sünnitada"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aeg"
+    },
+    {
+      "surface": "למות",
+      "gloss": "surra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aeg"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "istutada"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aeg"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "välja kitkuda"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "istutatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:47.366403104Z",
+  "model": "glm-5.3"
+}

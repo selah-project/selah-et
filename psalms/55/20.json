@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Eesti suhtelause vajab osutust, mida heebrea osaluslause ei kanna."
+    },
+    {
+      "kind": "crux",
+      "subject": "חליפות",
+      "rationale": "'neil ei ole vahetusi' — mõistetud nii 'elu muutumatus eluta' (kjv) kui 'kõnemoodusi\/käitumise muutmata jätmist'; sõna on selles tähenduses hägune."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relatiivi roll kantud eesti suhtelause 'kes' sisse."
+    }
+  ],
+  "translation": "El kuuleb ja vastab neile, ja ⟨see⟩, kes istub muistsest ajast. Sela. Neil ei ole muutusi, ja nad ei karda Elohimit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/17-20.1792552978470.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "kuuleb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ja vastab neile"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja ⟨see⟩, kes istub"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "muistsest ajast"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "muutusi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "neil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja nad ei"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "karda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimit"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:58.472151234Z",
+  "model": "glm-5.3"
+}

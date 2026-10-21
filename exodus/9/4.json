@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ükski⟩",
+      "rationale": "מכל eitusega tähendab 'mitte ühestki kõigest' — eesti keeles vajalik üksnes-sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "asi",
+      "rationale": "דבר tähendab nii 'sõna, asi, loom' — siin kõik, mis Jisraeli lastele kuulub"
+    }
+  ],
+  "translation": "ja Jahve teeb erinevuse Jisraeli karja ja Mitsraimi karja vahel, ja Jisraeli laste seast ei sure ⟨ükski⟩ asi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9536b8f02f1201db2c51c8e5dd43a6ce8c11a3e40892dcd9981106108b1927a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/9\/1-4.1792538413308.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "ja teeb erinevust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "karja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja vahel"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "karja"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sure"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ühestki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "laste seast"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:13.309967541Z",
+  "model": "glm-5.3"
+}

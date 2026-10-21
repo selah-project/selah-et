@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lambaid",
+      "rationale": "Heebrea tekst ütleb ainult 'valvas'; ollus on tekstist tuletatud nagu varasemates tõlgetes"
+    },
+    {
+      "kind": "crux",
+      "subject": "valvas",
+      "rationale": "שמר: 'karjas lambaid' (KJV) vs 'valvas\/hoidis' (YLT otsetõlge)"
+    }
+  ],
+  "translation": "Ja Jaakov põgenes Arami väljale, ja Jisrael teenis naise pärast, ja naise pärast valvas ⟨lambaid⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/12\/13-15.1792551118737.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ja põgenes"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "väljale"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ja teenis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "naise pärast"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "ja naise pärast"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "valvas"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:58.737783185Z",
+  "model": "glm-5.3"
+}

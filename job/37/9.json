@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hajutajatest",
+      "rationale": "מזרים tähendab sõna-sõnalt 'hajutajad' (põhjatuul, mis pillab pilvi); traditsioon lihtsustab 'põhjast'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kamber",
+      "rationale": "חדר on sisetuba — torm tuleb otsekui pale sisekambrist."
+    }
+  ],
+  "translation": "Kambrist tuleb tormituul, ja hajutajatest — külm.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "69b2eae1e74b0dffd42470f4e627f0e6c67bbe4b41b3a164ae80823d517a4346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/9-12.1792555663391.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "käest"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "kamber"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "tormituul"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "ja hajutajatest"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "külm"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:43.391857243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koopula puudub heebreas: 'häving temale' öeldakse nimetavalt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hinge",
+      "rationale": "נפש = elujõud, mitte 'hing' vaimses mõttes"
+    }
+  ],
+  "translation": "Kes hoiab oma suu, hoiab oma hinge; kes avab laialt oma huuled, sellele ⟨on⟩ häving.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/1-4.1792554665220.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "hoiab"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "oma suu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hoiab"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma hinge"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "avab laialt"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "oma huuled"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "häving"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sellele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:05.221056179Z",
+  "model": "glm-5.3"
+}

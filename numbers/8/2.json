@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lampi üles ei",
+      "rationale": "בהעלתך tähendab sõna-sõnalt 'sinu üles-aheldamisel\/tõstmisel' — leegi ülespanemine, mitte lihtsalt süütamine."
+    },
+    {
+      "kind": "elision",
+      "subject": "kui-klausel",
+      "rationale": "Heebrea partitsiipikonstruktsioon ei vaja eesti kaudset kõneviisi sidesõna 'siis'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "räägi",
+      "rationale": "Käsk-pöördumine, mis avab järgneva korralduse."
+    }
+  ],
+  "translation": "Räägi Aharoniga ja ütle talle: kui sa lampi üles ei, siis ⟨את⟩ lambid menora näo ees — seitse lampi annavad valgust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "687e4db0efdf83a8a7adb99b32376839c939246be2300f097864b69b520e3b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/8\/1-4.1792539927037.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "räägi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja ütle"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "kui sa üles ei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lambid"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lambid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ni"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ees"
+    },
+    {
+      "surface": "פני",
+      "gloss": "näo"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "annavad valgust"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lambid"
+    }
+  ],
+  "timestamp": "2026-10-20T23:45:27.038744526Z",
+  "model": "glm-5.3"
+}

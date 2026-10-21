@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עגלות",
+      "rationale": "'Vankrid' (sõjavankrid); BSB ja mõned tõlked loevad צנות-variandi 'kilbid' — heebrea sõnas seisab otseselt 'rattaid käivitav', sõjavanker."
+    },
+    {
+      "kind": "addition",
+      "subject": "Ta",
+      "rationale": "Heebrea particip passiivita lausele lisatud subjekt eesti keele jaoks."
+    }
+  ],
+  "translation": "Ta laseb sõjad lakkuda ma ääreni, ta murrab ambu ja raiub odasti ja põletab vankrid tulega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/46\/9-12.1792552833809.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "laseb lakkuda"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sõjad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "äärteni"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "äärteni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ambu"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "murrab"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "raiuks"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "oda"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "vankrid"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "põletab"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:33.810887258Z",
+  "model": "glm-5.3"
+}

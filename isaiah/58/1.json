@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קרא בגרון",
+      "rationale": "sõna-sõnalt 'hüüa kurku' — täiel hõõgse kõriga karjumine, eesti keeles jäetud sõna-sõnalt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ülestõus",
+      "rationale": "פשע on rahvuslik või moraalne mäss, ei ole pelgalt 'eksimus'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "prohvetile",
+      "rationale": "Jahve käsib prohvetil hüüda — hüüe minori ja šofrari moodi, kuninglik teadaanne"
+    }
+  ],
+  "translation": "Hüüa kurku, ära hoia kinni, nagu šofar tõsta oma häält ja kuuluta mu rahvale nende ülestõus ja Jaakobi soole nende patud!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/58\/1-4.1792547842131.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "hüüa"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "kurku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "hoia kinni"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "nagu šofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "tõsta"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "oma häält"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ja kuuluta"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "mu rahvale"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "nende ülestõus"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ja Jaakobi soole"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "nende patud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:22.132767099Z",
+  "model": "glm-5.3"
+}

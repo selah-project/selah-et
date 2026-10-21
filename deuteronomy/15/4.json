@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברך יברכך",
+      "rationale": "infinitivus absolutus: 'õnnistades õnnistab' — tugevdatud kordus, eestis 'kindlasti õnnistab'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס כי",
+      "rationale": "'ainult et \/ kui vaid' — KJV 'save when' vs ASV\/JPS 'howbeit there shall be no poor'"
+    }
+  ],
+  "translation": "Ainult et sinu seas ei ole vaest, sest kindlasti õnnistab sind Jahve sel maal, mille Jahve, su Elohim, annab sulle pärandiks selle pärimiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/15\/1-4.1792540921500.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Ainult et"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "—"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu seas"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "vaest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "kindlasti"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "õnnistab sind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sel maal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "pärandiks"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "selle pärimiseks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:02:01.501453080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ida poolt",
+      "rationale": "מִקֶּדֶם: 'idast' (KJV, JPS) või 'itta ida suunas' (ASV) — kumb on õige, sõltub lugemisest"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oru",
+      "rationale": "בִּקְעָה on 'lõhe, laias oru mägede vahel'; mitte lihtsalt 'väli'"
+    }
+  ],
+  "translation": "Ja sündis nende teelekulgel ida poolt, et nad leidsid oru Šinari maal ja asusid sinna elama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/11\/1-4.1792537517051.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "nende teelekulgel"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ida poolt"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "et nad leidsid"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "oru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Šinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja asusid elama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    }
+  ],
+  "timestamp": "2026-10-20T23:05:17.052306308Z",
+  "model": "glm-5.3"
+}

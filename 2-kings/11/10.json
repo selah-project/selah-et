@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Kaks korda lisatud oleviku-verb, mida heebrea ei sisalda."
+    },
+    {
+      "kind": "hapax",
+      "subject": "השלטים",
+      "rationale": "Sõna šeleṭ ilmub Tanahhis vaid siin ja paralleelkohas 2Aj 23:9 — tähendus 'kilbist' on tuletatud."
+    }
+  ],
+  "translation": "Ja preester andis sadasate ülematele ⟨את⟩ odad ja ⟨את⟩ kilbid, mis ⟨olid⟩ kuningas Davidi omad, mis ⟨olid⟩ Jahve majas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ff8e7e442f8e4a0f09177127b412e769bcb7d3900ae6b43d8cb9ed4634246e89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/9-12.1792546115438.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja andis"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "ülematele"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sadasate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odad"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "odad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kilbid"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "kilbid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:28:35.440289869Z",
+  "model": "glm-5.3"
+}

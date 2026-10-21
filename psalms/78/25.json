@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "'Jõuliste' (vägevad) vs 'inglite' (LXX\/käänud) vs 'jõulist' kui Jumalast — heebrea אַבִּיר tähendab tõul või vägev olend."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "rationale": "'Igaüks' heebrea 'iš' (üksik mees) kohal; kogu kogudonduse mõte."
+    }
+  ],
+  "translation": "Jõuliste leiba sõi igaüks, toitu saatis ta neile küllastuseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/25-28.1792553455141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "jõuliste"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sõi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "toitu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saatas"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "küllastuseni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:55.141653484Z",
+  "model": "glm-5.3"
+}

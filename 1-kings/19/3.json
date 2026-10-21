@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Heebrea וירא on paljas 'ja ta nägi' — objekt puudub, lisatud ⟨seda⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "läks ⟨pärast⟩ oma nefeshi",
+      "rationale": "אל נפשו otse 'oma nefeshi juurde' = elu pärast põgenema; eestis nõuab see põhjusmäärata"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירא",
+      "rationale": "Juured ראה 'nägi' ja ירא 'kardis' on konsonantidelt ühendid — paljud tõlkijad loevad 'ja ta kartis'"
+    }
+  ],
+  "translation": "Ja nähes seda, tõusis ta ja läks ⟨pärast⟩ oma nefeshi, ja tuli Beer-Šebasse, mis kuulub Juudale, ja jättis ⟨את⟩ oma sulase sinna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "764f04f0955a05537db0ef3baba40aed83930debed9085becc204ed7166178a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/19\/2-3.1792558376288.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja nähes seda"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "tõusis"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "läks"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma nefeshi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šebasse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kuulub Juudale"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ja jättis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma sulase"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "oma sulase"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:56.288906831Z",
+  "model": "glm-5.3"
+}

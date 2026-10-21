@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האגמים",
+      "rationale": "'sood' või 'roostikud' (KJV\/ASV) vs JPS 'kindlused' — sõnast אגם 'mudasoost'; siin roostikud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel nõuab passiivijuhtlause jaoks 'on', heebrea osastav konstruktsioon puudub"
+    }
+  ],
+  "translation": "Ja koolmekohad ⟨on⟩ vallutatud, ja ⟨את⟩ roostikke põletati tulega, ja sõjamehed ⟨on⟩ ehmunud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e0667be2e372106fceaa9511c9b2d67c41ceb4e6d858c853189623e6083a484",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/51\/29-32.1792549437691.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "ja koolmekohad"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "vallutatud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "roostikud"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "roostikud"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "põletati"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja ... mehed"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sõja"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ehmunud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:23:57.693269464Z",
+  "model": "glm-5.3"
+}

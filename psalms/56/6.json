@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nõrivad",
+      "rationale": "יעצבו tähendab otseselt 'nõrisema\/moodistama' — tõlkijad: 'moonutavad mu sõnu' (KJV) vs 'nõrivad\/ahvardavad' (Geneva, JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי",
+      "rationale": "Salm 5 'tema sõna' vs siin 'mu sõnad' — vastandus Jumala sõna ja vaenlaste kallutatud inimsõna vahel"
+    }
+  ],
+  "translation": "Kogu päeva nõrivad nad mu sõnu; kõik nende mõtted on minu vastu kurjuseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/5-8.1792553015500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mu sõnu"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "nõrivad nad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "nende mõtted"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "kurjuseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:35.501728601Z",
+  "model": "glm-5.3"
+}

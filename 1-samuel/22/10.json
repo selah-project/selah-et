@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Jahve käest",
+      "rationale": "heebrea ביהוה 'Jahve poolest' = temalt pärima; eesti kasutab käändepilti 'käest'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ja küsis Jahve käest",
+      "rationale": "kas Ahimelek küsis Jahvelt Daavidi eest või andis Doeg seda valesti ette — tekst ise jääb kaheseks (vt 22:13, kus Šaul nii tõlgendab)"
+    }
+  ],
+  "translation": "ja küsis tema jaoks Jahve käest, ja andis talle toitu, ja ⟨את⟩ Goljati, plislaste, mõõga andis talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/22\/9-12.1792544151404.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ja küsis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema jaoks"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve käest"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "ja toitu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Goljati mõõk"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goljati"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "plislane"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-21T00:55:51.405750009Z",
+  "model": "glm-5.3"
+}

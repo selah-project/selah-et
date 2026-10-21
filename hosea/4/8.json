@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "'Patt' või 'patuohver': preestrid sõid patuohvrid — topelttähendus jäetakse 'pattu nad söövad' sõnastusesse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hinge",
+      "rationale": "נפש on kurgu\/hingamise\/jõu sõna, mitte immateriaalne 'hing'; 'oma himu' samuti võimalik."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נפשו",
+      "rationale": "Ainsuse sufiks rahva kohta: 'selle (rahva) hing ahmib nende süü järele'."
+    }
+  ],
+  "translation": "Mu rahva pattu nad söövad, ja nende süü poole nad tõstavad oma hinge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/4\/5-8.1792550926854.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "pattu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahva"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "nad söövad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja poole"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nende süü"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nad tõstavad"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T02:48:46.855935677Z",
+  "model": "glm-5.3"
+}

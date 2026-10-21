@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "אֱלֹהִים: 'Elohim' vs 'kohtumõistjad' (mitmus auastmes, vt Ps 82); nime asendus pole lubatud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pilga \/ kirja",
+      "rationale": "קלל sõnasõnalt 'kergeks tegema', ארר 'needma' — kaks erinevat tegevust, mõlemad keelatud"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Kaks keeld otseselt kogukonnale"
+    }
+  ],
+  "translation": "Elohimat ära pilga ja oma rahva ülemat ära kirja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c2af7ba27c532a768ccf1cc6ff3da38ff52fc8ca557f4944e4e16b00a82d4d52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/22\/25-28.1792538643265.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "pilga"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ja oma rahva ülemat"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "oma rahva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "kirja"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:03.267391478Z",
+  "model": "glm-5.3"
+}

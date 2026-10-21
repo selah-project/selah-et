@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבערו",
+      "rationale": "'muutunud metsikuks\/loomaliseks' vs 'põlenud' — sama juur tähendab nii tulesöömist kui loomalikkust; käänetöötlus 'karjased on muutunud loomadeks' (Genova) vs 'on pöörased'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Eesti keeles vajalik subjektipronoomeni kordus pärast kõrvallauset."
+    }
+  ],
+  "translation": "Sest karjased on muutunud metsikuks ⟨את⟩ Jahvet nad ei otsinud; seepärast nad ei mõistnud tegutseda targalt ja kogu nende kari on pillutatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/10\/21-24.1792548297064.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "on muutunud metsikuks"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "karjased"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "otsinud"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "mõistnud tegutseda targalt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "nende kari"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "on pillutatud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:04:57.065075263Z",
+  "model": "glm-5.3"
+}

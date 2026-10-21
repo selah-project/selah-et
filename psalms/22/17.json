@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כארי",
+      "rationale": "Masoreedi tekst: 'nagu lõvi [on mu käed ja jalad]'; mõned loevad כארו 'nad läbistasid' (nii KJV, tuginedes muudetule) — 'nagu lõvi' jäetakse siin masoreedi kujuks."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeelata verbi; 'nagu lõvi' lauses nõuab eesti keel 'on'-sõna."
+    }
+  ],
+  "translation": "Sest koerad ümbritsevad mind, kurjategijate kogu piirab mind sisse; nagu lõvi ⟨on⟩ mu käed ja mu jalad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/17-20.1792552541761.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ümbritsevad mind"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "koerad"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "kurjategijate"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "piirab mind sisse"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "nagu lõvi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käed"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ja mu jalad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:41.762539541Z",
+  "model": "glm-5.3"
+}

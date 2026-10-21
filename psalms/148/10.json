@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metsloomad",
+      "rationale": "החיה (elusolend, loom) tõlgitakse mujal 'elukad'; siin valik 'metsloomad' vastandina בהמה 'kariloomad' paaris"
+    }
+  ],
+  "translation": "metsloomad ja kõik kariloomad, roomajad ja tiivaga linnud,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da315beae6179eb95ca14d90070a725f84edac6cfe9096be2945a0e263a995e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/148\/9-12.1792554340174.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "metsloomad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "kariloomad"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "roomajad"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ja linnud"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tiivaga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:40.175409890Z",
+  "model": "glm-5.3"
+}

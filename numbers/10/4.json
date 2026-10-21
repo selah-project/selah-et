@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ראשי אלפי ישראל",
+      "rationale": "'Jisraeli tuhandete pealikud' — אלף on nii sõjaväe-ühik ('tuhat') kui hõimujaotus; arvuline mõõt jääb nähtavaks."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ühega",
+      "rationale": "באחת naisesoost arvsõna viitab ühele pasunile (חצוצרה on naissoost) — 'puhuvad ühega' mitte 'ühe pasunaga', heebrea jätab nimisõna välja."
+    }
+  ],
+  "translation": "Ja kui nad puhuvad ühega, kogunevad sinu juurde vürstid, Jisraeli tuhandete pealikud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ec48da0700fefbb516884a805dba57a3c68612e51ba1ddd8845f108caf35819d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/10\/1-4.1792539908635.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ühega"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "puhuvad"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "kogunevad"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu juurde"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "vürstid"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pealikud"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tuhandete"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-20T23:45:08.636027312Z",
+  "model": "glm-5.3"
+}

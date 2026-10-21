@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli\/olnud",
+      "rationale": "Eesti keel nõuab kopeelat, heebrea omastavkonstruktsioon seda ei sisalda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנה\/פנינה",
+      "rationale": "Hanna ('armu') ja Pinina ('pärl') nimede vastandus kaduma eesti keeles"
+    }
+  ],
+  "translation": "Ja tal ⟨oli⟩ kaks naist: ühe nimi ⟨oli⟩ Hanna ja teise nimi ⟨oli⟩ Pinina; ja Pininal ⟨oli⟩ lapsed, ja Hannal ei ⟨olnud⟩ lapsi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/1\/1-4.1792542294960.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Ja tal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naist"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanna"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja teise nimi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "teine"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Pinina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨oli⟩"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Pininal"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "lapsed"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "ja Hannal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ⟨olnud⟩"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "lapsed"
+    }
+  ],
+  "timestamp": "2026-10-21T00:24:54.963510011Z",
+  "model": "glm-5.3"
+}

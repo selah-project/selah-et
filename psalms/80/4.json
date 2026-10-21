@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השיבנו \/ ונושעה",
+      "rationale": "Korduv refrään (salm 4, 8, 20) — „pööra tagasi \/ päästa“ kõlavad teineteises; varjatu kordus eesti keeles kadunud."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "Ühispalve palveformel — hüüe Elohimile."
+    }
+  ],
+  "translation": "Elohim, too meid tagasi ja lase oma näol paista, ja me päästetakse!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/80\/1-4.1792553512565.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "too meid tagasi"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ja lase paista"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oma näol"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ja me päästetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:52.567723530Z",
+  "model": "glm-5.3"
+}

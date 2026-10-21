@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 2:33",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aujärjele",
+      "rationale": "כסא on sõna-sõnalt 'istetool'; 'aujärg' on kohati kasutatud, kuid 'tronn' vältimiseks valitud 'aujärg'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בראש ... ובראש",
+      "rationale": "korduv 'pea peale' ehitas veri-löömingu retoorika, mis eesti keeles säilib"
+    }
+  ],
+  "translation": "Ja nende veri pöördugu tagasi Joabi pea peale ja ta seeme pea peale igaveseks; aga Davidile ja ta seemele ja ta majale ja ta aujärjele olgu rahu igavesti, Jahve poolt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "073b6f02b96554669512d96159e7aacfe0ac5d23c48b159336762cf540a1d10a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/2\/33-36.1792545093324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "pöördugu tagasi"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "nende veri"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pea peale"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ובראש",
+      "gloss": "ja ... pea peale"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ta seeme"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "ולדוד",
+      "gloss": "aga Davidile"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "ja ta seemele"
+    },
+    {
+      "surface": "ולביתו",
+      "gloss": "ja ta majale"
+    },
+    {
+      "surface": "ולכסאו",
+      "gloss": "ja ta aujärjele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "poolt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:11:33.325030880Z",
+  "model": "glm-5.3"
+}

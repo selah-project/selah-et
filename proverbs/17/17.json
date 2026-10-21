@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sõber",
+      "rationale": "הרע on 'kaaslane, ligemene'; 'sõber' on köige loomulikum eesti vaste, kuid sõna ise on laiem"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ja vend sünnib õnnetuse jaoks",
+      "rationale": "םיולד võib tähendada ka 'leidetakse, osutub' — 'vend leiab asja ahastuses'"
+    }
+  ],
+  "translation": "Igal ajal armastab sõber, ja vend sünnib õnnetuse jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/17\/17-20.1792554794250.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "igal"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastab"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sõber"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ja vend"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "õnnetuse jaoks"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "sünnib"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:14.250790729Z",
+  "model": "glm-5.3"
+}

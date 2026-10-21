@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Heprea verb נתנו on mitmuses, kuid subjekt puudub; lisatud ⟨nad⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "linna põld ja külad",
+      "rationale": "leviidi linnade jagamise loend — maa-ala ja omandi loendamine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "külad",
+      "rationale": "חצריה tähendab sõna-sõnalt 'selle õued \/ ümbertõmmatud asulad'"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ linna põllu ja ⟨את⟩ selle külad andsid nad Kalevile, Jefunne pojale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64856c99f64cbd4f76b22ebd58503854a0979f8096c54f982adec649990b3571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/41-44.1792557245364.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "linna põllu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "põld"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "selle külad"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "selle külad"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "andsid"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalevile"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    }
+  ],
+  "timestamp": "2026-10-21T04:34:05.364563019Z",
+  "model": "glm-5.3"
+}

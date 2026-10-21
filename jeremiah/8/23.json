@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Heebrea soovivorm 'kes annaks' — eesti keeles 'kui ainult mu pea oleks vesi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "läbitorgatud",
+      "rationale": "חלל on 'läbitorgatu (tapetu)', mitte üldine 'surnud'"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלעד\/Gilad",
+      "rationale": "Paiknimede nimekujud: heebrea kõla 'Gilad' vs tavaomane 'Gilead'"
+    }
+  ],
+  "translation": "Kes annaks mu peale vett ja mu silmale pisarate allika, et nutaksin päeval ja öösel ⟨את⟩ mu rahva tütre läbitorgatuid!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/8\/21-23.1792548139542.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annaks"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pea"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ja mu silm"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "allikas"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "pisarate"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "et nutaksin"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öösel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "läbitorgatuid"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "läbitorgatuid"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T02:02:19.544555027Z",
+  "model": "glm-5.3"
+}

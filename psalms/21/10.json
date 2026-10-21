@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אש...אש",
+      "rationale": "tuli kordub värss alguses ja lõpus, raamistab hävingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "viha",
+      "rationale": "אף on sõna-sõnalt 'ninasõõr\/angu', viha metonüüm"
+    }
+  ],
+  "translation": "Sa sead nad nagu tuliuks ahju oma näo ajal; Jahve neelab nad oma vihas, ja tuli neid ära sööb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/21\/9-12.1792552403412.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Sa sead nad"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "nagu... ahju"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "su näo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "oma vihas"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "neelab nad"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ja ... sööb nad"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:23.414010351Z",
+  "model": "glm-5.3"
+}

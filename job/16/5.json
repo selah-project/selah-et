@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "leevendust",
+      "rationale": "Heebrea יחשך (säästma\/leevendama) objekt on nimetatud; KJV-lisand 'teie kurbus' ei ole tekstis"
+    },
+    {
+      "kind": "crux",
+      "subject": "וניד",
+      "rationale": "harva sõna 'huulte liikumine': kas leebe liigutus või pepe-liigutus (pead raputamine, vt 16:4 kontekst)"
+    }
+  ],
+  "translation": "Ma tugevdaksin teid oma suuga, ja mu huulte liigutus tooks ⟨leevendust⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/16\/5-8.1792555303117.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "tugevdaksin teid"
+    },
+    {
+      "surface": "במו",
+      "gloss": "oma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suuga"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "ja liigutus"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mu huulte"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "tooks leevendust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:43.118150309Z",
+  "model": "glm-5.3"
+}

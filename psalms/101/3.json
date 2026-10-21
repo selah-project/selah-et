@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "'Väärtusetu' (sõna-sõnalt 'ilma kasuta') vs õigenimena 'Belijal' — siin tähendus, mitte nimi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "see ei kleepu minu külge",
+      "rationale": "לא ידבק בי võib tähendada ka minulikku otsust 'ma ei lase sellel endale külge jääda'; antud jaatusväide."
+    }
+  ],
+  "translation": "Ei sea oma silmade ette väärtusetut asja; kõrvalekaldujate tegu ma vihkan — see ei kleepu minu külge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/101\/1-4.1792553744505.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ei"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "sea"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ette"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oma silmade"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asja"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "väärtusetut"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegu"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "kõrvalekaldujate"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ma vihkan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "kleepu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minu külge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:44.506505827Z",
+  "model": "glm-5.3"
+}

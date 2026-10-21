@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פח יקוש",
+      "rationale": "otseselt 'püüdja võrk' — linnuujahipilt, eestis 'linnunõel' on tuntud väljend, kuid 'nõel' võib eksitada; 'linnunõel' on võimalik"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר הוות",
+      "rationale": "'hukkav katk' vs 'rängalt laastav katk'; הווה juur tähendab langemist, hävingut"
+    },
+    {
+      "kind": "you",
+      "subject": "sina",
+      "rationale": "Järgnev salmidelõik pöördub otse kuulaja poole"
+    }
+  ],
+  "translation": "Sest tema päästab sind linnunõost ja hukkavat katku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/1-4.1792553668097.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "päästab sind"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "nõost"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "linnunõo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "katku"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "hukkavast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:28.098943159Z",
+  "model": "glm-5.3"
+}

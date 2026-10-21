@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaenlased",
+      "rationale": "צרי sõna-tähendus on 'kitsad (kohad)', siin kui nimisõna 'vaenlased'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pühamu",
+      "rationale": "היכל tähendab suurt hoonet — palee või pühamu; 'pühamu' valitud konteksti järgi."
+    }
+  ],
+  "translation": "Ja Juuda ja Binjamine vaenlased kuulsid, et pagenduse pojad ehitavad pühamu Jahvele, Jisraeli Elohimi jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/4\/1-4.1792556727827.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulsid"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "vaenlased"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ja Binjamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pagenduse"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "ehitavad"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "pühamu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:27.828410062Z",
+  "model": "glm-5.3"
+}

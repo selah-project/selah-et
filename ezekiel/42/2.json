@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mõõdud",
+      "rationale": "Sada küünart pikkust, viiskümmend küünart laiust — templi mõõtmise register"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל פני ארך",
+      "rationale": "Kõva fraas: 'pikkuse esiküljele sada küünart' — tõlked jagunevad 'ukseni' (KJV) ja 'esikülje poolest' (JPS) vahel"
+    }
+  ],
+  "translation": "Pikkuse poolest sada küünart põhja ukseni, ja laius viiskümmend küünart.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/42\/1-4.1792550755450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "poolest"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pikkuse poolest"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pikkus"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ukseni"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "põhja"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ja laius"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viiskümmend"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "küünart"
+    }
+  ],
+  "timestamp": "2026-10-21T02:45:55.450780643Z",
+  "model": "glm-5.3"
+}

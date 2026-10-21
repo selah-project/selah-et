@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 58:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tsedekat teeb",
+      "rationale": "verbi עשה paigutus: eesti sõnajärg nõuab verbi enne objekti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה \/ צדק",
+      "rationale": "sama juur kordub kahes väljendis — tsedeka ja tsedek —, eesti keeles nähtav vaid juure kaudu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kohust",
+      "rationale": "משפט kuulub D2: 'kohus, õigus'; siin Elohimi õiguslik korraldus"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ mind nad otsivad päevast päeva ja tahavad tunda minu teid, nagu rahvas, kes teeb tsedekat ja ei jäta maha oma Elohimi kohust: nad küsivad minult õiguse otsuseid, nad soovivad Elohimi lähedust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/58\/1-4.1792547842131.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ mind",
+      "marks": "mind"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päevast"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ידרשון",
+      "gloss": "nad otsivad"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja tunda"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "minu teid"
+    },
+    {
+      "surface": "יחפצון",
+      "gloss": "nad tahavad"
+    },
+    {
+      "surface": "כגוי",
+      "gloss": "nagu rahvas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "teeb tsedekat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja kohust"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "oma Elohimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "jäta maha"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "nad küsivad minult"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "otsuseid"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "õiguse"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "lähedust"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "יחפצון",
+      "gloss": "nad soovivad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:22.133721487Z",
+  "model": "glm-5.3"
+}

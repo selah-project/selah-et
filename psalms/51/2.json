@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pärast seda kui",
+      "rationale": "כאשר on lihtsalt 'kui\/nagu'; täpsustav 'pärast seda' tuleneb kontekstist, heebrea ütleb vaid 'kui'."
+    },
+    {
+      "kind": "elision",
+      "subject": "בת שבע",
+      "rationale": "Nimi Bat-Ševa on jaotatud kaheks tokendiks, eesti üks kujutis."
+    }
+  ],
+  "translation": "Kui Naatan, prohvet, tuli tema juurde, pärast seda kui ta oli läinud Bat-Ševa juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/1-4.1792553014383.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Kui ... tuli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tema juurde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naatan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prohvet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pärast seda kui"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oli läinud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:34.383959027Z",
+  "model": "glm-5.3"
+}

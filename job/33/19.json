@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 33:19",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "käes",
+      "rationale": "Eesti eessõnaline kuju nõuab 'valu käes'; heebrea kasutab ainult eessõna ב."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab öeldisverbi; heebrea fraas on nimeline."
+    },
+    {
+      "kind": "crux",
+      "subject": "וריב עצמיו אתן",
+      "rationale": "KJV 'the multitude of his bones with strong pain' vs YLT 'the strife of his bones is enduring' — sõnast sõnalt 'ja tema luude vaidlus ⟨on⟩ kestev'."
+    }
+  ],
+  "translation": "Ja teda manitsetakse valu käes tema voodil, ja ta luude võitlus ⟨on⟩ kestev.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/17-20.1792555617044.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "ja teda manitsetakse"
+    },
+    {
+      "surface": "במכאוב",
+      "gloss": "valu käes"
+    },
+    {
+      "surface": "על",
+      "gloss": "tema voodil"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "tema voodil"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ja võitlus"
+    },
+    {
+      "surface": "עצמיו",
+      "gloss": "ta luude"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "kestev"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:57.045792483Z",
+  "model": "glm-5.3"
+}

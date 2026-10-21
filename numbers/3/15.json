@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Leevi poegade loendus",
+      "rationale": "Käsk üles lugeda meessoost lapsed ühest kuu vanusest ja ülespea, sugukondade kaupa."
+    },
+    {
+      "kind": "invitation",
+      "subject": "käsk",
+      "rationale": "Imperatiiv פקד suunab otse Mošet loendama."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקד \/ תפקדם",
+      "rationale": "Sama verb kordub salmi alguses ja lõpus, raamistades käsku."
+    }
+  ],
+  "translation": "Loe üles ⟨את⟩ Leevi pojad oma isade majade järgi, oma sugukondade järgi: kõik meessoo lapse ühest kuu vanusest ja ülespea loe nad üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "85dd3c746009793a061aa1c43851e077650f1735c992a698cb687c767e121685",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/3\/13-16.1792539738383.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "loe üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leevi pojad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "majade järgi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nende sugukondade järgi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "meessoo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "laps"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ühest kuust"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja ülespea"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "loe nad üles"
+    }
+  ],
+  "timestamp": "2026-10-20T23:42:18.384164358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tulles⟩",
+      "rationale": "לקראת tähendab 'vastu kohtama'; eesti keel vajab verd 'tulles'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "Prepositsioon 'sinuga', mitte otsesesõna-marker; kuid token kannab ⟨את⟩ märki struktuuri tõttu"
+    }
+  ],
+  "translation": "Ja David tuli Nobi Ahimeleki preestri juurde, ja Ahimelek värises Davidile vastu ⟨tulles⟩, ja ta ütles talle: miks oled sina üksi, ja ei ole ühtegi meest ⟨את⟩ sinu juures?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/21\/1-4.1792544168146.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preestri"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ja värises"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "miks"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oled sina"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "üksi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja ei ole ühtegi meest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinu juures",
+      "marks": "sinu juures"
+    }
+  ],
+  "timestamp": "2026-10-21T00:56:08.148080651Z",
+  "model": "glm-5.3"
+}

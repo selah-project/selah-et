@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea köidalause ei ütle 'on'; eesti koopula lisatud."
+    },
+    {
+      "kind": "addition",
+      "subject": "selle",
+      "rationale": "נתיבה viitab õiguse teele; eesti vajab täpsustavat asesõna."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל מות",
+      "rationale": "אל on eitussõna: 'pole surma' vsConsonant-elu 'אל' kui 'üle\/suunas' — 'viib surma' (BSB)."
+    }
+  ],
+  "translation": "Tsedeki teel ⟨on⟩ elu, ja ⟨selle⟩ rajal pole surma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/25-28.1792554642949.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "teel"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elu"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "rada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pole"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:42.950492590Z",
+  "model": "glm-5.3"
+}

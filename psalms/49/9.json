@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte möödavaimatu 'hing'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחדל לעולם",
+      "rationale": "kas 'lunaraha on nii kallis, et see jäetakse igaveseks katkemata' või 'toob kuulja vaiksele mõttele' — kes loeb kui jätku salmile 8"
+    }
+  ],
+  "translation": "Ja kallis on lunaraha nende hingele, ja see lakkab igaveseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/9-12.1792552967551.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Ja kallis"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "lunaraha"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende hing"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ja see lakkab"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:47.551994295Z",
+  "model": "glm-5.3"
+}

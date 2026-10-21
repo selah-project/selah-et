@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sai",
+      "rationale": "Verb ויהי rendered as 'sai' to convey result; Hebrew literally: 'and the miškan was one'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kardin",
+      "rationale": "יְרִיעָה is a hanging (tremulous cloth); 'kardin' (curtain) keeps the picture"
+    }
+  ],
+  "translation": "Ja ta tegi viiskümmend kuldkonksu ja ühendas ⟨את⟩ kardinaid üks teisega konksudega, ja miškanist sai üks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b46bd315484deba74de6d1fc9234a8bc94a5ae719a16fd824c31004095fc5754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/36\/13-16.1792539032712.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja ta tegi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viiskümmend"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "konksu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuld"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "ja ühendas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kardinaid"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "kardinaid"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teisega"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "konksudega"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškanist"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:30:32.712642622Z",
+  "model": "glm-5.3"
+}

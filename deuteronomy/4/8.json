@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub verbi 'olla' vorm; eesti keel vajab seda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Toora",
+      "rationale": "תורה jääb Tooraks, mitte 'seadus'."
+    }
+  ],
+  "translation": "Ja mis rahvas on nii suur, kellel on hukid ja mishpatim'd nii õiged kui kogu see Toora, mille ma täna teie silme ette sean?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca831a2fa84d6b6646d0f6ee2ff4e239f9b115521d6f68ca3a13ac3b61e8f00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/4\/5-8.1792540664597.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Ja mis"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kellel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "on"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "hukid"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ja mishpatimidd"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "õiged"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kui kogu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "see Toora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ma"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sean"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teie silme ette"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:44.598271177Z",
+  "model": "glm-5.3"
+}

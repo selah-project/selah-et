@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 15:33",
+  "book": "job",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחמס",
+      "rationale": "Juur חמס tähendab 'vägivalda teha'; enamik tõlkijaid loeb siin 'raputama\/pillutama' (nagu KJV, YLT), BSB järgib hoopis 'paljaks kooritud' loogut."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בסר",
+      "rationale": "Kohandav 'enneaegne mari' — sõna tähendab hapu, valmimata viinamarja, mida ei tohi lihtsalt 'viljaks' üldistada."
+    }
+  ],
+  "translation": "Ta pillutab maha nagu viinapuu omavarre enneaegseid marju, ja heidab maha nagu õlipuu oma õie.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cdbe648ee94c2758a19024237dbbad5029033d1bb051eea61bd43b548e25b830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/15\/33-35.1792555269420.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחמס",
+      "gloss": "pillutab maha"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "nagu viinapuu"
+    },
+    {
+      "surface": "בסרו",
+      "gloss": "oma enneaegseid marju"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ja heidab maha"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "nagu õlipuu"
+    },
+    {
+      "surface": "נצתו",
+      "gloss": "oma õie"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:09.420537489Z",
+  "model": "glm-5.3"
+}

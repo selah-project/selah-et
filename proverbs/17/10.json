@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כסיל",
+      "rationale": "Juur tähendab 'raske\/paks', kujundlikult 'rumal'; eesti keele 'raspea' ei ole standardsõna."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sada",
+      "rationale": "Arvuline võrdlus: üks noomitus vs sada lööki."
+    }
+  ],
+  "translation": "Süveneb noomitus aripärasesse rohkem kui sada lööki rumalasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/17\/9-12.1792554745960.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "süveneb"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "noomitus"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "aripärasesse"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "kui sada lööki"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "rumalasse"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sada"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:25.961671519Z",
+  "model": "glm-5.3"
+}

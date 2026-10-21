@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצרעה",
+      "rationale": "'Herilane' sõnasõna vs sümboolne lugemine (hirm\/paniik, Egiptuse väed) – enamik tõlkeid jätab sõnasõnalise."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפניכם",
+      "rationale": "Tähed 'teie palge eest' = 'teie näo eest', eesti idiom 'teie eest' oleks nõrgem; jäetud sõnasõnaline keha pilt."
+    }
+  ],
+  "translation": "Ja ma saatsin teie näo ees ⟨את⟩ herilase, ja see ajas teie näo eest välja ⟨את⟩ emorlaste kaks kuningat – mitte sinu mõõgaga ega sinu vibuga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/9-12.1792541764485.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ja ma saatsin"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teie näo ees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herilase"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "herilase"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "ja see ajas välja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nad",
+      "marks": "kaks kuningat"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "teie näo eest"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningat"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorlaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "sinu mõõgaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "sinu vibuga"
+    }
+  ],
+  "timestamp": "2026-10-21T00:16:04.486467115Z",
+  "model": "glm-5.3"
+}

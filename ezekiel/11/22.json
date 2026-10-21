@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 11:22",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "heebrea keeles puudub koplula; eesti keel nõuab 'oli'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לעמתם",
+      "rationale": "'nende kõrval \/ nende ees': kas rattad tõstsid samuti tiivad (KJV vihjab) või seisid lihtsalt kerubite kõrval"
+    }
+  ],
+  "translation": "Ja kerubid tõstsid ⟨את⟩ oma tiivad ja rattad nende kõrval, ja Jisraeli Elohimi au oli nende kohal ülalpool.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c634b922fcb9e86a00c1aa2660204833374a4630d1a8aa2f54cb9412e37acd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/11\/21-24.1792549721563.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ja tõstsid"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma tiivad"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "oma tiivad"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "ja rattad"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "nende kõrval"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja au"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende kohal"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ülalpool"
+    }
+  ],
+  "timestamp": "2026-10-21T02:28:41.564406060Z",
+  "model": "glm-5.3"
+}

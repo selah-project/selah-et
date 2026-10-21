@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ole⟩",
+      "rationale": "Eesti keel nõuab olemaskoluverbi; heebrea אינם ütleb lihtsalt 'ei ole'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "süükoormad",
+      "rationale": "עון on patusus, kõrvalekaldumine — 'koorm' tuleb verbist סבלנו 'kandsime', pilt kokku pandud."
+    }
+  ],
+  "translation": "Meie isad pattusid ja neid ei ⟨ole⟩ enam, meie kanname nende süükoormaid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/5\/5-8.1792555972618.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Meie isad"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "pattusid"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "neid ei ole enam"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "meie"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "nende süükoormaid"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "kanname"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:52.619492971Z",
+  "model": "glm-5.3"
+}

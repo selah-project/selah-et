@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kasvatus",
+      "rationale": "מוסר hõlmab nii karistust kui õpetust; 'kasvatus' seisab 'karistuse' kohal, sest sõna on laiem."
+    },
+    {
+      "kind": "idiom",
+      "subject": "keelab oma vitsa",
+      "rationale": "חשך שבט — otse 'pidurdab oma keppi'; tähendab karistusest hoidumist."
+    }
+  ],
+  "translation": "Kes keelab oma vitsa, see vihkab oma poega; ja kes teda armastab, otsib talle varakult kasvatust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c487371a4714a3d36105e8e3d1e86f6bf38271077a412ffcd73403cb9c993ff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/21-24.1792554680980.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "kes keelab"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "oma vitsa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "vihkab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oma poega"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "ja armastab"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "otsib varakult"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kasvatus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:20.982224250Z",
+  "model": "glm-5.3"
+}

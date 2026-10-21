@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדיק",
+      "rationale": "'õiglane (inimene)' vs 'Õiglane' (Jumal, suure algustähega — LXX ja mitmed tõlked) — subjekt on määratlemata."
+    },
+    {
+      "kind": "crux",
+      "subject": "לרע",
+      "rationale": "'nende kurjuse jaoks' — kas hävitab kurjad nende kurja tõttu või viib nad täieliku hukuni (rahu-lõpp)."
+    }
+  ],
+  "translation": "Mõistev õiglane vaatab kurja maja järel — hävitab kurjad nende kurjuse pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/9-12.1792554810450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Mõistev"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õiglane"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "majale"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "hävitab"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kurjad"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "nende kurjuse pärast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:30.451459321Z",
+  "model": "glm-5.3"
+}

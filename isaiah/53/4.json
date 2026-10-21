@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אכן 'küllap'",
+      "rationale": "Võib tähendada nii kinnitust 'tõepoolest' kui vastandavat 'aga' — lause mõte pöördub selle sõna peal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nuuperutatuks",
+      "rationale": "נגוע on preestriseaduse termin 'puudutatud' (pidalitõbine, 3Ms 13–14), hoitud sõna kuju"
+    }
+  ],
+  "translation": "Küllap tema kandis meie haigused ja meie valusid — tema kandis neid; aga meie pidasid teda nuuperutatuks, Eloimi lööduks ja piinatuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e54ea07485cbe6ac9611f3cd9cc7c2c89ac395d34bdcb26e35cecf8170b478ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/53\/1-4.1792547616870.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "küllap"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "meie haigused"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kandis"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "ja meie valusid"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "tema kandis neid"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "aga meie"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "pidasid teda"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "nuuperutatuks"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "lööduks"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Eloimi"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "ja piinatuks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:53:36.871989750Z",
+  "model": "glm-5.3"
+}

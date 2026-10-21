@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti jaehoog vajab korduvates küsimustes kopulat, heebreal puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איה ספר",
+      "rationale": "Kolmekordne 'kus on...' anafuur ja ספר kordus loovad rütmi, mis eesti keeles osaliselt säilib"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקל",
+      "rationale": "'kaaluja' vs 'maksukoguja' vs 'saaja' — hõred kontekst"
+    }
+  ],
+  "translation": "Sinu süda mõtiskleb õudusele: kus ⟨on⟩ kirjutaja, kus ⟨on⟩ kaaluja, kus ⟨on⟩ see, kes loeb ⟨את⟩ torne?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/33\/17-20.1792547297890.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "sinu süda"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mõtiskleb"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "õudusele"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kus"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kirjutaja"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kus"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "kaaluja"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kus"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "loeja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torne"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "torne"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:17.891714220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõstme lippu",
+      "rationale": "נדגל on 'lipu all silmapaistvana olla'; eesti keeles puudub üks vaste"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועתך\/ישע",
+      "rationale": "juur ישע kordub salmides 6 ja 7 (pääste\/päästma), eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Hõiskeme sinu päästmises ja meie Elohimi nimel tõstme lippu; täidku Jahve kõik sinu palud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/20\/5-8.1792552454686.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "hõiskeme"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sinu päästmises"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ja ... nimel"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "tõstme lippu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "täidku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "sinu palud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:14.687549781Z",
+  "model": "glm-5.3"
+}

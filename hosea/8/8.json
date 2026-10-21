@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ei ole",
+      "rationale": "Eesti lause vajab eitust, heebrea אין jääb konstruktsiooni"
+    },
+    {
+      "kind": "crux",
+      "subject": "חפץ",
+      "rationale": "'ihe, kellest ei ole meelt \/ milles ei ole rõõmu' vs 'väärtusetu ese'"
+    }
+  ],
+  "translation": "Neelatud on Jisrael; nüüd on nad muutunud rahvaste seas nagu nõu, milles ⟨ei ole⟩ ühtegi meeltmöödu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/8\/5-8.1792551040033.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "neelatud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "היו",
+      "gloss": "on nad muutunud"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "rahvaste seas"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "nagu nõu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "meeltmöödu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "milles"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:40.035037490Z",
+  "model": "glm-5.3"
+}

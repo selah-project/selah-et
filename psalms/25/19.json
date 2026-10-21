@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "otsene pöördumine Jumala poole: 'vaata mu vaenlasi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאת ... שנאוני",
+      "rationale": "juur שנא kordub: 'vihaga... vihkavad' — eesti keeles hoitud samasõnalisusega"
+    }
+  ],
+  "translation": "Vaata mu vaenlasi, sest neid on palju, ja vägivihaga nad vihkavad mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/25\/17-20.1792552505197.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mu vaenlasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "neid on palju"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "ja vihaga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vägi-"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "nad vihkavad mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:05.198846037Z",
+  "model": "glm-5.3"
+}

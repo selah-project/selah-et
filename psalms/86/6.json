@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "otsetähendus 'tee kõrv lahti' — eesti idioom 'kalluta kõrva'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatiivid",
+      "rationale": "kaasavad kaks kutsuvat imperatiivi palves Jahvele"
+    }
+  ],
+  "translation": "Kalluta kõrva, Jahve, mu palvele, ja pööra tähelepanu mu anumiste häälele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/86\/5-8.1792553551864.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Kalluta kõrva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palvele"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ja pööra tähelepanu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "häälele"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "mu anumiste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:31.865782209Z",
+  "model": "glm-5.3"
+}

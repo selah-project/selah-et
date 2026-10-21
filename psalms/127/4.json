@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Koopula lisatud, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kangelane",
+      "rationale": "גבור on 'vägev, sõjamees' — roll, mitte tingimata 'kangelane'"
+    }
+  ],
+  "translation": "Nagu nooled kangelase käes, nõnda ⟨on⟩ nooruspojad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/127\/1-4.1792554242913.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Nagu nooled"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käes"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kangelase"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "noorus-"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:02.914413257Z",
+  "model": "glm-5.3"
+}

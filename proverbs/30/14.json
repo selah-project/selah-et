@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מאכלות",
+      "rationale": "'söögiriist-noad' esineb Tanahhis ainult siin; חרבות on tähenduses 'mõõgad', mitte 'põud'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "purihamased",
+      "rationale": "מתלעות otseselt 'hammastajad, purejad' — elav pilt, mida 'purihammas' osaliselt kannab"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seast⟩",
+      "rationale": "Eesti eraldus vajab 'seast'; heebrea kasutab ainult ם eessõna"
+    }
+  ],
+  "translation": "Põlv, kelle hambad on mõõgad ja ta purihamased nugad, et süüa vaeseid maalt ja vajanuid inimeste ⟨seast⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2dc3d13d774e7eb33ac607baa726b5ffd719d81a7424cce7260fd2b24eb29feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/14-15.1792558679398.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "põlv"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mõõgad"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tema hambad"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "ja nugad"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "ta purihamased"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "et süüa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "vaeseid"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "ja vajanuid"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "inimeste ⟨seast⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:59.400605991Z",
+  "model": "glm-5.3"
+}

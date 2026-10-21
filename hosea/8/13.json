@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הבהבי",
+      "rationale": "Sõna esineb Tanahhis ainult siin; tähendus 'kingitused (ohvril)', tähendus ise on ebakindel."
+    },
+    {
+      "kind": "crux",
+      "subject": "Mitsraimi nad pöörduvad tagasi",
+      "rationale": "Kohene naasmine Mitsraimi või kujundlik langemine orjusesse (Assüüria); tõlkijad lahanevad erinevalt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבחי...יזבחו",
+      "rationale": "Sama juur kordub nimetuses ja tegusõnas — 'ohvrid ohverdati' — kaja eesti tõlkes osaliselt kadunud."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Eesti keel vajab objekti asesõna, heebrea seda ei ütle."
+    }
+  ],
+  "translation": "Minu kingituste-ohvrid — nemad tapavad ohvriks liha ja söövad ⟨seda⟩; Jahve neid ei lepi. Nüüd ta mäletab nende süüd ja külastab nende patte: nemad — Mitsraimi nad pöörduvad tagasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/8\/13-14.1792550978871.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "kingituste-ohvrid"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "kingitused"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "tapavad ohvriks"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ja söövad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "lepi neid"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mäletab"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nende süüd"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ja külastab"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "nende patte"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "pöörduvad tagasi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:38.871776171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanna",
+      "rationale": "נשא tähendab sõna-sõnalt 'tõstma\/kandma' — 'võtma' (nagu eesti traditsioon) jätab pildi kaotsi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ei jäta õiguseks",
+      "rationale": "לא ינקה — sõna-sõnalt 'ei puhasta', idiom 'ei jäta karistuseta'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישא\/לשוא",
+      "rationale": "Kordus: תשא...לשוא \/ ישא...לשוא — hiilgav kõlapaar, eesti keeles osaliselt alles."
+    }
+  ],
+  "translation": "Ära kanna ⟨את⟩ Jahve, sinu Elohimi, nime tühjuseks, sest Jahve ei jäta õiguseks sellele, kes kannab ⟨את⟩ tema nime tühjuseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/5\/9-12.1792540666256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohimi"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "tühjuseks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jäta õiguseks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sellele, kes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kannab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema nime"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nime"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "tühjuseks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:46.257584031Z",
+  "model": "glm-5.3"
+}

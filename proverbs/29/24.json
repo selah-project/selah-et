@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma hinge",
+      "rationale": "נפשו on 'tema nefesh' — kõri\/elujõud, mitte 'hing' selle hilisemas mõttes."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלה",
+      "rationale": "Kohtulik 'needmine\/adjuratsioon' (ASV\/JPS 'adjuration') või lihtsalt 'needus' (KJV) — st kas ta kuulub vannutamist ja vaikib või kannab kirja needmise all."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חולק",
+      "rationale": "'Jagama vargaga saaki' (partner) või 'kiitma\/leebe olema varga vastu' juurest חלק 'sile' — vanad tõlked jagu ütlesid."
+    }
+  ],
+  "translation": "Kes vargaga jagu saab, vihkab oma hinge; needmist ta kuuleb ega ütle välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/21-24.1792555017516.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "kes jagu saab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "vargaga"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "vihkab"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma hinge"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "needmist"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuuleb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ütle välja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:57.517610537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 10:14",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõstetud",
+      "rationale": "תרומה on 'üles tõstetud andam'; eesti traditsioonis sageli 'ühendusohvri säär'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חזה התנופה",
+      "rationale": "kas 'lehvitusrind' (tegevuse järgi) või 'rind, mida lehvitatakse' — vahelduv tõlkepilt"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ lehvitusrinda ja ⟨את⟩ tõstetud sääre te sööte puhtas paigas, sina ja sinu pojad ja sinu tütred ⟨את⟩ koos sinuga; sest sinu osa ja sinu poegade osa on need antud Jisraeli poegade tänuohvrite lihast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/10\/13-16.1792539291481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "lehvitusrind"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "rind"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "lehvituse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tõstetud säär"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "säär"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "tõstetud (andami)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "te sööte"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paigas"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ja sinu pojad"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "ja sinu tütred"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ koos sinuga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "sinu osa"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ja osa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinu poegade"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "on antud"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "lihast"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "tänuohvrite"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:51.482483052Z",
+  "model": "glm-5.3"
+}

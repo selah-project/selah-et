@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kohut mõistetakse",
+      "rationale": "Heebrea בהשפטו on lihtsalt 'tema kohut mõistses' — eesti keel lisab kaudse käände"
+    }
+  ],
+  "translation": "Jahve ei jäta teda tema kätte ega mõista teda süüdi, kui teda kohut mõistetakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/33-36.1792552748832.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "jäta teda"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tema kätte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "mõista teda süüdi"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "kui teda kohut mõistetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:08.833284777Z",
+  "model": "glm-5.3"
+}

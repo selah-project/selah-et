@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 16:21",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahe vaskköiega",
+      "rationale": "נחשתים on vaski kaksus — kaks vaskköit, mitte üldine 'ahelad'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ja temast sai",
+      "rationale": "heebrea ויהי טוחן ütleb otse 'ja ta oli jahvataja'; eesti keeles lisatud siduv sõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "jahvatas",
+      "rationale": "טוחן 'jahvatama' — rõhujahvatamine, orja- või naistetöö; mõni lugeja näeb selles Deliila vihjet"
+    }
+  ],
+  "translation": "Ja Filistlased haarasid ta ja torkasid välja ⟨את⟩ ta silmad, ja viisid ⟨את⟩ ⟨teda⟩ alla Azzasse, ja sidusid ta kahe vaskköiega, ja ta jahvatas vangimajas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4f57d571f0059f300ee8b159067a876405318c62ebf9ccdfeb89f9eb410e5790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/16\/21-24.1792542155974.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאחזוהו",
+      "gloss": "haarasid ta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlased"
+    },
+    {
+      "surface": "וינקרו",
+      "gloss": "ja torkasid välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta silmad"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ta silmad"
+    },
+    {
+      "surface": "ויורידו",
+      "gloss": "ja viisid alla"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨teda⟩",
+      "marks": "Azzasse"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "Azzasse"
+    },
+    {
+      "surface": "ויאסרוהו",
+      "gloss": "ja sidusid ta"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "kahe vaskköiega"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja temast sai"
+    },
+    {
+      "surface": "טוחן",
+      "gloss": "jahvaja"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "האסירים",
+      "gloss": "vangide"
+    }
+  ],
+  "timestamp": "2026-10-21T00:22:35.976151082Z",
+  "model": "glm-5.3"
+}

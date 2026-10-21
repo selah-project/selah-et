@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תלהו \/ ויתלו",
+      "rationale": "Käsk 'pookige' (7:9 תלהו) täidetakse kohe (ויתלו) — heebrea kordus, eesti keeles peegeldatud samas tüves."
+    },
+    {
+      "kind": "idiom",
+      "subject": "kuninga viha vaibus",
+      "rationale": "שככה otse 'vaibus\/rahunes', huumuse kirjeldus inimliku pahameele kohta."
+    }
+  ],
+  "translation": "Ja nad pooksid ⟨את⟩ Hamani selle puu peale, mille ta oli valmistanud Mordekaile, ja kuninga viha vaibus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/7\/9-10.1792556205318.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Ja nad pooksid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamani"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamani"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "oli valmistanud"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaile"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ja viha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "vaibus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:45.319893987Z",
+  "model": "glm-5.3"
+}

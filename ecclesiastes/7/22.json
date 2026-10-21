@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebrea puudub sidesõna; siin on את isikuline asesõna 'sina', mitte aleph-tav'i sihitäht"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "Kahekordne גם seob sulase neetmise ja sina enda neetmise üheks peegelpildiks"
+    }
+  ],
+  "translation": "Sest ka palju kordi teab sinu süda, et sina ⟨oled⟩ ka teisi neenud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "385c9c9fdc314d77e75f5b26db6d111d282e8b4cd842916d92321956b6bc9450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/21-24.1792556062292.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kordi"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "palju"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "teab"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sinu süda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "sina"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "oled neenud"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "teisi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:22.293031147Z",
+  "model": "glm-5.3"
+}

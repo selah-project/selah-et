@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lõunamaale",
+      "rationale": "הנגבה tähendab kuiva lõunapiirkonda, Negevi; 'lõunamaa' jätab kohaliku nime varju"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea אשר לו ('mis temale') nõuab eesti jaoks öeldisverbi"
+    }
+  ],
+  "translation": "Ja Avram läks üles Mitsraimist, tema ja tema naine ja kõik, mis temal oli, ja Lot koos temaga, lõunamaale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "766851734e096eb45e73f6bc924153185c4ec4b082a5c2178bd489d72f317258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/13\/1-4.1792537487570.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "läks üles"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ja tema naine"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temal oli"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ja Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "koos temaga"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "lõunamaale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:47.571025313Z",
+  "model": "glm-5.3"
+}

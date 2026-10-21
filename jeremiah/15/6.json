@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 15:6",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Eesti perfekt vajab abiverbi, heebrea perfekt on ühesõnaline."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנחם",
+      "rationale": "'Kahetsemisest väsinud' vs 'loobunud halastamast' — mitte-metujjamon tähendus kaldub halastuse lõpetamisele."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (esimene)",
+      "rationale": "Esimene את on siin isesõna 'sina', mitte aleph-tav-i objektimarker."
+    }
+  ],
+  "translation": "Sina ⟨oled⟩ jätnud maha ⟨את⟩ mind, ütleb Jahve, tahapoole sa käid; ja ma sirutasin ⟨את⟩ oma käe sinu vastu ja ma hävitasin sind; mina olen väsinud ⟨piisab⟩ ⟨kahetsemast⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2abfa913b0d6f3f994c61da856ad0961241865a11e09d06c3ed730285f1b5b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/15\/5-8.1792548334989.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "נטשת",
+      "gloss": "jätnud maha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mind"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tahapoole"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "sa käid"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "ja ma sirutasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käe"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu vastu"
+    },
+    {
+      "surface": "ואשחיתך",
+      "gloss": "ja ma hävitasin sind"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "mina olen väsinud"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "kahetsemast"
+    }
+  ],
+  "timestamp": "2026-10-21T02:05:34.990374025Z",
+  "model": "glm-5.3"
+}

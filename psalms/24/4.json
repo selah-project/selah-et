@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשוא",
+      "rationale": "Tõlgitud 'hüvang' (nii nagu ütled 2Ms 20:7); alternatiivne on 'tühjus' või 'ebajumal' nagu bsb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem elujõud\/kurk, mitte mateeriline hing"
+    },
+    {
+      "kind": "you",
+      "subject": "küsimuse vastus",
+      "rationale": "See salm vastab eelmise küsimusele, kes võib Jahve mäele tõusta"
+    }
+  ],
+  "translation": "See, kelle käed on puhtad ja süda ♭arjast, kes ei ole tõstnud oma hingessehüvangut ega vannutanud pettuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/24\/1-4.1792552551892.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "kelle ... on puhtad"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "käed"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ja ♭arjast"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tõstnud"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "hüvangusse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "oma hing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "vannutanud"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "pettuses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:51.893973298Z",
+  "model": "glm-5.3"
+}

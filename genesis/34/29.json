@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koopula; eesti keel eeldab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "väikseid",
+      "rationale": "טף on kollektiivne 'perekonna väiksed, lapsed', mitte ainult imikud"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ kogu nende vara ja ⟨את⟩ kogu nende väikseid ja ⟨את⟩ nende naisi nad viisid vangi ja rüüstasid ⟨את⟩ kogu, mis majas ⟨oli⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b2e697fb8ef16cabca571f7c0369e1e527c97fd1f747445ff4c3d0d023727a0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/34\/29-31.1792537926657.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogu nende vara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "nende vara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogu nende väikseid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "nende väikseid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nende naisi"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "nende naisi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "viisid vangi"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "rüüstasid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogu, mis majas oli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "majas ⟨oli⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T23:12:06.658452271Z",
+  "model": "glm-5.3"
+}

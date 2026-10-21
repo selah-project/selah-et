@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 26:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Refaimid",
+      "rationale": "הרפאים on surnute varjud (ka muistne hiidrahvas); jäetud nimekujule, mitte 'surnud' või 'hiiglased'"
+    },
+    {
+      "kind": "crux",
+      "subject": "värisevad",
+      "rationale": "יחוללו juurest חול: 'värisevad\/kohisevad' vs 'formeeritakse' (KJV) — verbi tähendus on vaidlustatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חול",
+      "rationale": "Juur kannab nii 'keerduma, värinema' kui 'valu tunnistama' — topeltnood kaob eesti keeles"
+    }
+  ],
+  "translation": "Refaimid värisevad vete all ja need, kes seal elavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "152c63d6c621933ac89e1e3a17fb121e5eeb47d3b2b672f34f85d76c3ffae927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/26\/5-8.1792555461336.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaimid"
+    },
+    {
+      "surface": "יחוללו",
+      "gloss": "värisevad"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vete"
+    },
+    {
+      "surface": "ושכניהם",
+      "gloss": "ja nende elanikud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:21.337417216Z",
+  "model": "glm-5.3"
+}

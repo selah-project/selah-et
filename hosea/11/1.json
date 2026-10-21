@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel nõuab omastavat pronoomeni, heebrea l-y konstruktis seda ei ütle"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Jahve räägib oma pojast, otse kõne pöördumata kuulajani"
+    }
+  ],
+  "translation": "Kui Jisrael oli laps, armastasin ma teda, ja Mitsraimist kutsusin ma ⟨oma⟩ poja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/11\/1-4.1792551027767.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "נער",
+      "gloss": "laps"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "armastasin ma teda"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ja Mitsraimist"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kutsusin ma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨oma⟩ poja"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:27.768308327Z",
+  "model": "glm-5.3"
+}

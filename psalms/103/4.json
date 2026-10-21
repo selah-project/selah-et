@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse Selah reegli kohaselt translitereerituks; 'armastus' või 'lahkus' üksi ei kata seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "hukatusaugu",
+      "rationale": "משחת tähendab sõna-sõnalt 'auku, lõksu'; KJV 'destruction', JPS 'the pit'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המעטרכי",
+      "rationale": "Root עטר tähendab nii 'kroonima' kui 'ümbritsema' — JPS valib viimase"
+    }
+  ],
+  "translation": " kes lunastab su elu hukatusajust, kes kroonib sind hesedi ja halastustega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/1-4.1792553755531.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "kes lunastab"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "hukatusajust"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "su elu"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "kes kroonib sind"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ja halastustega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:55.532679156Z",
+  "model": "glm-5.3"
+}

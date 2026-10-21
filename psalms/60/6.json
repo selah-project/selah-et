@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מפני קשט",
+      "rationale": "Ketiv קשט 'tõe' annab 'tõe pärast'; vokaalivariant קושט annab 'vibu eest' (BSB 'flee the bow') — kaks kuulsa lugemist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "סלה on muusikaline pausimärk, jäeti nimekujul 'Sela'."
+    }
+  ],
+  "translation": "Oled andnud neile, kes sind kardavad, lipu, et see lehviks tõe pärast. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/5-8.1792553082183.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "oled andnud"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "neile, kes sind kardavad"
+    },
+    {
+      "surface": "נס",
+      "gloss": "lipu"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "et see lehviks"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "tõe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:42.184675041Z",
+  "model": "glm-5.3"
+}

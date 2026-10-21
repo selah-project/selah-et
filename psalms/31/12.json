@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מאד",
+      "rationale": "Nõrk heebrea määrsõna 'väga' teeb eesti lauses kummalise; see tugevdab 'eriti mu naabritele'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopelet, heebreal puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "põgenesid",
+      "rationale": "נדדו on sõna-sõnalt 'põgenesid\/käristasid minema', vagunemine-taandudes; 'põgenema' jätab pildi kaotamata"
+    }
+  ],
+  "translation": "Kõigile mu vaenlastele olen ma saanud pilkeks ja mu naabritele ⟨see⟩ ⟨on⟩ väga ⟨nii⟩, ja hirmuks mu tuttavatele; mu nägijad väljas põgenesid minust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4ea095e335b47b3383acd4be876e139f1c0fdfce9a2e007db2a8d3e6ef2c1cdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/12-12.1792558563055.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mu vaenlastele"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olen ma saanud"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "pilkeks"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "ja mu naabritele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "ja hirmuks"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "mu tuttavatele"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "mu nägijad"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "väljas"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "põgenesid"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:03.057542034Z",
+  "model": "glm-5.3"
+}

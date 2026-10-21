@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub sidesõna; vrdl on lisatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש...ואיש",
+      "rationale": "mees... aga mees — sõnamäng: sama sõna kaheks kontrastiks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ammendab üles",
+      "rationale": "דלה tähendab sõna-sõnalt 'ämbrit alla laskma, vett tõmbama' — kujund sügavast veest"
+    }
+  ],
+  "translation": "Sügised ⟨on⟩ veed ⟨on⟩ nõu mehe südames, aga arusaamisega mees ammendab ⟨selle⟩ üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/20\/5-8.1792554763186.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "sügised"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nõu"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "südames"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "aga mees"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "aru saamisega"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "ammendab üles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:43.187470129Z",
+  "model": "glm-5.3"
+}

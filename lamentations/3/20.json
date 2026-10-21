@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכור תזכור",
+      "rationale": "sama juure kordus — 'mäletades meenub' — kaja eelmise salmi käsule 'mäleta'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on lähemal 'kurgule\/elujõule' kui 'hingele'"
+    }
+  ],
+  "translation": "Meenutades meenub see mu hingele ja mu hing vajub minus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/17-20.1792555914898.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "meenutades"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "meenub"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ja vajub"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minus"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:54.899551488Z",
+  "model": "glm-5.3"
+}

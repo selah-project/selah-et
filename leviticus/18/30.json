@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valve",
+      "rationale": "משמרת on valvamine\/käsk, 'miner hoidmine' — 'korraldus' on liiga hägus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "enda määrate",
+      "rationale": "טמא tähendab rituaalset\/moraalset saastumist, mitte lihtsalt 'rikuda'"
+    }
+  ],
+  "translation": "Ja te peate ⟨את⟩ minu valvet, et mitte teha jäleduste kombeid, mis teie ees tehti, ega end nendega määrata; mina olen Jahve, teie Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41219a2705ee78e30991ffe8a6537282d9646fce40aaa5f1d63ce9a307877912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/18\/29-30.1792539383998.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te peate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu valvet"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "minu valvet"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "kombeid"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "jäleduste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "tehti"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teie ees"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "enda määrate"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nendega"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:23.998977161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 19:2",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keele koopula, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "Mis sinu ema",
+      "rationale": "מה אמך: küsimus 'mis sinu ema on?' (KJV) või hüüatus 'kuidas oli sinu ema lõvinna!' (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבצה \/ רבתה",
+      "rationale": "Kahe sarnase kõlaga verbi kontrast: lasus (רבץ) ja kasvatas (רבה), eesti keeles kaotsi"
+    }
+  ],
+  "translation": "ja ütle: Mis oli sinu ema? Lõvinna, lõvide keskel lasus ta, noorte lõvide keskel kasvatas ta üles oma lõvipoegadelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/19\/1-4.1792549985647.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ja ütle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sinu ema"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "lõvinna"
+    },
+    {
+      "surface": "בין",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lõvide"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "lasus"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "noorte lõvide"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "kasvatas üles"
+    },
+    {
+      "surface": "גוריה",
+      "gloss": "oma lõvipoegi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:33:05.648182113Z",
+  "model": "glm-5.3"
+}

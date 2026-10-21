@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 8:17",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid \/ oli",
+      "rationale": "Heebrea puudub kõlaliit; loendilauses lisatud eesti kõlaliit"
+    },
+    {
+      "kind": "crux",
+      "subject": "כהנים",
+      "rationale": "Tsadok ja Ahhimelek 'preestrid' — parallel 1Kr 18:16 loeb vastuolulistes käsikirjades erinevalt"
+    }
+  ],
+  "translation": "ja Tsadok, Ahhitubi poeg, ja Ahhimelek, Evjathari poeg, ⟨olid⟩ preestrid, ja Seraja ⟨oli⟩ kirjutaja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/8\/17-18.1792544601473.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "ja Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahhitubi"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ja Ahhimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evjathari"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ja Seraja"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "kirjutaja"
+    }
+  ],
+  "timestamp": "2026-10-21T01:03:21.474481183Z",
+  "model": "glm-5.3"
+}

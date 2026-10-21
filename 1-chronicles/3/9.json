@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub käänesõna; loend nimekirjana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pidalised",
+      "rationale": "פילגשים on 'liignaised', eesti traditsioonis 'pidalised' kõla järgi, tähendus 'kooselu naised'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "poegade loend",
+      "rationale": "Sugupuu loendamine, kuninglike nimede register"
+    }
+  ],
+  "translation": "Kõik olid Davidi pojad, peale pidaliste poegade ja Taamari, nende õe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fc760a66c815270a4df65b8d239245bd6757a5ac1394cd2ce43f291b3dae2310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/3\/9-12.1792557171991.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kõik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "peale"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "pidaliste"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ja Taamari"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nende õe"
+    }
+  ],
+  "timestamp": "2026-10-21T04:32:51.991701407Z",
+  "model": "glm-5.3"
+}

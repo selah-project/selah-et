@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kiidavad end",
+      "rationale": "התהלל hitpael — 'kiitma end\/hiilgama'; eesti 'kiidavad end' jääb lähedaseks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישרי לב",
+      "rationale": "'sirge-südamed' hoiab tsedek\/sirge-südame kontrasti salmi sees: õige vs sirge-süda, parallelism."
+    }
+  ],
+  "translation": "Rõõmutseb õige Jahves ja varjub tema juures, ja kiidavad end kõik sirge-südamed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/64\/9-11.1792553050214.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "rõõmutseb"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ja varjub"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema juures"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ja kiidavad end"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "sirge-"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südamed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:10.215184939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי לוא",
+      "rationale": "Heebrea 'aedegi, kui' — eesti 'kui palju enam' annab möödaminemise tähenduse"
+    },
+    {
+      "kind": "crux",
+      "subject": "vastandküsimus või jaatus",
+      "rationale": "Lõpp on heebrea keeles jaatus: 'sest nüüd ei olnud lõök plistide seas suur'; osa tõlkeid teevad sellest retoorilise küsimuse 'eiks siis poleks olnud palju suurem?'"
+    }
+  ],
+  "translation": "Kui palju enam, kui rahvas oleks täna söönud saaki oma vaenlastelt, mille nad leidsid — sest nüüd ei olnud löök plistide sees suur.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/29-32.1792543941778.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "palju enam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "kui (oleks)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söönud"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oleks söönud"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "saaki"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "oma vaenlastelt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nad leidsid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "suur"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "löök"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "plistide seas"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:21.780422496Z",
+  "model": "glm-5.3"
+}

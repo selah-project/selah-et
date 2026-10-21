@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pealust",
+      "rationale": "וֹרֹאשׁ עַפְרוֹת תֵבֵל: KJV 'kõrgeim osa', ASV\/JPS 'algus', BSB 'ükski tolm'; 'pealust' hoiab juure ראש 'pea' kujundi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "välju",
+      "rationale": "חוצות tähendab sõna-sõnalt 'väljapoole seatut, õuealad', mitte 'põllud'"
+    }
+  ],
+  "translation": "Kui ta ei olnud veel teinud maad ega välju, ega maailmatolmu pealust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b4ee58613d5a69d9eaaa5c00b9df12beb4182f7ddec1bad396efc9390817e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/8\/25-28.1792554593628.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei olnud veel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teinud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "ega välju"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ega pealust"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "tolmu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailma-"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:53.628971257Z",
+  "model": "glm-5.3"
+}

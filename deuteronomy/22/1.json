@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיבם",
+      "rationale": "infinitivus absolutus + imperfekt: 'tagasi tooma pead tooma' — kindel käsk, eesti keeles tõlgitud 'pead sa need tooma'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Seadus käib kuulajale otseselt peale, teises puutes"
+    }
+  ],
+  "translation": "Ära näe oma venna ⟨את⟩ härga või ⟨את⟩ tema talli hulka aetuid ja jää nende ees nägematuks — tagasi tooma pead sa need tooma oma vennale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/22\/1-4.1792541038359.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "härga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härga"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "oma venna"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "talli"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "tema talli"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "hulka aetuid"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ja jää nägematuks"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nende eest"
+    },
+    {
+      "surface": "השב",
+      "gloss": "tagasi tooma"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "pead sa need tooma"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "oma vennale"
+    }
+  ],
+  "timestamp": "2026-10-21T00:03:58.360030593Z",
+  "model": "glm-5.3"
+}

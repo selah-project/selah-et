@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 7:12",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשמע לעדתם",
+      "rationale": "KJV: \"nagu nende kogu on kuulnud\" (ראיה auditiivse juurega) vs BSB: \"kui ma kuulen neid kogunevast\" — עדה kui kogu vs linnuparve kogunemine."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יונה \/ עוף השמים",
+      "rationale": "Tuvi (v11) muutub püügilinnuks (v12) — jahipildi jätk, eesti keeles kaudselt nähtav."
+    }
+  ],
+  "translation": "Kui nad lähevad, ma laotan nende kohale oma võrgu, nagu taeva linnud toon ma nad alla; ma karistan neid, nagu nende kogu on kuulnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/7\/9-12.1792550989771.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nad lähevad"
+    },
+    {
+      "surface": "אפרוש",
+      "gloss": "ma laotan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende kohale"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "oma võrgu"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "nagu lind"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "toon ma nad alla"
+    },
+    {
+      "surface": "איסרם",
+      "gloss": "ma karistan neid"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "nagu ... kuulnud"
+    },
+    {
+      "surface": "לעדתם",
+      "gloss": "nende kogu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:49.772424916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seina-pisserdaja",
+      "rationale": "משתין בקיר on idiom meessoost isiku kohta; kirjakeeles on see tõlgitud 'meessoost laps' või 'ükski mees'"
+    },
+    {
+      "kind": "crux",
+      "subject": "גואליו",
+      "rationale": "Kas 'lunastajad' (lähiperekond) või 'veresugulased' - Vulgata ja eesti tavatõlked valivad erinevalt"
+    },
+    {
+      "kind": "addition",
+      "subject": "lauses 'tema' kordus",
+      "rationale": "Eesti keele süntaks vajab selguseks asesõna kordust"
+    }
+  ],
+  "translation": "Ja sündis, kui tema hakkas valitsema, kohe kui tema istus oma troonile, lõi ta ⟨את⟩ kogu Baasa perekonda; tema ei jätnud temale alles ühtegi seina-pisserdajat, ega tema lunastajaid ega tema kaaslast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/16\/9-12.1792545616853.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kui tema hakkas valitsema"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "kui tema istus"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "oma troonile"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lõi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu Baasa perekonna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "perekonda"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "jätnud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "pisserdajat"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "seina"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ega tema lunastajaid"
+    },
+    {
+      "surface": "ורעהu",
+      "gloss": "ega tema kaaslast"
+    }
+  ],
+  "timestamp": "2026-10-21T01:20:16.857439222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלו",
+      "rationale": "eraldiseisev sõna: 'nende peale' (KJV 'upon them') vs loetud kui על\/עלה erinevates vormides; möned loevad 'nad tõusid taevast' - tähendus on selgelt halb"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מריבו",
+      "rationale": "ainus koht Tanahhis, kus lemma ריב esineb sellel participi-ehitusel ('tema vaidleja')"
+    },
+    {
+      "kind": "mystery",
+      "subject": "oma kuningale",
+      "rationale": "kuningas ja mašiahh on Anna palves veel nimeta — esmakordselt Tanahhis räägitakse 'Jahve kuningast' ja 'tema võitud' kui tulevast"
+    }
+  ],
+  "translation": "Jahve lõi maha need, kes temaga vaielda julgesid, taevast müristas ta nende peale; Jahve kohutab maa otste üle, ja annab väe oma kuningale, ja tõstab oma mašiahhi sarve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/2\/9-12.1792542258844.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "Jahve",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "lõi maha"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "need, kes temaga vaielda julgesid"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nende peale"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevast"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "müristas"
+    },
+    {
+      "surface": "Jahve",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "kohutab"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "otste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja annab"
+    },
+    {
+      "surface": "עז",
+      "gloss": "väe"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "oma kuningale"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ja tõstab"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sarve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "oma mašiahhi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:24:18.845948469Z",
+  "model": "glm-5.3"
+}

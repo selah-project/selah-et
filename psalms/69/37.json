@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "järeltulijad",
+      "rationale": "זרע 'seem' kujundlikult 'sugu, järeltulijad'; sõna kuju 'seem' eesti keeles eksitav"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨selle⟩",
+      "rationale": "Heebrea ינחלוה sisaldab suffiksit -וה 'seda', eesti eraldab sõna; märgitud"
+    }
+  ],
+  "translation": "Ja tema sulaste järeltulijad pärivad ⟨selle⟩, ja tema nime armastajad asuvad elama selles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da3a4184a082a585f417f390c0147b52becaec31662dcd7a765bd6b24afc3ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/37-37.1792553150664.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "ja järeltulijad"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tema sulaste"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "pärivad ⟨selle⟩"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ja armastajad"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nime"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "asuvad elama"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:50.665205580Z",
+  "model": "glm-5.3"
+}

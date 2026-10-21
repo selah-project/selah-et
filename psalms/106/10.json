@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lunastas",
+      "rationale": "גאל tähendab sugulase-lunastaja teo tähenduses, 'käest' on heebrea idioom 'võimu'"
+    }
+  ],
+  "translation": "Ja ta päästis nad nende vihkaja käest ja lunastas nad vaenlase käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b53a52a7fa97b27f156b0fea1c40b210d5c3b5da97c0edb572e2909762caa2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/9-12.1792553812975.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "ja ta päästis nad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nende vihkaja"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "ja lunastas nad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlase"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:52.975967560Z",
+  "model": "glm-5.3"
+}

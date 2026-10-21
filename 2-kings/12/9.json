@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pragusi",
+      "rationale": "בדק on mõranemine\/vuuk hoones või laeva kerel; \"pragu\" säilitab pildi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מאת + העם",
+      "rationale": "otsekui \"hõbedat rahva ⟨את⟩-käest\"; eesti keeles ütlen lihtsalt \"rahvalt\""
+    }
+  ],
+  "translation": "Ja preestrid nõustusid mitte võtma hõbedat rahvalt ja mitte tugevdama ⟨את⟩ koja-pragusid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "333c61034ffc91e9d99407bf98b6e91c9ef5a2654df6e1af014ea0b0467a984d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/12\/9-12.1792546175004.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "ja nõustusid"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "võtma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ käest"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvalt"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tugevdama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koja-pragusid"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "pragusid"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    }
+  ],
+  "timestamp": "2026-10-21T01:29:35.005548134Z",
+  "model": "glm-5.3"
+}

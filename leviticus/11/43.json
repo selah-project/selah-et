@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on lähemal 'elujõule\/hingamisele' kui eesti 'hing' mõistes hingesee sisu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Käsk otseselt kogudusele pöördudes — 'ärge tehke'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השרץ השרץ",
+      "rationale": "Sama juure kordus, 'roomaja, kes roomab', nagu eelmises salmis"
+    }
+  ],
+  "translation": "Ärge tehke ⟨את⟩ oma hinge jäledaks ühegi roomajaga, kes roomab, ega saastuge nendega ega muutuge nendega ebapuhtaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "665455bad97117ce7444df3a9a13f75806bef688f7488e9d7309474102c8251f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/42-44.1792543580635.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "tehke jäledaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma hinge"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "oma hinge"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ühega"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "roomajaga"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "kes roomab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "saastuge"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nendega"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "ja muutute ebapuhtaks"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nendega"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:20.636571891Z",
+  "model": "glm-5.3"
+}

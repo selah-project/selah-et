@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "küsimused",
+      "rationale": "kaks küsimust pöörduvad kuulaja poole ja tõmbavad teda sisse"
+    },
+    {
+      "kind": "crux",
+      "subject": "ja tema näo jõud muudetakse",
+      "rationale": "ועז פניו ישנא: 'julge nägu muutub\/pehmendub' vs 'vägev nägu muudetakse' — tõlkijad lahku läinud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõlgendus",
+      "rationale": "פשר on aramea laensõna (nagu Taanieli pešerd), 'lahtiseletus' unenägude ja ütluste kohta"
+    }
+  ],
+  "translation": "Kes on nagu tark, ja kes tunneb sõna tõlgendust? Inimese tarkus teeb tema näo särama, ja tema näo jõud muudetakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/8\/1-4.1792556083916.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "nagu tark"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tunneb"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tõlgendust"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "tarkus"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "teeb särama"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tema näo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ja jõud"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tema näo"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "muudetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:43.916652132Z",
+  "model": "glm-5.3"
+}

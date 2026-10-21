@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "selle",
+      "rationale": "eesti keel vajab asesõna, heebrea kasutab אתו märgina"
+    }
+  ],
+  "translation": "Ja filistlased võtsid ⟨את⟩ Elohimi laeka ja tõid ⟨את⟩ selle Dagoni kotta ja seadsid ⟨את⟩ selle Dagoni kõrvale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/1-4.1792543751742.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ja võtsid"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistlased"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimi laeka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laeka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ja tõid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "selle (Dagoni kotta)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kotta"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ja seadsid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "selle (Dagoni kõrvale)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kõrvale"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:11.744979329Z",
+  "model": "glm-5.3"
+}

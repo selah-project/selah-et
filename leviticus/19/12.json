@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pilgata",
+      "rationale": "חלל põhitoimus on 'aukoma, läbistama' — 'pilkama' on juba kauge tähendus, sõnasõnaline: 'teha augu' Nime sisse."
+    },
+    {
+      "kind": "you",
+      "subject": "Iisraelile",
+      "rationale": "Vandekeeld suunatud kogudusele, lõppeb vormeliga 'mina olen Jahve'."
+    }
+  ],
+  "translation": "Ja ärge vanduge minu nimega valelt, ja ära pilgata ⟨את⟩ oma Elohimi nime; mina olen Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/9-12.1792543614952.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו לא",
+      "gloss": "ja ärge"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "vanduge"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "minu nimega"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "valelt"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ja ära pilgata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:54.963537229Z",
+  "model": "glm-5.3"
+}

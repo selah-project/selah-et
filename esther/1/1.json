@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti sidekõne nõuab täpsustava korduse juures köitvat verbi, heebreas puudub"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse ja kakskümmend ja sata maakonda",
+      "rationale": "riikide loendamine, arv jäetud heebrea sõnajärjes"
+    }
+  ],
+  "translation": "Ja sündis Ahašveroši päevidel — tema ⟨on⟩ Ahašveroš, kes valitses Hodust kuni Kušini, üle seitse ja kakskümmend ja sada maakonna —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/1-4.1792556198607.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päevadel"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroši"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroš"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "valitses"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodust"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kušini"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kakskümmend"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ja sada"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "maakonna"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:38.607765497Z",
+  "model": "glm-5.3"
+}

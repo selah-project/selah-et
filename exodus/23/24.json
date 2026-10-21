@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרס תהרסם · ושבר תשבר",
+      "rationale": "Infinitivus absolutus + finiitvorm: 'hävita hävitades', 'purusta purustades' — täielikkuse kordus, eestis jäetud kõlavaks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumalatele",
+      "rationale": "אלהים rahvaste jumalate kohta väikese tähega 'jumalad', mitte Elohim."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "'sest\/aga' pööratud keelukohaks 'vaid', sest järgnev on käsk mitte põhjendus."
+    }
+  ],
+  "translation": "Ära heida kummardama nende jumalatele ega teeni neid ega tee nagu nende teod, vaid hävita hävitades need ja purusta põhjalikult nende sambad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/23\/21-24.1792538673503.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "heida kummardama"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "nende jumalatele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "teeni neid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "nagu nende teod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "hävita"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "hävitades need"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ja purusta"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "põhjalikult purustades"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "nende sambad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:33.505469053Z",
+  "model": "glm-5.3"
+}

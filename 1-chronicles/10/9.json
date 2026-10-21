@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ebajumalad",
+      "rationale": "עצבים tähendab ebajumalate kujusid; 'nende jumalad' jäetuks liiga neutraalseks"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לבשר",
+      "rationale": "otseselt 'rõõmusõnumit kuulutama'; eesti keeles 'kuulutama'"
+    }
+  ],
+  "translation": "Ja nad koorisid ta paljaks ning võtsid ⟨את⟩ tema pea ja ⟨את⟩ tema relvad, ja saatsidündid Palestiini maale ringi, kuulutamaks ⟨את⟩ nende ebajumalate ja ⟨את⟩ rahva seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4af851862c85f72b30c0a31452168cad91a854e5f39a406b705e992f97bdf75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/10\/9-12.1792557302918.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "ja nad koorisid ta paljaks"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja võtsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema pea"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tema pea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema relvad"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tema relvad"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ja saatsid"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palestiini"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "kuulutamaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende ebajumalate"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "nende ebajumalate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rahva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:02.918951032Z",
+  "model": "glm-5.3"
+}

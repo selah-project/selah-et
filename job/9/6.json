@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "samba-tugedised",
+      "rationale": "עמודים on 'sammas-tugi' — liitsõna hoiab konstrukti kuju: maa omab tugesid."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועמודיה יתפלצון",
+      "rationale": "Tõlkijad lahutavad: JPS\/KJV 'tremble' (värisevad) vs mittepersonaalsed lugejad 'tõugatakse kõrvale'; פלץ tähendab nii 'rebida' kui 'värisema kiskuda'."
+    }
+  ],
+  "translation": "Kes raputab maa tema kohalt, ja tema sammas-tugedised värisevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/5-8.1792555178673.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "Kes raputab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "tema kohalt"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "ja tema samba-tugedised"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "värisevad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:38.674605612Z",
+  "model": "glm-5.3"
+}

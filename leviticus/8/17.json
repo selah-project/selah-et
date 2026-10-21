@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pull",
+      "rationale": "הפר on nuumvasikas\/pull; D4 tabeli järgi 'pull', mitte 'härg'"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub umbisikulise öeldise abiverb; tõlgitud 'ta' teksti konteksti järgi"
+    }
+  ],
+  "translation": "Aga ⟨את⟩ pulli ja ⟨את⟩ tema naha ja ⟨את⟩ tema liha ning ⟨את⟩ tema sõnniku põletas ta tulega väljaspool laagrit, nii nagu Jahve oli käskinud ⟨את⟩ Mošet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/8\/17-20.1792539260603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pulli"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pull"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema naha"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "tema nahk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema liha"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tema liha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema sõnniku"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "tema sõnnik"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "põletas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "väljaspool"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "laagrit"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošet"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:20.604434136Z",
+  "model": "glm-5.3"
+}

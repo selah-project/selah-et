@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבירים",
+      "rationale": "Sõna tähendab nii 'vägevaid' kui 'pullisid'; enamus tõlkeid valib siin 'härjad'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve rahvale",
+      "rationale": "Küsimus on suunatud kuulajale, kelle ohvrid Elohimile ei ole vajalikud."
+    }
+  ],
+  "translation": "Kas ma söön härgade liha ja kitsetäkkide verd joon?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/13-16.1792552961310.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "kas ma söön"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "härgade"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ja ... verd"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kitsetäkkide"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "joon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:41.311305666Z",
+  "model": "glm-5.3"
+}

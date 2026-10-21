@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Salmis 39:21 on את eessõna 'koos' (Jahve oli koos Joosepiga), mitte objektimärgis — samas 39:23 אתו tähendab samuti 'koos'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse kõlakujul 'hesed', mitte 'halastus'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "silmadesse",
+      "rationale": "בעיני 'silmades' = heebrea idiom 'kellegi meelest\/ silmis armu leidma'"
+    }
+  ],
+  "translation": "Ja Jahve oli Joosepiga ja ojutas talle hesedi ning pani tema armu vangla ülema silmadesse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/39\/21-23.1792537996218.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "oli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joosep — kõrvalseisja eessõna, mitte objektimärgis"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosep"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ojutas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tema poole"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "pani"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "tema armu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silmadesse"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ülema"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vangla"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "(kinnipidamiskoha)"
+    }
+  ],
+  "timestamp": "2026-10-20T23:13:16.219206476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koopula, mida heebrea ei väljenda (אין + nimisõna)"
+    },
+    {
+      "kind": "crux",
+      "subject": "vool",
+      "rationale": "שבלת tähendab nii 'hoovus\/voolu' kui ka 'kõrrepead' — kontekst toetab voolu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצולה\/מעמקי\/מעמד",
+      "rationale": "Korduv m-\/sügavus-alliteratsioon, eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Ma vajun sügavasse põhjamudda, ega ⟨ole⟩ jalgealust; ma olen jõudnud sügavate vetesse ja vool uhub mind üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/1-4.1792553233804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ma vajun"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "põhjamudda"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "sügavasse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ei ⟨ole⟩"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "jalgealust"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ma olen jõudnud"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "sügavate"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vetesse"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ja vool"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "uhub mind üle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:13.805225317Z",
+  "model": "glm-5.3"
+}

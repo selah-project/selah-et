@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rohkem kui kõige valvamist",
+      "rationale": "מכל משמר: 'üle kõige, mida valvad' (JPS) vs 'kogu hoolsusega' (KJV) — eitav värav, mitu tõlgendust"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elu väljundid",
+      "rationale": "תוצאות on otseselt 'väljumised, allikad' — elu voolab südame väljapääsudest"
+    }
+  ],
+  "translation": "Rohkem kui kõige valvamist hoia oma süda, sest sellest ⟨väljuvad⟩ elu väljundid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/4\/21-24.1792554527161.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "rohkem kui kõige"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "valvamist"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "hoia"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "oma süda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "elu väljundid"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:47.162954120Z",
+  "model": "glm-5.3"
+}

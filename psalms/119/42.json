@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרפי",
+      "rationale": "'mind pilkav' — חרף tähendab paljastada, pilgata; 'pilgaleja' teeb pildi varju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דברך",
+      "rationale": "läbiv kordus: vastan sõnaga, sest loodan sinu sõnale"
+    }
+  ],
+  "translation": "Ja ma vastan sõnaga oma pilgaleja, sest ma loodan sinu sõnale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/41-44.1792554018279.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ja ma vastan"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "oma pilgaleja"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõnaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ma loodan"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sinu sõnale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:18.280293497Z",
+  "model": "glm-5.3"
+}

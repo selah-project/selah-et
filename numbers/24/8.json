@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 24:8",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "gloss-note": null,
+      "rationale": "Aleph-tav märgib otsesõna 'tema' (Jisrael), jääb tõlkesse märgina ⟨את⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "sarvede jõud",
+      "rationale": "תועפת tähendab otseselt 'väsimus\/kõrgus' ning metonüümiliselt metshärga sarvi; alternatiivne 'tõusu\/jõu' nagu YLT 'swiftness'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "metshärg",
+      "rationale": "ראם on metshärg (D4), mitte 'ükssarvik' ega 'piison'"
+    }
+  ],
+  "translation": "El, kes tõi ⟨את⟩ tema välja Mitsraimist — temal on metshärga sarvede jõud: ta sööb ära rahvad, tema vaenlased, ja nende luid ta pureb katki ning oma nooli ta purustab neid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "91510087081c40ae0d4bbc15222ac732f10eaa01fd2212901955416c750f2fcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/24\/5-8.1792540227110.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוציאו",
+      "gloss": "kes tõi välja"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "כתועפת",
+      "gloss": "sarvede jõud"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "metshärga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temal on"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ta sööb ära"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "tema vaenlased"
+    },
+    {
+      "surface": "ועצמתיהם",
+      "gloss": "ja nende luid"
+    },
+    {
+      "surface": "יגרם",
+      "gloss": "ta pureb katki"
+    },
+    {
+      "surface": "וחציו",
+      "gloss": "ja oma nooli"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "ta purustab neid"
+    }
+  ],
+  "timestamp": "2026-10-20T23:50:27.111629051Z",
+  "model": "glm-5.3"
+}

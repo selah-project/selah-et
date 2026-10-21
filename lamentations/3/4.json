@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kurnanud",
+      "rationale": "בלה 'worn out\/decayed'; 'vanistanud' (made old) is the older rendering, 'kurnanud' keeps the wearing-away sense"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta on",
+      "rationale": "agent and perfect auxiliary supplied by Estonian; Hebrew leaves the subject implicit"
+    }
+  ],
+  "translation": "Ta on kurnanud mu liha ja mu naha, ta on murdnud mu luud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/1-4.1792555918002.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "on kurnanud"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mu liha"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ja mu naha"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "on murdnud"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mu luud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:58.003326173Z",
+  "model": "glm-5.3"
+}

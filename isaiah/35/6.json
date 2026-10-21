@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Stepis",
+      "rationale": "ערבה tähendab Jordan'i oru steppi või kuiva tasandikku; lihtsalt 'kõrb' korduks מדבר-iga."
+    }
+  ],
+  "translation": "Siis hüppab lonkav nagu hirv ja hõiskab tumma keel, sest kõrves lõhutakse lahti veed ja ojad Stepis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be75876a1b44bb3bc798377503c19825ba119cb5c6c409cb254b75bfb2685f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/35\/5-8.1792547280376.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "hüppab"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "nagu hirv"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "lonkav"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ja hõiskab"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "keel"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "tumma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "lõhutakse lahti"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrves"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ja ojad"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Stepis"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:00.377634787Z",
+  "model": "glm-5.3"
+}

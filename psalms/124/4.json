@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשנו",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte 'hing' sealses mõttes; 'hinguse' hoiab elujõu pildi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזי ... אזי",
+      "rationale": "salmites 3 ja 4 kordub 'siis' kinnitusena, mis täidab tingiva ehituse"
+    }
+  ],
+  "translation": "siis veed oleksid meid üle ujutanud, oja oleks läinud üle meie hinguse",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/124\/1-4.1792554221398.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "siis"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "oleksid üle ujutanud meid"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "oja"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oleks läinud üle"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "meie hinguse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:41.399990737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 4:22",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea jätab subjekti (Jahve) nimetamata; eesti nõuab asesõna, bracketeeritud."
+    },
+    {
+      "kind": "crux",
+      "subject": "גלה על חטאתיך",
+      "rationale": "KJV 'paljastab sinu patud' vs YLT 'viis sind minema sinu pattude tõttu' — על tähendab nii 'üle\/kohal paljastama' kui 'pattude pärast'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקד",
+      "rationale": "'Külastab' hoitakse sõna kuju, mitte 'karistab' — פקד on nii külastus kui arvekoods."
+    }
+  ],
+  "translation": "Lõppenud on sinu süü, Siioni tütar; ⟨ta⟩ ei vii sind enam pagendusse; ⟨ta⟩ külastab sinu süüd, Edomi tütar, ⟨ta⟩ paljastab sinu patud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bfba896e5cda7c8034bf50a360e35a9221d3065d9774fb15589c885c2bb9ab82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/21-22.1792555986842.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Lõppenud"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sinu süü"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "enam"
+    },
+    {
+      "surface": "להגלותך",
+      "gloss": "viima sind pagendusse"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "külastab"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sinu süüd"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "paljastab"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨pärast⟩"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "sinu patud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:06.843468352Z",
+  "model": "glm-5.3"
+}

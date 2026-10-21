@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "otsetõlge on 'roogumeri' (papürusse-roog), mitte 'punane meri'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עני",
+      "rationale": "עני on 'rõhumine\/viletsus', rõhutud seisund, mitte üldine 'kannatus'."
+    }
+  ],
+  "translation": "Ja sa nägid ⟨את⟩ meie esiisade häda Mitsraimis, ja ⟨את⟩ nende hüüdmist kuulsid sa Rooglal (punasel merel).",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/9\/9-12.1792557006129.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ja sa nägid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meie esiisade häda"
+    },
+    {
+      "surface": "עני",
+      "gloss": "häda"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "meie esiisad"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraimis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nende hüüdmist"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "nende hüüdmist"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulsid sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "Rooglal (punasel merel)"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Rooglal (punasel merel)"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Rooglal (punasel merel)"
+    }
+  ],
+  "timestamp": "2026-10-21T04:30:06.130449992Z",
+  "model": "glm-5.3"
+}

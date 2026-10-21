@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 8:26",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab kopeeldusverbi, heebreas seda pole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mats",
+      "gloss": "מצה tähendab pärmitut leiba; eesti 'mats' hoiab ühe sõna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm kakku",
+      "rationale": "Täpne loendus: üks matsu-, üks õli-, üks õhuke kakk"
+    }
+  ],
+  "translation": "Ja matsude korvist, mis ⟨on⟩ Jahve ees, võttis ta ühe matsukaku ja ühe õlileivakaku ja ühe õhukese kaku, ja pani need rasvadele ja paremale reiele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6ff5f65ea8bb5795826c1a2c9c0de16af3260f245ba03e6813645c7fe72ed9cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/8\/25-28.1792539292665.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומסל",
+      "gloss": "Ja matsude korvist"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "võttis ta"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "kaku"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "matsu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "ja õlileivakaku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiva"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "õli"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "ja õhukese kaku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "rasvadele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja peale"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "reiele"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "paremale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:52.666120700Z",
+  "model": "glm-5.3"
+}

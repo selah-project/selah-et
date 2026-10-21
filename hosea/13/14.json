@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפדם אגאלם",
+      "rationale": "Küsimõttesirutus 'Kas ma peaksin nad lunastama?' (JPS) või kindel tõotus 'Ma lunastan nad' (KJV\/BSB); verbivormid on mittekindlad — valitud tõotuselugemine küsimärkidega"
+    },
+    {
+      "kind": "crux",
+      "subject": "אהי דבריך מות",
+      "rationale": "Küsimus 'kus on su katk?' (ASV\/YLT) või võiduhüüe 'ma olen su katk' (KJV, tuleneb hallo-tagasiloetust kui אהיה); valitud küsimuse lugemine"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula, mida heebrea puudub, küsimustes nõutav"
+    },
+    {
+      "kind": "substitution",
+      "subject": "katk",
+      "rationale": "דבר רbgem tähendab 'katk\/epideemia', mitte üldine 'nuhtlus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אגאלם\/גאל",
+      "rationale": "Lähissugulase-lunastuse verbi kordus koos פדה-ga; paariline parallelism, mis eesti keeles osaliselt säilib ('lunastan\/ära ostsin')"
+    }
+  ],
+  "translation": "Šeoli käest ma nad lunastan, surmast ma nad ära ostsin; kus ⟨on⟩ su katk, surm? Kus su häving, šeol? Kahetsus on peidetud mu silmade eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/13\/13-15.1792551128938.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeoli"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "ma nad lunastan"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "surmast"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "ma nad ära ostsin"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kus"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "su katk"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surm"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "kus"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "su häving"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "kahetsus"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "on peidetud"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mu silmade eest"
+    }
+  ],
+  "timestamp": "2026-10-21T02:52:08.939239661Z",
+  "model": "glm-5.3"
+}

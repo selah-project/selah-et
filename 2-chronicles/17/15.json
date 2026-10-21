@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tema kõrval",
+      "rationale": "על ידו sõna-sõnalt 'tema käel', tähendab 'tema all, tema kõrval'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kakssada kaheksakümmend tuhat",
+      "rationale": "Arv loetud täielikult nagu heebrea keeles"
+    }
+  ],
+  "translation": "Ja tema kõrval Joohanan, ülem, ja temaga kakssada ja kaheksakümmend tuhat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62b6a23f19c540cda94e43cdc22dc561ef7f8b4ac24c0a2e0c88586d810b125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/17\/13-16.1792557914209.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ja ... kõrval"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tema käe"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Joohanan"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ja temaga"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kakssada"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ja kaheksakümmend"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:14.211307947Z",
+  "model": "glm-5.3"
+}

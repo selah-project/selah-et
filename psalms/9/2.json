@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tegudest",
+      "rationale": "Heebrea ütleb vaid 'sinu imelistest' — 'tegudest' lisatud selguseks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tunnistan",
+      "rationale": "אודה juurest ידה, 'viskama (kiituse) poole' — eesti 'tunnistan' on tavapärane tänuväljendus."
+    }
+  ],
+  "translation": "Ma tunnistan Jahvet kogu oma südamega, ma räägin kõikidest sinu imelistest tegudest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4729a20496cf82618c7edc35430f868aaecbb2f5669a26607db00d0199d3ade2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/1-2.1792558577259.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ma tunnistan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "oma südamega"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ma räägin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõikidest"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sinu imelistest tegudest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:17.265058578Z",
+  "model": "glm-5.3"
+}

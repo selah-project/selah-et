@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tahtmine",
+      "rationale": "Aramaic טעם 'maitse' tähistab kaudselt kohalikku otsust\/käsku; 'tahtmine' hoiab administratiivse tähenduse."
+    },
+    {
+      "kind": "crux",
+      "subject": "kuni minu poolt tahtmine seatud",
+      "rationale": "מני טעמא: 'minu poolt' (minult käsk) vs 'minu kohta' — enamik tõlkeid valib esimese."
+    },
+    {
+      "kind": "you",
+      "subject": "Rehumile, Šimšaile ja kaaslastele",
+      "rationale": "Kuningas Artahšasta käsu sõnul pöördub kiri otse jõe-taguste ametnike poole."
+    }
+  ],
+  "translation": "Määrake nüüd tahtmine, et need mehed peatataks, ja seda linna ei ehitataks, kuni minu poolt tahtmine ⟨on⟩ seatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/4\/21-24.1792556697964.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "määrake"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "tahtmine"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "et peatataks"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "need"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "ja linna"
+    },
+    {
+      "surface": "דך",
+      "gloss": "seda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "ehitataks"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minu poolt"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "tahtmine"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "seatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:57.965503059Z",
+  "model": "glm-5.3"
+}

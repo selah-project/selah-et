@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea והיה on umbisikuline 'ja sai nii, et Jahve oli temaga' — koppula on eesti keele jaoks tasandatud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישכיל",
+      "rationale": "'Toimis targalt \/ õnnestus' — juur שכל tähendab nii tarkust kui edu; 'prospereerus' jätaks poole kadunuks."
+    }
+  ],
+  "translation": "Ja Jahve oli temaga; kõiges, kuhu ta välja läks, toimis ta targalt; ja ta mässas Assüüria kuninga vastu ega teeninud teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/18\/5-8.1792546303921.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja Jahve oli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõiges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuhu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ta välja läks"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "toimis ta targalt"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ja ta mässas"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kuninga vastu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assüüria"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "teeninud teda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:31:43.923937340Z",
+  "model": "glm-5.3"
+}

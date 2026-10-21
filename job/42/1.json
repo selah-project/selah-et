@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ja",
+      "rationale": "Eesti keel nõuab vau-konsekutiivi lause alguses sidesõna, heebrea vaw osutab järgnevusele"
+    }
+  ],
+  "translation": "Ja Iiob vastas ⟨את⟩ Jahvele ja ütles:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/42\/1-4.1792555737524.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastas"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:57.524946549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קפוז",
+      "rationale": "Sõna קפוז (noolemadu, 'edasipilguv') esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותמלט",
+      "rationale": "Juur מלט 'libedalt pääsema' — siin 'munema' (muna libiseb pesast) vs 'välja toumama'; võimalik ka 'toob ilmale'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קננה \/ ודגרה",
+      "rationale": "Pesitsemise ja haudumise kordus koos eelmise salmi 'puhkepaigaga' (מנוח) — rüüstatakse kõrb jääb kojaks elukoletistele, kordus kadu eesti keeles osaliselt"
+    }
+  ],
+  "translation": "Seal pesitseb noolemadu, ja muneb, ja haub, ja kogub oma varju alla; ainult seal kogunevad ⟨kokku⟩ raisakotkad, igaüks oma kaasaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea114dec5fecd75e3ff2606f4ef696dd1adad8d6cea12c67b8694eea0465e8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/34\/14-15.1792558390538.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "pesitseb"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "noolemadu"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "ja muneb"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "ja haub"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "ja kogub"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "oma varju alla"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "kogunevad"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "raisakotkad"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "oma kaasaga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:10.539662888Z",
+  "model": "glm-5.3"
+}

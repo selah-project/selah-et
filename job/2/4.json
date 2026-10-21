@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפש on 'hing\/elujõud', mitte hingesell — 'elu' on lähim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עור בעד עור",
+      "rationale": "Kordus 'nahk nahast' — kõlav kõnekäänd, eesti keeles säilitatud"
+    }
+  ],
+  "translation": "Ja saatan vastas ⟨את⟩ Jahvet ja ütles: Nahk nahast, ja kõik, mis mehel on, annab ta oma elu eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/2\/1-4.1792555085091.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastas"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "saatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Nahk"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nahast"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nahk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mehel on"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab ta"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "eest"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma elu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:05.092354372Z",
+  "model": "glm-5.3"
+}

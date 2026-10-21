@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poolita oma päevi",
+      "rationale": "יחצו tähendab sõna-sõnalt 'poolitama'; tavatõlgeded ütlevad 'ei elapoolt oma päevist', heebrea ütleb 'päevad ei poolitu'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "verised ja petlikud mehed",
+      "rationale": "אנשי דמים on sõna-sõnalt 'veri mehed' — mitmusega 'vered' rõhutab vägivalda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתה...ואני",
+      "rationale": "sina\/mina vastandus raamistab salmi: Elohim langetab, psalmist loodab"
+    }
+  ],
+  "translation": "Ja sina, Elohim, langetad nad alla hävingu kaevu; verised ja petlikud mehed ei poolita oma päevi, aga mina loodan sinu peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4d8170ad95b14aed82cd80eeef4d53b991a485843a85f62831e25cca0ec03031",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/24-24.1792558610805.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ja sina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "langetad nad alla"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "kaevu"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hävingu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "verised"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ja petlikud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "poolita"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "oma päevi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aga mina"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "loodan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu peale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:50.813702236Z",
+  "model": "glm-5.3"
+}

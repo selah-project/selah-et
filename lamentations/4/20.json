@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 4:20",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח אפינו on idiom 'meie nina elushingus' — ruahh jääb kõla järgi, nagu reegel käsib."
+    },
+    {
+      "kind": "crux",
+      "subject": "משיח יהוה",
+      "rationale": "Kes on 'Jahve võitu': kuningas Sidkija (valitsev kuningas, langenud vangi) või tulevane mašiahh — tõlkijad lähevad lahku."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Suhtesõna 'kellest' — eesti omastav-küsitlusvorm toob selle osaliselt nähtavale, kuid heebrea paindlikkus ei leia täpset vastet."
+    }
+  ],
+  "translation": "Meie ninasõõrmete ruahh, Jahve võitu, jäi kinni nende lõksudesse, kellest me ütlesime: tema varjus elame paganate seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "778048a648accb3c90c8a65f9115e73e159d16d7ec34e2b57d5db1189258cf85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/17-20.1792556024943.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "אפינו",
+      "gloss": "meie ninasõõrmete"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "võitu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלכד",
+      "gloss": "jäi kinni"
+    },
+    {
+      "surface": "בשחיתותם",
+      "gloss": "nende lõksudesse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kellest"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "ütlesime"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "tema varjus"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "elame"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "paganate seas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:44.944861740Z",
+  "model": "glm-5.3"
+}

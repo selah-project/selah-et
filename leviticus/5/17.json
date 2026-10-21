@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on hingav olend, elujõud — mitte kehatu 'hing' mõttes"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "נפש כי on heebrea lauseidendid, eesti keeles üks 'kui' piisab"
+    },
+    {
+      "kind": "addition",
+      "subject": "siis",
+      "rationale": "heebrea puudub sidesõna; eesti lause eeldab 'siis'"
+    }
+  ],
+  "translation": "Ja kui mõni hing pattu teeb ja toiming ühe kõigist Jahve käskudest, mida ei tohi teha, ega tea seda, siis ta on süüdi ja kannab oma pahatust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/5\/17-20.1792539207915.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "pattu teeb"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ja toiming"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käskudest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "tohi teha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tea"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "siis on süüdi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ja kannab"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "oma pahatust"
+    }
+  ],
+  "timestamp": "2026-10-20T23:33:27.915651380Z",
+  "model": "glm-5.3"
+}

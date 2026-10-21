@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopeeriv verbum; eesti nõuab selle sulgudes lisama."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תאנה",
+      "rationale": "Sõna 'põhjus\/juhus' (תאנה) esineb Tanahhis ainult selles salmis."
+    },
+    {
+      "kind": "crux",
+      "subject": "תאנה",
+      "rationale": "Tõlkijad lahku: 'põhjust\/tekkäidet plištimlide vastu otsima' vs 'kokkupõrget plištimlidega otsima' — kellelt tuleb tahe, on ähmane."
+    }
+  ],
+  "translation": "Ja ta isa ja ema ei teadnud, et see ⟨oli⟩ Jahvelt, sest ta otsis põhjust plištimlide vastu; ja sel ajal valitsesid plištimlid Jisraeli.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88cc8afca2cab2eade86b4e8e75e4bd80cedecccfc9b2fa05512b72ea86660b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/14\/1-4.1792542081165.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ו אביו",
+      "gloss": "ja ta isa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja ema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "teadnud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahvelt"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "põhjust"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "otsis"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "plištimlide"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ja sel ajal"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plištimlid"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "valitsesid"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:21:21.167480313Z",
+  "model": "glm-5.3"
+}

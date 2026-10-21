@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõlvatu",
+      "rationale": "חנף tähendab 'seni määritud, jumalatu' — 'silmakirjatseja' on hilisem tõlge"
+    },
+    {
+      "kind": "addition",
+      "subject": "päästetakse",
+      "rationale": "יחלצו on passiiv, mis nõuab eesti keeles tegumasõna"
+    }
+  ],
+  "translation": "Suu läbi rikub kõlvatu oma kaaslase, ja tsedeki tunnetuses päästetakse õiged.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41c6229165c4af5a0f6304ad160214c060a21a801001977bf91eed4b3ddb948b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/9-12.1792554597194.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "suu läbi"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "kõlvatu"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "rikub"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oma kaaslase"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ja tunnetuses"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "õiged"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "päästetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:57.194985957Z",
+  "model": "glm-5.3"
+}

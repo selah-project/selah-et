@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "inimese eluiga",
+      "rationale": "Salm määrab eluea mõõdu: seitsekümmend, jõu korral kaheksakümmend aastat."
+    },
+    {
+      "kind": "crux",
+      "subject": "ורהבם",
+      "rationale": "רהב 'uhkus' (ASV\/JPS 'pride') vs KJV 'strength' — kas readus on uhkus või rõhumine; juur tähendab uhkust\/jultumust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גז",
+      "rationale": "Otseselt 'kärbitakse\/nokitakse' nagu villa pügamine — elu kärbitakse ära."
+    }
+  ],
+  "translation": "Meie aastate päevad on neis seitsekümmend aastat, ja kui jõus, kaheksakümmend aastat; ja nende uhkus on vaev ja tühjus, sest see raiutakse kiiresti ära ja me lendame ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/9-12.1792553621782.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "meie aastate"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nendes"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seitsekümmend"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "jõus"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "kaheksakümmend"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ja nende uhkus"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaev"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ja tühjus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גז",
+      "gloss": "raiutakse ära"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "kiiresti"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ja me lendame ära"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:41.783931539Z",
+  "model": "glm-5.3"
+}

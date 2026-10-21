@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 19:28",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וירגל",
+      "rationale": "רגל juur 'jalg' — 'kõndis jalgu', siin 'levitas laimu'; pilt jalgu-käimisest kaob"
+    },
+    {
+      "kind": "substitution",
+      "subject": "saadik",
+      "rationale": "מלאך 'sõnumitooja, saadik' — tavaline sõna, mitte ainult taevane olend"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "kopula 'on sinu silmis' lisatud, heebrea puudub"
+    }
+  ],
+  "translation": "Ja ta laimab su teenrit mu isanda, kuninga, juurde; aga mu isand kuningas on nagu Elohimi saadik, ja tee see, mis hea on sinu silmis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a04090180452e9e676c5c8a3f9dd5332609c8f0a843ec820c38322b91863ce02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/19\/25-28.1792544861235.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירגל",
+      "gloss": "Ja ta laimab"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "su teenrit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mu isanda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "aga mu isand"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "nagu saadik"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "see, mis hea"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sinu silmis"
+    }
+  ],
+  "timestamp": "2026-10-21T01:07:41.238070362Z",
+  "model": "glm-5.3"
+}

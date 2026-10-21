@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 6:9",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Nõunikud pöörduvad otse kuninga Darjavéši poole käskiva kõnega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "keeld",
+      "rationale": "Aramaic אסרא tähendab 'keeldu, kõikeületavat käsku'; 'seadus' oleks vale."
+    },
+    {
+      "kind": "crux",
+      "subject": "mida ei saa muuta",
+      "rationale": "תעדא 'mööduda, tühistada' — 'mis ei möödu' vs 'mida ei saa muuta'."
+    }
+  ],
+  "translation": "Nüüd, kuningas, kehtesta ⟨keeld⟩ ja kinnita kiri, et seda ei muudetaks, nagu on meedide ja pärslaste seadus, mida ei saa muuta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f99c6d2636c1eedfc661ff2867a896e9b819c98070a1f244f6a5e7a5944bd3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/6\/9-12.1792556455375.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "kehtesta"
+    },
+    {
+      "surface": "אסרא",
+      "gloss": "keeld"
+    },
+    {
+      "surface": "ותרשם",
+      "gloss": "ja kinnita"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "די",
+      "gloss": "et"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "להשניה",
+      "gloss": "muudetaks"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "nagu on seadus"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "meedide"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ja pärslaste"
+    },
+    {
+      "surface": "די",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעדא",
+      "gloss": " saa muuta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:55.376298826Z",
+  "model": "glm-5.3"
+}

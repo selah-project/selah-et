@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "'Hirm' (morah) vs YLT 'director' (mahagid\/moreh 'õpetaja') — põhjamumud erinevuse tõttu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ainult surelikud",
+      "rationale": "אנוש tähendab surelikku inimest, madalamat sõna kui אדם — 'inimesed, ainult surelikud' hoiab selle astme."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש המה",
+      "rationale": "Rõhutav kordus: 'inimesed — nemad'; heebrea järjekord jätab 'nemad' lõppu kui löögi."
+    }
+  ],
+  "translation": "Pane ⟨neile⟩ hirm, Jahve, et rahvad teaksid: inimesed ⟨on⟩ nemad, ainult surelikud. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/21-21.1792552249241.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Pane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "hirm"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨neile⟩"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "teaksid"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "inimesed, ainult surelikud"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:10:49.242542248Z",
+  "model": "glm-5.3"
+}

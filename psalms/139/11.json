@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreas puudub koopula 'öö valgus' ja 'minu ümber' vahel."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישופני",
+      "rationale": "'mind kammib\/mulksatab' (שׁוּף, nagu 1Ms 3:15) — tõlkijad: 'varjab mind', 'rusikad mind', 'katab mind'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/ישופני",
+      "rationale": "שׁוּP põrkab kokku rõhuliselt, asonants kadunud tõlkes."
+    }
+  ],
+  "translation": "Ja ma ütlesin: vaid pimedus varjab mind, ja öö ⟨on⟩ valgus minu ümber.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/9-12.1792554275190.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja ma ütlesin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimedus"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "varjab mind"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öö"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valgus"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "minu ümber"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:35.191344466Z",
+  "model": "glm-5.3"
+}

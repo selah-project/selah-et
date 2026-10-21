@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן",
+      "rationale": "Kordus 'kivi ja kivi' tähendab kaht erinevat kaalukivi; inglise 'divers weights' varjab sõnakorduse."
+    },
+    {
+      "kind": "addition",
+      "subject": "ei olema sul",
+      "rationale": "Eesti kõnejärjekord 'sul ei olema' — heebrea sõnajärg 'ei olgu sinule'."
+    }
+  ],
+  "translation": "Sul ei olema oma kotis kivi ja kivi, suurt ja väikest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5b7e9f571d5089c7dfde532e86a96fdf45aa99d72df71c6af646362df46534ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/25\/13-16.1792541072132.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sul"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "oma kotis"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ja kivi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suurt"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ja väikest"
+    }
+  ],
+  "timestamp": "2026-10-21T00:04:32.132797310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כמשפט",
+      "rationale": "otsetähendus 'nagu kohus\/mõistus' = määratud korra järgi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lepitus",
+      "rationale": "כפר põhjendus on 'kattma'; eesti kääneteos 'lepitus' katab ohjeldatud tähenduse."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ teise teeb ta tõusuohvriks, nagu kohus määrab, ja preester teeb temale lepituse tema patu eest, mille ta on pattu teinud, ja see antakse talle andeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6624f868cf07c1f706b69ff30a18d4bda679d87cb90bd2c198334cf11bc943cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/5\/10-12.1792543598590.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teise"
+    },
+    {
+      "surface": "השני",
+      "gloss": "teise"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tõusuohvriks"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "nagu kohus määrab"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ja teeb lepituse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema eest"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "tema patu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ta on pattu teinud"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ja antakse andeks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:38.594386468Z",
+  "model": "glm-5.3"
+}

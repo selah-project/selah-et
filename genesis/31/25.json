@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "koos",
+      "rationale": "see את on siin läheduse eessõna ('koos'), mitte objektimarker; lisatud ⟨koos⟩, et lause loetav oleks"
+    },
+    {
+      "kind": "you",
+      "subject": "Lavan kõne Jaakobile",
+      "rationale": "salm algatab Lahvani otsese kõne Jaakobile (v 26–28)"
+    }
+  ],
+  "translation": "Ja Laban jõudis jaatab Jaakobi; Jaakob oli püstitanud ⟨את⟩ oma telgi mäele, ja Laban püstitas ⟨את⟩ ⟨koos⟩ oma vendadega Gileadi mäele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/25-28.1792537872005.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "jõudis jaatab"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakobi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "püstitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma telgi"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "oma telgi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mäele"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ja Laban"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "püstitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma vendadega"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "oma vennad"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mäele"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:12.006022416Z",
+  "model": "glm-5.3"
+}

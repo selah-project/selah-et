@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבך",
+      "rationale": "KJV loeb kui \"kes on sinu mõõk\" (pahad kui Jahve tööriist); teised loevad instrumendina \"sinu mõõgaga\"."
+    },
+    {
+      "kind": "addition",
+      "subject": "käest",
+      "rationale": "Eesti omastav nõuab laiendit; heebrea רשע üksinda jääks ebamääraseks."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Psalmitõlgija pöördub otseselt Jahve poole palves."
+    }
+  ],
+  "translation": "Tõuse, Jahve, astu tema palge vastu, langeta ta põlvili; päästa mu hing kurja käest — sinu mõõgaga,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/17\/13-15.1792552361018.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tõuse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "astu vastu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tema palge"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "langeta ta põlvili"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "päästa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "kurja käest"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sinu mõõgaga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:41.019194815Z",
+  "model": "glm-5.3"
+}

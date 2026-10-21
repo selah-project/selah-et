@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte hingesubjekt — 'hing' on traditsiooniline, kuid mittetäpne."
+    },
+    {
+      "kind": "elision",
+      "subject": "לה",
+      "rationale": "Sidesõna lause alguses (selleks et), eesti keeles välja jäetud."
+    }
+  ],
+  "translation": "Liiga kaua on mu hing elanud koos sellega, kes vihkab rahu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/120\/5-7.1792554234666.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "liiga kaua"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "on elanud"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kes vihkab"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:54.667116275Z",
+  "model": "glm-5.3"
+}

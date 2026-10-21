@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeelverb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד",
+      "rationale": "sama juure kordus — tegusõna ja nimisõna ühest juurest, eesti keeles laguneb üheks fraasiks"
+    },
+    {
+      "kind": "you",
+      "subject": "jultumatute kohta",
+      "rationale": "kõne käib pahategijate üle, kes 4. salmis söösid rahvast"
+    }
+  ],
+  "translation": "Sealsamas vallandub neid kohutav hirm, sest Elohim ⟨on⟩ õigete põlves.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/14\/5-7.1792552272247.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "sealsamas"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "vallandub neid kohutav"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "hirm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "põlves"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õigete"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:12.248518459Z",
+  "model": "glm-5.3"
+}

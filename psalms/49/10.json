@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "häving",
+      "rationale": "השחת on 'auk, lõks, haud' — 'mädanemine' (KJV 'corruption') on tuletatud tähendus"
+    }
+  ],
+  "translation": "Et ta saaks elada ikkagi igavesti, et ta ei näeks hävingut.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/9-12.1792552967551.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Et ta saaks elada"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ikkagi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ta näeks"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "hävingut"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:47.552423784Z",
+  "model": "glm-5.3"
+}

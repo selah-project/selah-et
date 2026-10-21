@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "אִתָּךְ 'sinuga juures' (eelisting 'with thee') vs אֵת DOM-märgis — täishäälikud näitavad, et siin on lähedusprepositsioon, mitte aleph-tav; gloss kannab siiski ⟨את⟩ konventsiooni järgi"
+    },
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "heebreas puudub viidatud objekt, eesti keel vajab ⟨seda\/see⟩ lause selguseks"
+    }
+  ],
+  "translation": "Ära ütle oma sõbrale: Mine ja tule tagasi, homme annan — kui sul ⟨see⟩ on juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/25-28.1792554493770.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "oma sõbrale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mine"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ja tule tagasi"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "homme"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "annan"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kui on"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:13.771493410Z",
+  "model": "glm-5.3"
+}

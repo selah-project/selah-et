@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinged",
+      "rationale": "נפש on hingamine\/kurk\/elujõud, mitte immateriaalne 'hing'."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Eesrakend 'lepitada üle' lülitus eesti väljendisse 'lepitada ... eest' sisse."
+    },
+    {
+      "kind": "you",
+      "subject": "teie hinged",
+      "rationale": "Pöördumine otse Iisraeli kogukonnale: 'teie' mitmus."
+    }
+  ],
+  "translation": "Rikas ei anna rohkem ega vaene vähem kui pool seeklit, andes ⟨את⟩ Jahve annetuse, et lepitada teie hinged.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/30\/13-16.1792538869850.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "rikas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "anna rohkem"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "ega vaene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "vähem"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "kui pool"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "seeklit"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "andes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve annetuse"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "annetuse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "lepitada"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "teie hinged"
+    }
+  ],
+  "timestamp": "2026-10-20T23:27:49.851622123Z",
+  "model": "glm-5.3"
+}

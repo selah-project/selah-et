@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ei olnud⟩",
+      "rationale": "eesti keel vajab olemasoluverbi, heebrea passiiv נבנה לא ei nõua seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõrgkohtadel",
+      "rationale": "במות on 'kõrgendikud' — ohverdamiskohad küngastel; 'kõrgkoht' hoiab koha, mitte hinnangu"
+    }
+  ],
+  "translation": "Ainult rahvas ohverdas kõrgkohtadel, sest ⟨ei olnud⟩ ehitatud maja Jahve nimele nende päevadeni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/3\/1-4.1792545174241.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "ohverdas"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kõrgkohtadel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ehitatud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nimele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päevadeni"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nende"
+    }
+  ],
+  "timestamp": "2026-10-21T01:12:54.242583976Z",
+  "model": "glm-5.3"
+}

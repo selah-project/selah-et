@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "me",
+      "rationale": "Hebrew verb uses prefixed vav-consecutive; subject pronoun supplied in Estonian"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Beit Pe'or",
+      "rationale": "בית פעור on paiganimi (koht jaordani taga), jäänud heebrea kõlaga, mitte tõlgitud 'Pe'ori maja'"
+    }
+  ],
+  "translation": "Ja me jäime oru, Beit Pe'ori ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4b652af9edd031f6bfea736ca287dde6ea477c336891be3999fbdbd08fd9eb9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/3\/29-29.1792540642739.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַנֵּ֣שֶׁב",
+      "gloss": "Ja me jäime"
+    },
+    {
+      "surface": "בַּגָּ֔יְא",
+      "gloss": "orus"
+    },
+    {
+      "surface": "מ֖וּל",
+      "gloss": "ees"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "פְעֽוֹר",
+      "gloss": "Pe'or"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:22.740254180Z",
+  "model": "glm-5.3"
+}

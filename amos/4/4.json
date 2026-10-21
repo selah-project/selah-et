@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Minge Beit-Elisse",
+      "rationale": "Käskiv pöördumine — irooniline kutse pühasirkuses üleastumist kordistama."
+    },
+    {
+      "kind": "crux",
+      "subject": "לשלשת ימים",
+      "rationale": "Kas 'iga kolme päeva järel' või 'kolme aasta pärast' (nagu KJV); heebrea sõna tähendab lihtsalt 'kolm'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשעו...לפשע",
+      "rationale": "Sama verb kordub kahes vältes: 'rikkuge... suurendage üleastumist' — kordus kannab irooniat."
+    }
+  ],
+  "translation": "Minge Beit-Elisse ja rikkuge, Gilgalis suurendage üleastumist, ja tooge hommikul oma ohvrid, iga kolme päeva järel oma kümnised.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8201392b02767ec64cf02cab1fa1e3687c72369a0b49078c2d876b5d34698cbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/4\/1-4.1792551333522.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Minge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "ja rikkuge"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalis"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "suurendage"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "üleastumist"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ja tooge"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "oma ohvrid"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "iga kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "oma kümnised"
+    }
+  ],
+  "timestamp": "2026-10-21T02:55:33.523722726Z",
+  "model": "glm-5.3"
+}

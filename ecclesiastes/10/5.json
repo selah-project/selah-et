@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab olemasolu-verbi, heebrea יש on partikkel"
+    },
+    {
+      "kind": "crux",
+      "subject": "כשגגה",
+      "rationale": "'kui taandus (tahtmatu eksitus)' — mõned lugevad כְּשֶׁגָגָה 'nagu eksitus'"
+    }
+  ],
+  "translation": "On olemas paha, mida ma olen näinud päikese all: kui taandus, mis väljub valitseja palge eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/10\/5-8.1792556116478.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "on olemas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen näinud"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikese"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "kui taandus"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "mis väljub"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "palge eest"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "valitseja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:16.479397664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 14:6",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kohaselt D2 kõlana — 'ruahh', mitte 'vaim' üksi."
+    },
+    {
+      "kind": "crux",
+      "subject": "läks võimsalt",
+      "rationale": "ותצלח tähendab otseselt 'läks edukalt\/võimsalt möllama'; tõlkijad jagunevad 'tuletas' (KJV 'came mightily') ja 'puhkes' vahel."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kisub kui kitsetall",
+      "rationale": "כשסע הגדי on eessõnaline võrdlus — 'nagu kitsetalle kiskumine' ilma abiverbiga, hoitud võimalikult sõna-sõnalt."
+    }
+  ],
+  "translation": "Ja Jahve ruahh läks võimsalt tema peale, ja ta kiskus ta lõhki nagu kitsetalle kiskutakse, ja midagi ei olnud tema käes; ja ta ei teatanud oma isale ega oma emale ⟨את⟩ seda, mida ta oli teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3c3f566f6d465af95058caa773db372af5e54866667bb188ef16017c3f956e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/14\/5-8.1792542061995.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "ja läks võimsalt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישסעהו",
+      "gloss": "ja kiskus ta lõhki"
+    },
+    {
+      "surface": "כשסע",
+      "gloss": "nagu kiskutakse"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "kitsetall"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "ja midagi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei olnud"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tema käes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "teatanud"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "oma isale"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ega oma emale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda, mida ta oli teinud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ta oli teinud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:21:01.996617854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud\/kurk, mitte mateeriline 'hinge' — eesti 'hing' on lähim"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Eesti keele küllastuse kaasus nõuab objekti, heebrea lühend ei ütle seda sõnaga"
+    }
+  ],
+  "translation": "Häbenegu ja pallengu üheskoos need, kes otsivad mu hinge, et ⟨see⟩ ära pühkida; taganegu nad häbi ja olgu teotatud need, kes minu halba tahavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/40\/13-16.1792552777407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "häbenegu"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ja pallengu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "need, kes otsivad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hinge"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "et ära pühkida"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "taganegu nad"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "häbi"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ja olgu teotatud"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "need, kes tahavad"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "minu halba"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:37.409068562Z",
+  "model": "glm-5.3"
+}

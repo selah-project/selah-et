@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 52:14",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taprite ülem",
+      "rationale": "רב טבחים tähendab sõna-sõnalt 'tapjate ülem' (ihukaitsjate ülem), mitte 'valvuspealik'"
+    },
+    {
+      "kind": "crux",
+      "subject": "את רב טבחים",
+      "rationale": "את võib siin olla eessõna 'juures' või otsesõna marker — masinlikult marker, kuid kontekst toetab eessõna"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ kõik müürid ümber Jerušalaimi lammutas kogu kaaslaste vägi, kes olid taprite ülema ⟨את⟩ juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/52\/13-16.1792549489671.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik müürid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "müürid"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "lammutas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaaslaste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ juures"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "taprite"
+    }
+  ],
+  "timestamp": "2026-10-21T02:24:49.672976265Z",
+  "model": "glm-5.3"
+}

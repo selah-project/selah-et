@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאל יגאל",
+      "rationale": "infinitivus absolutus + sama verbi finiitvorm — tugevdamine 'kindlasti lunastama', eesti keele väljend ei anna kordust edasi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viiendik",
+      "rationale": "lisatasu mõõdetakse viiendikus — korduv reegel 3Ms 27:13,15"
+    }
+  ],
+  "translation": "Ja kui põllu pühitseja tahab ⟨kindlasti⟩ lunastada ⟨את⟩ põllu, siis lisab ta sellele viiendiku oma hinnangu hõbedast, ja see jääb talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/27\/17-20.1792539691846.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "kindlasti"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "tahab lunastada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "põllu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "pühitseja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "siis lisab ta"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "viiendiku"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedast"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "sinu hinnangu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ja see jääb"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-20T23:41:31.847964783Z",
+  "model": "glm-5.3"
+}

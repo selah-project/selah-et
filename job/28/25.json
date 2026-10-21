@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaal ja mõõt",
+      "rationale": "Jumal kaalub tuule ja mõõdab veed — kaalumise ja mõõtmeseade."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jäetakse kõla järgi 'ruahhiks', mitte 'tuuleks' ega 'vaimuks' üksi."
+    }
+  ],
+  "translation": "ruahhile kaalu teha ja veed mõõduga mõõta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/25-28.1792555556336.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ruahhile"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "kaalu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja veed"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "mõõta"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "mõõduga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:56.337377052Z",
+  "model": "glm-5.3"
+}

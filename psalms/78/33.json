@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבל",
+      "rationale": "haihtus\/tühjus — 'nende päevad haihtusid' vs 'tühises kulutatud'; JPS 'nagu hingus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהלה",
+      "rationale": "paanika\/õudus; sõna katab nii hirmu kui järsku hävingut"
+    }
+  ],
+  "translation": "Ja ta lõpetas haihtuses nende päevad ja nende aastad õuduses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/33-36.1792553415740.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ja ta lõpetas"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "haihtuses"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "nende päevad"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ja nende aastad"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "õuduses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:15.741211037Z",
+  "model": "glm-5.3"
+}

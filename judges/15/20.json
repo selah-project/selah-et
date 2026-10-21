@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kakskümmend aastat",
+      "rationale": "Simsoni kohtumõistmise tähtaeg"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kohutas üle",
+      "rationale": "שפט tähendab 'mõistma kohut, valitsema' — eesti 'kohut mõistma' on pikk; 'kohutas üle' kannab šopeti-ruuleri tähendust"
+    }
+  ],
+  "translation": "Ja ta kohutas ⟨את⟩ Jisraeli üle plistide päevil kakskümmend aastat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6dc18d411f61a1e1b26973d45fc646cfd1f64aba9c990e20c460f6bf20f27604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/15\/17-20.1792542057989.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ja ta kohutas üle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päevil"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plistide"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    }
+  ],
+  "timestamp": "2026-10-21T00:20:57.990942504Z",
+  "model": "glm-5.3"
+}

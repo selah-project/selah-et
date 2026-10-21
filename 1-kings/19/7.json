@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopeel lisatud — heebrea ütleb lihtsalt 'sest suur sinust tee'"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב ממך הדרך",
+      "rationale": "Sõna-sõnalt 'suur sinust\/rohkem kui sina on tee' — 'tee on sinu jaoks liiga suur' vs 'sul on pikk teekond ees'"
+    },
+    {
+      "kind": "you",
+      "subject": "prohvvet Eelija",
+      "rationale": "Ingel pöördub otse Eelija poole imperatiividesga: Tõuse, söö"
+    }
+  ],
+  "translation": "Ja Jahve ingel pöördus tagasi teist korda ja puudutas teda ning ütles: Tõuse, söö, sest suur ⟨on⟩ see tee sinu jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fc6cb9d3a21602cb8ea3fef3d427e1e86faa9fe8fbfb0094cdcf5e35bb3cc31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/19\/6-7.1792558355954.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja pöördus tagasi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ingel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "teist korda"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ja puudutas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tõuse"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söö"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suur"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinu jaoks"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "see tee"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:35.955371380Z",
+  "model": "glm-5.3"
+}

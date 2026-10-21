@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח ... שלח",
+      "rationale": "Salm 17 'saatis' ja salm 20 'saatis' — saatmine (Joosepi orjaks) pöördub saatmisega (vabastamiseks), kordus läheb eesti keelde kaotsi minemata."
+    }
+  ],
+  "translation": "Kuningas saatis ja tema lõdvendas ta, rahvaste valitseja, ja vabastas ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/17-20.1792553790563.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "saatis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kuningas"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "ja tema lõdvendas ta"
+    },
+    {
+      "surface": "משל",
+      "gloss": "valitseja"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "ja vabastas ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:30.564088143Z",
+  "model": "glm-5.3"
+}

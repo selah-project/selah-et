@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea lause algab öeldisnimetusega, sidesõna lisatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "ka mu au",
+      "rationale": "כבודי 'mu au': oma au ehk hääl\/kogu olend vs aurikkumine — 'ka mu au (laulab)'"
+    }
+  ],
+  "translation": "Kindel ⟨on⟩ mu süda, Elohim, ma laulan, jah, ma mängin, ka mu au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/1-4.1792553906217.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Kindel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ma laulan"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "jah, ma mängin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mu au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:26.217994292Z",
+  "model": "glm-5.3"
+}

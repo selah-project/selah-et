@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Eesti keelele vajalik sidesõna\/omastus, mida heebrea konstruktis varjab"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקדשו",
+      "rationale": "'tema pühaduses' vs 'tema pühamus (pühakojas)' — qdš võib tähendada nii abstraktset pühadust kui püha paika"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogu salm",
+      "rationale": "Kolmekordne hüüdvastane kutsung 'kiitke' pöördub lugeja poole"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו\/הללוהו",
+      "rationale": "Hallelu-ja poolsõna kordub kogu salmis, eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Kiitke Jah! Kiitke Elit ⟨tema⟩ pühaduses, kiitke teda tema väe võlvkaares!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/150\/1-4.1792554435901.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Kiitke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elit"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "⟨tema⟩ pühaduses"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kiitke teda"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "tema võlvkaares"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "tema väe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:15.902051582Z",
+  "model": "glm-5.3"
+}

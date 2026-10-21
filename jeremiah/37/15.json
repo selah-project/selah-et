@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kirjatundja",
+      "rationale": "הסופר 'kirjutaja\/kirjutaja ametnik' — 'kirjatundja' on eesti tavapärane, võiks olla ka 'kirjutaja'"
+    },
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Eesti keele pöördverbi kuju nõuab umbisikulise aegu, heebrea partitsiip עשו 'teginud' on kokku võetud"
+    }
+  ],
+  "translation": "Ja ülemad vihastasid Jirmeja peale ja lõid ⟨את⟩ teda, ja panid ⟨את⟩ ta vangimajja, Joonatani kirjatundja majja, sest nemad olid teinud ⟨את⟩ selle vangimajaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a2b2ea985e5f4e4338773f93959ef99f6eb79814f136d61659c441602c2f177c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/37\/14-15.1792558465510.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "Ja vihastasid"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ülemad"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeja"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "ja lõid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ja panid"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "vangimajja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Joonatani"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kirjatundja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "selle"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olid teinud"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "majaks"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "vangimaja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:25.513323848Z",
+  "model": "glm-5.3"
+}

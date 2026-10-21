@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedekid",
+      "rationale": "צדקות jäetakse tabeli järgi tsedek-juureks, mitte 'õigustegudeks' üksi"
+    },
+    {
+      "kind": "crux",
+      "subject": "mõistan kohut",
+      "rationale": "ואשפטה: 'mõistan kohut' vs 'veen teid \/ kaeban teie ees' — kõnekohtu tähendus"
+    }
+  ],
+  "translation": "Ja nüüd seiske, ja ma mõistan kohut teiega Jahve ees ⟨את⟩ kõigi Jahve tsedekide üle, mida ta tegi teiega ja teie isadega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/12\/5-8.1792543878309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nüüd"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "seiske"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "ja ma mõistan kohut"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teiega"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõiki tsedekid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedekid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ta tegi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teiega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teie isadega"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "teie isadega"
+    }
+  ],
+  "timestamp": "2026-10-21T00:51:18.311392865Z",
+  "model": "glm-5.3"
+}

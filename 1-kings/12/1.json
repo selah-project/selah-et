@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav koos sufiksiga, säilitatud märgina ⟨את⟩ teda"
+    }
+  ],
+  "translation": "Ja Rehabeam läks Šekemisse, sest Šekemisse oli tulnud kogu Jisrael, et teha ⟨את⟩ teda kuningaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/12\/1-4.1792545483156.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja läks"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemisse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemisse"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oli tulnud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kuningaks tegema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:18:03.157159004Z",
+  "model": "glm-5.3"
+}

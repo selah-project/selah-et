@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "väravahoidjad",
+      "rationale": "השערים tähendab sõnalt 'väravad' — metonüümia inimestele, kes neid valvavad."
+    },
+    {
+      "kind": "measurement",
+      "subject": "loend",
+      "rationale": "Lauljate ja väravahoidjate nimekiri."
+    }
+  ],
+  "translation": "Ja lauljatest: Eljašib. Ja väravahoidjatest: Šallum ja Telem ja Uri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e8e374dc17290647c4999d28fc1067e30131f54758a9713fd419cf56ab9f095a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/10\/21-24.1792556816327.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ja ... hulgast"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "lauljatest"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljašib"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "Ja ... hulgast"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "väravahoidjatest"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Šallum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ja Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ja Uri"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:56.328391993Z",
+  "model": "glm-5.3"
+}

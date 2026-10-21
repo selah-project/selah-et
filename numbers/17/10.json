@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kogudusele",
+      "rationale": "Jahve kõnetab otse Mošet ja Aharonit käskivate sõnadega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hävitan",
+      "rationale": "אכלה on otseselt 'äran ära, lõpetan', 'hävitan' on lühem kate."
+    }
+  ],
+  "translation": "Tõuske selle koguduse keskelt, et ma hävitaksin nad ⟨את⟩ nagu silmapilgu jooksul; ja nad langesid oma näole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6bf179f191d3f8fda8b20bba7b7258834713a37803e97016d284ed4c2740f5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/17\/9-12.1792540114159.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "tõuske"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskelt"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "koguduse"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "selle"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "et ma hävitaksin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nemad",
+      "marks": "nemad (kogudus)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "nagu silmapilgu jooksul"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ja nad langesid"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "oma nägu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:48:34.159919266Z",
+  "model": "glm-5.3"
+}

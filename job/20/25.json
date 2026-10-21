@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 20:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וברק",
+      "rationale": "Sädelev relv (oda, KJV\/JPS) või välk (sõna-sõnalt); kontekst 20:24 räägib relvast, aga sõna tähendab välku."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגוה",
+      "rationale": "מגוה tähendab 'selg' või 'ihi' — BSB 'seljast', KJV 'ihust'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mõrudus",
+      "rationale": "מררה on sõna-sõnalt mõrudus\/sapp — säilitatud otsetõlkes, kuigi pilt on sapist välja tulevast relvast."
+    },
+    {
+      "kind": "mystery",
+      "subject": "õudused",
+      "rationale": "Lõpetav sõna אמים jääb pimedaks — nimeta õudused tulevad tema peale, kust — ei öelda."
+    }
+  ],
+  "translation": "Tõmmatud välja, ja läheb välja tema seljast; ja välk tema mõrudusest käib tema peal — õudused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4474a9fbf53cb3eb40bf8be677136edc046972cf22da467081e1aafe9ebffdcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/25-26.1792558665653.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלף",
+      "gloss": "tõmmatud välja"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja läheb välja"
+    },
+    {
+      "surface": "מגוה",
+      "gloss": "tema seljast"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ja välk"
+    },
+    {
+      "surface": "ממררתו",
+      "gloss": "tema mõrudusest"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "käib"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peal"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "õudused"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:45.657050925Z",
+  "model": "glm-5.3"
+}

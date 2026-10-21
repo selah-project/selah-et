@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 20:33",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהי jääb nimeks Elohim, mitte 'Jumal'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ainult",
+      "rationale": "אך piirav partikkel, tõlgitud 'ainult' — verbipuudus eesti eituses nõuab abiverbi"
+    }
+  ],
+  "translation": "Ainult ⟨ei⟩ kadunud kõrged paigad, ja veel ei olnud rahvas valmistanud oma südant oma isade Elohimi jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e3b1445139b793024d74f29b6347eba246b0d402353dddaf6908a5c4d32e00b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/20\/33-36.1792557936238.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "kõrged paigad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "kadunud"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ja veel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "valmistanud"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "oma südant"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimi jaoks"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "oma isade"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:36.239787299Z",
+  "model": "glm-5.3"
+}

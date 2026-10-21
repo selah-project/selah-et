@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta, need",
+      "rationale": "Heebrea lauses puudub subjekt ja objekt-pronoomen; laululiselt välja jäetud — eesti keel vajab neid"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלשיו",
+      "rationale": "שליש 'kolmas': vankris kolmas mees ehk võitlev ohvitser ('tema väljavalitud väepealikud') vs kolmik-nimeline muusikariist vs 'kolmehobuvankrite mehed' — tõlgitud kujuliselt 'kolmas-mehed'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Roogude meri",
+      "rationale": "ים סוף on 'roogude (papüruse) meri', mitte 'Punane meri' — 'punane' on vana tõlke traditsioon, mitte heebrea sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vajusid põhja",
+      "rationale": "טבע 'põhja vajusid\/uppusid' — 'põhja vajusid' hoiab vee-pildi"
+    }
+  ],
+  "translation": "Parohi sõjavankrid ja tema väe — ⟨ta⟩ heitis need ⟨את⟩ merre, ja tema väljavalitud kolmas-mehed vajusid põhja Roogude meres.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f0d46053bb8a020cc2d5fc8b65826ab9f7bc1dc26e49affac9ecc0e2e61082be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/15\/2-4.1792543561201.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "sõjavankrid"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ja tema vägi"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "heitis"
+    },
+    {
+      "surface": "בים",
+      "gloss": "merre"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "ja väljavalitud"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "tema kolmas-mehed"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "vajusid põhja"
+    },
+    {
+      "surface": "בים",
+      "gloss": "meres"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "roogude"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:01.210830656Z",
+  "model": "glm-5.3"
+}

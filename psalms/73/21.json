@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub kopolula; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "neerud",
+      "rationale": "כליות on siseelund, mida Heebreas peeti tunnete ja mõtte asukohaks, mitte lihtsalt neerudeks"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתחמץ",
+      "rationale": "'kääruma\/hapnema' (kui tainas) vs 'mõranduma' — JPS 'fermendis', KJV 'grieved'"
+    }
+  ],
+  "translation": "Sest mu süda käärus ja mu neerud ⟨olid⟩ torgatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/21-24.1792553297978.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "käärus"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ja mu neerud"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "torgatud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:17.979403204Z",
+  "model": "glm-5.3"
+}

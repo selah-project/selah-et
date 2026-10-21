@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פרשים",
+      "rationale": "פרש tähendab nii 'hobune vankri ees' kui 'ratsanik'; siin tõlgitud 'ratsanikud' kui võrdlusgrupp."
+    }
+  ],
+  "translation": "Nagu hobuste nägu on nende nägu ja nagu ratsanikud, nõnda nad jooksevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joel\/2\/1-4.1792551219152.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "nagu nägu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hobuste"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "nende nägu"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "ja nagu ratsanikud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "nad jooksevad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:53:39.154634275Z",
+  "model": "glm-5.3"
+}

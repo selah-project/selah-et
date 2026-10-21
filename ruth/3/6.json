@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nagu",
+      "rationale": "Eesti võrdlev rakk (ככל אשר) vajab sidesõna 'nagu', mida heebrea ei ütle eraldi"
+    }
+  ],
+  "translation": "Ja ta laskus rehele ja tegi kõik, nagu tema ämm oli käskinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/3\/5-8.1792555845759.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ja ta laskus"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "rehele"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kõik, nagu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "tema ämm"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:45.760554703Z",
+  "model": "glm-5.3"
+}

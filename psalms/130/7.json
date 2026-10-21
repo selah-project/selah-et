@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puuduv köitesõna 'on' — 'Jahve juures on hesed'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד hoitakse läbivalt sõnana hesed, mitte 'halastus' ega 'armastus'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "päring pöördub otse Jisraeli poole: 'looda Jahve peale'"
+    }
+  ],
+  "translation": "Jisrael, looda Jahve peale, sest Jahve juures ⟨on⟩ hesed ja temaga ⟨on⟩ rikkalik lunastus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/130\/5-8.1792554226712.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "looda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve peale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עם",
+      "gloss": "juures"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ja rikkalik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "lunastus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:46.713750222Z",
+  "model": "glm-5.3"
+}

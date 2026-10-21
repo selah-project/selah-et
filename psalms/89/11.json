@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Rahab",
+      "rationale": "רהב on nii mütoloogiline merekoletis kui Egipti epiteet; jäetud nimeks 'Rahab'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דכאת\/פזרת",
+      "rationale": "kahe tugeva tegusõna (purustama \/ laiali pillutama) paar – vägivalla rööpill, eesti keeles säilinud osaliselt"
+    }
+  ],
+  "translation": "Sina purustasid Rahabi nagu surnu; oma väe käega pillutasid laiali Sinu vaenlased.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/9-12.1792553630851.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "purustasid"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "nagu surnu"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "käega"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "oma väe"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "pillutasid laiali"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "Sinu vaenlased"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:50.852993219Z",
+  "model": "glm-5.3"
+}

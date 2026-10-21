@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה jääb translitereeritud sõnaks, mitte 'jahuohver'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרב\/ויקטר",
+      "rationale": "korduv q-q tähekõla: brongis ette \/ suitsutas"
+    }
+  ],
+  "translation": "Ja ta brongis ette ⟨את⟩ mincha ja täitis sellest oma peopesa ja põletas selle suitsutades altari peale, peale hommikuse põletusohvri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/9\/17-20.1792539242451.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ja ta brongis ette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ja täitis"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "oma peopesa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ja põletas suitsutades"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "peale"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "põletusohvri"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "hommikuse"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:02.451788261Z",
+  "model": "glm-5.3"
+}

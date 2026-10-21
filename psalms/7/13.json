@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "kui ⟨ta⟩ ei pöördu",
+      "rationale": "Subjekt on märgitud: kellel pöörduda — jumalatu või inimene üldiselt (KJV 'if he turn not', YLT 'if one turn not') — heebrea jätab subjekti avatuks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך",
+      "rationale": "Verbi põhitähendus on 'astuma, tallama' — kumer ajamine toimub kaarele jalaga astudes; koma 'pingutama' kaotab pildi."
+    }
+  ],
+  "translation": "Kui ⟨ta⟩ ei pöördu, teravdab ta oma mõõga, oma kaare on ta oma jalaga pingutanud ja valmistanud ⟨selle⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/13-16.1792552276263.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "pöördu"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "oma mõõga"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "teravdab"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "oma kaare"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "on ta oma jalaga pingutanud"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ja valmistanud ⟨selle⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:16.264863511Z",
+  "model": "glm-5.3"
+}

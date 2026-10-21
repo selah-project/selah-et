@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ole⟩",
+      "rationale": "Heebrea ei kasuta siin kopolat; eesti keel vajab seda."
+    },
+    {
+      "kind": "crux",
+      "subject": "עזר כנגדו",
+      "rationale": "'Abiline tema vastu': כנגדו tähendab nii 'tema kõrval\/vastas' kui 'tema vastand-vaste'; tõlkijad lahkuviivalt 'tema vääriline abiline' vs sõnasõnaline 'tema ees olev'."
+    }
+  ],
+  "translation": "Ja Jahve Elohim ütles: ei ⟨ole⟩ hea, et inimene on üksi; ma teen talle abilise, tema vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/2\/17-20.1792537347036.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "היות",
+      "gloss": "on"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "üksi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ma teen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "abiline"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "tema vastu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:27.037494020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 1:5",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti nõuab kopeeratud kõnes olekuverbi, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "otsisid",
+      "rationale": "דרש tähendab 'otsima \/ juurima (Jahvet)', altari juures küsiti Jahvelt nõu"
+    }
+  ],
+  "translation": "Vaskaltari, mille Betsalel, Uuri poeg, Huri poeg, oli teinud, ⟨oli⟩ Jahve miškani ees; ja Šelomo ning kogudus otsisid ⟨seda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/1\/5-8.1792557642645.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומזבח",
+      "gloss": "vaskaltari"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vask-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huri"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וידרשהו",
+      "gloss": "otsisid"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "ning kogudus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:40:42.646540300Z",
+  "model": "glm-5.3"
+}

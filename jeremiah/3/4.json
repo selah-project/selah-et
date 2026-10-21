@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קראתי",
+      "rationale": "Vorm on 1. pööre ('ma hüüdsin') või loetud 2. pöörtena ('sina hüüdsid'); 'sa on hüüdnud' järgib konteksti, kus Jahve tsiteerib."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלוף",
+      "rationale": "'Sõber, kaaslane' — mitte 'juhataja' (KJV 'guide'); sõna tähendab pehmet, taltsast kaaslast."
+    }
+  ],
+  "translation": "Ei — otsekohe on sa mind hüüdnud: mu isa, mu noorpõlve sõber oled sina!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6978f36bd0adc38f0e78e67c98190039b1e588eae5832a5d01d7502bbc3d144d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/3\/1-4.1792548006652.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "otsekohe"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "sa on hüüdnud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "sõber"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mu noorpõlve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    }
+  ],
+  "timestamp": "2026-10-21T02:00:06.654432951Z",
+  "model": "glm-5.3"
+}

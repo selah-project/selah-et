@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Heebrea küsimus eeldab subjekti, eesti keeles lisatud asesõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinnitab",
+      "rationale": "נטע otseselt 'istutab'; kõrva puhul 'kinnitama, paigaldama'"
+    },
+    {
+      "kind": "you",
+      "subject": "rumalatele rahva seas",
+      "rationale": "Jätkab salmi 94:8 pöördumist rumalate poole küsimustega"
+    }
+  ],
+  "translation": "Kes kinnitab kõrva, kas ⟨tema⟩ ei kuule? Kes vormib silma, kas ⟨tema⟩ ei näe?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/94\/9-12.1792553608244.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "kes kinnitab"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kõrva"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kas ei"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "vormib"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silm"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kas ei"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "näeb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:28.245422656Z",
+  "model": "glm-5.3"
+}

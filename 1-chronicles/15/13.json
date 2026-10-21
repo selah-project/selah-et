@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 15:13",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא אתם",
+      "rationale": "'teid ei olnud esimesel korral (kohal)' — KJV 'te ei teinud seda', JPS 'te ei kandnud seda'; heebrea tekst on lünkiline."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמשפט",
+      "rationale": "'õige tavaga \/ määruse kohaselt' — vihjab 4Ms 4:15 leviitide kohale; paigutatud lause lõppu, kus eesti sõnajärg nõuab lisamärki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פרץ",
+      "rationale": "'pursekest läbi tegema' — seoses Uzza surmaga 1Aj 13:11."
+    }
+  ],
+  "translation": "Sest esimesel korral ⟨ei olnud⟩ teie ⟨see, kes⟩ tegi läbi purske meie sees Jahve, meie Elohim, sest me ei otsinud teda ⟨tema õige tavaga⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5805a0b79fda9fce2abf4402fc682384a02e55b52375aa8481b414daf85b8757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/15\/13-16.1792557367423.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "למ",
+      "gloss": "⟨ei olnud⟩"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "esimesel korral"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "tegi läbi purske"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meie sees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "otsinud teda"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "õige tavaga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:07.423948746Z",
+  "model": "glm-5.3"
+}

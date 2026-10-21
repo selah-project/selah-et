@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jumalale",
+      "rationale": "Psalmi kõneleja pöördub otse Elohim'i poole korduva hüüdega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "möire",
+      "rationale": "שאגה on lõvi möire, mürin — inimkisenduse kujund, eesti 'ohkamine' oleks liiga leebe."
+    },
+    {
+      "kind": "crux",
+      "subject": "kaugel päästmisest",
+      "rationale": "Heebrea lause on katkestatud: 'kaugel minu päästmisest, minu möire sõnadest' — kumb kaugel on, jääb lahtiseks."
+    }
+  ],
+  "translation": "Minu El, minu El, miks jätsid sa mu maha? Kaugel minu päästmisest, minu möire sõnadest!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/1-4.1792552560002.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Minu El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "jätsid sa mu maha"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Kaugel"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "minu päästmisest"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sõnadest"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "minu möire"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:00.004153404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חבלי\/נחלי",
+      "rationale": "Kaks lõpevaist sõnu — köied ja lõhed — kordavad täishäälikut -ei, eesti keeles kaob kõla."
+    },
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "Hiljem isikuks kujunenud nimi Belial vs tähendus 'tühisus, kõlbmatu'; eesti nimekujuga jääb kõla."
+    }
+  ],
+  "translation": "Ümbritsesid mind surma köied, ja Beliali lõhed ehmatasid mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/5-8.1792552379985.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ümbritsesid mind"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "köied"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ja lõhed"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliali"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "ehmatasid mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:59.986113673Z",
+  "model": "glm-5.3"
+}

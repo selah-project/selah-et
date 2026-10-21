@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 10:1",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בוקק",
+      "rationale": "Vaieldav: 'tühjaks valav' (KJV 'empty') vs 'leviv\/lookuses' (JPS 'luxuriant'); juur בקק tähendab valada tühjaks, kuid siin loetatakse leviva võrsete pildiks."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppel; eesti kõnejärk nõuab selle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרב לפריו הרבה ... כטוב לארצו היטיבו",
+      "rationale": "Korduv kahepaariline rütm (rohkus\/paljundas, headus\/tegid head), eestis osaliselt säilinud"
+    }
+  ],
+  "translation": "Lookuses viinapuu on Jisrael, tema teeb endale vilja; oma vilja rohkuse järgi ta paljundas alttareid, oma maa headuse järgi nad tegid ilusad pühasambad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/10\/1-4.1792551074240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "viinapuu"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "lookuses"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vilja"
+    },
+    {
+      "surface": "ישוה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "rohkuse järgi"
+    },
+    {
+      "surface": "לפריו",
+      "gloss": "oma vilja"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "paljundas"
+    },
+    {
+      "surface": "למזבחות",
+      "gloss": "alttareid"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "headuse järgi"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "oma maa"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "tegid ilusad"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "pühasambad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:14.242190552Z",
+  "model": "glm-5.3"
+}

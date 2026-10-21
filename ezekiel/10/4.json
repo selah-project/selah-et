@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 10:4",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "על on siin 'kohal\/seisma jääma' tähenduses — 'jäi koja läve kohale', tõlkes täiendina"
+    },
+    {
+      "kind": "substitution",
+      "subject": "koja\/tempel",
+      "rationale": "הבית on 'maja\/kojas' — püha kontekstis 'tempel', kuid heebrea sõna on lihtsalt 'maja'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימלא \/ מלאה",
+      "rationale": "sama juur מלא kordub kaks korda — 'täitus...täitus' kajav struktuur"
+    }
+  ],
+  "translation": "Ja Jahve au tõusis kerubilt üles koja läve kohale, ja ⟨tempel⟩ täitus ⟨pilvega⟩, ja ⟨eeskoda⟩ täitus Jahve au säruga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a12955aef21dee1367c399fe7b73ad75347021cae5aa20d9b4e1a29e73ae756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/10\/4-4.1792558455925.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ja tõusis"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "üle"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerub"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "läve"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ja täitus"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilve"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilv"
+    },
+    {
+      "surface": "והחצר",
+      "gloss": "ja eeskoda"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täitus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sära"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "sära"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:15.926303957Z",
+  "model": "glm-5.3"
+}

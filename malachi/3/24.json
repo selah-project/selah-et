@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "malachi 3:24",
+  "book": "malachi",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "kiiasm",
+      "rationale": "südamed isade↔poegade vahel peegelduvad: A-B-B'-A' struktuur"
+    },
+    {
+      "kind": "crux",
+      "subject": "לב ... על",
+      "rationale": "sõna-sõnalt 'südame isade peale poegadele' — 'pöörama poole poole' vs 'kandma südant kellegi vastu'"
+    }
+  ],
+  "translation": "Ja ta pöörab isade südame poegade poole ja poegade südame nende isade poole, et ma ei tuleks ja ei lööks maad ⟨את⟩ kogu-hävitusega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a7fd7a022fee10f2285b367ffb653fa990268be66f6fccffe371f6aec4b35ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/malachi\/3\/21-24.1792552227433.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "Ja ta pöörab"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "isade"
+    },
+    {
+      "surface": "על",
+      "gloss": "poole"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja südame"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "על",
+      "gloss": "poole"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ma tuleks"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ja lööks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "kogu-hävitusega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:10:27.435831374Z",
+  "model": "glm-5.3"
+}

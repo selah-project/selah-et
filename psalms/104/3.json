@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח mängib tuule ja vaimu vahel; eestis jään 'tuule' juurde, ruahh nimetatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליותיו \/ עבים",
+      "rationale": "Ülemised palgid tihedates pilvedes: kosmilise palee kujund, eestis osaliselt hägune"
+    }
+  ],
+  "translation": "Temeldatakse ⟨tema⟩ ülemiste kambrite palgid vetesse, pilved ⟨on⟩ tema sõiduk, kes käib tuule tiibadel — ruahhi tiibadel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/1-4.1792553808630.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "temeldatakse"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vetesse"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "tema ülemiste kambrite"
+    },
+    {
+      "surface": "השם",
+      "gloss": "püsti pannes"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "tihedad pilved"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "tema sõiduk"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "kes käib"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "tiibadel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuule — ruahhi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:48.631601645Z",
+  "model": "glm-5.3"
+}

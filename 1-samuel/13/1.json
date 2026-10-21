@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub koppel; eesti keel nõuab selle"
+    },
+    {
+      "kind": "crux",
+      "subject": "Sauli vanus",
+      "rationale": "Masoreedi tekstis on arv kadunud — 'aasta vana poeg' ilma vanusenumbrita; LXX ja Peshitta annavad 'kaks aastat', KJV-l jääb number täitmata, BSB pakub 'kolmkümmend'"
+    }
+  ],
+  "translation": "Aasta vana poeg ⟨oli⟩ Saul, kui ta hakkas valitsema, ja kaks aastat ta valitses Jisraeli üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2f7e84a9cb99cec7e36f8004026ee01a6382e940552f68786aba854d03395cc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/13\/1-4.1792543995451.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta vana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kui ta hakkas valitsema"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ja kaks"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ta valitses"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:15.452176042Z",
+  "model": "glm-5.3"
+}

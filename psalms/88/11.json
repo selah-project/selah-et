@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rafaim",
+      "rationale": "רפאים on varjud, surnud varjud; jäetud kõla järgi, mitte 'varjud' või 'vaimud'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": " küsimused on pööratud Jahve poole"
+    }
+  ],
+  "translation": "Kas surnutele sa teed imetegu? Kas rafaim tõusevad, sind tunnistamas? Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/88\/9-12.1792553534317.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "surnutele"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sa teed"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "imetegu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "rafaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "tõusevad"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "sind tunnistamas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:14.319055727Z",
+  "model": "glm-5.3"
+}

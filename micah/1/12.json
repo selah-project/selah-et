@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ootas igatsusega",
+      "rationale": "חלה לטוב: otseselt ' värises hea pärast' — 'ootas kasu' vs 'värises hea jaaniga'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרות",
+      "rationale": "kohanimi Marot kõlab sõnaga מר 'mõru' — mõrusa linn ootas head, sai kurja"
+    }
+  ],
+  "translation": "Sest Maroti elanik ootas igatsusega head, sest halb on laskunud alla Jahve ⟨את⟩ juurest Jerušalaimi väravani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/1\/9-12.1792551446279.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ootas igatsusega"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "elanik"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Maroti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "on laskunud alla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "halb"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ juurest",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "väravani"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:57:26.281454325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 59:17",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koppula 'ja kiiver pääste tema pea peal' — eesti keele jaoks lisatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה\/תלבשת",
+      "rationale": "Riietumise korduv kõla (וילבש…וילבש…תלבשת) — rõivastumise kaja, eesti keeles osaliselt kadunud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rinnapanti",
+      "rationale": "כשרין on 'sõrksulgu pandud' soomusrinnaplaat, mitte lihtsalt rõivas"
+    }
+  ],
+  "translation": "Ja ta riietus tsedekat nagu rinnapanti, ja päästekiiver ⟨oli⟩ tema peal, ja ta riietus kättemaksu rõivaidse kui rõivast, ja mähis end kui kuue, kadedusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b6a0312c5539664d2a9bc22a0d217ee5f68cc3c712bc4c5069c04c9b9af8915c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/59\/17-20.1792547798162.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "riietus"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedekat"
+    },
+    {
+      "surface": "כשרין",
+      "gloss": "nagu rinnapanti"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ja kiiver"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "pääste"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "tema peal"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "riietus"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "rõivaid"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kättemaksu"
+    },
+    {
+      "surface": "תלבשת",
+      "gloss": "kui rõivast"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "mähis end"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "kui kuue"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kadedusse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:38.164422375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי לא להוריש",
+      "rationale": "Käskivate lubaduste (Jt 1:19 'Jahve oli Juudaga') ja ebaõnnestumise pinge; korduv כי võib tähendada nii 'sest' kui 'aga'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את Juudaga",
+      "rationale": "Siin on את läheduse tähendusega prepositsioon ('koos'), mitte otsese objekti marker."
+    }
+  ],
+  "translation": "Ja Jahve oli Juudaga, ja ta hõivas mäestiku, sest oru elanikke ei suutnud ta ära ajada, sest neil olid rauast sõjavankrid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/1\/17-20.1792541785528.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja oli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "koos ⟨את⟩",
+      "marks": "Juudaga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ja ta hõivas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mäestiku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäestiku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "suutnud ära ajada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elanikke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "elanikke"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "oru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "sõjavankrid"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rauast"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neil olid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:16:25.529499127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהעמונים",
+      "rationale": "Tekst ütleb otseselt 'ammonlastest', kuid babelii kordus 'Ammoni poegade' kõrval on kummaline; paljud lugevad Meuniitide (2Kr 26:7) või teiste rahvastena."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mõned⟩",
+      "rationale": "Eesti keel vajab osatäit, heebrea miinusest jaguhoidev konstruktsioon loeb selle sisse."
+    }
+  ],
+  "translation": "Ja pärast seda tulid Moabi pojad ja Ammoni pojad ning nendega ⟨mõned⟩ haamoonlastest Jehošafati vastu sõdima.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1bddc4c5e1f1683c8b7024070bb6ec8a823d4fd4a39c88b87ec727cd1421e95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/20\/1-4.1792557946067.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja pojad"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ja nendega"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "haamoonlastest"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehošafati"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõdima"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:46.068047849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jääb⟩",
+      "rationale": "Heebrea יהיה on 'olgu\/saagu'; eesti lause vajab predikaati 'jääb' loomulikuks sõnastuseks."
+    },
+    {
+      "kind": "idiom",
+      "subject": "והמת יהיה לו",
+      "rationale": "Otseselt 'ja surnud olgu talle' — tähendab: surnud loom jääb kaevu omaniku omandiks; idiom, mitte sõnasõnaline omamine."
+    }
+  ],
+  "translation": "kaevu isand hüvitab; hõbeda tagastab ta looma omanikule, ja surnud ⟨jääb⟩ talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a13dccdae5a4d0edd2f35319f0c825280d35d180de65cd68496d5983fcd67602",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/33-36.1792538653992.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "isand"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "kaevu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hüvitab"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbeda"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "tagastab"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "oma omanikule"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ja surnud"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨jääb⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:13.993201914Z",
+  "model": "glm-5.3"
+}

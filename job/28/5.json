@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub kõpula; eesti keel nõuab 'on'"
+    },
+    {
+      "kind": "crux",
+      "subject": "kui tule poolt ümber pööratud",
+      "rationale": "כמו אש: 'nagu tuli' (vahetu tulekahju, kust põhjapoolse) vs 'tule poolt' — vulkaanilise jõu pilt"
+    }
+  ],
+  "translation": "Maa — sellest tuleb välja leib, ja tema all ⟨on⟩ pööratud ümber nagu tuli.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/5-8.1792555508362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tuleb välja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leib"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "ja tema all"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "pööratud ümber"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:08.362873444Z",
+  "model": "glm-5.3"
+}

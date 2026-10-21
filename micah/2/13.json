@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 2:13",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הפרץ\/פרצו",
+      "rationale": "Sama juur פרץ kordub: läbilööja lööb ja nemad löövad läbi — kõlav kaja, mis eesti keeles säilitatud sõnaga 'läbi lööma'."
+    },
+    {
+      "kind": "addition",
+      "subject": "on\/⟨on⟩",
+      "rationale": "Heebrea puudub kõpula; eesti keel nõuab 'on'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הפרץ",
+      "rationale": "Kes on 'läbilööja' — Moše, Messias-kuningas või Elohim ise? Tekst ise ei ütle; hoitud sõnasõnaline 'läbilööja'."
+    }
+  ],
+  "translation": "Üles on tõusnud läbilööja nende ees; nad löövad end läbi ja lähevad üle värava ning väljuvad selle kaudu, ja nende kuningas läheb nende eest mööda, ja Jahve nende eesotsas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ecfe13aa0cc9448870ad21903e85231806e1d4a5a3aef64e21d1e9f702eab0da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/2\/13-13.1792551376842.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "on tõusnud üles"
+    },
+    {
+      "surface": "הפרץ",
+      "gloss": "läbilööja"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "nende ees"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "nad löövad end läbi"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ja nad lähevad üle"
+    },
+    {
+      "surface": "שער",
+      "gloss": "värava"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ja nad väljuvad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "selle kaudu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ja ta läheb mööda"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "nende kuningas"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "nende eest"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "nende eesotsas"
+    }
+  ],
+  "timestamp": "2026-10-21T02:56:16.843136634Z",
+  "model": "glm-5.3"
+}

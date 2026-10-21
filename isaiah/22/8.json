@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Juuda kate",
+      "rationale": "מסך: 'kate' (KJV) või ülekantult 'kaitserajatised' (BSB)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Tegevussubjekt puudub heebreas; Jumala-poolne tegevus lisatud"
+    }
+  ],
+  "translation": "Ja ta paljastas ⟨את⟩ Juuda katte; ja sa vaatasid sel päeval metsamaja relvade poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/22\/5-8.1792547031166.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ja ta paljastas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juuda kate"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "kate"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ja sa vaatasid"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "relvade"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "היער",
+      "gloss": "metsa"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:51.167778208Z",
+  "model": "glm-5.3"
+}

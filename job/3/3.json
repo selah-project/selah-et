@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mehelaps",
+      "rationale": "גבר on 'vägev mees, sõdalane'; 'mehelaps' kannab soolist rõhku, mida heebrea sõnas on ainult kaudselt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "öö, mil öeldi",
+      "rationale": "אמר ööle isikustatud: 'öö, mis ütles' — öö kui kõneleja"
+    }
+  ],
+  "translation": "Hävingu päev, mil ma sündisin, ja öö, mil öeldi: mehelaps on eostatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/3\/1-4.1792555077072.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "Hävingu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "sündisin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mil"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "ja öö"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "öeldi"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "on eostatud"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mehelaps"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:57.073617822Z",
+  "model": "glm-5.3"
+}

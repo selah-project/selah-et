@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaks ja kakskümmend linna",
+      "rationale": "Ašeri pärandi linnade loendus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשרים ושתים",
+      "rationale": "Heebrea loeb 'kakskümmend ja kaks'; eesti tavajärjestus 'kaks ja kakskümmend' säilitab loenduse kuid muudab sõnajärge"
+    }
+  ],
+  "translation": "ja Uma, ja Apek, ja Rehob: kaks ja kakskümmend linna koos oma küladega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a18202d895634ef76fe7b2036e062780f8afc94dc1854ed71d30f9ccb2f17946",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/19\/29-32.1792541665608.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "ja Uma"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "ja Apek"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja Rehob"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "linna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ja kaks"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "koos oma küladega"
+    }
+  ],
+  "timestamp": "2026-10-21T00:14:25.609264153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה 'õigus\/vagadus' — jäetud kõlapõhiselt tsedekiks, mitte 'õigluseks' üksi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kõrgemale",
+      "rationale": "קרנו תרום 'tema sarv tõuseb' — sarv on jõu ja au sümbol, mitte loomakeha"
+    }
+  ],
+  "translation": "Ta puistas laiali, andis vaestele; tema tsedek püsib igavesti, tema sarv tõstetakse ⟨kõrgemale⟩ austusega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/112\/9-10.1792553921286.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "puistas laiali"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "vaestele"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tema tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "püsib"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "tema sarv"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "tõstetakse ⟨kõrgemale⟩"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "austusega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:41.286801298Z",
+  "model": "glm-5.3"
+}

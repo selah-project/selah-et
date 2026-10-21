@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nendega",
+      "rationale": "eesti keel vajab kaasaütlevat käänet, heebrea kasutab läheduse eessõna את"
+    },
+    {
+      "kind": "elision",
+      "subject": "ära",
+      "rationale": "eesti keeles ei väljendata imperatiivi eitust eraldi abiverbiga nagu inglise 'do not'"
+    }
+  ],
+  "translation": "Ära kadestse kurjuse mehi ega igatse olla ⟨את⟩ nendega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/24\/1-4.1792554912561.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kadestse"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "mehi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurjuse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "igatse"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nendega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:12.562228743Z",
+  "model": "glm-5.3"
+}

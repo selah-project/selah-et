@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse heebrea sõnaks 'hesed' — 'halastus' või 'armastus' üksi oleks liiga kitsas."
+    }
+  ],
+  "translation": "Sinu hesed, Jahve, täidab maa; õpeta mulle sinu põhimõtted.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/61-64.1792554152802.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "sinu hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täidab"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sinu põhimõtted"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "õpeta mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:42:32.803755253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Ainsuse 3. isiku abisõna lisatud eesti keele jaoks; heebrea perfektiverbil puudub see."
+    }
+  ],
+  "translation": "Ja Jahve istub igavesti; tema ⟨on⟩ kindlustanud kohtu jaoks oma trooni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/5-8.1792552274263.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istub"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "kindlustanud"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kohtu jaoks"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "oma trooni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:14.265758393Z",
+  "model": "glm-5.3"
+}

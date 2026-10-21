@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti keel nõuab kaudset kõneviisi jaoks kopulat, mida heebrea ei väljenda."
+    },
+    {
+      "kind": "idiom",
+      "subject": "mehe ja mehe",
+      "rationale": "איש ואיש sõna-sõnalt 'mees ja mees' — heebrea väljend 'igaüks eraldi, iga üksik mees'."
+    }
+  ],
+  "translation": "Ja joomine ⟨oli⟩ seaduse järgi: ei olnud sundimist, sest nii oli kuningas määranud kõikidele oma koja ülematele, et teha igaühe meele järgi, mehe ja mehe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fbf970fbc3d83fa2a6f5c8dfdb5d968c810673aef82bfbc0402c2649508e8555",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/5-8.1792556182232.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "ja joomine"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "seaduse järgi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei olnud"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "sundimist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "oli määranud"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "על",
+      "gloss": "kõikidele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõikidele"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ülematele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oma koja"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et teha"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "meele järgi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja mehe"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:22.234060014Z",
+  "model": "glm-5.3"
+}

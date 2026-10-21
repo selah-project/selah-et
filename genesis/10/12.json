@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koopula puudub heebreas, eesti keel lisab"
+    },
+    {
+      "kind": "crux",
+      "subject": "see on suur linn",
+      "rationale": "Kellele 'see' viitab: Resenile, kogu nelja linna kooslusele või Kalahile (BSB) — ebaselge"
+    },
+    {
+      "kind": "measurement",
+      "subject": "linnade loend",
+      "rationale": "Geograafiline loend neljast linnast koos asukohaga — rahvastamisloend"
+    }
+  ],
+  "translation": "ja ⟨את⟩ Resen Niinive ja Kalahi vahel — see ⟨on⟩ suur linn.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/10\/9-12.1792537458904.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Niinive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja vahel"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linn"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "suur"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:18.905371068Z",
+  "model": "glm-5.3"
+}

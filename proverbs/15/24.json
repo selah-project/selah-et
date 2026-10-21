@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨viib⟩",
+      "rationale": "heebrea nimetav lause ilma verbita; eesti vajab tegusõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "šoel ei ole karistuskoht; jäetud kõlajärgseks nagu reegel nõuab"
+    }
+  ],
+  "translation": "Elu teerada ⟨viib⟩ üles mõistlikule, et ta pöörduks ära šeolist allpool.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10d741359f5567c10274222739567fd7c55a943430016e07bfc5ad6b88103e71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/21-24.1792554698095.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "teerada"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elu"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "üles"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "mõistlikule"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "סור",
+      "gloss": "pöörduks ära"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "šeolist"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "allpool"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:38.096681313Z",
+  "model": "glm-5.3"
+}

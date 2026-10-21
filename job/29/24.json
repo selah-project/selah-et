@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 29:24",
+  "book": "job",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא יאמינו",
+      "rationale": "'nad ei uskunud seda' (KJV) või 'kui neil polnud usku' (ASV: naeratus oli nõutuse ravimiks)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "eesti osalause vajab objekti, heebreas see puudub"
+    }
+  ],
+  "translation": "Kui ma nende poole naeratasin, nad ei uskunud ⟨seda⟩; ja minu näo valgust nad ei lasknud maha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b002f39b6acedbde80a406aaa2141a9f5320b89b8ee8a83198e769d419fcce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/29\/21-24.1792555527084.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשחק",
+      "gloss": "naeratasin"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nende poole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "nad uskunud"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ja ... valgust"
+    },
+    {
+      "surface": "פני",
+      "gloss": "minu näo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "יפילון",
+      "gloss": "nad lasknud maha"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:27.085719799Z",
+  "model": "glm-5.3"
+}

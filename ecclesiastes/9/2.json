@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saatus",
+      "rationale": "מקרה on 'juhus, kohtumine' — 'saatus' on juba tõlgendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "kes vannet kardab",
+      "rationale": "הנשבע כאשר שבועה ירא: kas 'vanduja nagu vannest kardav' või 'vandescheegija nagu vandest hoiduv' (BSA-d loevad partitsipi subjektiks 'kardav')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כטוב כחטא",
+      "rationale": "Kõik k-kaashäälikuga võrdlused: kõik-on-nagu-kõik kordus, eestis osaliselt alles"
+    }
+  ],
+  "translation": "Kõik on nagu kõigil: üks saatus õigel ja jumalatul, heale ja puhtale ning ebepuhtale, ohvrutoojale ja sellele, kes ei ohverda: nagu hea, nii süüdlane; vanduja nagu see, kes vannet kardab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/9\/1-4.1792556131449.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigil"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "saatus"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "õigel"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "ja jumalatul"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "heale"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "ja puhtale"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "ning ebepuhtale"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ohvrutoojale"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ja sellele, kes"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ohverda"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "nagu hea"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "nii süüdlane"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "vanduja"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "vannet"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kardab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:31.450670086Z",
+  "model": "glm-5.3"
+}

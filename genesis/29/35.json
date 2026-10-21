@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אודה\/יהודה",
+      "rationale": "Nimi Jehuda tuleneb verbist jadah 'tunnistama, tänama' — sõnamäng, mis eesti keeles kaob."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lakkas sünnitamast",
+      "rationale": "ותעמד מלדת sõna-sõnalt 'ja ta seisis (lakkas) sünnitamast' — heebrea kujund püsib osaliselt."
+    }
+  ],
+  "translation": "Ja ta hakkas jälle lapse ootama ja tõi ilmale poja ning ütles: Seekord tunnistan ma ⟨את⟩ Jahvet. Seepärast kutsus ta tema nime Jehuda. Ja ta lakkas sünnitamast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e35d280aaa9c330725fb3fea65a57a3595665dc67975a2ca991e9797cdc22d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/29\/33-35.1792537777789.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ja ta hakkas lapse ootama"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "jälle"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja tõi ilmale"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poja"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "seekord"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "tunnistan ma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "kutsus ta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nime"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ja ta lakkas"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "sünnitamast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:09:37.790352950Z",
+  "model": "glm-5.3"
+}

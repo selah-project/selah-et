@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמרתי אך דבר שפתים",
+      "rationale": "Kelle sõnad need on: Rabšake iroonia ('(sina ütlesid:) vaid huulte sõna') või Hiskija varasem kõne — tõlkijad lahku lähevad."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab sidesõna, heebrea puudub."
+    }
+  ],
+  "translation": "Ma ütlesin: vaid huulte sõna! Nõu ja vägi on sõjaks — nüüd, kelle peale sa loodad, et sa oled minu vastu mässanud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/36\/5-8.1792547321548.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ma ütlesin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huulte"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nõu"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ja vägi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõjaks"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "על",
+      "gloss": "kelle peale"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "sa loodad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "sa oled mässanud"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minu vastu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:41.550085724Z",
+  "model": "glm-5.3"
+}

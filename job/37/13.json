@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hesediks",
+      "rationale": "לחסד hoitakse heebrea sõnana: halastuseks, armuks või ustavuseks — tõlkijad lahku läinud"
+    },
+    {
+      "kind": "alternative",
+      "subject": "vitsaks",
+      "rationale": "שבט võib olla ka 'kepp' või 'valitsus' — karistuse tähendus pärineb kontekstist"
+    }
+  ],
+  "translation": "Kas vitsaks, kas tema maale, kas hesediks — tema paneb ⟨selle⟩ tulema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/13-16.1792555696342.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "vitsaks"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "tema maale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "hesediks"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "tema paneb ⟨selle⟩ tulema"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:16.343331954Z",
+  "model": "glm-5.3"
+}

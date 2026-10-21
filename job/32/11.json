@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 32:11",
+  "book": "job",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "läbi kaalisite sõnu",
+      "rationale": "תחקרון מלין sõnasõnalt 'tuurite sõnu (argumendi otsimiseks)' — piltjuur חקר 'puurima, läbiuurima'."
+    },
+    {
+      "kind": "addition",
+      "subject": "teie",
+      "rationale": "Eessõna ל eeldab eesti leksikas otsese pöördisõna, heebreas märgitud ainult lõpuga -כם."
+    }
+  ],
+  "translation": "Vaata, ma ootasite ⟨teie⟩ — ära, ma kuulatasin teie sõnu, pöörasin kõrva teie mõistuse poole, kuni te läbi kaalusite sõnu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/32\/9-12.1792555577430.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ma ootasin"
+    },
+    {
+      "surface": "לדבריכם",
+      "gloss": "teie sõnadele"
+    },
+    {
+      "surface": "אזין",
+      "gloss": "ma kuulatan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "תבונתיכם",
+      "gloss": "teie mõistus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "תחקרון",
+      "gloss": "te läbi kaalute"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sõnu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:17.431612250Z",
+  "model": "glm-5.3"
+}

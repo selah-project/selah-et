@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨teda⟩",
+      "rationale": "Eesti otsene objekt nõuab asesõna, heebrea lõpuga -נו kannab seda."
+    }
+  ],
+  "translation": "Ma tunnistan Jahvet väga suuresti suuga ja kiidan ⟨teda⟩ paljude keskel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/29-31.1792553895354.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ma tunnistan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga suuresti"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "suuga"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ja keskel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "paljude"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "kiidan ⟨teda⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:15.355536900Z",
+  "model": "glm-5.3"
+}

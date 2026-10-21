@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יכזב\/כזבים",
+      "rationale": "same root 'lie' as verb and noun; Estonian loses the root echo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויפיח",
+      "rationale": "literally 'blows out, breathes forth'; rendered 'puhuja' to keep the breath image"
+    }
+  ],
+  "translation": "Usaldusväärne tunnistaja ei valeta, aga valede puhuja ⟨on⟩ vales tunnistaja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/5-8.1792554675811.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tunnistaja"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "usaldusväärne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "valeta"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "puhuja"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "valesid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tunnistaja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:15.811896454Z",
+  "model": "glm-5.3"
+}

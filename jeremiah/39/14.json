@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 39:14",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vangla",
+      "rationale": "המטרה sõna-sõnalt 'valvõu' või 'vahiallikas' — kivist vangimaja; 'vangla' on roll, mitte pilt"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "eesti keel nõuab subjekti, heebrea jätab tegija eelmisest salmist tulenevalt sisaldamatuks"
+    }
+  ],
+  "translation": "Ja nad läkitasid ja võtsid ⟨את⟩ Jermijahu vangla õuest ning andsid ⟨את⟩ tema Gedaljahu juurde, Ahikami pojale, Šafani pojale, et ta viia koju; ja ta elas keset rahvast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "635b61a7eda30732d5c560d849c74ea0f4a4b84fc613fd624d2b1c71322760c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/39\/14-15.1792558468523.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "läkitasid"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "võtsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jermijahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jermijahu"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "õuest"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "vangla"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "andsid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tema (Jermijahu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafan"
+    },
+    {
+      "surface": "להוצאהו",
+      "gloss": "et ta viia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja ta elas"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keset"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:28.524515507Z",
+  "model": "glm-5.3"
+}

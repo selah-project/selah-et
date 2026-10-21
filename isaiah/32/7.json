@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kõneldes vaese kohut",
+      "rationale": "ובדבר אביון משפט: 'rääkides vaese kohta kohut' (kahjustama õigust) vs 'kui vaene räägib õigust' (KJV) — verbi puudumine jätab lause õlgenduse lahtiseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "alandlikud",
+      "rationale": "ענוים tähendab nii 'meeled\/alandlikud' kui 'vaesed-viletsad'; valitud 'alandlikud', kuigi kontekst toetab ka 'vaesed'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וכלי כליו",
+      "rationale": "Vaimselt כלי (ahne) ja כליו (tema vahendid) — sama kost, sõnamäng, mis eesti keeles kaob"
+    }
+  ],
+  "translation": "Ja ahneldu vahendid on kurjad: tema kavaldab kurju nõusid, et hukutada alandlikud valede sõnadega, ja kõneldes vaese kohut ⟨kõrvale⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e084daac172c82b3b2a2ab6824acef1e5266ea6900760a70a179d26d108cfcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/6-7.1792558379907.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Ja ahneldu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vahendid"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kurjad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "kurju nõusid"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "kavaldab"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "et hukutada"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alandlikud"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "sõnadega"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valede"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "ja kõneldes"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohut"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:59.908942952Z",
+  "model": "glm-5.3"
+}

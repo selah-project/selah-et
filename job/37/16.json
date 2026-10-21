@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 37:16",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "kaalumist",
+      "rationale": "מפלשׂ 'kaalumine\/hõljumine' esineb Tanahhis vaid siin"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kas sa tead",
+      "rationale": "taas peidetud teadmise küsimus, pikendab v 15 retoorikat"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨üle⟩",
+      "rationale": "על käändevalents nõuab eesti keeles da-eitavat lisa"
+    }
+  ],
+  "translation": "Kas sa tead tihepilvede kaalumist, imetegu Sellest, kes on täiuslik teadmises?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/13-16.1792555696342.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התדע",
+      "gloss": "kas sa tead"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨üle⟩"
+    },
+    {
+      "surface": "מפלשי",
+      "gloss": "kaalumist"
+    },
+    {
+      "surface": "עב",
+      "gloss": "tihepilvede"
+    },
+    {
+      "surface": "מפלאות",
+      "gloss": "imetegu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kes on täiuslik"
+    },
+    {
+      "surface": "דעים",
+      "gloss": "teadmises"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:16.343843652Z",
+  "model": "glm-5.3"
+}

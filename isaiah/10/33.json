@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "isaiah 10:33",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במערצה",
+      "rationale": "Tõlkijad jagunenud: 'vägivaldselt' (KJV 'with terror', eufemism) vs otsetõlge 'vägivallaga'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "puude pilt",
+      "rationale": "מסעף\/פארה\/גדועים on metsanduslik pilt (oksite lõikamine, langetamine), mis katab ülbete inimeste peale — kujund jäänud eesti teksti alles."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פארה",
+      "rationale": "Sõna פְּאֹרָה 'võra' esineb Tanahhis ainult selles salmis."
+    }
+  ],
+  "translation": "Vaata, Adonai, Jahve Tsevaot lõikab võra maha vägivaldselt, ja kõrged kasvuga on langetatud, ja ülised alandatakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2bea9c78f5b2a43d1247bb3001c4b9a8ece6484779530c2342fcfacbd3079b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/10\/33-34.1792546729585.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מסעף",
+      "gloss": "lõikab oksad maha"
+    },
+    {
+      "surface": "פארה",
+      "gloss": "võra"
+    },
+    {
+      "surface": "במערצה",
+      "gloss": "vägivaldselt"
+    },
+    {
+      "surface": "ורמי",
+      "gloss": "ja kõrged"
+    },
+    {
+      "surface": "הקומה",
+      "gloss": "kasvuga"
+    },
+    {
+      "surface": "גדועים",
+      "gloss": "on langetatud"
+    },
+    {
+      "surface": "והגבהים",
+      "gloss": "ja ülised"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "alandatakse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:49.586448045Z",
+  "model": "glm-5.3"
+}

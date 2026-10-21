@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 13:9",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ninaärritusega",
+      "rationale": "חרון אף on sõna-sõnalt 'nina põlemine' — Raamatus 'raev'\/'vimm'; eesti teeb selle liiga kummaliseks, kuid näitab pilti"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "H VERB lacks explicit subject; järgneva hävitaja asesõna lisatud selguseks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמה \/ ישמיד",
+      "rationale": "šema 'kahjutus' ja šamad 'hävitama' — sama-liiteline kõla, eesti kaotas"
+    }
+  ],
+  "translation": "Vaata, Jahve päev tuleb, julm, koos vihapuhanguga ja põleva ninaärritusega, panna maa kahjutuseks ja selle patused hävitab ta ära selle keskelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/13\/9-12.1792546735857.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "julm"
+    },
+    {
+      "surface": "ועברה",
+      "gloss": "koos vihapuhanguga"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "ja põleva"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ninaärritusega"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "panna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "kahjutuseks"
+    },
+    {
+      "surface": "וחטאיה",
+      "gloss": "ja selle patused"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "hävitab"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "selle keskelt"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:55.858278422Z",
+  "model": "glm-5.3"
+}

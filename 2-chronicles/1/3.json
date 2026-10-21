@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 1:3",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keeles nõutud kopeer; heebrea היה on olemas, kuid kordus liidetud loetavuseks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõrgpaik",
+      "rationale": "במה on ohvripaik kõrgendikul; 'kõrgpaik' hoiab koha, mitte hinnangu."
+    }
+  ],
+  "translation": "Ja Šelomo läks koos kogu kogudusega, kes temaga oli, kõrgpaika, mis on Givonis, sest seal ⟨oli⟩ kohtumise telk, Elohimi telk, mille Moše, Jahve teenija, kõrbes oli teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "74a559d3fb215ed5566435f912a8be0f953b235e04da055d2384f22a2279d1ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/1\/1-4.1792557683264.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ja läks"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "koos kogu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kogudusega"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "kõrgpaika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "on Givonis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨oli⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telk"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtumise"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "teenija"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    }
+  ],
+  "timestamp": "2026-10-21T04:41:23.266480427Z",
+  "model": "glm-5.3"
+}

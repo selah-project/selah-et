@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "põrandast põrandani",
+      "rationale": "מהקרקע עד הקרקע otsekui öeldakse kaks korda 'põrand' — 'põrandast laenini' (BSB) vs sõnasõnaline kordus."
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Passiivi koppel lisatud, heebrea passiiviline osasõna seisab üksi."
+    }
+  ],
+  "translation": "Ja kohtu trooni eeskoda, kus ta seal kohut mõistis — kohtu eeskoda — tegi ta, ja see ⟨oli⟩ kaetud seedermänniga põrandast põrandani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/5-8.1792545251313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ja eeskoda"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "trooni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "kohut mõistis"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "eeskoda"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kohtu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi ta"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "kaetud"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "seedermänniga"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "põrandast"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "põrandani"
+    }
+  ],
+  "timestamp": "2026-10-21T01:14:11.314938092Z",
+  "model": "glm-5.3"
+}

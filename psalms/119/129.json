@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeer; lausealust nominatiivlauset nõuab eesti keel sidesõna ⟨on⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/hingamisväärt elujõud, mitte taibulik hing"
+    }
+  ],
+  "translation": "Imeid ⟨on⟩ su tunnistused, seepärast hoiab mu hing neid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/129-132.1792554060409.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "imeid"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "su tunnistused"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "hoiab neid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:00.410192331Z",
+  "model": "glm-5.3"
+}

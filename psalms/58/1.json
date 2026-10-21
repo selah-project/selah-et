@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "'Ära hävita' — tõenäoliselt tuntud laulu algusõnad, mitte tõlgitav lause"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "Mihtam — tähendus selgusetu: 'kullakiri', 'gemeisterd' või 'peidetud'"
+    }
+  ],
+  "translation": "Koorijuhatajale. Ära hävita. Davidile. Mihtam.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/58\/1-4.1792553110665.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "hävita"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mihtam"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:10.665552102Z",
+  "model": "glm-5.3"
+}

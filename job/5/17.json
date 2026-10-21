@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 5:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti kõnekäik nõuab öeldistäit, heebrea seda ei sisalda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kasvatus",
+      "rationale": "מוסר hõlmab nii karistust, noomust kui õpetust; üks eesti sõna ei kata tervet välja"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõne iseloom",
+      "rationale": "הנה 'Vaata' köidab kuulaja tähelepanu otsepöördumisega"
+    }
+  ],
+  "translation": "Vaata, õnnis ⟨on⟩ see surelik, keda Eloah noomib, ja Šaddai kasvatust ära põlga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/5\/17-20.1792555157916.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "see surelik"
+    },
+    {
+      "surface": "יוכחנו",
+      "gloss": "keda noomib"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ja kasvatust"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "põlga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:17.916993744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טעם",
+      "rationale": "Sõn-sõnalt 'maitse', kujundlikult 'arusaam\/mõistus'."
+    },
+    {
+      "kind": "crux",
+      "subject": "האמנתי",
+      "rationale": "'Ma olen usaldanud' vs 'ma olen uskunud' — אמן hoiab toetamise\/usaldamise pildi."
+    }
+  ],
+  "translation": "ÕIGE mõistust ja teadmist õpeta mulle, sest su käskudesse ma olen usaldanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/65-68.1792554049375.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "õige"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "mõistust"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja teadmist"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "õpeta mulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "su käskudesse"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ma olen usaldanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:49.376335597Z",
+  "model": "glm-5.3"
+}

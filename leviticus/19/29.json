@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבת \/ ha'ovot",
+      "rationale": "'vaimu способности' mitte — dAjOUT"
+    },
+    {
+      "kind": "elision",
+      "subject": "זמה",
+      "rationale": "אל-construct אל-qualified negation rendered with whole-verse et-structure; idiom-well formed."
+    }
+  ],
+  "translation": "Ära rüveta ⟨את⟩ oma tütart, et teda kõlvatult elama panna, et maa ei peaks kõlvatult elama ja maa ei täitnuks kurjuse plaaniga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/29-32.1792539474027.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "rüveta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma tütart"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "oma tütart"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "et teda kõlvatult elama panna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ei"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "peaks kõlvatult elama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ja ei täitnuks"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kurjuse plaaniga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:54.028615509Z",
+  "model": "glm-5.3"
+}

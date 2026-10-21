@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Kopeel ja abisõna, mida heebrea partitsiip ei kanna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפעל\/תעשה",
+      "rationale": "Kaks 'teha' verbi paralleelses küsimuses, eesti keeles kahe erineva verbiga"
+    }
+  ],
+  "translation": "Kui sa oled pattu teinud, mida sa temaga toiming? ja kui su üleastumised on paljunenud, mida sa temale teed?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/35\/5-8.1792555633829.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "oled pattu teinud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "toiming"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ja on paljunenud"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "su üleastumised"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teed"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:13.829904278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "Puuliik ebakindel: küpress vs seeder (vanemas tõlkes 'firre')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "toonekurg",
+      "rationale": "חסידה tähendab sõnaliselt 'helist' (חסד-st) — linnu nimi on sõnamänguga lahus."
+    }
+  ],
+  "translation": "kus linnud seal pesa teevad; toonekurgel on küpressid tema maja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/17-20.1792553815111.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "linnud"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "pesa teevad"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "toonekurg"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "küpressid"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "tema maja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:55.112351955Z",
+  "model": "glm-5.3"
+}

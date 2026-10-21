@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 3:4",
+  "book": "habakkuk",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרנים",
+      "rationale": "'sarved' sõna-sõnalt vs 'kiired' (parallel Taanieli sarved-kiired); kuju on sarv, pilt on välguv valgus"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חביון",
+      "rationale": "Sõna חביון 'peidik\/peitmine' esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peidik",
+      "rationale": "חביון on peitmise koht — 'võimu peitmine' väline pilt, mitte lihtsalt 'varjatud'"
+    }
+  ],
+  "translation": "Ja ta sära ⟨on⟩ nagu valgus; sarved on ta käest, temale; ja seal ⟨on⟩ ta väe peidik.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/habakkuk\/3\/1-4.1792551827721.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "Ja ta sära"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "nagu valgus"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "sarved"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ta käest"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja seal"
+    },
+    {
+      "surface": "חביון",
+      "gloss": "peidik"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ta väe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:03:47.722088906Z",
+  "model": "glm-5.3"
+}

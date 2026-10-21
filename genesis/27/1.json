@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jitshak kõneleb Esavile",
+      "rationale": "Jitshak pöördub otse oma poja Esavi poole: 'mu poeg!'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab sidesõna, heebrea ותכהינה puudub kopeeriv konstruktsioon"
+    }
+  ],
+  "translation": "Ja sündis: kui Jitshak vananes ja ta silmad muutusid nõrgaks nägemast, kutsus ta ⟨את⟩ Esavi, oma vanema poja, ja ütles talle: mu poeg! Ja tema ütles talle: vaata, mind on siin!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/27\/1-4.1792537738541.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vananes"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "muutusid nõrgaks"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ta silmad"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "nägemast"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kutsus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oma poeg"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "vanem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu poeg"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "vaata, mind on siin"
+    }
+  ],
+  "timestamp": "2026-10-20T23:08:58.543146252Z",
+  "model": "glm-5.3"
+}

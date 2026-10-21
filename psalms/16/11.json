@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu tee",
+      "rationale": "ארח חיים on 'elurada', häbitud tee; eesti omastav jätab sideme kohaseks."
+    },
+    {
+      "kind": "elision",
+      "subject": "את פניך",
+      "rationale": "Heebrea את + 'sinu näod' (mitmus 'näod') tähendab 'su nõo\/oolekul'; eesti ütleb 'sinu näo juures'."
+    },
+    {
+      "kind": "crux",
+      "subject": "נצח — igaveseks",
+      "rationale": "Juur tähendab 'eesmärk, kauge helendav objekt'; 'igavesti' vs 'alatiseks võiduks'."
+    }
+  ],
+  "translation": "Teadatavaks teed mulle elu tee, küllust rõõmudest ⟨on⟩ ⟨את⟩ sinu näo juures, armsad asjad sinu paremas käes ⟨varasematest hetkedest⟩ igaveseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/16\/9-11.1792552349437.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Teadatavaks teed mulle"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tee"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "küllus"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "rõõmudest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu näo juures"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sinu näo juures"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "armsad asjad"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sinu paremas käes"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "igaveseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:29.439458428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 21:16",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mõõgaga⟩",
+      "rationale": "heebrea ütleb üksnes 'vöötatud uuega' — naissoo omadussõna חדשה vihjab relvale, mida nimetus tekstis ei nimeta"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolmsada seeklit vaske",
+      "rationale": "relva kaal on antud seeklites — kolmsada seeklit vaske (נחשת: vask, mitte 'pronks')"
+    },
+    {
+      "kind": "crux",
+      "subject": "קינו",
+      "rationale": "sõna tähendab 'oda\/kee' (juur קון, 'kohast kiiresti lööma') — mitte 'mõõk'"
+    }
+  ],
+  "translation": "Ja Jišbi-Benob, kes oli Refa sündinute seas — ja tema oda kaal oli kolmsada seeklit vaske, ja tema oli vöötatud uue ⟨mõõgaga⟩ — ja ta ütles end lüüa ⟨את⟩ Davidi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/21\/13-16.1792545049186.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ja Jišbi"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Benob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בילידי",
+      "gloss": "sündinute seas"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "Refa"
+    },
+    {
+      "surface": "ומשקל",
+      "gloss": "ja kaal"
+    },
+    {
+      "surface": "קינו",
+      "gloss": "tema oda"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "kaaluga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vaskest"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "vöötatud"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "uue"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles end"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "lüüa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:10:49.191799313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעם",
+      "rationale": "'meeldivus' vs 'armu' vs 'ilu' — sõna tähendab meeldivust, armsust, lusti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומעשה ידינו כוננה",
+      "rationale": "Refrään kordub kaks korda, teine kord lõpuosaga -הו ('see'); kordus kaob osaliselt eesti keeles"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Heebrea lõppindeks -הו osutab tööle; eesti keel vajab eraldi asesõna"
+    }
+  ],
+  "translation": "Ja olgu Adonai, meie Elohim, meeldivus meie peal, ja meie käte töö kinnita meie peal — jah, meie käte töö kinnita ⟨see⟩!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/17-17.1792553598843.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja olgu"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "meeldivus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meie peal"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja meie käe töö"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "meie käte"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "kinnita"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meie peal"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja meie käe töö"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "meie käte"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "kinnita ⟨see⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:18.844041185Z",
+  "model": "glm-5.3"
+}

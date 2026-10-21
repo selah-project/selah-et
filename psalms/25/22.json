@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kitsustest",
+      "rationale": "צרה pilt on 'kitsus, ahtus' — 'hädad' on nõrgem kui sõna kuju"
+    },
+    {
+      "kind": "invitation",
+      "subject": "koguduse palve",
+      "rationale": "Üksikisiku palve laieneb lõpus kogu Jisraeli poolehoiuks"
+    }
+  ],
+  "translation": "Lunasta, Elohim, ⟨את⟩ Jisrael kõigist tema kitsustest!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/25\/21-22.1792552481233.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "lunasta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "tema kitsustest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:41.234743472Z",
+  "model": "glm-5.3"
+}

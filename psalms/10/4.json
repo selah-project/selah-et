@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨teda⟩",
+      "rationale": "ידרש objekt on heebreas välja jäetud — pronoomen lisatud selguseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין אלהים",
+      "rationale": "'Ei ole Elohim' — õele omistatud sisemine tsitaat (JPS, ASV) või väide, et kõikides tema kavatsustes pole Jumalat (KJB)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "nina kõrgus",
+      "rationale": "אף 'nina\/ninamik' = uhkus, viha — 'kõrgel nina' on eesti keeles ligikaudne vaste"
+    }
+  ],
+  "translation": "Õel — oma nina kõrguses — ei otsi ⟨teda⟩; 'ei ole Elohim' — kõik ta kavalused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/1-4.1792552321572.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Õel"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "kõrguses"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "oma nina"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "otsi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ta kavalused"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:01.574744602Z",
+  "model": "glm-5.3"
+}

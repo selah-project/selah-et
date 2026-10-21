@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨ise⟩ · ⟨oleme⟩",
+      "rationale": "Eesti kõneside nõuab kopulat ja rõhulist asesõna, mida heebrea tekst ei kirjuta."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא אנחנו",
+      "rationale": "Konsonandtekst lubab ka ולו ('ja tema omad' — 'tema omad me oleme'); KJV 'mitte meie ise' vs ASV 'ja tema omad me oleme'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "דעו",
+      "rationale": "Käsk 'tundke' pöördub koguduse poole tunnistusena."
+    }
+  ],
+  "translation": "Tundke, et Jahve ⟨on⟩ Elohim: tema tegi meid, ja mitte meie ⟨ise⟩; ⟨oleme⟩ tema rahvas ja tema karjamaa kari.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/100\/1-4.1792553732169.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Tundke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "tegi meid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "meie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema rahvas"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ja kari"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "tema karjamaa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:32.170055625Z",
+  "model": "glm-5.3"
+}

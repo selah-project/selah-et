@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "vande-formula 'kui...' eituseks pööratuna: 'ei leppita iial' — eitus antakse lause tervikuna, mitte sõna-sõnalt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leppita",
+      "rationale": "כפר on 'kattma, katma kinni' — lepitus on kaudne tähendus."
+    }
+  ],
+  "translation": "Ja seepärast olen ma vandunud Eelist koja kohta: ei leppita Eelist koja süü ohvri ega minha läbi igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/3\/13-16.1792543704702.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ja seepärast"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "olen ma vandunud"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "koja kohta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "leppita"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ohvri läbi"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "ja minha läbi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T00:48:24.704929223Z",
+  "model": "glm-5.3"
+}

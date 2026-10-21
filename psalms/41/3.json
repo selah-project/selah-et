@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tahtele",
+      "rationale": "נפש on hingamisolend, elujõud; siin 'vaenlaste tahtei\/ahne iha' mõistes"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopeela puudub heebrea tekstis, יאשר on tegusõna 'õnnis olema'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יאשר",
+      "rationale": "Võib lugeda ka jussiivina: 'olgu ta õnnis maal'"
+    }
+  ],
+  "translation": "Jahve teda kaitseb ja teda elus hoiab, õnnis ⟨on⟩ ta maal, ja ära anna teda tema vaenlaste tahtele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e53e1dd8fb6f80f12d139fd08cced983696460a0f4267e9ce2e96ef1870e496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/2-3.1792558568486.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "teda kaitseb"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ja teda elus hoiab"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "õnnis ⟨on⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "anna teda"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "tahtele"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "tema vaenlaste"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:08.495815514Z",
+  "model": "glm-5.3"
+}

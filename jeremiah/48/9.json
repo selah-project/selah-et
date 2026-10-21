@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 48:9",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tiibu",
+      "rationale": "ציץ tähendab sõna-sõnalt 'õis \/ särav plaat': KJV\/Geneva 'tiivad' (emendatsioonist צוץ?), BSB 'sool' (ציץ kui sipelgajooks?); vana tõlgendus 'andke Moabile õis' (Wycliffe)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נצא",
+      "rationale": "נצא on Tanahhis äärmiselt haruldane (põhjustav 'minema saata'); tekst kordab tüve יצא kõrval — sõnamäng, mis eesti keeles taandub."
+    }
+  ],
+  "translation": "Andke Moabile tiibu, sest minema peab ta minema, ja tema linnad saavad varemeteks, ei ole enam elanikku neis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f3a5ab40ab346d0c021c9ab160e09c46afa17997617b2cc6a93bfe249ebe28f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/48\/9-12.1792549361069.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Andke"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "tiibu"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moabile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "minema peab"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ta minema"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "ja tema linnad"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "varemeteks"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "saavad"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ei ole enam"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "elanikku"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "neis"
+    }
+  ],
+  "timestamp": "2026-10-21T02:22:41.070266288Z",
+  "model": "glm-5.3"
+}

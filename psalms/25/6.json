@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaastunne",
+      "rationale": "רחמים on mitmuses, sõna juur tähendab ka 'emakas' — tunda kaasa"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub kopula"
+    }
+  ],
+  "translation": "Mäleta oma kaastunnet, Jahve, ja oma hesedit, sest igiajast saadik ⟨on⟩ need.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/25\/5-8.1792552508908.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mäleta"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "oma kaastunnet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ja oma hesedit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "igiajast saadik"
+    },
+    {
+      "surface": "המה",
+      "gloss": "need"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:08.909359327Z",
+  "model": "glm-5.3"
+}

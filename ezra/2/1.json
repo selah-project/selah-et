@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub sidusõna; eesti vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maaala",
+      "rationale": "המדינה tähendab 'kohtumõistuse piirkond, provints'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nimekiri",
+      "rationale": "Algab üleskanne: tagasipöördunute loend linnade kaupa"
+    }
+  ],
+  "translation": "Ja need olid seda maaala pojad, kes läksid üles pagendusse viidute seast, kelle Nebukadnetsar, Babüloni kuningas, oli viinud Babelisse; ja nad pöördusid tagasi Jerušalaimi ja Jehuudasse, igaüks oma linna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "98fb9172f65b6da928d532e1855b3c5ebfef1f8768918a2b55f741616caf2402",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/2\/1-4.1792556685671.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "maaala"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kes läksid üles"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "pagendusse viidute seast"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pagendi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "oli viinud"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babüloni"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babelisse"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "ja nad pöördusid tagasi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Jehuudasse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "oma linna"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:45.672157522Z",
+  "model": "glm-5.3"
+}

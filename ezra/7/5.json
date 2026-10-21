@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הראש",
+      "rationale": "Tõlgetes 'ülimpreester', kuid heebrea ütleb 'preester, pea' — kaks pärisnimetust, mitte üks tiitel."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sugupuu",
+      "rationale": "Perekonnaloend: viis põlve Abišuast Aharonini."
+    }
+  ],
+  "translation": "Abišua poeg, Pinhasi poeg, Elasari poeg, Aharoni poeg, preester, ⟨see, kes on⟩ pea.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a019730d15d6f0945f93741977583173aa04b80c05568fffa6cda4bc70a7c6ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/7\/5-6.1792558702708.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abišua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pea"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:22.711598563Z",
+  "model": "glm-5.3"
+}

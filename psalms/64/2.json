@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohimile",
+      "rationale": "otsene pöördumine Jumala poole käskiva kõneaktina"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kuule",
+      "rationale": "imperatiivne hüüe, mis avab palve"
+    },
+    {
+      "kind": "crux",
+      "subject": "kaitse",
+      "rationale": "תצר (נצר) võib tähendada nii 'hoida, kaitsta' kui 'vallata, kinni pidada'; siin 'kaitse'"
+    }
+  ],
+  "translation": "Kuule, Elohim, mu häält mu kõnes; vaenlase hirmu eest kaitse mu elu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/64\/1-4.1792553104762.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mu häält"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mu kõnes"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "hirmu eest"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlase"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "kaitse"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:04.763758770Z",
+  "model": "glm-5.3"
+}

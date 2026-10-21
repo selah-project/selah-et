@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sundus-teenija",
+      "rationale": "למס עבד on liitumata fraas: 'teenima andamit' (KJV) vs 'sunduse-tööline' (ASV\/JPS); valitud viimase"
+    }
+  ],
+  "translation": "Ja nad ei ajanud välja ⟨את⟩ kanaanlast, kes elas Gezeris, ja kanaanlane elas Efrayimi keskel kuni selle päevani, ja temast sai sundus-teenija.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/16\/9-10.1792541615279.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ajanud välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanlast"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanlast"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kes elas"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gezeris"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja elas"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanlane"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päevani"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja temast sai"
+    },
+    {
+      "surface": "למס",
+      "gloss": "sundus-"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "teenija"
+    }
+  ],
+  "timestamp": "2026-10-21T00:13:35.279848424Z",
+  "model": "glm-5.3"
+}

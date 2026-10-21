@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 15:11",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "heebrea jätab teo subjekti kahevalentseks; eesti keel vajab subjekti"
+    },
+    {
+      "kind": "crux",
+      "subject": "kellele pesemine käib",
+      "rationale": "kas puudutatu peab pesema (KJV, JPS) või hoovuses olev isik enne puudutamist (mõned tõlgid); heebrea käsusõna vorm võimaldab mõlemat"
+    }
+  ],
+  "translation": "Ja kõik, mida see, kellel on voolus, puudutab, ilma et ta oleks oma käsi vees loputanud, ⟨see⟩ peab pesema oma riided ja peske end vees ja on ebapuhas kuni ÷htuni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1b032c8b2665d8b2c803af56ecacea2021f6394ee66d857415edd0d80f8eecfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/15\/9-12.1792539407202.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "puudutab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "see, kellel on voolus"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "ja oma käed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שטף",
+      "gloss": "loputanud"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ves"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "ja peab pesema"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "oma riided"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ja peske end"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ves"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja on ebapuhas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "õhtuni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:47.203406602Z",
+  "model": "glm-5.3"
+}

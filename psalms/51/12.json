@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח hoitakse kõla järgi 'ruahh' — tuul\/hing\/vaim, üks sõna kolme jaoks."
+    },
+    {
+      "kind": "crux",
+      "subject": "kindel",
+      "rationale": "נכון: 'kindel, püstitatud, õige' — traditsioonis 'õige vaim' vs 'kindel vaim'."
+    }
+  ],
+  "translation": "Loo mulle, Elohim, puhas süda ja uuenda minu sees kindel ruahh.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/9-12.1792552945900.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "loo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kindel"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uuenda"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "minu sees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:25.902781156Z",
+  "model": "glm-5.3"
+}

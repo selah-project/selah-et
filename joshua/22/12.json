@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 22:12",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sellest⟩",
+      "rationale": "eesti keel nõuab kuulmisobjekti, heebrea jätab selle välja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לעלות",
+      "rationale": "'minna üles' — heebrea verbi tähendab tõusmist\/kärkimist, siin sõjakäiguks assembled"
+    }
+  ],
+  "translation": "Ja Jisraeli pojad kuulsid ⟨sellest⟩, ja kogunes terve Jisraeli poegade kogudus Šilosse, et minna nende vastu üles sõtta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0fe005bd6873b371722a267d59c5167fc5781f73a3d271d1c00111d3c8fc9dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/22\/9-12.1792541733909.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulsid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ja kogunes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "terve"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kogudus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Šilosse"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "et minna üles"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende vastu"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sõtta"
+    }
+  ],
+  "timestamp": "2026-10-21T00:15:33.911640886Z",
+  "model": "glm-5.3"
+}

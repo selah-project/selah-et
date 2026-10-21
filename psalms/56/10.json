@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea koopula puudub; eesti keel nõuab 'on'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ביום אקרא",
+      "rationale": "Võib lugeda ka põhjuslikult: 'seepärast, et ma hüüan' — ajamäärus 'päeval, mil' on sõnasõnalisem."
+    }
+  ],
+  "translation": "Siis pöörduvad mu vaenlased tagasi päeval, mil ma hüüan; seda ma tean: Elohim ⟨on⟩ minu jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/9-12.1792553129765.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "pöörduvad tagasi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mu vaenlased"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tagasi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mil ma hüüan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "seda"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu jaoks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:29.766920058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואתנו",
+      "rationale": "H854 'koos meiega', esitamistähis ⟨את⟩ teeb selle Selah-skeemis nähtavaks"
+    },
+    {
+      "kind": "idiom",
+      "subject": "maa olgu teie ees",
+      "rationale": "לפניכם sõna-sõnalt 'teie palge ees' — idiom 'olgu teie käsutuses, avatud teile'"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ meie juures elage, ja maa olgu teie ees; asuge elama ja käige selles kaupu ning haarake sellest kindlalt kinni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf63942acf4ab0527f875f00cc6bb64e93d09d35f83869922e5f20ab30379337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/34\/9-12.1792537910044.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ meie juures"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "elage"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teie ees"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "asuge elama"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "käige selles kaupu"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "haarake kindlalt kinni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sellest"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:50.045750338Z",
+  "model": "glm-5.3"
+}

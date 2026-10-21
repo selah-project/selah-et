@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on nad",
+      "rationale": "Eesti keel nõuab kopeelat; heebrea passiivi osalause subjekt on lauses eneses"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vagad",
+      "rationale": "חסיד on 'hesed-eksid, ustavad', mitte pühakud; hesed jääb tõlkimata"
+    }
+  ],
+  "translation": "Sest Jahve armastab kohust ja ei jäta maha ⟨את⟩ oma vagasid; igaveseks ⟨on nad⟩ hoida-kaitstud, ja õelate sugu ära-ärilt-lõigatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9502fbda4269b7d8e0b17e70081f19b9bda06deef0f01ac9a55030a4ee2aa29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/28-28.1792558555422.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastab"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "jäta maha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma vagasid"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "oma vagasid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "hoida-kaitstud"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ja sugu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ärilt-lõigatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:55.430679948Z",
+  "model": "glm-5.3"
+}

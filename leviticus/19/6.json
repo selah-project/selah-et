@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sedä⟩",
+      "rationale": "Eesti keel vajab objekti, heebrea passiiv jatab selle ära."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm päeva",
+      "rationale": "Ohvri söömise ajapiir — päevade loendus."
+    }
+  ],
+  "translation": "Teie ohvri päeval ⟨seda⟩ süüakse ja järgmisel päeval; aga mis jääb järele kuni kolmanda päevani, põletatakse tulega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/5-8.1792539430484.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "teie ohvri"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "süüakse"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ja järgmisel päeval"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "aga mis jääb järele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päevani"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmanda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "põletatakse"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:10.484947635Z",
+  "model": "glm-5.3"
+}

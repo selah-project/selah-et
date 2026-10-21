@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדיו",
+      "rationale": "בַּד vahelduvalt 'väravapalk' (sulused), 'oksharu' või 'haarukahvel'; KJV 'branches', JPS 'bars'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממעצותיהם",
+      "rationale": "Heebrea מן ('nendest, nende plaanidest') on renderdatud põhjusliku 'tõttu' — otsetõlge 'kohas nende plaanidest' oleks eesti keeles arusaamatu."
+    }
+  ],
+  "translation": "Ja mõök viibib tema linnades ja see lõpetab tema sulused ja see närib neid ära nende enda nõuannete ⟨tõttu⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "005f4fa2860f04403716e9d71d8dfb2af30144e20985f8a1d7984936c2ffed04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/11\/5-8.1792551047632.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "ja viibib"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõök"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "tema linnades"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "ja see lõpetab"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tema sulused"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ja see närib"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "nende enda nõuannete ⟨tõttu⟩ ära"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:47.633197267Z",
+  "model": "glm-5.3"
+}

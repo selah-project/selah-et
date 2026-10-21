@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud, mitte 'hing' lääne mõttes"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puuduv kopula, eesti keel nõuab"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja enesele",
+      "rationale": "hing pöördub enda poole"
+    }
+  ],
+  "translation": "Ainult Elohimile olgu vaikselt ootav mu hing, sest temalt ⟨on⟩ mu lootus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/62\/5-8.1792553076595.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "olgu vaikselt ootav"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temalt"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "mu lootus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:36.597981946Z",
+  "model": "glm-5.3"
+}

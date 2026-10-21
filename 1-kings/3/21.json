@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub käänesõna — מת on üksnes omadussõna 'surnud'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaatasin hoolega",
+      "rationale": "ואתבונן tähendab otseselt 'mõtisklesin\/kaalusin meeleliselt', mitte ainult vaatamist"
+    }
+  ],
+  "translation": "Ja tõusin hommikul imetamast ⟨את⟩ oma poega, ja vaata — ⟨oli⟩ surnud; ja vaatasin teda hommikul hoolega, ja vaata — ei olnud see mu poeg, kelle ma olin ilmale toonud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e3731c071abde7496493c3dacc6ef07386131aadb4194bc841694ab985bbdc14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/3\/21-24.1792545256176.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "ja tõusin"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "imetamast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma poega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oma poega"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "מת",
+      "gloss": "surnud"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "ja vaatasin hoolega"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olinud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu poeg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "olin ilmale toonud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:14:16.177348771Z",
+  "model": "glm-5.3"
+}

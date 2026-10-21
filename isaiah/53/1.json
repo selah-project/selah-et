@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koprula; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "käsivars",
+      "rationale": "זרוע otsemine on 'käsivars', kujundlikult jõud — säilitatud sõna kuju"
+    },
+    {
+      "kind": "mystery",
+      "subject": "salm",
+      "rationale": "Küsimus, millele ei vasta keegi — varjatud ilmutus, kes usub"
+    }
+  ],
+  "translation": "Kes uskus meie kuuldule, ja kellele ⟨on⟩ Jahve käsivars ilmutatud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e54ea07485cbe6ac9611f3cd9cc7c2c89ac395d34bdcb26e35cecf8170b478ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/53\/1-4.1792547616870.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "uskus"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "meie kuuldule"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ja käsivars"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "kellele"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kellele"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "ilmutatud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:53:36.871412815Z",
+  "model": "glm-5.3"
+}

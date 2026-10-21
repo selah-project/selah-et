@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõtisklen",
+      "rationale": "הגה on otseselt 'sorima\/momitama' — vaikne sumin, nii mõtlemine kui langev kõin; eesti 'mõtisklen' hoiab momimise varjundi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "öövahtide ajal",
+      "rationale": "אשמרות jagab öö loendatavateks vahtideks — aja mõõt"
+    }
+  ],
+  "translation": "Kui ma mõtlen sinu peale oma voodil, öövahtide ajal mõtisklen ma sinust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/63\/5-8.1792553112610.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ma mõtlen sinu peale"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "oma voodil"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "öövahtide ajal"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "mõtisklen ma"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:12.612152437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 6:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "neid",
+      "rationale": "Heebrea rõhuline asesõna המה eeldab eesti keeles lahused asetäitja 'neid'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on kõri\/elujõud\/mitte 'hing' immateriaalses mõttes; jätin häälikulise vormi nefesh."
+    }
+  ],
+  "translation": "Minu nefesh keeldub neid puudutamast; need on mu haigustoit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/6\/5-8.1792555133942.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאנה",
+      "gloss": "keeldub"
+    },
+    {
+      "surface": "לנגוע",
+      "gloss": "puudutamast"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minu nefesh"
+    },
+    {
+      "surface": "המה",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כדוי",
+      "gloss": "haigus-"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mu toit"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:53.943257875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seitse päeva",
+      "rationale": "Karantiini mõõdetud aeg"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sulgeb",
+      "rationale": "הסגיר otsetähendus 'sulgeb\/eraldab'; ese, mitte laigun ise, pannakse kõrvale"
+    }
+  ],
+  "translation": "Ja preester vaatab ⟨את⟩ tabamust ja sulgeb ⟨את⟩ tabamusega eset seitse päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c3f3fb3cfe6bc46e48d8bee2923ff07dbc3bcd1ca224ae0cdb2e4a163eac9cbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/13\/49-52.1792539347330.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ja vaatab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabamust"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tabamust"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ja sulgeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabamusega eset"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tabamusega eset"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-20T23:35:47.331993891Z",
+  "model": "glm-5.3"
+}

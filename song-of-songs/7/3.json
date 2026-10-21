@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea keel puudub sidesõna; eesti võrdluses nõuab see 'on'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "שרר tähendab nabanööri\/vööpiirkonda — 'su nabavõist' vs 'su vöökoha ümarus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõhtu",
+      "rationale": "בטן on kõht või iha, kontekstis keha ümarus"
+    }
+  ],
+  "translation": "Su kõht ⟨on⟩ nagu kuulane kauss, millest veini-segu ei puudu; su kõhtu nagu nisu kuhjas, piiratud liiliateega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/7\/1-4.1792555814863.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "su kõht"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "kauss"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "kuulane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "puuduks"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "veini-segu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "su kõhtu"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kuhjas"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "piiratud"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "liiliateega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:14.864380462Z",
+  "model": "glm-5.3"
+}

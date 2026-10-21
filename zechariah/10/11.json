@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 10:11",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בים צרה",
+      "rationale": "'Ahastuse meri' — KJV loeb 'läbides mere koos ahastusega'; JPS 'ahastus läheb üle mere'; hoitud kokkukirjutatud konstruktsioon."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאר",
+      "rationale": "יאר on Niiluse kanal; 'jõgi' hoiab üldise pildi, eesti lugeja ei näe Niilust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושבט יסור",
+      "rationale": "'Skepter... kaob ära' — יסור on 'pöörab kõrvale\/eemaldub'; 'kaob ära' annab järsu lõpu."
+    }
+  ],
+  "translation": "Ja ta läbib ahastuse mere, ja ta lööb meres laineid, ja kõik jõe sügavused kuivavad, ja Assuri uhkus langetatakse ja Mitsraimi skepter kaob ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/10\/9-12.1792552011190.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "ja ta läbib"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahastuse"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ja ta lööb"
+    },
+    {
+      "surface": "בים",
+      "gloss": "meres"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "laineid"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "ja kuivavad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מצולות",
+      "gloss": "sügavused"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "jõe"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "ja langetatakse"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "uhkus"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuri"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ja skepter"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "kaob ära"
+    }
+  ],
+  "timestamp": "2026-10-21T03:06:51.191880052Z",
+  "model": "glm-5.3"
+}

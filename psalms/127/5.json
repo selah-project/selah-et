@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "näd ei pea häbist kartma",
+      "rationale": "\/yevoshu subjektiks võib olla isa või pojad — enamus tõlkeid valib pojad, mõned isa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי \/ אשר \/ אשפתו",
+      "rationale": "korduv ašer-kõla õnnistusvalemis, eesti keeles kadunud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vägev mees",
+      "rationale": "הגבר tähendab esmalt sõjameest, üldiselt meest — jätkab noolepilti ja kangelaslikku raami."
+    }
+  ],
+  "translation": "Õnnis on see vägev mees, kes on täitnud ⟨את⟩ oma nooltekõri neiega: nad ei pea häbist kartma, sest nad räägivad ⟨את⟩ vaenlastega väravas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/127\/5-5.1792554170773.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Õnnis"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "see vägev mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "on täitnud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma nooltekõri"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "oma nooltekõri"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "neiega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "pea häbist kartma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nad räägivad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaenlastega"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "vaenlastega"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "väravas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:42:50.773911353Z",
+  "model": "glm-5.3"
+}

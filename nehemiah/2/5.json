@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 2:5",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩ · ⟨selle⟩",
+      "rationale": "Eesti keel nõuab otsese kõne täidendit, heebrea jätab mõlemad sisaldamata"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על המלך טוב",
+      "rationale": "sõna-sõnalt 'kuningale hea' — õukonna viisakusvormel, mida eesti tavatekst annaks kui 'kui kuningale meeldib'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאֶבְנֶנָּה",
+      "rationale": "perfekt-kohane vorm, tähendab siiski eesmärki ('et ma ehitan'), nagu KJV 'that I may build' — mitte lihtne tulevik"
+    }
+  ],
+  "translation": "Ja ma ütlesin kuningale: kui ⟨see⟩ on hea kuninga jaoks, ja kui sinu sulane on hea sinu ees, et sa saadaksid mind Juudasse, mu isade hauade linna, ja ma ehitan ⟨selle⟩ üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2784d643033be86d5492969d579d6efefed8fc218155a0296243b073685de904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/2\/5-8.1792556899348.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuninga jaoks"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "on hea"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "on hea"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sinu sulane"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinu ees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "sa saadaksid mind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Juudasse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudasse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "linna"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "hauade"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "mu isade"
+    },
+    {
+      "surface": "ואבננה",
+      "gloss": "ja ma ehitan selle üles"
+    }
+  ],
+  "timestamp": "2026-10-21T04:28:19.349235327Z",
+  "model": "glm-5.3"
+}

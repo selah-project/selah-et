@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hind",
+      "rationale": "viisteist seeklit hõbedat + homer ja letek otra — hind võrdne orja hinnaga 2Ms 21:32"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולתך",
+      "rationale": "letek = pool homerit, eraldi mõõt; KJV loeb 'pool-homerit', heebrea tekst seab kolm loenduriikki üksteise kõrvale"
+    }
+  ],
+  "translation": "Ja ma ostsin ta enesele viieteistkümne hõbeda ja homeri odra ja leteki odra eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/3\/1-4.1792550954391.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Ja-ostsin-ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "enesele"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "viieteistkümne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-teist"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbeda"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "ja-homeri"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "odra"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "ja-leteki"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "odra"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:14.394018824Z",
+  "model": "glm-5.3"
+}

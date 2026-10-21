@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאותו",
+      "rationale": "Eessõnaline aleph-tav-vorm מאותו ('tema käest'); ⟨את⟩ jääb tunnuseks pöördumisesse Jahve poole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kingitus",
+      "rationale": "מנחה on siin halastuskingitus, mitte altar-annetus, seega 'kingitus' ega 'minha'"
+    },
+    {
+      "kind": "you",
+      "subject": "Hazael",
+      "rationale": "Kuninga otsene kõne Hazaelile: käsud 'võta', 'mine', 'küsi'"
+    }
+  ],
+  "translation": "Ja kuningas ütles Hazaeli poole: Võta oma kätte kingitus ja mine vastu Elohim'i mehele ja küsi ⟨את⟩ Jahvet ⟨את⟩ tema käest, öeldes: Kas ma jään ellu sellest haigusest?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/8\/5-8.1792546097294.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "קח",
+      "gloss": "võta"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "oma kätte"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kingitus"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ja mine"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "ja küsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ tema käest",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Kas ma jään ellu"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "haigusest"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sellest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:28:17.297352926Z",
+  "model": "glm-5.3"
+}

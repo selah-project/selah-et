@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Kopeelis, mida heebrea ei sisalda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "koitselõpuks",
+      "rationale": "לפנות בקר sõna-sõnalt 'hommiku pöördel', koidu saabumise hetk"
+    }
+  ],
+  "translation": "Elohim ⟨on⟩ tema keskel — ta ei kõigu; Elohim aitab teda koitselõpuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/46\/5-8.1792552853506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "tema keskel"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kõigu"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "aitab teda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "koitselõpuks"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "koit"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:53.507883178Z",
+  "model": "glm-5.3"
+}

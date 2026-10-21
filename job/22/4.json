@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המיראתך",
+      "rationale": "'sinu jumalakartus' (JPS, ASV) vs 'sinu pärast kardab tema' (KJV, Geneva) — kelle hirm on mõeldud, jääb lahtiseks."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Otsene küsimus Iiobile Jumala ülekuulamisest ja kohtumõistmisest."
+    },
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Asesõna 'tema' lisatud, sest heebrea verbis puudub eraldi subjekt ja eesti lause nõuab seda."
+    }
+  ],
+  "translation": "Kas sinu jumalakartuse pärast ⟨tema⟩ sind üle kuulab? Kas ⟨tema⟩ astub sinuga kohtumõistmisse?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/22\/1-4.1792555415547.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "sinu jumalakartuse pärast"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "sind üle kuulab"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "astub"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinuga"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kohtumõistmisse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:35.548729159Z",
+  "model": "glm-5.3"
+}

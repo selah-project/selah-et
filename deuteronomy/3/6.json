@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pühitsesime hävitatuks",
+      "rationale": "חרם on pühendamine hävitamisele, karistamatu tõlkevaste puudub eesti keeles"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונחרם\/החרם",
+      "rationale": "Sama juure kordus — חרם kaja, eesti keeles kordatud samas fraasis"
+    }
+  ],
+  "translation": "Ja me pühitsesime need hävitatuks, nagu me tegime Sihhonile, Heshboni kuningale: pühitsesime hävitatuks igas linnad kõik mehed, naised ja väikelapsed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/3\/5-8.1792540559570.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "ja me pühitsesime hävitatuks"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "me tegime"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sihhonile"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshboni"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pühitsesime hävitatuks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linnad"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naised"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "ja väikelapsed"
+    }
+  ],
+  "timestamp": "2026-10-20T23:55:59.571122631Z",
+  "model": "glm-5.3"
+}

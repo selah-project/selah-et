@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-samuel 14:37",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Eesti keel vajab subjektpronoomeni, heebrea jätab selle ära"
+    },
+    {
+      "kind": "crux",
+      "subject": "באלהים",
+      "rationale": "Küsimine Elohimilt: Oraakliküsimine vs nõu pidamine; heebrea וישאל ב = küsida kellegi käest"
+    }
+  ],
+  "translation": "Ja Šaul küsis Elohimilt: Kas ma lähen alla plaatlaste järele? Kas sa annad nad Jisraeli kätte? Aga ⟨tema⟩ ei vastanud talle sel päeval.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "04f74b327bb112abd6bfe82b0b2a80183f22db432c416ab665017e63e4c70fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/37-40.1792543983602.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ja küsis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimilt"
+    },
+    {
+      "surface": "הארד",
+      "gloss": "Kas ma lähen alla"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plaatlaste"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "Kas sa annad nad"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga mitte"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "vastanud talle"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:03.604368421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "on mulle antud",
+      "rationale": "לקחתי sõnasõnaline 'olen võtnud (käsuna) õnnistada' — infiniitiv, mitte nimisõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "ja ta õnnistab",
+      "rationale": "וברך: 'tema (Jahve) on õnnistanud' (pf, JPS\/BSB) või imperatiivne 'ja õnnistagu' — tav tõlgitakse pf"
+    }
+  ],
+  "translation": "Vaata, õnnistuse ⟨on⟩ mulle antud, ja ta õnnistab, ja mina ei saa seda tagasi pöörata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/23\/17-20.1792540267523.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "õnnistuse"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "on mulle antud"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ja ta õnnistab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "saa seda tagasi pöörata"
+    }
+  ],
+  "timestamp": "2026-10-20T23:51:07.524815523Z",
+  "model": "glm-5.3"
+}

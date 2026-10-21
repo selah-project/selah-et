@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "Sõna חלכאים esineb Tanahhis vaid siin ja Js 3:15 kooskõlas — haruldane sõna 'õnnetud, halvad'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "KJV 'tema tugevate poolt' vs JPS 'tema küünistesse'; עצום tähendab nii 'võimas' kui 'käpp'."
+    }
+  ],
+  "translation": "Ta küürutab ja vajub kokku, ja õnnetud langevad tema võimsate küüniste alla.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/9-12.1792552262858.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ja vajub kokku"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "ta küürutab"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ja langevad"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "tema võimsate küüniste alla"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "õnnetud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:02.859147304Z",
+  "model": "glm-5.3"
+}

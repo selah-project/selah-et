@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 7:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלי",
+      "rationale": "KJV 'iseendale koorem' vs BSB 'sulle koorem' — punktatsioon pole algne, mõlemad võimalikud"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאתי",
+      "rationale": "KJV 'ma olen pattu teinud' vs JPS\/ASV 'kui ma olen pattu teinud' — küsitav-või-kindel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "inimesti hoidja",
+      "rationale": "נצר האדם on 'inimkonna valvur-hoidja', mitte medaljon; 'hoidja' hoiab kujundi elus"
+    }
+  ],
+  "translation": "Ma olen pattu teinud — mida ma olen sulle teinud, inimesti hoidja? Miks sa oled mind pannud endale rünnakumärgiks, nii et minust saab iseendale koorem?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7bb4cbd637da7111dca8cc10548a5b466616822b235c37ec73482c177a1f2625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/7\/17-20.1792555126915.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "ma olen pattu teinud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "ma olen teinud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "hoidja"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimesti"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "sa oled mind pannud"
+    },
+    {
+      "surface": "למפגע",
+      "gloss": "rünnakumärgiks"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "nii et minust saab"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "iseendale"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "koorem"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:46.916228084Z",
+  "model": "glm-5.3"
+}

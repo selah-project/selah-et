@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨asju⟩",
+      "rationale": "Eesti keel vajab otsese objekti sõna, heebrea אלה üksi 'need' jääb ebakindlaks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל עשה ... כל עשה",
+      "rationale": "Korduv 'igaüks, kes teeb' — retooriline parallelism."
+    }
+  ],
+  "translation": "Sest jälestus on see Jahvele, su Elohimile, igaüks, kes teeb neid ⟨asju⟩, igaüks, kes teeb ülekohtu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "04916ed96c59492ae012057e1266c56635cf6747ba10064cd6d7555705c83ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/25\/14-16.1792543644962.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "jälestus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohimile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kes teeb"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kes teeb"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ülekohtu"
+    }
+  ],
+  "timestamp": "2026-10-21T00:47:24.964997629Z",
+  "model": "glm-5.3"
+}

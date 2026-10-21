@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 32:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבל \/ נבלה",
+      "rationale": "Sama juur kaks korda: 'narri räägib narritusi' — kordus, mis eesti keeles säilib"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/elujõud' — 'hing' on tavaks saanud asendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "rääkida Jahve juurde eksitust",
+      "rationale": "אל יהוה תועה: 'rääkida Jahve vastu eksitust' vs 'rääkida Jahve kohta eksitust'; sõnade õlgendus lahtine"
+    }
+  ],
+  "translation": "Sest narri räägib narritusi, ja tema süda teeb pahet, et toime panna jumalatust ja rääkida Jahve juurde eksitust, et tühjendada näljase hinge ja januse joogi jätab ta puudu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e084daac172c82b3b2a2ab6824acef1e5266ea6900760a70a179d26d108cfcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/6-7.1792558379907.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "narri"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "narritusi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägib"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "ja tema süda"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahet"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et toime panna"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "jumalatust"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "ja rääkima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "eksitust"
+    },
+    {
+      "surface": "להריק",
+      "gloss": "et tühjendada"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hinge"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "näljase"
+    },
+    {
+      "surface": "ומשקה",
+      "gloss": "ja joogi"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "januse"
+    },
+    {
+      "surface": "יחסיר",
+      "gloss": "jätab ta puudu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:59.908613344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raige",
+      "rationale": "נבלה on ise surnud loom — 'ise kadunud' on eesti tavakeelne, 'raige' vanapäline"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuni õhtuni",
+      "rationale": "rituaalne ebapuhasus on ajastatud: päeva lõpuni"
+    }
+  ],
+  "translation": "Ja iga hing, kes sööb raagu või kiskumist, olgu põline või võõras, see pesku oma rõivad ja pesku ennast vees ning olgu rüve kuni õhtuni, siis on ta puhas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/17\/13-16.1792539441910.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja iga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "raagu"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "või kiskumist"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "põline"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "või võõras"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "see pesku"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "oma rõivad"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ja pesku ennast"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vees"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja olgu rüve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "õhtuni"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "siis on ta puhas"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:21.911226826Z",
+  "model": "glm-5.3"
+}

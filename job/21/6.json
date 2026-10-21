@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 21:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "eesti keel nõuab sidesõna, heebrea kasutab partitsiipkonstruktsiooni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mõtlen",
+      "rationale": "זכרתי on 'mäletan', tulevikuvaate mäletamine"
+    }
+  ],
+  "translation": "Ja kui ma mõtlen, siis ⟨olen⟩ jahmunud, ja õudus haarab minu liha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef790e8718d28fb3292fd97390fe9bc3013636d181d4c3ae1d89b4bab442cd47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/21\/5-8.1792555374195.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ma mõtlen"
+    },
+    {
+      "surface": "ונבהלתי",
+      "gloss": "jahmunud"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ja haarab"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "minu liha"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "õudus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:54.195742892Z",
+  "model": "glm-5.3"
+}

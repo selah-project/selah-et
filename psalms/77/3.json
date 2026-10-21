@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידי לילה נגרה",
+      "rationale": "'Mu käsi öösel välja valatud': kas käsi on sirutatud (palves) või voolab silm (JPS) — kummagi ei keela tekst"
+    },
+    {
+      "kind": "addition",
+      "subject": "lasta end",
+      "rationale": "Infinitivi konstruktsiooni נחם jaoks eesti keeles vajalik laiend"
+    }
+  ],
+  "translation": "Mu ahastuse päeval otsisin ma Adonaisid; mu käsi ⟨on⟩ öö välja valatud ja ei lõigu; mu hing keeldub ⟨lasta end⟩ lohutada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/1-4.1792553392636.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "mu ahastuse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaisid"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "otsisin ma"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käsi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "öö"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "välja valatud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "lõigu"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "keeldub"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "lohutada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:52.637769778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tänavail",
+      "rationale": "בחוצות sõna-sõnalt 'väljaspool', 'õuedel'; 'tänavad' on kontekstipõhine valik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ümberlõikamata",
+      "rationale": "הערלים on 'relvastatute' (täh. 'paljastatud')->{'lõikamata'}; kääritud kui omadussõna"
+    }
+  ],
+  "translation": "Ärge kuulutage Gatis, ärge teatage Ashkeloni tänavail, et ei rõõmutaks plištilaste tütred, et ei hõiskaks ümberlõikamata tütred.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/1\/17-20.1792544360097.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "kuulutage"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "teatage"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "tänavail"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et ei"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "rõõmutaks"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütred"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plištilaste"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et ei"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "hõiskaks"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütred"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "ümberlõikamata"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:20.100057395Z",
+  "model": "glm-5.3"
+}

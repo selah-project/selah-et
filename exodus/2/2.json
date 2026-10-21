@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeel 'on hea' jaoks; eesti keel nõuab selle."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותצפנהו",
+      "rationale": "Vorm koondab pealesse ja asesõna: 'ja peitis-teda' — üks sõna, eesti keeles kaheks."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm kuud",
+      "rationale": "Aja loendus: kolm kuu loomust."
+    }
+  ],
+  "translation": "Ja naine jäi rasedaks ja sünnitas poja, ja ta nägi teda, et ta ⟨on⟩ hea, ja peitis teda varjates kolm kuud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3160c3055f4b7fb737ec7f8b18e13aa9f9bc6f3d0c28f2342f9ad43ea18ef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/2\/1-4.1792538259265.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ja jäi rasedaks"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naine"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ja sünnitas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poja"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "ja peitis teda varjates"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "kuud"
+    }
+  ],
+  "timestamp": "2026-10-20T23:17:39.266012894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 12:24",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "süda",
+      "rationale": "לב on mõistuse ja tahe, mitte pelk tunnete asupaik; ASV 'võtab aru' — järgime sõna kuju 'süda'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tühjus",
+      "rationale": "תהו kui 1Ms 1:2 korratus — 'kõrb, kus pole teed'; mitte 'asustamata paik' üksi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתהו לא דרך",
+      "rationale": "Kõlav kordus vokaalidel (tohu \/ lo-derekh) — kõnekeelne pilt eksimisest teeta tühjuses."
+    }
+  ],
+  "translation": "Ta võtab maa rahva peadelt südame ja laseb neil eksida tühjuses, kus ⟨ei ole⟩ teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/21-24.1792555199744.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "võtab ära"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "peadelt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "ja laseb neil eksida"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "tühjuses"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "teed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:59.745754383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vihapahus",
+      "rationale": "אף on otseselt 'ninasõõrmed', idioom vihaks; 'pahus' säilitab kehaosa kaja"
+    },
+    {
+      "kind": "addition",
+      "subject": "sündis see",
+      "rationale": "היתה öeldis nõuab eesti keeles täiendust, mida heebrea jättis nimeta"
+    },
+    {
+      "kind": "crux",
+      "subject": "viimane lause",
+      "rationale": "kas Sidkijahu mäss põhjustas või järgnes pagendusele — heebrea עד sidumine on tõlkijatel vaidlusteemaks"
+    }
+  ],
+  "translation": "Sest Jahve vihapahuse tõttu ⟨sündis see⟩ Jerušalaimis ja Juudas, kuni ta nad oma palge eest ära heitis; ja Sidkijahu mässas Baabeli kuninga vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ee63cec80bc7787ee7ba87ba6f8918cf90a2296d933781515bf74d13fbb3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/52\/1-4.1792549517737.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "על",
+      "gloss": "tõttu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "vihapahus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨sündis see⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Juudas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "ta heitis ära"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nemad (Jerušalaim ja Juuda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "eest"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oma palge"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ja mässas"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkijahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Baabeli"
+    }
+  ],
+  "timestamp": "2026-10-21T02:25:17.739234846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ehkpoolt",
+      "rationale": "אולי on liitsõna 'o-või-jah'; eesti 'ehkpoolt' hoiab sõnatüve arhailise kõla"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti nõuab olemasoluverbi, heebrea יש on partikkel"
+    }
+  ],
+  "translation": "Ta pangu oma suu tolmusesse, ehkpoolt ⟨on⟩ lootust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5d51e442541d7b16619391804d868acaa74cdb5ff59829202d618b7afd3f88e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/29-32.1792555918715.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "pangu"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "tolmusesse"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "oma suu"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ehkpoolt"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "lootust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:58.715562090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 20:30",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "sõnasõnalt 'ja nina kuumenes' — heebrea viha idiom, eestis 'põles vihast'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בן נעות המרדות",
+      "rationale": "'perversse mässaja (naise) poeg' — ebaselge, kas נעות käib naise kohta (KJV 'woman') või on lihtord 'perversne mässaja' (JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשת \/ ערות",
+      "rationale": "saul ühendab 'häbi' ja 'paljastus' korduvalt — kordus jätab eesti keeles nõrgema jälje."
+    },
+    {
+      "kind": "you",
+      "subject": "Sauli kõne Joonatanile",
+      "rationale": "otsene solvav kõne: 'sa oled valinud… endale häbiks'."
+    }
+  ],
+  "translation": "Ja Sauli nina põles vihast Joonatani vastu, ja ta ütles talle: Sa perversse mässaja naisega sigitu poeg! Ega ma tea, et sa oled välja valinud Jišai poja endale häbiks ja ema häbitsa paljastuse häbiks?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/20\/29-32.1792544182076.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ja põles"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nina (vihast)"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ביהונתן",
+      "gloss": "Joonatani vastu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "perversse (naise)"
+    },
+    {
+      "surface": "המרדות",
+      "gloss": "mässaja"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "oled välja valinud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "poja"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišai"
+    },
+    {
+      "surface": "לבשתך",
+      "gloss": "endale häbiks"
+    },
+    {
+      "surface": "ולבשת",
+      "gloss": "ja häbiks"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "paljastuse"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "su ema"
+    }
+  ],
+  "timestamp": "2026-10-21T00:56:22.078636894Z",
+  "model": "glm-5.3"
+}

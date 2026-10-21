@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי הנה איביך ×2",
+      "rationale": "Korduv kolmikline hüüe — kogu fraas korratakse sõna-sõnalt, retooriline võimendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתפרדו",
+      "rationale": "Hifili 'lahutavad endid \/ lagunevad laiali' — KJV 'scattered', YLT 'separate themselves'; tegu on eneselahutamisega"
+    }
+  ],
+  "translation": "Sest vaata, sinu vaenlased, Jahve, sest vaata, sinu vaenlased hukkuvad, laiali lagunevad kõik, kes teevad pahatust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/9-12.1792553621854.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "sinu vaenlased"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "sinu vaenlased"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hukkuvad"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "laiali lagunevad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kes teevad"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahatust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:41.855168674Z",
+  "model": "glm-5.3"
+}

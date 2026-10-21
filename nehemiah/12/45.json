@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "nehemiah 12:45",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel vajab omastavat asesõna, heebreas liide -הם"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teenistus",
+      "rationale": "משמרת on otseselt 'valvamine, valves olemine', mitte teenistus"
+    },
+    {
+      "kind": "measurement",
+      "subject": "käsu järgi",
+      "rationale": "värs viitab Davidi ja Shelomo seatud korrale ja määrustele"
+    }
+  ],
+  "translation": "Ja nad pidasid oma Elohimi teenistust ja puhastamise teenistust, ja lauljad ja väravahoidjad, Davidi ja tema poja Shelomo käsu järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "398cdb4597e9ce9c9ae63dede15a3d7b260848815d1ca761e2f97b6f4c24cf2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/12\/45-47.1792557077828.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמרו",
+      "gloss": "Ja nad pidasid"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "teenistust"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oma Elohimi"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ja puhastamise teenistust"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "puhastamise"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "ja lauljad"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "ja väravahoidjad"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "käsu järgi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tema poja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:17.829472847Z",
+  "model": "glm-5.3"
+}

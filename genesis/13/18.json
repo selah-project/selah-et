@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma telgi",
+      "rationale": "verb אהל tähendab 'telkima'; eesti nõuab objekti, mis heebrea verbi sees juba peidus on"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלני ממרא",
+      "rationale": "tammid vs teenistuse tammik (KJV 'plain') vs terebintid — sõna אלון on tugev puu, tamm"
+    }
+  ],
+  "translation": "Ja Avram püstitas ⟨oma telgi⟩ ning tuli ja asus elama Mamre tammide juurde, mis on Hebronis; ja ehitas seal Jahvele altari.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/13\/17-18.1792537448837.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהל",
+      "gloss": "püstitas ⟨oma telgi⟩"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja asus elama"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "Mamre tammide juurde"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebronis"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja ehitas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:08.839007434Z",
+  "model": "glm-5.3"
+}

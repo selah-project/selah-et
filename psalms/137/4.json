@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võõral pinnasel",
+      "rationale": "על אדמת נכר is literally 'upon the soil of a foreigner'; Estonian compresses the construct into one phrase."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the reader",
+      "rationale": "Rhetorical question draws the hearer into the exiles' dilemma."
+    }
+  ],
+  "translation": "Kuidas laulda ⟨את⟩ Jahve laulu võõral pinnasel?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/137\/1-4.1792554297973.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Kuidas"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "laulda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve laulu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "võõral"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "pinnasel"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "võõra"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:57.974642399Z",
+  "model": "glm-5.3"
+}

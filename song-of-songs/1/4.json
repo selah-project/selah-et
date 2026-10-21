@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 1:4",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õiged",
+      "rationale": "מישרים on sõna-tükk: 'õigsed, otsekohesed' — JPS loeb kõrvuti 'sincerely', eelistatud otsetõlge"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Viis kuningas",
+      "rationale": "Perfekt võib olla ka soov: 'viigu kuningas mind' — paljud tõlkijad loevad sellesama jussiivina"
+    },
+    {
+      "kind": "you",
+      "subject": "armastatule",
+      "rationale": "Kogu salm on pöördumine teises isikus — 'tõmba mind', 'sinus', 'su armastusi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגילה ונשמחה",
+      "rationale": "Paariskõne — rõõm ja rõõm — ühine heebrea paralleelsus, mida eesti kahe sünonüümiga jäljendab"
+    }
+  ],
+  "translation": "Tõmba mind enese järel, jooksgem! Viis ⟨mind⟩ kuningas oma kambritesse — rõõmitseme ja ilutseme sinus, meenutame su armastusi veinist enam; õiged armastavad sind!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/1-4.1792555778521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכני",
+      "gloss": "Tõmba mind"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "enese järel"
+    },
+    {
+      "surface": "נרוצה",
+      "gloss": "jooksgem"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "viis ⟨mind⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "חדריו",
+      "gloss": "oma kambritesse"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "rõõmitseme"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ja ilutseme"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinus"
+    },
+    {
+      "surface": "נזכירה",
+      "gloss": "meenutame"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "su armastusi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "veinist enam"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "õiged"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "armastavad sind"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:38.522995447Z",
+  "model": "glm-5.3"
+}

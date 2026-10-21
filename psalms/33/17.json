@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימלט",
+      "rationale": "פעל 'olema libe' — 'päästma' nagu libedalt minema; pilt kaob eesti keeles"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ta",
+      "rationale": "subjektiks võib olla ka rabavägi (v16), mitte ainult hobune"
+    }
+  ],
+  "translation": "Vale on hobune päästmiseks, ja oma väe paljusest ei päästa ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/33\/17-20.1792552616933.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Vale"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "hobune"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "päästmiseks"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ja ... paljusest"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "oma väe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "päästa ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:56.933918528Z",
+  "model": "glm-5.3"
+}

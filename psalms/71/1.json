@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olemata",
+      "rationale": "Eesti jaatus eitusega nõuab täiendit, heebrea tekst ütleb lihtsalt 'ära lase mul iial häbistatud olla'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Psalter palub otse Jahvele"
+    }
+  ],
+  "translation": "Sinu juures, Jahve, olen varju võtnud; ärgem olgu ma iial häbistatud ⟨olemata⟩ igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/71\/1-4.1792553251159.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sinu juures"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "olen varju võtnud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärgem"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "olgu ma häbistatud"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:31.159689173Z",
+  "model": "glm-5.3"
+}

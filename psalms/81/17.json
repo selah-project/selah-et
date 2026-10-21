@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "teda",
+      "rationale": "Kausatiiv ויאכילהו kannab结束时 otstüve 'teda' sees; eraldi sõna lisatud selguseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "rasv \/ parim osa",
+      "rationale": "חלב tähendab nii 'rasva' kui 'parimat osa'; KJV 'finest of the wheat' vs otsene 'nisu rasv'"
+    }
+  ],
+  "translation": "Ja ta söötis ⟨teda⟩ nisu rasvast, ja kaljust mesi küllastaksin sind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/81\/17-17.1792553466768.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "ja ta söötis teda"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "rasvast"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ja kaljust"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "mesi"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "küllastaksin sind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:06.768493046Z",
+  "model": "glm-5.3"
+}

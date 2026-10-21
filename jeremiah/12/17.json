@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונתשתי \/ נתוש",
+      "rationale": "Sama juur נתש kordub — 'ma kitksen ... kitkudes' — heebrea kordus on eesti keeles taasesitatud."
+    },
+    {
+      "kind": "addition",
+      "subject": "siis",
+      "rationale": "Eesti keel vajab tingimuse ja tulemuse vahel sidet, heebreas vav viitab järjekorrale."
+    }
+  ],
+  "translation": "Aga kui nad ei kuuleku, siis ma kitkun ⟨את⟩ selle rahva ära, kitkudes ja hävitades, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3bf16125604b4b9b6242544935f485eac6e5a1b15f83f722058cc61b3aa4000a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/12\/17-17.1792548274319.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Aga kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kuuleku"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "siis ma kitksen ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle rahva"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "selle rahva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "kitkudes"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ja hävitades"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:04:34.319993831Z",
+  "model": "glm-5.3"
+}

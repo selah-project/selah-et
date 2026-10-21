@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחלו",
+      "rationale": "Pieli verb חלה 'hukkuma\/häda kandma' — 'siiralt paluma, meelitama' (KJV 'entreat') vs sõna-sõnaline 'hakkavad närbuma sinu näo pärast'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kingitusega",
+      "rationale": "מנחה on tavaliselt 'minha' (ohvriand); siin Tsoori andami tähenduses 'kingitus'."
+    },
+    {
+      "kind": "addition",
+      "subject": "on \/ sinu juures",
+      "rationale": "Heebrea tekst on katkendlik — KJV lisab 'shall be there'; eesti kõne vajab kopeeli ja koha."
+    }
+  ],
+  "translation": "Ja Tsoori tütar ⟨on⟩ kingitusega ⟨sinu juures⟩; rahva rikkad paluvad siiralt sinu nägu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/13-16.1792552862736.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ja tütar"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsoori"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "kingitusega"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sinu nägu"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "paluvad siiralt"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "rikad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:02.737586909Z",
+  "model": "glm-5.3"
+}

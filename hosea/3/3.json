@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nõnda⟩",
+      "rationale": "heebrea lause 'ja ka mina sinu suhtes' jätab tegusõna täitmata — lisatud mõisteline täide eesti keele nõudel"
+    },
+    {
+      "kind": "crux",
+      "subject": "וגם אני אליך",
+      "rationale": "JPS loeb 'aga mina ei ole sinu' (nimeluule puudumine); enamik loeb 'mina olen sinuga' — vastastikune ustavus"
+    }
+  ],
+  "translation": "Ja ma ütlesin temale: Palju päevi istud sa minu jaoks, sa ei hori ega ole ühelegi mehele, ja ka mina olen ⟨nõnda⟩ sinu suhtes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/3\/1-4.1792550954391.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja-ütlesin"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "temale"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "palju"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "istud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu-jaoks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "hori"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja-ei"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "ole"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ühelegi-mehele"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja-ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu-suhtes"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:14.394299050Z",
+  "model": "glm-5.3"
+}

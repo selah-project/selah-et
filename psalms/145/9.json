@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub öeldis; eesti keel vajab kopulat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב \/ לכל \/ כל",
+      "rationale": "Korduv 'kõik' seob Jahve headuse kogu loodusega"
+    }
+  ],
+  "translation": "Hea ⟨on⟩ Jahve kõigile, ja tema halastused ⟨on⟩ kõigi tema tegude kohal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/9-12.1792554358669.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ja tema halastused"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "tema tegude"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:58.670639287Z",
+  "model": "glm-5.3"
+}

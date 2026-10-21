@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהום אל תהום",
+      "rationale": "Kordus 'sügavus sügavusele' — kaja, mis jääb eesti keelde osaliselt"
+    },
+    {
+      "kind": "crux",
+      "subject": "צנוריך",
+      "rationale": "Sõnataselt 'veekäigud\/kulverdid' — KJV 'vesipursked', JPS 'kataraktid', ASV 'jugad'"
+    }
+  ],
+  "translation": "Sügavus kutsub sügavust sinu veekäikude hääle peale; kõik su lõokad ja su voolud on minust üle käinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/42\/5-8.1792552908219.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Sügavus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kutsub"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "sügavust"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "hääle peale"
+    },
+    {
+      "surface": "לקול",
+      "gloss": ""
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "sinu veekäikude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "su lõokad"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ja su voolud"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minust"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "üle käinud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:48.221339467Z",
+  "model": "glm-5.3"
+}

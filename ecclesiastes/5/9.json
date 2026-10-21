@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeruv verbi; eesti keel vajab ⟨on⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "õhkus",
+      "rationale": "הבל on sõna-sõnalt 'hingus, aur'; 'õhkus' kannab tüve tähenduse kõige lähemalt"
+    }
+  ],
+  "translation": "Hõbedat armastav ei saa hõbedast küllalt, ja kes rikkust armastab — ei tulu; ka see ⟨on⟩ õhkus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/5\/9-12.1792556072166.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "armastav"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "saa küllalt"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedast"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastab"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "rikkust"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tulu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "õhkus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:32.166620714Z",
+  "model": "glm-5.3"
+}

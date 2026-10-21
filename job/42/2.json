@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבצר",
+      "rationale": "'kinni peetud\/ette võetud' vs 'peidetud' — KJV 'withholden', Geneva 'hidde'; juur tähendab ka 'viinamarju korjama'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mõte",
+      "rationale": "מזמה on kava, nõu — sageli kurja kava; eesti üks sõna ei kanna mõlemat varjundit"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Iiobi kõne otse Jahvele"
+    }
+  ],
+  "translation": "Ma tean, et sina suudad kõik, ja mõtet ei saa sinu käest kinni pidada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/42\/1-4.1792555737524.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ma tean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "suudad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "saab kinni pidada"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinu käest"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "mõte"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:57.525110689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מר",
+      "rationale": "מֹר 'mürri' kõlab nagu מר 'kibe' — heebrea keeles on taimenimi juba kibedusega kõlav, eesti keeles see kaob"
+    },
+    {
+      "kind": "elision",
+      "subject": "נפתי",
+      "rationale": "Verbi põhitähendus on 'raputama\/väänama'; 'pihustama' on pihustuspudeli pilt, mitte täpne põhivorm"
+    }
+  ],
+  "translation": "Ma olen pihustanud mu voodit mürri, aaloepuidu ja kaneeliga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d3d23095c5c9abfb9fb97bc2f768a64465fa3c1f03dfa46a4615d3a0d992bf93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/7\/17-20.1792554553735.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ma olen pihustanud"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mu voodit"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mürri"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "aaloepuidu"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ja kaneeliga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:13.735971652Z",
+  "model": "glm-5.3"
+}

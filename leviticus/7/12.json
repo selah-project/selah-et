@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 7:12",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרבכת",
+      "rationale": "juur רבך esineb ainult siin: 'õliga lekkitud\/leotatud' (ASV\/JPS 'soaked') vs KJV 'fried'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רקיק",
+      "rationale": "'õhuke kook' — haruldane sõna, esineb vaid paiguti Tanahhis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "משחים",
+      "rationale": "juur משח on sama mis 'võima' — preestrite pühitsemise sõna siin leivakookide kohta"
+    }
+  ],
+  "translation": "Kui ta toob ⟨את⟩ seda tänuohvrina, siis toogu ta tänuohvri kõrval happemata kooke, õliga segatuna, ja happemata õhukesi kooke, õliga võiduna, ja peenjahust lekitud kooke, õliga segatuna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/7\/9-12.1792539151034.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "על",
+      "gloss": "tänuohvrina"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tänuohver"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "ta toob ⟨את⟩ seda"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "siis toogu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kõrval"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ohvri"
+    },
+    {
+      "surface": "התודה",
+      "gloss": "tänuohvri"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "kooke"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "happemata"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "õliga segatuna"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "õliga"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "ja õhukesi kooke"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "happemata"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "õliga võiduna"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "õliga"
+    },
+    {
+      "surface": "וסלת",
+      "gloss": "ja peenjahu"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "lekitud"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "kooke"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "õliga segatuna"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "õliga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:31.036079536Z",
+  "model": "glm-5.3"
+}

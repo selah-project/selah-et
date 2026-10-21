@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Eesti keel vajab demonstratiivi, heebrea ההוא on artikkel-ta näitav sõna, kuid tähendus on 'sel päeval'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lambad ja kitsed",
+      "rationale": "צאן on kollektiivne kari (leder ja kitseted); lause needs plural to fill the dual 'kaks'"
+    }
+  ],
+  "translation": "Ja sünnib ⟨see⟩ päeval: iga mees peab elus ühe noore lehma veistest ja kaks lammast ja kitsedest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "85073350a8c0d5da1c6ec0b8ea2a0e0060e10127b9001d99e876af1548692401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/7\/21-24.1792546764679.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja sünnib"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨see⟩"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "peab elus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iga mees"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "ühe noore lehma"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "veistest"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ja kaks"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lammast ja kitsedest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:39:24.679628926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "käte nõrgestamine",
+      "rationale": "Heebrea idiom 'nõrgestas ... käsi' = võttis jõu ja innu; eesti keeles jäetud sõna-sõnaliselt pildina."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "'Ja sündis' — tutvustav vorm, eesti keeles liidetus 'Ja' kaudu."
+    }
+  ],
+  "translation": "Ja maa rahvas nõrgestas Juuda rahva käsi ja hirmutas neid ehitamisel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/4\/1-4.1792556727827.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nõrgestas"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ja hirmutas"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ehitamisel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:27.829035891Z",
+  "model": "glm-5.3"
+}

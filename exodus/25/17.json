@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mõõdud",
+      "rationale": "Katte mõõdud: kaks ja pool küünart pikk, üks ja pool küünart lai."
+    },
+    {
+      "kind": "crux",
+      "subject": "kate",
+      "rationale": "כפרת: 'kate\/kaas' (JPS) vs 'patukattele' (armu-tool; halastus toimub selle kohal, 2Ms 25:22), mitte ese ise."
+    }
+  ],
+  "translation": "Ja sa teed kate puhtast kullast: kaks küünart ja pool selle pikkuseks ja üks küünar ja pool selle laiuseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/25\/17-20.1792538783285.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ja sa teed"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kate"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullast"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtast"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kaks küünart"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja pool"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "selle pikkuseks"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja üks küünar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja pool"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "selle laiuseks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:26:23.285784973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Tulge",
+      "rationale": "Samueli kutsuv imperatiiv koos kohortatiiviga 'läkskem'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "eesliide sulandub eesti ülevütavale käänele 'rahvale'"
+    }
+  ],
+  "translation": "Ja ütles Samuel rahvale: Tulge, ja läkskem Gilgali, ja uuestagem seal kuningriik.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1f1fde0d5ec174f8f34a4e78def9087bb04d624561bf242bc8d9900a2f01eb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/11\/13-15.1792543811475.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tulge"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ja läkskem"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgali"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "ja uuestagem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuningriik"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:11.477505725Z",
+  "model": "glm-5.3"
+}

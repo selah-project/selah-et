@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 32:19",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nina sadas tulist",
+      "rationale": "ויחר אף on lihavene idiom 'põles viha', otse 'kuumenes nina' — eesti keeles 'viha põles'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תחת ההר",
+      "rationale": "'mäe all \/ mäe jalamil' — mõned loevad otsekoheselt 'mäe all', teised 'mäe jalamil'"
+    }
+  ],
+  "translation": "Ja sündis, kui ta lähenedes laagrinne jõudis, et ta nägi ⟨את⟩ vasikat ja tantsud; ja Moše nina sadas tulist, ja ta heitis oma käest ⟨את⟩ tahvlid ja purustas need mäe jalamil.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/32\/17-20.1792538955928.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "lähenedes jõudis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "laagrini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vasikat"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "vasikat"
+    },
+    {
+      "surface": "ומחלת",
+      "gloss": "ja tantsud"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja sadas tulist"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ja ta heitis"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "oma käest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tahvlid"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "tahvlid"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja purustas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "tahvlid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "jalami all"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäe"
+    }
+  ],
+  "timestamp": "2026-10-20T23:29:15.929288108Z",
+  "model": "glm-5.3"
+}

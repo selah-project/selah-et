@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 14:4",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "eesti vajab kaksikverbi, heebreal puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שן",
+      "rationale": "sõna-sõnalt 'hammas' — kalju terav eend, kujund 'kaljuhammas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזה ... מזה",
+      "rationale": "korduv 'siit ... seal' peegeldab kahe kalju sümmeetriat"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kohanimed",
+      "rationale": "kahe kalju nimed: Botsets ja Seneh"
+    }
+  ],
+  "translation": "Ja ülekohukohtade vahel, kust Jonatan tahtis üle minna pelesti postile, ⟨oli⟩ kaljueend sellelt poolt siit ja kaljueend sellelt poolt seal; ja ühe nimi oli Botsets ja teise nimi Seneh.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/1-4.1792543981968.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "Ja ... vahel"
+    },
+    {
+      "surface": "המעברות",
+      "gloss": "ülekohukohtade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kust"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "tahtis"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "üle minna"
+    },
+    {
+      "surface": "על",
+      "gloss": "poole"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "postile"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelesti"
+    },
+    {
+      "surface": "שן",
+      "gloss": "eend"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kalju"
+    },
+    {
+      "surface": "מהעבר",
+      "gloss": "sellelt poolt"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "siit"
+    },
+    {
+      "surface": "ושן",
+      "gloss": "ja eend"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kalju"
+    },
+    {
+      "surface": "מהעבר",
+      "gloss": "sellelt poolt"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja ... nimi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "בוצץ",
+      "gloss": "Botsets"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja ... nimi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "teise"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "Seneh"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:01.971033786Z",
+  "model": "glm-5.3"
+}

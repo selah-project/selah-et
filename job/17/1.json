@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 17:1",
+  "book": "job",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeel; mitmus קברים jääb mitmuseks: 'hauad'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח ei ole 'vaim' üksi ega 'hing' — kõla järgi reeglina"
+    }
+  ],
+  "translation": "Minu ruahh on köidetud kokku, mu päevad on kustunud — hauad ⟨on⟩ mulle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2248aa7a076023bb4c064b517bc6ae11562bd355c3d0846e2c5431ac87dab4ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/17\/1-4.1792555342735.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "minu ruahh"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "on köidetud kokku"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mu päevad"
+    },
+    {
+      "surface": "נזעכו",
+      "gloss": "on kustunud"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "hauad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:22.736286265Z",
+  "model": "glm-5.3"
+}

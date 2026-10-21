@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valvamine",
+      "rationale": "משמרת on sama juur שמר 'valvama' — 'korraldus' kaotab pildi valvamisest"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rüvetama",
+      "rationale": "חלל on 'augu puurima, läbi torkama' → tühjendama pühadusest"
+    }
+  ],
+  "translation": "Ja nad peavad ⟨את⟩ minu valvamist, et nad ei kannaks selle pärast pattu ega sureks selle pärast, kui nad seda rüvetavad; mina olen Jahve, kes nad pühitseb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/22\/9-12.1792539500896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ja nad peavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu valvamine"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "minu valvamine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nad kannaksid"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "selle pärast"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "pattu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ega sureks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "selle pärast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "nad seda rüvetavad"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "kes nad pühitseb"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:20.897343020Z",
+  "model": "glm-5.3"
+}

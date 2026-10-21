@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 24:4",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea lisandlause puuduv verbi, eesti keel nõuab seda"
+    },
+    {
+      "kind": "idiom",
+      "subject": "katma oma jalgu",
+      "rationale": "להסך את רגליו on pehme väljend kehvaeoks puhkamiseks, sõna-sõnalt 'jalgu katma'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sügavustes",
+      "rationale": "בירכתי on sõna-sõnalt 'külgede' ehk sisemiste nurkade koha peal, 'külg' mitte 'sügavus'"
+    }
+  ],
+  "translation": "Ja ta tuli tee äärde lambaaedadeni, ja seal ⟨oli⟩ koobas; ja Saul läks sisse katma ⟨את⟩ oma jalgu, aga David ja tema mehed istusid koopa sügavustes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/24\/1-4.1792544212503.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "גדרות",
+      "gloss": "lambaaedadeni"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lamba-"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärsse"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja seal"
+    },
+    {
+      "surface": "מערה",
+      "gloss": "koobas"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "läks sisse"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "להסך",
+      "gloss": "katma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma jalgu"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "oma jalgu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "aga David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ja tema mehed"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "sügavustes"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "koopa"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "istusid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:56:52.504854858Z",
+  "model": "glm-5.3"
+}

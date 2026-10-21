@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 10:19",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea koopula puudub; eesti nõuab seda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחלה",
+      "rationale": "חלה 'haigeks jääma' passiiv siin: 'mu löök on teinud mu haigeks' — mitte 'pisar' (KJV 'grievous' põhineb tõlgendusel)."
+    }
+  ],
+  "translation": "Oi mind mu murru pärast! Mu löök ⟨on⟩ raskelt haavav, ja mina ütlesin: ainult see ⟨on⟩ mu haigus ja ma kannan ⟨seda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/10\/17-20.1792548301593.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Oi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שברי",
+      "gloss": "mu murru"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "⟨on⟩ raskelt haavav"
+    },
+    {
+      "surface": "מכתי",
+      "gloss": "mu löök"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja mina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ütlesin"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "mu haigus"
+    },
+    {
+      "surface": "ואשאנו",
+      "gloss": "ja ma kannan ⟨seda⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T02:05:01.595498811Z",
+  "model": "glm-5.3"
+}

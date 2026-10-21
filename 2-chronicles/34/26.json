@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 34:26",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keeles vajalik ondav kääne 'sõnade kohta ⟨on⟩', heebrea tekst pole lauset lõpule viinud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nõu küsima",
+      "rationale": "לדרוש ב teeb 'otsima \/ pärima Jahve käest'; eesti kaudküsimus 'Jahvelt nõu küsima'"
+    }
+  ],
+  "translation": "Ja Juuda kuningale, kes saatis ⟨את⟩ teid Jahvelt nõu küsima, öelge talle nii: nõnda ütleb Jahve, Jisraeli Elohim: sõnade kohta, mida sa kuulsid —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bfe03f4d35e4171b8b866c7b615c4d5de45299f643b0f28652a8d4636eed0009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/34\/25-28.1792558254956.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "kes saatis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "nõu küsima"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvelt"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "öelge"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sõnade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "sa kuulsid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:50:54.957922794Z",
+  "model": "glm-5.3"
+}

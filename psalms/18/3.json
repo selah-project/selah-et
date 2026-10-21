@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea loetleb nimed kopa-lausetena; eesti vajab sidesõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומצודתי",
+      "rationale": "מצוד tähendab nii 'võrk, püünis' kui 'kindlus' — siin 'kindlus', kuid pilt on kahepalgaline"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלע\/צור",
+      "rationale": "Kaks kivist kaitsemetafoori järjestikku — kalju ja klint; eesti keeles pilt veidi kahvartub"
+    }
+  ],
+  "translation": "Jahve ⟨on⟩ minu kalju ja minu kindlus ja minu päästja; minu El, minu klint, tema juurde põgenen peitu; minu kilp ja minu päästmise sarv, minu kõrglinnus ⟨on⟩ tema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/1-4.1792552401362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "minu kalju"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ja minu kindlus"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ja minu päästja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "minu klint"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "põgenen peitu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema juurde"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "minu kilp"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ja sarv"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "minu päästmise"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "minu kõrglinnus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:21.364055854Z",
+  "model": "glm-5.3"
+}

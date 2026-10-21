@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ענק",
+      "rationale": "Vorm on tegusõna 'kaelaehtega kaunistama' – uhkus ei ümbritse neid lihtsalt, vaid on nende kaela ümber pändud."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאוה\/חמס",
+      "rationale": "Kõrgust ja rõhumist kujutatakse riietuse ja ehtena – pahatahtlikkus kui uhkuse ehe, mida kandes ära ei peida."
+    }
+  ],
+  "translation": "Seepärast on uhkus nende kaelaehteks, vägivald riideb neile üle kui kuub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/5-8.1792553330499.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "on nende kaelaehteks"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "uhkus"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "riideb üle"
+    },
+    {
+      "surface": "שית",
+      "gloss": "kuub"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vägivald"
+    },
+    {
+      "surface": "למו",
+      "gloss": "neile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:50.500471188Z",
+  "model": "glm-5.3"
+}

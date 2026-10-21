@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teravilja",
+      "rationale": "דגן on 'teravili, grain' — mõned tõlked annavad 'leib', tekst ütleb teravili"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "manna nimi tuleb küsimusest 'mis see on?' (2Ms 16:15) — sõnamäng eesti keeles kadu"
+    }
+  ],
+  "translation": "Ja ta vihutas neile mannat söögiks ja andis neile taeva teravilja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/21-24.1792553423175.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Ja ta vihutas"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mannat"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "söögiks"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ja taeva teravilja"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andas"
+    },
+    {
+      "surface": "למו",
+      "gloss": "neile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:23.176621627Z",
+  "model": "glm-5.3"
+}

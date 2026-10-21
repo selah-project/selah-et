@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti jaatus ei ütle 'nad ON', kuid kõrvellause vajab jaatavat kätt — kaetud käsundi-jaatusega 'mõista'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lammutab",
+      "rationale": "יהרסם võib olla ka möödav tav ('olgu ta nad lammutanud'), kuid üldminev on tavalisem"
+    }
+  ],
+  "translation": "Sest nad ei mõista Jahve tegusid ega ta käte tööd; ta lammutab nad ega ehita neid üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/28\/5-8.1792552554010.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mõista"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "teguid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ega"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tööd"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ta käte"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "lammutab nad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ehita neid üles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:54.011688272Z",
+  "model": "glm-5.3"
+}

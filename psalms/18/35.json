@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחתה קשת נחושה זרועתי",
+      "rationale": "'ja vase-kaar on lastud alla mu käe poolt' — kes painutab keda: KJV 'murtud mu kätega', JPS 'mu käed painutavad'; võimalik ka 'saadetud alla mu käsivartele'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחושה",
+      "rationale": "'vask', mitte 'teras' (KJV 'steel')"
+    }
+  ],
+  "translation": "Kes õpetab mu käed sõjaks, ja mu käed painutavad vase-oda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c6f52b1643deb31ea4f32fb386e9b4bb7cdf6d29e43f81f4e24840cc80a4e2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/33-36.1792552370225.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Kes õpetab"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käed"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõjaks"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ja ... painutab alla"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "vase-oda"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "vase-"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mu käed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:50.227195276Z",
+  "model": "glm-5.3"
+}

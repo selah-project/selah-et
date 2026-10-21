@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kõrgendage... ja kummarduge",
+      "rationale": "Käskkõne kutsub kogudust üles Jahvet kõrgendama ja tema püha mäe ees kummarduma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשו \/ קדוש",
+      "rationale": "Salm avaneb ja sulgub juurega קדש: 'tema püha mägi' — 'püha on Jahve'; kordus seob kummardamise põhjusega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mäe ees",
+      "rationale": "Heebrea להר on lihtsalt 'mäe' peale\/ilma olla-tingimust; eesti renderdab kummardamise suuna eessõnaga 'ees'."
+    }
+  ],
+  "translation": "Kõrgendage Jahvet, meie Elohim, ja kummarduge tema püha mäe ees, sest püha on Jahve, meie Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8dda68d17645219ad927aa35bcd62768128258e2e667d0d4787e74b6284eaca3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/99\/9-9.1792553663255.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Kõrgendage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ja kummarduge"
+    },
+    {
+      "surface": "להר",
+      "gloss": "mäe ees"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tema püha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:23.255551065Z",
+  "model": "glm-5.3"
+}

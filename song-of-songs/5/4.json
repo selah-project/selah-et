@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sisemus",
+      "rationale": "מעי tähendab sõna-sõnalt 'soolikad, kõht'; eesti 'sisemus' kannab tunnete asupaiga ilma anatoomilise küljeeta."
+    },
+    {
+      "kind": "crux",
+      "subject": "החר",
+      "rationale": "'augu' kohta: kas ukseava võrestus (nagu ylt 'net-work') või ukseava ise; heebrea sõna tähendab õõnsust, pesaauku."
+    }
+  ],
+  "translation": "Mu armastatu pistis oma käe august sisse, ja mu sisemus ägises tema pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/1-4.1792555842067.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "mu armastatu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pistas"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "august"
+    },
+    {
+      "surface": "החר",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "ja mu sisemus"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ägises"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema pärast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:42.069085878Z",
+  "model": "glm-5.3"
+}

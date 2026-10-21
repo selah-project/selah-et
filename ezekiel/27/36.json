@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 27:36",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viletsid",
+      "rationale": "שרקו on vilistamine pilkena, eesti 'viletsid' ei anna pilke nüanssi täpselt"
+    },
+    {
+      "kind": "elision",
+      "subject": "am enam",
+      "rationale": "עד עולם sõna-o-tsõtt 'kuni peidiku punktini'; 'igavesesti' teeb nähtava kuju nähtamatuks"
+    }
+  ],
+  "translation": "Rahvaste kauplejad viletsid sinu üle; sa said õuduseks ja sind ei ole enam igavesesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4aa4de6490ad417fc154b3dc7cb75e7219225fd168ea7086a92ca3ded150d5bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/27\/33-36.1792550306023.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סחרים",
+      "gloss": "kauplejad"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "viletsid"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu üle"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "õuduseks"
+    },
+    {
+      "surface": "היית",
+      "gloss": "said"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "ja sind ei ole"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesesti"
+    }
+  ],
+  "timestamp": "2026-10-21T02:38:26.024789892Z",
+  "model": "glm-5.3"
+}

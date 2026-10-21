@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום jäetakse kõlajärgi; 'rahu' oleks liiga kitsas"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית ותקוה",
+      "rationale": "KJV 'expected end' vs JPS 'a future and a hope' — 'lõpp ja lootus' vs 'tulevik ja lootus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבות\/חשב",
+      "rationale": "sama juur kordub kolm korda; eesti 'mõte\/mõtlema' seda osaliselt kannatab"
+    }
+  ],
+  "translation": "Sest mina tunnen ⟨את⟩ mõtted, mida mina teie kohta mõtlen, ütleb Jahve: mõtted ⟨on⟩ šalom ja mitte õnnetuseks, et anda teile tulevikku ja lootust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "70c4a9a201890c3269109a2e9ea1c11cfe26ca9cbf69b90fda2072ffa419c458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/9-12.1792548722352.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tunnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mõtted"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "mõtted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mõtlen"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teie kohta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mõtted"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "õnnetuseks"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "et anda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tulevikku"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "ja lootust"
+    }
+  ],
+  "timestamp": "2026-10-21T02:12:02.353753667Z",
+  "model": "glm-5.3"
+}

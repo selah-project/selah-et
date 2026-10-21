@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaskahelad",
+      "rationale": "נחשתי tähendab sõna-sõnalt 'mu vask'; vask tähendab siin ahelaid (vangist ketid), 'vaskahel' hoiab mõlemad."
+    },
+    {
+      "kind": "addition",
+      "subject": "et",
+      "rationale": "Eesti keeles tuleb eitusega tagajärg seostada sidendi 'et' kaudu; heebrea ütleb lihtsalt 'ja mitte saa välja'."
+    }
+  ],
+  "translation": "Ta müüris mu ümber, et ma ei saa välja; ta tegi mu vaskahelad rasketuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/5-8.1792555884233.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "müüris"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mu ümber"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "saa välja"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "teg ... rasketuks"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "mu vaskahelad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:24.234785840Z",
+  "model": "glm-5.3"
+}

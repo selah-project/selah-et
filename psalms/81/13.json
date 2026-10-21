@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nurjus",
+      "rationale": "שרירות tähendab kangekäesust\/õelust; 'nurjus' hoiab negatiivse kõla"
+    },
+    {
+      "kind": "crux",
+      "subject": "käivad",
+      "rationale": "ypäristav kõneviis: minevik (saatsin) või tulevik; tõlgitud olevikuks 'käivad' kui kestev seisund"
+    }
+  ],
+  "translation": "Ja mina saatsin nad nende südame nurjuse järel, nad käivad oma nõupidamistes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/81\/13-16.1792553505398.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ja mina saatsin nad"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "nurjuses"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "nende süda"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nad käivad"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "oma nõupidamistes"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:45.399133365Z",
+  "model": "glm-5.3"
+}

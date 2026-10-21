@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצפרה",
+      "rationale": "tähendab 'kroon, pööre (saatus), koidik': KJV 'morning', ASV 'doom', JPS 'the turn' — valitud 'koidik' sõnast צפר kõla järgi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צץ\/פרח",
+      "rationale": "kaks õitsemisverbi (punguma\/puhkema) paralleelses kiasmis, taime pilt koos 'vitsaga'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "päev",
+      "rationale": "ähvardav 'päev' nimetatud, aga sisu hoitud kinni — heled väljendus"
+    }
+  ],
+  "translation": "Ennäe, päev! Ennäe, see tuleb! Välja läinud on ⟨koidik⟩, pungumas on vits, õitsema puhkenud on ülbus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/7\/9-12.1792549698332.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ennäe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ennäe"
+    },
+    {
+      "surface": "באה",
+      "gloss": "see tuleb"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "Välja läinud"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "⟨koidik⟩"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "pungumas"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "vits"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "õitsema puhkenud"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "ülbus"
+    }
+  ],
+  "timestamp": "2026-10-21T02:28:18.333542581Z",
+  "model": "glm-5.3"
+}

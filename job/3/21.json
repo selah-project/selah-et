@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaevavad",
+      "rationale": "חפר 'uurima, kaevama' — kujund: otsitakse surma nagu maasse kaevatud aaret"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ja seda ei tule",
+      "rationale": "ואיננו võib tähendada ka 'aga seda pole olemas'"
+    }
+  ],
+  "translation": "kes ootavad surma, aga seda ei tule, ja kaevavad selle järele nagu peidetud varanduste järele",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/3\/21-24.1792555087432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "kes ootavad"
+    },
+    {
+      "surface": "למות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "aga seda ei tule"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ja kaevavad selle järele"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "peidetud varanduste järele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:07.432993458Z",
+  "model": "glm-5.3"
+}

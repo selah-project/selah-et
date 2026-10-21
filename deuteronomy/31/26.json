@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעד",
+      "rationale": "Mõned loevad לְעֵד 'tunnistajaks', teised לְעוֹלָם 'igavesti'; kontekst (tunnistus rahva vastu) toetab 'tunnistajaks'."
+    },
+    {
+      "kind": "elision",
+      "subject": "בך",
+      "rationale": "Eesti ütlus liidab 'teie' sisse possessiivsena, heebrea etteütlemist 'in you' ei eraldata."
+    }
+  ],
+  "translation": "Võtke ⟨את⟩ selle Toora raamat ja pange ⟨את⟩ see Jahve, teie Elohimi lepingulao kõrvale, et see oleks seal teie tunnistajaks igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/31\/25-28.1792541284181.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Võtke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle Toora raamat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raamat"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Toora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ja pange"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ see",
+      "marks": "see"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "kõrvale"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "lao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja see olgu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "בך",
+      "gloss": "teie"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tunnistajaks igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T00:08:04.182367300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 20:23",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vihapõlemine",
+      "rationale": "חרון אף on otseselt 'ninasõõrmete põlemine' — viha heebrea kehakuju, eesti 'nina' ei mahu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "asesõna lisatud, tegevuse subjekt (Elohim\/Zofari kõneleja) jääb heebreas nimetamata"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלחומו",
+      "rationale": "'tema söögi peale' (KJV 'while he is eating') vs 'tema lihale' (JPS) — lemmal 'söögikraam\/liha' lubab mõlemat"
+    }
+  ],
+  "translation": "Olgu see kõhu täitmisel — saadab tema ⟨tema⟩ peale oma vihapõlemise ja vihmatab selle tema lihale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db800bc3ca48e67d197b38a81b34ba5ba82650fdb94e1cac5cf3bf382d5f5fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/23-24.1792558651906.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "täitmisel"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "kõhu"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "saadab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema ⟨tema⟩ peale"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "vihapõlemise"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "oma"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "ja vihmatab"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "selle"
+    },
+    {
+      "surface": "בלחומו",
+      "gloss": "lihale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:31.908598229Z",
+  "model": "glm-5.3"
+}

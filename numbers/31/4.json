@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tuhat iga suguharu kohta",
+      "rationale": "Salm loendab väeosade suuruse: 12 suguharust 12 tuhat meest."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלף למטה",
+      "rationale": "Fraas kordub täpselt kaks korda — heebrea rütmiline kordus, eesti keeles säilitatud."
+    }
+  ],
+  "translation": "Tuhat iga suguharu kohta, tuhat iga suguharu kohta — kõikide Jisraeli suguharude jaoks saadate ⟨את⟩ nad sõjaväeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e7c912896c21cacdddd03c4f8f40c4ef2b3087d4c364a8a49b59ff26ce1e1e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/31\/2-4.1792543662077.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "iga suguharu kohta"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "iga suguharu kohta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõikide"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "suguharude"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "saadate"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sõjaväeks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:47:42.081910527Z",
+  "model": "glm-5.3"
+}

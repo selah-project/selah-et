@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud, mitte kehalakku hing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר",
+      "rationale": "Juure tähendus 'kitsaks jääma, ahastama' annab nii 'ahastuse' kui 'kitsuse' pildi"
+    }
+  ],
+  "translation": "Ole mulle armuline, Jahve, sest kitsuses olen mina; vaevast on kahanenud mu silm, mu hing ⟨ja⟩ mu kõht.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21e5a0a01b61be25b7de9ab34374bae0c4876a2846f4b534e6e92c533057e93b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/10-11.1792558574776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ole armuline"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kitsuses"
+    },
+    {
+      "surface": "לי",
+      "gloss": "olen mina"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "on kahanenud"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "vaevast"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silm"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ja mu kõht"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:14.781524578Z",
+  "model": "glm-5.3"
+}

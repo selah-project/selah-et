@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sulgeb kõrva",
+      "rationale": "אטם tähendab otseselt 'sulguma' (huuled, kõrvad); eesti keeles lisandub omandisõna 'oma'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא\/יענה",
+      "rationale": "salm ehitab vastanduseks hüüa–vastata; see, kes ei vastanud, ei saa vastust"
+    }
+  ],
+  "translation": "Kes sulgeb oma kõrva vaese karjatuse eest, see ka ise hüüab, ja talle ei vastata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/13-16.1792554863690.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "sulgeb"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "oma kõrva"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "karjatuse eest"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ise"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "hüüab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "vastata"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:23.690786787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 2:7",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti nõuab sidesõna nime-ahelas, heebrea lihtsalt asetab: 'tema — Ester'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמן",
+      "rationale": "juure tähendab 'kasvatada, hoideksolevat toita' — mitte lihtsalt 'tooma üles'"
+    },
+    {
+      "kind": "crux",
+      "subject": "דדו",
+      "rationale": "דוד = 'onu'; traditsioon loeb osuti Mordehai onule, mitte Esterile endale"
+    }
+  ],
+  "translation": "Ja tema kasvatas ⟨את⟩ Hadassat — tema ⟨on⟩ Ester, oma onu tütart, sest tal ei olnud isa ega ema; ja nooruke oli kaunis kujult ja hea näolt; ja tema isa ja ema surma järel võttis Mordehai tema enesele tütreks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89b2eb1fd88fcb2017c4cb8b0e1773aa292f2ea0e2d4fc01de471c62c9b9153e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/2\/5-8.1792556201427.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "kasvatas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadassat"
+    },
+    {
+      "surface": "הדסה",
+      "gloss": "Hadassat"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "tema onu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei olnud"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tal"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ega ema"
+    },
+    {
+      "surface": "והנערה",
+      "gloss": "ja nooruke"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "kaunis"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "kujult"
+    },
+    {
+      "surface": "וטובת",
+      "gloss": "ja hea"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "näolt"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "ja surma järel"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tema isa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja ema"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "võttis"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "tütreks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:41.428930391Z",
+  "model": "glm-5.3"
+}

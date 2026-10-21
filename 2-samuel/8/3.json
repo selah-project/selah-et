@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להשיב ידו בנהר",
+      "rationale": "'Tagasi tuua oma käe Jõe äärde': KJV 'piiri taastama', YLT 'võimu tagasi tooma', LXX-l 'käe vastu' — idioom valitsusvõimust Eufrati piiril."
+    },
+    {
+      "kind": "substitution",
+      "subject": "käsi",
+      "rationale": "יד tähendab siin võimu, mitte kehaosa; 'oma kätt' on sõnasõnaline pilt võimust."
+    }
+  ],
+  "translation": "Ja David lõi ⟨את⟩ Hadadezeri, Rehobi poja, Tsooba kuninga, kui tema läks tagasi tooma oma kätt Jõe äärde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/8\/1-4.1792544557484.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Ja lõi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poja"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsooba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "kui tema läks"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "tagasi tooma"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma kätt"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "Jõe äärde"
+    }
+  ],
+  "timestamp": "2026-10-21T01:02:37.489690692Z",
+  "model": "glm-5.3"
+}

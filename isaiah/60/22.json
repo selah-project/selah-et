@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 60:22",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tuhandeks",
+      "rationale": "arvuline vastandus: väike → tuhat, vähene → võiv rahvas"
+    },
+    {
+      "kind": "crux",
+      "subject": "kiirutan seda",
+      "rationale": "אחישנה pi'el: 'ma kiirustan seda' — KJV 'will hasten it' vs 'seda kiiresti teen'; חושש tähendab nii rutata kui agaralt ära teha"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הקטן \/ הצעיר",
+      "rationale": "kaks peaaegu sünonüümset sõna 'väike' ja 'noor-väike' rööpvõrdluses, eesti keeles eristatud 'vähene\/tasane'"
+    }
+  ],
+  "translation": "Vähene saab tuhandeks ja tasane võivaks rahvaks; mina, Jahve, kiirustan seda tema ajal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/60\/21-22.1792547745063.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקטן",
+      "gloss": "vähene"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "tuhandeks"
+    },
+    {
+      "surface": "והצעיר",
+      "gloss": "ja tasane"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "rahvaks"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "võivas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "tema ajal"
+    },
+    {
+      "surface": "אחישנה",
+      "gloss": "kiirustan seda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:55:45.064576128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valguvad ära",
+      "rationale": "יזובו tähendab voolama\/valguma; enamus tõlkeid pehmendab 'näägutama', kuju kaob"
+    },
+    {
+      "kind": "crux",
+      "subject": "שדי",
+      "rationale": "Siin on שָׂדֶה 'põld' (mitmus שָׂדֶי), mitte Šaddai — hoolitse, et mitte Name muutuks"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מדקרים",
+      "rationale": "Võib ka 'näljaperetud' (דקר kaudselt nälgima), kuid 'läbistatud' hoiab pildi"
+    }
+  ],
+  "translation": "Toremad olid mõõga läbi läbistatud kui nälga läbi läbistatud, sest need valguvad ära, nugade läbi, põldude saagist ⟨ilma⟩ jäänult.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/9-12.1792555991351.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Toremad olid"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olid"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "läbistatud"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "kui ... läbistatud"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälga"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "need"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "valguvad ära"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "nugade läbi"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "saagist"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "põldude"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:11.352185590Z",
+  "model": "glm-5.3"
+}

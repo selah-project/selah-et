@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kõigekõrgem",
+      "rationale": "עליון on tiitel 'Kõrgeim'; 'Kõigekõrgem' kui literaalne tõlge"
+    },
+    {
+      "kind": "elision",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeles 'on olemas'; jõe olemasolu jääb nimetatav-asetamata kujule"
+    }
+  ],
+  "translation": "Jõgi — tema ojad rõõmustavad Elohimi linna, Kõigekõrgema miškanite püha paiga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/46\/5-8.1792552853506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "jõgi"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "tema ojad"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "rõõmustavad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "miškanite"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Kõigekõrgema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:53.507501255Z",
+  "model": "glm-5.3"
+}

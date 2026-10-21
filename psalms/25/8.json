@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub kopula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יורה",
+      "rationale": "Juur ירה tähendab ka 'vihma sadestama' — 'kallutab\/ suunab patuseid teele'; õpetamine on kaudne tähendus"
+    }
+  ],
+  "translation": "Hea ja õige ⟨on⟩ Jahve; seepärast õpetab ta patuseid teele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/25\/5-8.1792552508908.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ja õige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "selles"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tõttu"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "õpetab"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "patuseid"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:08.909640182Z",
+  "model": "glm-5.3"
+}

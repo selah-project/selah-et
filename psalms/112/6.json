@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea jätab subjekti ära; eelmise salmi 'hea mees' kandub edasi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם \/ עולם",
+      "rationale": "'iialgi' ja 'igaveseks' kordavad sama sõna עולם kaks korda, eesti keeles kaks erinevat sõna"
+    }
+  ],
+  "translation": "Sest iialgi ta ei kõigu: mälestuseks igaveseks ⟨on⟩ õige.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/112\/5-8.1792553990309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iialgi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "kõigu"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "mälestuseks"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:50.310669526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tulijad⟩",
+      "rationale": "ואחריהם tähendab sõna-sõnalt 'ja pärast neid' — nimisõna lisan eesti keele nõudel"
+    },
+    {
+      "kind": "crux",
+      "subject": "בפיהם",
+      "rationale": "Kelle suu — rumalate oma või nende järeltulijate oma? Tõlkijad lahku lähevad"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למו",
+      "rationale": "Arhailine partikkel, poeetiline 'neile'"
+    }
+  ],
+  "translation": "See on nende tee, nende endi rumalus neile, ja pärast neid ⟨tulijad⟩ kiidavad nende suuga heaks. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/13-16.1792553019828.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "See"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "nende tee"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "rumalus"
+    },
+    {
+      "surface": "למו",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ja pärast neid ⟨tulijad⟩"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nende suuga"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "kiidavad heaks"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:39.830192296Z",
+  "model": "glm-5.3"
+}

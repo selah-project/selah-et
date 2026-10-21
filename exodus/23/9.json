@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingehamu",
+      "rationale": "נפש on kurgu\/hingamise elujõud, mitte 'süda' nagu tõlked ütlevad"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/גרים",
+      "rationale": "võõras — võõrad kordus, õigustus on ise kogenud võõrus"
+    }
+  ],
+  "translation": "Ja võõrast ära suru; ja teie — te teate võõra ⟨את⟩ hingehamu, sest te olite võõrad Mitsraimi maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/23\/9-12.1792538646003.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Ja võõrast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "suru"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja teie"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "te teate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "võõra hingehamu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hingehamu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "võõra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "võõrad"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "te olite"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:06.004019515Z",
+  "model": "glm-5.3"
+}

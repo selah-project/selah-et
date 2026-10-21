@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 1:49",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Eesti keel nõuab sidesõna, heebrea lühike väljend 'kõik kutsutud, kes Adonijale' seda ei oma."
+    },
+    {
+      "kind": "idiom",
+      "subject": "איש לדרכו",
+      "rationale": "Otse: 'iga mees oma teele' — eesti kommet 'läksid igaüks oma teed'."
+    }
+  ],
+  "translation": "Ja nad vapisesid ja tõusid kõik kutsutud, kes ⟨olid⟩ Adonija juures, ja läksid igaüks oma teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe0f6e8b22efe7528923b5ba13af46455edf6be4fc7d7c3abc22c6da205efe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/1\/49-52.1792545129398.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרדו",
+      "gloss": "ja nad vapisesid"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ja tõusid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הקראים",
+      "gloss": "kutsutud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonija juures"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja läksid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "oma teed"
+    }
+  ],
+  "timestamp": "2026-10-21T01:12:09.398965151Z",
+  "model": "glm-5.3"
+}

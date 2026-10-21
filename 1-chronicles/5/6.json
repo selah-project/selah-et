@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koopula; eesti keel nõuab selle."
+    },
+    {
+      "kind": "crux",
+      "subject": "Tiglat-Pilneser",
+      "rationale": "Heebrea kirjapilt תִּלְגַּת פִּלְנְאֶסֶר erineb akadi kujust Tiglath-Pileser; koopiaid mitu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "viis asumisele",
+      "rationale": "הגלה on pagendama, eesti 'viis asumisele' annab teistsuguse pildi."
+    }
+  ],
+  "translation": "Beera tema poeg, kelle viis asumisele Tiglat-Pilneser, Assuri kuningas; tema ⟨oli⟩ Ruubeni järeltulijate vürst.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8a811349c470df94a1630eafe915d275481776e998ed103960b95a3956879415",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/5\/5-8.1792557212035.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "Beera"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tema poeg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "viis asumisele"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Tiglat-"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Pilneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Assuri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vürst"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Ruubeni järeltulijate"
+    }
+  ],
+  "timestamp": "2026-10-21T04:33:32.036678531Z",
+  "model": "glm-5.3"
+}

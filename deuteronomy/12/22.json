@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הטמא והטהור",
+      "rationale": "tähendab rituaalselt ebapuhast ja puhast isikut, mitte looma — metsloomaliha ei tee rituaalselt ebapuhaseks"
+    }
+  ],
+  "translation": "Ainult nagu süüakse ⟨את⟩ gaselli ja ⟨את⟩ hirve, nõnda võid sa seda süüa; ebapuhas ja puhas võivad seda üheskoos süüa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/12\/21-24.1792540882831.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "süüakse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaselli"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gaselli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hirve"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hirve"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "võid sa seda süüa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ebapuhas"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ja puhas"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "võivad seda süüa"
+    }
+  ],
+  "timestamp": "2026-10-21T00:01:22.832216500Z",
+  "model": "glm-5.3"
+}

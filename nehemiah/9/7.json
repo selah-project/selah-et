@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "maalt",
+      "rationale": "מאור כשדים on lülitõlgitud 'Uur, Kasdimi (maa)'; eesti keel vajab ⟨maalt⟩, et näidata lahkumise kohta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nime vahetus",
+      "rationale": "Salm märgib teadlikult nime muutmist Avram → Avraham, koguduse ajaloo järjest loetelu osa."
+    }
+  ],
+  "translation": "Sina ise ⟨oled⟩ Jahve, Elohim, kes valisid Avrami ja tõid tema välja Uurist, kaldealaste ⟨maalt⟩, ja panid tema nimeks Avrahami.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1a23b9be2646ea2f1cf4a2339278612ef899c9cdd93fa5e33495f2af27513f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/9\/5-8.1792557000005.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "valisid"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avrami"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "ja tõid tema välja"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "Uurist"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldealaste maalt"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ja panid"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nime"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamiks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:30:00.006759763Z",
+  "model": "glm-5.3"
+}

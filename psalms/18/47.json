@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on · olgu",
+      "rationale": "Heebrea nimiväljendilauses puuduvad koppelverbid, eesti keeles vajalikud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צורי",
+      "rationale": "Otseselt 'mu kaljupõrk'; 'kalju' hoiab pildi, 'kaljupõrk' oleks täpsem."
+    }
+  ],
+  "translation": "Elav on Jahve ja kiidetud mu kalju, ja kõrgendatud olgu mu päästmise Eloah.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/45-48.1792552376698.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Elav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ja kiidetud"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "ja kõrgendatud olgu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mu päästmise"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:56.700088693Z",
+  "model": "glm-5.3"
+}

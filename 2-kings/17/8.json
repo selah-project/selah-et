@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mida nemad olid teinud",
+      "rationale": "אשר עשו: KJV 'kuningate põhimõtted, mida nad (kuningad) olid teinud' vs tõlgendus 'mida nemad (Jisrael) olid teinud' — asesõna viit on ebamäärane."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨järgi⟩",
+      "rationale": "Eesti keel vajab teist 'järgi käimise' konstruktsiooni juures sõna, mida heebrea tekst ei korda."
+    }
+  ],
+  "translation": "Ja nad käisid rahvaste põhimõtete järgi, keda Jahve oli Jisraeli poegade eeslidemilt ära ajanud, ja Jisraeli kuningate ⟨järgi⟩, mida nemad olid teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/17\/5-8.1792546287627.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ja nad käisid"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "põhimõtete järgi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "oli ära ajanud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "eeslidemilt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ja kuningate"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olid teinud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:31:27.668748368Z",
+  "model": "glm-5.3"
+}

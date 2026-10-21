@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעיון רוח",
+      "rationale": "'ruahhi piinamine' vs 'tuule tagaajamine' (asv\/jps) vs 'vaimu vaev' (kjv); רעיון tähendab püüdlust\/ahastust, רוח on tuul\/ruahh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meeletust ja narritust",
+      "rationale": "הוללות ja שכלות on kaks erinevat sõna: meeletus \/ hullus ja narrus \/ lollus"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Heebrea rõhuline asesõna הוא nõuab eesti keeles kordust"
+    }
+  ],
+  "translation": "Ja andsin oma südame tundma tarkust ning tundma meeletust ja narritust; mõistsin, et ka see on ruahhi piinamine.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/17-18.1792555984295.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ja andsin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "oma südame"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tundma"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ja tundma"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "meeletust"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "ja narritust"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mõistsin"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "et ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨see⟩"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "piinamine"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahhi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:04.296316270Z",
+  "model": "glm-5.3"
+}

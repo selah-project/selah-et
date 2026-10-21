@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopeeruv verb; היא rõhutab käsku, eesti keel vajab kopulat"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "ütlusega renderdatud sissejuhatav otsekui kõne marker"
+    }
+  ],
+  "translation": "Ja nad vaikisid ega vastanud talle sõnagi, sest kuninga käsk oli: ärge vastake talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/36\/21-22.1792547226511.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ja nad vaikisid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "vastanud"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sõnagi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõnagi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käsk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "היא",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ütlusega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "vastake talle"
+    }
+  ],
+  "timestamp": "2026-10-21T01:47:06.512076770Z",
+  "model": "glm-5.3"
+}

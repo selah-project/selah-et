@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בדמעה \/ ברנה",
+      "rationale": "korduv ב…-kõlavõrdlus: pisarate sees külvata, hõiskamise sees lõigata — rööpstruktuur"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברנה",
+      "rationale": "sõna tähendab krigistavat, kõrget häält — nii rõõm kui nutt; siin rõõmuhõisk"
+    }
+  ],
+  "translation": "Külvajad pisarate sees lõikavad hõiskamise sees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1463c9e58546f1aba4e5cd25b89439d43fbe2911171d2f9ada8db4f54e962d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/126\/5-6.1792554202517.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "külvajad"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "pisarate sees"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "hõiskamise sees"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "lõikavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:22.517747665Z",
+  "model": "glm-5.3"
+}

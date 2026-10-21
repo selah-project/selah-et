@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koprula; אמונה on predikatiivne nimisõna 'kindel usaldusväärsus'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "šeker",
+      "rationale": "רדפוני שקר võib tähendada nii 'nad taga ajasid mind valetuga' kui 'asjatult' — eesti 'valuga' hoiab esimese"
+    }
+  ],
+  "translation": "Kõik su käsud ⟨on⟩ usaldusväärsed; valuga nad mind taga ajasid; aita mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/85-88.1792554042986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "su käsud"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "⟨on⟩ usaldusväärsed"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valuga"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "nad mind taga ajasid"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "aita mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:42.986824498Z",
+  "model": "glm-5.3"
+}

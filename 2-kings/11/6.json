@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסח",
+      "rationale": "Hapax: 'tõke\/keelposterivi' (ASV 'be a barrier') vs KJV 'et see ei laguneks' vs YLT 'lammutatud'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסח",
+      "rationale": "Sõna esineb Tanahhis ainult siin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרצים",
+      "rationale": "Sõna-sõnalt 'jooksjad' — kuninglik elukaitse; KJV 'valve'.",
+      "kind_placeholder": 0
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kui⟩",
+      "rationale": "Eesti kõneviis nõuab võrdluse sidesõna, heebreas puudub."
+    }
+  ],
+  "translation": "ja kolmandik Suuri väravas, ja kolmandik värava taga jooksikute juures, ja teie peate valvama ⟨את⟩ koja valveposti ⟨kui⟩ tõket.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/5-8.1792546130550.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "ja kolmandik"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "väravas"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Suur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ja kolmandik"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "värava taga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "taga"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "jooksikutest"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja teie peate valvama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koja valveposti"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "valvepost"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "⟨kui⟩ tõke"
+    }
+  ],
+  "timestamp": "2026-10-21T01:28:50.552615184Z",
+  "model": "glm-5.3"
+}

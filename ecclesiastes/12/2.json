@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "Heebrea 'enne kui... mitte pimene' on eesti keeles loomulikum lihtsa 'enne kui pimenevad' kaudu; mitmus jääb märkimata"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kogu salm",
+      "rationale": "Vanaduse allegooria: taehevalgus ja pilved kannavad varjatud tähendust, mida tekst otse ei avalda"
+    }
+  ],
+  "translation": "enne kui pimenevad päike ja valgus ja kuu ja tähed, ja pilved tulevad tagasi pärast vihma",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/12\/1-4.1792556157330.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "enne kui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "pimenevad"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päike"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ja valgus"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ja kuu"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ja tähed"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja tulevad tagasi"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "pilved"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "vihma"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:57.331619950Z",
+  "model": "glm-5.3"
+}

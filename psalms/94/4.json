@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עתק",
+      "rationale": "Sõna 'jultunud (kõne)' on Tanahhis äärmiselt haruldane; tähendus põhineb juurel 'kangekaelne\/vägev'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kiitlevad end üles",
+      "rationale": "יתאמרו on Hithpael vorbist אמר 'ötlema' — 'nad teevad end suureks', mitte lihtsalt 'räägivad'"
+    }
+  ],
+  "translation": "Nad purskavad välja, nad räägivad jultunud juttu, kõik pahategijad kiitlevad end üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/94\/1-4.1792553674907.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "nad purskavad välja"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nad räägivad"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "jultunud juttu"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "kiitlevad end üles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pahategijad"
+    },
+    {
+      "surface": "און",
+      "gloss": "paha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:34.909590436Z",
+  "model": "glm-5.3"
+}

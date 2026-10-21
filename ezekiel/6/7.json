@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "heebrea puudub kopolula 'et mina Jahve', eesti keel nõuab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tapetud",
+      "rationale": "חלל tähendab sõna-sõnalt 'läbistatu', läbistatult surnu"
+    }
+  ],
+  "translation": "Ja langeb tapetud teie keskel, ja teie teate, et mina ⟨olen⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/6\/5-8.1792549590517.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "Ja langeb"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "tapetud"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "teie keskel"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ja teie teate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:26:30.519591845Z",
+  "model": "glm-5.3"
+}

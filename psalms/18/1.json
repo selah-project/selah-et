@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koorijuhataja",
+      "rationale": "למנצח sõna-sõnalt 'särivaimale\/eesseisjale'; muusikaline amet, mitte 'võitjale'"
+    },
+    {
+      "kind": "elision",
+      "subject": "lamed-eeisisaldus",
+      "rationale": "לדוד 'Davidi jaoks \/ Davidi poolt' — eesti peab valima ühe"
+    }
+  ],
+  "translation": "Koorijuhatajale. Jahve teenri, Davidi jaoks, kes rääkis Jahvele ⟨את⟩ selle laulu sõnad päeval, mil Jahve päästis tema kõigi tema vaenlaste käest ja Sauli käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/1-4.1792552401362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koorijuhatajale"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "teenile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle laulu sõnad"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sõnad"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "selle"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "päästis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨teda⟩"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "käest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "tema vaenlaste"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ja käest"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:21.363193593Z",
+  "model": "glm-5.3"
+}

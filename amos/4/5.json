@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 4:5",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נקיון שנים vs מחמץ תודה",
+      "rationale": "Järgmise salmi 'hammaste puhtus' tähendab nälga; siin hoopis hapestatud tänutalu — Toora ei nõudnud hapnemata leiba tänutalu puhul (3Ms 7:13)."
+    },
+    {
+      "kind": "irony",
+      "subject": "käsud",
+      "rationale": "Sarjiline käsuvorm jätkab 4:4 sarkasmi: 'tulge ja rikkuge' — kõik käsud on kelmuse kutse, mitte tõeline jumalateenistus."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli lapsed",
+      "rationale": "Otsene pöördumine Jisraeli poegadele."
+    }
+  ],
+  "translation": "Ja auruta hapatud tänutalu ja kutsuge välja vabatahtlikke ande, kuulutage ⟨neid⟩, sest nõnda te olete armastanud, Jisraeli lapsed, ütleb Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "01788a73c3911aba3f095390bfb732025a645c717b7074fc86890dd3e1b34069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/4\/5-8.1792551365086.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקטר",
+      "gloss": "ja auruta"
+    },
+    {
+      "surface": "מחמץ",
+      "gloss": "hapatud"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tänutalu"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ja kutsuge välja"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "vabatahtlikke ande"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "kuulutage"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "te olete armastanud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:56:05.087647806Z",
+  "model": "glm-5.3"
+}

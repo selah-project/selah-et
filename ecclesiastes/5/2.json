@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברב…ברב",
+      "rationale": "Korduv 'paljudest' seob unenäo ja rumala hääle parallelismiks."
+    },
+    {
+      "kind": "alternative",
+      "subject": "tegemistest",
+      "rationale": "ענין võib tähendada ka 'muret\/ahastust' — 'paljust muret' oleks teine lugem."
+    }
+  ],
+  "translation": "Sest unenägu tuleb paljudest tegemistest ja rumala hääl paljudest sõnadest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/5\/1-4.1792556104692.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "unenägu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljudest"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "tegemistest"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ja hääl"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "rumala"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "paljudest"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sõnadest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:04.693706590Z",
+  "model": "glm-5.3"
+}

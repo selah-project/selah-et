@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ammenduvad",
+      "rationale": "ונשתו tavaliselt 'häbenema', siin veest 'kuivama\/otsa saama' — kaks tähendust ühes juures"
+    },
+    {
+      "kind": "crux",
+      "subject": "jõgi",
+      "rationale": "הנהר üksikartikliga tähendab tõenäoliselt Niilust, kuid tekst ise nime ei ütle"
+    }
+  ],
+  "translation": "Ja veed ammenduvad merest, ja jõgi langeb kuivaks ja närbub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/5-8.1792546900877.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ammenduvad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "merest"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ja jõgi"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "langeb kuivaks"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ja närbub"
+    }
+  ],
+  "timestamp": "2026-10-21T01:41:40.877538092Z",
+  "model": "glm-5.3"
+}

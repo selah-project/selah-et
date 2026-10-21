@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "minema",
+      "rationale": "Eesti keel vajab,resultatiivi täiendit; heebrea ותשליכני ütleb lihtsalt 'ja heitsid mind (maha)'."
+    },
+    {
+      "kind": "crux",
+      "subject": "tõstsid mind üles",
+      "rationale": "נשאתני võib tähendada nii 'tõstsid' kui 'kandsid (ära)'; tõusu-languse kaja jääb eestisõnas säilima."
+    }
+  ],
+  "translation": "Sinu pahameele ja su raevu pärast, sest sina tõstsid mind üles ja põrkasid mind minema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/9-12.1792553689776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "sinu pahameele"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ja su raevu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "tõstsid mind üles"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "põrkasid mind minema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:49.777089137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tohi",
+      "rationale": "Eesti keele jaoks lisatud abiverb, heebreas lihtne keeld 'ei süüa'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המלאים",
+      "rationale": "'käetäitmised' (järjekord pühitsemiseks); esitatud kui 'pühitsemise'"
+    }
+  ],
+  "translation": "Ja kui jääb üle midagi pühitsemise lihast või leivast hommikuni, siis põletad sa ⟨את⟩ jäägi tulega; seda ei tohi süüa, sest püha see on.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/29\/33-36.1792538825955.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "jääb üle"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "lihast"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "pühitsemise"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "või"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "leivast"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "hommikuni"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "siis põletad sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jäägi"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "jäägi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tohi süüa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see on"
+    }
+  ],
+  "timestamp": "2026-10-20T23:27:05.956208803Z",
+  "model": "glm-5.3"
+}

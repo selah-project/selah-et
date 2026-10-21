@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת",
+      "rationale": "Tähistähendus 'lõikama' tähendab idioomina 'lepingut sõlmima' — eesti keeles jääb 'lõikma' pilt kaduma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בארון",
+      "rationale": "Laegas: karp (ערון) on kirst, aga eesti traditsioon öeldaks 'laegas'; 'karp' oleks täpsem."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaks tahvlit",
+      "rationale": "Loetletakse laeka sisu täpselt: ainult kaks kivistahvlit."
+    }
+  ],
+  "translation": "Laekas ⟨ei olnud⟩ midagi, ainult kaks kivistahvlit, mille Moše oli sinna jätnud Hoorebis, kui Jahve sõlmis lepingu Jisraeli poegadega nende väljumisel Mitsraimi maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/8\/9-12.1792545286851.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei olnud midagi"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "laekas"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "tahvlit"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kivist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "oli jätnud"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Hoorebis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "sõlmis lepingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegadega"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "nende väljumisel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:14:46.852864223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "näo äratundmine",
+      "rationale": "הכר פנים on 'näo äratundmine', osalisuse näitamine kohtus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פת לחם",
+      "rationale": "פת 'paluke' + לחם 'leib' — väikseim möjutus, mis inimest ära ostab"
+    }
+  ],
+  "translation": "Näo äratundmine ei ole hea, ja leivapalukese pärast teeb mees üleastumise.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0b790fbd55f352791bbf4a66c2b18053e78c1e4fca3890fb69f98d74ac99f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/28\/21-24.1792554981507.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "äratundmine"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "näo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... pärast"
+    },
+    {
+      "surface": "פת",
+      "gloss": "palukese"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiva-"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "teeb üleastumise"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:21.508189265Z",
+  "model": "glm-5.3"
+}

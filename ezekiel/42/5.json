@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub kopeel; eesti keel vajab seda"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יוכלו",
+      "rationale": "Sõna-sõnalt 'sõid ära' \/ 'mahutasid endasse' — galeriid võtsid ruumide arvelt ruumi; sõnademäng läheb kaotsi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אתיקים",
+      "rationale": "אַתּוּק 'galerii \/ rõdu-astang' esineb Tanahhis ainult Hesekieli templenägemuses"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ruumide korrused",
+      "rationale": "Salm mõõdab ja võrdleb ehitise korruste pikkusi"
+    }
+  ],
+  "translation": "Ja ülemised kõrvalruumid ⟨olid⟩ lühemad, sest galeriid võtsid neilt ära — nii alumistelt kui ka keskeltistelt, ehitises.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/42\/5-8.1792550800063.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "Ja kõrvalruumid"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "ülemised"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "lühemad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "võtsid ära"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "galeriid"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "neilt"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "alumistelt"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "ja keskeltistelt"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ehitises"
+    }
+  ],
+  "timestamp": "2026-10-21T02:46:40.064006975Z",
+  "model": "glm-5.3"
+}

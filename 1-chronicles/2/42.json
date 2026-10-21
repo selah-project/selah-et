@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid \/ on",
+      "rationale": "Heebrea puudub koprula; eesti keel nõuab seda loenduse raamiks."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובני מרשה",
+      "rationale": "Keeruline koht: 'Mareša pojad, Hebroni isa' — kas Mareša on teine poeg (BSB) või kohanimi, kelle pojad järgnevad (2:43)."
+    }
+  ],
+  "translation": "Ja Kalevi, Jerahmeeli venna, pojad ⟨olid⟩: Mesha, tema esmasündinu — tema ⟨on⟩ Siifi isa; ja Mareša poegade ⟨isa⟩ ⟨oli⟩ Hebroni isa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "585488fd096983c21d0941df3348217db687536d2d027879f3e84d60a9714a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/2\/41-44.1792557164552.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja pojad"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalevi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "veli"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerahmeeli"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "tema esmasündinu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isa"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siifi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja pojad"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareša"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebroni"
+    }
+  ],
+  "timestamp": "2026-10-21T04:32:44.553230029Z",
+  "model": "glm-5.3"
+}

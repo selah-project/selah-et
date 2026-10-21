@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopula; eesti grammatika nõuab selle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מספר",
+      "rationale": "sama sõna nagu 147:4 'tähtede arvu' — Jahve loendab tähti, aga Tema arusaamist ei saa loendada"
+    }
+  ],
+  "translation": "Suur ⟨on⟩ meie Adonai ja suure võimega; tema arusaamisele ⟨ei ole⟩ arvu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/5-8.1792554382091.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Suur"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "meie Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja suure võimega"
+    },
+    {
+      "surface": "כח",
+      "gloss": "võimega"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "tema arusaamisele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "arvu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:22.091586160Z",
+  "model": "glm-5.3"
+}

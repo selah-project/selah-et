@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Eesti keel vajab subjekti, heebrea jätab selle tegusõna lõppu varjatuks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זקנה\/ושיבה",
+      "rationale": "Kaks sünonüümi vanaduse kohta kõrvuti — rõhutav kordus"
+    }
+  ],
+  "translation": "Ja isegi vanaduseni ja hallipäisuseni, Elohim, ära jäta mind maha, kuni kuulutan ma sinu kätt põlvele, kõigile, kes tulevad, sinu väge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/71\/17-20.1792553301307.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja isegi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "vanaduseni"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "ja hallipäisuseni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "jäta mind maha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kuulutan ma"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "sinu kätt"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "põlvele"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kes tulevad"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "sinu väge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:21.308447690Z",
+  "model": "glm-5.3"
+}

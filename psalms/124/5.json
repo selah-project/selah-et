@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זידונים",
+      "rationale": "Sõna esineb Tanahhis ainult siin; tõlgitud 'ahedad' ('upsakad, tormised')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפשנו ei ole 'hing' eesti mõttes, vaid elujõud; jätan nefeshi."
+    }
+  ],
+  "translation": "siis oleksid meie üle läinud põrguveed, ahedad veed meie nefeshi kohal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/124\/5-8.1792554224554.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "siis"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "läinud üle"
+    },
+    {
+      "surface": "על",
+      "gloss": "meie üle"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "meie nefeshi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ahedad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:44.555242851Z",
+  "model": "glm-5.3"
+}

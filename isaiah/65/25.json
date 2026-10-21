@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõrst",
+      "rationale": "תבן on peenelt hakitud põhu- või teraviljajääk, kõrs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעו \/ ירעו",
+      "rationale": "sama tähekuju kaks korda: 'karjatama' ja 'kurja tegema' — heebrea sõnamäng, eesti keeles kaob"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel vajab lauses kopeela, heebrea seda ei ütle"
+    }
+  ],
+  "translation": "Hunt ja tall söövad karjamaad nagu üks, ja lõvi sööb nagu veised kõrst, ja maole on tolmpõhu leivaks; nad ei tee kurja ega hävita kogu mu pühal mäel, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f4b68e5d2d387c1e658f393d49074e4d9791ee34d9c62dd3bdae151c520332e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/65\/25-25.1792547862652.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "Hunt"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "ja tall"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "söövad karjamaad"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "nagu üks"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "ja lõvi"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "nagu veised"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "kõrst"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "ja maole"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tolmpõhu"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "leivaks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "tee kurja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "hävita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mäel"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mu pühal"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:42.653047792Z",
+  "model": "glm-5.3"
+}

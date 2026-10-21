@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõelda",
+      "rationale": "שיח on murmeli-mõtisklus, sisemonoloog; 'mõtiskleda' tabab paremini kui 'mõelda'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדמתי\/קדמו",
+      "rationale": "Sama verb v 147–148: 'jõudsin ette \/ jõuavad ette' — päeva ja silmade järjestikene kiirus, kordus kandub edasi."
+    }
+  ],
+  "translation": "Satsivad mu silmad jahvahoidude ette, et mõelda sinna ütluse üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "318ede7d3cbe732d905715070abea530c78d6062f0166a563b3870d56c119192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/145-148.1792554012248.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "Satsivad ette"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silmad"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "jahvahoidude"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "et mõelda"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "sinu ütluse üle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:12.249322952Z",
+  "model": "glm-5.3"
+}

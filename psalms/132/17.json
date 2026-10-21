@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võitud",
+      "rationale": "משיחי 'minu võitu' — kuninga kohta, mitte 'Messias'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צמח\/קרן",
+      "rationale": "sarv 'tärkab' nagu taim — taime- ja võimu-pilt põimub"
+    }
+  ],
+  "translation": "Seal kaan Davidile sarve, ma olen sättinud õlitule minu võitudule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/17-18.1792554245974.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Seal"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "kaan"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sarve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ma olen sättinud"
+    },
+    {
+      "surface": "נר",
+      "gloss": "õlitule"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "minu võitudule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:05.974926804Z",
+  "model": "glm-5.3"
+}

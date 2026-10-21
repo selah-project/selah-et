@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kogu",
+      "rationale": "בחיי on lihtsalt 'mu elus'; 'kogu' lisab täiuse varjundit"
+    },
+    {
+      "kind": "you",
+      "subject": "psalmist Jumalale",
+      "rationale": "Otsene pöördumine: kogu salm on 'sind'-kõne Elohimi poole"
+    }
+  ],
+  "translation": "Nõnda õnnistan ma sind kogu mu elu, sinu nimel tõstan ma üles oma peopesad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/63\/5-8.1792553112610.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "õnnistan ma sind"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "kogu mu elu"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sinu nimel"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "tõstan ma üles"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "oma peopesad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:12.611184078Z",
+  "model": "glm-5.3"
+}

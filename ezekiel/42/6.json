@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 42:6",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Kopeel lisatud, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "נאצל",
+      "rationale": "'kääratud \/ tagasi tõmmatud' vs 'eraldatud \/ äravõetud' — tõlkijad lahkarvamusel, kas korrused jäid kitsamaks või nihkusid tagasi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolmekordsed",
+      "rationale": "Salm määratleb ehituse kolmekordse struktuuri"
+    }
+  ],
+  "translation": "Sest need ⟨olid⟩ kolmekordsed, ja neil ei ⟨olnud⟩ sambaid nagu õuede sambad; seepärast ⟨olid⟩ nad maapinnast kääratud, nii alumised kui ka keskmised.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/42\/5-8.1792550800063.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "משלשות",
+      "gloss": "kolmekordsed"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "need"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ⟨olnud⟩"
+    },
+    {
+      "surface": "להן",
+      "gloss": "neil"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "sambaid"
+    },
+    {
+      "surface": "כעמודי",
+      "gloss": "nagu sambad"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "õuede"
+    },
+    {
+      "surface": "על",
+      "gloss": "selle peale"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "נאצל",
+      "gloss": "kääratud"
+    },
+    {
+      "surface": "מהתחתונות",
+      "gloss": "alumised"
+    },
+    {
+      "surface": "ומהתיכנות",
+      "gloss": "ja keskmised"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "maapinnast"
+    }
+  ],
+  "timestamp": "2026-10-21T02:46:40.064208902Z",
+  "model": "glm-5.3"
+}

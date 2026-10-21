@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma liha",
+      "rationale": "את בשרו kaudses: 'sööb oma liha' tähendab hävitab enda jõude, mitte söömist sõna-sõnalt"
+    },
+    {
+      "kind": "crux",
+      "subject": "loll",
+      "rationale": "כסיל on 'raskepealne, loll', mitte lihtsalt 'rumal inimene'"
+    }
+  ],
+  "translation": "Loll põimib kokku ⟨את⟩ oma käed ja sööb ⟨את⟩ oma liha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/4\/5-8.1792556103669.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "loll"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "põimib kokku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käed"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "oma käed"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja sööb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma liha"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "oma liha"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:03.669819840Z",
+  "model": "glm-5.3"
+}

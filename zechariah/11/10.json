@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרתי \/ ואגדע",
+      "rationale": "Leping 'lõigati' (כרת ברית) ja sau 'raiuti' — sama lõikamise pilt mõlemas; eesti keeles 'lõiknud\/raiusin' seda osaliselt kannab."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (koos כל העמים)",
+      "rationale": "Siin on את eessõna 'koos', mitte otsese objekti marker; seetõttu ⟨את⟩ märki ei kasutata."
+    },
+    {
+      "kind": "crux",
+      "subject": "נעם",
+      "rationale": "Sau nimi 'Ilu' — teised: 'Lepitus', 'Armulikkus', 'Meeldivus'."
+    }
+  ],
+  "translation": "Ja võtsin ⟨את⟩ oma saua, ⟨את⟩ Ilu nimelise, ja raiusin ⟨את⟩ ta pooleks, et tühistada ⟨את⟩ oma lepingu, mille olin lõiknud ⟨את⟩ koos kõigi rahvastega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/11\/9-12.1792552049315.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Ja võtsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma saua"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "oma sau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ilu nimelise"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "Ilu"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "ja raiusin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ta",
+      "marks": "raiusin ta pooleks"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "et tühistada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma lepingu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "oma lepingu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "olin lõiknud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ koos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "rahvastega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:07:29.316569834Z",
+  "model": "glm-5.3"
+}

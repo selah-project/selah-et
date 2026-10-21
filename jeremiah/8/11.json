@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pinnapealselt",
+      "rationale": "על נקלה sõna-sõnalt 'tehes kergeks' — haava parandamine pinnapealselt, mitte päriselt."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Eeslink 'üle\/keral' sulandub adverbiks ega saa eraldi lauset."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "Kolmekordne 'rahu, rahu — aga rahu ei ole' — kordus kannab terve salmi iroonia."
+    }
+  ],
+  "translation": "Ja nad parandasid ⟨את⟩ mu rahva tütre murru pinnapealselt, öeldes: rahu, rahu! aga rahu ei ole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e3707db63a101073d60ee5b71878724098842e1b65345fa399c7d50c846fae53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/8\/9-12.1792548230981.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "ja nad parandasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "murru"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "murru"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahva"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pinnapealselt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aga ei ole"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rau"
+    }
+  ],
+  "timestamp": "2026-10-21T02:03:50.982488062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 50:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפושי",
+      "rationale": "פושׁ 'laiali puhkema\/uhkelt käituma': KJV 'jäite rasvaks', ASV 'tuhmlevad' — kujund heinamaal söödavast mullikast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כאברים",
+      "rationale": "אבירים võib olla 'vägevad (härjad)' või 'taated' — pullid sobivad hõiskav kujund; 'hobused' (mõned tõlked) võetakse צהלה sõnast."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי x3",
+      "rationale": "Kolmekordne ׳sest׳ annab üha kasvava süüdistusreaori."
+    }
+  ],
+  "translation": "Sest sa rõõmustad, sest sa hõiskad, röövides minu pärandit, sest sa puhked uhkelt nagu mullikas värskel rohumaal, ja hõiskad kui vägevad pullid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd30bd39cc9dcdf3e39c21ba13c902a8dba2733121b373c16a1dc264771e6fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/50\/9-12.1792549378680.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "sa rõõmustad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תעלזי",
+      "gloss": "sa hõiskad"
+    },
+    {
+      "surface": "שסי",
+      "gloss": "röövides"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "minu pärandit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תפושי",
+      "gloss": "sa puhked uhkelt"
+    },
+    {
+      "surface": "כעגלה",
+      "gloss": "nagu mullikas"
+    },
+    {
+      "surface": "דשה",
+      "gloss": "värskel rohumaal"
+    },
+    {
+      "surface": "ותצהלי",
+      "gloss": "ja hõiskad"
+    },
+    {
+      "surface": "כאברים",
+      "gloss": "kui vägevad pullid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:22:58.683840707Z",
+  "model": "glm-5.3"
+}

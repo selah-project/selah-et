@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "karjatavad",
+      "rationale": "רעו 'karjatama\/söödaks käima' sõjakontekstis: KJV\/JPS 'laastavad', ilming 'karjatavad' — kujund, mida tõlked sageli tasandavad"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨meid⟩",
+      "rationale": "heebrea ütleb 'päästab Assjurist', objekt on lisatud kontekstist"
+    },
+    {
+      "kind": "crux",
+      "subject": "בפתחיה",
+      "rationale": "'tema linnauksedes' — mõned loevad 'tema maade sissepääsudes' (ASV 'in the entrances thereof')"
+    }
+  ],
+  "translation": "Ja nad karjatavad ⟨את⟩ Assjuri maad mõõgaga ja ⟨את⟩ Nimrodi maad tema linnauksedes; ja ta päästab ⟨meid⟩ Assjurist, kui ta tuleb meie maale ja kui ta tallab meie piirides.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8a0405cdaac9d4f8b11d0576239c7ade151d71a4101da006986a61128feb32a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/5\/5-8.1792551684688.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ja nad karjatavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Assjuri maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjuri"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mõõgaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "tema linnauksedes"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ja päästab"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Assjurist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ta tuleb"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "meie maale"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ta tallab"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "meie piirides"
+    }
+  ],
+  "timestamp": "2026-10-21T03:01:24.689356610Z",
+  "model": "glm-5.3"
+}

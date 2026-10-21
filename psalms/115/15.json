@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "poolt",
+      "rationale": "Eesti keeles vajalik passiivi agent, heebreas על\/ל eessõna puudub."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli kogudus",
+      "rationale": "Preestriõnnistus pöördub otse kuulajate poole."
+    }
+  ],
+  "translation": "Õnnistatud olete teie Jahve poolt, taeva ja maa teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/13-16.1792553977409.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Õnnistatud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve poolt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teinud"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:37.409854467Z",
+  "model": "glm-5.3"
+}

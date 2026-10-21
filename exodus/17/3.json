@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להמית אתי",
+      "rationale": "Heebrea üksikminas 'mind', kuigi järgnev räägib kõigist; tõlgitud üksikminana, nagu tekst seisis."
+    },
+    {
+      "kind": "idiom",
+      "subject": "למה זה",
+      "rationale": "Sõna-sõnalt 'miks see'; eesti 'miks sa oled sind' jätab küsisõna-osutava struktuuri säilitades loomuliku."
+    }
+  ],
+  "translation": "Ja rahvas janustas seal vee järele ja rahvas nurrus Moše vastu ning ütles: Miks sa oled sind meid üles toonud Mitsraimist, et tappa ⟨את⟩ mind ja ⟨את⟩ mu poegi ja ⟨את⟩ mu kariloomi januga?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/17\/1-4.1792538607929.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ja janustas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "למים",
+      "gloss": "vee järele"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "ja nurrus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sind"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "oled meid üles toonud"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "et tappa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mu poegi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu poegi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mu kariloomi"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "mu kariloomi"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "januga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:27.930679673Z",
+  "model": "glm-5.3"
+}

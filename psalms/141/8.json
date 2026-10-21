@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/elujõud\/elu' kui 'hing' mõttes 'kehatu seesmine osa'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תער",
+      "rationale": "'Tee paljaks\/tühjaks' — KJV\/Geneva 'ära jäta hülgatuks', JPS 'ära vala välja'; pilt on naha või anuma paljaks tegemine."
+    }
+  ],
+  "translation": "Sest sinu poole, Jahve, Adonai, on mu silmad; sinu juures ma varjupaika leidsin; ära jäta mu hinge paljaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/141\/5-8.1792554417642.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "on mu silmad"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "sinu juures"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ma varjupaika leidsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תער",
+      "gloss": "jäta paljaks"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:57.643622449Z",
+  "model": "glm-5.3"
+}

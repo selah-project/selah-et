@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצלם",
+      "rationale": "'kujuline varju \/ kuju' vs 'kui näidis' — heebrea צלם on kujutis, mitte 'nägu'"
+    },
+    {
+      "kind": "elision",
+      "subject": "רכוש",
+      "rationale": "kogub kokku ilma otsesõnata — eesti lisab ⟨rikkust⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך...אך",
+      "rationale": "korduv 'ainult' kõlavõrdlus, eesti keeles säilitatud"
+    }
+  ],
+  "translation": "Ainult kui kujuline varju käib iga mees, ainult hetkelisuse pärast nad käratsevad; ta kogub kokku ⟨rikkust⟩ ega tea, kes selle kokku kogub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/39\/5-8.1792552798631.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "kui kujuline varju"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "käib"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iga mees"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hetkelisuse"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nad käratsevad"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "ta kogub kokku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tea"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "selle kokku kogub"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:58.633294876Z",
+  "model": "glm-5.3"
+}

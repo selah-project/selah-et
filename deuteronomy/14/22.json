@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עשר תעשר",
+      "rationale": "infinitivus absolutus: sama verbi kordus — 'kümnendista kümnend'; eesti 'kindlasti kümnend' kaotab sõnamängu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨See⟩",
+      "rationale": "Hofali partitsiip יוצא vajab eesti keeles subjekti"
+    }
+  ],
+  "translation": "Anna kindlasti kümnend ⟨את⟩ kõigest oma seemne saagist, mis ⟨See⟩ põld välja toob, aasta aastalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9f5fa4d4e7042bf1b5b4f102bb65fea618a0615844d291d29dc1b99a1929c48d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/14\/21-24.1792540898525.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kindlasti kümnend"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "anna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõigest oma seemne saagist"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigest"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "saagist"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "oma seemne"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "mis välja toob"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põld"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastalt"
+    }
+  ],
+  "timestamp": "2026-10-21T00:01:38.526372307Z",
+  "model": "glm-5.3"
+}

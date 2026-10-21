@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨ei ole⟩",
+      "rationale": "Kopeeriv verbum, mida heebrea ei väljenda, lisatud eesti jaoks"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא נפל",
+      "rationale": "Sõnõnalt 'ei lange (ei ole langenud)' — idiom 'ei jää madalamale'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת מי אין כמו אלה",
+      "rationale": "Raske koht: 'kelle juures pole nende sarnast' vs tõlgendus 'kes ei teaks neid asju' (KJV)"
+    }
+  ],
+  "translation": "Aga ka minul ⟨on⟩ süda nagu teil; mina ei jää teist madalamale — ja ⟨את⟩ kelle juures ⟨ei ole⟩ nende sarnast?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/1-4.1792555232254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aga ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minul"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "nagu teil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jää madalamale"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kelle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sarnast"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nende"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:32.255693897Z",
+  "model": "glm-5.3"
+}

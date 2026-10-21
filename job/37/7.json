@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 37:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Teo subjekt (El\/Jahve eelmistest salmidest) on heebreas ära jäetud"
+    },
+    {
+      "kind": "crux",
+      "subject": "kõik mehed teaksid tema tegu",
+      "rationale": "מעשהו: 'tema (Jumala) tegu' või 'tema (inimese enda) tegu' — vanad tõlked lahku läinud"
+    },
+    {
+      "kind": "secret",
+      "subject": "pitseerib kinni",
+      "rationale": "Pitseerimise kujund — käsi suletakse nagu pitsat, töö peatatud ja peidetud"
+    }
+  ],
+  "translation": "Iga inimese käe pitseerib ⟨ta⟩ kinni, et kõik mehed teaksid tema tegu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/5-8.1792555678789.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "käe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Iga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "יחתום",
+      "gloss": "pitseerib kinni"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "et teaksid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "tema tegu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:58.790739087Z",
+  "model": "glm-5.3"
+}

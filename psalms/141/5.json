@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסד",
+      "rationale": "Hesed siin tähendab kas 'lahkust' või vastupidi 'noomust' ( Strong viitab harulisele tähendusele 'parandus'); enamus tõlkeid valib 'lahkuse'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברעותיהם",
+      "rationale": "Kirjakeel: 'nende kurjuse pärast\/keskel' — heebrea ütleb lihtsalt 'nende kurjustes'."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula 'on' lisatud eesti keele jaoks, heebreas puudub."
+    }
+  ],
+  "translation": "Löögu õigene mind hesediga ja noomigu mind; olgu see ⟨on⟩ nagu õli peale pea — ärgu keeldugu mu pea seda; sest veel on mu palve nende kurjuse keskel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/141\/5-8.1792554417642.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "löögu mind"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õigene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesediga"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ja noomigu mind"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "nagu õli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "peale pea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "יני",
+      "gloss": "keeldugu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ja mu palve"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "nende kurjuse keskel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:57.643044395Z",
+  "model": "glm-5.3"
+}

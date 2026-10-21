@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopa; eesti keeles vajalik."
+    },
+    {
+      "kind": "crux",
+      "subject": "יכסה",
+      "rationale": "'katab\/peidab vägivalla' (JPS, BSB) vs 'kaetakse vägivallaga' (KJV) — kumb on objekt, kumb kattja."
+    }
+  ],
+  "translation": "Õnnistused on õiguse peal, aga õelate suu katab vägivalla.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/10\/5-8.1792554607670.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "õnnistused"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "peal"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õiguse"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "aga suu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "katab"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vägivalla"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:07.670923671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebreal puudub öeldis; eesti keel vajab kopeerivat verbi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האהל",
+      "rationale": "ketiiv האהל on tegelikult הָאֵלֶּה 'need' (alef või hele); tõlgitud asesõnana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vask",
+      "rationale": "נחשת on vask\/ pronks; eesti tavas 'pronks', kuid sõna ise tähendab vaske"
+    }
+  ],
+  "translation": "ja ⟨את⟩ potid ja ⟨את⟩ kühvlid ja ⟨את⟩ pihuskausid ja ⟨את⟩ kõik nõud — need, mille Hiiram tegi kuningas Shelomole Jahve kojas — ⟨olid⟩ lihvitud vasest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/45-48.1792545382838.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "potid"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "potid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kühvlid"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "kühvlid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pihuskausid"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "pihuskausid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik nõud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nõud"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "need"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomole"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kojas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vask"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "lihvitud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:16:22.840805797Z",
+  "model": "glm-5.3"
+}

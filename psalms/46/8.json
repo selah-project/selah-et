@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Kopeelis, mida heebrea ei sisalda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kindluseks",
+      "rationale": "משגב sõna-sõnalt 'kõrge kalju, varjupaik', võimalik ka 'kõrgendik'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Selah",
+      "rationale": "סלה tähendus on kindlusetu: muusikaline paus või tähistus; jäetud kujul 'Selah'"
+    }
+  ],
+  "translation": "Jahve Tsevaot ⟨on⟩ meiega, meie kindluseks meile Jaakovi Elohim. Selah.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/46\/5-8.1792552853506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meiega"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kindluseks"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:53.508428824Z",
+  "model": "glm-5.3"
+}

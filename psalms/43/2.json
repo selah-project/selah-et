@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ma⟩",
+      "rationale": "Heebrea osalause subjekt puudub, eesti nõuab seda."
+    },
+    {
+      "kind": "idiom",
+      "subject": "קדר",
+      "rationale": "Otseselt 'tumes (tuhkjah) olen' — leinaleina käimine; sõna-sõnaline 'tumedalt käin' oleks eesti keeles eksitav."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למה ... למה",
+      "rationale": "Korduv 'miks' — nurinu kajatus, eestis jääb alles."
+    }
+  ],
+  "translation": "Sest sina oled mu kaitse-El; miks oled sa mu ära heitnud? Miks käin ⟨ma⟩ leinas, vaenlase rõhu all?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/43\/1-4.1792552872653.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu kaitse-El"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "(mu kaitse)"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "oled sa mu ära heitnud"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "leinas"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "käin"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "rõhu all"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlase"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:12.654948963Z",
+  "model": "glm-5.3"
+}

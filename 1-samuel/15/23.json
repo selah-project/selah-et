@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "awen",
+      "rationale": "און 'tühjus, pahatus, ebajumal' jäetakse kõlajärgi, sest üks eesti sõna ei kata kõiki tähendusi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאסת\/וימאסך",
+      "rationale": "sama verb מאס 'põlgama' lööb tagasi: sina põlgasid sõna — tema põlgab sind; heebrea peeglikordus"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפצר",
+      "rationale": "'kangekaelsus' vs 'ärtitus, pealetükkivus'; verb tähendab otseselt 'nokkima, ohverdust juurde suruma'"
+    }
+  ],
+  "translation": "Sest nurjatus on nagu nõiduse patt ja kangekaelsus nagu awen ja terafimid; sest sa põlgasid ⟨את⟩ Jahve sõna, ja tema põlgab sind ära, et sa ei oleks kuningas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/15\/21-24.1792543947657.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "patt"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "nõiduse"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "nurjatus"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ja awen"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ja terafimid"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "kangekaelsus"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "sa põlgasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve sõna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "ja tema põlgab sind ära"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kuningast"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:27.658808558Z",
+  "model": "glm-5.3"
+}

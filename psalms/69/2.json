@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on lähemal 'kõrile\/elujõule' kui 'hingele'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Päästa mind",
+      "rationale": "Hädaappell, suunatud otseselt Elohimile"
+    }
+  ],
+  "translation": "Päästa mind, Elohim, sest veed on tulnud ⟨kuni⟩ hingani!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/1-4.1792553233804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Päästa mind"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "באו",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ved"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hingani"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:13.805065088Z",
+  "model": "glm-5.3"
+}

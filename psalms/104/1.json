@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨endale⟩",
+      "rationale": "Heebrea laseb riietuse esemed määrmatult; eesti keel vajab suunda"
+    },
+    {
+      "kind": "invitation",
+      "subject": "hinge kutsung",
+      "rationale": "Kõne iseendale: hing kutsutakse üles Jahvet õnnistama"
+    }
+  ],
+  "translation": "Õnnista, mu hing, Jahvet: ⟨את⟩ Jahve, mu Elohim, sa oled väga suur, hiilgust ja uhkust sa oled riietanud ⟨endale⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/1-4.1792553808630.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "õnnista"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "oled suur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hiilgust"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ja uhkust"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "oled riietanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:48.631140934Z",
+  "model": "glm-5.3"
+}

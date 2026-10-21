@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Sisu pöördub otseselt koguduse poole: sina-vormis käsk"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ja teda",
+      "rationale": "ואתו on aleph-tav sufiksiga; kohandatud asesõnana 'teda', mitte sõnasõnaline marker"
+    }
+  ],
+  "translation": "⟨את⟩ Jahvet, sinu Elohimat, pead sa kartma, ⟨את⟩ ja teda pead sa teenima, ja tema nime pidi sa vannuma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/6\/13-16.1792540671185.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohimat"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "peed sa kartma"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ja teda",
+      "marks": "tema (Jahve)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "peed sa teenima"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ja tema nime"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "pidi sa vannuma"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:51.186153981Z",
+  "model": "glm-5.3"
+}

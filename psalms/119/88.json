@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "D2 nõuab hesedi esile toomist — 'armastus' või 'lahkus' üksi kaotab liidu-truuduse tähenduse"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Palve pöördub otse Jumala poole: 'elusta mind, aita mind'"
+    }
+  ],
+  "translation": "Su hesedi järgi elusta mind, ja ma tahan pidada su suu tunnistust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/85-88.1792554042986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "su hesedi järgi"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "elusta mind"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ja ma tahan pidada"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tunnistust"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "su suu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:42.987189938Z",
+  "model": "glm-5.3"
+}

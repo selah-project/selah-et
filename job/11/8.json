@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "משאול jääb vastavalt D2 nimeks 'šeol', mitte 'põrgu'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kõrgus ja sügavus",
+      "rationale": "Jumala teed on kõrgemad kui taeved ja sügavamad kui šeol — kättesaamatu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפעל \/ תדע",
+      "rationale": "kaks paralleelset küsimust 'mida sa teed \/ mida sa tead' — kõlapilt, mis eesti keeles osaliselt säilib"
+    }
+  ],
+  "translation": "Taevede kõrgused — mida sa saad teha? Sügavam kui šeol — mida sa saad teha?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ee13c2c189a8dc22359355045e8953618a04de69ccc54542c572e284d181c291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/11\/5-8.1792555243453.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "kõrgused"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevede"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "sa saad teha"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "sügavam"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "kui šeol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sa saad teada"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:43.454080817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zephaniah 3:18",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nugé mimmo'ed",
+      "rationale": "'püha kokkutuleku pärast nutvad' (KJV) vs 'pühast ajast kaugel olijad' (JPS); sõnastus on tume"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Eesti koolist nõuab objekti pronoomeni; heebrea jätab selle kaudseks"
+    }
+  ],
+  "translation": "Püha aja pärast nutvad — mina olen kogunud nad sinu seast; nemad olid ⟨selle⟩ koormaks, kandmiseks häbiga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dccc0d87725a437121555f0ae15f1bc96a8e1bb9ec078b17ef2caee57518403b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/3\/17-20.1792551764002.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נוגי",
+      "gloss": "nutvad"
+    },
+    {
+      "surface": "ממועד",
+      "gloss": "püha ajast"
+    },
+    {
+      "surface": "אספתי",
+      "gloss": "mina olen kogunud"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinu seast"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nad olid"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "koormaks, kandmiseks"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "selle pärast"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "häbiga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:02:44.003226733Z",
+  "model": "glm-5.3"
+}

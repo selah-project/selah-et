@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pühatuks murdma",
+      "rationale": "חלל tähendab sõna-sõnalt 'lõhki puurima, haavama' — püha rikkumise pilt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחל\/מחללת",
+      "rationale": "sama juur חלל kordub kaks korda — heebrea sõnamäng, eesti keeles kordus osaliselt säilinud"
+    }
+  ],
+  "translation": "Ja preestri tütar, kui ta hakkab hoorama, teeb oma ⟨את⟩ isa pühatuks murdvaks — tulega põletatakse ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/21\/9-12.1792539500241.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ja tütar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preestri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "hakkab pühatuks murdma"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "hoorama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma isa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "isa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "pühatuks teeb murdvaks"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "põletatakse"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:20.242327838Z",
+  "model": "glm-5.3"
+}

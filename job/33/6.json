@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפיך",
+      "rationale": "KJV 'su soovi järgi El asemel' vs JPS 'nagu sina, Elohi ees' — juure כפה tähendab 'kohandama', kuid enamik loeb kui 'sinu sarnane'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kildukerkinud",
+      "rationale": "קרצתי sõnasõnalt 'kärpin\/pitsin' — savile pulbitseva mullaga (חמר) kujundi jaoks koondväljend"
+    }
+  ],
+  "translation": "Vaata, mina olen nagu sina El<i><\/i> ees, savist olen minagi kildukerkinud ⟨nii⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a44a31fdca19fe4c3f2b5dc1fdfca7dd4087204fbedc9bba56dc46db9ba70e40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/5-8.1792555574807.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "nagu sina"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El ees"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "savist"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "kildukerkinud"
+    },
+    {
+      "surface": "גם",
+      "gloss": "samuti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:14.807691966Z",
+  "model": "glm-5.3"
+}

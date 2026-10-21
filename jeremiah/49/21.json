@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kähane meri",
+      "rationale": "ים סוף: 'kähane (rukkiveerikkahane) meri' kui kohanimi või lihtsalt 'kähane meri'; eesti traditsioon 'Punane meri' on tõlge läbi teiste keelte."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nende langemine",
+      "rationale": "נפלם 'nende langemine' — languse koha üle, kust see kuuldub."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול ... קולה",
+      "rationale": "Salm algab ja lõpeb sõnaga 'hääl' (מקול \/ קולה) — raam, mis jääb eesti keeles vaid osaliselt nähtavaks."
+    }
+  ],
+  "translation": "Nende langemise häälest värises maa; kisendus — kähane meri kuulab selle hääle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2a5fb0f3cc082faf2c648907033126476071d33aaafa84e5140804776263d59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/49\/21-22.1792558482150.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "häälest"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "nende langemise"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "värises"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kisendus"
+    },
+    {
+      "surface": "בים",
+      "gloss": "kähane meri"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "kähane meri"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kuulab"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "selle hääle"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:42.151757946Z",
+  "model": "glm-5.3"
+}

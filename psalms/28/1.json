@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחרש \/ תחשה",
+      "rationale": "Kaks erinevat juurt, mis kõlavad peaaegu ühtmoodi (vaiki\/vait) — korduslike palvete keeleline kiir, eesti keeles osaliselt alles."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בור",
+      "rationale": "בור on kaevatud auk\/tsistern, mitte 'põrgu'; eesti 'auk' hoiab pildi."
+    }
+  ],
+  "translation": "Davidile. Sinu juurde, Jahve, ma hüüan; mu kalju, ära vaiki minu suhtes, et sa ei jääks vait minu suhtes ja mina ei sarnaneks nendega, kes langevad auku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/28\/1-4.1792552584715.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu juurde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ma hüüan"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vaiki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minu suhtes"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et ei"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "jääks vait"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minu suhtes"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ja mina ei sarnaneks"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nendega, kes langevad"
+    },
+    {
+      "surface": "בור",
+      "gloss": "auku"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:24.716647044Z",
+  "model": "glm-5.3"
+}

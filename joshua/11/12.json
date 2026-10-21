@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 11:12",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "v.12 אותם on siin asesõna 'neid', mitte aleph-tavi objektimarker, ja tõlgitakse sõnana"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mõõga suul",
+      "rationale": "לפי חרב sõna-sõnalt 'mõõga suu' = mõõga tera"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kõik ... kõik",
+      "rationale": "korduv כל rõhutab täielikku loendamatut hävikut — mitte midagi jäi vahele"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ kõik nende kuningate linnad ja ⟨את⟩ kõik nende kuningad vallutas Jehošua ja lõi ⟨את⟩ neid mõõga suul, pühitses nad hävitatule, nii nagu oli käskinud Moše, Jahve teener.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/11\/9-12.1792541556737.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõik nende kuningate linnad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "linnad"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "kuningate"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõik nende kuningad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "nende kuningad"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "vallutas"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "ja lõi neid"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suul"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "pühitses hävitatule"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "teener"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T00:12:36.739318490Z",
+  "model": "glm-5.3"
+}

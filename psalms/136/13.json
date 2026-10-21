@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb hesed'iks, mitte 'halastus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Suphi meri",
+      "rationale": "ים סוף tähendab 'kõrkjameri'; nimi jäetakse heebrea kõla järgi, mitte 'Punane meri'"
+    }
+  ],
+  "translation": "Kellega-lõikas ta Suphi mere lõikudeks, sest igavesti ⟨ kestab ⟩ tema hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/136\/13-16.1792554263504.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Kellega-lõikas"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suphi"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "lõikudeks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:23.505328300Z",
+  "model": "glm-5.3"
+}

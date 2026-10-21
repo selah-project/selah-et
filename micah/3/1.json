@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Kuulake nüüd",
+      "rationale": "käskköne pöördub otse valitsejate poole — kuulamise kutse"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovi pead ja Jisraeli poja ülemused",
+      "rationale": "otse pöördumine Juuda juhtide poole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poja",
+      "rationale": "בית ישראל 'Jisraeli maja' tähendab perekonda\/dünastiat; 'maja' oleks eesti keeles eksitav"
+    }
+  ],
+  "translation": "Ja ma ütlesin: Kuulake nüüd, Jaakovi pead ja Jisraeli poja ülemused — kas pole teiepära tunda ⟨את⟩ kohust?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/3\/1-4.1792551499844.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulake"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pead"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovi"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ja ülemused"
+    },
+    {
+      "surface": "בית",
+      "gloss": "poja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "kas pole"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teiepära"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohust"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kohust"
+    }
+  ],
+  "timestamp": "2026-10-21T02:58:19.845663144Z",
+  "model": "glm-5.3"
+}

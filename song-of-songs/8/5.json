@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מתרפקת",
+      "rationale": "Ainus koht Tanahhis; tähendab 'toetudes, lebamas vastu' — edasi antud kui 'toetudes', kuju jääb osaliseks."
+    },
+    {
+      "kind": "alternative",
+      "subject": "toetudes",
+      "rationale": "Alternatiivne lugem: 'tõuseb kiirustades oma armastatu vastu' (verbi juur tähendab ka 'rappa jääma')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלתך \/ חבלה",
+      "rationale": "Korduv samma-verb 'valulikkelt (ile) minema \/ lapsele valu saama' — kordus annab võrdluspaari, eesti keeles säilitatud kordusega."
+    }
+  ],
+  "translation": "Kes on see, kes tõuseb kõrbest, toetudes oma armastatule? Õunapu all äratasin sind; seal sai su ema sinuga valu; seal sai ta valu ja sünnitas sind see, kes sind ilmale tõi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/5-8.1792555872920.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tõuseb"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kõrbest"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kõrbest"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "toetudes"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "oma armastatule"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "õunapu"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ärkasin sind üles"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "sai sinuga valu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "su ema"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "sai ta valu"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "sünnitas sind see, kes sind ilmale tõi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:12.921311510Z",
+  "model": "glm-5.3"
+}

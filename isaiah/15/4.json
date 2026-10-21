@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלצי",
+      "rationale": "'Relvastatud mehed' (KJV) vs 'pagevad\/põgenejad' — juur tähendab 'lahti tõmbama, lahkuma', vaata Js 15:5 'pagevad'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ta ise",
+      "rationale": "נפשו on 'tema hing\/elujõud', mitte eraldiseisev 'ise'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירעה לו",
+      "rationale": "'Tema hing karjub tema sees' — otsene 'iseenda jaoks'; nähud lahkhelid: 'kisendab', 'vapustab teda'"
+    }
+  ],
+  "translation": "Ja Heshbon kisendab ja Eleale; nende hääl kostab kuni Jahatsini; seepärast kisendavad Moabi relvastatud mehed, ta ise ulub enda sees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/15\/1-4.1792546917780.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "ja kisendab"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "ja Eleale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "Jahatsini"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "kostab"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "nende hääl"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "relvastatud mehed"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "kisendavad"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ta ise"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ulub"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endas"
+    }
+  ],
+  "timestamp": "2026-10-21T01:41:57.781780416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מגריהם \/ גרו",
+      "rationale": "Sama juur גור kordub nimetuses ja verbis — 'võõraleelu maa, kus nad võõrana elasid' hoiab kõlapaari."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הקמתי בריתי",
+      "rationale": "Otseselt 'tõstsime lepingu püsti' — lepingu kehtestamise idiom."
+    }
+  ],
+  "translation": "Ja samuti tõin mina püsti oma lepingu nendega, et anda neile ⟨את⟩ Kanaani maa, ⟨את⟩ maa nende võõraleelust, kus nad võõrana elasid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/6\/1-4.1792538345041.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja samuti"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "tõin mina püsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma lepingu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "oma lepingu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nendega"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "et anda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaani maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa nende võõraleelust"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "nende võõraleelust"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "elasid nad võõrana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-20T23:19:05.043246670Z",
+  "model": "glm-5.3"
+}

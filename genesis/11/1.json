@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub koppel; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "keel",
+      "rationale": "שָׂפָה tähendab sõna-sõnalt 'huul'; tavatõlked ütlevad 'keel', kuju jäetakse kaotsi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת \/ אחדים",
+      "rationale": "naabersõnade kordus 'üks ... ühed' — 'ühed sõnad' on teadlikult kummaline, nagu heebrea keeles"
+    }
+  ],
+  "translation": "Ja kogu maa ⟨oli⟩ üks huul ja sõnad ühed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/11\/1-4.1792537517051.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "huul"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ja sõnad"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ühed"
+    }
+  ],
+  "timestamp": "2026-10-20T23:05:17.052069597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb ruahhiks, nagu et-distipline kehtib: üks sõna, mitu tähendust (Vaim, tuul, hingus)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab sageli öeldistäitena 'on', heebrea seda ei ütle"
+    }
+  ],
+  "translation": "Nii ütleb El, Jahve, kes loob taeva ja laotab need välja, kes sirutab maa ja selle idud, kes annab hingamise rahvale, kes sellel ⟨on⟩, ja ruahhi neile, kes sellel käivad:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/42\/5-8.1792547333723.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "kes loob"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "ja laotab need välja"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "kes sirutab"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "ja selle idud"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "hingamise"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kes sellel"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "neile, kes käivad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sellel"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:53.723742363Z",
+  "model": "glm-5.3"
+}

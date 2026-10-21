@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אותם",
+      "rationale": "Otseobjekti asesõna 'neid', mitte aleph-tav'i marker; masinmärgistus on ekslik."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "Heebrea 'kas-mitte' küsiv kinnitust näitav vorm, tõlgitud kui 'kas ... ei ole'."
+    },
+    {
+      "kind": "crux",
+      "subject": "במישור",
+      "rationale": "'Tasandikul' — möödaarme nõuanne: mägedes ei ole Iisraeli sõjavanker tugev, tasandikul on."
+    }
+  ],
+  "translation": "Ja sina: loe endale vägi, nagu vägi, mis ⟨את⟩ sinult on langenud, hobune nagu hobune ja sõjavanker nagu sõjavanker, ja võitleme nendega tasandikul — kas me ei ole nendest tugevamad? Ja ta kuulis nende häält ja tegi nii.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dda7015237efff6b35ac886273246967713e63c84c99c8763a843ebac5d11006",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/20\/25-28.1792545730596.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "loe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "nagu vägi"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "langenud"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ sinult"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ja hobune"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "nagu hobune"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ja sõjavanker"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "nagu sõjavanker"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ja võitleme"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "tasandikul"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ole tugevamad"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nendest"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja ta kuulis"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "nende häält"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    }
+  ],
+  "timestamp": "2026-10-21T01:22:10.598863472Z",
+  "model": "glm-5.3"
+}

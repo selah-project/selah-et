@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolm päeva",
+      "rationale": "pimeduse kestus on täpselt mõõdetud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "paks pimedus",
+      "rationale": "אפלה tähendab 'hämarust, pimedust' — 'paks' on KJV-traditsiooni järeljooks"
+    }
+  ],
+  "translation": "Ja Moše sirutas ⟨את⟩ oma käe taeva poole, ja oli paks pimedus kogu Mitsraimi maal kolm päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/10\/21-24.1792538395328.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ja sirutas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "על",
+      "gloss": "poole"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimedus"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "paks"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-20T23:19:55.328925093Z",
+  "model": "glm-5.3"
+}

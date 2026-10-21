@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנחל",
+      "rationale": "KJV\/ASV 'thou shalt inherit' vs YLT 'thou hast inheritance' — qal või pual-tähistus ebakindel; valitud tulevik 'pärandad'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalmist palve",
+      "rationale": "Hüüd Jumalale tõusta ja kohut mõista — imperatiiv pöördub Elohim poole."
+    }
+  ],
+  "translation": "Tõuse, Elohim, mõista ⟨את⟩ maa kohut, sest sina pärandad kõik rahvad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/82\/5-8.1792553582367.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tõuse"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "mõista … kohut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "pärandad"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:02.369436704Z",
+  "model": "glm-5.3"
+}

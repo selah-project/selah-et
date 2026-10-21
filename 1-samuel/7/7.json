@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 7:7",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ülemused",
+      "rationale": "סרני on filistlaste jaoks eraldiseisev tiitel (seren, 'vürst'), mida Iisraeli kuninga kohta ei kasutata"
+    },
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Eesti vajab kuuldu objekti, heebrea וישמעו jätab selle nimetamata"
+    }
+  ],
+  "translation": "Ja filistlased kuulsid, et Jisraeli pojad olid kogunenud Miitspass, ja filistlaste ülemused läksid üles Jisraeli vastu, ja Jisraeli pojad kuulsid seda ja kartsid filistlaste pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/7\/5-8.1792543762335.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulsid"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistlased"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "olid kogunenud"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Miitspass"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "läksid üles"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "ülemused"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistlaste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulsid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ja kartsid"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistlaste"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:22.337413811Z",
+  "model": "glm-5.3"
+}

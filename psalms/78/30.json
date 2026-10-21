@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרו",
+      "rationale": "tõlgitud 'möödusid ihast'; teine lugemine 'võõrandusid\/muutusid võõraks oma ihast' — erineb tugevalt tõlgetes"
+    },
+    {
+      "kind": "substitution",
+      "subject": "iha",
+      "rationale": "תאוה on tugev himu\/iha, mitte neutraalne 'soov'"
+    }
+  ],
+  "translation": "Nende ihast nad ei möödunud, ⟨veel⟩ oli nende toit nende suus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/29-32.1792553455932.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "möödunud"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "nende ihast"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨veel⟩"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nende toit"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nende suus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:55.933111873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 25:41",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושב \/ ישוב",
+      "rationale": "Sama juur שוב kordub kaks korda — 'pöördub tagasi ... ta pöördub', eesti keeles alles."
+    },
+    {
+      "kind": "addition",
+      "subject": "juurde",
+      "rationale": "Eesti kaassõna, mida heebrea אל ega konstruktiahel ei kanna otse."
+    }
+  ],
+  "translation": "Ja ta läheb sinu juurest välja, tema ja tema pojad koos temaga, ja pöördub tagasi oma sugukonna juurde ja oma isade valduse juurde ta pöördub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/25\/41-44.1792539605217.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ja ta läheb välja"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "sinu juurest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja tema pojad"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "koos temaga"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja pöördub tagasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "oma sugukonna"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja juurde"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "valduse"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oma isade"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ta pöördub"
+    }
+  ],
+  "timestamp": "2026-10-20T23:40:05.218442692Z",
+  "model": "glm-5.3"
+}

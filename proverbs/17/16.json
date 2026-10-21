@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מחיר",
+      "gloss": "'raha' vs sõna-sõnalt 'hind, tasu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "süda",
+      "rationale": "לב on mõistus, tahe, tervikmõtlemine — 'süda' ei kata eesti keeles kogu tähendust"
+    }
+  ],
+  "translation": "Miks see — raha rumala käes, tarkust osta, ja tal pole südant?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/17\/13-16.1792554768432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "raha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käes"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "rumala"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "osta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ja südant"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pole"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:48.433904999Z",
+  "model": "glm-5.3"
+}

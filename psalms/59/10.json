@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeer; eesti keel nõuab"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזו",
+      "rationale": "'tema vägi' (vaenlase) vs 'minu vägi' (Jumala, nagu Targum ja paljud tõlkijad)"
+    }
+  ],
+  "translation": "Tema väe pärast ma sind valvan, sest Elohim ⟨on⟩ mu kaljulinnus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/59\/9-12.1792553053837.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Tema väe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ma valvan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mu kaljulinnus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:13.838560375Z",
+  "model": "glm-5.3"
+}

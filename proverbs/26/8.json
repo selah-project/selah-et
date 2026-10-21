@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במרגמה",
+      "rationale": "hapax: 'kivikuhja sees' (JPS, sõna sarnane ragam 'kivi') vs 'lingus' (KJV, margemah on lingukivi) — valitud 'lingusse', kuna pilt on kivi, mis läheb vilinal minema"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מרגמה",
+      "rationale": "sõna esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבוד",
+      "rationale": "juur tähendab 'raske, kaalukas' — au, mis narile antakse, lendab ära nagu lingust kivi"
+    }
+  ],
+  "translation": "Nagu kivi sidumine lingusse, nii on see, kes annab narile au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a0d657d1473a40986dc0fcb94fd68d58c57174297b0563825a654fdbdb968b80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/26\/7-8.1792558669918.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "nagu sidumine"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "lingusse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "narile"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:49.922255187Z",
+  "model": "glm-5.3"
+}

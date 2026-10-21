@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti keel nõuab subjekti kordust, heebrea jätab selle ära"
+    },
+    {
+      "kind": "substitution",
+      "subject": "talvel",
+      "rationale": "חרף katab sügise-talvehooaja; 'külma pärast' (KJV) on tõlgendus, mitte tekst"
+    }
+  ],
+  "translation": "Talvel ei künna laisk; lõikusajal palub ⟨ta⟩ ja pole midagi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/20\/1-4.1792554830229.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "talvel"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "laisk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "künna"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "palub"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "lõikusajal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja pole midagi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:50.231186120Z",
+  "model": "glm-5.3"
+}

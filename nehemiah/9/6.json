@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 9:6",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את (5. token)",
+      "rationale": "Häälikuta אַתָּה on siin rõhuline isesõna 'sina', mitte aleph-tav objektimärgis — vaid mõned tõlkijad loevad seda DOM-märgiks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמים שמי השמים",
+      "rationale": "Kolmekordne 'taeva — taevaste taevad' kordus loob tõusva kõla, mida eesti keeles vaid osaliselt edasi anda saab."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vägi",
+      "rationale": "צבא on sõjaväe-kujund (מלחמa 'vägi'); 'vägi' hoiab sõjalise pildi, 'sulg' või 'inglid' oleksid tõlgendused."
+    }
+  ],
+  "translation": "Sina ise ⟨oled⟩ Jahve, üksinda; sina tegid ⟨את⟩ taeva, taevaste taevad ja kogu nende väe, maa ja kõik, mis selle peal ⟨on⟩, mered ja kõik, mis neis ⟨on⟩; ja sina elavutad ⟨את⟩ neid kõiki, ja taeva vägi kummardab sind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1a23b9be2646ea2f1cf4a2339278612ef899c9cdd93fa5e33495f2af27513f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/9\/5-8.1792557000005.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "üksinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tegid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taeva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "taevaste"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taevad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "nende väe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "selle peal"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mered"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neis"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "elavutad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neid kõiki"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "וצבא",
+      "gloss": "ja vägi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "kummardavad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:30:00.006587241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siledad",
+      "rationale": "נמלצו means 'smooth\/pleasant'; translations say 'sweet', but the literal picture is smoothness"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kui magusad",
+      "rationale": "traditional reading 'how sweet' (KJV, JPS) fits the honey comparison better, but 'smooth' keeps the Hebrew shape"
+    }
+  ],
+  "translation": "Kui siledad ⟨on⟩ need mu suulaele — sinu ütlus, kõndema suhule!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/101-104.1792554081401.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kui"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "siledad"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mu suulaele"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sinu ütlus"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kõndema"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suhule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:21.402616932Z",
+  "model": "glm-5.3"
+}

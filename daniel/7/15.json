@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 7:15",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iha",
+      "rationale": "aramaic נדנה 'tupp, mõõkatupp' — kujund kehast kui hingede tupest"
+    },
+    {
+      "kind": "crux",
+      "subject": "kurbuses",
+      "rationale": "אתכרית 'läbistatud\/mures' — 'kurbuses' vs 'rahutuses'"
+    }
+  ],
+  "translation": "Minu ruahh ⟨minu sees⟩ kurbuses, mina, Daniel, oma ihu keskel, ja minu pea nägemused mind ehmatasid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c9e55e5e7b74564f37fe6c45b068ceb5c7659b8f0fe7244a7650a863a932df7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/7\/13-16.1792556425718.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתכרית",
+      "gloss": "kurbuses"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "minu ruahh"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mina"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "בגוא",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "oma ihu"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "ja nägemused"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "minu pea"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "mind ehmatasid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:25.720030990Z",
+  "model": "glm-5.3"
+}

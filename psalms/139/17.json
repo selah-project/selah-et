@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõtted",
+      "rationale": "רֵעֶ֣יךָ tähendab otseselt 'sinu mõtted' (ideede ühendus), mitte 'sõbrad'"
+    },
+    {
+      "kind": "crux",
+      "subject": "nende peade koguarv",
+      "rationale": "רָאשֵׁיהֶם 'nende päid' tõlgitakse tavaliselt kui 'nende summa' — või jäetakse sõnasõnaliseks 'päid'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "koguarv",
+      "rationale": "salm räägib mõtete lugemisest ja nende hulga suurusest"
+    }
+  ],
+  "translation": "Ja mulle — kui kallid on sinu mõtted, El! kui suureks on nende peade koguarv tugevaks kasvanud!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/17-20.1792554309432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ja mulle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יקקרו",
+      "gloss": "kallid"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sinu mõtted"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kui"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "tugevaks kasvanud"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "nende peade koguarv"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:09.433255743Z",
+  "model": "glm-5.3"
+}

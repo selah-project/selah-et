@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאתי",
+      "rationale": "'ma olen kandnud (karistust)' (KJV) vs 'ma olen (patu) ära võtnud \/ andestatud' (Geneve) — heebrea verb jääb lünkjaks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "karistust",
+      "rationale": "lisatud ⟨karistust⟩ — heebrea ütleb üksnes 'ma olen kandnud', objekt on lünkjä."
+    },
+    {
+      "kind": "you",
+      "subject": "inimene Jumala ees",
+      "rationale": "salm tsiteerib patuja tunnistust Eeli ees — kaudne kõne."
+    }
+  ],
+  "translation": "Sest Eele on ⟨ju öeldud⟩: Ma olen kandnud ⟨karistust⟩, ma ei riku enam.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/34\/29-32.1792555641125.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kellegi poolt)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eelile"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "on öeldud"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ma olen kandnud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "riku"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:21.126517586Z",
+  "model": "glm-5.3"
+}

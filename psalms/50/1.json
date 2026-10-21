@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "El, Elohim, Jahve",
+      "rationale": "Kolm Nime reas: kas 'El Elohim Jahve' ühe jadana, või appositsioon 'Elohim, Jahve'; siin kõik kolm nimekujudena."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממזרח ... מבאו",
+      "rationale": "Ida (tõus) ja loojangu vastandus piiritleb kogu maailma Jahve kohtu jaoks."
+    }
+  ],
+  "translation": "Psalmit Asafile. El, Elohim, Jahve on rääkinud ja kutsunud ⟨את⟩ maad päikesetõusust kuni selle loojumiseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/1-4.1792552999828.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on rääkinud"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsunud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad",
+      "marks": "maa"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "päikesetõusust"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "päikese"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "tema loojumiseni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:19.828763010Z",
+  "model": "glm-5.3"
+}

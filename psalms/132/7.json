@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jalatala",
+      "rationale": "הדם רגליו sõnasõnalt 'tema jalgade pink' — jalatoetus"
+    },
+    {
+      "kind": "invitation",
+      "subject": "me läeme",
+      "rationale": "Kohortatiiv kutsub üles ühisele palverännakule pühamusse"
+    }
+  ],
+  "translation": "Me läeme tema miškanitesse, me kummardame tema jalatala ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/5-8.1792554226678.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Me läeme"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "tema miškanitesse"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "me kummardame"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "jalatala ees"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tema jalatala"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:46.679073333Z",
+  "model": "glm-5.3"
+}

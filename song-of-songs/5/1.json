@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 5:1",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "sööge, jooge",
+      "rationale": "Kõne kutsub sõpru ja armastatuid sööma ja jooma — otsene käsk-kutse lugejale."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושכרו דודים",
+      "rationale": "Kas 'jooge külluses, armastatud' või 'jooge armastusest purju'; שכר tähendab nii joobumist kui küllastust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kärjekanne",
+      "rationale": "יערי tähendab otseselt 'mu mets' \/ 'mu kärja-loodustarust mett'; kärjekanne annab pildi, kuid kaotab sõna kuju."
+    }
+  ],
+  "translation": "Ma tulin oma aeda, mu õde, mu pruut; ma korjasin oma mürri koos oma lõhnainetega, ma sõin oma kärjekanega koos oma meega, ma jõin oma veini koos oma piimaga. Sööge, sõbrad, jooge ja jooge külluses, armastatud!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/1-4.1792555842067.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באתי",
+      "gloss": "ma tulin"
+    },
+    {
+      "surface": "לגני",
+      "gloss": "oma aeda"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mu õde"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mu pruut"
+    },
+    {
+      "surface": "אריתי",
+      "gloss": "ma korjasin"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "oma mürri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "oma lõhnainetega"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ma sõin"
+    },
+    {
+      "surface": "יערי",
+      "gloss": "oma kärjekanega"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "דבשי",
+      "gloss": "oma meega"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "ma jõin"
+    },
+    {
+      "surface": "ייני",
+      "gloss": "oma veini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "oma piimaga"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sööge"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sõbrad"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "jooge"
+    },
+    {
+      "surface": "ושכרו",
+      "gloss": "ja jooge külluses"
+    },
+    {
+      "surface": "דודים",
+      "gloss": "armastatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:42.068569849Z",
+  "model": "glm-5.3"
+}

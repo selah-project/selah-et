@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להעביר למלך",
+      "rationale": "Traditsioon tõlgendab 'tule kaudu laskma mööda minna Molekile'; heebrea tekst ei maini tuld — 'üle andma Molekile' vs 'tule kaudu viima'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Molek",
+      "rationale": "למלך võib tähendada nii jumalat Molekit kui ka sõna 'kuningas'; kirjapilt viitab nimele Molek."
+    }
+  ],
+  "translation": "Ja oma seemnest ei tohi sa anda üleätamiseks Molekile, ega tohi sa pilgata oma Elohimi ⟨את⟩ nime — mina olen Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/18\/21-24.1792539397250.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "oma seemnest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sa anda"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "üleätamiseks"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega tohi"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "sa pilgata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "oma Elohimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:37.250773906Z",
+  "model": "glm-5.3"
+}

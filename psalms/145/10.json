@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hasiidid",
+      "rationale": "חסידיך 'su vagad\/usklikud' hoiti heebrea kõlaga, mitte pühakute doktriini sõnaga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יודוך \/ יברכוכה",
+      "rationale": "Kaks lõpPRI loovutegusõna lõpevad kaas primaalselt -ך sufiksiga 'sind', parallelism jääb"
+    }
+  ],
+  "translation": "Tunnistavad sind, Jahve, kõik su teod, ja su hasiidid õnnistavad sind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/9-12.1792554358669.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Tunnistavad sind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "su teod"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ja su hasiidid"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "õnnistavad sind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:58.670980979Z",
+  "model": "glm-5.3"
+}

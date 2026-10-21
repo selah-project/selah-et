@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 3:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rahvaid",
+      "rationale": "עמים on mitmus: 'rahvaid', KJV üksuses 'the people'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצב\/ועמד",
+      "rationale": "kaks 'seismise' tüve tähistavad kohtulikku asendit — Jahve seisab kohtuistangi ees"
+    }
+  ],
+  "translation": "Jahve tõuseb vaidlema ja ⟨on⟩ seisnud rahvaid üle kohutama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c751c9c671026c82246b4efc5cba8065fb7d9fced03901563d71dc233dde11a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/3\/13-16.1792546652064.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצב",
+      "gloss": "tõuseb"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "vaidlema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ja ⟨on⟩ seisnud"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "kohutama"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:37:32.065339104Z",
+  "model": "glm-5.3"
+}

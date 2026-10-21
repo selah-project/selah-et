@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Sujuv eesti keel ei vaja eraldi eessõna; 'majja' kannab suuna"
+    }
+  ],
+  "translation": "Kui Doeg, edomlane, tuli ja teatas Saulile ning ütles temale: David on tulnud Ahhimaleki majja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/52\/1-4.1792552998216.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kui ... tuli"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomlane"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja teatas"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "בא",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahhimaleki"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:18.217966548Z",
+  "model": "glm-5.3"
+}

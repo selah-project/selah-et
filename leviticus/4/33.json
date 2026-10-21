@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "patuohver",
+      "rationale": "חטאת kannab nii patu kui patuohvri tähendust; üks sõna, kaks rolli"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת",
+      "rationale": "sama sõna kordub ohvrina ja otstarbena (לחטאת), eesti keeles kahe vormiga"
+    }
+  ],
+  "translation": "Ja ta toetab ⟨את⟩ oma käe patuohvri pea peale ja tapab ⟨את⟩ selle patuohvriks seal, kus ta tapab ⟨את⟩ põletusohvri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e5894b14c7d6382cc5275267c68ff62cb35f49e17ce429b889e941e7cc89a2fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/4\/33-35.1792539135015.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ja ta toetab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "patuohvri"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja tapab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "selle"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "patuohvriks"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "seal, kus — kohas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ta tapab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "põletusohvri"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "põletusohvri"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:15.015715881Z",
+  "model": "glm-5.3"
+}

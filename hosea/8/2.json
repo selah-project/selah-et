@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יזעקו",
+      "rationale": "Olevik või tulevik — 'nad kisendavad' vs 'nad hakkavad kisendama'; JPS loeb küsivana: 'kas nad kisendavad minu poole?'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידענוך \/ ולא ידעתי (8:4)",
+      "rationale": "'meie tundsime sind' vs 8:4 'ma ei tundnud' — teadmis töötlemine külg külje kõrval"
+    }
+  ],
+  "translation": "Minu poole nad kisendavad: mu Elohim, meie, Jisrael, oleme sind tundnud!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/8\/1-4.1792551009354.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minu poole"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "nad kisendavad"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "oleme sind tundnud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:09.355060464Z",
+  "model": "glm-5.3"
+}

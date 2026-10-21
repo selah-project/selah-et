@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פלשתים",
+      "gloss": "filiinlased",
+      "rationale": "Kaalutlus 'filisteid' ja 'filiinlased' vahel; valitud heebrea kõla lähedasem vorm."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מגדל נוצרים ... עיר מבצר",
+      "rationale": "Kaks paarisvastandust 'valvurite torn — kindlustatud linn' tähistab kogu maapiiri; kord märkab kõige pisemat ja kõige suuremat valvatut."
+    }
+  ],
+  "translation": "Tema lõi ⟨את⟩ filiinlasi kuni Azzani ja ⟨את⟩ selle piire, valvurite tornist kuni kindlustatud linnani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f9ecda6c511acc5c8d9e2ff185d30b54354310136802932755bcd8d7183d15c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/18\/5-8.1792546303921.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "lõi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filiinlasi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filiinlasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "selle piire"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "selle piire"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "tornist"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "valvurite"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linnani"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "kindlustatud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:31:43.924440798Z",
+  "model": "glm-5.3"
+}

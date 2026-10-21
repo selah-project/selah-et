@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבזה ... נמאס",
+      "rationale": "Passives without explicit subject: 'a vile person is despised' (KJV\/JPS) vs 'the despised one is rejected in his eyes' (YLT); Estonian keeps the bare passive 'ring'"
+    },
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "'Sworn to harm' — to harm himself or to do evil generally; rendered 'kahju kannatama' (suffer harm, i.e. to his own hurt)"
+    }
+  ],
+  "translation": "Põlatud on tema silmis hüljatute ring, ja Jahve kartjaid ta austab; kes on vandunud kahju kannatama ega muuda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/15\/1-4.1792552442857.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Põlatud"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tema silmis"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "hüljatute ring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve kartjad"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "Jahve kartjad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "austab"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "on vandunud"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "kahju kannatama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "muuda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:02.858463530Z",
+  "model": "glm-5.3"
+}

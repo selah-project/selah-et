@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "saad pöörama",
+      "rationale": "הפכת 'pöörasid\/komuvaldasid' — kas 'pöörama, et mugavam olla' (KJV) või 'muutma tema asendi halastusest' (BSB 'restore')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "haigevoodil",
+      "rationale": "ערש דוי on sidum 'haignemise voodi' — eesti keeles kokku kirjutatud"
+    }
+  ],
+  "translation": "Jahve teda toetab haigevoodil, kogu tema voodit saad pöörama tema halva sees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "43e06c17f519d73a776edf2bbe25feefc2490d5ad549162f4bcd0dff2fb8806b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/4-4.1792558550407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "teda toetab"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "voodil"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "haige-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "tema voodit"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "saad pöörama"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "tema halva sees"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:50.408687161Z",
+  "model": "glm-5.3"
+}

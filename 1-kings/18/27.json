@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 18:27",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שיג",
+      "rationale": "sõna esineb Tanahhis ainult siin — tähendus 'kõrvale astuma, eemale minema' on tuletatud kontekstist"
+    },
+    {
+      "kind": "crux",
+      "subject": "שיח",
+      "rationale": "'mõiskleb\/mõtleb' vs KJV 'jutustab', Geneve 'taga ajab' — sõna tähendab ka 'mõtiskus, palve'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumal",
+      "rationale": "אלהים siin pilkes Baali kohta — väikse tähega 'jumal', mitte Elohim"
+    }
+  ],
+  "translation": "Ja keskpäeval pilgas Elijaahu neid ja ütles: Hüüdke valju häälega, sest jumal on ta — ehk ta mõiskleb, või ehk on ta kõrvale astunud, või ehk on ta teel; võib-olla ta magab ja peab ärkama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6682e760f10a58bca14e17203317927fd8fade6e22f517e67ddb7d7621bfceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/18\/25-28.1792545727254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "keskpäeval"
+    },
+    {
+      "surface": "ויהתל",
+      "gloss": "ja pilgas"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hüüdke"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "häälega"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "valju"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on ta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ehk"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ta mõiskleb"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "või ehk"
+    },
+    {
+      "surface": "שיג",
+      "gloss": "on ta kõrvale astunud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "või ehk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "on ta teel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "võib-olla"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ta magab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ja peab ärkama"
+    }
+  ],
+  "timestamp": "2026-10-21T01:22:07.258626760Z",
+  "model": "glm-5.3"
+}

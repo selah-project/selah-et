@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק jääb heebrea kõlaga sõnaks, mitte 'õigus' üksi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "keskpäev",
+      "rationale": "כצהרים on kaksikkujund 'kahevalgus', sõna-sõnalt 'topeltvalgus' — päikese kaks tippvalgust."
+    }
+  ],
+  "translation": "ja ta toob su tsedeki välja nagu valgus ja su õiguse nagu keskpäev.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/5-8.1792552722853.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ja ta toob välja"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "nagu valgus"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "su tsedek"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ja su õigus"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "nagu keskpäev"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:42.854038720Z",
+  "model": "glm-5.3"
+}

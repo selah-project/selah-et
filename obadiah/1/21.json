@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kohut mõista",
+      "rationale": "לשפט hõlmab nii 'kohut mõista' kui 'valitseda'; BSB valib 'valitseda'"
+    },
+    {
+      "kind": "crux",
+      "subject": "päästjad",
+      "rationale": "מושעים mitmus: 'päästjad' vs 'vabastajad' või 'võitjad'"
+    }
+  ],
+  "translation": "Ja tõusevad päästjad Siioni mäele, et kohut mõista ⟨את⟩ Esavi mäe üle, ja kuningriik olgu Jahvele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b295621b542ba1e56faee8a97993939a2201961f8685e4a6f5f824b62bb74a75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/obadiah\/1\/21-21.1792551373434.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלו",
+      "gloss": "ja tõusevad"
+    },
+    {
+      "surface": "מושעים",
+      "gloss": "päästjad"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mäele"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "et kohut mõista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavi mäe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mäe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ja olgu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuningriik"
+    }
+  ],
+  "timestamp": "2026-10-21T02:56:13.435422941Z",
+  "model": "glm-5.3"
+}

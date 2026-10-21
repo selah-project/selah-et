@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Heebrea שמו ja ישועתו on suffiksitega; eesti keeles eraldi asesõna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "päästmine",
+      "rationale": "ישועה on 'abi, vabanemine, võit' — tähendab laiemalt kui päästmine."
+    }
+  ],
+  "translation": "Laulge Jahvele, õnnistage tema nime, kuulutage päevast päeva tema päästmist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/96\/1-4.1792553719621.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Laulge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "õnnistage"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nime"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kuulutage"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "päevast"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "tema päästmist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:19.622171724Z",
+  "model": "glm-5.3"
+}

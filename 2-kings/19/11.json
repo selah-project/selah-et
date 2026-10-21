@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תנצל",
+      "rationale": "Sama juur נצל nagu järgmise salmi ההצילו — 'kas sina pääseted?' vs 'kas jumalad päästsid?' — retooriline peegeldus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hävitades",
+      "rationale": "להחרימם on 'neid pühendama hävitamisele' (herem); 'hävitama' jätab pühitsemise mõõdu kõrvale."
+    }
+  ],
+  "translation": "Vaata, sina oled kuulnud ⟨את⟩ seda, mida Assüüria kuningad on teinud kõigile maadele, neid hävitades — ja sina, kas sina pääseted?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/19\/9-12.1792546371816.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "oled kuulnud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda, mida Assüüria kuningad on teinud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "on teinud"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningad"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assüüria"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maadele"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "neid hävitades"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "pääseted"
+    }
+  ],
+  "timestamp": "2026-10-21T01:32:51.818701718Z",
+  "model": "glm-5.3"
+}

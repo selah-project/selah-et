@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "„tuvike vaikuses kaugel“",
+      "rationale": "יונת אלם רחקים on arusaamatu päis — kas meloodianimi, või „vaikse tuvikesena kaugel (maas)“ Davidi enese võrdkujuna"
+    },
+    {
+      "kind": "crux",
+      "subject": "miktam",
+      "rationale": "מכתם: 'kullaks kirjutatud \/ graveering' vs 'kallis salm'; tähendus on kindlaks määramata"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "sõna ilmub siin ja vaid viiel psalmipäisel — juur occurs siin vaid päistes"
+    }
+  ],
+  "translation": "Koorijuhatajale, saatel „tuvike vaikuses kaugel“, Davidi miktam, kui pelistlased teda Gatis kinni pidasid ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/1-4.1792553035156.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "על",
+      "gloss": "saatel"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "tuvike"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "vaikuses"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "kaugel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "kui kinni pidasid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda (pelistlased)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistlased"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:55.157770412Z",
+  "model": "glm-5.3"
+}

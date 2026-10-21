@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויאמר יהוה",
+      "rationale": "Mitmus (Baalid) jääb mitmuseks nagu heebrea הבעלים; mõned tõlked lisavad 'ja ütles Jahve', mis heebrea tekstis selles salmis puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kangekaelsus",
+      "rationale": "שררות tähendab kangekaelsust\/ärtu; traditsiooniline 'oma südame kujutlused' (KJV 'imagination') on laiem tõlge."
+    }
+  ],
+  "translation": "Ja nad käisid oma südame kangekaelsuse järel ja Baalide järel, keda nende isad neid õpetasid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/9\/13-16.1792548195251.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ja nad käisid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järel"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "kangekaelsuse"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "oma südame"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ja järel"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "õpetasid neid"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nende isad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:03:15.252752696Z",
+  "model": "glm-5.3"
+}

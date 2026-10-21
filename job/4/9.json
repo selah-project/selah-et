@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tema viha",
+      "rationale": "אפו tähendab sõna-sõnalt 'tema nina\/ninasõõrmed'; viha on metonüümia, mida enamik tõlkeid järgib"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנשמת \/ ומרוח",
+      "rationale": "kaks palsamit — 'hingeõhk' ja 'ruahh' — parallleelses lauses, eesti keeles osaliselt säilinud"
+    }
+  ],
+  "translation": "Eloahi hingeõhust nad hukkuvad, ja tema viha ruahhist nad kaovad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/4\/9-12.1792555110016.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "hingeõhust"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "nad hukkuvad"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "ja ... ruahhist"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tema viha"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nad kaovad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:30.017394213Z",
+  "model": "glm-5.3"
+}

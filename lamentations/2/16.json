@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 2:16",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחרקו שן",
+      "rationale": "Heebrea ütleb otseselt 'ja nad kiristasid hamba' — kogu hambarida on ühe arvuga (שן ainsus), eesti kombed nõuavad 'hammast'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרקו ויחרקו",
+      "rationale": "Vile ja hammaste kiristamise kõlav sarnasus (šarqu–vajjaḥrequ) ründava pilkena; eesti keeles kajab mõnevõrra 'viletsid–kiristasid'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab kööpsõna, heebrea sõnastu seda ei sisalda ('just see päev')."
+    },
+    {
+      "kind": "you",
+      "subject": "tütar Siionile",
+      "rationale": "Salm räägib pöördumises 'su vaenlased, su vastu' — kogu Jerušalaimi addressed in feminiinis (עלייך)."
+    }
+  ],
+  "translation": "Kõik su vaenlased avasid su vastu oma suu, nad viletsid ja kiristasid hammast, nad ütlesid: Alla neelasime ⟨ta⟩! Just see ⟨on⟩ päev, mida me ootasime — leidsime, nägime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eea21ffc196c74ba2173bc6cba70147e9eba9135e0e542390e22fcaa406d0e34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/2\/16-16.1792558644148.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "avasid"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "su vastu"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "oma suu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "su vaenlased"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "nad viletsid"
+    },
+    {
+      "surface": "ויחרקו",
+      "gloss": "ja kiristasid"
+    },
+    {
+      "surface": "שן",
+      "gloss": "hammast"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nad ütlesid"
+    },
+    {
+      "surface": "בלענו",
+      "gloss": "alla neelasime"
+    },
+    {
+      "surface": "אך",
+      "gloss": "just"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "שקוינהו",
+      "gloss": "mida me ootasime"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "leidsime"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nägime"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:24.154755926Z",
+  "model": "glm-5.3"
+}

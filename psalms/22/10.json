@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבטיחי",
+      "rationale": "'Põhjustasid mu usalduse' vs 'andsid mulle lootuse' — hifil äratada usaldust; paigutasin 'lootuse' rindade peale, nagu heebrea sõnajärg ütleb."
+    },
+    {
+      "kind": "addition",
+      "subject": "oled see, kes",
+      "rationale": "Eesti kaudne kõne vajab_RELatiivi, heebreas on partitsip 'väljatooja'."
+    }
+  ],
+  "translation": "Sina oled see, kes mind emaihust välja tõid; mu lootuse panid sa mu ema rindade peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/9-12.1792552497250.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "välja tõid"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "emaihust"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "mu lootuse panid"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mu ema rindade"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mu ema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:57.251706753Z",
+  "model": "glm-5.3"
+}

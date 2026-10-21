@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "koolon",
+      "rationale": "Heebrea nimeloend ei vaja koolonit; eesti kirjaviis nõuab selle lause lõpetamiseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלובי",
+      "rationale": "Kelubai = Kaaleb (vt 1Aj 2:18, 42); enamus tõlkeid jätab nimekuju nagu on"
+    }
+  ],
+  "translation": "Ja Hetseroni pojad, kes temale sündisid: ⟨את⟩ Jerachmeel ja ⟨את⟩ Raam ja ⟨את⟩ Kelubai.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/2\/9-12.1792557131802.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja ... pojad"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetseroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "sündisid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Raam"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Raam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-10-21T04:32:11.803727534Z",
+  "model": "glm-5.3"
+}

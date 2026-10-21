@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seitsmekordselt",
+      "rationale": "שבעתים 'seitse korda' — täielikkuse mõõt pilga tasumisel"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתם \/ חרפוך",
+      "rationale": "sama juur חרף kordub: 'nende pilk, millega nad sind pilgasid' — sõnamäng jääb eestis nähtavaks"
+    },
+    {
+      "kind": "you",
+      "subject": "otsene pöördumine Adonai poole",
+      "rationale": "vaimulik hüüatus värsi lõpus"
+    }
+  ],
+  "translation": "Ja tasu tagasi meie naabritele, seitsmekordselt nende põue, nende pilk, millega nad sind pilgasid, Adonai.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/79\/9-12.1792553427345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "ja tasu tagasi"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "meie naabritele"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "seitsmekordselt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "nende põue"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "nende pilk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "nad sind pilgasid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:27.346232937Z",
+  "model": "glm-5.3"
+}

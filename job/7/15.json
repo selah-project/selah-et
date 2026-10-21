@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingamine, elujõud', mitte eraldiseisev 'hing' eesti mõttes."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mu luumude ees",
+      "rationale": "מעצמותי otse 'mu luud' — või tervikuna 'see mu luust-kehast', st 'pigem kui see mu luudekandja elu' (JPS)."
+    }
+  ],
+  "translation": "nii et mu hing eelistab kägistamist, surma mu luumude ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/7\/13-16.1792555133309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "eelistab"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "kägistamist"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "mu luumude ees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:53.310325034Z",
+  "model": "glm-5.3"
+}

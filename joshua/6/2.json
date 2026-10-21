@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "eesti ei vaja eraldi suunamissõna; käände 'Jehošuale' kannab selle"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehošuale",
+      "rationale": "otse kõne — Jahve pöördub Jehošua poole"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבורי החיל",
+      "rationale": "'vägevad sõjamehed' vs 'vägevad vaprust' — kas linnast sõdurid või üldnimetus"
+    }
+  ],
+  "translation": "Ja Jahve ütles Jehošuale: Vaata, ma olen andnud su kätte ⟨את⟩ Jeriho ja ⟨את⟩ selle kuninga, vägevad sõjamehed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/6\/1-4.1792541408310.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuale"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ma olen andnud"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "su kätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "selle kuninga"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "selle kuninga"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "vägevad"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sõjamehed"
+    }
+  ],
+  "timestamp": "2026-10-21T00:10:08.311289383Z",
+  "model": "glm-5.3"
+}

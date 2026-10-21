@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לרחמים",
+      "rationale": "otsetõlge 'halastustele'; mitmuses 'kaastunne', 'emakas' on sama juure haru — pilt on kaastundlikuks tegemine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vangistajate",
+      "rationale": "שוביהם on pelgalt partitsiip 'nende viijate vangi', mitte nimetav amet"
+    }
+  ],
+  "translation": "Ja ta andis ⟨את⟩ nad halastuse alla kõigi nende vangistajate ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d38226ea90447e28c4d75e77dead21ce453c9ce894defcd55aab3eb22cae58d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/45-48.1792553852852.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja andis"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nad"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "halastuse alla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "nende vangistajate"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:32.853181730Z",
+  "model": "glm-5.3"
+}

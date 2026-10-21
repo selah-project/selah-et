@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 3:26",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab kopeeli 'nad on mässumaja', heebrea puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "suulae",
+      "rationale": "חך on suulae\/suie, mitte lihtsalt 'suu' nagu paljudes tõlgetes."
+    },
+    {
+      "kind": "you",
+      "subject": "Yehezkelile",
+      "rationale": "Jahve kõneleb otse prohvetile, keelatakse tal rahvast noomida."
+    }
+  ],
+  "translation": "Ja sinu keele ma panen kinni su suulae külge, ja sa oled vaikitsev ja sa ei ole neile meheks, kes noomib, sest mässumees ⟨on⟩ nad — maja mässu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "525798db7df2497909d540db492d829022dfc0e3c7f744c8c74e633dc8a10b6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/3\/25-27.1792549631451.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשונך",
+      "gloss": "Ja sinu keele"
+    },
+    {
+      "surface": "אדביק",
+      "gloss": "ma panen kinni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "külge"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "su suulae"
+    },
+    {
+      "surface": "ונאלמת",
+      "gloss": "ja sa oled vaikitsev"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sa ole"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "meheks"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "kes noomib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "mässu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:27:11.452373850Z",
+  "model": "glm-5.3"
+}

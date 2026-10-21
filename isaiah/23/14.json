@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעזכן",
+      "rationale": "'teie kindlus\/varjupaik' — kas Tsori sadam või jõud üldiselt"
+    }
+  ],
+  "translation": "Uluge, Taršiši laevad, sest teie varjupaik ⟨on⟩ laastatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "55c261131dfbbb23620c228e788c4477ab817ae41d967429cd8f6bcbbe3ffe23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/23\/13-16.1792547032670.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Uluge"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "laevad"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "laastatud"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "teie varjupaik"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:52.671539408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "ezra 2:59",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olid⟩",
+      "rationale": "Eesti keel nõuab kopolat, heebrea puudub."
+    },
+    {
+      "kind": "measurement",
+      "subject": "põlvkonna tõestamine",
+      "rationale": "Salm käsitleb suguvõsa tõestamist loenduse raames — kellel puudus tunnistus, jäi kõrvale."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tundmatu päritolu",
+      "rationale": "Need perekonnad ei suutnud oma päritolu näidata — tekst jätab nime ja staatuse lahtiseks."
+    }
+  ],
+  "translation": "Ja need olid need, kes läksid üles Tel-Melachist, Tel-Charshast, Cherubist, Addanist ja Immerist, aga nad ei suutnud näidata oma isade koja ja oma seemnet, kas nad ⟨olid⟩ Jisraelist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2637b67a3efc776febbede01887c9342175a81b8f6178c54087ba3a4af72a66c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/2\/57-60.1792556684730.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja need"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kes läksid üles"
+    },
+    {
+      "surface": "מתל",
+      "gloss": "Tel-"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Melachist"
+    },
+    {
+      "surface": "תל",
+      "gloss": "Tel-"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Charshast"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Cherubist"
+    },
+    {
+      "surface": "אדן",
+      "gloss": "Addanist"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Immerist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga nad ei"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suutnud"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "näidata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "oma isade"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ja oma seemnet"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisraelist"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨olid⟩ nad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:44.731107111Z",
+  "model": "glm-5.3"
+}

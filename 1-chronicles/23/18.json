@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "suguvõsa loend",
+      "rationale": "Loendamise\/lugemise kontekst — leviitide perekondade nimistu."
+    },
+    {
+      "kind": "crux",
+      "subject": "peamine",
+      "rationale": "הראש sõna-sõnalt 'pea' — 'peamine' vs 'esimene' (nagu mõned tõlked ütlevad); kontekstis tähendab see perepead või vanemat."
+    }
+  ],
+  "translation": "Jiṣhari pojad: Šelomit peamine.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb39018e92c27cb135a1338d3c8b341084648e816d6e9fecb05f41527cba897a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/23\/17-20.1792557475113.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Jiṣhari"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Šelomit"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "peamine"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:55.113721215Z",
+  "model": "glm-5.3"
+}

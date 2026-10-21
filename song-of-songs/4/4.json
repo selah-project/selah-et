@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 4:4",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לתלפיות",
+      "rationale": "Sõna esineb Tanahhis ainult siin — 'kõrgused\/astmed', tähendus ebakindel"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלטי",
+      "rationale": "šeleṭ esineb ainult siin — arvatavalt 'suur kilp'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לתלפיות",
+      "rationale": "' Vallutusteks' (KJV) vs 'tornikeste jaoks' (JPS) vs 'kihtidesse' — ebakindel hapax"
+    }
+  ],
+  "translation": "Nagu Davidi torn on su kael, ehitatud kõrgustesse; tuhat kilpi rippub sellel, kõik vägevate kilbid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/4\/1-4.1792555799811.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמגדל",
+      "gloss": "nagu torn"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "su kael"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "ehitatud"
+    },
+    {
+      "surface": "לתלפיות",
+      "gloss": "kõrgustesse"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "kilpi"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "rippub"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "kilbid"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vägevate"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:59.812165098Z",
+  "model": "glm-5.3"
+}

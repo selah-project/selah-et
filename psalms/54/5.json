@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefashat",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte 'hing' platoonilises mõttes"
+    },
+    {
+      "kind": "elision",
+      "subject": "nad",
+      "rationale": "נפש köites puudub subjekt; eesti keel nõuab seda"
+    }
+  ],
+  "translation": "Sest võõrad tõusid minu vastu ja vägivaldsed otsisid mu nefashat; nad ei seadnud Elohimit endale ette. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/54\/5-8.1792552971338.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "võõrad"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "tõusid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ja vägivaldsed"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "otsisid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefashat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "seadnud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "endale ette"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:51.339161599Z",
+  "model": "glm-5.3"
+}

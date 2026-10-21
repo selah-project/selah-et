@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Eesti keel nõuab kopulat, heebrea keeles seda ei ole"
+    },
+    {
+      "kind": "crux",
+      "subject": "kelle varjupaik",
+      "rationale": "KJV loeb 'Jahve, kes on mu varjupaik' (teine rääkija), YLT\/JPS loevad 'sina, Jahve, oled mu varjupaik' (kõneleja ise)"
+    }
+  ],
+  "translation": "Sest sina, Jahve, oled mu varjupaik; Kõrgeima oled sa ⟨teinud⟩ oma eluasemeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/9-12.1792553609086.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mu varjupaik"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Kõrgeima"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "oled sa ⟨teinud⟩"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "oma eluasemeks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:29.087245990Z",
+  "model": "glm-5.3"
+}

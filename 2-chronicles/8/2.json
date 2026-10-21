@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "linnad, mida Huuram oli andnud",
+      "rationale": "1Ki 9:11 ütleb vastupidi, et Selomo andis linnad Huuramile; siin annab Huuram need tagasi — tõlkijad lahendavad seda erinevalt (KJV 'restored')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויושב",
+      "gloss": "Kausatiiv 'pani elama', mitte lihtsalt 'elas'."
+    }
+  ],
+  "translation": "Ja linnad, mida Huuram oli andnud Šelomole — need ehitas Šelomo üles, ja ta pani ⟨את⟩ Jisraeli poegade elama sinna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0887fe0077689ebb512d0d61c70a6f76e933866aa6fb9640791a798b5f6a6ab4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/8\/1-4.1792557738761.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Ja linnad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "oli andnud"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huuram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomole"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ehitas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "need (linnad)"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "ja pani elama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli poegade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:42:18.762876190Z",
+  "model": "glm-5.3"
+}

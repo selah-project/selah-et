@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ \/ ⟨oled⟩",
+      "rationale": "Eesti keel nõuab verbi, heebrea puudulause seda ei sisalda"
+    },
+    {
+      "kind": "alternative",
+      "subject": "muistsest ajast",
+      "rationale": "מאז tähendab ka 'sellest saadik' — troon on saadud ajal, mil see püstitati"
+    }
+  ],
+  "translation": "Püsima ⟨on⟩ seatud sinu troonialust muistsest ajast, igavesest ajast ⟨oled⟩ sina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/93\/1-4.1792553662997.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "püsima seatud"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "sinu troonialust"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "muistsest ajast"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "igavesest ajast"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:22.998388168Z",
+  "model": "glm-5.3"
+}

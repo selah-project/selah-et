@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel nõuab kopulat, heebreas seda pole"
+    },
+    {
+      "kind": "you",
+      "subject": "kogudus",
+      "rationale": "šalishi ütlus rahvuste küsimusele, vahetult Jisraelile suunatud kaitsekõne"
+    }
+  ],
+  "translation": "Aga meie Elohim ⟨on⟩ taevas; kõik, mis ta tahab, teeb ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/1-4.1792553991441.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "aga meie Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ta tahab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teeb ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:51.442014475Z",
+  "model": "glm-5.3"
+}

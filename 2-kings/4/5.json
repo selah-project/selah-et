@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nõud",
+      "rationale": "Nõusid ei ole heebrea tekstis selles salmis otseselt nimetatud — lisatud ⟨nõud⟩, sest eesti keel vajab objekti"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעדה ובעד בניה",
+      "rationale": "Otse: 'tema jaoks ja tema poegade jaoks'; eesti komistab, sest sulgeda ukse kellegi 'jaoks' tähendab kellegi selja taha"
+    }
+  ],
+  "translation": "Ja ta läks ⟨את⟩ tema juurest ära ja sulges ukse enda ja oma poegade selja taha; nemad tõid talle ⟨nõud⟩ ja tema valas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/4\/5-8.1792545926047.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ja ta läks"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "tema juurest ⟨את⟩"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ja sulges"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ukse"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "enda selja taha"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja ... selja taha"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oma poegade"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "tõid lähedale"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "valas"
+    }
+  ],
+  "timestamp": "2026-10-21T01:25:26.048592447Z",
+  "model": "glm-5.3"
+}

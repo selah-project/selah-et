@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "asesõna lisatud selguseks; heebrea vaid ויאמר 'ja ütles'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ahimelek",
+      "rationale": "Šauli otsene pöördumine preestri poole: 'Kuule nüüd, Ahitubi poeg'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "siin olen",
+      "rationale": "הנני otsesõna vastus 'vaata mind'; eesti vaste 'siin olen'"
+    }
+  ],
+  "translation": "Ja Šaul ütles: Kuule nüüd, Ahitubi poeg! Ja ta ütles: Siin olen, mu isand.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/22\/9-12.1792544151404.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "siin olen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mu isand"
+    }
+  ],
+  "timestamp": "2026-10-21T00:55:51.406400075Z",
+  "model": "glm-5.3"
+}

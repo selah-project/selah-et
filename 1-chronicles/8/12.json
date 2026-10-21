@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בנותיה",
+      "rationale": "Sõna-sõnalt 'tema tütred'; elavates tõlgetes tähendab see lähedasi asulaid ('tütarkülad'), kuid naisküla pilt on säilitatud sõna-sõnaliselt."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨:⟩",
+      "rationale": "Kopolula puudub heebrea keeles: 'Ja Elpaali pojad ⟨olid⟩ ...'."
+    }
+  ],
+  "translation": "Ja Elpaali pojad: Eeber ja Mišam ja Šemed — tema ehitas ⟨את⟩ Ono ja ⟨את]] Lodi koos oma tütardega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/8\/9-12.1792557278550.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ja pojad"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaali"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eeber"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ja Mišam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ja Šemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ehitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Lodi"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "koos oma tütardega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:34:38.551794672Z",
+  "model": "glm-5.3"
+}

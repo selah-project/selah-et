@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא את כלם",
+      "rationale": "'tuleb neist kõigist välja' vs jps 'vabaneb neist kõigist' — heebrea יצא את on tavatundlik konstruktsioon"
+    },
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti kääne nõuab omastavat pronoomeni, heebreas liitut 'kätt'"
+    }
+  ],
+  "translation": "Hea on see, et sa seda kinni pead, ja ka sellest ära ⟨את⟩ oma kätt ära võta, sest kes kardab Elohimit, see tuleb ⟨את⟩ neist kõigist välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/17-20.1792556079092.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "sa kinni pead"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "sedä"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "võta ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kätt"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "oma kätt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kes kardab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tuleb välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neist kõigist"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "neist kõigist"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:39.093158744Z",
+  "model": "glm-5.3"
+}

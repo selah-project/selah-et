@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tuli",
+      "rationale": "היה sõna-sõnalt 'oli' — 'sõna oli Jermijahule'; eesti kõneviis nõuab 'tuli'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחצר המטרה",
+      "rationale": "sama vangla-õue fraas kordub salmis 14 ja 15, ühendades vangistuse ja pääsemise üheks paigaks"
+    }
+  ],
+  "translation": "Ja Jermijahule tuli Jahve sõna, kui ta oli kinni peetud vangla õues, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "635b61a7eda30732d5c560d849c74ea0f4a4b84fc613fd624d2b1c71322760c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/39\/14-15.1792558468523.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jermijahule"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "kui ta oli"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "kinni peetud"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "õues"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "vangla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:28.525144549Z",
+  "model": "glm-5.3"
+}

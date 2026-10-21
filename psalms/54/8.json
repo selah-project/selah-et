@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 54:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Koopula puudub heebreas; eesti keel lisab 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tunnistan",
+      "rationale": "ידה tähendab sõnasõnalt 'käega näitama\/viskama' — ülistuse väljendus"
+    }
+  ],
+  "translation": "Vabatahtliku ohvrina ohverdan sulle, tunnistan su nime, Jahve, sest see ⟨on⟩ hea.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/54\/5-8.1792552971338.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנדבה",
+      "gloss": "vabatahtliku ohvrina"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ohverdan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "tunnistan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "su nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:51.340179969Z",
+  "model": "glm-5.3"
+}

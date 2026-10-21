@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub sidesõna; eesti nominatiivlause nõuab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסיד",
+      "rationale": "'heldes\/hoolas' vs 'vaga' vs 'pühak' — juur חסד (hesed) viitab heldusele"
+    }
+  ],
+  "translation": "Õige ⟨on⟩ Jahve kõigis oma teedes ja heldes kõigis oma tegudes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/17-20.1792554416209.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Õige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõigis"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "oma teedes"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ja heldes"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõigis"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "oma tegudes"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:56.209550254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "heebrea tekst jätab öeldisverbi ära; eesti keel vajab kopeelat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שפטים",
+      "rationale": "sõna-sõnalt 'otsused\/karistused' — 'kohtumõistmised' edasi KJV traditsiooni, heebrea sõna on 'langetatud otsused, karistusaktid'"
+    }
+  ],
+  "translation": "Ja Moabis teen mina kohtumõistmisi, ja nad tunnevad ära, et mina ⟨olen⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d97118e3b6fca6f0ec5d0dc03c86237b93eb74212fc9add6c852de3f2efb3136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/25\/9-12.1792550277521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "ja Moabis"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen mina"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "kohtumõistmisi"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja nad tunnevad ära"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:37:57.522285557Z",
+  "model": "glm-5.3"
+}

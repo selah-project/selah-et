@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "liha",
+      "rationale": "שאר on 'liha\/kõhutäis', toidu esmane tähendus, mitte 'ihulik hing'"
+    },
+    {
+      "kind": "you",
+      "subject": "küsiv rahvas",
+      "rationale": "kaks reetlikku küsimust on suunatud kogukonnale endale, kõrbe kahtluse hääl"
+    }
+  ],
+  "translation": "Vaata, ta lõi kaljut ja voolas vett, ojad uhkasid üle — kas ta suudab ka leiba anda, kas valmistada liha oma rahvale?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/17-20.1792553417723.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ta lõi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kaljut"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ja voolas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ojad"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "uhkasid üle"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "kas ka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ta suudab"
+    },
+    {
+      "surface": "תת",
+      "gloss": "anda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "valmistada"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "oma rahvale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:17.724595265Z",
+  "model": "glm-5.3"
+}

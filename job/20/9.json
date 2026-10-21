@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tema koht ei vaata talle otsa",
+      "rationale": "heebrea personifitseerib koha — 'määratleb\/vaatab' — eesti peab kasutama 'otsa vaatama', koha sõna on tegevuse subjektiks jäänud"
+    },
+    {
+      "kind": "crux",
+      "subject": "שזפתו",
+      "rationale": "haruldane verb 'tähele panelnud\/hiilgusega näinud' — enamik tõlkeid lihtsustab 'nägema'"
+    }
+  ],
+  "translation": "Silm, kes teda nägi, ei näe teda ⟨enam⟩, ja tema kohta ei vaata talle ⟨otsa⟩ enam.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/9-12.1792555365313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "silm"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "kes teda nägi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "näe ⟨enam⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עוד",
+      "gloss": " enam"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "vaata talle ⟨otsa⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tema koht"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:45.313952779Z",
+  "model": "glm-5.3"
+}

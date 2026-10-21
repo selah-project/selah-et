@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדי אבד",
+      "rationale": "'hukkumiseni \/ lõpp viib hukkumiseni' vs 'hukkub igaveseks' (KJV 'perish for ever'); עֲדֵי on piir ja kestus."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Eesti kopula 'on' lisatud, heebrea nimilause kopolat ei kanna."
+    }
+  ],
+  "translation": "Ja ta nägi ⟨את⟩ Amalekit ning võttis üles oma tähendamissõna ja ütles: rahvaste algus on Amalek, ja tema lõpp on hukkumiseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a1c4f95fbfc837165fe6a31afa07b6a96491cf87ec32aecbe53476753c9dcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/24\/17-20.1792540257196.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja ta nägi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekit"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "võttis üles"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "oma tähendamissõna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "algus"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ja tema lõpp"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "on"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hukkumiseni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:50:57.197818951Z",
+  "model": "glm-5.3"
+}

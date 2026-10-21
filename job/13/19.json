@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "siis",
+      "rationale": "כי עתה 'sest siis' — kui keegi vastab, vaikin ja suren; või 'sest nüüd vaikin... ja suren'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hingan viimse hinge",
+      "rationale": "ואגוע tähendab sõna-sõnalt 'hingan välja' — suren"
+    }
+  ],
+  "translation": "Kes see on, kes minuga vaidleb? Sest siis ma vaikin ja hingan viimse hinge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/17-20.1792555299776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "vaidleb"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minuga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "siis"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "ma vaikin"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ja hingan viimse hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:39.777472213Z",
+  "model": "glm-5.3"
+}

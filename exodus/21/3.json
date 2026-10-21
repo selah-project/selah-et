@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma kehaga",
+      "rationale": "בגפו sõna-sõnalt 'oma kehas\/omana' — 'üksinda' on tõlge tähenduse, mitte kuju järgi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעל אשה",
+      "rationale": "sõna-sõnalt 'naise isand' = abielus mees; 'baal' tähendab nii isandat kui abikaasat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגפו ... בגפו",
+      "rationale": "kordus: tuleb kehaga, läheb kehaga — peegelskeem"
+    }
+  ],
+  "translation": "Kui ta tuleb oma kehaga, oma kehaga lähegu ta välja; kui ta on naise mees, siis läheb tema naine koos temaga välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/1-4.1792538694518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "oma kehaga"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "oma kehaga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lähegu ta välja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mees"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta on"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "siis läheb välja"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tema naine"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "koos temaga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:54.519657303Z",
+  "model": "glm-5.3"
+}

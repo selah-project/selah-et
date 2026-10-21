@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub käänesõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sirutasid nagu vibu",
+      "rationale": "וידרכו tähendab 'astusid (vibu) sirgeks' — vibu-sisu on sõna sees"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve kõne",
+      "rationale": "נאם יהוה märgib, et see on otsene kõne rahva vastu"
+    }
+  ],
+  "translation": "Ja nad on sirutanud ⟨את⟩ oma keele, oma vibu ⟨on⟩ vale, ja mitte usutavuse jaoks ei ole nad maal võimust võtnud; sest kurjast kurjusse nad väljuvad, ja mind ⟨את⟩ nad ei tunne, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5135c34095ebc6d5b4692f2f10a15aa294dc1553b64f2ce9acfa24415b3281c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/9\/1-4.1792548217124.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "ja nad on sirutanud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma keele"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "oma keele"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "oma vibu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "usutavuse jaoks"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "on võimust võtnud"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "kurjast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kurjusse"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurjusse"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nad väljuvad"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ja ⟨את⟩ mind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nad tunne"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:03:37.126393800Z",
+  "model": "glm-5.3"
+}

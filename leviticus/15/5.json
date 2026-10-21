@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab koopulat, heebrea וטמא on tegusõna 'ja ta saab ebapuhaks'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ebapuhas",
+      "rationale": "טמא tähendab tseremoniaalset ebapuhtust, mitte moraalset mustust"
+    }
+  ],
+  "translation": "Ja mees, kes puudutab tema voodit, peskand oma rõivad ja peskand end vees ja ⟨on⟩ ebapuhas õhtuni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/15\/5-8.1792539395231.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ja mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "puudutab"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "tema voodit"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "peskand"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "oma rõivad"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ja peskand end"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vees"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ja ⟨on⟩ ebapuhas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "õhtuni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:35.232244504Z",
+  "model": "glm-5.3"
+}

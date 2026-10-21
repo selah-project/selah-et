@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sai",
+      "rationale": "ילד tähendab 'sõi\/andas elu'; 'sai' on loendamissarja tavapärane lühivorm põluloendis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "põluloend",
+      "rationale": "Sugupuu jätk — ettekannetud põlvkonnad"
+    }
+  ],
+  "translation": "Ja Arpaksad sai ⟨את⟩ Šelahi, ja Šelah sai ⟨את⟩ Eebri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb27f37812a6456cc68161b8050ab0739ec5a7fbf88e8117e16cf0dbaa5c87fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/1\/17-20.1792557115526.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ja Arpaksad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šelahi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Šelahi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ja Šelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eebri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eebri"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:55.527194710Z",
+  "model": "glm-5.3"
+}

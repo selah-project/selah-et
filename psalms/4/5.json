@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגזו",
+      "rationale": "'Värisege (ahvatusest\/jumalakartusest)' vs 'olge vihased' (LXX 'orgizesthe', vt Ef 4:26 traditsioon); juur tähendab tugevat värinat ehk viha ehk kartust."
+    },
+    {
+      "kind": "crux",
+      "subject": "אמרו בלבבכם",
+      "rationale": "KJV 'commune with your own heart' vs otsesõna 'öelge oma südames'; heebrea on lihtsalt ütlemine südames."
+    },
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "על enne משכבכם on posesori rõhutamiseks lisatud pronomen, mis eesti keeles loomulikult tuleb."
+    }
+  ],
+  "translation": "Värisege ja ärge tehke pattu; öelge oma südames oma voodil ja olge vait. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/4\/5-8.1792552147724.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Värisege"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ärge"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "tehke pattu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "öelge"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "oma südames"
+    },
+    {
+      "surface": "על",
+      "gloss": "oma"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "voodil"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ja olge vait"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:07.725235954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 49:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רצון",
+      "rationale": "'meelepäev' ehk 'rahulolu aeg': heebrea sõna tähendab meelepärasust, heakskiitu, mitte 'aktsepteeritav aeg'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עניתיך",
+      "rationale": "ענה on 'vastata', mitte 'kuulda' (KJV 'have I heard thee' järgib traditsiooni, mitte tüve tähendust)"
+    },
+    {
+      "kind": "crux",
+      "subject": "לברית עם",
+      "rationale": "'rahva lepinguks': kas teenija on lepingu vahendajaks või ise lepinguks — enamik tõlkeid jätab kõlakasti ebaselgeks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "להנחיל נחלות",
+      "rationale": "sama juur נחל kaks korda: 'pärandada pärandused' — sõnamäng jääb eesti keeles osaliselt nähtavaks"
+    }
+  ],
+  "translation": "Nii ütleb Jahve: meelepäeval vastasin sind ja päästmise päeval aitasin sind; ja ma hoidan sind ja annan sind rahva lepinguks, et püsti tõsta maad, et pärandada laastatud pärandused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7196ad6981f3070feba1de4492a080f4f7c47fb89e76c16fb0b274f035cac301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/49\/8-8.1792558397309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "meelepäeval"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "(meelepäev)"
+    },
+    {
+      "surface": "עניתיך",
+      "gloss": "vastasin sind"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ja päeval"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "päästmise"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "aitasin sind"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "ja ma hoidan sind"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ja annan sind"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "lepinguks"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "et püsti tõsta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "להנחיל",
+      "gloss": "et pärandada"
+    },
+    {
+      "surface": "נחלות",
+      "gloss": "pärandused"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "laastatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:17.309918919Z",
+  "model": "glm-5.3"
+}

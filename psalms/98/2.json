@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדקתו → tsedek",
+      "rationale": "D2 keelab 'õigus' üksi — tsedek kannab üht juurt koos pühadusega"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הודיע \/ גלה",
+      "rationale": "Kaasparalleel: teadas-tõestamine ja paljastamine — sama saladus, kaks verbi"
+    }
+  ],
+  "translation": "Jahve teadas-tõestas oma pääste, rahvaste silmade ees paljastas ta oma tsedeki.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/98\/1-4.1792553738626.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "teadas-tõestas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "oma pääste"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "silmade ees"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "paljastas"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "oma tsedeki"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:38.627923019Z",
+  "model": "glm-5.3"
+}

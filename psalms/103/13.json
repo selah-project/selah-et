@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרחם\/רחם",
+      "rationale": "Salm algab ja pöördub tagasi sama verbiga רחם — helehäälestus, mis eesti keeles osaliselt säilib kordusega 'hoolitseb'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve poolehoiu objekt",
+      "rationale": "Salm kirjeldab Jahvet kui isa, kes halastab oma kardajaid — kaudne pöördumine koguduse poole."
+    }
+  ],
+  "translation": "Nõnda nagu isa hoolitseb laste pärast, nõnda hoolitseb Jahve nende pärast, kes teda kardavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/13-16.1792553775536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "nõnda nagu hoolitseb"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "laste"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "hoolitseb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kes teda kardavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:15.537118040Z",
+  "model": "glm-5.3"
+}

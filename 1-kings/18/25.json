@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 18:25",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jumal",
+      "rationale": "אלהיכם on siin väärjumal, seega väikese tähega 'jumal', mitte 'Elohim'"
+    },
+    {
+      "kind": "elision",
+      "subject": "תשימו otseobjekt",
+      "rationale": "heebrea תשימו 'panna' jätab objekti (tule) ära — eesti 'panega' samuti"
+    }
+  ],
+  "translation": "Ja Elijaahu ütles Baali prohvetitele: Valige endile ⟨את⟩ üks pull ja valmistage see esimesena, sest teie olete paljud, ja hüüdke oma jumala nimel, aga tuld ärge pange.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6682e760f10a58bca14e17203317927fd8fade6e22f517e67ddb7d7621bfceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/18\/25-28.1792545727254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijaahu"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "prohvetitele"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "valige"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "endile"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "pull"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ja valmistage"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "esimesena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "paljud olete"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ja hüüdke"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimel"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "oma jumala"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "aga tuld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "panege"
+    }
+  ],
+  "timestamp": "2026-10-21T01:22:07.256215219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on hinge-\/elujõud, mitteaimeline 'hing' kitsamas mõttes"
+    },
+    {
+      "kind": "crux",
+      "subject": "väsinud maa",
+      "rationale": "עיפה: 'väsinud' vs 'janune' (nagu paljud tõlked); sõna ise ütleb 'nõder, uimane'"
+    },
+    {
+      "kind": "addition",
+      "subject": "Sela",
+      "rationale": "muusikaline paus, jäetakse transliteratsioonina püsima"
+    }
+  ],
+  "translation": "Lainutan oma käed su poole, mu hing on nagu väsinud maa — sinu pärast. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/143\/5-8.1792554415128.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "lainutan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käed"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "su poole"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "nagu maa"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "väsinud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu pärast"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:55.129676015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on see",
+      "rationale": "Heebrea puudub kätesõna; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "löstöttöb",
+      "rationale": "נפץ on 'põkkima puruks' — 'kaljule lööma' edastab pildi, kuid mitte otse"
+    }
+  ],
+  "translation": "Õnnis ⟨on⟩ see, kes haarab ja lööb ⟨את⟩ su imekeseid kaljule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/137\/9-9.1792554244452.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Õnnis"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "kes haarab"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ja lööb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su imekeseid"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "su imekeseid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kaljule"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kaljule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:04.452924169Z",
+  "model": "glm-5.3"
+}

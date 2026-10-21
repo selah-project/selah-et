@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנה",
+      "rationale": "Tegusõna tähendab 'pöörduma \/ silmitsi vaatama': 'on vaenlase ära pööranud' (KJV) või 'on vaenlasele vastu astunud' (YLT 'hath faced')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Kesklauses puudub heebrea käänesööna 'olema', eesti keel nõuab seda"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaimi tütar",
+      "rationale": "Jätkab 3:14 otsespööret naissoost kuulajale (תיראי)"
+    }
+  ],
+  "translation": "Jahve on ära võtnud ⟨sinu⟩ kohtuotsused, pööranud sinu vaenlase selja, Jisraeli kuningas Jahve ⟨on⟩ sinu keskel, ära karda enam halba.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e2b334d80f6cc2dbf70f7bc997366bfbe79139ff9a01477e342a3ff30d29af37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/3\/13-16.1792551721358.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "on ära võtnud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sinu kohtuotsused"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "pööranud"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "sinu vaenlase"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sinu keskel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "karda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "halba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    }
+  ],
+  "timestamp": "2026-10-21T03:02:01.360622166Z",
+  "model": "glm-5.3"
+}

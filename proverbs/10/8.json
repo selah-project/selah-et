@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילבט",
+      "rationale": "Hapax-sarnane verb לבט: 'langeb' (KJV) vs 'saab löödud' (Geneva) vs 'sinkib' (heebrea 'loobima' tähendusest)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואויל שפתים",
+      "rationale": "'huulte rumalik' — võib tähendada ka 'lõritav narr'; samasugune fraas 10:10."
+    }
+  ],
+  "translation": "Tark süda võtab vastu käske, aga huulte rumalik langeb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/10\/5-8.1792554607670.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "võtab vastu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käske"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "aga rumalik"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huulte"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "langeb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:07.671423915Z",
+  "model": "glm-5.3"
+}

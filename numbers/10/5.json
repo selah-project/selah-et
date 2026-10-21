@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kära",
+      "rationale": "תרועה on nii röögatus, lahinguhüüd kui pasunate kärasignaal — üks sõna, kolm asja"
+    },
+    {
+      "kind": "crux",
+      "subject": "kära vs pikk\/signaal",
+      "rationale": "tõlkijad lahkuwad: 'häiresignaal' (KJV) vs 'lühikesed puhked' (BSB) vs 'hüüe' (YLT)"
+    }
+  ],
+  "translation": "Ja kui te puhute kära, siis lahkuwad laagrid, mis laagerdavad ida pool.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/10\/5-8.1792539909361.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "ja kui te puhute"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "kära"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "siis lahkuwad"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "laagrid"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "mis laagerdavad"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ida pool"
+    }
+  ],
+  "timestamp": "2026-10-20T23:45:09.362278330Z",
+  "model": "glm-5.3"
+}

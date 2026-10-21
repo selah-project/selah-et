@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 5:14",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreas puudub öeldis; nominallauses lisatud 'on'"
+    },
+    {
+      "kind": "crux",
+      "subject": "גְּלִילֵי זָהָב",
+      "rationale": "'kullast rullrõngad' vs 'kuldvardad' (jps) — גליל tähendab pöörlevat rõngast või varda"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עֶשֶׁת",
+      "rationale": "'kudumine, kangas' esineb Tanahhis ainult siin"
+    }
+  ],
+  "translation": "Tema käed ⟨on⟩ kullast rullrõngad, täidetud Taršiši kalliskividega; tema sisemus ⟨on⟩ elevandiluu kudumine, kaetud safiiridega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/13-16.1792555835079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיו",
+      "gloss": "tema käed"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "rullrõngad"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullast"
+    },
+    {
+      "surface": "ממלאים",
+      "gloss": "täidetud"
+    },
+    {
+      "surface": "בתרשיש",
+      "gloss": "Taršiši kalliskivid"
+    },
+    {
+      "surface": "מעיו",
+      "gloss": "tema sisemus"
+    },
+    {
+      "surface": "עשת",
+      "gloss": "kudumine"
+    },
+    {
+      "surface": "שן",
+      "gloss": "elevandiluu"
+    },
+    {
+      "surface": "מעלפת",
+      "gloss": "kaetud"
+    },
+    {
+      "surface": "ספירים",
+      "gloss": "safiiridega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:35.080451323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 35:9",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "röövellikud elukad",
+      "rationale": "ופריץ חיות sõna-sõnalt 'vägivaldne elukaid'; KJV 'ravenous beast'"
+    },
+    {
+      "kind": "addition",
+      "subject": "seal",
+      "rationale": "viimane 'seal' viimases klauslis puudub heebrea tekstis, kaudne lõpp"
+    }
+  ],
+  "translation": "Seal ei ole lõvi ja röövellikke elukaid ei tõuse sinna, neid ei leita seal; ja lunastatud käivad seal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "40429b73887078280b88c88f0006d7b9e6e0aabf1f2f8075b8740cb9270de90a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/35\/9-10.1792547226952.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lõvi"
+    },
+    {
+      "surface": "ופריץ",
+      "gloss": "ja röövellikke"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "elukaid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "üldse mitte"
+    },
+    {
+      "surface": "יעלנה",
+      "gloss": "tõuse sinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "leita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "ja käivad"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "lunastatud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:47:06.953707281Z",
+  "model": "glm-5.3"
+}

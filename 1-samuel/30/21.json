@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 30:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti kõrvaklamber — heebrea puuduv koppel 'kes temaga' lause lõpus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "shalom",
+      "rationale": "לשלום jäetakse kõla järgi 'shalom' (tervituseks\/käekäigu küsimiseks), mitte 'tervitas', nagu vanemad tõlked teevad"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Prepositsioon את (koos) ei ole objektimarker, kuid kannab ⟨את⟩ märki struktuuri tõttu"
+    }
+  ],
+  "translation": "Ja David tuli kahe saja mehe juurde, kes jäid kurnatult maha ega suutnud minna Davidile järgneda, ja kelle ta pani istuma Besori orgu; ja nad läksid välja vastu Davidile ja vastu rahvale, kes ⟨את⟩ temaga ⟨oli⟩; ja David lähenes ⟨את⟩ rahva juurde ja küsis neilt shalomi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/30\/21-24.1792544464555.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaks-sada"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "jäid kurnatult maha"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "minemast"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järgnema"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "ja pani nad istuma"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "orgu"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besori"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ja nad läksid välja"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "ולקראת",
+      "gloss": "ja vastu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ja lähenes"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahva juurde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ja küsis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neilt"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "shalomi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:01:04.560513198Z",
+  "model": "glm-5.3"
+}

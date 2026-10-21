@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "Heebrea puudub kopeer."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש",
+      "rationale": "מקדשכם 'kes teid pühistab' kõlab vastu salmi 7 käsule 'pühitsege endid'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Käskköne otse kogudusele."
+    }
+  ],
+  "translation": "Ja pidage ⟨את⟩ mu määrused ja tehke ⟨את⟩ neid; mina ⟨olen⟩ Jahve, kes teid pühistab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/20\/5-8.1792539516438.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ja pidage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu määrused"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mu määrused"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ja tehke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "kes teid pühistab"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:36.439810840Z",
+  "model": "glm-5.3"
+}

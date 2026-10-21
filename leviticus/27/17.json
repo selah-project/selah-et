@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jõobl",
+      "rationale": "היבל on pasunapuhang — tõlgitud kui 'jõobl', eesti piiblitraditsiooni järgi 'jubel'; variant 'jubelaasta'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jääb see kehtima",
+      "rationale": "יקום 'tõuseb\/leb püsti' → 'jääb kehtima' hinnangu kohta"
+    }
+  ],
+  "translation": "Kui jõobli aastast alates püha-ded pühitseb ta oma põllu, siis jääb see sinu hinnangu kohaseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/27\/17-20.1792539691846.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "aastast alates"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "jõobli"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "pühitseb"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "oma põllu"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "sinu hinnangu kohaselt"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "jääb see kehtima"
+    }
+  ],
+  "timestamp": "2026-10-20T23:41:31.847485702Z",
+  "model": "glm-5.3"
+}

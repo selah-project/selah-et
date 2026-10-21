@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפש on kurgus\/hingutus\/elujõud — 'elu', mitte 'hing'"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Koopula 'David oli' lisatud, heebrea sõnadevorm on asesõnaline"
+    }
+  ],
+  "translation": "Ja David nägi, et Saul oli läinud välja otsima ⟨את⟩ tema elu; ja David oli kõrves, Siifis, Horeshas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d8ee7a5b5657a48cc84dd20194200d35b734398fcd4464d00879abda6a4218cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/23\/13-16.1792544149212.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja nägi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "oli läinud välja"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "otsima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema elu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema elu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrves"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siifis"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "metsas"
+    }
+  ],
+  "timestamp": "2026-10-21T00:55:49.213658495Z",
+  "model": "glm-5.3"
+}

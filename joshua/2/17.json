@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 2:17",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oleme",
+      "rationale": "Heebrea puudub kaudkõne verbi isikuvorm; eesti keel nõuab seda"
+    },
+    {
+      "kind": "you",
+      "subject": "Raabile",
+      "rationale": "Mehed kõnelevad otse Raabile, vannega seotud tingimuste esitamine algab"
+    }
+  ],
+  "translation": "Ja mehed ütlesid talle: Me oleme süütud sinu sellest vannet, mille sa oled meid vanduma pannud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3bf79038383a1b8df82cf196a9b51832a16726ee9dc5cd6270c3e47eca5edc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/2\/17-20.1792541385624.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja ütlesid"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "süütud"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "sinu vannet"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "sa oled meid vanduma pannud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:09:45.625040063Z",
+  "model": "glm-5.3"
+}

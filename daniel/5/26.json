@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 5:26",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eloah",
+      "rationale": "Aramaic אלהא is the equivalent of Hebrew אלוה; rendered Eloah, not 'Jumal'"
+    },
+    {
+      "kind": "addition",
+      "subject": "aru",
+      "rationale": "'lugenud aru' supplies the Estonian idiom for counting out; Hebrew\/Aramaic says only 'counted'"
+    },
+    {
+      "kind": "crux",
+      "subject": "והשלמה",
+      "rationale": "'lõpetanud' vs 'täidanud' — the verb means both complete and bring to an end"
+    }
+  ],
+  "translation": "See on selle sõna tõlgendus: מנא — Eloah on lugenud ⟨aru⟩ sinu kuningriigi ja selle lõpetanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/5\/25-28.1792556422100.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "See"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "tõlgendus"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "מנא"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "on lugenud"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sinu kuningriigi"
+    },
+    {
+      "surface": "והשלמה",
+      "gloss": "ja lõpetanud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:22.101700095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silmapilk",
+      "rationale": "ארגיעה juur tähendab 'plahvatuslikult paiskuma' — mööduv kokkupurse, mitte pikk hetk"
+    },
+    {
+      "kind": "addition",
+      "subject": "kestab",
+      "rationale": "Teises poolvärssis puudub öeldis; eesti keel nõuab seda"
+    }
+  ],
+  "translation": "Tõe huul ⟨on⟩ kindlaks pandud igavesti, aga valemäe keel ⟨kestab⟩ vaid silmapilgu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2b247a064930752ec0018257715f3a815efa746933b395b4820daac39f82d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/17-20.1792554632726.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "huul"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõe"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "⟨on⟩ kindlaks pandud"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ag vaid"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "silmapilgu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "keel"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valemäe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:32.726989824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea nimetahtelauses puudub kood; eesti keel nõuab 'on'."
+    },
+    {
+      "kind": "crux",
+      "subject": "זכרו",
+      "rationale": "'Tema mälestusnimi' vihjab 2Ms 3:15 'see on mu nimi igaveseks' — mälestus ja nimi kattuvad."
+    }
+  ],
+  "translation": "Ja Jahve, Elohim Tsevaot — Jahve on ⟨tema⟩ mälestusnimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/12\/5-8.1792551020302.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "tema mälestusnimi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:20.302956120Z",
+  "model": "glm-5.3"
+}

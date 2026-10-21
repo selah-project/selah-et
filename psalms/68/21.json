@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub kopula; eesti keel vajab seda"
+    },
+    {
+      "kind": "addition",
+      "subject": "kuuluvad",
+      "rationale": "Kohnemist ei ole heebrea tekstis; 'läheb tagasi' on liiga tõlgendav"
+    },
+    {
+      "kind": "crux",
+      "subject": "surma väljapääsud",
+      "rationale": "תוצאות למות: 'surmast pääsemine' vs 'väljapääsud, kuhu surm lõpeb' — heebrea ümberlükanu"
+    }
+  ],
+  "translation": "El ⟨on⟩ meile El pääste-de jaoks, ja Jahvele, Adonaile, ⟨kuuluvad⟩ surma väljapääsud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/21-24.1792553187541.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "pääste-de jaoks"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "ja Jahvele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaile"
+    },
+    {
+      "surface": "למות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "väljapääsud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:27.541687321Z",
+  "model": "glm-5.3"
+}

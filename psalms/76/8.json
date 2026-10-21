@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oled kardetav⟩",
+      "rationale": "נורא on partitsiip 'kardetav\/äratab kartust' ilma köitva verbita; eesti nõuab köitva 'oled'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "su viha",
+      "rationale": "אף on sõnasõnaline 'nina\/sõõrmed' → viha; 'su nina süttib' on heebrea pilt, mida eesti ei kannata sõnasõnalt"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "kogu salm on otsene pöördumine Jumala poole ('sina, sina')"
+    }
+  ],
+  "translation": "Sina, sina ⟨oled kardetav⟩, ja kes jääb seisma su palge ette alates-hetkest, mil-su viha ⟩süttib⟨?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/76\/5-8.1792553362360.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kardetav"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "jääb seisma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "su palge ette"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "alates-hetkest"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mil-su viha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:22.361566040Z",
+  "model": "glm-5.3"
+}

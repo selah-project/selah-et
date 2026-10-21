@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puudub öeldis; lause on nimeline — röövija, põgenema-ajaja, häbitegija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מביש \/ ומחפיר",
+      "rationale": "kaks lähedast sünonüümi 'häbi' juurest, heebrea kordus-stiil"
+    },
+    {
+      "kind": "crux",
+      "subject": "sõnajärg",
+      "rationale": "JPS loeb tagurpidi (häbipoeg röövib isa); enamik loeb otse: kes röövib isa, on häbipoeg"
+    }
+  ],
+  "translation": "Röövija isa, kes ajab ema põgenema, ⟨on⟩ poeg, kes tekitab häbi ja häbistab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "020a594e952816da3fbef489dd9078a6892229aa781b9676aeb63096cd00a2dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/19\/25-28.1792554793351.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "röövija"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "ajab põgenema"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "kes tekitab häbi"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "ja häbistab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:13.352540722Z",
+  "model": "glm-5.3"
+}

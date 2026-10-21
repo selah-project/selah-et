@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on \/ kandetuks",
+      "rationale": "Kopula ja passiivi abisõna puuduvad heebrea נְשׂוּא עָוֺן 'kantud süü' konstruktsioonis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "on saanud andeks",
+      "rationale": "נְשֻׂא עָוֺן on sõna-sõnalt 'kantud (ära) süü' — üles tõstetud ja ära viidud"
+    }
+  ],
+  "translation": "Ja mitte ükski elanik ei ütle: Olen haige; rahvas, kes selles elab, ⟨on⟩ saanud süü andeks ⟨kandetuks⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/33\/21-24.1792547280728.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ükski elanik"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "olen haige"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "kes elab"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selles"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "on saanud andeks"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:00.731615344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea kõneлаuses puudub kopeela; eesti see-on-valem nõuab sõna ⟨on⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמה",
+      "rationale": "sama sõna kordub kaks korda — süü ja keelu kajastus ühe sõnaga."
+    }
+  ],
+  "translation": "Ja mees, kes võtab ⟨את⟩ naise ja ⟨את⟩ tema ema: see on pahatahtlik plaan; tulega põletagu nad ära tema ja nemad, et ei oleks pahatahtlikku plaani teie keskel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/20\/13-16.1792539534035.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "võtab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naise"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema ema"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "tema ema"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pahatahtlik plaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see ⟨on⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "põletagu nad ära"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tema"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nemad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "et ei"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "oleks"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "pahatahtlikku plaani"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "teie keskel"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:54.036360938Z",
+  "model": "glm-5.3"
+}

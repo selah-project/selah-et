@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti nõuab kopulat, heebrea selle ära jätab."
+    },
+    {
+      "kind": "crux",
+      "subject": "בחזק",
+      "rationale": "'Väega' (adverb) vs 'väelisena \/ vägevana tulevana' (KJV 'with strong hand' — käsivarsi metafoor juba järgmises kolonis)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניו",
+      "rationale": "Sõna-sõnalt 'tema nägu'; eesti kasutab 'palge ees' kuningliku lähestiku pildi jaoks."
+    }
+  ],
+  "translation": "Vaata, Adonai Jahve tuleb väega, ja tema käsivars valitseb tema eest; vaata, tema tasu ⟨on⟩ ⟨את⟩ tema juures ja tema teenistus tema palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/40\/9-12.1792547368434.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "väega"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ja tema käsivars"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "valitseb"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema eest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "tema tasu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tema tasu — 'tema juures'"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ja tema teenistus"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema palge ees"
+    }
+  ],
+  "timestamp": "2026-10-21T01:49:28.434934916Z",
+  "model": "glm-5.3"
+}

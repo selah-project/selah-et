@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea pole kopeerat; eesti nominatiivlaused vajavad ⟨on⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sokud",
+      "rationale": "עתודים tähendab 'täiskasvanud (põllu)kitse isased' — sõnakuju 'valmistatud' kaudu"
+    }
+  ],
+  "translation": "Tallid on su riietuseks ja välja hinnaks on sokud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/27\/25-27.1792554963130.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "tallid"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "su riietuseks"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "ja hinnaks"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "välja"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "sokud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:03.131367456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Eli mäed",
+      "rationale": "הררי אל: 'El' kui ülivõrde ('suured mäed') või Jumala nimi 'El' — hoitud nimena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה jäetakse nimena tsedek, mitte 'õigus' üksi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sügavik",
+      "rationale": "תהום on kosmiline ürgsügavik, mürtsev veemass, mitte lihtsalt 'sügav meri'"
+    }
+  ],
+  "translation": "Sinu tsedek on nagu Eli mäed, sinu kohus on suur sügavik — inimest ja karilooma päästad sina, Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/36\/5-8.1792552789586.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "sinu tsedek"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "nagu mäed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "sinu kohus"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "sügavik"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimest"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ja karilooma"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "päästad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:49.587568100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "suu \/ käsi",
+      "rationale": "Vastandus 'suumiega rääkisid — käega täitsid' kordub hebrea retoorikas; eesti keeles säilitatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "selle",
+      "rationale": "Otsesesihitus 'selle' lisatud, et lause oleks eesti keeles loetav"
+    }
+  ],
+  "translation": "kes hoidsid kinni oma teenijale Davidile, mu isale, ⟨את⟩ selle, mida sa temale rääkisid; sinu suuga sa rääkisid ja oma käega täitsid sa selle, nagu ⟨on⟩ tänapäevalgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/8\/21-24.1792545332027.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "hoidsid kinni"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "oma teenijale"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "see, mida sa temale rääkisid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "sa rääkisid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "sa rääkisid"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sinu suuga"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ja oma käega"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "täitsid sa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nagu tänasel"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "päeval"
+    }
+  ],
+  "timestamp": "2026-10-21T01:15:32.029697559Z",
+  "model": "glm-5.3"
+}

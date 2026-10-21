@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שועלים שועלים",
+      "rationale": "kordus 'šaakalid, šaakalid' — retooriline dubleering, eesti keeles säilitatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel vajab öeldistäit, heebrea puudub koppel"
+    },
+    {
+      "kind": "crux",
+      "subject": "שועלים",
+      "rationale": "šaakalid vs 'rebased' — enamik tõlkeid ütleb rebased, sõna tähendab kaevuja"
+    }
+  ],
+  "translation": "Püüdke meile šaakalid, šaakalid, väikesed, kes viinamaardeid laastavad, sest meie viinamaarded ⟨on⟩ õitsemises!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/2\/13-16.1792555775133.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "püüdke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "šaakalid"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "šaakalid"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "väikesed"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "kes laastavad"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "viinamaardeid"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "meie viinamaarded"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "õitsemises"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:35.134526552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seekel = 20 geera, mana = 60 seeklit",
+      "rationale": "Kaalude standard: seekel kakskümmend geera; 20+25+15 seeklit moodustavad mana."
+    },
+    {
+      "kind": "crux",
+      "subject": "המנה",
+      "rationale": "20+25+15 = 60 seeklit = üks mana, kuid võrrelduna 3Ms 27:25 (20+20 gerah-põhine) on Jaavetsa tekst 50 seekli manale — tuntud erinevus."
+    }
+  ],
+  "translation": "Ja seekel olgu kakskümmend geera; kakskümmend seeklit, viis ja kakskümmend seeklit, kümme ja viis seeklit — mana olgu teil.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/45\/9-12.1792550748278.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "Ja seekel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "geera"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "seeklit"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viis"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ja kakskümmend"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "seeklit"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ja viis"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "seeklit"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teil"
+    }
+  ],
+  "timestamp": "2026-10-21T02:45:48.279459432Z",
+  "model": "glm-5.3"
+}

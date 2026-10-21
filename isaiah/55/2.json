@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 55:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on kurgu\/hingamine\/elujõud, mitte 'hing'Immutableusualikus mõttes — hoian heebrea kõla 'nefesh'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע",
+      "rationale": "Infinitiivne kordus 'kuulake kuulata' — intensiivne pöördumine, eesti keeles kaudselt edasi antud."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kuulake Mind",
+      "rationale": "Hüüdab kuulajat kuulama ja sööma."
+    }
+  ],
+  "translation": "Miks kaalute hõbedat selle eest, mis pole leib, ja oma vaeva selle eest, mis ei küllasta? Kuulake Mind kuulata, ja sööge head, ja teie nefesh maieldugu rasvas!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/55\/1-4.1792547846371.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "תשקלו",
+      "gloss": "kaalute"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedat"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leib"
+    },
+    {
+      "surface": "ויגיעכם",
+      "gloss": "oma vaeva"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "küllasta"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulake"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kuulata"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mind"
+    },
+    {
+      "surface": "ו אכלו",
+      "gloss": "ja sööge"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "ותתענג",
+      "gloss": "ja maieldugu"
+    },
+    {
+      "surface": "בדשן",
+      "gloss": "rasvas"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "teie nefesh"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:26.379494103Z",
+  "model": "glm-5.3"
+}

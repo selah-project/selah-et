@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨selle⟩",
+      "rationale": "Heebrea עשית ei nimeta objekti; eesti keel vajab selleks demonstratiivi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתה עשית",
+      "rationale": "Rõhutud 'sina sina tegid' — eesti saab selle edasi sõnajärjega 'sina olid teinud'."
+    }
+  ],
+  "translation": "Mina vaikisin, ma ei avanud suud, sest sina olid ⟨selle⟩ teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/39\/9-12.1792552764764.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Mina vaikisin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ma avasin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "olid teinud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:24.765309129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "silmapilgus",
+      "rationale": "באישון on 'silmavärvus', s.o. 'öö silm' — öö kõige pimedam osa; eesti keeles sõnasõnaline pilt ei tööta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנשף…באישון…ואפלה",
+      "rationale": "Kolm tasandit kandeldata süvenevast pimedusest — õhtubriis, öö süda, süngus; korduseliin kaob eesti keeles"
+    }
+  ],
+  "translation": "hämariku hymmikus, päeva õhtul, öö silmapilgus ja pimeduses",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/7\/9-12.1792554530686.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "hämariku hymmikus"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "õhtul"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "silmapilgus"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "öö"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ja pimeduses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:50.687007935Z",
+  "model": "glm-5.3"
+}

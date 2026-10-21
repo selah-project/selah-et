@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסתולל",
+      "rationale": "S Reflexiiv juurest סלל: 'end üles tõstma \/ üle käima'; Wycliffel 'takistad', teistel 'end ülendad'."
+    },
+    {
+      "kind": "you",
+      "subject": "Farao",
+      "rationale": "Jahve kõneleb otse Faraoole."
+    }
+  ],
+  "translation": "Ikka veel tõstad sa enese üles mu rahva vastu, et mitte lasta neid minna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/9\/17-20.1792538410768.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "ikka veel"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "tõstad sa enese üles"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "mu rahva vastu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "lasta neid minna"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:10.768913361Z",
+  "model": "glm-5.3"
+}

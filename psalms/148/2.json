@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "inglid",
+      "rationale": "מלאכיו tähendab sõna-sõnalt 'tema saadikud\/käskjalad'; 'ingel' on kujunenud tähendus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל…כל",
+      "rationale": "Kahekordne 'kõik' paneb paari inglid ja väed — parallelism."
+    }
+  ],
+  "translation": "Kiitke teda, kõik tema inglid, kiitke teda, kõik tema väed!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/148\/1-4.1792554387987.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "kiitke teda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "tema inglid"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kiitke teda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tema väed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:27.988339292Z",
+  "model": "glm-5.3"
+}

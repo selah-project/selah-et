@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "asula",
+      "rationale": "עיר on linn, kuid siin mõeldud mis tahes asustatud paika; 'asula' hoiab sõna kuju laiemalt"
+    }
+  ],
+  "translation": "Nad ekslesid kõrbes, tühermaal teed pidi, asulat elamiseks ei leidnud nad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/1-4.1792553889024.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ekslesid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "tühermaal"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "teed pidi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "asulat"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "elamiseks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "leidnud nad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:09.025571767Z",
+  "model": "glm-5.3"
+}

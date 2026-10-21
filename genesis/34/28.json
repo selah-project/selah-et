@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמור \/ חמריהם",
+      "rationale": "samas peatükis tähendab חמור nii isikut (Hamor, j 26) kui eeslit — nime ja looma kõlapõimumine, eesti keeles eraldub"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "heebreaSuhtes lünktekst 'mis linnas, mis väljal' — eesti suhtelause nõuab verbi 'olema'"
+    }
+  ],
+  "translation": "⟨את⟩ Nende karja ja ⟨את⟩ nende veised ja ⟨את⟩ nende eeslid ja ⟨את⟩ kõik, mis linnas ⟨oli⟩, ja ⟨את⟩ kõik, mis väljal ⟨oli⟩, võtsid nad ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be6ad816fb9db0c6c7a8d80b2c066510b8febeee4802a32d37704fc28769f308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/34\/25-28.1792537943253.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende karja"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "nende karja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nende veised"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "nende veised"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nende eeslid"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "nende eeslid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik, mis linnas oli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik, mis väljal oli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "väljal"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "võtsid nad ära"
+    }
+  ],
+  "timestamp": "2026-10-20T23:12:23.254762207Z",
+  "model": "glm-5.3"
+}

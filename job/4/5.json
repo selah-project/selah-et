@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Heebrea subjekt on varjatud (kannatus\/õnnetus eelmistest salmidest); eesti keel vajab küllalt selget subjekti"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבהל",
+      "rationale": "'kohkud\/ehmatud' vaid 'segas oleks' — sõna tähendab sisehäiringut, värinat"
+    }
+  ],
+  "translation": "Sest nüüd, kui ⟨see⟩ tuleb sinuni, siis väsid; kui ⟨see⟩ sind puudutab, siis kohkud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/4\/5-8.1792555115030.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinuni"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "siis väsid"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "puudutab"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "siis kohkud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:35.031073974Z",
+  "model": "glm-5.3"
+}

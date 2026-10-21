@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on hingamine\/elujõud, mitte 'hing' filosoofilises mõttes"
+    },
+    {
+      "kind": "crux",
+      "subject": "võetakkorgistatud",
+      "rationale": "נכרתה: 'hävitatakse' vs 'võetakkorgistatud\/eraldatakse' kogukonnast"
+    }
+  ],
+  "translation": "Iga hing, kes sööb ükskõik millist verd, see hing võetakkorgistatud ⟨tema⟩ oma rahva seest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4be9a3c7b499b9d39487724e59997fc883624f0bc35f6caf205287b063503bd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/7\/26-28.1792543572817.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Iga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ükskõik millist"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "võetakkorgistatud"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "see hing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨tema⟩"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "oma rahva seest"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:12.819198736Z",
+  "model": "glm-5.3"
+}

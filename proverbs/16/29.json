@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 16:29",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Eesti keel vajab otsese sihitise asesõna, heebrea sufiks on lauses sees"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meelitab",
+      "rationale": "פתה on 'avama, mahutama' — kõnekäänus 'petlikult avama', meelelisuse kaotus"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהלikud",
+      "rationale": "Mitmed tõlked annavad 'wicked\/violent' ühtmoodi — 'vägivalla mees' järgib sõna kuju חמס"
+    }
+  ],
+  "translation": "Vägivalla mees meelitab oma kaaslast ja viib ⟨tema⟩ teele, mis ei ole hea.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b8d5488630d9718e13a4c86dab67c1fab2abc533b365a14780e881385f43e6c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/29-32.1792554726270.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vägivalla"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "meelitab"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oma kaaslast"
+    },
+    {
+      "surface": "והוליכו",
+      "gloss": "ja viib ⟨tema⟩"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ole hea"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:06.271155021Z",
+  "model": "glm-5.3"
+}

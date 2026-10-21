@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kiitke Jaht",
+      "rationale": "הללו יה on halleluujah, kaks käsku; tõlgitud sõnadeks, mitte juba pärisnimeks muutunud hüüdeks"
+    },
+    {
+      "kind": "addition",
+      "subject": "kes",
+      "rationale": "Heebrea partitsiip nõuab eesti keeles suhtesõna 'kes'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "Käsk 'kiitke' kõnetab kogudust otse — hümni lõpphüüde"
+    }
+  ],
+  "translation": "Kiidetud olgu Jahve Tsionist, kes elab Jerušalaimis! Kiitke Jaht!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/135\/21-21.1792554253461.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kiidetud olgu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsionist"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "kes elab"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimis"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaht"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:13.461926002Z",
+  "model": "glm-5.3"
+}

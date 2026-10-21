@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בצדקתך",
+      "rationale": "tsedek hoitakse kõla järgi (D2), mitte 'õiguses' üksi"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "prepositsioon 'el' sulandub eesti sõnaga 'pööra kõrva'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve",
+      "rationale": "käänud koheldava poole pöördumine: kuule, pööra kõrva, vasta"
+    }
+  ],
+  "translation": "Psalmit. Davidilt. Jahve, kuule mu palvet, pööra kõrva mu anumustele, vasta mulle oma truuks jäämises, vasta mulle oma tsedekis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/143\/1-4.1792554405747.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalmit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidilt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palvet"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pööra kõrva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ei translate — prepositsioon eesti pööra kõrva sees⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mu anumustele"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "oma truuks jäämises"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "vasta mulle"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "oma tsedekis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:45.747904758Z",
+  "model": "glm-5.3"
+}

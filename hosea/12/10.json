@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "Heebreas puudub kopeeriv verbi ואנכי 'ja mina' ees, eesti keel nõuab selle."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אושיבך",
+      "rationale": "Hofali 'istutama\/telkima' — võib viidata laagris asumisele nagu kõrbepäevil (2Ms; pärimus sukkoti tähendusest)."
+    }
+  ],
+  "translation": "Ja mina ⟨olen⟩ Jahve, su Elohim, maalt Mitsraimist; veel istutan ma sind telkides nagu kokkutuleku päevil.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/12\/9-12.1792551019999.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ja mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "istutan ma sind"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "telkides"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nagu päevil"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokkutuleku"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:20.000622690Z",
+  "model": "glm-5.3"
+}

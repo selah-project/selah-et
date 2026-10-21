@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "need",
+      "rationale": "Eesti keel vajab objekti asesõna, heebrea seda ei ütle"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse päeva",
+      "rationale": "Paastu kestus päevades loendatuna"
+    }
+  ],
+  "translation": "Ja nad võtsid ⟨את⟩ nende luud ja matsid need tamariski alla Jaabešes, ja nad paastosid seitse päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a5f23c64a8255291404bfd9ba6c5a910966c8b10228a6b9b042369584ca13c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/31\/13-13.1792544360184.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja nad võtsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende luud"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "nende luud"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ja matsid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamariski"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Jaabešes"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "ja nad paastosid"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:20.185267745Z",
+  "model": "glm-5.3"
+}

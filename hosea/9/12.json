@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשורי מהם",
+      "rationale": "'Kui ma nende juurest ära pööran' (סור) või 'kui ma neist kuulan' (בשר 'uudistama'); enamus: lahkumine."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יגדלו \/ ושכלתים",
+      "rationale": "Kasvatamine ja lastest ilmajäämine ühes vos — suurendamine tühistatakse."
+    }
+  ],
+  "translation": "Kuigi nad kasvatavad ⟨את⟩ oma poegi, teen ma neilt lapsed ilma, inimeseta; jah, hää ka neile, kui ma nende juurest ära pööran.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/9\/9-12.1792550983978.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kuigi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "nad kasvatavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma poegi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oma poegi"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "teen ma neilt lapsed ilma"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "inimeseta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "hää"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "kui ma ... ära pööran"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nende juurest"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:43.980126029Z",
+  "model": "glm-5.3"
+}

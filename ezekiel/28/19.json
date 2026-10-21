@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 28:19",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "enam",
+      "rationale": "Estonian needs 'enam' to render the finality of ואינך עד עולם ('sind ei ole enam igaveseks')."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלהות",
+      "rationale": "'õuduseks' vs 'kohutuseks\/ohvaks' — KJV 'a terror' (nimisõna) vs EKJ 'kohutav lõpp' (tähenduslik)."
+    }
+  ],
+  "translation": "Kõik, kes sind tunnevad rahvaste seas, on kohmunud sinu pärast; õuduseks sa said, ja sind ei ole enam igaveseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e36b86411f545442e1ff0f40b8427c552162faf9db8f0192e472e526dacd34bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/28\/17-20.1792550365087.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "יודעיך",
+      "gloss": "kes sind tunnevad"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "rahvaste seas"
+    },
+    {
+      "surface": "שממו",
+      "gloss": "on kohmunud"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu pärast"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "õuduseks"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sa said"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "ja sind ei ole"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseks"
+    }
+  ],
+  "timestamp": "2026-10-21T02:39:25.088204201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "arvutamine",
+      "rationale": "יחשב on 'arvutama, raamatupidama' — kassatsiooni- ja laenuarvutuse keel, mitte pelgalt 'lugema'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb ruahhiks — tuul, hingeõhk, vaim ühes sõnas"
+    }
+  ],
+  "translation": "Õnnis inimene, kellele Jahve ei arvesta süüd, ja kelles ⟨ei ole⟩ tema ruahhis pettust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/32\/1-4.1792552656066.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "arvesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kellele"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "tema ruahhis"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "pettust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:36.067252965Z",
+  "model": "glm-5.3"
+}

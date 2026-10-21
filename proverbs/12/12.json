@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "vilja",
+      "rationale": "heebrea ütleb ainult 'annab'; 'vilja' on mõistatud objekt, nagu enamikus tõlgetes"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוד",
+      "rationale": "'võrk' vs 'saak\/rööv' (JPS) vs 'kindlus' — sõnal mitu tähendust"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יתן",
+      "rationale": "võimalik ka 'jätkub\/annab (rohkest)' ilma lisatud objektita"
+    }
+  ],
+  "translation": "Õel himustab kurjade võrku, aga õigete juur annab ⟨vilja⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/9-12.1792554604556.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "himustab"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õel"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "võrku"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kurjade"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "aga juur"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "õigete"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:04.557665777Z",
+  "model": "glm-5.3"
+}

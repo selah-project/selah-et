@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גהה",
+      "rationale": "sõna 'ravi' esineb Tanahhis ainult selles salmis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "ruahh jäeti kõla järgi, mitte 'vaimuks' või 'tuuleks'; siin meeleolu hingus"
+    }
+  ],
+  "translation": "Rõõmus süda teeb head ravi, ja löödud ruahh kuivatab luu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/17\/21-24.1792554779443.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "rõõmus"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "teeb head"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "ravi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "löödud"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "kuivatab"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "luu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:59.444532035Z",
+  "model": "glm-5.3"
+}

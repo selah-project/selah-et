@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יזכרוני",
+      "rationale": "'Nad märgivad\/mäletavad mind' — eesti keeles 'tulevad mulle meelde', kahepoolne tegija kadub."
+    },
+    {
+      "kind": "crux",
+      "subject": "וחיו את בניהם",
+      "rationale": "'Ja nad elavad ⟨את⟩ oma poegadega' — mõned loevad 'ja nad elavad koos oma poegadega', teised 'ja nad toidavad\/annavad elu oma poegadele'."
+    }
+  ],
+  "translation": "Ja ma külvan nad rahvaste seas, ja kaugel maadel nad tulevad mulle meelde, ja nad elavad ⟨koos⟩ ⟨את⟩ oma poegadega ja pöörduvad tagasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/10\/9-12.1792552011190.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "ja ma külvan nad"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "rahvaste seas"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "ja kaugel maadel"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "tulevad mulle meelde"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ja nad elavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma poegadega"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oma poegadega"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja pöörduvad tagasi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:06:51.191472634Z",
+  "model": "glm-5.3"
+}

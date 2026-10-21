@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 20:15",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tõstsin oma käe",
+      "rationale": "נשאתי ידי — käe tõstmine tähendab vandumist; sõna 'vanduma' tekstis ei seis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaunidus",
+      "rationale": "צבי tähendab 'hiilgus, kaunidus' ning ka 'gasell'; võimalik kõlaside 'parim' (KJV 'glory')."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti kaudne kõneviis nõuab abiverbi, heebrea infinitiivil seda pole."
+    }
+  ],
+  "translation": "Aga ka mina tõstsin oma käe nende vastu kõrbes: mitte tuua neid ⟨את⟩ maale, mille mina olin andnud — piimast ja meest voolav, kõigi maade kaunidus ⟨on⟩ see.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e87a502bde36b1b95f9a535fced6af0bc075319762f74a35359166fee0b2cca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/20\/13-16.1792550022000.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "aga ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "tõstsin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nende vastu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "tuua"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "maale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "mina olin andnud"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "voolav"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "piimast"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ja meest"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kaunidus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maade"
+    }
+  ],
+  "timestamp": "2026-10-21T02:33:42.002019706Z",
+  "model": "glm-5.3"
+}

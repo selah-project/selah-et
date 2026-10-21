@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שוק",
+      "rationale": "'säär' vs 'õlg': šoq on alumine jalg (sääreosa), traditsioonilised tõlked 'õlg' on tekstiliselt ebatäpne."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõstetohver",
+      "rationale": "תרומה — üles tõstetud andam; siin konkreetne tseremoonia, mitte üldine 'kingitus'."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ parema sääre andke tõstetohvriks preestrile oma tänuohvritest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/7\/29-32.1792539184433.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "parema sääre"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "sääre"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "parema"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "tõstetohvriks"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "preestrile"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ohvritest"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "oma tänu-"
+    }
+  ],
+  "timestamp": "2026-10-20T23:33:04.434335279Z",
+  "model": "glm-5.3"
+}

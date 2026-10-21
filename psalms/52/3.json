@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "Heebrea fraas on nimeline — kopeer puudub, eesti vajab verbi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vägev mees",
+      "rationale": "הגבור on 'vägev sõjamees'; roll mitte tiitel"
+    },
+    {
+      "kind": "you",
+      "subject": "Doegile",
+      "rationale": "Pilk pöördub otse ülbija poole"
+    }
+  ],
+  "translation": "Miks kiitled kurjuses, vägev mees? Elohimi hesed ⟨kestab⟩ kogu päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/52\/1-4.1792552998216.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "kiitled"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "kurjuses"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "vägev mees"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:18.218195018Z",
+  "model": "glm-5.3"
+}

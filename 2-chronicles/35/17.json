@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pesah",
+      "rationale": "פסח kirjutatakse heebrea kõla järgi, mitte 'üleminekupüha'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse päeva",
+      "rationale": "püha pikkus päevades"
+    }
+  ],
+  "translation": "Ja Jisraeli pojad, kes olid kohal, tõid sel ajal toime ⟨את⟩ pesahi ja ⟨את⟩ matsotide püha, seitse päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57e47f81b11a15ead81ebf2d894b1268e1e9d9c09ab8c7ca8f70aed520e4f680",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/35\/17-20.1792558208493.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tõid toime"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "kes olid kohal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesahi"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sel ajal"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matsotide püha"
+    },
+    {
+      "surface": "חג",
+      "gloss": "püha"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsotide"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:50:08.495470683Z",
+  "model": "glm-5.3"
+}

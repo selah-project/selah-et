@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנם",
+      "rationale": "Kordus 'asjata … asjata' raamib salmi; heebrea kõlab kordus teravamalt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud, mitte immateriaalne 'hing'."
+    }
+  ],
+  "translation": "Sest asjata varjasid nad minu jaoks auku — oma võrgu; asjata kaevasid nad mu hinge pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/5-8.1792552687356.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "asjata"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "varjasid nad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu jaoks"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "auku"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "oma võrgu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "asjata"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "kaevasid nad"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mu hinge pärast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:07.356867432Z",
+  "model": "glm-5.3"
+}

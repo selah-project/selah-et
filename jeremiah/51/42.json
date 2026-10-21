@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meri",
+      "rationale": "הים on kujund: tungiv rahvaste vägi, nagu veeuputus Babüloni üle"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli ta",
+      "rationale": "Heebrea passiiv vajab eesti keeles tegijatähisega liitsõna"
+    }
+  ],
+  "translation": "Tõusis üle Babuli meri, oma lainete paljuses ⟨oli ta⟩ kaetud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bcc3df932f9b70f6340cd410f0138c33ae230269093daf76966228dec60d0900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/51\/41-44.1792549468138.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "tõusis"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babuli"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "paljuses"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "oma lainete"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "kaetud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:24:28.139849099Z",
+  "model": "glm-5.3"
+}

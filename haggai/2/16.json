@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "haggai 2:16",
+  "book": "haggai",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "arvud",
+      "rationale": "kakskümmend→kümme, viiskümmend→kakskümmend: saagi mõõdud ja nende kahanemine"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהיותם",
+      "rationale": "'nende olemisest' = 'sel ajal \/ nendel päevadel'; mõned loevad tingivalt 'kui keegi tuli'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pūra",
+      "rationale": "פורה on veinipressi mõõt; hoitud kõla järgi, kuna täpset suurust ei tea"
+    }
+  ],
+  "translation": "Sel ajal, kui tulid kahekümne moodi kuhjale, sai sellest kümme; kui tuli veinikuubja viiekümnet pūrat ammutama, sai sellest kakskümmend.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "addf6d7ee631b4feb59258db5bd4dc591f40ea246b2e981010e180340e418b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/haggai\/2\/13-16.1792551903860.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהיותם",
+      "gloss": "sel ajal"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kui — kuhjale"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "kuhjale"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahekümne"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sai sellest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kui — kuubjale"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "veinikuubja"
+    },
+    {
+      "surface": "לחשף",
+      "gloss": "ammutama"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viiekümnet"
+    },
+    {
+      "surface": "פורה",
+      "gloss": "pūrat"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sai sellest"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    }
+  ],
+  "timestamp": "2026-10-21T03:05:03.862379649Z",
+  "model": "glm-5.3"
+}

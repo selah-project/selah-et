@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "elision",
+      "subject": "בין",
+      "rationale": "Korduv 'vahel' lõimitud sidesõnadega loendisruktuuris"
+    }
+  ],
+  "translation": "Need on sätted, mida Jahve käskis ⟨את⟩ Mošele: mehe ja tema naise vahel, isa ja tema tütre vahel — ta nooruses, ta isa hoones.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/30\/17-17.1792540378090.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Need"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "sätted"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käskis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošele"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "ja tema naise"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ja tema tütre"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "ta nooruses"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hoones"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ta isa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:52:58.091404827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "põhjalikult",
+      "rationale": "הרבה tähendab sõna-sõnalt 'rohkelt\/mõõdus'; 'põhjalikult' on tavapärane tõlge pingutusadverbina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבס",
+      "rationale": "כבס tähendab pesemist jalgadega tallates — kanga pesemise pilt, eesti 'pesema' ei too seda füüsilist pilti üle."
+    }
+  ],
+  "translation": "Pese mind põhjalikult mu pahateost ja mu patust puhasta mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/1-4.1792553014383.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "põhjalikult"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Pese mind"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "mu pahateost"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ja mu patust"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "puhasta mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:34.384494684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד נצח",
+      "rationale": "Sõna-sõnalt 'kuni igavikuni'; tõlgitud kui 'igavesest ajast' — eitus haarab kogu ajavahemiku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nemad⟩",
+      "rationale": "יראו on mitmus; eesti vajab subjekti — keda see 'nad' tähendab, tekst jätab lahtiseks (rikas? ta isade põlvkond?)"
+    }
+  ],
+  "translation": "Ta saabub oma isade põlvkonda; igavesest ajast ei näe ⟨nemad⟩ valgust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/17-20.1792553020175.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "saabub"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "דור",
+      "gloss": "põlvkonda"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "oma isade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ajast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nad näevad"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valgust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:40.176358435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea ויבא subjekt tuleb eelmisest salmist (sammas); eesti keel nõuab subjekti."
+    },
+    {
+      "kind": "crux",
+      "subject": "pilv ja pimedus",
+      "rationale": "Kellele pilv oli pime ja kellele valgus — heebrea tekst ei ütle seda otse; tõlgid lisavad 'neile\/neile'."
+    }
+  ],
+  "translation": "Ja ⟨ta⟩ tuli Mitsraimi laagri ja Jisraeli laagri vahele, ja oli pilv ja pimedus, ning valgustas ⟨את⟩ ööd, ja see ei lähenenud sellele kogu öö.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "592d321cfd4bddade1a375dcd8e68fd06133a77d608c48dcc62d0bfad7dd2547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/14\/17-20.1792538508548.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja tuli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahele"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "laagri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "laagri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilv"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "ja pimedus"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "ja valgustas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ööd"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ööd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "lähenenud"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "öö"
+    }
+  ],
+  "timestamp": "2026-10-20T23:21:48.549743144Z",
+  "model": "glm-5.3"
+}

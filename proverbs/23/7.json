@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער בנפשו",
+      "rationale": "שער 'hind panema' vs PTH-vokaaliga שער 'uks': 'nagu ta hingeosas arvab' (KJV 'mõtleb') vs 'nagu väravalõige' (suitsuotsija, Wycliffe)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefel",
+      "rationale": "נפש on elujõud\/hing, mitte 'hing'长久 mõttes; jääb transliteratsioonina."
+    },
+    {
+      "kind": "addition",
+      "subject": "aga",
+      "rationale": "Eesti keele vastandusside, mida heebrea omaduseta jätab; בל-עמך on juba eitus."
+    }
+  ],
+  "translation": "sest nagu hinna on ta oma nefeleja sees sees, nõnda ⟨on⟩ tema; „Söö ja joo!“ ütleb ta sinule, aga ta süda ei ole sinuga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/23\/5-8.1792554891598.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hinna"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "oma nefeleja sees"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Söö"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ja joo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "aga ta süda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinuga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:51.601078160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "palun",
+      "rationale": "נא on heebrea osake, eesti fraas 'laske mul' kannab seda; ⟨palun⟩ märgib palvetooni"
+    },
+    {
+      "kind": "you",
+      "subject": "Moše palve Jahvele",
+      "rationale": "Moše pöördub otse Jumala poole palvega"
+    }
+  ],
+  "translation": "Laske mul ⟨palun⟩ üle minna ja näha ⟨את⟩ head maad, mis on Jordani taga, seda head mäge ja Lebanoni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4c334c266f804d03ce129578f1c4f25b4cf520c207c9c93ea5ac78d355d559d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/3\/25-28.1792540624247.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "laske mul üle minna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨palun⟩"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ja näha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "head maad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "head"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "taga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordani"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäge"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "seda"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ja Lebanoni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:04.248005608Z",
+  "model": "glm-5.3"
+}

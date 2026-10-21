@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "järgnevad mind",
+      "rationale": "רויה tähendab küllastust, rikkalikku täidet — 'runnab üle' on tavatõlge, heebrea sõna ise ei räägi ülevoolamisest"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel, eesti keel nõuab seda peekri lause jaoks"
+    }
+  ],
+  "translation": "Sa katad minu ees laua mu vaenlaste ees, võid mu pead õliga, mu peeker ⟨on⟩ täis runnant.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/23\/5-6.1792552484665.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Sa katad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "minu ees"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "laua"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mu vaenlaste"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "võid"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "õliga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pead"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "mu peeker"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "täis runnant"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:44.666284733Z",
+  "model": "glm-5.3"
+}

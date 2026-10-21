@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel vajab sidusõna, heebrea seda ei kasuta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא תגעו בו",
+      "rationale": "'ega sellesse puutuge' — naise lisatud tsensuur? Jumal käskis vaid mitte süüa (2:17); naine (või allikas) lisab puutumise keelu"
+    }
+  ],
+  "translation": "aga puu viljast, mis aia keskel ⟨on⟩, on Elohim öelnud: te ei tohi sellest süüa ega sellesse puutuda, et te ei sureks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/3\/1-4.1792537314421.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "aga viljast"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "aia"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on öelnud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "tohi süüa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "puutuda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sellesse"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et … ei"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "sureks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:01:54.422791694Z",
+  "model": "glm-5.3"
+}

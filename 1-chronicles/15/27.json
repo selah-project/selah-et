@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 15:27",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub kopeeruv verb; eesti keel nõuab seda."
+    },
+    {
+      "kind": "crux",
+      "subject": "המשא",
+      "rationale": "'koorem\/kandmine' — tõlgitakse 'laulmise ülem' (vaimulik koorem) või sõna-sõnalt 'kandmise\/kanduri ülem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בוץ",
+      "rationale": "Sõna-sõnalt 'puuvill\/vähem linane'; tõlgitud 'peene linase' tavandi järgi."
+    }
+  ],
+  "translation": "Ja David ⟨oli⟩ rõivastatud peene linase kuuesse, ja kõik leevitlased, kelle kandsid ⟨את⟩ laegast, ja lauljad, ja Kenanja, lauljate koorma ülem, ja lauljad; ning Davidil ⟨oli⟩ üll linasest eefod.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "401c764ff6c5563256b5ccba86547f4dde8e9758ca25d69dfcd872aac6e89813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/15\/25-28.1792557401141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ja David"
+    },
+    {
+      "surface": "מכרבל",
+      "gloss": "rõivastatud"
+    },
+    {
+      "surface": "במעיל",
+      "gloss": "kuuesse"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "peene linase"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leevitlased"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "kandsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laegas"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "laegast"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "ja lauljad"
+    },
+    {
+      "surface": "וכנניה",
+      "gloss": "ja Kenanja"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "koorma"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "lauljate"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ning Davidil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "eefod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linasest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:41.142845438Z",
+  "model": "glm-5.3"
+}

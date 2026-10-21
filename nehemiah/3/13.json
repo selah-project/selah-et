@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 3:13",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tegi kindlaks",
+      "rationale": "החזיק tähendab sõna-sõnalt 'haaras kinni'; 'remontis' on roll, mitte sõna kuju"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨müürist⟩",
+      "rationale": "eesti keel vajab osastavat, heebrea ütleb lihtsalt 'müüris'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tuhat küünart",
+      "rationale": "müüri pikkuse mõõt sõnnikuväravani"
+    }
+  ],
+  "translation": "⟨את⟩ orava värava tegi kindlaks Hanun ja Zanoahi asukad — nemad ehitasid selle ja püstitasid selle uksed, selle lukud ja selle piirded; ja tuhat küünart ⟨müürist⟩ kuni sõnnikuväravani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "657577b62bf663e52b20def1675db4a7b2edf063b59796aaa55f91449229f63b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/3\/13-16.1792556865235.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orava värav"
+    },
+    {
+      "surface": "שער",
+      "gloss": "värav"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "org"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "tegi kindlaks"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ja asukad"
+    },
+    {
+      "surface": "זנוח",
+      "gloss": "Zanoahi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "בנוהו",
+      "gloss": "ehitasid selle"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "ja püstitasid"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "selle uksed"
+    },
+    {
+      "surface": "מנעליו",
+      "gloss": "selle lukud"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "ja selle piirded"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ja tuhat"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "müüris"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שער",
+      "gloss": "väravani"
+    },
+    {
+      "surface": "השפות",
+      "gloss": "sõnniku"
+    }
+  ],
+  "timestamp": "2026-10-21T04:27:45.236362989Z",
+  "model": "glm-5.3"
+}

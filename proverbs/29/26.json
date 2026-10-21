@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני מושל",
+      "rationale": "'valitseja näo otsimine' = soosingu taotlemine; säilitatud sõnaselgelt"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tuleneb⟩",
+      "rationale": "heebrea lühibeleht puudub tegusõna; eesti keel vajab verbi"
+    }
+  ],
+  "translation": "Paljud otsivad valitseja nägu, aga inimese kohus ⟨tuleneb⟩ Jahvelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3a2e656cba45e3e017d87eef9c34ce121f2c6ff64a8629b56086b6030a6b00dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/25-27.1792555005209.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "paljud"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "otsivad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "valitseja"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "aga Jahvelt"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimese"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:45.209890305Z",
+  "model": "glm-5.3"
+}

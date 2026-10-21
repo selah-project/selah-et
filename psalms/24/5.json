@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeer; kandev tegusõna נשא nihutab eesti keeles kaudse käändega kokkuvõtteks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeka",
+      "rationale": "צדקה jääb heebrea kõlaga sõnaks, mitte 'õiguseks' või 'vabaks ülendamiseks'"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "H854 'käest\/lähedalt' — käändeline eessõna, mida eesti keeles väljendab sõnaga 'käest'"
+    }
+  ],
+  "translation": "Tema kannab ⟨on⟩ õnnistuse saaja ⟨את⟩ Jahve käest ja tsedeka Elohimi käest, oma pääste ⟨Elohimi⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/24\/5-8.1792552567206.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "kannab"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "õnnistuse"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve käest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ja tsedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimi käest"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "oma pääste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:07.206879370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõrgendik",
+      "rationale": "במה sõna-sõnalt 'kõrgendik', ohverdamiskoht kõrgel kohal"
+    },
+    {
+      "kind": "crux",
+      "subject": "Molek",
+      "rationale": "מלך: 'Molek' (jumala nimi) või 'nende kuningas'; vrt. 11:5 Milom\/Malkam"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Jerušalaimi näo ees",
+      "rationale": "על פני sõna-sõnalt 'peal, näo ees' = vastas, ida pool"
+    }
+  ],
+  "translation": "Siis ehitas Šelomo kõrgendiku Keemošile, Moabi jäledusele, mäele, mis on Jerušalaimi näo ees, ja Molekile, Ammoni poegade jäledusele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/11\/5-8.1792545434730.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ehitas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "במה",
+      "gloss": "kõrgendiku"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "Keemošile"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "jäledusele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mäele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "näo ees"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "ja Molekile"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "jäledusele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    }
+  ],
+  "timestamp": "2026-10-21T01:17:14.732364141Z",
+  "model": "glm-5.3"
+}

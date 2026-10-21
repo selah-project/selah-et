@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinge",
+      "rationale": "נפש on 'hingamine, elujõud, kõri' — mitte hinge immateriaalses mõttes"
+    }
+  ],
+  "translation": "Ja ühegi surnud hinge juurde ei lähe ta; isa pärast ega ema pärast ei rüvetu ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/21\/9-12.1792539500241.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ja üle \/ juurde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ühegi"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "hinge"
+    },
+    {
+      "surface": "מת",
+      "gloss": "surnud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "lähe"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "isa pärast"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ega ema pärast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "rüvetu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:20.242746990Z",
+  "model": "glm-5.3"
+}

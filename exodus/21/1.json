@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õigusotsused",
+      "rationale": "המשפטים on mitmus 'kohused\/otsused' — eesti mitmus lisab sõna 'otsused' ühe heebrea sõna kõrvale"
+    },
+    {
+      "kind": "you",
+      "subject": "Mošele",
+      "rationale": "käsk addressed Mošesele, kes seab need rahva ette"
+    }
+  ],
+  "translation": "Ja need on õigusotsused, mida sa pead nende ette panema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/1-4.1792538694518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "õigusotsused"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "sa pead panema"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "nende ette"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:54.519189119Z",
+  "model": "glm-5.3"
+}

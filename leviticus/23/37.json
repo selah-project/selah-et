@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 23:37",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "neid",
+      "rationale": "Estonian requires the pronoun 'neid' as object of 'kuulutate', not in Hebrew"
+    }
+  ],
+  "translation": "Need on Jahve pühade ajad, mida te kuulutate ⟨את⟩ neid pühade kogunemistena pühaks, et tuua Jahvele tuleohver, põletusohver ja minha, tapaohver ja joogiohverdused, iga päeva asi oma päeval.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fff561ee11a582f0c6fd2992dbed47a6f6fcfa90a18fcdeda042eecd3d8d835e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/37-40.1792539619253.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Need"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "pühade ajad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "te kuulutate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "need (pühade kogunemised)"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "pühade kogunemistena"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "et tuua"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "tuleohver"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "põletusohver"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ja minha"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "tapaohver"
+    },
+    {
+      "surface": "ונסכים",
+      "gloss": "ja joogiohverdused"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "oma päeval"
+    }
+  ],
+  "timestamp": "2026-10-20T23:40:19.254378012Z",
+  "model": "glm-5.3"
+}

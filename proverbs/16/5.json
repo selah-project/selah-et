@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד ליד",
+      "rationale": "'käsi käe kõrval' — käsi ühineb käega, kinnitamise žest; JPS loeb 'mu käsi selle peale'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יד ליד לא ינקה",
+      "rationale": "kes ei jää karistuseta: kõrgenenud süda (enamik) või käsi-käega vanduja (JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תועבת",
+      "rationale": "judu — vastik asi, mitte 'vaimulik patt'"
+    }
+  ],
+  "translation": "Jahve judu on iga kõrgenenud süda; käsi käe kõrval — ⟨ta⟩ ei jää karistuseta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/5-8.1792554681020.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "judu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "kõrgenenud"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "käe kõrval"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jää karistuseta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:21.020851268Z",
+  "model": "glm-5.3"
+}

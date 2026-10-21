@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא יתנו מעלליהם לשוב",
+      "rationale": "Sõna-sõnalt 'nende teod ei anna (neile) pöörduda' — eesti keeles 'ei lase neil pöörduda'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh' — tuul\/Vaim\/hingus ühes sõnas; 'hooruse ruahh' on otse"
+    },
+    {
+      "kind": "secret",
+      "subject": "Jahvet nad ei tundnud",
+      "rationale": "Jahve tundmise puudumine — teadmine, mida nad ei oma, kuigi Jahve tajab kõike (v.3)"
+    }
+  ],
+  "translation": "Nende teod ei lase neil pöörduda tagasi oma Elohimi juurde, sest hooruse ruahh on nende sees, ja ⟨את⟩ Jahvet nad ei tundnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/5\/1-4.1792551078237.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "lase"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "nende teod"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "pöörduda tagasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oma Elohimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "hooruse"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "nende sees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tundnud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:18.239926435Z",
+  "model": "glm-5.3"
+}

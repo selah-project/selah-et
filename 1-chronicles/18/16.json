@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olid⟩",
+      "rationale": "Kopula lisatud; heebrea nimelause ei oma 'olema'-verbi."
+    },
+    {
+      "kind": "crux",
+      "subject": "Avimelek",
+      "rationale": "2Sm 8:17-l on 'Ahimelek, Avjatari poeg'; 1Aj 18:16 'Avimelek' — samuti Šavša\/Seja\/Seraja variatsioon."
+    }
+  ],
+  "translation": "ja Tsadok, Ahitubi poeg, ja Avimelek, Avjatari poeg, ⟨olid⟩ preestrid, ja Šavša ⟨oli⟩ kirjutaja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/18\/13-16.1792557400132.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "ja Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitubi"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "ja Avimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avjatri"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "ja Šavša"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "kirjutaja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:40.133924453Z",
+  "model": "glm-5.3"
+}

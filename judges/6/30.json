@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ašera",
+      "rationale": "האשרה on jumalanna Ašera nimi ja tema kultusese; 'hiis' või 'kõrk' varjaks nime."
+    },
+    {
+      "kind": "you",
+      "subject": "linna mehed Joašile",
+      "rationale": "Otsene kõne Joašile, nõue pojale surmanuhtluseks."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab koppulat, mis heebrea küsisõna אשר konstruktsioonis ei kanna."
+    }
+  ],
+  "translation": "Ja linna mehed ütlesid Joašile: too välja ⟨את⟩ sinu poeg, ja ta surgu, sest ta on lõhunud ⟨את⟩ Baali altari ja sest ta on maha raiunud ašera, mis selle kõrval ⟨on⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0adcb922ab45ab191dde79b1c8459dc2bf487bda13f4f7b23d4e5d2d6a30884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/6\/29-32.1792543689763.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja nad ütlesid"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joašile"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "too välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu poeg"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sinu poeg"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja ta surgu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "on lõhunud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali altari"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja sest"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "on maha raiunud"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ašera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "selle kõrval"
+    }
+  ],
+  "timestamp": "2026-10-21T00:48:09.766860609Z",
+  "model": "glm-5.3"
+}

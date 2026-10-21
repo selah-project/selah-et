@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kolju",
+      "rationale": "גלגלתו on sõna-sõnalt 'kolju'; paljud tõlked ütlevad 'pea'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumalate",
+      "rationale": "אלהיהם viitab siin pelistlaste ebajumaladele, seega väikse tähega 'jumalad', mitte Elohim"
+    },
+    {
+      "kind": "crux",
+      "subject": "kinnitasid",
+      "rationale": "תקעו tähendab 'paelasid\/ripputasid üles'; tõlkijad jagunevad 'rippusid' ja 'paelasid' vahel"
+    }
+  ],
+  "translation": "Ja nad panid ⟨את⟩ tema sõjariistu oma jumalate majja ja ⟨את⟩ tema kolju nad kinnitasid Dagoni majja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5e78696b2de13590eccb5d60b5a5ffcbed96bc6aad63f1c2ab9f0ca4c13162c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/10\/10-11.1792558705218.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ja nad panid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema sõjariistu"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tema sõjariistu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oma jumalate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema kolju"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "tema kolju"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "nad kinnitasid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:25.224563145Z",
+  "model": "glm-5.3"
+}

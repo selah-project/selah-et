@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 33:22",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elujõud",
+      "rationale": "נפש on kurgu\/hingamise\/elujõu sõna, mitte 'hing' muinasrahvalikus mõttes."
+    },
+    {
+      "kind": "crux",
+      "subject": "לממתים",
+      "rationale": "'Need, kes panevad surema' — surmaotsijad, hauakaevajad (asva geneva) või surmainglid."
+    }
+  ],
+  "translation": "Ja tema elujõud läheneb auku ja tema elu neile, kes panevad surema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/21-24.1792555584301.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרב",
+      "gloss": "läheneb"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "auku"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema elujõud"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "tema elu"
+    },
+    {
+      "surface": "לממתים",
+      "gloss": "neile, kes panevad surema"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:24.302079305Z",
+  "model": "glm-5.3"
+}

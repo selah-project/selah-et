@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨om⟩",
+      "rationale": "Heebreal puudub asesõna 'nende' — 'nad raputavad pead' eeldab eesti keeles omastavat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יניעון ראשם",
+      "rationale": "Pead raputamine pilkežest — püsiv Tanahi kujund, eesti keeles kaudselt edasi antud"
+    }
+  ],
+  "translation": "Ja mina olin neile pilkeks: nad näevad mind, nad raputavad ⟨om⟩ pead.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/25-28.1792553892952.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja mina"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olin"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "pilkeks"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "nad näevad mind"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "nad raputavad"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "pead"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:12.952974600Z",
+  "model": "glm-5.3"
+}

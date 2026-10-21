@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "Põhitoiming: 'vesi sogaseks ajama' — 'mu valu muutus raskemaks' (KJV 'stirred') vs 'mu valu ohjeldati' (JPS), pööratud tegelane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נעכר",
+      "rationale": "Sõnasõnaliselt 'soganes' nagu vesi; valu kujutamine häiritud veena"
+    }
+  ],
+  "translation": "Vaiksuseks vaikitseks mina, heitsin vait isegi heast, ja mu valu muutus raskemaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/39\/1-4.1792552786038.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "vaiksuseks vaikitseks mina"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "vaiksuseks"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "heitsin vait"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "isegi heast"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ja mu valu"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "muutus raskemaks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:46.040363153Z",
+  "model": "glm-5.3"
+}

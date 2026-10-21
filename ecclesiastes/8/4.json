@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea kõrveldab kaks nimisõna ilma kopulata; eesti keel nõuab ⟨on⟩"
+    },
+    {
+      "kind": "invitation",
+      "subject": "küsimus",
+      "rationale": " retooriline küsimus 'kes ütleb talle?' haarab kuulaja kaasa"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kes ütleb talle: mida sa teed?",
+      "rationale": "kinnitatud vastuseta küsimus jätab järelevalte koheda pilku peita"
+    }
+  ],
+  "translation": "Kus ⟨on⟩ kuninga sõna, ⟨on⟩ võim, ja kes ütleb talle: mida sa teed?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/8\/1-4.1792556083916.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "võim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sa teed"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:43.917089304Z",
+  "model": "glm-5.3"
+}

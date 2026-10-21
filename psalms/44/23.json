@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tapamajja",
+      "rationale": "טבחה on 'tapaks, teotamiseks' — lambad määratud tapmisele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kogu päeva",
+      "rationale": "כל היום sõna-sõnalt 'kogu päeva' — lakkamatu surm"
+    }
+  ],
+  "translation": "Sest sinu pärast tapetakse meid kogu päeva, meid arvatakse nagu lambad ja kitsed tapamajja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/44\/21-24.1792552833234.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu pärast"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "tapetakse meid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "meid arvatakse"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "nagu lambad ja kitsed"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "tapamajja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:33.235677830Z",
+  "model": "glm-5.3"
+}

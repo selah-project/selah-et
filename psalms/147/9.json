@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לחמה",
+      "rationale": "לחם on otseselt 'leib\/toit'; öeldud 'toidu', leiva kuju jääb eesti keeles varju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pojakesed",
+      "rationale": "לבני ערב on sõna-sõnalt 'ronkude poegadele' — 'pojakesed' (diminutiiv) ei ole heebreas"
+    }
+  ],
+  "translation": "kes annab kariloomadele nende toidu, ronkude pojakestele, kes hüüavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/9-12.1792554361913.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "kes annab"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "kariloomadele"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "nende toidu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pojakestele"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ronkude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "hüüavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:01.913834959Z",
+  "model": "glm-5.3"
+}

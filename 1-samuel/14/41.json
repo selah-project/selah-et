@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 14:41",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבה תמים",
+      "rationale": "Masoretade lühike tekst 'anna terviklik [langetus]' vs LXX pikk tekst (Urim ja Tummimi küsimus Sauali ja Jonatani kohta)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "langetus",
+      "rationale": "תמים tähendab 'terviklik, puutumatu' — lisatud 'langetus', sest kontekst on liisu heitmine"
+    },
+    {
+      "kind": "elision",
+      "subject": "וילכד",
+      "rationale": "'kinni püütud\/saadud' — liisu kontekstis 'loosi alla sattus', jäetud kordamatuks"
+    }
+  ],
+  "translation": "Ja Saul ütles Jahvele, Jisraeli Elohimile: Anna terviklik ⟨langetus⟩. Ja Jonatan jäi ⟨liisu läbi⟩ kinni, ja Saul, aga rahvas läks välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/41-44.1792543919948.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "terviklik"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja jäi kinni"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ja Saul"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "aga rahvas"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "läks välja"
+    }
+  ],
+  "timestamp": "2026-10-21T00:51:59.949338644Z",
+  "model": "glm-5.3"
+}

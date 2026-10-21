@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 38:17",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנה לשלום מר לי מר",
+      "rationale": "'Vaata, rahu jaoks mõru mulle kibedus' — tõlkijad loevad kas 'rahu jaoks tuli mulle kibedus' (KJV\/JPS) või 'tema muutis mu kibeduse rahuks' (YLT)."
+    },
+    {
+      "kind": "crux",
+      "subject": "חשקת נפשי משחת בלי",
+      "rationale": "KJV 'armastasid mu hingesid' vs 'kinnitusid\/kandsid mu hinge' — חשק tähendab nii armastada kui kinni pidada; בלי tõlgitakse 'korrustumisena' (hävingu auk) või eituse 'ilma'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hingesid",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte immateriaalne 'hing'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "oma selja taha",
+      "rationale": "Heebrea אחרי גוך — ' oma selja taha' = kustutada, mitte enam näha."
+    }
+  ],
+  "translation": "Vaata, rahu jaoks ⟨oli⟩ mulle mõru kibedus, aga sina hoidsid kinni mu hingesid hävingu august, sest sina heitsid oma selja taha kõik mu patud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/38\/17-20.1792547405884.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "rahu jaoks"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mõru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kibedus"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "aga sina"
+    },
+    {
+      "surface": "חשקת",
+      "gloss": "hoidsid kinni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hingesid"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "hävingu august"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨korrustumisest⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "sina heitsid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taha"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "oma selja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "mu patud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:05.885627931Z",
+  "model": "glm-5.3"
+}

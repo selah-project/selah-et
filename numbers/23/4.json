@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "iga",
+      "rationale": "heebrea ütleb lihtsalt 'altari peal' — 'iga altar' on tõlkijate täiend, kuigi kontekst (v.2) seda toetab"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse altarit",
+      "rationale": "Bileami aruanne kordab arvu seitse — ohvrite loendus"
+    }
+  ],
+  "translation": "Ja Elohim sattus Bileamile vastu, ja ta ütles talle: ⟨את⟩ seitse altarit olen ma järjestanud ja olen tõstnud üles nuumvasika ja hirve iga altari peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d07dc78fabb8a37462ee67a5fe488d82abfd59c21b14b4e3050f66ac7b6b19dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/23\/1-4.1792540261026.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ja sattus vastu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kellele)"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileamile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitse altarit"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altarit"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "olen ma järjestanud"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ja olen tõstnud üles"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nuumvasika"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ja hirve"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "altari peal"
+    }
+  ],
+  "timestamp": "2026-10-20T23:51:01.027615075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Eesti keeles lisatud abi-verb"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כעל כל הון",
+      "rationale": "Võrdlus 'nagu üle kogu rikkuse' — heebrea eessõnaline võrdlus eesti keeles sidesõnaga 'nagu'"
+    }
+  ],
+  "translation": "Sinu tunnistuste teel olen rõõmustanud nagu kogu rikkuse üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/13-16.1792553993196.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "teel"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "sinu tunnistuste"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "olen rõõmustanud"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "nagu üle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rikkuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:53.197042133Z",
+  "model": "glm-5.3"
+}

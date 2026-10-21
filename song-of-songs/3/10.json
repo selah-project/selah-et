@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רפידתו",
+      "rationale": "'Tema toetus\/alus' — KJV 'bottom' (põhi), JPS 'top' (kate), YLT 'bottom'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רצוף אהבה",
+      "rationale": "Otseselt 'armastusega täpistetud\/mosaiiki pandud' — teised tõlked: 'armastusest kaetud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨poolt⟩",
+      "rationale": "Eesti keele jaoks lisatud tegija-määrus, heebrea מבנות kannab seda konstruktsioonis"
+    }
+  ],
+  "translation": "Tulbad tegi ta hõbedast, tema toetus kullast, tema istepind purpurist, tema sisemus armastusega täpistetud, Jerušalaimi tütarde ⟨poolt⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/3\/9-11.1792555770135.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "Tulbad"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi ta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedast"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "tema toetus"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullast"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "tema istepind"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "purpurist"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "tema sisemus"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "täpistetud"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "armastusega"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "tütarde ⟨poolt⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:30.136738625Z",
+  "model": "glm-5.3"
+}

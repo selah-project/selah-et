@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת",
+      "rationale": "lepingu 'rajamine' on otsekui 'lõikamine' — ברית כרת, tükivahel käidud leping, pilt kaob eesti keeles"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבועה",
+      "rationale": "vanne pannakse Jitshakile nagu mõõdetud suurus"
+    }
+  ],
+  "translation": "mille ta raius ⟨את⟩ Avrahamiga, ja oma vandega Jitshakile,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/9-12.1792553769780.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "raius"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ja oma vandega"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Jitshakile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:09.780635686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצוא ושוב",
+      "rationale": "Kas ronk 'lendas edasi-tagasi' (KJV) või 'läks ega tulnud tagasi' (mõned tõlkijad loevad ושוב eitusega); infinitiivikonstruktsioon lubab mõlemat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצא יצוא ושוב",
+      "rationale": "Tähelepanuväärne infinitiivide kordus — välja-minemine, minemine ja tagasipöördumine."
+    }
+  ],
+  "translation": "Ja ta saatis välja ⟨את⟩ rongi, ja see lendas välja ja tagasi, kuni veed kuivasid maa pealt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/8\/5-8.1792537420188.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatis välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rongi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "rongi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja see lendas välja"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "välja"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ja tagasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "kuivasid"
+    },
+    {
+      "surface": "המים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "pealt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:03:40.189170285Z",
+  "model": "glm-5.3"
+}

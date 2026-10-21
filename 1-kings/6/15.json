@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laidudega",
+      "rationale": "צלעות on sõna otseses mõttes 'ribid' — hoone kontekstis laudad\/laidud; kuju 'ribi' eesti keeles eksitav."
+    },
+    {
+      "kind": "measurement",
+      "subject": "templitööd",
+      "rationale": "Salmitäpne ehituskirjeldus: põrandast laeni, materjalide loetelu."
+    }
+  ],
+  "translation": "Ja ta ehitas ⟨את⟩ koja seinad seestpoolt seedri laidudega, koja põrandast seinte laeni, ja kattis puiduga seestpoolt; ja ta kattis ⟨את⟩ koja põranda küpressi laidudega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b8e43b1c7d8b0bc353c62dec6397dcb630c902d9c5afdfe274a3533cdc1f2bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/6\/13-16.1792545232802.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja ta ehitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koja seinad"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "seinad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "seestpoolt"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "laidudega"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seedri"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "põrandast"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "seinte"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "lae"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kattis"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puiduga"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "seestpoolt"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ja ta kattis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koja põranda"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "põranda"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "laidudega"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "küpressi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:13:52.804861834Z",
+  "model": "glm-5.3"
+}

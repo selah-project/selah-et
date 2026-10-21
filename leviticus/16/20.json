@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "üle",
+      "rationale": "eesti keel vajab kaasaarvatud objektile kaaskäändet, heebrea את see ala ei kirjuta"
+    }
+  ],
+  "translation": "Ja kui ta on lõpetanud lepitamise ⟨את⟩ püha ja ⟨את⟩ kogunemisetelgi ning ⟨את⟩ altari üle, siis ta toob ette ⟨את⟩ elava tapra.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a17951f644ba6e4159dd6373631f4a90397291ef9a694cbace2753afb91de8d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/16\/17-20.1792539431684.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ja kui ta on lõpetanud"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "lepitamise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "püha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogunemisetelgi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telgi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kogunemise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ja ta toob ette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elava tapra"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "tapra"
+    },
+    {
+      "surface": "החי",
+      "gloss": "elava"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:11.685946529Z",
+  "model": "glm-5.3"
+}

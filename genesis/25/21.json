@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 25:21",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea kõnelause puudub kopeer; eesti keel vajab verbi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעתר \/ ויעתר",
+      "rationale": "sama verb 'paluda \/ lasta end paluda' kordub peegelna — Jitshak palub, Jahve laseb end paluda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vastas tema palvele",
+      "rationale": "krux: ויעתר לו on passiivne 'lasti end lepitada', mitte aktiivne vastus"
+    }
+  ],
+  "translation": "Ja Jitshak palus Jahvet oma naise pärast, sest tema ⟨oli⟩ sigimatu; ja Jahve vastas tema palvele, ja Rebeka, tema naine, hakkas lapseohtu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc1420cd9c843b7c4e516b153255083dfcefa482f0fc0014e89bdbb2d55c784f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/25\/21-24.1792537705816.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעתר",
+      "gloss": "palus"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "oma naise pärast"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "oma naise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "sigimatu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "vastas palvele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "hakkas lapseohtu"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tema naine"
+    }
+  ],
+  "timestamp": "2026-10-20T23:08:25.816943529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 12:41",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolmkümmend ja neli_sada aastat",
+      "rationale": "Ajaarvestus: 430 aasta lõpp selsamal päeval (vrd 12:40)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויהי ... ויהי",
+      "rationale": "Kahekordne 'ja sündis' raamistab värssi; kordus rõhutab päeva täpsust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעצם היום",
+      "rationale": "Sõna-sõnalt 'luu-päeval', idioom 'päeva olemuses' = just selsamal päeval."
+    }
+  ],
+  "translation": "Ja sündis kolmekümne ja neljasaja aasta lõpul — just selsamal päeval sündis, et kõik Jahve väed läksid välja Mitsraimi maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/12\/41-44.1792538449853.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "lõpul"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekümne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neljasaja"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "saja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "sündis"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "just selsamal"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "läksid välja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "väed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:49.853967807Z",
+  "model": "glm-5.3"
+}

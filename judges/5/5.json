@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "sõna-sõnalt 'näo eest', tavapärane heebrea väljend 'kellegi juuresoleku\/kohalolu ees'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Mäed voolasid ära",
+      "rationale": "נזלו tähendab tilkuma\/voolama; mõned tõlkijad pakuvad 'värisesid' või 'sulasid' (vt 5:4 'tilkusid')"
+    }
+  ],
+  "translation": "Mäed voolasid ära Jahve palge eest, see Siinai, Jahve palge eest, Jisraeli Elohimist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/5\/5-8.1792541856890.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Mäed"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "voolasid ära"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "palge eest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "palge eest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimist"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:17:36.890971869Z",
+  "model": "glm-5.3"
+}

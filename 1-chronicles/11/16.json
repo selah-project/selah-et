@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "heebrea puudub kopeer; eesti nõuab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "נציב",
+      "rationale": "'saatkond\/garnison' vs 'sõjaväepost' — sõna tähendab midagi paigalseisvat"
+    }
+  ],
+  "translation": "Ja David oli siis kindluses, ja peavlite saatkond oli siis Pet-Lahmis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/13-16.1792557320300.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "kindluses"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ja saatkond"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peavlite"
+    },
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Pet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lahmis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:20.301336825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "esimene 'ei' katab tervat polüptotoni, teine sidesõna 'ega' on eesti keele jaoks lisatud"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכלאות",
+      "rationale": "sõna 'suletud karjalaut' (noavast) ilmub Tanahhis vaid siin ja Na 3:1"
+    }
+  ],
+  "translation": "Ei võta ma suust ⟨ei⟩ ma su majast härga ega su karjalaudadest isaskitse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/9-12.1792552946079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "võta ma"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "su majast"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härga"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "su karjalaudadest"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "isaskitse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:26.079741088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pitseerib kinni",
+      "rationale": "יחתם on 'pitseerima, sulgema pitseriga' — pitserikeele hoitud, sest see viitab lukustatud teadmisele."
+    },
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Eesti keele kaudne objekt lisatud, heebrea puudub."
+    },
+    {
+      "kind": "secret",
+      "subject": "pitseerib tähid kinni",
+      "rationale": "Pitseriga suletud taevas — peidetud, kättesaamatu teadmise pilt."
+    }
+  ],
+  "translation": "Kes ütleb päikesele ja see ei tõuse, ja tähti see pitseerib kinni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/5-8.1792555178673.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Kes ütleb"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "päikesele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja see ei"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "tõuse"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "tähti"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "pitseerib kinni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:38.674735317Z",
+  "model": "glm-5.3"
+}

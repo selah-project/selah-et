@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hammas",
+      "rationale": "השן on sõna 'hammas' teravuselt kaljunina kohta; sõna kuju on säilitatud, mitte asendatud sõnaga 'kalju'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaks kaljueendit",
+      "rationale": "salm paigutab kaks nimetatud kaljut ilmakaarte ja paikade järgi"
+    }
+  ],
+  "translation": "Üks hammas — kaljueend — põhja pool, Miikmaši vastas, ja teine lõuna pool, Gibea vastas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/5-8.1792543924043.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "hammas"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "kaljueend"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "põhja pool"
+    },
+    {
+      "surface": "מול",
+      "gloss": "vastas"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Miikmaši"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ja teine"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "lõuna pool"
+    },
+    {
+      "surface": "מול",
+      "gloss": "vastas"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gibea"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:04.043888049Z",
+  "model": "glm-5.3"
+}

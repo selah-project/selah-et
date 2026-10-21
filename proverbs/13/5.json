@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "haiseb",
+      "rationale": "יבאיש tähendab sõna-sõnalt 'halbade lõhnaga olema'; KJV\/JPS 'is loathseome' \/ 'behaveth vilely' kaotavad lõhnapildi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ja õel haiseb",
+      "rationale": "יַבְאִישׁ võib olla kausatiiv 'teeb haisvaks, tekitab jäledust' (nagu Geneva 'causeth slander') või lihtsalt 'on jäle'"
+    }
+  ],
+  "translation": "Valesõna vihkab õiglane, ja õel haiseb ning häbeneb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/5-8.1792554665982.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vale-"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "vihkab"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õiglane"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ja õel"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "haiseb"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ning häbeneb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:05.983388393Z",
+  "model": "glm-5.3"
+}

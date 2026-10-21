@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עשנת",
+      "rationale": "Sõna-sõnalt 'sa suitsutad' — vihastav suits, eesti idiom 'vihastama' varjutaks pildi."
+    },
+    {
+      "kind": "you",
+      "subject": "palve Jahvele",
+      "rationale": "Pöördumine otse Jahve poole."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kui kaua sa oled vihane",
+      "rationale": "Traditsiooniline lõdvem tõlge; sõna-sõnalt on 'suitsutad'."
+    }
+  ],
+  "translation": "Jahve, Elohim Tsevaot, kui kaua sa suitsutad oma rahva palve vastu?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bce9c4cb47de3c519a7356de021808b5a5c295bea022f83ed4bbb45227f3335f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/80\/5-8.1792553450405.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kui kaua"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kui kaua"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "suitsutad"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "palve vastu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oma rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:50.406026291Z",
+  "model": "glm-5.3"
+}

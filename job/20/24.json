@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaskkiir",
+      "rationale": "קשת on 'vibu'; 'vaskkiir' (vasknool vibust) on pikkus-ja-läbistamise seisukohalt vale, aga 'vaskvibu' ei läbista kedagi — nool teeb seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "terasest",
+      "rationale": "KJV 'bow of steel' — נחושה on vask, mitte teras"
+    }
+  ],
+  "translation": "Põgeneb ⟨tema⟩ rauast relvast — vastu tireleb teda vaskkiir.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db800bc3ca48e67d197b38a81b34ba5ba82650fdb94e1cac5cf3bf382d5f5fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/23-24.1792558651906.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "põgeneb"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "relvast"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "rauast"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "tireleb teda"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "vaskkiir"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "vask"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:31.910985671Z",
+  "model": "glm-5.3"
+}

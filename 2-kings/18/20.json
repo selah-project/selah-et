@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ainult huulte sõna — nõu ja jõud sõjaks",
+      "rationale": "JPS loeb tervet fraasi küsimusena ('kas huulte sõna on nõu ja jõud sõjaks?'), KJV\/ASV kui tsitaati tühjadest sõnadest; subjekt võib olla Hiskija või narratiivne iroonia"
+    },
+    {
+      "kind": "you",
+      "subject": "Hiskija",
+      "rationale": "otse pöördumine teises isikus — Assüüria silmakirjalik küsimus mässu kohta 'minu vastu' (kuningas räägib endast)"
+    }
+  ],
+  "translation": "Sina ütled: ainult huulte sõna — nõu ja jõud sõjaks! Nüüd: kelle peale sa oled kindel, et sa oled minu vastu mässanud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/18\/17-20.1792546461626.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "sina ütled"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huulte"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nõu"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ja jõud"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõjaks"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "oled kindel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "oled mässanud"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minu vastu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:34:21.630952014Z",
+  "model": "glm-5.3"
+}

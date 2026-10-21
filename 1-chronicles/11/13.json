@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 11:13",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peavlid",
+      "rationale": "פלשתים tavatõlge 'filistlased' asendatud selah'i eelistatud vormiga"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלקת השדה",
+      "rationale": "'väljatükk' vs 'siledat tükk maad' — juure tähendus 'siledus'"
+    }
+  ],
+  "translation": "Tema oli koos Davidiga Pas-Dammimis, ja peavlid kogunesid sinna sõtta; ja väljatükk oli täis otra, ja rahvas põgenes peavlite eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/13-16.1792557320300.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidiga"
+    },
+    {
+      "surface": "בפס",
+      "gloss": "Pas-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammimis"
+    },
+    {
+      "surface": "והפלשתים",
+      "gloss": "ja peavlid"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "kogunesid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõtta"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "väljatükk"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täis"
+    },
+    {
+      "surface": "שעורים",
+      "gloss": "otra"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ja rahvas"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "põgenes"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "eest"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "peavlite"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:20.300804100Z",
+  "model": "glm-5.3"
+}

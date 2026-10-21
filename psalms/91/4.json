@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "צנה וסחרה",
+      "rationale": "kaks kilbetüüpi — suur pikk kaitsekilp ja ümar käigukilp; eesti eristab neid napilt, 'kaitsekilp ja kilp'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõde",
+      "rationale": "אמת hõlmab kindlust, usaldatavust, tõesust; 'tõde' on üks külg"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea kõrvutus ilma sidesõnata: 'kilbiks ja kilbiks tema tõde'"
+    }
+  ],
+  "translation": "Omasules varjab ta sind ja tema tiibade all peitud; kaitsekilbiks ja kilbiks on tema tõde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/1-4.1792553668097.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Omasules"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "varjab ta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ja alla"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "tema tiibade"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "peitud"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kaitsekilbiks"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ja kilbiks"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "tema tõde"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:28.099679557Z",
+  "model": "glm-5.3"
+}

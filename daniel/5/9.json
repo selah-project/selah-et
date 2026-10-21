@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 5:9",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩ · ⟨olid⟩",
+      "rationale": "Aramaic participle clauses lack a copula; Estonian requires one"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pale",
+      "rationale": "זיו on 'sära, hele nägu' — 'pale' peab kinni näo-pildile, 'sära' läheks kaduma"
+    }
+  ],
+  "translation": "Siis ⟨oli⟩ kuningas Belšatsar väga ehmunud ja tema pale muutus tema peal ning tema ülikud ⟨olid⟩ nõutud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b87e5c6a98a30a590a3792bca612b18ecb946f85ec54e4005db93eab98aaecc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/5\/9-12.1792556500723.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "siis"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Belšatsar"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "väga"
+    },
+    {
+      "surface": "מתבהל",
+      "gloss": "ehmunud"
+    },
+    {
+      "surface": "וזיוהי",
+      "gloss": "ja tema pale"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "muutus"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "tema peal"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "ja tema ülikud"
+    },
+    {
+      "surface": "משתבשין",
+      "gloss": "nõutud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:21:40.724503403Z",
+  "model": "glm-5.3"
+}

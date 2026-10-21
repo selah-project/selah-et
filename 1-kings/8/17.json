@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea ויהי עם לבב on kõnekäänd 'südames oli', eesti keel vajab kopolat"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עם לבב",
+      "rationale": "Otse: 'koos Davidi südamega' = 'Davidi südames'"
+    }
+  ],
+  "translation": "Ja Davidi, mu isa, südames ⟨oli⟩ ehitada maja Jahve, Jisraeli Elohimi nimele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/8\/17-20.1792545309962.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨oli⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "südames"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südames"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ehitada"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nimele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T01:15:09.962944966Z",
+  "model": "glm-5.3"
+}

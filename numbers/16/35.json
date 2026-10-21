@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "söönd",
+      "rationale": "תאכל tähendab sõna-sõnalt 'sõi'; tavapärane 'hävitas' jätaks pildi ligi küll kadunud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאת יהוה",
+      "rationale": "מאת ('juurest', koosneb את-tähtedest) kõlab kui objektimarker את — tulnukas elava jumalikust lähtepunktist"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viiskümmend ja kakssada",
+      "rationale": "Arv täpselt: kakssada viiskümmend meest, kord piibliarvestuses loendatud"
+    }
+  ],
+  "translation": "Ja tuli läks välja Jahve juurest ⟨מאת⟩ ja söönd ⟨את⟩ viiskümmend ja kakssada meest, suitsutuse lähedaletoojaid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9c1e015c937bd116c8484e009b75474a33dc241f3f5e62d613fb144c6d094b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/16\/33-35.1792540059145.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "läks välja"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja söönd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viiskümmend ja kakssada meest"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "viiskümmend"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ja kakssada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meest"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "lähedaletoojad"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "suitsutuse"
+    }
+  ],
+  "timestamp": "2026-10-20T23:47:39.146673100Z",
+  "model": "glm-5.3"
+}

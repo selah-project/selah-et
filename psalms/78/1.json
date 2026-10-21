@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kõnetus",
+      "rationale": "Salmitiitel köidab kuulaja: 'pööra kõrva, mu rahvas' — otsene kutsung."
+    },
+    {
+      "kind": "you",
+      "subject": "rahvas",
+      "rationale": "Kõneleja pöördub oma rahva poole keplitega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Toora",
+      "rationale": "תורתי jääb vastavalt keelelisele distsipliinile vormi Toora, mitte 'seadus'."
+    }
+  ],
+  "translation": "Õpetussalm Asafilt. Pööra kõrva, mu rahvas, mu Toorale, kalduge oma kõrvu mu suu sõnadele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3e3ee46cb0243c73fa00113b107409634b754c7f3d77dde0081c59b41f124e16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/1-4.1792553448820.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "õpetussalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafilt"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pööra kõrva"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mu Toorale"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "kalduge"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "oma kõrvu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sõnadele"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mu suu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:48.821363616Z",
+  "model": "glm-5.3"
+}

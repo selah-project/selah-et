@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עגבים",
+      "rationale": "Sama sõna kui v. 31 — see, mis suust läheb (armastuse-sõnad), muutub siin lauluks; kordus seob kaks salmi kokku."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "v. 32 lõpus on אות׍em asesõna 'neid', mitte aleph-tav marker — vastandina v. 31 ואות׍ale, mis on marker koos asesõnaga."
+    }
+  ],
+  "translation": "Ja vaata, sina oled neile nagu armastuse-laul, kauni häälega ja hästi mängiv, ja nad kuulevad ⟨את⟩ su sõnu, aga ⟨את⟩ neid nad ei tee.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b5437fd13561a86ad8a3d2963ef5a781e6f23046766f267b2d2da3c47e93d491",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/33\/29-32.1792550563696.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "Ja vaata, sina"
+    },
+    {
+      "surface": "להם",
+      "gloss": "oled neile"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "nagu laul"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "armastuse"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kauni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "häälega"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "ja hästi"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "mängiv"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ja nad kuulevad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "su sõnu"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "su sõnu"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "aga nad tee"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:42:43.698060472Z",
+  "model": "glm-5.3"
+}

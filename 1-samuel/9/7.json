@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 9:7",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מכלינו",
+      "gloss": "'meie paunades' — kelim are vessels\/bags, not just 'packs'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Hebrew מה אתנו 'what with us' lacks a copula; Estonian supplies 'on'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נביא",
+      "rationale": "Root נבא here is 'bring' (from בוא), identical in shape to נביא 'prophet' — audible ambiguity in a chapter about a prophet"
+    }
+  ],
+  "translation": "Ja Šaul ütles oma teenrile: Aga vaata, kui me läheme, mida me viime mehele? Sest leiba ei ole enam meie paunades, ja kingitust ei ole, mida viia Elohimi mehele — mida ⟨on⟩ ⟨את⟩ meil?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e2ae22e0ece85592c9e5f4681464eff7d49a61e3fb7f94b55d053f06029d84a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/9\/5-8.1792543874682.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "oma teenrile"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "aga vaata"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "kui me läheme"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "me viime"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "ei ole enam"
+    },
+    {
+      "surface": "מכלינו",
+      "gloss": "meie paunades"
+    },
+    {
+      "surface": "ותשורה",
+      "gloss": "ja kingitust"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "mida viia"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meil"
+    }
+  ],
+  "timestamp": "2026-10-21T00:51:14.684921032Z",
+  "model": "glm-5.3"
+}

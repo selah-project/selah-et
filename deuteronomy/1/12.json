@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "rhetoriline küsimus",
+      "rationale": "küsimus tõmbab kuulaja kaasa ja õigustab v.13 ettepanekut"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טֹרַח\/מַשָּׂא\/רִיב",
+      "rationale": "kolmene korduv omadussõnaline rida (-כם lõpuga), eestis jääb rütm osaliselt kaduma"
+    }
+  ],
+  "translation": "Kuidas saan mina üksi kanda teie koormat ja teie raskust ja teie tüli?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/9-12.1792540548543.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "saan kanda"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "mina üksi"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "teie koormat"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ja teie raskust"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ja teie tüli"
+    }
+  ],
+  "timestamp": "2026-10-20T23:55:48.544498582Z",
+  "model": "glm-5.3"
+}

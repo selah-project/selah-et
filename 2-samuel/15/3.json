@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kedagi",
+      "rationale": "Heebrea ütleb vaid 'kuulata ei ole' — kuulaja on nimetamata, eesti keel vajab subjekti."
+    },
+    {
+      "kind": "elision",
+      "subject": "אין",
+      "rationale": "Eitus 'ei ole' on kogu lause tuum; lause on kärbes heebrea kõnemall."
+    }
+  ],
+  "translation": "Ja Avšalom ütles temale: Vaata, su asjad on head ja õiged, aga kuulata ei ole sul ⟨את⟩ kuninga juures kedagi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/15\/1-4.1792544775034.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "su asjad"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "head"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "ja õiged"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "aga kuulata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sul"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kuninga juures kedagi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    }
+  ],
+  "timestamp": "2026-10-21T01:06:15.037022195Z",
+  "model": "glm-5.3"
+}

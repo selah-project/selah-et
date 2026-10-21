@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Otse pöördumine 'teie' süüdistusena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "rationale": "עול tähendab moonutust, ülekohut — mitte lihtsalt 'kurja'."
+    }
+  ],
+  "translation": "Sest teie peopesad on verest saastunud ja teie sõrmed süüst, teie huuled on kõnelnud valet, teie keel nuriseb ülekohut.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/59\/1-4.1792547827284.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "teie peopesad"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "on saastunud"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "verest"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "ja teie sõrmed"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "süüst"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "teie huuled"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "on kõnelnud"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valet"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "teie keel"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ülekohut"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "nuriseb"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:07.286357683Z",
+  "model": "glm-5.3"
+}

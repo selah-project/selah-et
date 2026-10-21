@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elevandiluust",
+      "rationale": "השן tähendab sõna-sõnalt 'hammas', kuid tähendab siin elevantihamba luud – elevandiluu"
+    },
+    {
+      "kind": "crux",
+      "subject": "Bat-Rabbim",
+      "rationale": "בת רבים: 'kautsa tütar' kui linna (Heshboni) värava nimi; tõlgitud nime moodi, mitte 'paljude tütar'"
+    }
+  ],
+  "translation": "Su kael on nagu elevandiluust torn, su silmad nagu veekogud Heshbonis, Bat-Rabbimi värava juures; su nina nagu Liibanoni torn, vaatamas Damaskuse palgele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/7\/5-8.1792555817013.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוארך",
+      "gloss": "su kael"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "nagu torn"
+    },
+    {
+      "surface": "השן",
+      "gloss": "elevandiluust"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "su silmad"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "veekogud"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonis"
+    },
+    {
+      "surface": "על",
+      "gloss": "juures"
+    },
+    {
+      "surface": "שער",
+      "gloss": "värava"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Rabbimi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "su nina"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "nagu torn"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Liibanoni"
+    },
+    {
+      "surface": "צופה",
+      "gloss": "vaatamas"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palgele"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskuse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:17.013711823Z",
+  "model": "glm-5.3"
+}

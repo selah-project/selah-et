@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "häbi",
+      "rationale": "בוש tähendab 'kahvatuks minema' — häbi, mitte lihtsalt pettumus"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Otsehoitud palve Jahvele"
+    }
+  ],
+  "translation": "Sulle, Jahve, ma põgenesin kaitseks; ärgem ma häbiga jääguks iialgi; oma tsedeki abil päästa mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/1-4.1792552662291.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sulle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ma põgenesin kaitseks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärgem"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ma häbiga jääguks"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iialgi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "oma tsedeki abil"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "päästa mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:42.292589223Z",
+  "model": "glm-5.3"
+}

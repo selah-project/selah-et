@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kaudne kõneviis; eesti keel nõuab seda."
+    },
+    {
+      "kind": "alternative",
+      "subject": "päevade pikkuseni",
+      "rationale": "Sõnasõnaline 'päevade pikkuseni', tavapäraselt 'igavesti'."
+    }
+  ],
+  "translation": "Sinu tunnistused on väga kindlad; sinu hoonele sobib pühadus, Jahve, päevade pikkuseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f90c887e987920b7694f66fc76abc8b30a4694805b9033834b216e2b1e222d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/93\/5-5.1792553597007.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Sinu tunnistused"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "on väga kindlad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sinu hoonele"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sobib"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pühadus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "pikkuseni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevade"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:17.008384171Z",
+  "model": "glm-5.3"
+}

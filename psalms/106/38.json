@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "vererohkega",
+      "rationale": "בדמים mitmuse 'vered' = korduv, palju verd; 'verega' jätks selle kaotsi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבחו \/ ותחנף",
+      "rationale": "korduv 'ohverdama' ja 'rüvetama' ahel: ohverdus → rüvetus, eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Ja nad valasid välja süütute verd, oma poegade ja tütarde verd, keda nad ohverdasid Kenaani ebajumalatele; ja maa muudeti rituaalselt rüvetatuks vererohkega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/37-40.1792553852065.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "Ja nad valasid välja"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "süütute"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oma poegade"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "ja tütarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "nad ohverdasid"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "ebajumalatele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "ja muudeti rituaalselt rüvetatuks"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "vererohkega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:32.066501525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sõna jäi kindlaks",
+      "rationale": "חזק על 'tugev oli üle' — idiom 'sai võimule', etendas; eesti kaudne väljend."
+    },
+    {
+      "kind": "elision",
+      "subject": "המלך",
+      "rationale": "Sõnajärje tõttu pandud 'kuninga sõna' kokku esimese tokeni glossi alla; אין eraldi sõna."
+    }
+  ],
+  "translation": "Aga kuninga sõna jäi kindlaks Joabi suhtes, ja Joab läks välja ja käis läbi kogu Jisraeli ning tuli Jerušalaimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/21\/1-4.1792557499694.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "aga kuninga sõna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": ""
+    },
+    {
+      "surface": "חזק",
+      "gloss": "jäi kindlaks"
+    },
+    {
+      "surface": "על",
+      "gloss": "suhtes"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja läks välja"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "käis läbi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:38:19.695589164Z",
+  "model": "glm-5.3"
+}

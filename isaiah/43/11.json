@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "Heebrea kordab ainult pronoomeni אנכי אנכי ilma verbita; eesti vajab copulat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "Kahekordne 'mina, mina' — pidulik kordus, eesti keeles hoitud võrdelisena."
+    }
+  ],
+  "translation": "Mina, mina ⟨olen⟩ Jahve, ja peale minu ei ole päästjat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/43\/9-12.1792547480799.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "peale minu"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "päästjat"
+    }
+  ],
+  "timestamp": "2026-10-21T01:51:20.800777145Z",
+  "model": "glm-5.3"
+}

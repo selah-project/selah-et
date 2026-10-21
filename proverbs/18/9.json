@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea ו on 3. isiku koppela, eesti vajab koppela 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hukkutab",
+      "rationale": "משחית on tegusõna 'hävitaja\/hukkutaja' — 'suur raiskaja' (KJV) on tõlgi laiendus"
+    }
+  ],
+  "translation": "Ka see, kes on loid oma töös, on vend sellele, kes hukkutab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/18\/9-12.1792554752521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "loid"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "oma töös"
+    },
+    {
+      "surface": "אח",
+      "gloss": "vend"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "sellele, kes"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "hukkutab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:32.522390354Z",
+  "model": "glm-5.3"
+}

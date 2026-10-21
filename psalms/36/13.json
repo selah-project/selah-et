@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ahnus",
+      "rationale": "אָוֶן on olemuselt 'tühjus, eimiski', laiemalt ka pahategevus; eesti kiil ei anna seda ühe sõnaga edasi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלו ... קום",
+      "rationale": "langemise ja tõusmise vastandus raamistab salmi; kordus rõhutab lõplikku langust."
+    }
+  ],
+  "translation": "Sealt on langenud need, kes teevad ahnust, nad on maha lükatud ega saa tõusta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/36\/13-13.1792552707957.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "sealt"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "on langenud"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "need, kes teevad"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "ahnust"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "on maha lükatud"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "saavad"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "tõusta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:27.957522772Z",
+  "model": "glm-5.3"
+}

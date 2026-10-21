@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viha",
+      "rationale": "כעס on kitsamalt 'pahameel\/solvang', 'viha' on läbinisti üldisem"
+    }
+  ],
+  "translation": "Pööra meid tagasi, meie päästmise Elohim, ja tühista oma viha meie vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/85\/5-8.1792553573203.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "pööra meid tagasi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "meie päästmise"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ja tühista"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "oma viha"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meie vastu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:53.203992858Z",
+  "model": "glm-5.3"
+}

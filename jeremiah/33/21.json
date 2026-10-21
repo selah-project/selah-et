@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 33:21",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "siis võidakse",
+      "rationale": "Heebrea lause on vaid tingimuslause jätk — eesti keel vajab öeldise, mis on kaudses käes"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן מלך",
+      "rationale": "Osalejatu infinitiiv: 'tal olles poeg valitsema' — 'poeg, kes valitseks tema troonil' vs 'kes istub tema troonil'"
+    }
+  ],
+  "translation": "siis võidakse ka minu leping tühistada ⟨את⟩ Davidi, mu teenriga, nii et tal ei ole poega, kes valitseks tema troonil, ja ⟨את⟩ leviite, preestreid, mu teenrijaid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "43e02799ee645675ada8a734f6ffa7e50d29d8cfa9aceb6cbf44ef6c0a12be1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/33\/21-24.1792548884247.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "siis võidakse ka"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "minu leping"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "tühistada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mu teenriga"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "nii et ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poega"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kes valitseks"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tema troonil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "leviidid"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviite"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestreid"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "mu teenrijaid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:14:44.248649558Z",
+  "model": "glm-5.3"
+}

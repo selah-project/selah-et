@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "משל (võrdlema) ja דמה (hukkuma\/vaikima) kõlavad kokku — sõnamäng, mis eesti keeles osaliselt kaob"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nad on hukkunud",
+      "rationale": "נדמו võib tähendada ka 'nad on vaigistatud' — kaks juurt דמה kattuvad"
+    }
+  ],
+  "translation": "Ja inimene ei jää ausse: ta on võrreldud kariloomadega, nad on hukkunud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/13-16.1792553019828.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Ja inimene"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ausse"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "jää"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ta on võrreldud"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "kariloomadega"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "nad on hukkunud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:39.829780408Z",
+  "model": "glm-5.3"
+}

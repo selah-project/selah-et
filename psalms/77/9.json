@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Eesti omastavas nõuab possessiivi ⟨tema⟩, heebreas liidetakse sufiks otse sõnale אמר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sõna",
+      "rationale": "אמר tähendab nii lubadust kui ütlemist; valitud 'sõna' kuju järgi, mitte 'lubadus'"
+    }
+  ],
+  "translation": "Kas on lõppenud igaveseks tema hesed, on tühistunud ⟨tema⟩ sõna põlvest põlveni?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/9-12.1792553358724.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "kas on lõppenud"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "on tühistunud"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "põlveni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:18.725251385Z",
+  "model": "glm-5.3"
+}

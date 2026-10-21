@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõlgutab",
+      "rationale": "הגה on sisetamist, pomisedust — 'kaalutleb pomisedes'; 'mõlgutab' läheb kõige lähemale"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמל",
+      "rationale": "'ahastav vaev' vs 'kavalus\/pahandus' — sõna tähendab nii kehalist kui vaimset vaeva"
+    }
+  ],
+  "translation": "Sest nende süda mõlgutab vägivalda ja nende huuled räägivad ahastavat vaeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/24\/1-4.1792554912561.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שד",
+      "gloss": "vägivalda"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "mõlgutab"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "nende süda"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ahastavat vaeva"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "nende huuled"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "räägivad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:12.562740442Z",
+  "model": "glm-5.3"
+}

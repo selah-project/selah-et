@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Teine poolvärss on nimetavlause, eesti keel nõuab kopulat"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת",
+      "rationale": "Traditsioon loeb ette kui 'aga'; kui on aleph-tav (H853), märgib see otseselt tagasihoidlikke — mõlemad võimalikud"
+    }
+  ],
+  "translation": "Tuleb ülbus, siis tuleb häbi, aga ⟨את⟩ tagasihoidlikega ⟨on⟩ tarkus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/1-4.1792554653395.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ülbus"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "siis tuleb"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "häbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tagasihoidlikega"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "tagasihoidlikega"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:53.396147978Z",
+  "model": "glm-5.3"
+}

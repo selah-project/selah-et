@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab öeldistäidet, heebrea seda ei ütle"
+    },
+    {
+      "kind": "crux",
+      "subject": "tule jaoks",
+      "rationale": "בדי אש: 'tule jaoks' (töö läheb tuleks) vs 'selles tulises' — vanad tõlked lähevad lahku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בדי אש \/ בדי ריק",
+      "rationale": "korduv בדי 'palju jaoks' seob tule ja tühjuse — parallelism jääb nähtavaks"
+    }
+  ],
+  "translation": "Kas mitte — vaata — see ⟨on⟩ ⟨את⟩ Jahve Tsevaoti käest: rahvad vaevavad end tule jaoks ning hõimud kurnavad end tühja jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "218762e25dcd6fd7df4556953228a5a330ff61ec62eea356885682f179ecedd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/habakkuk\/2\/13-16.1792551826890.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "kas mitte"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Tsevaoti käest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "vaevavad end"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "jaoks"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ja hõimud"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "jaoks"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tühja"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "kurnavad end väsinuks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:03:46.891077693Z",
+  "model": "glm-5.3"
+}

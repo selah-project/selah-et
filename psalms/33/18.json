@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "hesed jäetakse heebrea kõlana, mitte 'armu' ega 'lahkust'"
+    }
+  ],
+  "translation": "Vaata, Jahve silm on nende peal, kes teda kardavad, nende peal, kes ootavad tema hesedit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/33\/17-20.1792552616933.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "on ... nende peal"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kes teda kardavad"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kes ootavad"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "tema hesedit"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:56.934127790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab\tkopulat, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית לאיש שלום",
+      "rationale": "KJV 'täiusliku mehe lõpp on rahu' vs JPS 'rahu mehele on tulevik' — kellele שלום kuulub"
+    }
+  ],
+  "translation": "Vaata täiuslikku ja näe õiget, sest tagajärg ⟨on⟩ rahu mehele ⟨rahule⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/37-40.1792552741096.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "תם",
+      "gloss": "täiuslikku"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja näe"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "õiget"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tagajärg"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:01.097328317Z",
+  "model": "glm-5.3"
+}

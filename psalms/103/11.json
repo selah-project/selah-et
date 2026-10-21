@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb selles tõlkes semantiliselt avatuks — halastus, ustav armastus, lahkus"
+    }
+  ],
+  "translation": "Sest nii kõrge kui on taevas maa kohal, nii tugev on Tema hesed nende kohal, kes Teda kardavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/9-12.1792553702739.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "nii kõrge kui"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevas"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nii tugev on"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Tema hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "nende, kes Teda kardavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:02.740213700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 15:27",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea kasutab nominal-lauset, verbi pole; eesti keel vajab kopulat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "veesilmad",
+      "rationale": "עינת on 'silmad' — allikaid nimetatakse maa silmadeks; 'veesilmad' hoiab kujundi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaksteist ja seitsekümmend",
+      "rationale": "Täpne arv looduslike allikate ja palmide kohta — paiga mõõt."
+    }
+  ],
+  "translation": "Ja nad jõudsid Eelimisse, ja seal ⟨olid⟩ kaksteist veesilma ja seitsekümmend palmipuud, ja nad laagerdusid seal vete ääres.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "326411565e8bbb32726a7c790cffaa4bb188bf66abbd8d063354edce4b94494c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/15\/26-27.1792543608804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja nad jõudsid"
+    },
+    {
+      "surface": "אילמה",
+      "gloss": "Eelimisse"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja seal"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(kümme)"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "veesilmad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ja seitsekümmend"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmipuud"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja nad laagerdusid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärtes"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vete"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:48.808730592Z",
+  "model": "glm-5.3"
+}

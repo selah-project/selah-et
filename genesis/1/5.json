@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "päev üks",
+      "rationale": "Heebrea ütleb 'päev üks', mitte 'esimene päev'; korduv vormel järgmistes salmides kasutab järgarve."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti korduv verb nõuab subjekti pronoomeni; heebreas puudub."
+    }
+  ],
+  "translation": "Ja Elohim nimetas valguse päevaks ja pimeduse ta nimetas ööks; ja oli õhtu ja oli hommik — päev üks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/1\/5-8.1792537360531.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja nimetas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "valguse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päevaks"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ja pimeduse"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nimetas ta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ööks"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "õhtu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hommik"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:40.531746010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nõidloitsijad",
+      "rationale": "חרטם on 'horoskoopiajoonistaja', mitte lihtsalt 'nõid'"
+    }
+  ],
+  "translation": "Ja nõidloitsijad tegid nõnda oma saladustega ja tõid ⟨את⟩ konnad üles Mitsraimi maale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1e9202d68b1d591ac3d1dc5fe442b34cbc91c94738930af88ff747b008fc086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/8\/1-4.1792538400161.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ja tegid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "nõidloitsijad"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "oma saladustega"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ja tõid üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konnad"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "konnad"
+    },
+    {
+      "surface": "על",
+      "gloss": "üles"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:00.162743775Z",
+  "model": "glm-5.3"
+}

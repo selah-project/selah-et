@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 23:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaidlusõnad",
+      "rationale": "תוכחות on sõnadega noomimine\/vaidlus — 'argumendid' (KJV) vs '\tnoomimised'"
+    },
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "פי 'mu suu' — eesti omastus eeldab asesõna, mida heebreas ei ütle"
+    }
+  ],
+  "translation": "Seaksin tema ees kohtuasja ja täidaksin suu vaidlusõnadega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "22611f0377ce044819b85aa507b1352c908304232dfc0ce76a089988cc97b6d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/23\/1-4.1792555469608.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אערכה",
+      "gloss": "seaksin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohtuasja"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ja suu"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "täidaksin"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "vaidlusõnadega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:29.609382100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta · nad",
+      "rationale": "Heebrea puudub subjekt ja otsene objekt; eesti keel nõuab neid"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Täidab soovi",
+      "rationale": "רצון יעשה sõna-sõnalt 'teeb tahtmise\/nõustumise' — 'täidab soovi' on kauge, kuid loomulik lugeja jaoks"
+    }
+  ],
+  "translation": "Täidab ta neid, kes teda kardavad, soovi, ja ⟨את⟩ nende hüüdu kuuleb ja päästab nad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6cdef087b515930c5f236283587481973cb8da45ddaac2969a760a08568ff989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/18-19.1792558629914.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "soovi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kes teda kardavad"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Täidab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nende hüüdu"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "nende hüüdu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuuleb"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ja päästab nad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:09.930625477Z",
+  "model": "glm-5.3"
+}

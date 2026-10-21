@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula lisatud eesti keele nõudel, heebrea nominaallauses seda ei ole."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי ... אשרי",
+      "rationale": "Korduv 'õnnis' raamib salmi; tervikvärsi kordus rõhutab lõpuahelat."
+    }
+  ],
+  "translation": "Õnnis ⟨on⟩ rahvas, kellel nõnda on; õnnis ⟨on⟩ rahvas, kelle Elohim ⟨on⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/144\/13-15.1792554376589.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kellel"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "kelle Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "on tema Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:16.590672810Z",
+  "model": "glm-5.3"
+}

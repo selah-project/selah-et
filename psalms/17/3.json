@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨midagi⟩",
+      "rationale": "Heebrea תמצא objekt puudub — eesti keeles lisatud 'midagi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמתי בל יעבר פי",
+      "rationale": "'Mu kavatsused ei lähe üle mu suu' (YLT, JPS) vs 'mu suu ei riku' (KJV, eesti traditsioon)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחנת...צרפתני",
+      "rationale": "Metallproovi kujund: proovimine ja sulatamine (rafinerimine) kaks korduvat metallitegusõna."
+    }
+  ],
+  "translation": "Mu südant sina proovisid, öösel sina külastasid, mind sina sulatasid — sina ei leia ⟨midagi⟩; mu kavatsused ei lähe üle mu suu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/17\/1-4.1792552465309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "proovisid"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu südant"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "külastasid"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "öösel"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "sulatasid mind"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "leia"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mu kavatsused"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lähe üle"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mu suu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:25.310402624Z",
+  "model": "glm-5.3"
+}

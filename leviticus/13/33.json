@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seven days",
+      "rationale": "Fixed seven-day quarantine period, counted a second time."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sulgema",
+      "gloss": "הסגיר literally 'shut up', i.e. quarantine; rendered as 'sulgeb' keeping the literal picture."
+    }
+  ],
+  "translation": "Ja ta raseerib ⟨את⟩ ennast, aga ⟨את⟩ kõõma ei raseeri ta; ja preester sulgeb ⟨את⟩ kõõma teiseks seitsmeks päevaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da17471640b31bb56fbdc1b98310d255aaf4ad65a3a06f40cc02f087ad012b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/13\/33-36.1792539308842.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ja ta raseerib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ennast"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kõõma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "raseeri"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ja sulgeb"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõõma"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kõõma"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsmeks"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevaks"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "teiseks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:35:08.843111172Z",
+  "model": "glm-5.3"
+}

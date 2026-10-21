@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 28:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נסמן",
+      "rationale": "'määratud\/märgitud' — väga harv sõna, tähendus kindlalt 'ette määratud koht'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קצח",
+      "rationale": "Nigella sativa: 'must köömen' vs 'kõõr' vs 'aedoöök' — eesti taimenimi pole kinnistunud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שורה",
+      "rationale": "Sõna tähendab sõna-sõnalt 'rivi, rida' — külv reastatult, mitte 'mõõduga' (nagu KJV 'by measure')."
+    },
+    {
+      "kind": "measurement",
+      "subject": "külvikord",
+      "rationale": "Salm loetleb iga vilja kindla koha ja piiriga — määratud istutuskorra."
+    }
+  ],
+  "translation": "Ei, kui ta on selle pinnase tasandanud, kas ta siis ei puista musta köömnet ja raputa köömnet, ja seanda nisu ridadesse, ja määratud odra, ja inkru ⟨oma⟩ piiridesse?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0dfdd48f8191fde9c3859097ce5a41d54b6def0087e7181467aefdae55ab4311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/28\/25-28.1792547196281.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "tasandanud"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "selle pinnase"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "puista"
+    },
+    {
+      "surface": "קצח",
+      "gloss": "musta köömnet"
+    },
+    {
+      "surface": "וכמן",
+      "gloss": "ja köömnet"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "raputa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja seab"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "nisu"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "ridadesse"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ja odra"
+    },
+    {
+      "surface": "נסמן",
+      "gloss": "määratud"
+    },
+    {
+      "surface": "וכסמת",
+      "gloss": "ja inkru"
+    },
+    {
+      "surface": "גבלתו",
+      "gloss": "tema piiridesse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:46:36.282477327Z",
+  "model": "glm-5.3"
+}

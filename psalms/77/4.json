@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kuju poolest ruahhiks, mitte 'vaim' ega 'tuul' üksi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותתעטף",
+      "rationale": "Otsene pilt 'varjub\/kattub enda alla' vs tõlgitud 'kahaneb, on üle jõu käinud'"
+    }
+  ],
+  "translation": "Ma mäletan Elohimit ja olemin kui mürinal; ma arutlen ja mu ruahh varjub enda alla. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/1-4.1792553392636.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ma mäletan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ja olemin kui mürinal"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ma arutlen"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ja varjub enda alla"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mu ruahh"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:52.637985954Z",
+  "model": "glm-5.3"
+}

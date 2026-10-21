@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ebajumalad",
+      "rationale": "גלולים tähendab sõna-sõnalt 'jalgnukid' (ümarad palgid), halvustav sõna ebajumalate kohta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פגרי\/גלוליהם",
+      "rationale": "surnukehad pandakse just nende ebajumalate ette, kes ei suutnud neid kaitsta — spekter värsis, eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Ja ma panen ⟨את⟩ Jisraeli poegade surnukehad nende ebajumalate ette, ja ma puderdan ⟨את⟩ teie luud ümber teie altareid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/6\/5-8.1792549590517.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ja ma panen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli poegade surnukehad"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "surnukehad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ette"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "nende ebajumalate"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ja ma puderdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teie luud"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "teie luud"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "teie altareid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:26:30.518801875Z",
+  "model": "glm-5.3"
+}

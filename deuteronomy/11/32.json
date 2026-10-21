@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "käsk könetab otse kuulajat — 'te peaksite hoidma'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניכם",
+      "rationale": "sõna-sõnalt 'teie palge ette' — eesti 'teie silme ette'"
+    }
+  ],
+  "translation": "Ja te peaksite hoidma, et teha ⟨את⟩ kõik määrused ja ⟨את⟩ õigused, mida mina teie silme ette sean tänapäeval.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "86b02dfff1fd3d1a183c08b2ad72529611f77d5fb11849aea48ed30e36bee160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/11\/30-32.1792543648637.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te peaksite hoidma"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et teha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik määrused"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "määrused"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "õigused"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "õigused"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sean"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teie silme ette"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tänapäeval"
+    }
+  ],
+  "timestamp": "2026-10-21T00:47:28.646906630Z",
+  "model": "glm-5.3"
+}

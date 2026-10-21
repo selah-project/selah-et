@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keeles vajalik öeldisverbi lisamine, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "jooming",
+      "rationale": "משתה nii 'joomine', 'jooming' kui 'pidu'; varasemad tõlked valivad 'pidu'"
+    }
+  ],
+  "translation": "Kõik vaese päevad ⟨on⟩ kurjad, aga hea südame jaoks ⟨on⟩ pidev jooming.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/13-16.1792554702368.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "kurjad"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "aga hea"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "jooming"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pidev"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:42.369404766Z",
+  "model": "glm-5.3"
+}

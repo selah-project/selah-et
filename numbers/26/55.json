@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מטות",
+      "rationale": "Sõna tähendab otseselt 'kepi\/õiga', kuid tähendab siin suguharu; tõlgitud 'suguharud' kujundi, mitte kuju järgi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בגורל",
+      "rationale": "גורל on sõna-sõnalt 'kivike' (liiskukivid); tõlkes 'liisku heites' kujundi, mitte 'kivike'."
+    }
+  ],
+  "translation": "Ainult liisku heites jagatakse ⟨את⟩ maa; nende isade suguharude nimede järgi pärandavad nemad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c29c42420bbee179a834c21e85299ab5f508dc0b93f14ce3b4b0bb623421972e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/26\/53-56.1792540312169.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "liisku heites"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "jagatakse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "nimede järgi"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "suguharude"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "pärandavad nemad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:51:52.170697445Z",
+  "model": "glm-5.3"
+}

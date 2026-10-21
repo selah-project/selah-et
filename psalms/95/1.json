@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Tulge",
+      "rationale": "Salv avab kutsega — levikud, mis kutsuvad kogudust üles Jumalat kiitma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "puhuke sarve",
+      "rationale": "רוע tähendab kõrvade lõhkumist häälega — valju hüüdmist või pasunaheli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "päästjast kaljule",
+      "rationale": "ישענו on 'meie pääste' — kalju on pääste kalju, eesti omastus liidab kokku"
+    }
+  ],
+  "translation": "Tulge, kisendagem rõõmust Jahvele, puhuge sarve meie päästjast kaljule!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/95\/1-4.1792553725808.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tulge"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "kisendagem rõõmust"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "puhuge sarve"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "kaljule"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "meie päästjast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:25.808991893Z",
+  "model": "glm-5.3"
+}

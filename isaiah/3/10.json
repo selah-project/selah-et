@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨läheb⟩",
+      "rationale": "Heebrea ütleb vaid 'hea', eesti vajab verbikäiku"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Öelge õigelisele",
+      "rationale": "Käskköne, tekst kõnetab lugejat ja pöördub õiglase poole"
+    }
+  ],
+  "translation": "Öelge õigelisele, et talle ⟨läheb⟩ hästi, sest oma tegude vilja nad söövad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f04059f1fdd7e48758f0f1a904ed5bfa8c29321e07d2e080d3d8420431c0c026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/3\/9-12.1792546651809.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Öelge"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õigelisele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hästi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vilja"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "oma tegude"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "nad söövad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:37:31.810438488Z",
+  "model": "glm-5.3"
+}

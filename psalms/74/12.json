@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puudub koopula; nimiväljend vajab eestis sidesõna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "muistsusest",
+      "rationale": "מקדם märgib ajalist kaugust — algusest peale"
+    }
+  ],
+  "translation": "Ja Elohim ⟨on⟩ mu kuningas muistsusest, tegev päästesid maa keskel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/74\/9-12.1792553314804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "ja Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mu kuningas"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "muistsusest"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "tegev"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "päästesid"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:34.806277446Z",
+  "model": "glm-5.3"
+}

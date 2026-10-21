@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "määrused",
+      "rationale": "חקות on määratud kombed\/korraldused, mille kohta eesti traditsioon kasutab 'seadusi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחי בהם",
+      "rationale": "'ja elab neis' — traditsioonis tõlgitud nii eluks selles maailmas kui ka igaveseks eluks (bSanhedrin 74a)"
+    }
+  ],
+  "translation": "Ja te peate hoidma ⟨את⟩ mu määrusi ja ⟨את⟩ mu kohtuid, mida inimene teeb ⟨את⟩ neid ja elab neis; mina olen Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/18\/5-8.1792539395933.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ja te peate hoidma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu määrusi"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mu määrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mu kohtuid"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mu kohtuid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ neid"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ja elab"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neis"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:35.934350337Z",
+  "model": "glm-5.3"
+}

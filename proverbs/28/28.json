@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 28:28",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨siis⟩",
+      "rationale": "eesti keele sidesõna, mida heebrea infiniitiv-konstruktsioon ei kanna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "inimene",
+      "rationale": "אדם võib tähendada ka mitmust 'inimesed' (KJV 'men hide themselves'); ainsuse üldistav on otsesem"
+    }
+  ],
+  "translation": "Kui õelad tõusevad, peidab inimene end; ja kui nad hukkuvad, ⟨siis⟩ õiged muutuvad arvukaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "91bae79eca09c14c1c755e3ce3aa658580e6ce4a3e595eecf88de4cc36c8c282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/28\/25-28.1792555007238.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Kui ... tõusevad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelad"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "peidab"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "ובאבדם",
+      "gloss": "ja kui nad hukkuvad"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "muutuvad arvukaks"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "õiged"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:47.239504593Z",
+  "model": "glm-5.3"
+}

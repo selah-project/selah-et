@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/hingamine\/elujõud', mitte immateriaalne 'hing'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעל מעל ביהוה",
+      "rationale": "'reebma Jahve vastu': tekst nimetab kaaslese petmist otseselt reetmiseks Jahve vastu"
+    }
+  ],
+  "translation": "Kui hing pattub ja paneb toime reetmise Jahve vastu ning valetab oma kaaslesele hoiuse asjus või käepandi andmisel või röövimises, või rõhub ⟨את⟩ oma kaaslast,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/5\/21-24.1792539188762.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "pattub"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja paneb toime reetmise"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "reetmise"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve vastu"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ning valetab"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "oma kaaslesele"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "hoiuse asjus"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "käepandi andmisel"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käe"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "röövimises"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "rõhub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kaaslast"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "oma kaaslast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:33:08.763301720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨keegi⟩",
+      "rationale": "Heebrea ei ütle, kes istub troonile — eesti keeles nõuab lause öeldist lisandi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sinu ihu",
+      "rationale": "בטנך on 'kõht, üsas' — 'sinu ihu' on mõõdukalt köögiväline lugejale."
+    },
+    {
+      "kind": "secret",
+      "subject": "vande sisu",
+      "rationale": "Jahve vannub midagi, mis täitub alles tulevikus — antud vandes, peidetud aja taha."
+    }
+  ],
+  "translation": "Vandes tõotas Jahve Davidile, ei pöördu sellest tagasi: „Ma panen sinu ihu viljast ⟨keegi⟩ sinu troonile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/9-12.1792554266559.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "vandes tõotas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõotuse tõesuses"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "viljast"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "sinu ihu"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "Ma panen"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "troonile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu jaoks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:26.559970364Z",
+  "model": "glm-5.3"
+}

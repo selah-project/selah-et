@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "imperatiiv 'siduge kokku' (צור) vs sama tähekombega 'kalju'; kontekst nõuab 'siduda\/kokku panna'"
+    },
+    {
+      "kind": "secret",
+      "subject": "pitserda Toora",
+      "rationale": "tekst räägib salgamisest ja pitserdamisest — suletud\/kinnitatud tunnistus"
+    }
+  ],
+  "translation": "Sule kokku tunnistus, pitserda Toora minu õpilaste seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/8\/13-16.1792546764307.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "sule kokku"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "tunnistus"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "pitserda"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toora"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "minu õpilaste seas"
+    }
+  ],
+  "timestamp": "2026-10-21T01:39:24.308544901Z",
+  "model": "glm-5.3"
+}

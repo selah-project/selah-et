@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "verse division",
+      "rationale": "KJV\/Geneva 64:5 ('thou meetest him') vastab heebrea 64:4-le-teisele poolele; heebrea peatükis algab see salm 'we are all become unclean' (JPS 64:5)."
+    },
+    {
+      "kind": "crux",
+      "subject": "עדים",
+      "rationale": "Tuletatud עד 'kuumatusvool': 'ebapuha (menstruatsiooni) riie' vs üldisem 'määrdunud riided'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tuul",
+      "rationale": "רוח on 'tuul\/hingus\/vaim' — üks sõna, siin pilt tuules kanduvast lehest."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלנו kordus",
+      "rationale": "Kolmekordne 'me kõik' — kordusrõhk kogu rahva hõlmamisele, eesti keeles säilitatud."
+    }
+  ],
+  "translation": "Ja me oleme saanud nagu ebapuhas, me kõik, ja kui ebapuha rõivast on kõik meie tsedeki-teod; ja me närbume nagu leht, me kõik, ja meie süü, nagu tuul, kannab meid ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/64\/5-8.1792547931349.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "ja me oleme saanud"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "nagu ebapuhas"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "me kõik"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "ja kui rõivas"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ebapuha (kuumatuse riie)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "meie tsedeki-teod"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ja me närbume"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "nagu leht"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "me kõik"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "ja meie süü"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "nagu tuul"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "kannab meid ära"
+    }
+  ],
+  "timestamp": "2026-10-21T01:58:51.351369702Z",
+  "model": "glm-5.3"
+}

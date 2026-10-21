@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "proovimine nagu kuld",
+      "rationale": "בחן on metallide katsmine; puhas kuld tuleb ahjust välja — kujund, mida eesti jälgib sõna-sõnalt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עמדי",
+      "rationale": "Sõna-sõnalt 'minu juures'; võib lugeda 'tees, mis minuga käib'."
+    }
+  ],
+  "translation": "Sest tema teab minu teed; kui ta on mind proovile pannud, ma tulen välja nagu kuld.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1894cbef8c907fbc36d2784b3699e49f7f89e9937576da47c77de7713b79aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/23\/9-12.1792555434024.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "teab"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "teed"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minuga (koos)"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "proovib mind (nagu metalli)"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "nagu kuld"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ma lähen välja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:54.025184034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרובה \/ תרחק",
+      "rationale": "Kaugus ja lähedus seisavad vastamisi ühes salmis: 'ära ole kaugel — sest ligi on ahastus'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Hädas olev palvetaja kärbib Jumalat mitte lahkuma — otsene pöördumine."
+    }
+  ],
+  "translation": "Ära ole kaugel minust, sest ahastus on lähedal, sest abi ei ole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/9-12.1792552497250.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ole kaugel"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minust"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahastus"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "on lähedal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "abi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:57.252036082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 40:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לב",
+      "rationale": "Heebrea idiom 'südamele rääkima' — eesti keeles 'südamesse rääkima', sõna-sõnaliselt säilitatud."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלאה צבאה",
+      "rationale": "Kuulus lahkhel: 'sõjateenistus on lõppenud' (KJV 'warfare', JPS 'time of service') vs 'tema karistus on täis rägistatud' (raske tekstikoht); valisin sõjateenistuse\/määratud aja täitumise."
+    },
+    {
+      "kind": "crux",
+      "subject": "נרצה עונה",
+      "rationale": "Pasiiv 'on meelepärane\/lepitatud' — 'tema süü on lepitatud' vs 'tema karistus on vastu võetud'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keeles vajalik omapära, heebrea lühiobjektilausel puudub."
+    }
+  ],
+  "translation": "Rääkige Jerušalaimi südamesse ja hüüdke tema poole, et tema sõjateenistus ⟨on⟩ täis, et tema süü ⟨on⟩ lepitatud, et ta on saanud Jahve käest topelt kõigi oma pattude eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/40\/1-4.1792547403069.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Rääkige"
+    },
+    {
+      "surface": "על",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südamesse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ja hüüdge"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tema poole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "täis"
+    },
+    {
+      "surface": "צבאה",
+      "gloss": "tema sõjateenistus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "נרצה",
+      "gloss": "lepitatud"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tema süü"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "on saanud"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כפלים",
+      "gloss": "topelt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "חטאתיה",
+      "gloss": "oma pattude eest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:03.069946480Z",
+  "model": "glm-5.3"
+}

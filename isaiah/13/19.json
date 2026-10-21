@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ihatus",
+      "rationale": "צבי tähendab ka 'hiir' ja 'iluloom'; 'ihatus' on üks võimalus, teine on 'ilu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "saab",
+      "rationale": "eesti keel vajab halb-verbi, heebreas on והיתה 'ja see saab olema'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממלכות",
+      "rationale": "צבי ממלכות kas 'kuningriikide ihatus\/ilu' või 'kuningriikide ilu"
+    }
+  ],
+  "translation": "Ja Babülon, kuningriikide ihatus, kašdlaste uhkuse ilu, saab nagu Elohimi häving ⟨את⟩ Sedomile ja ⟨את⟩ Amorale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "13843e2bdb24ebe6c32bad5e8268c22f3552e5859a86560fd04e5d667815a7f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/13\/18-19.1792558381881.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ja saab"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babülon"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ihatus"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kuningriikide"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "uhkuse"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kašdlaste"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "nagu häving"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedom"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:01.882256343Z",
+  "model": "glm-5.3"
+}

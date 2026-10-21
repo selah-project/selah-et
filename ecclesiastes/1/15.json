@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעות ... לתקן",
+      "rationale": "Kõver\/sirge vastandus — paarielistatud parallelism, eesti keeles säilinud"
+    },
+    {
+      "kind": "crux",
+      "subject": "ei saa ära lugeda",
+      "rationale": "להמנות võib tähendada 'ära arvata, kokku lugeda' või mõne järgi 'juurde lisa saada'"
+    }
+  ],
+  "translation": "Mis on kõver, ei saa sirgeks teha, ja mis puudub, ei saa ära lugeda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/13-16.1792556012072.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Mis on kõver"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "saab"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "sirgeks teha"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ja mis puudub"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "saab"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ära lugeda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:32.073635644Z",
+  "model": "glm-5.3"
+}

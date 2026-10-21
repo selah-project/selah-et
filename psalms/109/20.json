@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "käest",
+      "rationale": "מאת on 'juurest\/käest' koos את-iga; eesti keeles lisatud 'käest', et suhe oleks loetav."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud\/täielik mina, mitte hinge kehast eraldatud mõttes."
+    },
+    {
+      "kind": "crux",
+      "subject": "שטני",
+      "rationale": "Juure שטן 'süüdistaja\/vastane' — 'mu süüdistajad' või 'mu vastased'; JPS loeb 'see saavutaks mu vastastelt'."
+    }
+  ],
+  "translation": "See olgu mu süüdistajate palgaks Jahve ⟨את⟩ käest, ja nende, kes kõnelevad kurja minu hinge üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/17-20.1792553899472.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "See"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "palk"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "mu süüdistajate"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ käest",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ja nende, kes kõnelevad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minu hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:19.474190770Z",
+  "model": "glm-5.3"
+}

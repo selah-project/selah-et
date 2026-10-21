@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 24:9",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתנו קול",
+      "rationale": "sõnasõnalt 'ja andsid hääle' — tähendab kuulutuse tegemist; eesti keeles 'andsid kuulutuse hääle'"
+    },
+    {
+      "kind": "crux",
+      "subject": "משאת",
+      "rationale": "'kohustus\/maks\/koormus' — KJV 'collection', JPS 'tax'; valitud 'maksu'"
+    }
+  ],
+  "translation": "Ja nad andsid kuulutuse hääle Juudas ja Jerušalaimis, et tuua Jahvele maksu, mille Moše, Elohimi teenija, pani Jisraelile kõrbes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "46e27553406c618ec60cd02c8b56a2459ebba7deb1279735e3ad6a8ac172c5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/24\/9-12.1792558053401.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ja nad andsid"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kuulutuse hääle"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Juudas"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ja Jerušalaimis"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "et tuua"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "maksu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "mille Moše"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "teenija"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    }
+  ],
+  "timestamp": "2026-10-21T04:47:33.403507946Z",
+  "model": "glm-5.3"
+}

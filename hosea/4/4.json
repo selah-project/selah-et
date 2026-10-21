@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea keeles puudub koopula, eesti keel vajab seda."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך איש אל יריב",
+      "rationale": "Kellele keeld käib: 'ärgu keegi vaidelgu (Jahvega)' vs 'ärgu üks teist süüdista' — tõlkijad lahku läinud."
+    },
+    {
+      "kind": "you",
+      "subject": "su rahvas",
+      "rationale": "Otsene pöördumine kõnelejale (Hoosea kaudu ilmselt preestrile või rahvale)."
+    }
+  ],
+  "translation": "Aga ükski mees ärgu vaidelgu ja ärgu noomigu teist, sest su rahvas ⟨on⟩ nagu preestriga vaidlejad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/4\/1-4.1792550956393.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Aga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ükski mees"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "vaidelgu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ärgu"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "noomigu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "teist"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "su rahvas"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "nagu vaidlejad"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preestriga"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:16.395800081Z",
+  "model": "glm-5.3"
+}

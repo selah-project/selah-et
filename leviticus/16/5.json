@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ša'ir",
+      "rationale": "שעירי עזים on sõna-sõnalt 'kitsede karvased [isased]', tõlgitud 'kitsetalle'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaks + üks",
+      "rationale": "Salm loendab ohvriloomad täpselt: kaks kitsetalle, üks iniu"
+    }
+  ],
+  "translation": "Ja Jisraeli laste kogudusest võtab ta ⟨את⟩ kaks kitsetalle pattuohvriks ja üheinu põletusohvriks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/16\/5-8.1792539412264.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "ja ⟨את⟩ ... käest",
+      "marks": "kogudusest"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kogudus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lapsed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "võtab"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "kitsetalle"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kitsede"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "pattuohvriks"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ja üheinu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "põletusohvriks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:52.265265765Z",
+  "model": "glm-5.3"
+}

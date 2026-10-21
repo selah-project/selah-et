@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 9:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab olema-verbi, heebrea puuduvat kopeeritakse"
+    },
+    {
+      "kind": "crux",
+      "subject": "neline trooninimi",
+      "rationale": "פלא יועץ אל גבור אבי עד שר שלום: üks nimi või neli\/viis tiitlit; tõlkes jagatud, heebreas üks pikk hüüd"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבי עד",
+      "rationale": "Konsoonipaar אב\/עד loob sisemise riimi 'Igavene Isa', eesti keeles kaotsi läinud"
+    }
+  ],
+  "translation": "Sest laps on meile sündinud, poeg on meile antud, ja võim on tema õlal, ja tema nimeks hüütakse: Imeline nõuandja, Vägev El, Igavene Isa, Rahuvürst.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2bbdfc49d2fcd5360d3546ccb096bdc7b6771e1c99f012b8e26825b675f1b0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/9\/5-8.1792546738545.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "laps"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "on sündinud"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on antud"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja on"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "võim"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "tema õlal"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hüütakse"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimeks"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "Imeline"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "nõuandja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Vägev"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Isa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Igavene"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vürst"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Rahu-"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:58.545678169Z",
+  "model": "glm-5.3"
+}

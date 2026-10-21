@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨psalm⟩",
+      "rationale": "לדוד tähendab sõna-sõnalt 'Taavetile\/omases suhtes Taavetile'; eesti omastav lisab selguse"
+    },
+    {
+      "kind": "crux",
+      "subject": "שפטני",
+      "rationale": "'mõista mind kohut' vs 'õigusta mind' — šafat tähendab nii hukka mõista kui õigeks mõista; palve kontekst nõuab õigustamist"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Kõne on pöördumine Jahve poole"
+    }
+  ],
+  "translation": "Taaveti ⟨psalm⟩. Mõista mind kohut, Jahve, sest mina olen käinud oma süütuses, ja Jahvesse olen ma usalduse pannud, ei lagune ma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/26\/1-4.1792552563236.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Taaveti"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "mõista mind kohut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "oma süütuses"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "olen käinud"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ja Jahvesse"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "olen usalduse pannud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "lagune ma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:03.237131155Z",
+  "model": "glm-5.3"
+}

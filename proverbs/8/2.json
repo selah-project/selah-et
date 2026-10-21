@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "radade maja",
+      "rationale": "בית נתיבות sõnasõnalt 'radade maja' — teeristade koht; 'maja' on omasõna, mitte lisatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puuduv abbina on eesti jaoks lisatud ja märgitud sulgudega"
+    }
+  ],
+  "translation": "Kõrguste otsas, tee kohal, radade majas ⟨on⟩ ta püsti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/8\/1-4.1792554572019.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "otsas"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "kõrguste"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "radade"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "⟨on⟩ ta püsti"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:32.020582291Z",
+  "model": "glm-5.3"
+}

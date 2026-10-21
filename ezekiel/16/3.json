@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 16:3",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on \/ oli",
+      "rationale": "Heebrea puuduv kopula, lisatud eesti jaoks"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכרתיך",
+      "rationale": "'juured\/päritolu' (nagu kaevanduse lähe) — 'elukoht' (Geneva) vs 'sünnipäritolu' (KJV 'birth')"
+    }
+  ],
+  "translation": "Ja ütle: Nõnda ütleb Adonai Jahve Jerušalaimile: sinu juured ja sinu sünnimaa ⟨on⟩ Kaanani maalt, su isa ⟨oli⟩ emorlane ja su ema ⟨oli〉 hetititar.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/16\/1-4.1792549843914.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ja ütle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalaimile"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "sinu juured"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "ja sinu sünnimaa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kaanani"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "su isa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorlane"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ja su ema"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "hetititar"
+    }
+  ],
+  "timestamp": "2026-10-21T02:30:43.915122402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kõla järgi 'ruahh' — tuul\/hingus\/vaim ühes sõnas, mitte 'vaim' üksi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישב \/ תשוב",
+      "rationale": "juur שׁוב kordub: tolm ja ruahh mõlemad 'pöörduvad' — kaja jääb ka eesti 'pöördub' korduses"
+    }
+  ],
+  "translation": "Ja tolm pöördub tagasi maa peale, nagu ta oli, ja ruahh pöördub tagasi Elohimi juurde, kes ta andis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/12\/5-8.1792556166468.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "pöördub"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "tolm"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "nagu ta oli"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "pöördub"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "andas ta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:06.469082894Z",
+  "model": "glm-5.3"
+}

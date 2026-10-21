@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid \/ et ei suutnud",
+      "rationale": "פגרו מעבר tähendab sõna-sõnalt 'lõid jalgu üleäärmiseks'; eestis nõuab kaudkõne 'olid kurnatud, et ei suutnud'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פגרו",
+      "rationale": "Verbi פגר kääne ilmub Tanahhis ainult siin ja 1Sm 30:21 ja Sa 38:14 — haruldane kurnatusesõna."
+    },
+    {
+      "kind": "measurement",
+      "subject": "neli sadu \/ kakssada",
+      "rationale": "Väe jaotus arvudes: 400 läheb, 200 jääb."
+    }
+  ],
+  "translation": "Ja David jälitas, tema ja neli sadu meest, ja kakssada meest jäid seisma, kes ⟨olid⟩ nii kurnatud, et ei suutnud ületada ⟨את⟩ Besori oja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/30\/9-12.1792544405737.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "ja jälitas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meest"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja jäid seisma"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kakssada"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "olid kurnatud"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ületama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Besori oja"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "oja"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besori"
+    }
+  ],
+  "timestamp": "2026-10-21T01:00:05.738219606Z",
+  "model": "glm-5.3"
+}

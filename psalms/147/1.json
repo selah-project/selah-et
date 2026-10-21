@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kiitke Jah",
+      "rationale": "Imperatiivne üleskutse kogudusele"
+    }
+  ],
+  "translation": "Kiitke Jah, sest hea on meie Elohimile kiituslaule laulda, sest see on armas ja kohanenud on kiitus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/1-4.1792554400739.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kiituslaule laulda"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohimile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "armas"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kohane ⟨on⟩"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kiitus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:40.739720559Z",
+  "model": "glm-5.3"
+}

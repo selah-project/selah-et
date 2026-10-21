@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebreas puudub kõpula, eesti kaudkõne nõuab seda"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מידע",
+      "rationale": "Sõna mōda‘ sugulane\/kedagi tundev esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "גבור חיל",
+      "rationale": "'Väärika jõuga' — jõukus, vägi või vaprus; tõlkijad lahkvad"
+    }
+  ],
+  "translation": "Ja Noomil ⟨oli⟩ sugulane oma mehe poolest, väärika mehe sugulane, Elimeleki perekonnast, ja tema nimi oli Boas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "72e87790d82cd91d85dc5538f8fcf9cc2717824e3a8d1942c62c863387a38444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/2\/1-4.1792555869238.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "Ja Noomil"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "sugulane"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "oma mehe poolest"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "väärika"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "väärikusega"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "perekonnast"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimeleki"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja tema nimi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:09.238621575Z",
+  "model": "glm-5.3"
+}

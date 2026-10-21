@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keeles nõutav kõnesõna, heebreas puudub"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נעכרת",
+      "rationale": "Sõna otsene tähendus on 'vesi sogaseks ajada'; kujundlikult 'häirima, häda tooma'"
+    }
+  ],
+  "translation": "Õiglase majas ⟨on⟩ rikkalik varandus, aga õelate sissetulek segaseks keeratud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/5-8.1792554682343.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õiglase"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "varandus"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rikkalik"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "aga sissetulek"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "segaseks keeratud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:22.343816800Z",
+  "model": "glm-5.3"
+}

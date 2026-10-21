@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "eilsest ja üleeilsest",
+      "rationale": "כתמול שלשום sõna-sõnalt 'nagu eile, üleeile' — tähendab 'nagu vanasti, nagu ennegi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "päästja",
+      "rationale": "מושׁיע — tähendab 'päästja, vabastaja'; traditsioon on hiljem lugenud siia messiat, kuid tekst ei nimeta teda"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Arami käe alt",
+      "rationale": "מתחת יד 'käe alt' = võimu alt, orjusest"
+    }
+  ],
+  "translation": "Ja Jahve andis Jisraelile päästja, ja nad läksid välja Arami käe alt, ja Jisraeli pojad elasid oma telkides nagu eilsest ja üleeilsest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/13\/5-8.1792546154523.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja andis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "päästja"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ja nad läksid välja"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "alt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja elasid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "oma telkides"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "nagu eilsest"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ja üleeilsest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:29:14.524918040Z",
+  "model": "glm-5.3"
+}

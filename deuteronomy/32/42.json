@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "joovutan verest",
+      "rationale": "שכר 'joobuma' — nooled joovad vaenlase verd, kujund täielikust küllast"
+    },
+    {
+      "kind": "crux",
+      "subject": "פרעות",
+      "rationale": "'pikajuukselised pead \/ vabad juhatajad' — KJV 'revenges' algus, JPS 'long-haired', ASV 'leaders'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "läbitorgatud",
+      "rationale": "חלל 'läbi augustatud, tapetud' — 'tapetud' jätab kujundi kohal"
+    }
+  ],
+  "translation": "Ma joovutan mu nooled verest ja mu mõõk sööb liha — verest läbitorgatutest ja vangistatutest, vaenlase pikajuukseliste peadest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "033fb729d54c35cf01d7b9d8949a650126f85b3350fca9a5ffed1fbf780d10ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/32\/41-44.1792541235378.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "Ma joovutan"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mu nooled"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verest"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ja mu mõõk"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "verest"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "läbitorgatutest"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "ja vangistatutest"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "peadest"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "pikajuukselistest"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlase"
+    }
+  ],
+  "timestamp": "2026-10-21T00:07:15.378862818Z",
+  "model": "glm-5.3"
+}

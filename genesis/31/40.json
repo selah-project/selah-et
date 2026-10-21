@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 31:40",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuumus",
+      "rationale": "חרב on põuavad kuumus\/kuivus, 'põud' üksi jätks öö- vastandi ebakõlavaks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכלני",
+      "rationale": "'Söödas mind' säilitab söömis-verbi kuju, nagu eelmises salmis 'ei söönud' — karjase kõne siduv kordus."
+    }
+  ],
+  "translation": "Nii oli minul: päeval söödas mind kuumus ja öösel külm, ja mu uni põgenes mu silmist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89cbf779b6fa314303680a5dcbcc667100bd052c7cb490bf29eb43c456eea18f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/37-40.1792537838156.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "oli minul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "אכלני",
+      "gloss": "söödas mind"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "kuumus"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ja külm"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "öösel"
+    },
+    {
+      "surface": "ותדד",
+      "gloss": "ja põgenes"
+    },
+    {
+      "surface": "שנתי",
+      "gloss": "mu uni"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mu silmist"
+    }
+  ],
+  "timestamp": "2026-10-20T23:10:38.157119481Z",
+  "model": "glm-5.3"
+}

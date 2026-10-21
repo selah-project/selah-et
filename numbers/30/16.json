@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kannab",
+      "rationale": "נשא עון — 'kandma süüd': heebrea õiguslik vastutus, mitte lihtnev 'kannatama'."
+    }
+  ],
+  "translation": "Ja kui ta pärast kuulmist neid ⟨את⟩ täiesti tühistab, siis kannab ta ⟨את⟩ tema süü.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/30\/13-16.1792540448594.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "tühistama"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "täiesti tühistab"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulmist"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "siis kannab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema süü"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "tema süü"
+    }
+  ],
+  "timestamp": "2026-10-20T23:54:08.595946288Z",
+  "model": "glm-5.3"
+}

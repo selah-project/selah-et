@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנדדו",
+      "rationale": "'waver\/rove': KJV\/Geneva 'flee away' vs JPS\/ASV\/BSB 'shake the head' — no 'head' in Hebrew."
+    },
+    {
+      "kind": "idiom",
+      "subject": "nogivad ⟨pead⟩",
+      "rationale": "Estonian head-shaking idiom supplied; Hebrew only says 'will waver'."
+    },
+    {
+      "kind": "addition",
+      "subject": "pead",
+      "rationale": "Sõna 'pead' pole heebrea tekstis, lisatud eesti idioomi jaoks."
+    }
+  ],
+  "translation": "Ja nad lasevad ta komistada — nende endi keel on nende vastu; kõik, kes neid näevad, nogivad ⟨pead⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/64\/9-11.1792553050214.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "ja nad lasevad ta komistada"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "nende vastu"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "nende keel"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "nogivad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kes näevad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "neid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:10.214723809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Devora",
+      "rationale": "Nimi kirjutatud heebrea kõla järgi (Devora), mitte harjumuspärase Debora kaudu."
+    },
+    {
+      "kind": "addition",
+      "subject": "öeldes",
+      "rationale": "Eesti kõneside nõuab siduvat sõna, heebrea לאמר on infiniitiv 'ütlema'."
+    }
+  ],
+  "translation": "Ja laulis Devora ja Baarak, Avinoami poeg, sel päeval, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3018506c9f8040a749e9dd8915207c788457d81a0ddd3ca9193c2197fc41c612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/5\/1-4.1792541879170.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "Ja laulis"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ja Baarak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Avinoami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-21T00:17:59.171639988Z",
+  "model": "glm-5.3"
+}

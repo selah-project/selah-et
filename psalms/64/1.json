@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõtlus",
+      "rationale": "מזמור on pillimängule seatud luuletus; eesti traditsioonis 'psalm', siin 'mõtlus' pilli tähenduse asemel"
+    },
+    {
+      "kind": "addition",
+      "subject": "koorijuhatajale",
+      "rationale": "למנצח tähendab 'sellele, kes on silmapaistev\/ülevaataja' — koorijuhataja on tõlgendav lisand"
+    }
+  ],
+  "translation": "Koorijuhatajale. Davidi mõtlus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/64\/1-4.1792553104762.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koorijuhatajale"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mõtlus"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:04.763117015Z",
+  "model": "glm-5.3"
+}

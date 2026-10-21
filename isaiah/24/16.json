@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 24:16",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kõhnus",
+      "rationale": "רזי: 'kõhnus\/kõhnuma' (KJV) vs 'mu saladus' (mõned targad, loetuna רז 'peidetud')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגד",
+      "rationale": "juur בגד kordub neljakordselt: reetjad-reetnud-reetlikkus-reetnud; kordus rõhutab täielikku reetmist"
+    },
+    {
+      "kind": "secret",
+      "subject": "רזי",
+      "rationale": "kui lugeda רז 'peidetud', kõlab siin nii peidetud kui kõhnuma motiiv"
+    }
+  ],
+  "translation": "Maa tiiva alt oleme kuulnud laule: au ⟨on⟩ õigele! Ja ma ütlesin: kõhnus minule, kõhnus minule, häda minule! Reetjad on reetnud, ja reetlikkusega on reetjad reetnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf400095f14c75b00c66a18167791ba0c9ed07a6c063a192fb001a2e3b3d17fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/24\/13-16.1792547004801.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכנף",
+      "gloss": "tiiva alt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "זמרת",
+      "gloss": "laule"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "oleme kuulnud"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "au"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "õigele"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "רזי",
+      "gloss": "kõhnus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    },
+    {
+      "surface": "רזי",
+      "gloss": "kõhnus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "häda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "reetjad"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "on reetnud"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "ja reetlikkusega"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "reetjad"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "on reetnud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:24.803155845Z",
+  "model": "glm-5.3"
+}

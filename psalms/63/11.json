@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגירהו",
+      "rationale": "נגר 'valama': 'nad valatakse mõõgale' (sõna-sõnalt 'lõigatakse ära') vs KJV 'langevad mõõga läbi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šaakalid",
+      "rationale": "שועל on šaakal, mitte rebane; hukkunute laipade kiskjad"
+    }
+  ],
+  "translation": "Nad valatakse mõõga kätte, šaakalite osaks nad saavad olema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/63\/9-12.1792553060614.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "valatakse"
+    },
+    {
+      "surface": "על",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "osaks"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "šaakalite"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saavad olema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:20.614899297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olgu see",
+      "rationale": "Heebreas puudub kopeeriv verbi; כי אם annab eraldava 'vaid', mille eesti katab ühe sõnaga"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Kaks eraldi osakest (sest \/ kui) töötavad koos piirava sidesõnana, tõlgitud ühe sõnaga 'vaid'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõne poegale",
+      "rationale": "Isalik manitsus kuulajale, keeld ühes käsuga"
+    }
+  ],
+  "translation": "Ärgu kadestagu su süda pattuja, vaid ⟨olgu see⟩ Jahve kartuses kogu päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/23\/17-20.1792554923225.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ärgu"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "kadestagu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "su süda"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "pattuja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "kartuses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:23.225661586Z",
+  "model": "glm-5.3"
+}

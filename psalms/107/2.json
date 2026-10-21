@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaenlane",
+      "rationale": "צר tähendab kitsast, ahtast kohta; laiendatud tähenduses rõhuja\/vaenlane"
+    },
+    {
+      "kind": "crux",
+      "subject": "say so",
+      "rationale": "KJV 'say so' viitab järgmisele salmile — 'ütelgu ⟨nii⟩' eeldab salmi 1 sisu"
+    }
+  ],
+  "translation": "Ütku Jahve lunastatud ⟨nii⟩ ütelgu, keda ta lunastas vaenlase käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/1-4.1792553889024.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ütelgu"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "lunastatud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ta lunastas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vaenlase"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:09.025273450Z",
+  "model": "glm-5.3"
+}

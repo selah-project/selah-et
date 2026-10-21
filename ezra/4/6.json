@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "(ajal)",
+      "rationale": "Eesti keeles ajamäärus vajab tugisõna, heebrea kasutab paljast konstrukti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "süüdistus",
+      "rationale": "שטנה tähendab 'vaenulikku kirja \/ laimukirja', süüdistus on lähim, kuid kitsam"
+    }
+  ],
+  "translation": "Ja Ahašveroši kuningavõimu (ajal), tema kuningavõimu alguses, kirjutasid nad süüdistuse Juuda ja Jerušalaimi elanike vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/4\/5-8.1792556695130.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Ja ... kuningavõimu"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahašveroši"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "alguses"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "tema kuningavõimu"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "kirjutasid"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "süüdistuse"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "elanike"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ja Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:55.131215201Z",
+  "model": "glm-5.3"
+}

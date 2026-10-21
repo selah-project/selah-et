@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võõrad",
+      "rationale": "זרים otseselt 'võõrad'; 'tuulutusrehvid' on juba tuletatud kujund põhjaveebi זרה 'pühkima' kaudu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים\/וזרוה",
+      "rationale": "kaasaeglane 'võõrad — nad võõrandavad ta' paronomasiana; eestis on kaja osaliselt kuulda"
+    }
+  ],
+  "translation": "ja saadan Babüloni peale võõraid, kes ta lahtipuhuvad ja valavad tühjaks ⟨את⟩ tema maa, sest nad on tema ümber kurja päeva päeval.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "190fe20ef5a1813b6f762469c12fcfb507bb229a24bd17795740d308c3b3ab64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/51\/1-4.1792549431818.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja saadan"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babüloni peale"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "võõrad"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "kes ta lahtipuhuvad"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "ja valavad tühjaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema maa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tema maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nad on"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tema ümber"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ringu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurja"
+    }
+  ],
+  "timestamp": "2026-10-21T02:23:51.820140691Z",
+  "model": "glm-5.3"
+}

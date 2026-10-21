@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb ruahhiks, mitte 'vaim' — tuul\/hingus\/siseloom ühes sõnas"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובעצבת",
+      "rationale": "עצבת tähendab nii 'kurbus' kui 'valu'; enamik tõlkeid valib 'kurbus'"
+    }
+  ],
+  "translation": "Rõõmus süda teeb näo ilusaks, aga südame kurbusega ⟨on⟩ ruahh löödud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/13-16.1792554702368.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "rõõmus"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "teeb ilusaks"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "näo"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "aga kurbusega"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "löödud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:42.369049524Z",
+  "model": "glm-5.3"
+}

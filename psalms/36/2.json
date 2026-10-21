@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקרב לבי",
+      "rationale": "'mu südame keskel' — kelle süda? Davidi (nii KJV) või juba ülestuse kõne kese (on omistatud 'ta ütleb endale')"
+    },
+    {
+      "kind": "crux",
+      "subject": "נאם פשע לרשע",
+      "rationale": "pilt: ülestus 'kõneleb' koletule; mõned loevad 'kõne ülestuse kohta koletu sees'"
+    }
+  ],
+  "translation": "Ütleb ülestus ketile: südames ⟨on⟩ mulle — ei ole Elohimi kartust tema silme ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/36\/1-4.1792552775995.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ütleb (kõnek)"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ülestus"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ketile"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "südames"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kartust"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "tema silme"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:35.996458327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גלל",
+      "rationale": "'rullitud (kivid)' — võrreldav Jer 5:27 'rullitud kivid', hoonekivide suurus"
+    },
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "aramëa relatiivi 'sellised, mis' jäeti välja, sest eesti kääne kannab selle"
+    }
+  ],
+  "translation": "kihid rullitud kividest kolm, ja kihid uutest palkidest; ja kulud antagu välja kuninga majast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/6\/1-4.1792556782878.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "kihid"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kividest"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "rullitud"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "ja kiht"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אע",
+      "gloss": "palkidest"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "uutest"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "ja kulud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "välja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majast"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "antagu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:22.880111171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedekaga",
+      "rationale": "צדקה jääb läbivalt tsedekaks, mitte 'õigusega' üksi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכון\/כסא",
+      "rationale": "Juure kūn kordub salmis 16:9 (יכין 'kinnitab sammu') ja siin trooni püstitamisel"
+    }
+  ],
+  "translation": "Kuningate jälestus on kurja tegemine, sest tsedekaga püsib troon.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/9-12.1792554697886.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "jälestus"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningate"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "tegemine"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "tsedekaga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "püsib"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:37.887477424Z",
+  "model": "glm-5.3"
+}

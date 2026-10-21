@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירשו",
+      "rationale": "sama verb ירש kordub eelmise salmi הורשת'ga — pärandamine\/väljaajamine on juursõna, mis seob salmid"
+    },
+    {
+      "kind": "addition",
+      "subject": "sul oli neist hea meel",
+      "rationale": "רציתם on verbiühend ilma otsese objektita — 'sina olid neile meelepärane', eesti keeles küünenud fraas"
+    }
+  ],
+  "translation": "Sest mitte nende mõõgaga nemad maad pärisid, ja nende käsivars ei andnud neile päästet; vaid sinu parem käsi ja sinu käsivars ja su näo valgus, sest sul oli neist hea meel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/44\/1-4.1792552867693.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "nende mõõgaga"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "nemad pärisid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "ja nende käsivars"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "andnud päästet"
+    },
+    {
+      "surface": "למו",
+      "gloss": "neile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sinu parem käsi"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "ja sinu käsivars"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ja valgus"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "su näo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "sul oli neist hea meel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:07.694677871Z",
+  "model": "glm-5.3"
+}

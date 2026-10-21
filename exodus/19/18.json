@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 19:18",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relatiivi ומפני אשר 'selle näolt, et' liidetakse eesti keeles lihtsaks põhjuseks 'sest'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשן\/עשנו\/כעשן",
+      "rationale": "Juure עשן kolmekordne kordus (suitses — suits — suits) kõlab, eesti keeles on kordus osaliselt alles."
+    }
+  ],
+  "translation": "Ja kogu Siinai mägi suitses, sest Jahve laskus sellele tule sees, ja selle suits tõusis nagu ahju suits, ja kogu mägi värises väga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/19\/17-20.1792538564996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והר",
+      "gloss": "ja mägi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinai"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "suitses"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ירד",
+      "gloss": "laskus"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tule sees"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja tõusis"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "selle suits"
+    },
+    {
+      "surface": "כעשן",
+      "gloss": "nagu suits"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "ahju"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ja värises"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mägi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:22:44.997861870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh' — mitte 'vaim' üksi"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Palve otse Jumalale — vabatahtlik pöördumine"
+    }
+  ],
+  "translation": "Ära heida mind minema oma näolt, ja oma püha ruahh ära võta minult.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/13-16.1792553020995.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "heida mind minema"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "oma näolt"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja oma ... ruahh"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "püha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "võta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minult"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:40.995715175Z",
+  "model": "glm-5.3"
+}

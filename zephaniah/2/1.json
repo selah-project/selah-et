@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kerake kokku",
+      "rationale": "קוששו tähendab sõna-sõnalt 'põhku korjama'; kogunemise tähendus on kaudne — 'koguge kokku' vs 'põhkukoristajad'."
+    },
+    {
+      "kind": "crux",
+      "subject": "keda ei ihaldata",
+      "rationale": "נכסף 'kahvatumine, igatsus': 'ei ihaldata' (KJV 'not desired') vs 'häbitu' (JPS, eeldab נכסף=נכלם)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogu rahvas",
+      "rationale": "Käskiv kutsung kogunemisele, pöördumine rahva poole."
+    }
+  ],
+  "translation": "Kerake kokku, jah, kerake kokku, ⟨sina⟩ rahvas, keda ei ihaldata!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47ff6093355a1a8358908d1c7465b1cf6ab8b0dd6941715731b9376dd7561405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/2\/1-4.1792551770861.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "kerake kokku"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "jah, kerake kokku"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ihaldata"
+    }
+  ],
+  "timestamp": "2026-10-21T03:02:50.862229888Z",
+  "model": "glm-5.3"
+}

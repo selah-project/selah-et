@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "endid",
+      "rationale": "esimene ויטהרו on reflexiivne — 'pühitsesid endid', heebrea ei ütle asesõna eraldi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויטהרו … ויטהרו",
+      "rationale": "sama verb kordub kaks korda — esiteks endi, siis teiste pühitsemine, kajaks jääb eestis nõrgemaks"
+    }
+  ],
+  "translation": "Ja preestrid ja leviidid pühitsesid endid, ja nad pühitsesid ⟨את⟩ rahva ning ⟨את⟩ väravad ja ⟨את⟩ müüri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/12\/29-32.1792557086862.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ja nad pühitsesid"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviidid"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ja nad pühitsesid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ning ⟨את⟩",
+      "marks": "väravad"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "müüri"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "müüri"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:26.863254180Z",
+  "model": "glm-5.3"
+}

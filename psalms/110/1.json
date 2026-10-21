@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mu isandale",
+      "rationale": "לאדני loetakse kas Davidi isandaks (inimene) või Jumala nimena; siin jäetud inimlikuks, sest Jahve räägib temaga"
+    },
+    {
+      "kind": "idiom",
+      "subject": "jalataldaks su jalgade alla",
+      "rationale": "heebrea חיל 'vägi\/sõjavägi' vahetatud 'jõule', kui prints 'saadab' sau — sau kui läkitatud ese"
+    }
+  ],
+  "translation": "Davidile, psalm. Ütleb Jahve mu isandale: istu mu paremale käele, kuni ma panen su vaenlased jalataldaks su jalgade alla.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/110\/1-4.1792553928032.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mu isandale"
+    },
+    {
+      "surface": "שב",
+      "gloss": "istu"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "mu paremale käele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ma panen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "su vaenlased"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "jalataldaks"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "su jalgade alla"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:48.033157375Z",
+  "model": "glm-5.3"
+}

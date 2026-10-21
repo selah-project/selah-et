@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on hingamine, elujõud, mitte eraldiseisev 'hing'; kurgu\/elujõu tähendus kaob"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaesele",
+      "rationale": "עמל on nähtamatu vaev — nii füüsiline kui kurbus; 'vaene' hoiab kannatuse, aga kaotab vaeva tähenduse"
+    },
+    {
+      "kind": "you",
+      "subject": "Jumalale suunatud küsimus",
+      "rationale": "otse kõne: küsimus, millele tekst vastust ei anna — õõnes väljakutse"
+    },
+    {
+      "kind": "mystery",
+      "subject": "miks antakse",
+      "rationale": "see oluliselt katkeminev küsimus on seadmisega varjatud küsimus, mida Taanieli-larnitud sulgemine toetab"
+    }
+  ],
+  "translation": "Miks antakse vaesele valgust, ja elu neile, kelle hing ⟨on⟩ mõru?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/3\/17-20.1792555093247.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "antakse"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "vaesele"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valgust"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ja elu"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "mõru"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:13.248542960Z",
+  "model": "glm-5.3"
+}

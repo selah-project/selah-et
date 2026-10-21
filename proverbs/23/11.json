@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sinuga",
+      "rationale": "אתך: 'koos sinuga' vs 'sinu vastu' — kas kohtupidamine koos või süüdistus vastu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lunastaja",
+      "rationale": "גואל on sugulane-lunastaja kes saveerib sugulase õiguse."
+    }
+  ],
+  "translation": "Sest nende lunastaja on vägev, tema ajab ⟨את⟩ nende õigusasja sinuga ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/23\/9-12.1792554887160.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "nende lunastaja"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ajab õigusasja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende õigusasja"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "nende õigusasja"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinuga",
+      "marks": "sinuga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:47.162429792Z",
+  "model": "glm-5.3"
+}

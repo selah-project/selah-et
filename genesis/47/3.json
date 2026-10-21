@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Paro vendadele",
+      "rationale": "otsene küsimus vahetult vastajaile: 'mis on teie tegevus?'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "sõnale 'ütles + kellele' lisatakse eesti käändele, eraldi sõnana jäi ära"
+    }
+  ],
+  "translation": "Ja Paro ütles tema vendadele: mis on teie tegevus? Ja nad ütlesid Paroile: su teenijad on karjased, nii meie kui ka meie isad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c70be1b322ab509baa662efa70d8a8a9c2cf79c9d77561740443081db47691a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/47\/1-4.1792538132893.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "tema vendadele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "on teie tegevus"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja ütlesid"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroile"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "karjased"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karja"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "su teenijad"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "meie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kui ka"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "meie isad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:15:32.894873183Z",
+  "model": "glm-5.3"
+}

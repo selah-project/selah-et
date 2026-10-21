@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Siin võib את olla kas objektimärker (ruahh objektina) või eessõna 'koos' (H854) — kumbki annab veidi erineva pildi täitmisest"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיכה ja tema salm",
+      "rationale": "'Mina seevastu' — terav vastandus eelmiste salmide valeprohvetitega; kõne-akt on Miija enesekaitse"
+    }
+  ],
+  "translation": "Kuid mina olen täis jõudu, ⟨את⟩ Jahve ruahhi ja kohust ja väge, et kuulutada Jaakobile tema ülestõusu ja Jisraelile tema pattu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/3\/5-8.1792551623227.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "kuid"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "olen täis"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jõudu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ruahhi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja kohust"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ja väge"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "et kuulutada"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakobile"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "tema ülestõusu"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ja Jisraelile"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "tema pattu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:00:23.229140424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 5:4",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "selle",
+      "rationale": "Eesti keel vajab grammatilist kaudobjekti ja viidet kirja endale, heebrea laseb verbil לין\/כלה objekti ära jätta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ütleb Jahve",
+      "rationale": "נאם on oraakeli sõna; eesti keeles puudub lühem vaste, 'ütleb' tuleb D3 reeglist."
+    },
+    {
+      "kind": "mystery",
+      "subject": "lendav kirj",
+      "rationale": "Needus-kiri, mis siseneb majja ja jääb sinna, on tahtlikult piltlik ja varjatud kuju."
+    }
+  ],
+  "translation": "Ma viin selle välja, ütleb Jahve Tsevaot, ja see tuleb varga majja ning tema majja, kes vandub minu nimel valet, ja see jääb tema majja keskele ning hävitab ⟨selle⟩ ⟨את⟩ tema puid ja ⟨את⟩ tema kivid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "11b85e8943d27875a73e4874f48bef50290bc5a73a0adac307f0c329013c4577",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/5\/4-4.1792558555615.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוצאתיה",
+      "gloss": "viin selle välja"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "ja tuleb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "varga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "kes vandub"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "minu nimel"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "valet"
+    },
+    {
+      "surface": "ולנה",
+      "gloss": "ja jääb"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tema majja"
+    },
+    {
+      "surface": "וכלתו",
+      "gloss": "ja hävitab selle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema puid"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "tema puid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema kivid"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "tema kivid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:55.620839870Z",
+  "model": "glm-5.3"
+}

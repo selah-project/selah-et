@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Küsimuse jaoks vajalik eesti käänesõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוות",
+      "rationale": "הַוָּה tähendab nii 'kahju\/hukatust' kui 'ahnet iha' — 'kas mu suu ei erista halba?'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "suulae",
+      "rationale": "חֵךְ on suulae kui maitseorgan, mitte lihtsalt 'suu'"
+    },
+    {
+      "kind": "you",
+      "subject": "sõpradele",
+      "rationale": "Rhetoriline küsimus, suunatud kuulajatele"
+    }
+  ],
+  "translation": "Kas ⟨on⟩ minu keeles ülekohut? Ei mõista mu suulae hukutust?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c85faf882637b583841736e2c5253523f37b9f5a1978e737583eec37f2d056d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/6\/29-30.1792555127627.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "kas on"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "minu keeles"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ülekohut"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "mu suulae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mõista"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "hukutust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:47.627680855Z",
+  "model": "glm-5.3"
+}

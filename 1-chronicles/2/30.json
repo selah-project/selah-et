@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea loendikonstruktsioon lisab kopeeri puudu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא בנים",
+      "rationale": "otsetõlge 'ei [olnud] poegi' ehk lasteta; tavakeeles 'ilma lasteta'"
+    }
+  ],
+  "translation": "Ja Nadabi pojad ⟨olid⟩ Seled ja Appajim, ja Seled suri — ei ⟨olnud⟩ tal poegi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e7be342f221411014e5b1b89b12217c8ecf916c6415a43ddfc22a832b009af3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/2\/29-32.1792557177590.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja pojad"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "ja Appajim"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ja suri"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Seled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poegi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:32:57.590944019Z",
+  "model": "glm-5.3"
+}

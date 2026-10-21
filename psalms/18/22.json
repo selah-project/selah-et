@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאלהי",
+      "rationale": "רשעתי מאלהי: 'tõenäoliselt ei tähenda heebrea lahku minemist — see lisandub eeldusest, et tegemist on paralleelsega 2Sm 22:22; 'kuri oma Elohimist ⟩ vs 'kõrvale kaldunud oma Elohimist'"
+    }
+  ],
+  "translation": "Sest ma olen hoidnud Jahve teid ega ole teinud kurja oma Elohimist ⟨lahkuminekut⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd93cabe0e5396aabecd60a07a615f5e7c722b8faef5727a2055d02d303e5869",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/21-24.1792552343484.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ma olen hoidnud"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "teid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "teinud kurja"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "oma Elohimist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:23.485548538Z",
+  "model": "glm-5.3"
+}

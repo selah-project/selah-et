@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 50:4",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ütleb Jahve",
+      "rationale": "נאם יהוה otse 'Jahve kõne', kuid D3 kinnitab 'ütleb Jahve'."
+    },
+    {
+      "kind": "addition",
+      "subject": "omadussõna sidumine",
+      "rationale": "Eesti kõikuv kääne nõuab mõnikord korduvat sõna (sel), mida heebrea artiklituletus kandis ühe sõnaga."
+    }
+  ],
+  "translation": "Neil päevil ja sel ajal — ütleb Jahve — tulevad Jisraeli pojad, nemad ja Juuda pojad koos; minnes ja nuttes nad lähevad, ja ⟨את⟩ Jahvet, oma Elohimit, nad otsivad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d55672d5650b3836775db1dff3fe2beb61d8864d98793a5e56edc185d94e72d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/50\/1-4.1792549403081.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Neil päevil"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ja ... ajal"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tulevad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja ... pojad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "koos"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "minnes"
+    },
+    {
+      "surface": "ובכו",
+      "gloss": "ja nuttes"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "lähevad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet, oma Elohimit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oma Elohimit"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "otsivad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:23:23.084593491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "käskkõne",
+      "rationale": "Imperatiiv 'rääkige' ja 'võtku' — juhised kogudusele"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuu kümnendal päeval",
+      "rationale": "Päeva loendamine täpse korralduse jaoks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tall",
+      "rationale": "שה on nii lammas kui kits — 'tall' katab ainult osa; eesti keeles ühetähenduslik sõna puudub"
+    }
+  ],
+  "translation": "Rääkige kogu Jisraeli kogudusega, öeldes: sel kuu kümnendal võtku endale iga mees tall, isade koja järgi — tall iga koja jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/12\/1-4.1792538442708.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "rääkige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kellelega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "koguduse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "kümnendal"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "võtku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "endale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iga mees"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tall"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "koja jaoks"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "isade"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tall"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "igale kojale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:42.710018830Z",
+  "model": "glm-5.3"
+}

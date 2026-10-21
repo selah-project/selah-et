@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab abiõverbi, heebrea puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sammud",
+      "rationale": "אָשֻׁר on samm\/jalajälg; 'goings' külg"
+    }
+  ],
+  "translation": "Mu sammud ⟨on⟩ kinni hoidnud sinu radadel, mu jalad pole üldse kõikunud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/17\/5-8.1792552426312.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "kinni hoidnud"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mu sammud"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "sinu radadel"
+    },
+    {
+      "surface": "בל",
+      "gloss": "üldse mitte"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "kõikunud"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "mu jalad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:46.313369784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מנה אחת אפים",
+      "rationale": "Sõna-sõnalt 'üks osa ninasid (kahest)': 'kahekordne osa' vs 'auväärt osa' vs 'kibeda meelega antud osa' (אף ka 'vihane')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nina-kahe",
+      "rationale": "אפים on אף (nina\/nägu) duaal — kuju säilitatud liitumisega, sest eesti keeles pole ühte sõna."
+    }
+  ],
+  "translation": "Aga Hannale andis ta ühe osa — nina-kahe —, sest ⟨את⟩ Hanna armastas ta, ja Jahve oli sulgenud tema emaka.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/1\/5-8.1792543740209.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "aga Hannale"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "andis ta"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ühe osa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nina-kahe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanna"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastas ta"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "oli sulgenud"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "tema emaka"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:00.211588299Z",
+  "model": "glm-5.3"
+}

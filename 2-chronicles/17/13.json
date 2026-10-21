@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 17:13",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tööd",
+      "rationale": "מלאכה tähendab nii tööd kui varustust; bsb loeb 'varusid', enamus 'töid'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab olemasoluverbi, heebrea puudub"
+    }
+  ],
+  "translation": "Ja suurt tööd oli tal Juuda linnades, ja sõjamehi, vägevaid väge, Jerušalaimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62b6a23f19c540cda94e43cdc22dc561ef7f8b4ac24c0a2e0c88586d810b125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/17\/13-16.1792557914209.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאכה",
+      "gloss": "Ja suurt tööd"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suurt"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tal"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "linnades"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja ... mehi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sõja"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "vägevaid"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "väge"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:14.210546194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Otsene pöördumine: palve, et Jahve tõuseks kõrgele oma väes."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kiitame lauluga",
+      "rationale": "זמר tähendab sõna-sõnalt 'keelpilli\/lööki mängima' — pandud 'kiitma lauluga', sest eesti keeles puudub üks sõna pillimängu ja laulu ühendamiseks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז \/ גבורה",
+      "rationale": "Kaks sõna jõu kohta (vägi ja võimsus) paarisvärssides — eesti keeles kaks erinevat sõna säilitavad variatsiooni."
+    }
+  ],
+  "translation": "Tõuse kõrgele, Jahve, oma väes! Laulame ja kiitame lauluga sinu võimsust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/21\/13-14.1792552492670.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Tõuse kõrgele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "oma väes"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "Laulame"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "ja kiitame lauluga"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "sinu võimsust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:52.671398805Z",
+  "model": "glm-5.3"
+}

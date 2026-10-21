@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mõõdud",
+      "rationale": "läbimõõt kümme, kõrgus viis, ümbermõõt kolmkümmend küünart"
+    },
+    {
+      "kind": "crux",
+      "subject": "ümberringi mõõt",
+      "rationale": "kolmkümmend küünart ümbermõõtu paistab ümmarguse jaümise loogikaga vastuolus olevat (π-küsimus); üldtunnustatud ümardus"
+    }
+  ],
+  "translation": "Ja ta tegi ⟨את⟩ valatud mere, kümme küünart selle äärest selle ääreni, ümar ümber, ja viis küünart selle kõrgus, ja nöör kolmkümmend küünart ümbritses ⟨את⟩ teda ümber.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/4\/1-4.1792557686113.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja ta tegi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valatud mere"
+    },
+    {
+      "surface": "הים",
+      "gloss": "valatud mere"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "valatud"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "selle äärest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "selle ääreni"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "ümar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ja viis"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "selle kõrgus"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "ja nöör"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmkümmend"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ümbritses"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda (merd)"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    }
+  ],
+  "timestamp": "2026-10-21T04:41:26.114610096Z",
+  "model": "glm-5.3"
+}

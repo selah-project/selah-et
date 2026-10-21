@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "eesti keel vajab otsust, mida ta väljas räägib — heebrea jätab selle nimetamata"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוא",
+      "rationale": "šav': 'tühjus\/pettus\/asjatu' — KJV 'vanity', teised 'lies'"
+    }
+  ],
+  "translation": "Ja kui ta tuleb mind vaatama, räägib ta pettust; tema süda kogub endale pahjust; kui ta läheb välja, räägib ta ⟨seda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/5-8.1792552880507.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ta tuleb"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vaatama"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "pettust"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägib ta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tema süda"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "kogub"
+    },
+    {
+      "surface": "און",
+      "gloss": "pahjust"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ta läheb"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "välja"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägib"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:20.508013892Z",
+  "model": "glm-5.3"
+}

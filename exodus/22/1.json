@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "veresüüd",
+      "rationale": "דמים sõnasõnalt 'vered' — tapmise eest tasumise kohustus, idiom 'tema veri ei maksta'"
+    },
+    {
+      "kind": "crux",
+      "subject": "במחתרת",
+      "rationale": "'sisse kaevates\/murdes' — kas varas murrab sisse öösel või leitakse tunnelis; eesti 'sissemurdmisest' hoiab pildi"
+    }
+  ],
+  "translation": "Kui varas leitakse sissemurdmisest ja ta saab löögi ning sureb, ei ole talle veresüüd.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/22\/1-4.1792538684633.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "sissemurdmisest"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "leitakse"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "varas"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "saab löögi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sureb"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "veresüüd"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:44.633820687Z",
+  "model": "glm-5.3"
+}

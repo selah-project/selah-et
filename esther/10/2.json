@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 10:2",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "küsimusele eesti keeles vajalik abiverb, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלת\/גדלו",
+      "rationale": "Mordekai 'suuruse' ja kuninga 'suurendamise' juur-kordus, eesti keeles kaotsi läinud"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kroonikaraamat",
+      "rationale": "viide ametlikule kirjapandud kroonikasse — ülestähendamise motiiv"
+    }
+  ],
+  "translation": "Ja kogu tema tugevuse tegevus ja tema vaprus ning Mordekai suuruse kirjeldus, mille kuningas temale andis — eks need ⟨on⟩ kirjutatud Meedia ja Paarsi kuningate päevade asjade raamatusse?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/10\/1-3.1792556232754.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kogu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tegevus"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "tema tugevuse"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "ja tema vaprus"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "ning kirjeldus"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "suuruse"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "temale andis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "eks"
+    },
+    {
+      "surface": "הם",
+      "gloss": "need"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kirjutatud"
+    },
+    {
+      "surface": "על",
+      "gloss": "raamatusse"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raamatusse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "asjade"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päevade"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "kuningate"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Meedia"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ja Paarsi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:17:12.755023303Z",
+  "model": "glm-5.3"
+}

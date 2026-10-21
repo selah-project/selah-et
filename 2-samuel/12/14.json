@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "põlastasid Jahve vaenlasi",
+      "rationale": "נאצת את איבי יהוה: kes põlastab keda — 'sa tegid Jahve vaenlaste põlastuse objektiks' (KJV\/BSB) vs JPS 'sa põlastasid Jahve vaenlasi' vs 'sa põlastasid ⟨את⟩ Jahve sõna (vaenlaste silmis)'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאץ נאצת",
+      "rationale": "infinitiiv absoluut + imperfekt: 'põlastuse-põlastasid' — kindluse võimendus, eesti keeles lühendatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות ימות",
+      "rationale": "infinitiiv absoluut: 'surma sureb' — jääb sõna-sõnalt, vastandib 13. salmi 'sa ei sure'"
+    }
+  ],
+  "translation": "Ometi, sest sina põlastasid ⟨את⟩ Jahve vaenlasi selles asjas, ka poeg, kes sulle on sündinud, surma ⟨ta⟩ sureb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/12\/13-16.1792544625986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "ometi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "põlastama"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "põlastasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve vaenlasi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vaenlasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "selles asjas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selles"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "kes on sündinud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sureb"
+    }
+  ],
+  "timestamp": "2026-10-21T01:03:45.989273263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את ראש",
+      "rationale": "Sõna-sõnalt 'tõstma pead' = loendama; siin säilitatud sõna-sõnaliselt 'tõstke pea'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "loendamine",
+      "rationale": "Käsk võtta kokku Kehati poegade arv — leevilaste loendus."
+    }
+  ],
+  "translation": "Tõstke ⟨את⟩ pea Kehati poegade keskelt Levi poegade seast, nende perekondade kaupa, nende isade house järeli:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57300b1c0432575033b4d353c38165458a8d51ccacfdb52d04a6c05feee2fde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/1-4.1792539743563.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Tõstke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pea"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehati"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskelt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nende perekondade kaupa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "isade house järeli"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nende isade"
+    }
+  ],
+  "timestamp": "2026-10-20T23:42:23.564079598Z",
+  "model": "glm-5.3"
+}

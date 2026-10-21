@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 42:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mu viha",
+      "rationale": "אף on sõna-sõnalt 'nina\/ninasõõr' — viha põlemine ninas, eesti keeles 'viha'."
+    },
+    {
+      "kind": "you",
+      "subject": "Elifasile, temaanlasele",
+      "rationale": "Jahve pöördub otse Elifasi poole ja tema kahe sõbra poole."
+    },
+    {
+      "kind": "alternative",
+      "subject": "need sõnad",
+      "rationale": "'Need sõnad' viitavad 38–41 peatüki kõnele; alles 42:7 lugeja teab, millele viidatakse."
+    }
+  ],
+  "translation": "Ja sündis, et kui Jahve oli rääkinud need ⟨את⟩ sõnad Iiobile, ütles Jahve Elifasile, temaanlasele: Põleb mu viha sinu vastu ja sinu kahe sõbra vastu, sest te ei rääkinud minust seda, mis õige on, nagu mu teener Iiob.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5db31f43f4df2a58f39b067c03851af0a814403ecfba73dcddd4ad016dfce239",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/42\/5-8.1792555808908.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pärast seda kui"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli rääkinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "need sõnad"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sõnad"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Iiobile"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elifasile"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "temaanlane"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "põleb"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mu viha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu vastu"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ja sinu kahe"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sõbra vastu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "te rääkinud"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minust"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "seda, mis õige on"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "nagu mu teener"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiob"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:08.909954680Z",
+  "model": "glm-5.3"
+}

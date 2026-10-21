@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "juurde",
+      "rationale": "Eesti käändehüüp, mida heebrea ei ütle"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Ettepanekuga עם kaasuv osutub agent, lisatud asesõna"
+    }
+  ],
+  "translation": "Ja kuningas ja Haman tulid jooma Esteri kuninganna juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/7\/1-4.1792556233028.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tulid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ja Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "jooma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos ⟨tema⟩"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esteri"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kuninganna"
+    }
+  ],
+  "timestamp": "2026-10-21T04:17:13.029490837Z",
+  "model": "glm-5.3"
+}

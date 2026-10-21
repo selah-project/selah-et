@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגה",
+      "rationale": "Ohk, susin või kõmin: KJV 'tale that is told', ASV 'sigh', YLT 'meditation' — sõna tähistab vaikset häält, ohklemist või mõtisklust."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלינו \/ כל",
+      "rationale": "כל 'kõik' ja כלינו 'me lõpetame (kõlab ära)' kõlavad kokku — päevad keerlevad ja lõpevad, kaob eesti keeles."
+    }
+  ],
+  "translation": "Sest kõik meie päevad pöörduvad ära su pahameeles; me lõpetame oma aastad nagu ohk.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/9-12.1792553621782.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "meie päevad"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pöörduvad ära"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "su pahameeles"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "me lõpetame"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "oma aastad"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ohk"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:41.783200241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨inimene⟩",
+      "rationale": "heebrea puudub kopeel ja subjekt; eesti nõuab mõlemad"
+    },
+    {
+      "kind": "crux",
+      "subject": "subjekt",
+      "rationale": "KJV lisab 'a man'; heebrea nimetab tegevust nimetatult — kes loodab, on lahti jäetud"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לתשועת יהוה",
+      "rationale": "võib olla ka 'Jahve päästeks', mitte 'pääste peale oodata'"
+    }
+  ],
+  "translation": "Hea ⟨on⟩, kui ⟨inimene⟩ loodab ja ootab vaikides Jahve pääste ⟨peale⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/25-28.1792555920003.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "kui ⟨inimene⟩ loodab"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ja ootab vaikides"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "pääste ⟨peale⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:00.004120945Z",
+  "model": "glm-5.3"
+}

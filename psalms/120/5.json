@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Meshek ja Qedari telgid",
+      "rationale": "Kasneed on pärisnimed (Meshek Jaafeti poeg, Qedar Ismaeli poeg) või üldiselt 'kauge elukoht' — enamus tõlkeid jätab nimedeks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גרתי\/שכנתי",
+      "rationale": "Kaks kõrvuti seisvat elamis-verbi (elama võõrana \/ asuma), eesti keeles kaotab asonertsuse."
+    }
+  ],
+  "translation": "Oh häda mulle, et ma elan võõrana Mesheki juures, et maelan Qedari telkidega!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/120\/5-7.1792554234666.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "oh häda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "elan võõrana"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ma elan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "telkidega"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedari"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:54.666905267Z",
+  "model": "glm-5.3"
+}

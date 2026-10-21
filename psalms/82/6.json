@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "'Jumalad' vs 'jumalataolised olendid' (JPS) vs kohtumõistjatud vägede kohta; vorm on mitmus 'eloimid', räägitakse jumalate nõukogule."
+    },
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebrea puudub kopeeriv verbi; eesti keel vajab 'olette'."
+    },
+    {
+      "kind": "you",
+      "subject": "jumalate nõukogule",
+      "rationale": "Jumal kõneleb otse kohus jumalusi, kellesse 82:1 viidatud."
+    }
+  ],
+  "translation": "Mina ütlesin: Te olete eloimid ja kõik teie olete Elijoni pojad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/82\/5-8.1792553582367.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ütlesin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloimid"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Te olete"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja … pojad"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijoni"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kõik teie"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:02.368929265Z",
+  "model": "glm-5.3"
+}

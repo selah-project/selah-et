@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "lühi-prepositsioon 'koos meiega' renderdatud markeriga ⟨את⟩ + 'meiega'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hiilime varjatult",
+      "rationale": "נצפנה otse 'peidame end (kaitsena)'; kontekstis varjatult varitsemine"
+    },
+    {
+      "kind": "you",
+      "subject": "Mu poeg \/ lugeja",
+      "rationale": "jätkuvalt otsene pöördumine õpetuse adressaadi poole"
+    }
+  ],
+  "translation": "kui nad ütlevad: Tule meiega ⟨את⟩, varitseme verd, hiilime varjatult süütu kallal, ilma igasuguse põhjuseta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b12b827848eb236a4c5fc1342646b6f84d358926e83d3559f0ea44c7944b83b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/10-11.1792558619331.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nad ütlevad"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "meiega"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "varitseme"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "hiilime varjatult"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "süütu kallal"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ilma igasuguse põhjuseta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:59.343819875Z",
+  "model": "glm-5.3"
+}

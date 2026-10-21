@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 36:35",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on saanud⟩ · ⟨on⟩ · ⟨ja⟩",
+      "rationale": "heebrea jätab siduva kopula ja sidesõna ära, eesti vajab neid"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בצורות ישבו",
+      "rationale": "sõna-sõnalt 'kindlaks tehtud, istusid\/asusid' → 'kindlustatud ja asustatud'"
+    }
+  ],
+  "translation": "Ja nad ütlevad: see tühermaa ⟨oli⟩ varemeis, ⟨on saanud⟩ nagu Eaedi aed, ja linnad, varemeis jäänud, tühjaks tehtud ja lõhutud, ⟨on⟩ kindlustatud ⟨ja⟩ asustatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "812d97991d1e222a17c9e2dbd786a2735762fdad0c7b843a101675b6c9862575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/36\/33-36.1792550517663.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Ja nad ütlevad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "הלזו",
+      "gloss": "see"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "tühermaa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "nagu aed"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eaedi"
+    },
+    {
+      "surface": "והערים",
+      "gloss": "ja linnad"
+    },
+    {
+      "surface": "החרבות",
+      "gloss": "varemeis jäänud"
+    },
+    {
+      "surface": "והנשמות",
+      "gloss": "tühjaks tehtud"
+    },
+    {
+      "surface": "והנהרסות",
+      "gloss": "ja lõhutud"
+    },
+    {
+      "surface": "בצורות",
+      "gloss": "kindlustatud"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "asustatud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:41:57.664696953Z",
+  "model": "glm-5.3"
+}

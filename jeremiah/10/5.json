@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כתמר מקשה",
+      "rationale": "'nagu vasaralt valatud palmipuu' (ASV) vs 'nurgikurkide aias sammas' (JPS, lireb כתמר מקשה) — heebrea kātōmer miqšā räägib töödeldud palmivõrsest, mitte aednikust."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשוא ינשוא",
+      "rationale": "Sama juure kordus: 'kandke — takse' (nāśōʾ yinnāśēʾ), passiivi rõhutamine, eesti keeles säilitatud tüve kordusega."
+    },
+    {
+      "kind": "you",
+      "subject": "ärge kartke",
+      "rationale": "Pöördumine kuulajale — keelduv käsivorm אל תיראו suunatud Jahuudale rahvale."
+    }
+  ],
+  "translation": "Nagu vasaralt valatud palmipuu on nad, ega nad räägi; kandke-takse neid, sest nad ei astu sammu. Ärge kartke neid, sest nad ei tee kurja, ja ka head teha ei ole ⟨את⟩ neis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3de59caafb89fa41a15557fd268c4eaef4097bcb65b90b88d8b024fab11557bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/10\/5-8.1792548230755.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "nagu palmipuu"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "vasaralt valatud"
+    },
+    {
+      "surface": "המה",
+      "gloss": "on nad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nad räägi"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "kandke"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "takse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "nad astu sammu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kartke"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "nad tee kurja"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "head teha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neis",
+      "marks": "neis"
+    }
+  ],
+  "timestamp": "2026-10-21T02:03:50.756963691Z",
+  "model": "glm-5.3"
+}

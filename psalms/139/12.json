@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/יחשיך ja כחשיכה",
+      "rationale": "Juure חשכ kolmekordne kordus — 'pimedus ei pimenda', 'nagu pimedus'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממך",
+      "rationale": "'sinust' — 'pimedus ei varja end sinu eest' või 'pimedus ei pimenda sind'; otsene 'from you' on jäetud mõnedesse tõlgetesse kaudseks."
+    }
+  ],
+  "translation": "ka pimedus ei pimenda ⟨sind⟩, ja öö paistab nagu päev: nagu pimedus, nii nagu valgus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/9-12.1792554275190.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimedus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "pimenda"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinust"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öö"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nagu päev"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "paistab"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "nagu pimedus"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "nii nagu valgus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:35.191506721Z",
+  "model": "glm-5.3"
+}

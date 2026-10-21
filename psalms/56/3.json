@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ahmivad suhu",
+      "rationale": "שׁאף kordub salmi 2 omast — 'alla neelata', eestis 'ahmima suhu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרום",
+      "rationale": "'kõrgus' — kellelt?: 'kõrgelt (uhkusest)' vaenlaste kohta vs KJV\/JPS 'kõige kõrgem' kui pöördumine Jumala poole"
+    }
+  ],
+  "translation": "Minu vaenlased ahmivad suhu kogu päeva, sest paljud on need, kes kõrgelt minuga võitlevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/1-4.1792553035156.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ahmivad suhu"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "minu vaenlased"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "paljud"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "kes võitlevad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minuga"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kõrgelt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:55.158151497Z",
+  "model": "glm-5.3"
+}

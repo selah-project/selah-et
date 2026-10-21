@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 15:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתחולל",
+      "rationale": "Juurest חול 'keerduma': 'valu keetma' (KJV 'travaileth'), 'rabeleda', või 'käima ringi nagu värisev'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נצפנו לעריץ",
+      "rationale": "YLT: 'väheseid aastaid on karmile kogutud'; KJV\/JPS: 'aastate arv on türannile varjatud' — kas peidetud või reserveeritud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumalatu",
+      "rationale": "רשע on 'aktiivselt vale isik', mitte lihtsalt 'paha'"
+    }
+  ],
+  "translation": "Kõik jumalatu päevad keeb ta valu sees, ja aastate arv on varjatud võimurile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "045d62d856cd4937b69d0bd74c781a588eb5979e5f4713ca197c41810b2f1809",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/15\/17-20.1792555314703.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "jumalatu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "keeb valu sees"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ja arv"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aastate"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "on varjatud"
+    },
+    {
+      "surface": "לעריץ",
+      "gloss": "võimurile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:54.704477306Z",
+  "model": "glm-5.3"
+}

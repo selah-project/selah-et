@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatiiv",
+      "rationale": "Keelav käsk 'ära igatse' pöördub otseselt kuulaja poole."
+    },
+    {
+      "kind": "you",
+      "subject": "käsu aadressaat",
+      "rationale": "Eelihu kõneleb Iiobile."
+    },
+    {
+      "kind": "crux",
+      "subject": "לעלות ... תחתם",
+      "rationale": "Kas rahvad 'tõusevad nende asemele' (YLThävitamise pilt, KJV\/JPS 'hävatakse oma kohalt') — עלות võib olla ka 'eemalduda, hävuda'."
+    }
+  ],
+  "translation": "Ära igatse ööd, rahvaste üles tõusmist nende asemele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/36\/17-20.1792555647743.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "igatse"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ööd"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "üles tõusmist"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "nende asemele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:27.744261433Z",
+  "model": "glm-5.3"
+}

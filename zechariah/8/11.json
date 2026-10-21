@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אני",
+      "rationale": "Heebrea jatab öeldise predikaadi määramata — 'ma ei ole [nii]' jääb avatuks; sulgudes lisatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨see, kes ma olen⟩",
+      "rationale": "Heebrea koopula puudub; eesti vajab täiendit"
+    }
+  ],
+  "translation": "Aga nüüd ei ole ⟨ma⟩ nagu esimestel päevadel ⟨see, kes ma olen⟩ selle rahva jäänukile, ütleb Jahve Tsevaot.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "09f58508be1bae7eccca770e440f5225070ebfcf26684062604c8512987cde95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/8\/9-12.1792552019753.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Aga nüüd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "nagu esimestel päevadel"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "esimestel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨ma⟩"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "jäänukile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "selle rahva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-10-21T03:06:59.754920733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahetses",
+      "rationale": "נחם on sõnasõnalt 'puhis (sisimas) \/ tunne kahju', mitte tingimata meele muutus."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "õigupoolest 'pärast\/suhtes seda'; eesti käände 'seda' kannab tähenduse"
+    }
+  ],
+  "translation": "Jahve kahetses seda; ka see ei sünni, ütles Adonai Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "017278a1acea0664c26e2371618b79c16cd1963aff64f0cfa7194ee702fbaf1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/7\/5-8.1792551339018.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "kahetses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "זאת",
+      "gloss": "seda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sünni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:55:39.019691210Z",
+  "model": "glm-5.3"
+}

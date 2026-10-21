@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 33:11",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בסד",
+      "rationale": "בסד on 'kiilud, kindlad' — 'kindel koht' jätab kinnipaneku pildi osaliselt kaduma."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישמר כל ארחתי",
+      "rationale": "'valvab kõiki mu teid' — kaitseb või jälgib;范 kontekstis pigem jälgimine."
+    }
+  ],
+  "translation": "Ta seab mu jalad kindlasse paika, ta valvab kõiki mu teid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2211b2a83d2a217f33fe1d8fb4d01abe77114d507c1da2426f0f2ccdb04d9fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/9-12.1792555570799.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": " seab"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "kindlasse paika"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mu jalad"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "valvab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "ארחתי",
+      "gloss": "mu teid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:10.800752893Z",
+  "model": "glm-5.3"
+}

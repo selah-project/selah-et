@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lase mul kuulda",
+      "rationale": "Hüüdv kõne — kõneleja palub vastajal häält anda, köitab lugeja sisse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaaslased",
+      "rationale": "חברים otseselt 'kaaslased\/sõbrad' — kohta jääb lahtiseks, kes need kuulajad on."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקשיבים \/ השמיעיני",
+      "rationale": "Sama juur שׁמע\/קשב kordub: kuulajad kuulavad, kõneleja palub endale kuulda anda."
+    }
+  ],
+  "translation": "Sina, kes sa istud aedades, kaaslased teritavad ⟨oma⟩ kõrvu su häält ⟨kuulma⟩ — lase mul ⟨seda⟩ kuulda!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/13-14.1792555788462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "kes sa istud"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "aedades"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "kaaslased"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "teritavad kõrvu"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "su häält"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "lase mul kuulda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:48.463395266Z",
+  "model": "glm-5.3"
+}

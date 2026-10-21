@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעלות",
+      "rationale": "'Astuja laul' — kas 'astumiste laul' (palverännu üles Jerušalaimi) või 'kõrguste laul'; heebrea ma'alot märgib nii astmeid kui tõusmist."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבת צררוני",
+      "rationale": "Fraas kordub salmis 1 ja 2 refräänina; märksõnaline kordus kannab üle, kuid heebrea lühidus 'palju rõhkusid mind' jääb eestis sõnarseraks."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Pöördumine: kogudust kutsutakse üles ütlema refrään."
+    }
+  ],
+  "translation": "Astuja laul. Palju on nad mind rõhunud oma noorusajast, ütelgu nüüd Jisrael —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/129\/1-4.1792554212362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "laul"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Astuja"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Palju"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "on nad mind rõhunud"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "oma noorusajast"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütelgu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:32.363518339Z",
+  "model": "glm-5.3"
+}

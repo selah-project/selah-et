@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopeer puudub heebrea keeles"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרשו",
+      "rationale": "Puudulik kirjapilt: 'kes otsib teda' (tegevus) vs 'küsisid teda' (minevik) vs 'tema otsijad' (nimisõna)"
+    },
+    {
+      "kind": "crux",
+      "subject": "Jaakov",
+      "rationale": "Kellele kuulub יעקב — pöördumine ('sina, Jaakov'), genitiiv ('Jaakobi Elohimi' lünka täites) või lisand ('see on Jaakov')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרשו\/מבקשי",
+      "rationale": "Kaks 'otsimise' juurt kõrvuti — otsida-küsida ja otsida-paluda — kordus, mida eesti keeles ei eristata"
+    }
+  ],
+  "translation": "See ⟨on⟩ põlvkond, kes otsib teda, kes otsib su nägu — Jaakov. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/24\/5-8.1792552567206.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "דור",
+      "gloss": "põlvkond"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "kes otsib teda"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "otsijad"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "su nägu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:07.207036805Z",
+  "model": "glm-5.3"
+}

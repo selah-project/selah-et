@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kõpula; יועם on passiiv, 'tuhmub\/muutub hämmastavaks'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יועם",
+      "rationale": "sõna tähendus vaidlustatud: 'tuhmuma' vs 'hüljatud olema'; tõlgitud kui 'tuhmunud'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכתם הטוב",
+      "rationale": "sõna-sõnalt 'kaevandatud hea (kuld)' — märgitud puhas või peen kuld"
+    }
+  ],
+  "translation": "Kuidas ⟨on⟩ kuld tuhmunud, kuidas on muutunud parim puhas kuld! Pühakivid valatakse välja iga tänava pähe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/1-4.1792556008576.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "on tuhmunud"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuld"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "on muutunud"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "parim puhas kuld"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "parim"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "valatakse välja"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kivid"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha-"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "pähe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "tänavate"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:28.577074518Z",
+  "model": "glm-5.3"
+}

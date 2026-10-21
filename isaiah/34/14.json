@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 34:14",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציים \/ איים",
+      "rationale": "Haruldased kõrbeolendite nimed: 'kõrbeasukad' ja 'hüüdjad' vs 'kärud \/ šaakalid' (JPS) vs 'saared' (KJV 'island')"
+    },
+    {
+      "kind": "crux",
+      "subject": "לילית",
+      "rationale": "Öödemon Liilit (juur ליל 'öö'); hilisemas traditsioonis isikunimi Lilith — siin lihtsalt kõrbe õudusolend"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרגיעה",
+      "rationale": "Juur רגע tähendab nii 'ägedalt raputama' kui 'rahule jääma'; siin 'lebas pingul' — vägivaldne puhkus"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לילית",
+      "rationale": "Sõna לילית esineb Tanahhis ainult siin"
+    }
+  ],
+  "translation": "Ja kõrbeasukad kohtuvad ⟨את⟩ hüüdjatega, ja karune kutsub oma kaaslase poole; ainult seal lebab pingul öövaim Liilit ja leiab ⟨endale⟩ puhkepaiga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea114dec5fecd75e3ff2606f4ef696dd1adad8d6cea12c67b8694eea0465e8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/34\/14-15.1792558390538.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופגשו",
+      "gloss": "ja kohtuvad"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "kõrbeasukad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hüüdjatega"
+    },
+    {
+      "surface": "איים",
+      "gloss": "hüüdjatega"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "ja karune"
+    },
+    {
+      "surface": "על",
+      "gloss": "poole"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oma kaaslase"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kutsub"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "הרגיעה",
+      "gloss": "lebab pingul"
+    },
+    {
+      "surface": "לילית",
+      "gloss": "öövaim Liilit"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ja leiab"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨endale⟩"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "puhkepaiga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:10.539410042Z",
+  "model": "glm-5.3"
+}

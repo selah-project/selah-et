@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨asjad⟩",
+      "rationale": "עלמנו on verb 'varjatud\/salatud'; nimisõna lisatud eesti keele jaoks."
+    },
+    {
+      "kind": "secret",
+      "subject": "עלמנו",
+      "rationale": "Peidetud\/salajased süüteod toodakse Jahve näo valgusse."
+    }
+  ],
+  "translation": "Sa oled pannud meie pahateod su ette, meie varjatud ⟨asjad⟩ su näo valgusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/5-8.1792553645090.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "oled pannud"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "meie pahateod"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "su ette"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "varjatud"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "valgusse"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "su näo"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:05.092385546Z",
+  "model": "glm-5.3"
+}

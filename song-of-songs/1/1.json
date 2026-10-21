@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab olevikuvormi, heebrea lause on nimenahter"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיר השירים",
+      "rationale": "Heebrea ülivõte kordusega — 'laul laulude laul' — nagu 'pühade püha'; eesti Heinaste vorm 'laulude laul' kannab seda osaliselt"
+    },
+    {
+      "kind": "invitation",
+      "subject": "pealkiri",
+      "rationale": "Superlatiivne pealkiri avab teose ja kutsub lugejat sisse"
+    }
+  ],
+  "translation": "Laulude laul, mis on Šelomost.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/1-4.1792555778521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laul"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "laulude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "on Šelomost"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:38.522475088Z",
+  "model": "glm-5.3"
+}

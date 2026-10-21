@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "piiratud osastav lahusriim ega kanta eesti keelde eraldi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלקות",
+      "rationale": "'libedad kohad' ( siledus \/ libedus ) vs 'kavalus \/ lodevus' — kujundi kahekordsus"
+    }
+  ],
+  "translation": "Kindlasti libedaisse kohtadesse sa nad paned, sa kukutad nad hävingusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/17-20.1792553337320.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kindlasti"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "libedaisse kohtadesse"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "sa paned"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "sa kukutad nad"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "hävingusse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:57.321839325Z",
+  "model": "glm-5.3"
+}

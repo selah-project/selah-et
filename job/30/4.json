@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלוח",
+      "rationale": "soolane taim (merimurtsu\/malts) ilmub Tanahhis vaid siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "רתמים",
+      "rationale": "hispaania kuldvitsa juured: kibedad, näljaroog — eesti traditsioonis vahel 'kadakas', mis on teine taim"
+    }
+  ],
+  "translation": "Nad kitkuvad maltsat põõsaste seest, ja kuldvitsa juured on nende toiduks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/30\/1-4.1792555546069.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "nad kitkuvad"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "maltsat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "põõsaste seest"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "põõsaste"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ja juured"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "kuldvitsa"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "on nende toiduks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:46.070812849Z",
+  "model": "glm-5.3"
+}

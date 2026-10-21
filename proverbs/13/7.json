@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתעשר \/ מתרושש",
+      "rationale": "Kaks hitpael-vormi peegelduvad: 'rikastab end' \/ 'vaestab end' — ühesalmiline paradoks, eesti keeles säilitatud sõnastusega 'teeb end rikkaks\/vaeseks'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "teeskleb",
+      "rationale": "JPS\/BSB loevad hitpaeli 'teesklevat' (rich\/poor); reflexiivne 'teeb end' on sõna-sõnalisem"
+    }
+  ],
+  "translation": "On niisugune, kes teeb end rikkaks, ja tal pole midagi; niisugune, kes teeb end vaeseks, ja varandust on palju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/5-8.1792554665982.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "on niisugune"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "kes teeb end rikkaks"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja pole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "midagi"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "kes teeb end vaeseks"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ja varandust"
+    },
+    {
+      "surface": "רב",
+      "gloss": "palju"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:05.983709480Z",
+  "model": "glm-5.3"
+}

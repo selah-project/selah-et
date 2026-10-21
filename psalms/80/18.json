@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש ימינך",
+      "rationale": "'sinu parema käe mees' — kas 'sinu paremal käel olev mees' või 'sinu parema käe (jõu) mees'; säilitatud siduv konstruktsioon."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ise⟩endale",
+      "rationale": "Eesti käänamine nõuab refleksiivi, mis heebrea l לך ei ütle täielikult."
+    }
+  ],
+  "translation": "Olgu su käsi õigekäelise mehe kohal, inimesepoja kohal, kelle sa ⟨ise⟩endale tugevaks tegid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/80\/17-20.1792553450888.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "su käsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "su paremast käest"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "tugevaks tegid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ise⟩endale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:50.889452320Z",
+  "model": "glm-5.3"
+}

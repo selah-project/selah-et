@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopolula; eesti kaudkõne nõuab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצור ועזוב",
+      "rationale": "Tundmatu ülend: 'suletud ja jäetud' — tõlgitud 'kinni peetud ega vabaks jäetud' (KJV) või 'orja ega vaba' (BSB)"
+    }
+  ],
+  "translation": "Sest Jahve nägi ⟨את⟩ Jisraeli viletsust, et see ⟨oli⟩ väga kibe, ja ei olnud enam suletut ega jäetut, ja ei olnud Jisraelile ühtki abistajat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21ccef84c313b1ae6bc81b293c080851bb5873d7eaf2b36a3754107ecef22738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/14\/26-27.1792558377791.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nägi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli viletsust"
+    },
+    {
+      "surface": "עני",
+      "gloss": "viletsust"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "kibe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ja ei olnud enam"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "suletut"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ega enam"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "jäetut"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei olnud"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ühtki abistajat"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:57.791657027Z",
+  "model": "glm-5.3"
+}

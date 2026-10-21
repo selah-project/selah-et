@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea אין puudub — 'parem' esineb kui elav kõne, koopula 'on' on lisanud eesti keel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדר\/משתדור",
+      "rationale": "Sama נדר juur kaks korda vastandatud klauslis — säilinud korduva 'lubad' sõnaga."
+    }
+  ],
+  "translation": "Parem on, et sa ei luba, kui et sa lubad ja ei täida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/5\/1-4.1792556104692.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "lubad"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kui et lubad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "täida"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:04.694014336Z",
+  "model": "glm-5.3"
+}

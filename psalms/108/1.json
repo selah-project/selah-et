@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab sidesõna, heebreas puudub"
+    }
+  ],
+  "translation": "Laul, palmik, Davidile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/1-4.1792553906217.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laul"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "palmik"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:26.217796206Z",
+  "model": "glm-5.3"
+}

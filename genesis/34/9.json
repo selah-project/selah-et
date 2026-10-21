@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saage hõimuliitu",
+      "rationale": "התחתנו tähendab sõna-sõnalt 'läbi abiellu sugulaseks saada' — üks heebrea sõna, eestis mitu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "esimene אתנו on siin H854 'koos meiega', mitte aleph-tav"
+    },
+    {
+      "kind": "invitation",
+      "subject": "koos-abiellu ettepanek",
+      "rationale": "Hamori kõne köidab Jaakobi poegade hõimu endaga liituma"
+    }
+  ],
+  "translation": "Ja saage ⟨את⟩ meiega hõimuliitu: oma tütreid andke meile ja ⟨את⟩ meie tütreid võtke enestele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf63942acf4ab0527f875f00cc6bb64e93d09d35f83869922e5f20ab30379337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/34\/9-12.1792537910044.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "saage hõimuliitu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meiega"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "oma tütreid"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meie tütreid"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "meie tütreid"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "võtke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "enestele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:50.045363525Z",
+  "model": "glm-5.3"
+}

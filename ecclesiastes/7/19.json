@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rohkem kui",
+      "rationale": "Võrdlus m\/ (מעשרה) eeldab eesti keeles 'rohkem kui', heebreas ainult kauss"
+    },
+    {
+      "kind": "alternative",
+      "subject": "vägevaid mehi",
+      "rationale": "שליטים võib tähendada ka 'vägevaid sõjamehi' (kjv: mighty men), tugevuse kontekstis"
+    }
+  ],
+  "translation": "Tarkus annab tarkale jõudu rohkem kui kümmet valitsejat, kes linnas olid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/17-20.1792556079092.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "tarkus"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "annab jõudu"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "tarkale"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "rohkem kui kümmet"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "valitsejat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olid"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:39.093319462Z",
+  "model": "glm-5.3"
+}

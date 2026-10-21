@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 17:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דגר",
+      "rationale": "Sõna דגר 'hauduma\/kokku koguma' esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "püü võrdlus",
+      "rationale": "Kelle jätab maha: KJV järgi rikas rikkuse, ASV järgi rikkus rikase — heebrea יעזבנו sufiksit on mõlemamoodi tõlgendatud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "narriks",
+      "rationale": "נבל tähendab rumalat, jumalatut inimest, mitte lihtsalt narr"
+    }
+  ],
+  "translation": "Püü, kes haudub, ent ei kude — kes teeb rikkust, ent mitte õigusega: oma päevade poolel jätab ta selle maha ja oma lõpus saab ta narriks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7c65d979820115ff40fe541a70fb761a1c4d901ab85c04908c54cd87ee34fc79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/17\/10-11.1792558419096.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Püü"
+    },
+    {
+      "surface": "דגר",
+      "gloss": "kes haudub"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ent ei"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kes teeb"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkust"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ent mitte"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "õigusega"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "poolel"
+    },
+    {
+      "surface": "ימו",
+      "gloss": "oma päevade"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "jätab ta selle maha"
+    },
+    {
+      "surface": "ובאחריתו",
+      "gloss": "ja oma lõpus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "narriks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:39.097362109Z",
+  "model": "glm-5.3"
+}

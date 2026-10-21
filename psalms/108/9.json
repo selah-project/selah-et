@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel; kaks korda"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחקקי",
+      "rationale": "'seaduseandja\/skepter' vs 'vägev juht' — juur חקק tähendab 'sisse raiuma (seadust)'"
+    }
+  ],
+  "translation": "Minu on Gilad, minu on Menasse, ja Efrajim ⟨on⟩ mu peamäemin kindlus, Juuda ⟨on⟩ mu seaduseandja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/9-12.1792553864376.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasse"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ja Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kindlus"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pea"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mu seaduseandja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:44.377664312Z",
+  "model": "glm-5.3"
+}

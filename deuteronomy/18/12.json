@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sinu palge eest",
+      "rationale": "מפניך sõnasõnalt 'sinu palgete eest' — eesmärk: 'sinu eest', kujund jäetse alles"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ajab välja",
+      "rationale": "מוריש hiphil 'pärandama, maalt välja ajama' — 'välja ajama' mitte 'hävitama'"
+    }
+  ],
+  "translation": "Sest jäledus on Jahvele igaüks, kes neid teeb, ja nende jäleduste pärast ajab Jahve, su Elohim, ⟨את⟩ neid sinu palge eest välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/18\/9-12.1792540969555.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "jäledus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kes … teeb"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "neid"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "ja … pärast"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "jäleduste"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nende"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "ajab … välja"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "need rahvad, kellest maalt aetakse"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sinu palge eest"
+    }
+  ],
+  "timestamp": "2026-10-21T00:02:49.556474466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 2:11",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "הבל jäetakse heebrea kõlana 'hebel' (kiebu, tühjus), mitte 'tühisus'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורעות רוח",
+      "rationale": "Kiidetakse tülitama: 'ruahhi ahmimine\/püüdlemine' (nõutus ruahhist) vs 'vaimu piinlemine'; siin 'ahmimine'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppel 'on', eesti keel lisab ⟨selle⟩"
+    }
+  ],
+  "translation": "Ja ma pöördusin vaatama kõiki oma tegusid, mida mu käed olid teinud, ja vaeva, mida ma olin näinud teha; ja vaata, kõik on hebel ja ruahhi ahmimine, ja ei ole kasvu päikese all.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/2\/9-12.1792556013159.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ja ma pöördusin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "oma tegusid"
+    },
+    {
+      "surface": "שעשו",
+      "gloss": "olid teinud"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käed"
+    },
+    {
+      "surface": "ובעמל",
+      "gloss": "ja vaeva"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "mida ma olin näinud"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "on hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ja ahmimine"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahhi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kasvu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikese"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:33.160267679Z",
+  "model": "glm-5.3"
+}

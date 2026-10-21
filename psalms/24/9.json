@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "väravad",
+      "rationale": "Hüüdlus- ja käsuvormid kutsuvad väravais üles tõusma."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab kopeeli, heebrea puudub."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאו\/שערים",
+      "rationale": "Korduv נשא kajab väravate (שערים) sõnaga; eesti keeles see kaja kaob."
+    }
+  ],
+  "translation": "Tõstke, väravad, oma pead, ja tõstke end, igimaised uksed, ja kuningas, kirkuse ⟨on⟩ tulemas!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/24\/9-10.1792552482793.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "tõstke"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "oma pead"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ja tõstke end"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "uksed"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igimaised"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tulemas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kirkuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:42.794227368Z",
+  "model": "glm-5.3"
+}

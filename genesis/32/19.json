@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 32:19",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨omad⟩",
+      "rationale": "heebrea omab käänet 'sinu orja Jaakobi' ilma omamissõnata; eesti keel vajab sõna 'omad'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "inimese kohta tõlgitud kui 'mu isand', mitte Adonai — see on Esav, mitte Jumal"
+    }
+  ],
+  "translation": "Ja sa ütled: Sinu orja Jaakobi ⟨omad⟩; see on kingitus, saadetud mu isandale, Esavile; ja vaata, tema ise tuleb ka meie järel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "79edcad35057553816503c58d1b286b30287f3acf5228cdb8e1a3095b010f1e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/32\/17-20.1792537886203.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ja sa ütled"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sinu orja"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "kingitus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see on"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "saadetud"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mu isandale"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavile"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema ise"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "meie järel"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:26.204840660Z",
+  "model": "glm-5.3"
+}

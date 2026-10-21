@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "Sama juur 'ärkama' kaks korda: pillid ärkavad, koit äratatakse"
+    },
+    {
+      "kind": "crux",
+      "subject": "ma äratan koidu",
+      "rationale": "'ära varakult' (adverb) vs 'ma äratan koidu' (objekt) — heebrea שחר kannab mõlemat"
+    }
+  ],
+  "translation": "Ärka, nebel ja kinnor, ma äratan koidu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/1-4.1792553906217.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ärka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ja kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ma äratan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "koidu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:26.218136850Z",
+  "model": "glm-5.3"
+}

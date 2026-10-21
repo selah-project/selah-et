@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea koper puudub — אשר על השלחן on nimivääratused"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקשות",
+      "rationale": "'kannud\/korgid' — KJV 'covers', teised 'kannud valmistamiseks'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "verekausid",
+      "rationale": "מנקית on ohvrivere nõu — 'kauss' üksi kaotab selle"
+    }
+  ],
+  "translation": "Ja ta tegi ⟨את⟩ riistad, mis ⟨on⟩ laua peal — ⟨את⟩ selle kausid ja ⟨את⟩ selle kulbid ja ⟨את⟩ selle verekausid ja ⟨את⟩ kannud, millega neisse valatakse — puhtast kullast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca7e97eb19995cd058903b718b62a714c99d6e42964951f1e3eda8183e9ed4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/37\/13-16.1792539055908.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja ta tegi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riistad"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "riistad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "laua peal"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "laua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kausid"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "selle kausid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kulbid"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "selle kulbid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "verekausid"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "selle verekausid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kannud"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "kannud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millega"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "valatakse"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nendesse"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullast"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhtast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:30:55.909401765Z",
+  "model": "glm-5.3"
+}

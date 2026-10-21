@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "surnute ohvreid",
+      "rationale": "זבחי מתים — 'surnute ohvrid' (ebajumalatele, kes pole elavad) vs 'surnud ohvrid' (laipadest saastunud); enamus tõlkeid valib esimese"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinnitusid külge",
+      "rationale": "צמד tähendab 'ühendama, rakendama' nagu looma härjasse — tõlkes 'kinnitusid külge' kaotab põllustöö pildi"
+    }
+  ],
+  "translation": "Ja nad kinnitusid Baal-Peori külge ja sõid surnute ohvreid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/25-28.1792553837188.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "ja nad kinnitusid"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peori külge"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ja nad sõid"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ohvreid"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "surnute"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:17.189044423Z",
+  "model": "glm-5.3"
+}

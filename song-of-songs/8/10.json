@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rahu",
+      "rationale": "KJV 'favour' vs 'rahu' (šalom); sõna on šalom, mitte hen"
+    },
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "אני ja ושדי vahel puudub possessiiv, kuid eesti nõuab seda"
+    }
+  ],
+  "translation": "Mina olen müür ja mu rinnad nagu tornid; siis olin ma tema silmis nagu see, kes leiab rahu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/9-12.1792555821345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "müür"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "ja mu rinnad"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "nagu tornid"
+    },
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olin"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tema silmis"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "nagu see, kes leiab"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:21.346112293Z",
+  "model": "glm-5.3"
+}

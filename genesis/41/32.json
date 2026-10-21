@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 41:32",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נכון",
+      "rationale": "Sõna-sõnalt 'püsti seatud\/kindel'; 'kindlaks määratud' kannab tähendust, kuid mitte pildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "see on seepärast",
+      "rationale": "Heebrea vav+põhjuslik כי eeldab eesti keeles selgitava sidumise, mis on lisatud."
+    }
+  ],
+  "translation": "Ja unenäu kordumise pärast Parao juures kaks korda — see on seepärast, et asi on kindlaks määratud Elohimi poolt ja Elohim kiirustab seda tegema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "707135df527a495ed53f1842b562018b6d5d81081ad5295b816a6f51a9e6f962",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/41\/29-32.1792538024906.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ja ... pärast"
+    },
+    {
+      "surface": "השנות",
+      "gloss": "kordumise"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "unenäu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juures"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kaks korda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "on kindlaks määratud"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "Elohimi poolt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וממהר",
+      "gloss": "ja kiirustab"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "sedä tegema"
+    }
+  ],
+  "timestamp": "2026-10-20T23:13:44.907718357Z",
+  "model": "glm-5.3"
+}

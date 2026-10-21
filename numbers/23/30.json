@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "iga",
+      "rationale": "heebrea ütleb üksikutes 'altaris' — mitmus 'igal altaril' järeldub kontekstist (seitse altarit, 23:29)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõi üles",
+      "rationale": "ויעל on 'tõusis\/riitis üles' — ohvri verbi kujutis"
+    }
+  ],
+  "translation": "Ja Balak tegi, nii nagu Bileam oli öelnud, ja tõi üles härga ja jäära igal altaril.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "06df11e3cf8896993132f02f86dd848063c454e7f7502231933981c2abe02daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/23\/29-30.1792540207844.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli öelnud"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja tõi üles"
+    },
+    {
+      "surface": "פר",
+      "gloss": "härga"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ja jäära"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "igal altaril"
+    }
+  ],
+  "timestamp": "2026-10-20T23:50:07.844765678Z",
+  "model": "glm-5.3"
+}

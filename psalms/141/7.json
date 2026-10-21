@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לפי שאול",
+      "rationale": "'Šeoli suu' kõlab nagu 'Sauli suu\/käsk' (nõnda YLT) — võimalik vihje Saulile; eesti keeles kõlapilt osaliselt säilinud."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלח",
+      "gloss": null,
+      "rationale": "Haruldane sõna: 'lõikama\/poolitama' — kas künnimaa (nagu ASV) või raiumine (nagu KJV 'küttimispuid') on lahtine."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פולח",
+      "rationale": "פֹלֵחַ esineb siin väga harva; tähendus rekonstrueeritud juure 'lõikama' põhjal."
+    }
+  ],
+  "translation": "Nagu see, kes künnib ja lõhub maad, nõnda on meie luud laiali pillutatud šeoli suule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/141\/5-8.1792554417642.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "künnib"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ja lõhub"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "on laiali pillutatud"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "meie luud"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "suule"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeoli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:57.643426319Z",
+  "model": "glm-5.3"
+}

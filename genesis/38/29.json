@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 38:29",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרצת\/פרץ",
+      "rationale": "Kolm korda sama juur — tegu, väljendus ja nimi: 'läbi murdma \/ murd \/ Perets' — sõnamäng kannab nime tähenduse."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה פרצת עליך פרץ",
+      "rationale": "Küsimus või hüüatus: KJV 'see murd olgu sinu peal' vs JPS 'miks sa endale murdma teadsid' — kas lause on küsimus või tunnistus."
+    },
+    {
+      "kind": "addition",
+      "subject": "olgu",
+      "rationale": "Heebrea lause on nimetav, eesti keel nõuab verbi 'olgu'."
+    }
+  ],
+  "translation": "Ja sündis: kui ta tõmbas tagasi oma kätt, siis vaata, välja tuli tema vend, ja ta ütles: Kuidas sa oled endale läbi murdnud? Sinu peal olgu see murd! Ja tema nimeks kutsuti Perets.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb2ebc3c959a2611fe1ba35778edbc2d89a6d61356c989cb55ed55ef78baa227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/38\/29-30.1792537987782.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "כמשיב",
+      "gloss": "kui ta tõmbas tagasi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma kätt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "siis vaata"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "välja tuli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "tema vend"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kuidas"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "sa oled läbi murdnud"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu peal"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "see murd"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ja kutsuti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimeks"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    }
+  ],
+  "timestamp": "2026-10-20T23:13:07.783623365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ilmutagu",
+      "rationale": "יראה on passiivis 'näidatagu' — 'ilmutagu' on nõrgem järelduslik vorm."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בניהם",
+      "rationale": "Võimalik ka 'nende poegadele', kuid 'lapsed' hõlmab laiemalt."
+    }
+  ],
+  "translation": "Ilmutagu oma sulastele oma teo ja oma hiilgus nende lastele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/13-16.1792553614563.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ilmutagu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-le"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sulastele"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "oma teo"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ja oma hiilgus"
+    },
+    {
+      "surface": "על",
+      "gloss": "-le"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "nende lastele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:34.565011327Z",
+  "model": "glm-5.3"
+}

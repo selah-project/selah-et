@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ei ole⟩",
+      "rationale": "Eesti eitus paigutatud nurksulgudesse, sest אין on jada lõpus ja לה 'tema jaoks' jääb eestis kokku sulanduma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tamm",
+      "rationale": "אלה: tamm või terebint; sama puu kui 1:29 אילים."
+    }
+  ],
+  "translation": "Sest te olete nagu tamm, mille leht närbub, ja nagu aed, millel ⟨ei ole⟩ vett.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/1\/29-31.1792546623607.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "te olete"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "nagu tamm"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "närbub"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "leht"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ja nagu aed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millel"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-21T01:37:03.608083281Z",
+  "model": "glm-5.3"
+}

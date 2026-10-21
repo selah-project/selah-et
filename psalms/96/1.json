@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kogu maale",
+      "rationale": "Kolmekordne kõnetus: laulge, laulge — kogu maa kutsutakse laulma."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שירו…שיר…שירו",
+      "rationale": "Korduv juur שיר kolm kord: laulge-laulu-laulge, eesti keeles säilitatud."
+    }
+  ],
+  "translation": "Laulge Jahvele uut laulu, laulge Jahvele, kogu maa!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/96\/1-4.1792553719621.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Laulge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uut"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "laulge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:19.621947445Z",
+  "model": "glm-5.3"
+}

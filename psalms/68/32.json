@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תריץ ידיו",
+      "rationale": "Otse: 'jooksutab oma käed' — eesti keeles 'ruttab sirutama käed'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חשמנים",
+      "rationale": "'Õilsad\/rikkad' vs 'saadikud' (KJV 'princes') — kumb tähendus, jääb lahtiseks."
+    }
+  ],
+  "translation": "Tulevad õilsad Mitsraimist; Kuš jooksutab oma käed Elohimi poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/29-32.1792553245932.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "tulevad"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "õilsad"
+    },
+    {
+      "surface": "מני",
+      "gloss": "…ist"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "jooksutab"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "oma käed"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimi poole"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:25.933665734Z",
+  "model": "glm-5.3"
+}

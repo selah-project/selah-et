@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨alleerida⟩",
+      "rationale": "Heebrea ütleb sõna-sõnalt 'ei suutnud mind' — tegelik tegu (ülejõu käia) on eesti jaoks lisatud."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם",
+      "rationale": "'gam' tähistab siin adwersatiivset vastandust ('aga\/kuid'), mitte 'samuti' — tuntud tõlke lahukoht."
+    }
+  ],
+  "translation": "palju on nad mind rõhunud oma noorusajast, aga nad ei suutnud mind ⟨alleerida⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/129\/1-4.1792554212362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "palju"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "on nad mind rõhunud"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "oma noorusajast"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suutnud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind ⟨alleerida⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:32.363739265Z",
+  "model": "glm-5.3"
+}

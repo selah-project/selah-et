@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנאן",
+      "rationale": "tume sõna: 'šinan' 'kordama' (LXX 'tuhandeid kordusristi'), või kohanimi\/päritolu — jäetud kõlaliselt 'šinani'"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבתים אלפי",
+      "rationale": "arv: 'kaks kümnet tuhandest' (KJV 'twenty thousand') vs lihtsalt 'lugematu hulk'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨ja⟩",
+      "rationale": "heebrea fraas on nimetav, kopeeritud eesti jaoks; sõnajärg ebaselge juba iidses pärimuses"
+    }
+  ],
+  "translation": "Elohimi vankrid on kümned tuhanded, tuhanded tuhandeid šinani; Adonai ⟨on⟩ nende seas, Sinais, ⟨ja⟩ pühas paigas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/17-20.1792553238893.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "vankrid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "kümned tuhanded"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tuhanded"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "šinani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nende seas"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinais"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "pühas paigas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:18.894303791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeer; eesti imperatiivi-side nõuab 'on'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumalad",
+      "rationale": "אלהים siin rahvaste jumalad (Ps 96:5), mitte Nimi — väike täht, mitte Elohim."
+    }
+  ],
+  "translation": "Sest suur on Jahve ja väga kiiduväärne, kardetav on tema kõigi jumalade kohal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "506f16ef13835566f27b5b0685a3ea3fd8e5dd8d9a397b263b0c7bce35662165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/96\/1-4.1792553719621.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "on Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ja kiiduväärne"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kardetav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on tema"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalade"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:19.622485267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopusula; eesti keel nõuab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pühamu",
+      "rationale": "מקדש on pühitsetud koht; terviklikult 'pühamu', mitte 'pühamaja'"
+    }
+  ],
+  "translation": "Ja tema pööras mind tagasi ⟨את⟩ tee juurde, välise pühamu värava, mis on pööratud itta, ja see oli suletud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/44\/1-4.1792550789366.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja tema pööras tagasi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mind"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "שער",
+      "gloss": "värava"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "pühamu"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "väline"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "pööratud"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "itta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja see"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "oli suletud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:46:29.366735134Z",
+  "model": "glm-5.3"
+}

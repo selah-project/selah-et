@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olnud⟩",
+      "rationale": "Eesti keele koostamisviis nõuab kaasafööd, heebrea osasõna seda ei kanna."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile (pagendusele)",
+      "rationale": "Neli otseküsimust pöörduvad vahetult kuulaja poole."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "neljakordne הלוא",
+      "rationale": "Korduv eitus küsimustes teeb värsile ridmuse, mis eesti keeles osaliselt säilib."
+    }
+  ],
+  "translation": "Ega te ei tea? Ega te ei kuule? Ega teile ei ole kuulutatud ⟨olnud⟩ algusest peale? Ega te ei mõista maa aluseid?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/40\/21-24.1792547373009.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "te ei tea"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "te ei kuule"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "on kuulutatud"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "algusest peale"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "te ei mõista"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "aluseid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T01:49:33.009821389Z",
+  "model": "glm-5.3"
+}

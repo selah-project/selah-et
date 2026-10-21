@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחנהו",
+      "rationale": "Ainsuse asesõna 'tema\/oma' laagri kohta: kas Jumala laager või rahva oma — enamik tõlkeid loeb 'nende laager'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למשכנתיו",
+      "rationale": "miškan-juur: 'telgid' hoitud, mitte 'kogudusetelk', sest siin on rahva elamud."
+    }
+  ],
+  "translation": "Ja ta laskis selle langeda laagri keskele, ümber nende telkide.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/25-28.1792553455141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ja ta laskis langeda"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "keskele"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "laagri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "nende telkide"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:55.142186138Z",
+  "model": "glm-5.3"
+}

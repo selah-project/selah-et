@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jumalad",
+      "rationale": "אלהיהם viitab Jisraeli Elohimile, kuid aramealased räägivad rahvaste jumaladest — kirjutatud väikese tähega nagu kõne ise."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "H854 'koos', mitte objektimarker H853; sõna-sõnalt 'võidelgem koos nendega'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אם לא",
+      "rationale": "Küsimuse 'eks me ole...' asemel võib lugeda kindlustuse: 'kindlasti oleme nendest tugevamad'."
+    }
+  ],
+  "translation": "Ja Arami kuninga teenrid ütlesid talle: Mägede jumalad on nende jumalad, seepärast olid nad meist tugevamad; aga võidelgem ⟨את⟩ nendega tasandikul — eks me ole siis nendest tugevamad?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "889dae7ce904527d9eaaf6e39f9b90c8f263e676245d73c310d8510a07336956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/20\/21-24.1792545674676.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "ja teenrid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ütlesid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalad"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägede"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nende jumalad"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "olid tugevamad"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "meist"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "aga"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "võidelgem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nendega"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "tasandikul"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "ole tugevamad"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nendest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:21:14.679166436Z",
+  "model": "glm-5.3"
+}

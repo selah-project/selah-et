@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ta",
+      "rationale": "Subjekt on nimeta; Jahvi kõne (9:7–8 kontekst), eesti nõuab asesõna ⟨ta⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "küsib jagu",
+      "rationale": "פקד tähendab 'külastama' sõbralikul või vaenulikul eesmärgil; siin karistuse mõttes."
+    }
+  ],
+  "translation": "Süvitsi nad rikkusid enda, nagu Gibea päevil; ta meenutab nende süüd, ta küsib jagu nende pattudest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/9\/9-12.1792550983978.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "süvitsi rikkusid"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "rikkusid enda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "nagu päevil"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "ta meenutab"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nende süüd"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "ta küsib jagu"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "nende pattudest"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:43.979463177Z",
+  "model": "glm-5.3"
+}

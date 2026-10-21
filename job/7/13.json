@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשיחי",
+      "rationale": "שיח tähendab nii 'mõtisklus' kui 'kurtmine'; KJV\/JPS 'complaint', teised 'meditation' — valin 'põend' kurtmise tähenduses."
+    },
+    {
+      "kind": "alternative",
+      "subject": "kui ma ütlesin",
+      "rationale": "כי võib tähendada ka 'sest': 'sest ma ütlesin... (aga)', nagu YLT 'When I said... He taketh away'."
+    }
+  ],
+  "translation": "Kui ma ütlesin: mu voodi trööstigu mind, mu magamiskoht kandku ära mu põend —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/7\/13-16.1792555133309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ma ütlesin"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "trööstigu mind"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "mu voodi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kandku ära"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "mu põend"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mu magamiskoht"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:53.310024345Z",
+  "model": "glm-5.3"
+}

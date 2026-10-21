@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמאס \/ מאס",
+      "rationale": "sama juure kordus: hõbe visati ära, sest Jahve põlgas nad ära"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keeles vajalik olemasoluverb, heebrea seda ei kasuta"
+    }
+  ],
+  "translation": "Hõbedaks, mis ⟨on⟩ ära visatud, kutsuvad nad neid, sest Jahve on nad ära põlanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80d4d6ee42ff02ee4912cc582599749c605c23a459553b778d670232c6710280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/6\/29-30.1792548123272.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "hõbedaks"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ära visatud"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kutsuvad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "on ära põlanud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:02:03.273959024Z",
+  "model": "glm-5.3"
+}

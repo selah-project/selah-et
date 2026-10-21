@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אז אשיב",
+      "rationale": "'siis pean tagasi andma' (KJV\/BSB) vs küsimus 'kas peaksin tagasi andma?' (JPS) — אז võimaldab mõlemat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצמו \/ מצמיתי",
+      "rationale": "kahe korduva juurega tegusõna ('vägevad \/ hävitajad') jääb eesti keeles lõdvaks"
+    },
+    {
+      "kind": "elision",
+      "subject": "חנם",
+      "rationale": "'tasuta, ilma põhjuseta' on lisatud nurksulgudesse, sest eesti lause selgus nõuab seda"
+    }
+  ],
+  "translation": "Rohkem on neid, kes mind vihkavad, kui juukseid mu peal; kärsa-vägevad on need, kes mind hävitavad, mu vaenlased ‹valetades›, ‹see›, mida ma ei röövinud — siis pean tagasi andma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/5-8.1792553168242.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "rohkem on"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "juukseid"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu peal"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kes mind vihkavad"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "‹ilma põhjuseta›"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kärsa-vägevad"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "kes mind hävitavad"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mu vaenlased"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valetades"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‹see›, mida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ma röövinud"
+    },
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "pean tagasi andma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:08.243466751Z",
+  "model": "glm-5.3"
+}

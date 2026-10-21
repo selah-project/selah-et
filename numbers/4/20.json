@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבלע",
+      "rationale": "Tähestikult 'kui (see) alla neelatakse': YLT 'when the holy thing is swallowed' vs KJV\/JPS 'when the holy things are covered' vs ASV 'even for a moment'"
+    },
+    {
+      "kind": "hapax-koht",
+      "subject": "בלע",
+      "rationale": "Sõna 'neelata' kasutus siin on selles kontekstis ebatavaline ja tõlkijaid jagab"
+    }
+  ],
+  "translation": "Aga ärgu nad astugu sisse vaatama, kui ⟨את⟩ pühaneit alla neelatakse, et nad ei sureks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "45d4616ce6586472e8b54cd37ee325fdc1a155ac0b1a1f15e09e6b296929fb44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/17-20.1792539755543.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "aga ärgu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "astugu sisse"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vaatama"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "kui alla neelatakse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pühaneid"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pühaneit"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "et nad ei sureks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:42:35.544618679Z",
+  "model": "glm-5.3"
+}

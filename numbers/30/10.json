@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ puudub",
+      "rationale": "Eesti kõlarükmi tõttu kasutatud mõttekriipsu; heebrea üsnominalkonstruktsioon jääb sidumata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud, mitte 'hing' lahtises mõttes"
+    }
+  ],
+  "translation": "Ja lesena ja ära-aetu ande — kõik, mis ta oma hinge peale sidus, jääb tema peale püsima.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/30\/9-12.1792540428546.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "ande"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "lese"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ja ära-aetu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "sidus"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "oma hinge"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "jääb püsima"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tema peale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:53:48.547278742Z",
+  "model": "glm-5.3"
+}

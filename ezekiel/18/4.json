@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingav olend, elujõud, kõri' — mitte immateriaalne 'hing' hilisemas mõttes"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "emfaatiline partikkel, mis rõhutab kuuluvust Minule, eesti keeles välja jäänud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי הנה",
+      "rationale": "korduv kaja 'Minu omad — Minu omad' ümbritseb kiasmi ISA—POEG, mis tõlkes paistab, kuid ei ole võrdselt sümmeetriline"
+    }
+  ],
+  "translation": "Vaata, kõik hingused on Minu omad; nagu isa hing, nõnda ka poja hing — Minu omad; hing, kes patustab, see sureb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/18\/1-4.1792550057448.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "hingused"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Minu omad"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "nagu hing"
+    },
+    {
+      "surface": "האב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "nõnda ka hing"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "poja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Minu omad"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "kes patustab"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sureb"
+    }
+  ],
+  "timestamp": "2026-10-21T02:34:17.450224973Z",
+  "model": "glm-5.3"
+}

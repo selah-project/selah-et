@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sina⟩",
+      "rationale": "Eesti keeles vajalik subjekt, heebrea laseb verbi-vormis endas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kitsikuses...avarust",
+      "rationale": "בצר 'kitsas koht' ja רחב 'laidaks tegema' on ruumiline pilt ahastusest ja vabastusest."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogu salm",
+      "rationale": "Otse palve Elohimile, hüüd imperatiivides: vasta, ole armuline, kuule."
+    }
+  ],
+  "translation": "Kui ma hüüan, vasta mulle, mu tsedeki Elohim; kitsikuses tegid ⟨sina⟩ mulle avarust, ole mulle armuline ja kuule mu palvet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/4\/1-4.1792552168742.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Kui ma hüüan"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "vasta mulle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "mu tsedeki"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kitsikuses"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "tegid avarust"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ole mulle armuline"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ja kuule"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palvet"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:28.742761110Z",
+  "model": "glm-5.3"
+}

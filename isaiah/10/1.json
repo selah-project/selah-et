@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "äranullimise",
+      "rationale": "און tähendab 'tühjus, pahatus, äranullimine' — üks sõna, mitte lihtsalt 'kuri'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חקקים \/ חקקי",
+      "rationale": "sama juure kordus: 'määrajad ... määrusi', kaja jääb eesti keeles sõnadeühtlusega"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Häda",
+      "rationale": "הוי on\/prohvetlik hüüd, mis pöördub kohtumõistjate poole"
+    }
+  ],
+  "translation": "Häda neile, kes määravad äranullimise määrusi, ja kirjutajad, kes kirjutavad vaeva!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/10\/1-4.1792546801564.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Häda"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "neile, kes määravad"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "määrusi"
+    },
+    {
+      "surface": "און",
+      "gloss": "äranullimise"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ja kirjutajad"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaeva"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "kes kirjutavad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:40:01.565448800Z",
+  "model": "glm-5.3"
+}

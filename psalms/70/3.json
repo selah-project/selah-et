@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mu elu",
+      "rationale": "נפשי on 'mu hing(elu-jõud)', eesti keeles 'mu elu' lähim loomulik vaste."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "Kolm sünonüümset häbi-verbi korduva rütmiga; eesti keeles kaob osa nüansidest."
+    }
+  ],
+  "translation": "Jäägu nad häbisse ja jäägu nad piinlikusse häbi, kes otsivad mu elu; taganegu nad tahapoole ja jäägu nad häbitusse, kes minu kurja ihaldavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/70\/1-4.1792553197858.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "jäägu nad häbisse"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ja jäägu nad piinlikku"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kes otsivad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "taganegu nad"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tahapoole"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ja jäägu nad häbitusse"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kes ihaldavad"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mu kurja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:37.858957704Z",
+  "model": "glm-5.3"
+}

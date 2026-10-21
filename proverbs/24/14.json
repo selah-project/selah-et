@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 24:14",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oma⟩ · ⟨selle⟩",
+      "rationale": "eesti keel vajab possessiive, heebrea lõpp-vormid kannavad neid"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית",
+      "rationale": "'tulevik\/pärastlõunasõstar' vs KJV 'reward (tasu)' — sõna tähendab lõppu, tulevikku, ka järeltulijaid"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lootus",
+      "rationale": "תקוה on otseselt 'köis, tross' — kujundlikult lootus, köie läbilõikamine"
+    }
+  ],
+  "translation": "Nõnda mõista tarkust ⟨oma⟩ hingele; kui sa oled ⟨selle⟩ leidnud, ⟨on olemas⟩ tulevik, ja sinu lootus ei lõigata läbi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/24\/13-16.1792554914864.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Nõnda"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "mõista"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "⟨oma⟩ hingele"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "oled ⟨selle⟩ leidnud"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "⟨on olemas⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tulevik"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ja sinu lootus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "lõigata läbi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:14.865512033Z",
+  "model": "glm-5.3"
+}

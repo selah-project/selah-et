@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Jisraelile",
+      "rationale": "salmitähte kutsub kogu Jisraeli üles lausuma: ütelgu nüüd Jisrael"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שיר המעלות",
+      "rationale": "sõn-sõnalt 'astmiste laul'; 'palverännulaul' on tõlkeline valik, kirjeldus kaotab astmete\/põlvnemise pildi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לולי",
+      "rationale": "'kui ei oleks' või 'kui poleks olnud meie jaoks' — vastupidav tingimus lauses"
+    }
+  ],
+  "translation": "Palverännulaul, Davidi oma. Kui Jahve ei oleks olnud meie pool — nii ütelgu nüüd Jisrael —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/124\/1-4.1792554221398.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "laul"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "palverännulaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "kui ei oleks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meie pool"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütelgu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:41.399482391Z",
+  "model": "glm-5.3"
+}

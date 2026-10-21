@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפריון",
+      "rationale": "Sõna esineb Tanahhis ainult siin; tähendus 'kandetool \/ ahjärk' järeletuletatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "kandetool",
+      "rationale": "KJV 'chariot' (vanker), Geneva 'palace' (palee) vs 'palanquin' (kandetool)"
+    }
+  ],
+  "translation": "Kandetooli tegi enesele kuningas Šelomo Liibanoni puust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/3\/9-11.1792555770135.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "Kandetooli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "enesele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "puust"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Liibanoni"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:30.136488783Z",
+  "model": "glm-5.3"
+}

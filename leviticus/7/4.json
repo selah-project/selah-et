@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maksasagarik",
+      "rationale": "היתרת on maksa üleliigne sagar\/kile — 'kalgul' või 'kõõlus' jätaks pildi kahvatuks"
+    },
+    {
+      "kind": "crux",
+      "subject": "על הכלית יסירנה",
+      "rationale": "Kas neerud eemaldatakse koos maksasagarikuga, või sagarik neerude juurest — tõlkijad lahenevad erinevalt"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ kaks neeru ja ⟨את⟩ rasva, mis on nende peal, mis on nimmedel, ja ⟨את⟩ maksasagariku maksal — neerude juures eemaldab ta selle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/7\/1-4.1792539179851.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kaks neeru"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "neeru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasva"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "rasva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "on nende peal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "nimmedel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maksasagariku"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "maksasagariku"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "maksal"
+    },
+    {
+      "surface": "על",
+      "gloss": "juures"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "neerude"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "eemaldab ta selle"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:59.852325182Z",
+  "model": "glm-5.3"
+}

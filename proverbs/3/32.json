@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jälestab",
+      "rationale": "Heebrea on nimeline: 'kõrvalekalduja on Jahve jäledus (תועבה)' — tegusõna lisati eesti loomulikkuse nimel."
+    },
+    {
+      "kind": "crux",
+      "subject": "salanõu",
+      "rationale": "סוד tähendab 'nõupidamine, salajane nõu, lähedane selts'; 'tema salanõu' vs 'tema sõprus\/õpetus' (ASV 'friendship')."
+    },
+    {
+      "kind": "secret",
+      "subject": "סודו",
+      "rationale": "Jahve salanõu on otustega — peidetud, usalduslik teadmise motiiv."
+    }
+  ],
+  "translation": "Sest Jahve jälestab kõrvalekaldujat, aga ⟨את⟩ õigete jaoks on tema salanõu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/29-32.1792554508409.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "jälestab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "kõrvalekaldujat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ aga",
+      "marks": "õigete jaoks"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "õigete"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "tema salanõu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:28.410655396Z",
+  "model": "glm-5.3"
+}

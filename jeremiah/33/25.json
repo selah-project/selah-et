@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כה אמר יהוה",
+      "rationale": "kõnetähistuse vormel 'nõnda ütleb Jahve', eesti tavapärane kõnekäänd"
+    },
+    {
+      "kind": "addition",
+      "subject": "seisa",
+      "rationale": "heebrea ladus tingimuslauses puudub verbi 'olla' predikaat, eesti keel vajab täiendust"
+    },
+    {
+      "kind": "crux",
+      "subject": "יומם ולילה",
+      "rationale": "otseselt 'päeval ja öösel' vs 'päeva ja ööga' — kas leping on päevaga või kestab päeval"
+    }
+  ],
+  "translation": "Nõnda ütleb Jahve: kui mu leping ei seisa päeva ja ööga, ja kui ma ei ole seadnud taeva ja maa määrusi —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d5fd3a2c059d096e7708b9bd2d1893957ba6421ab2b8532a493d0fd7413930d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/33\/25-26.1792548845182.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mu leping"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja ööga"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "määrusi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ole ma seadnud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:14:05.183382354Z",
+  "model": "glm-5.3"
+}

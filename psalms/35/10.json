@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "kogu salm on otsene pöördumine Jahve poole küsimusega 'kes on nagu sina'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kes on",
+      "rationale": "מחזק nimisõnaline vorm laiendatud keerdkonstruktsiooniks 'temast, kes on tugevam'"
+    }
+  ],
+  "translation": "Kõik mu luud ütlevad: Jahve, kes on nagu sina, kes päästavad ⟨את⟩ vaese temast, kes on temast tugevam, ja vaese ja puuduseselle tema röövjast?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/9-12.1792552623092.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mu luud"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ütlevad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nagu sina"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "päästavad"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "temast, kes on tugevam"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ja vaese"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja puuduseselle"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "tema röövjast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:03.093128098Z",
+  "model": "glm-5.3"
+}

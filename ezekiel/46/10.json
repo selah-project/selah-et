@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vürst",
+      "rationale": "נשיא tähendab 'ülendatud', kõrgesse seatu; 'vürst' on roll, mitte sõna pilt"
+    },
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Heebrea jaatavas käsus puudub asesõna; eesti keel vajab seda selguseks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבואם יבוא \/ בצאתם יצאו",
+      "rationale": "Infinitivuse ja finiitse verbi samatüvelisus moodustab peeglikaja, mis eesti keeles osaliselt säilub"
+    }
+  ],
+  "translation": "Ja vürst olgu nende keskel: nende sissetulles tuleb ⟨tema⟩ sisse ja nende väljaminekul läheb ⟨tema⟩ välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0ef378194119b8d14c87528035384b8ff9cc523a99d2fbdba2230ef33ca3c00c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/46\/10-11.1792558526936.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "ja vürst"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "nende keskel"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "nende sissetulles"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb sisse"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "ja nende väljaminekul"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lähevad välja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:26.940814797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppula; eesti lause nõuab selle"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pika vihaga",
+      "rationale": "ארך אפים sõna-sõnalt 'pika nina(sontega)' — viha kujutatakse ninast auravana; 'pikameelne' on vana idiom"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäeti kõlaga sõnaks 'hesed', mitte 'halastus' üksi"
+    }
+  ],
+  "translation": "Armuline ja halastaja ⟨on⟩ Jahve, pika vihaga ja suure hesediga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/5-8.1792554375741.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Armuline"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ja halastaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pika"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "vihaga"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ja suure"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesediga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:15.742235961Z",
+  "model": "glm-5.3"
+}

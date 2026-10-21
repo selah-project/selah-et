@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "istud",
+      "rationale": "תשב 'istud\/troonid' vs 'jääd püsima' — JPS 'sittest enthroned', KJV 'shall endure'; heebrea kõlab sõna-sõnalt 'istud'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "põlvest põlven",
+      "rationale": "לדר ודר — põlv põlve järjestus, ajamõõt Nime mälestusele."
+    }
+  ],
+  "translation": "Aga sina, Jahve, istud igavesesti, ja sinu mälestus põlvest põlven.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/13-16.1792553711651.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "aga sina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesesti"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "istud"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ja sinu mälestus"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "põlven"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:11.652303410Z",
+  "model": "glm-5.3"
+}

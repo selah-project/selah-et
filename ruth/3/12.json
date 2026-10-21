@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "Kaks võimalust: kas 'ja tõesti' (kinnitus) või tingiv 'kuigi' — Vanakreeka ja ladina tõlked loevad tingivalt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Ja nüüd on tõesti nii",
+      "rationale": "כי אם kui kinnituse partikkel: 'ja nüüd, tõesti, mina olen lunastaja...'"
+    }
+  ],
+  "translation": "Ja nüüd, kuigi tõesti tõsi on, et mina olen lunastaja, on ka olemas lunastaja, kes on mulle lähemal kui mina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/3\/9-12.1792555895663.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nüüd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuigi"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "tõesti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tõsi on"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lunastaja"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina olen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "on ka"
+    },
+    {
+      "surface": "יש",
+      "gloss": "olemas"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "lunastaja"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähemal"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kui mina"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:35.664798898Z",
+  "model": "glm-5.3"
+}

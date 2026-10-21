@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 21:1",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בקש את פני יהוה",
+      "rationale": "otsis Jahve nägu — idiom 'pöördus Jahve poole \/ küsis Jahvelt'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בית הדמים",
+      "rationale": "'verine perekond' (KJV) vs 'veri, (pärand) perekonnale' — Heebrea tekst on tumedam kui tõlked."
+    },
+    {
+      "kind": "addition",
+      "subject": "ja ütles Jahve",
+      "rationale": "Heebrea ütleb otse: 'ja Jahve ütles: Šauli ja verist perekonda pärast...' — kõne on vastuseta küsimusele, mida tekst ei tsiteeri."
+    }
+  ],
+  "translation": "Ja oli nälga Davidi päevil kolm aastat, aasta järjest aasta järel; ja David otsis ⟨את⟩ Jahve nägu, ja Jahve ütles: Šauli ja verist perekonna pärast, et ta tappis ⟨את⟩ gibeonlased.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/21\/1-4.1792545055692.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälga"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päevil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järjest"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta järel"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ja otsis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nägu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "perekonna"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "verist"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "המית",
+      "gloss": "tappis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gibeonlased"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "gibeonlased"
+    }
+  ],
+  "timestamp": "2026-10-21T01:10:55.694239833Z",
+  "model": "glm-5.3"
+}

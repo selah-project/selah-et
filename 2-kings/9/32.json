@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מי אתי מי",
+      "rationale": "Korduv 'kes' — kõne kaja aknalt, rõhutab kutsungit."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "אתי on selles kohal prepositsioon 'minuga' (H854), mitte otsese objekti marker; ⟨את⟩ on säilitatud struktuuri tähiseks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "õunukud",
+      "rationale": "סריס võib tähendada nii õunukku kui paleeametnikku; 'õunukud' järgib sõna kuju."
+    }
+  ],
+  "translation": "Ja Jehuu tõstis oma näo akna poole ja ütles: Kes on ⟨את⟩ minuga, kes? Ja nad kaldusid tema poole välja, kaks-kolm õunukku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/9\/29-32.1792545970584.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ja tõstis"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oma näo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "akna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kes"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minuga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "ja kaldusid välja"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tema poole"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "õunukku"
+    }
+  ],
+  "timestamp": "2026-10-21T01:26:10.586084175Z",
+  "model": "glm-5.3"
+}

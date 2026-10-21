@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaenlastest",
+      "rationale": "צר jälle 'kitsakoht, ahistaja', eestis 'vaenlane'"
+    }
+  ],
+  "translation": "Sest sina päästsid meid meie vaenlastest ja need, kes meid vihkavad, oled sa häbistanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/44\/5-8.1792552827951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "sina päästsid meid"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "meie vaenlastest"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ja need, kes meid vihkavad"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "oled sa häbistanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:27.953026942Z",
+  "model": "glm-5.3"
+}

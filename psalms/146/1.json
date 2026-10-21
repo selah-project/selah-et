@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on hingamav, elujõud, mitte mateeriatu 'hing' hilisemas mõttes"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "Käsk 'Kiitke Jah!' kõnetab kuulajaid otse"
+    }
+  ],
+  "translation": "Kiitke Jah! Kiida, mu hing, ⟨את⟩ Jahvet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/146\/1-4.1792554389290.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Kiida"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:29.291539444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "באשישות",
+      "rationale": "Rosinakook — haruldane sõna, tõlkijad lahkarvamusel: viinamarjadest pressitud kook vs. veinianumad (KJV 'flagoons')."
+    },
+    {
+      "kind": "crux",
+      "subject": "חולת אהבה",
+      "rationale": "Otseselt 'armastusest haige\/nõrk' — idiom, mida eesti keeles peab väljendama ühe liitsõnaga."
+    }
+  ],
+  "translation": "Sõigutage mind rosinakookidega, toetage mind õuntega, sest armastushaigena ⟨olen⟩ ma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a8e4ff521e79130072931154f13756e4a88c683f0908c6de7f7e8d0497d86da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/2\/5-8.1792555785120.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "sõigutage mind"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "rosinakookidega"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "toetage mind"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "õuntega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "armastushaigena"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "armastus-"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ma"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:45.121228278Z",
+  "model": "glm-5.3"
+}

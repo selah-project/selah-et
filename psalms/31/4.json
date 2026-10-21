@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Eesti keel nõuab oleviku; heebrea on verbitu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחני \/ ותנהלני",
+      "rationale": "Kaks peaaegu ühesugust juhatamise verbi kõrvuti — peaaegu paaris, eesti keeles eristatud kui 'juhi' ja 'saada teel'"
+    }
+  ],
+  "translation": "Sest sina oled mu kalju ja mu kindlus; ja oma nime pärast juhi mind ja saada mind teel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/1-4.1792552662291.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ja mu kindlus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina oled"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja ... pärast"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "oma nime"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "juhi mind"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ja saada mind teel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:42.292921136Z",
+  "model": "glm-5.3"
+}

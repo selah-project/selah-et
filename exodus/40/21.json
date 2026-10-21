@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 40:21",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškan",
+      "rationale": "המשכן jääb vastavalt keelereeglitele ühte kirjapilti miškan, mitte 'telk' või 'paik'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kattes sellega",
+      "rationale": "ויסך על otsetõlge 'ja kattis üle' — verb kordab juurt, mis paistab ka nimetuses 'katte eesriide'"
+    }
+  ],
+  "translation": "Ja ta tõi ⟨את⟩ arki miškani ja pani üles ⟨את⟩ katte eesriide ja kattes sellega tunnistuse arki, nii nagu Jahve oli Mošele käskinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca386917ae716b1888d0e1f4f11a0d75aa51c4f81888070e677886de7de03e35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/40\/21-24.1792539074553.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja ta tõi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arki"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "miškani"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškani"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja pani üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katte eesriide"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "eesriide"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "katte"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ja kattes sellega"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arki"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "tunnistuse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:31:14.553892844Z",
+  "model": "glm-5.3"
+}

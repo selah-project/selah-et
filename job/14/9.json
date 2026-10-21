@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saaki",
+      "rationale": "קציר tähendab 'lõigatut, saaki, võrseid'; KJV 'boughes' on tõlgendus"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea puudub subjekt; vihjab juurele ja tüvile järgmisest salmist"
+    }
+  ],
+  "translation": "Vee lõhnast puhkeb ⟨ta⟩ õie ja teeb saaki nagu istutatud taim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/14\/9-12.1792555272352.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "lõhnast"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vee"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "puhkeb õie"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja teeb"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "saaki"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "istutatud taim"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:12.352938112Z",
+  "model": "glm-5.3"
+}

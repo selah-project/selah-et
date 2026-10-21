@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koopula, mida heebrea nimetalalause ei vaja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה kui 'õigusesaime\/vagadus' — hoitud juurekõla tsedek, mitte üksi 'õigus'"
+    }
+  ],
+  "translation": "Rikkus ja küllus ⟨on⟩ tema hoones, ja tema tsedek püsib igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/112\/1-4.1792553965745.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Rikkus"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ja küllus"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "tema hoones"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ja tema tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "püsib"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:25.746774871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרוב ... קרוב",
+      "rationale": "Repetition of 'near' frames the verse with urgency; kept in Estonian by repeating 'lähedal'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מר צורח שם גבור",
+      "rationale": "Word order debated: 'bitterly cries there the mighty man' (KJV\/JPS) vs 'the cry of the mighty is bitter' (BSB); Estonian follows the Hebrew word order."
+    }
+  ],
+  "translation": "Lähedal on Jahve suur päev, lähedal ja tuleb väga kiiresti; hääl Jahve päeval — kibeda hädakarje tõstab seal võimas mees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/1\/13-16.1792551716420.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "lähedal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähedal"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "ja kiiresti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kibeda"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "hädakarjet tõstab"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "võimas mees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:01:56.421519503Z",
+  "model": "glm-5.3"
+}

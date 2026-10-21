@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Eesti keel vajab objektipronoomi, heebrea sulandub sün-taglikus tekstis sees"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Suhtesõna 'kuni' kattub eestlastega ega vaja eraldi sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפניו",
+      "rationale": "Sõn-sõnalt 'tema palgest' — 'oma palge eest' peegeldab idioomi 'kellestki lahkumist'"
+    }
+  ],
+  "translation": "Ja Jahve põlgas kogu Jisraeli seemne ning nørgestas ⟨nad⟩ ja andis nad röövijate kätte, kuni ta ⟨nad⟩ oma palge eest ära heitis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc128c8c9619b143943d0a769daba7e4c29afa88bd177c341f419a2b1bdcafa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/17\/20-20.1792558343924.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ja põlgas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seemne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ja nørgestas"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ja andis nad"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "röövijate"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "heitiskohast"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "oma palge eest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:23.925306093Z",
+  "model": "glm-5.3"
+}

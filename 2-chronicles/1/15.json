@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tegi \/ andis",
+      "rationale": "נתן 'andma' kasutus mõjutusena: tegi olema, andis külluseks"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Suhtelause köitev verbi lisand, heebreas puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kivide ja puude võrdlus",
+      "rationale": "Kaks tasandilist kujundit — metall nagu kivi, seeder nagu moorusviigupuu — rõhutavad ülevoolavat küllust"
+    }
+  ],
+  "translation": "Ja kuningas tegi ⟨את⟩ hõbeda ja ⟨את⟩ kulla Jerušalaimis nagu kive, ja ⟨את⟩ seederpuud andis ta nagu moorusviigupuud, mis ⟨on⟩ madalikul, küllusega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/1\/13-16.1792557645330.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ja tegi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hõbeda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hõbeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kulla"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kulla"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "nagu kive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "seederpuud"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "seederpuud"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "nagu moorusviigupuud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "madalikul"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "küllusega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:40:45.331834300Z",
+  "model": "glm-5.3"
+}

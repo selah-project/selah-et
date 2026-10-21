@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Siin on אתם prepositsioon 'nendega' (H854), mitte aleph-tav'i objektimarker (H853) — gloss 'nendega', ilma ⟨את⟩-ta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויכרם \/ ויתנכר",
+      "rationale": "Sama juur נכר: 'tundis ära' ja 'käitus võõrana' — tunnistamine ja võõraks tegemine ühest juurest, eesti keeles kaob siduvus."
+    },
+    {
+      "kind": "you",
+      "subject": "Kust te tulete?",
+      "rationale": "Joosefi otseküsimus vendadele."
+    }
+  ],
+  "translation": "Ja Joosef nägi ⟨את⟩ oma vendi ja tundis nad ära, aga käitus nende ees võõrana ning rääkis ⟨את⟩ nendega kõvasõnaliselt; ja ta ütles neile: Kust te tulete? Ja nad ütlesid: Kenaani maalt, toidu ostma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bb81c7dff511a718e6ceacf51e0c3cadab9e3c7b45af9b1e55e83a91b8ba728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/42\/5-8.1792538105646.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja nägi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma vendi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "oma vendi"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "ja tundis nad ära"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "aga käitus võõrana"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "nende ees"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ja rääkis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nendega"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "kõvasõnaliselt"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Kust"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "te tulete"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja nad ütlesid"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ostma"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "toidu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:15:05.647459312Z",
+  "model": "glm-5.3"
+}

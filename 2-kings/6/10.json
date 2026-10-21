@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kord\/korda",
+      "rationale": "לא אחת ולא שתים on paljas 'mitte üks ega kaks'; eesti idioom vajab sõna 'kord'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא אחת ולא שתים",
+      "rationale": "Heebrea fraas 'mitte üks ega kaks' = 'korduvalt, ikka ja jälle'"
+    }
+  ],
+  "translation": "Ja Jisraeli kuningas saatas selle koha juurde, mille kohta Elohimi mees talle ütles ja hoiatas teda; ja ta jäi seal valvele — mitte üks ⟨kord⟩ ega kaks ⟨korda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b5df42c8ee4da5b782e612421c37db39537b41c4eb129372d258e6b2a1047acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/6\/9-12.1792546034219.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatas"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "selle koha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille kohta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "ja hoiatas teda"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "ja jäi valvele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:27:14.222274088Z",
+  "model": "glm-5.3"
+}

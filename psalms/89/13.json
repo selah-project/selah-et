@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lõuna",
+      "rationale": "וימין on sõna-sõnalt 'parem käsi', ilmakaarena lõuna; kuju läks kaotsi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "põhi ja parem-käsi",
+      "rationale": "kui hoida sõna kuju: 'hidden\/dark' (צפון) vastandina 'paremale' (ימין)"
+    }
+  ],
+  "translation": "Põhja ja lõuna — sina oled nad loonud; Taavor ja Hermon sinu nimel hõiskavad rõõmust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/13-16.1792553653340.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "põhja"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ja lõuna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "oled nad loonud"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Taavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ja Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sinu nimel"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hõiskavad rõõmust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:13.341891816Z",
+  "model": "glm-5.3"
+}

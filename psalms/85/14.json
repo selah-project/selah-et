@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדק",
+      "rationale": "Tsedek jääb heebrea sõnaks — 'õigus' üksi jätaks kõrvale tervikliku tähenduse."
+    },
+    {
+      "kind": "crux",
+      "subject": "לדרך פעמיו",
+      "rationale": "KJV loeb 'seab meid tema sammude teele'; heebrea ütleb sõna-sõnalt 'annab tema sammud teeks'."
+    }
+  ],
+  "translation": "Tsedek käib tema ees ja seab tema sammud teeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/85\/13-14.1792553476277.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "käib"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja seab"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "teeks"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "tema sammud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:16.278338187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 16:15",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה jääb vastavalt distsipliinile translatsiooniks 'minha', mitte 'ohver' või 'kingitus'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויחר",
+      "rationale": "Otseselt 'ja see kuumenes' — Moše pahameele idiom, eestis 'süttis viha'"
+    }
+  ],
+  "translation": "Ja Mošele süttis viha väga, ja ta ütles Jahvele: ära pööra pilku nende minha poole; mitte ühtegi eeslit nendest ma ei ole võtnud, ja ühtegi nendest ma ei ole ⟨את⟩ kahjustanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "290932d617d32a1fd54355b3204508ec58539399152dd46af98f6ce6cf372c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/16\/13-16.1792540100296.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ja süttis viha"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "pööra pilku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "מנחתם",
+      "gloss": "nende minha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eeslit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ühtegi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nendest"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ma ei ole võtnud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "הרעתי",
+      "gloss": "kahjustanud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ühtegi nendest"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ühtegi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nendest"
+    }
+  ],
+  "timestamp": "2026-10-20T23:48:20.297605672Z",
+  "model": "glm-5.3"
+}

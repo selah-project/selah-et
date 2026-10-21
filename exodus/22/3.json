@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המצא תמצא",
+      "rationale": "infinitivus absolutus — 'leides leitakse', kordus teeb tuvastuse kindlaks"
+    },
+    {
+      "kind": "alternative",
+      "subject": "elusana",
+      "rationale": "חיים võib käänata 'tema' kohta (varas jääb ellu) või looma kohta (varastatu leitakse elusana); looma-lugemine on loomulikum"
+    }
+  ],
+  "translation": "Kui varastatu tõepoolest leitakse tema käest elusana — veisest kuni eeslini või talleni —, maksab ta topelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/22\/1-4.1792538684633.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "tõepoolest-leituna"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "leitakse"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tema käest"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "varastatu"
+    },
+    {
+      "surface": "משור",
+      "gloss": "veisest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eeslini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שה",
+      "gloss": "talleni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elusana"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "topelt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "maksab ta"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:44.634194858Z",
+  "model": "glm-5.3"
+}

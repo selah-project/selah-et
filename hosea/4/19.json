@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula puudub heebreas, eesti ⟨on⟩ lisatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "tiibadesse",
+      "rationale": "בכנפיה: 'tiibadesse' (lennukas tuul) vs 'hõlmadesse' (JPS 'skirts')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח hoitud kujul 'ruahh' — tuul\/vaim\/hingus ühes sõnas"
+    }
+  ],
+  "translation": "Sidanud ⟨on⟩ ruahh ⟨ta⟩ oma tiibadesse, ja nad häbenevad oma ohvrite ⟨pärast⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/4\/17-19.1792550986492.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "sidanud"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "oma tiibadesse"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ja nad häbenevad"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "oma ohvrite"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:46.493088123Z",
+  "model": "glm-5.3"
+}

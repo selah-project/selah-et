@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Siion",
+      "rationale": "Jumal kõneleb jätkuvalt Siionile."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עולה",
+      "rationale": "Sõna 'imetavlane' esineb Tanahhis harva; ime-täiend teeb kuju selgesõnaliseks."
+    },
+    {
+      "kind": "crux",
+      "subject": "חקתיך",
+      "rationale": "'Sina tahutud' vs 'su müürid tahutud' — müürid järgnevad eraldi, nii et objekt on Siion ise."
+    }
+  ],
+  "translation": "Vaata, ⟨sina⟩ oled tahutud peale mu peopesadesid; su müürid on pidevalt minu ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/49\/13-16.1792547655508.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mu peopesadesid"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "oled tahutud"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "su müürid"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "minu ees"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pidevalt"
+    }
+  ],
+  "timestamp": "2026-10-21T01:54:15.510241493Z",
+  "model": "glm-5.3"
+}

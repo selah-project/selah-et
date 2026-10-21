@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 32:18",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškan",
+      "rationale": "משכן jääb keelekorra järgi miškaniks, mitte 'kogudusetelk'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנוה שלום",
+      "rationale": "Konstruktiahel 'šalomi aed\/asula' lahtutud eesti täiendussõnaga"
+    }
+  ],
+  "translation": "Ja mu rahvas elab ⟨looma⟩-asulas, ⟨kus on⟩ šalom, ja miškanites, ⟨kus on⟩ kindel turvalisus, ja puhkepaikades, ⟨kus on⟩ rahulik kindlus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/17-20.1792547231782.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ja elab"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "⟨looma⟩-asulas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "ובמשכנות",
+      "gloss": "ja miškanites"
+    },
+    {
+      "surface": "מבטחים",
+      "gloss": "kindel turvalisus"
+    },
+    {
+      "surface": "ובמנוחת",
+      "gloss": "ja puhkepaikades"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "rahulik kindlus"
+    }
+  ],
+  "timestamp": "2026-10-21T01:47:11.785929308Z",
+  "model": "glm-5.3"
+}

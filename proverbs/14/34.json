@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחסד לאמים חטאת",
+      "rationale": "Sõnastus on hämar: 'agа rahvaste heatahtlikkus — patt' (häbi kui vastand tõusele), või 'aga rahvaste häbistajaks on patt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "חסד tähendab 'heldust', aga siin langenud poeesias asendati sõnaga 'häbi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti kord-sõna, mida heebrea andmete ei ole."
+    }
+  ],
+  "translation": "Tsedek ⟨את⟩ rahva üles tõstab, aga rahvaste häbi ⟨on⟩ patt",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6823f1b0db6ec278cbcb264693c993b9f0a7c680c19c729f3768d2279459081f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/33-35.1792554697109.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "Tsedek"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "üles tõstab"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "aga häbi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "patt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:37.109802400Z",
+  "model": "glm-5.3"
+}

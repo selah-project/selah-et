@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בחילך",
+      "rationale": "חיל tähendab sõjaväge\/valli — 'müürid' on kontekstipõhine valik, 'kindlused' või 'vallid' võimalikud."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/שלוה",
+      "rationale": "šalom ja šalvah — sama juur, kaks sõna ühes salmis."
+    }
+  ],
+  "translation": "Olgu šalom su müüride sees, rahulikkus su kindlustes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/122\/5-8.1792554215853.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "su müüride sees"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "rahulikkus"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "su kindlustes"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:35.854419134Z",
+  "model": "glm-5.3"
+}

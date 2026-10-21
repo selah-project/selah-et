@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 30:12",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוחו ei ole siin 'vaim' abstraktses mõttes, vaid elujõud\/hingamine; kõlakuju ruahh hoitakse märksõnana."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צמקים",
+      "rationale": "צמוק — rosinakook — ilmub Tanahhis ainult siin."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm päeva ja kolm ööd",
+      "rationale": "Aja loendus: päevad ja ööd eraldi loetud, nagu heebrea keeles."
+    }
+  ],
+  "translation": "Ja nad andsid talle viilu viigikooki ja kaks rosinakobarat, ja ta sõi, ja tema ruahh tuli temasse tagasi, sest ta ei olnud söönud leiba ega joonud vett kolm päeva ja kolm ööd.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/30\/9-12.1792544405737.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ja nad andsid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "viilu"
+    },
+    {
+      "surface": "דבלה",
+      "gloss": "viigikooki"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja kaks"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "rosinakobarat"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ja ta sõi"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ja tuli tagasi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "tema ruahh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "temasse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "olinud söönud"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "joonud"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ja kolm"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ööd"
+    }
+  ],
+  "timestamp": "2026-10-21T01:00:05.738759523Z",
+  "model": "glm-5.3"
+}

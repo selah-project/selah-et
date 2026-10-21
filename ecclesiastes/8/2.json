@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני פי מלך שמור",
+      "rationale": "'mina [hoian] kuninga suud' vs 'hoia kuninga suud': puudub verb,קוהלeti puuduv käsk; tõlkijad lisavad 'ma nõuan sind'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hoia⟩",
+      "rationale": "heebrea ei ütle minaga mitte ühtegi verbi; kordus⟨hoia⟩ teeb lause eesti keeles arusaadavaks"
+    },
+    {
+      "kind": "you",
+      "subject": "kuulajale",
+      "rationale": "varjatud käsk suundub kuulajale, kes seisab kuninga ja Elohimi ees"
+    }
+  ],
+  "translation": "Mina ⟨hoia⟩: kuninga suu ⟨sina⟩ hoia, ja Elohimi vannet silmas pidades.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/8\/1-4.1792556083916.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hoia"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... pärast"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "vannet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:43.916826889Z",
+  "model": "glm-5.3"
+}

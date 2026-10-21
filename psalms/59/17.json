@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 59:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb heebrea kõlaga sõnaks 'hesed', mitte 'armastus' ega 'halastus' üksi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaljulinnus",
+      "rationale": "משגב on kõrge, ligipääsmatu kalju — 'kõrgem koht', mitte üldine 'kaitse'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "צר לי",
+      "rationale": "sõn-sõnalt 'kitsas on mulle' — heebrea väljend ahastusele; eesti keeles 'mul on kitsas'"
+    }
+  ],
+  "translation": "Aga mina laulan Su väest, ja hommikul hüüan rõõmustades Su hesedist, sest Sina oled olnud mu kaljulinnus, mu pelgupaik päeval, mil mul kitsas on.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/59\/17-18.1792553041873.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aga mina"
+    },
+    {
+      "surface": "אשיר",
+      "gloss": "laulan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "Su väest"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ja hüüan rõõmustades"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Su hesedist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oled olnud"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kaljulinnus"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "ja pelgupaik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mil mul kitsas on"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mul"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:01.873827028Z",
+  "model": "glm-5.3"
+}

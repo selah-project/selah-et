@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הריעו ליהוה כל הארץ",
+      "rationale": "Käsk-kutse kogu maale: psalm avaneb publikut kaasava hüüdega."
+    },
+    {
+      "kind": "crux",
+      "subject": "הריעו",
+      "rationale": "רוע tähendab 'kõrvu lõhkuma (hellega)': 'karjatage' vs 'puhuge pasunaid' vs 'rõõmustage'; kujund helli juhtimisest."
+    }
+  ],
+  "translation": "Psalm tänulauluks. Karjatage Jahvele, kogu maa!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/100\/1-4.1792553732169.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "tänulauluks"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "karjatage"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:32.169583040Z",
+  "model": "glm-5.3"
+}

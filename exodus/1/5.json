@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingetu\/elusolend', mitte hingesell; 'kõik hinged' on tavapärane, kuid sõna tähendab elusat olendit"
+    },
+    {
+      "kind": "addition",
+      "subject": "juba",
+      "rationale": "heebrea tekst ei ütle 'juba', vaid lihtsalt 'Joosef oli Mitsraimis'"
+    },
+    {
+      "kind": "crux",
+      "subject": "seitsekümmend",
+      "rationale": "heebrea ütleb seitsekümmend; 1Ms 46:27 loendab seitsekümmend viis; LXX mõlemas seitsekümmend viis"
+    }
+  ],
+  "translation": "Ja kõik Jaakovi reietest tulnud hingeterved olid seitsekümmend hinge; ja Joosef oli juba Mitsraimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/1\/5-8.1792538211273.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hinged"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "tulnud"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "reiest"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "seitsekümmend"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hinge"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ja Joosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraimis"
+    }
+  ],
+  "timestamp": "2026-10-20T23:16:51.274065151Z",
+  "model": "glm-5.3"
+}

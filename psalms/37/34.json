@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kõnetle õiget",
+      "rationale": "Käskuded 'oota' ja 'pea' pöörduvad otse lugeja poole"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sina⟩",
+      "rationale": "Heebrea תראה on 'sina näed' isikulises vormis, kuid eesti lauses lisati selgustoov asesõna"
+    }
+  ],
+  "translation": "Oota Jahvet ja pea tema teed, ja ta ülendab sind maad pärima; kui õelad hävitatakse, näed seda ⟨sina⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/33-36.1792552748832.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Oota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ja pea"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tema teed"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "ja ta ülendab sind"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "maad pärima"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "kui ... hävitatakse"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelad"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "näed seda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:08.833504306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "KJV 'in those is continuance' (neis on kestvus) vs JPS 'upon them have we stayed of old' — tõlgitud KJV-traditsiooni järgi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pääste⟩",
+      "rationale": "Eesti keel vajab peale 'iialne' nimisõna, heebreas seiseb ainult עולם."
+    }
+  ],
+  "translation": "Sa kohtud ⟨את⟩ rõõmsaga, kes teeb tsedekit, su teedel nad mäletavad sind; vaata, sina vihastasid ja me pattu tegime; neis ⟨on⟩ iialne ⟨pääste⟩ ja me päästetakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/64\/1-4.1792547926797.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "sa kohtud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rõõmsaga"
+    },
+    {
+      "surface": "שש",
+      "gloss": "rõõmsaga"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kes teeb"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedekit"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "su teedel"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "mäletavad sind"
+    },
+    {
+      "surface": "הן",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "vihastasid"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ja me pattu tegime"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neis"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iialne"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ja me päästetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:58:46.800623122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "H854 prepositsioon 'su juures', mitte objektimarker; gloss kannab ikkagi ⟨את⟩ tunnuse kohaselt"
+    },
+    {
+      "kind": "addition",
+      "subject": "temalt",
+      "rationale": "eesti keel vajab röövimisele sihitist, heebrea תגזol on absoluutne"
+    }
+  ],
+  "translation": "Ära rõhu ⟨את⟩ oma kaaslast ja ära röövi temalt; palgatöölise palk ärgu jäägu ööseks su juurde hommikuni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/13-16.1792539491542.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "rõhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kaaslast"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "oma kaaslast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "röövi temalt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära (ärgu)"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "jäägu ööseks"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "palk"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "palgatöölise"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinu juurde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hommikuni"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hommikuni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:11.543147920Z",
+  "model": "glm-5.3"
+}

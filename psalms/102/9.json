@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "need, kes raevatsevad",
+      "rationale": "מהוללי põhineb juurel הלל 'hull olema'; ASV\/JPS loevad בי נשבעו kui 'need minu kaudu neavad'."
+    },
+    {
+      "kind": "crux",
+      "subject": "vandusid minu peale",
+      "rationale": "נשבעו בי tähendab nii 'minu peale vanduma' kui 'minu nime neama'."
+    }
+  ],
+  "translation": "Kogu päeva pilgasid mind mu vaenlased, need, kes minu vastu raevatsevad, vandusid minu peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/9-12.1792553689776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "pilgasid mind"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mu vaenlased"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "need, kes raevatsevad"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minu peale"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "vandusid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:49.776680113Z",
+  "model": "glm-5.3"
+}

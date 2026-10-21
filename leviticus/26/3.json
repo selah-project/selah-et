@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "seadustes käima",
+      "rationale": "Heebrea idiom 'בחקתי תלכו' — eluviisi järgimine kui käimine"
+    }
+  ],
+  "translation": "Kui te minu seadustes käite ja ⟨את⟩ minu käske peate ja teete ⟨את⟩ neid,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "38972aee43b457c8e8b5c4ec8590fdf8d503e7b18003912411a509e5692bc367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/2-4.1792543618989.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "minu seadustes"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "te käite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minu käske"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "minu käske"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "te peate"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ja teete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:58.995262230Z",
+  "model": "glm-5.3"
+}

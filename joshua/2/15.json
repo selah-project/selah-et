@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti kõverdis nõuab verbi, heebrea osalauses puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elas",
+      "rationale": "יושבת 'istub\/elas' — elamu tähenduses"
+    }
+  ],
+  "translation": "Ja ta lasi nad alla köiega aknast, sest tema maja ⟨oli⟩ müüri sees, ja müüril ⟨oli⟩ ta elamas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63373f8dddbe3773b4d3b96054d551194ce89e272db505046d3ad8edfbe62511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/2\/13-16.1792541357783.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "Ja ta lasi nad alla"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "köiega"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "aknast"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "akna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "tema maja"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "müüri sees"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "müüris"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "ja müüril"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "elamas"
+    }
+  ],
+  "timestamp": "2026-10-21T00:09:17.785063809Z",
+  "model": "glm-5.3"
+}

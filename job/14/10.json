@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kõneleja endale \/ Jahvele",
+      "rationale": "Rhetoriline küsimus 'kus ta on' pöördub otseselt kuulaja poole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kange mees",
+      "rationale": "גבר on 'vägimees, kange mees' — vastandina surevale puule"
+    }
+  ],
+  "translation": "Aga kange mees sureb ja vajub kokku, inimene hingab välja — ja kus ⟨ta⟩ on?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/14\/9-12.1792555272352.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "aga kange mees"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sureb"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "vajub kokku"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "hingab välja"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ja kus ⟨ta⟩ on"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:12.353112938Z",
+  "model": "glm-5.3"
+}

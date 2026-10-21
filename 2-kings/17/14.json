@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kõvendasid oma kaela",
+      "rationale": "heebrea idiom 'kangekaelne' (ערף = kukal), eesti keeles samuti 'kange kael'"
+    },
+    {
+      "kind": "addition",
+      "subject": "vaid",
+      "rationale": "heebrea kontrastמ Implitsiitne; eesti keeles sidesõna selguseks"
+    }
+  ],
+  "translation": "Ja nad ei kuulanud, vaid kõvendasid ⟨את⟩ oma kaela nagu nende isade kael, kes ei uskunud Jahvesse, oma Elohimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/17\/13-16.1792546340230.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulanud"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "vaid kõvendasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kaela"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "oma kaela"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "nagu kaela"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "uskunud"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvesse"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oma Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:32:20.233370834Z",
+  "model": "glm-5.3"
+}

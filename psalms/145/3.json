@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea kõnelause puudub kopeer; eesti keel nõuab 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "otsa",
+      "rationale": "חקר 'läbiuurimine, piir' — 'ei ole otsa' säilitab piiri pildi 'uuringu' asemel"
+    },
+    {
+      "kind": "mystery",
+      "subject": "otsatu suurus",
+      "rationale": "Jahve suurus on äraotsimatu — varjatud, läbiuurimatu"
+    }
+  ],
+  "translation": "Suur ⟨on⟩ Jahve ja väga kiiduväärne, ja tema suurusele ei ole otsa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/1-4.1792554403537.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Suur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ja kiiduväärne"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ja tema suurusele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "otsa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:43.538615524Z",
+  "model": "glm-5.3"
+}

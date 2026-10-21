@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peopesa",
+      "rationale": "כף on 'peopesa, õõnes käsi'; eesti 'käest' looks pildi ära"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנותי\/על",
+      "rationale": "רוח-õhku ei ole; גנותי על on 'piiran kaitseks ümber', aiaga ümbritsemise pilt"
+    }
+  ],
+  "translation": "Ja ma kiskun sind Аssуuria kuninga peopesast ning ⟨את⟩ selle linna, ja ma kaitset seda linna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/38\/5-8.1792547427789.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ja peopesast"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "ma kiskun sind"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "selle linna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "selle linna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "seda"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ja ma kaitset"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaitsen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "seda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:27.790018075Z",
+  "model": "glm-5.3"
+}

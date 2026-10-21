@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "כל־קבל דנה",
+      "rationale": "Aramaic idiom 'all on account of this' = 'therefore', rendered as one Estonian conjunction"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "gloss note": "particle chain כל קבל fused into 'seepärast', individual force lost"
+    }
+  ],
+  "translation": "Seepärast kinnitas kuningas Darjaveš ⟨את⟩ kirja ja ⟨את⟩ keelu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be960648d1d6dea61b3925fc4db3caef6a024f5c42e3442d0df7b7debf45242b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/6\/10-11.1792558733902.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Seepärast"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "selle pärast"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darjaveš"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "kinnitas"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "⟨את⟩ kirja"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "ja ⟨את⟩ keelu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:53.904236062Z",
+  "model": "glm-5.3"
+}

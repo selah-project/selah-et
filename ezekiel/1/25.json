@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "ויהי on rõhuta 'ja sündis', eesti keel vajab kopeeli 'oli'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laotus",
+      "rationale": "רקיע on 'levis laotus \/ taeumisterium', mitte hilisem 'pärastkristlik taevavõlv'"
+    }
+  ],
+  "translation": "Ja ⟨oli⟩ hääl laotuse kohalt, mis oli nende peade kohal; nende seistes lasksid nad oma tiivad rippu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/1\/25-28.1792549631426.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨oli⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kohalt"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "laotuse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "nende peade"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "nende seistes"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "lasksid rippu"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "oma tiivad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:27:11.428838911Z",
+  "model": "glm-5.3"
+}

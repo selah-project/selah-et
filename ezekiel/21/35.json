@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 21:35",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תערה",
+      "rationale": "Sama sõna tähendab nii 'noa\/pünit' kui 'tupp' — kontekst (tagasi pöörduma) toob tuppe."
+    },
+    {
+      "kind": "you",
+      "subject": "mõõgale",
+      "rationale": "Kõne pöördub otse mõõga (või Ammoni) poole: 'sa loodi', 'kohutan sind'."
+    }
+  ],
+  "translation": "Pöördu tagasi tuppe! Kohas, kus sa loodi, sinu sünnimaa pinnal kohutan ma ⟨את⟩ sind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6786dcd0107e9a4ccead9d696ea3bfdd1b10ff1c29958d6821fa7d933f1aff1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/21\/33-36.1792550237877.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tuppa"
+    },
+    {
+      "surface": "תערה",
+      "gloss": "mõõkatupesse"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kohas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "נבראת",
+      "gloss": "sa loodi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maa peal"
+    },
+    {
+      "surface": "מכרותיך",
+      "gloss": "sinu sünnimaa"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "kohutan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sind",
+      "marks": "sina (mõõk \/ Ammon)"
+    }
+  ],
+  "timestamp": "2026-10-21T02:37:17.878927819Z",
+  "model": "glm-5.3"
+}

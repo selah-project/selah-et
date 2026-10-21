@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 12:12",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Küsimuses puudub kopeeriv verbi, eesti keel nõuab selle (kaks korda)."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם גלעד און",
+      "rationale": "Küsitav 'Kas Gilad ⟨on⟩ javus?' (KJV, Geneva) vs Jaavoni tõlgendus 'ainult-kui javus on Gilad olnud' (YLt)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלעד\/גלגל",
+      "ratioale": "Korduv גל kõla kohanimedes Gilad ja Gilgal lisab häälikulist sidust."
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "Salmis 9 tähendab 'jõukust', siin samad konsonandid aga 'אָוֶן' tühisust — häälikuline sõnamäng üle salmide."
+    }
+  ],
+  "translation": "Kas Gilad ⟨on⟩ javus? Küll ⟨on⟩ nad täiesti tühjus; Gilgalis nad härgi ohverdasid, ja nende altarid on nagu kividungad põllu künnivaodel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/12\/9-12.1792551019999.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kas"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "און",
+      "gloss": "javus"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Küll"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "täiesti tühjus"
+    },
+    {
+      "surface": "היו",
+      "gloss": "on"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgalis"
+    },
+    {
+      "surface": "שורים",
+      "gloss": "härgi"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ohverdasid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "nende altarid"
+    },
+    {
+      "surface": "כגלים",
+      "gloss": "nagu kividungad"
+    },
+    {
+      "surface": "על",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "künnivaodel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "põllu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:20.000902708Z",
+  "model": "glm-5.3"
+}

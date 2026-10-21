@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן חורים",
+      "rationale": "'vabade (aadlike) poeg' vs 'vaba mees' (JPS); חור 'valge, üllas'"
+    }
+  ],
+  "translation": "Õnnis oled sina, maa, kui sinu kuningas ⟨on⟩ vabade poeg ja sinu ülemad söövad õigel ajal — jõu jaoks, mitte joobumuse jaoks!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/10\/17-20.1792556126095.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "Õnnis oled sina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "sinu kuningas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "vabade"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ja sinu ülemad"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "õigel ajal"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "söövad"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "jõu jaoks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "joobumuse jaoks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:26.096255232Z",
+  "model": "glm-5.3"
+}

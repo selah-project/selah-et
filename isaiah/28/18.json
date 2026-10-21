@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tühistatakse",
+      "rationale": "וכפר põhitoime on 'katta'; siin 'kinni katta\/lootada lahti' vs 'leppega katta' — tõlkijad jagunevad annulatsiooni ja katmise vahel"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוט שוטף",
+      "rationale": "piits \/ ujutav — kahe šin-vav-tav sõna kokkukõla, mis eesti keeles häguneb"
+    }
+  ],
+  "translation": "Ja teie leping ⟨את⟩ surmaga tühistatakse, ja teie nägemine ⟨את⟩ šeoliga ei tõuse püsti; kui piits, mis üle ujutab, üle käib, siis saate te sellele tallamiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/28\/17-20.1792547155153.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ja tühistatakse"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "teie leping"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surm"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surm"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "ja teie nägemine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šeol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "tõuse püsti"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "piits"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "mis üle ujutab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "üle käib"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "siis saate te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "tallamiseks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:45:55.154079216Z",
+  "model": "glm-5.3"
+}

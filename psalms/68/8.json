@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "muusikaline pausimärk, jäetud transliteratsioonina 'sela'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "otsepöördumine: Jumala poole nimetades"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sammud",
+      "rationale": "בצעדך sõna-sõnalt 'su sammudes' — rändlugu sammhaaval"
+    }
+  ],
+  "translation": "Elohim, kui sa läksid välja oma rahva ees, kui sa astusid läbi kõrbetõusiku — sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/5-8.1792553176030.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "kui sa läksid välja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oma rahva"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "kui sa astusid"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "läbi kõrbetõusiku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:16.031475688Z",
+  "model": "glm-5.3"
+}

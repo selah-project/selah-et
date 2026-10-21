@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Eesti keel nõuab kopeela, heebrea omastav konstruktsioon 'ja Midjani preestrile seitse tütart' seda ei sisalda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "joogitrõgid",
+      "rationale": "הרהטים on korduv vorm — 'trõgud, joogirõngad'; trõglid, mida kaevust veega täideti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lambad ja kitsed",
+      "rationale": "צאן on kogu慕nimi nii lammastele kui kitsedele"
+    }
+  ],
+  "translation": "Ja Midjani preestril olid seitse tütart, ja nad tulid ja ammutasid vett ning täitsid ⟨את⟩ joogitrõgid, et kasta oma isa lambaid ja kitsi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/2\/13-16.1792538243257.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "ja preestril"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjani"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütart"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "ja nad tulid"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ja ammutasid vett"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ja täitsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joogitrõgid"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "joogitrõgid"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "et kasta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "lambaid ja kitsi"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "oma isa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:17:23.258500101Z",
+  "model": "glm-5.3"
+}

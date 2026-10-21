@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבני אדום",
+      "rationale": "ל- eessõna: 'kohta\/vastu' (JPS 'against') või pelgalt 'mäleta Edomi poegi'; את tähistab hoopis 'päeva' kui mäletatavat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערו ערו",
+      "rationale": "Korduv hüüatus 'lammutage, lammutage' — kajastav kordus Edomi huultel"
+    }
+  ],
+  "translation": "Mäleta, Jahve, Edomi poegi ⟨את⟩ Jerušalaimi päeval — need, kes ütlesid: Lammutage, lammutage kuni tema aluseni!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/137\/5-8.1792554327696.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mäleta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poegi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimi päeva"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "need, kes ütlesid"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Lammutage"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "lammutage"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "aluseni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:27.697231597Z",
+  "model": "glm-5.3"
+}

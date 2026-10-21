@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopeelt, heebrea sõnajärg seda ei väljenda selgelt"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרע",
+      "rationale": "'tegi kurja' — tegija on Parao (enamik) või Jahve (kalduvad mõned tõlkijad Moše kaebuse raames)"
+    }
+  ],
+  "translation": "Ja sest ajast, kui ma tulin Parao juurde rääkima su nimega, on temale saanud kurja sellele rahvale, ja päästmist ⟨on⟩ sa ⟨mitte⟩ päästnud ⟨את⟩ oma rahvast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/5\/21-23.1792538290673.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Ja sest ajast"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "kui ma tulin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rääkima"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "su nimega"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "on kurja"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "ja päästmine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "sa päästnud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma rahvast"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oma rahvast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:18:10.674640841Z",
+  "model": "glm-5.3"
+}

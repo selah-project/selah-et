@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/צדקות",
+      "rationale": "Sama juur kordub kaks korda — Jahve tsedek armastab tsedek-tõsisust — eestis jääb kaja nõrgaks."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea kõneleb without copula, ⟨on⟩ lisatud eestis."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחזו פנימו",
+      "rationale": "'Näevad tema nägu' vs 'tema nägu vaatab (õigeid)' — subjekt lausetüvis pole kindel, kuid vorm toetab 'näevad'."
+    }
+  ],
+  "translation": "Sest Jahve on tsedek, ta armastab tsedek-tõsisust, ja õiged näevad tema nägu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf1321847f19fa7e21a56aa31b487e9d566e04f1691799d495954ef9d4168238",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/11\/6-7.1792558566571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedek-tõsisust"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "armastab"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "õiged"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "näevad"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "tema nägu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:06.577217151Z",
+  "model": "glm-5.3"
+}

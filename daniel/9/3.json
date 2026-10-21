@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pöörasin oma näo",
+      "rationale": "Heebrea idiom 'anda oma nägu kellegi poole' = pöörata tähelepanu, pühenduda palvele"
+    },
+    {
+      "kind": "addition",
+      "subject": "kandes",
+      "rationale": "Eesti keeles vajab שק ja אפר konteksti jaoks kandmise verbi; heebreas on need üksnes nimisõnad"
+    }
+  ],
+  "translation": "Ja ma pöörasin ⟨את⟩ oma näo Adonai Elohimi poole, otsima palvet ja anumisi paastus ja kotiriiet kandes ja tuhas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "74d62cb22e6b7225db46b483f329d99413e8537809ee9b866c6368f05877ddae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/9\/1-4.1792556626573.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ja ma pöörasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma näo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "näo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "otsima"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "palvet"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ja anumisi"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "paastus"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "ja kotiriiet"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ja tuhas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:23:46.574442633Z",
+  "model": "glm-5.3"
+}

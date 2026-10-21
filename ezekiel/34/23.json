@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 34:23",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתהן\/אתם",
+      "rationale": "Lemma את, kuid otseobjekti asesõnad 'neid', mitte tunnusmarker ⟨את⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה",
+      "rationale": "Salm kordab karjase-verbi neli korda (רעה ×4), kaja Hes 34 kogu karjase-teenäitajale."
+    },
+    {
+      "kind": "addition",
+      "subject": "kes",
+      "rationale": "Sidesõna 'kes' lisatud eesti keele jaoks, heebrea osalause ei vaja seda."
+    }
+  ],
+  "translation": "Ja ma tõstan nende kohale ühe karjase, kes neid karjatatab — ⟨את⟩ oma sulase Davidi; tema karjatatab neid ja tema on neile karjaseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/34\/21-24.1792550550888.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "ja ma tõstan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende kohale"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "karjase"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kes karjatatab"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ neid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma sulase Davidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "oma sulase"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "karjatatab"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ neid"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "להן",
+      "gloss": "neile"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "karjaseks"
+    }
+  ],
+  "timestamp": "2026-10-21T02:42:30.889871923Z",
+  "model": "glm-5.3"
+}

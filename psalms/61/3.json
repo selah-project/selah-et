@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעטף לבי",
+      "rationale": "otse: 'kui mu süda on kattes\/ümbritsetud' — KJV 'overwhelmed', JPS 'fainteth'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בצור ירום ממני",
+      "rationale": "JPS: 'kalju, mis on minu jaoks liiga kõrge' — kelle vaatepunktist kõrgus mõõdetakse"
+    }
+  ],
+  "translation": "Maa äärtest hüüan ma sinu poole, kui mu süda on üle katetud, vii mind kaljule, mis on kõrgem kui mina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/61\/1-4.1792553077832.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "äärtest"
+    },
+    {
+      "surface": "hארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu poole"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hüüan ma"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "on üle katetud"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kaljule"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "kõrgem"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kui mina"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vii mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:37.834047114Z",
+  "model": "glm-5.3"
+}

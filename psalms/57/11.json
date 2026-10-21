@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea keeles puudub koppula; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse heebrea kõla järgi 'hesed', mitte 'halastus' ega 'armastus'"
+    }
+  ],
+  "translation": "Sest suur kuni taevasteni on sinu hesed, ja kuni pilvedeni sinu tõde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/9-12.1792553055768.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "suur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevasteni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sinu hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja kuni"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pilvedeni"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinu tõde"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.769629890Z",
+  "model": "glm-5.3"
+}

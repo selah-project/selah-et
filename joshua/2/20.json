@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע \/ השבעתנו",
+      "rationale": "Juure seos numbriga 'seitse' — vannumine kui seitsmekordne kinnitamine jääb eesti keeles varjatuks"
+    },
+    {
+      "kind": "secret",
+      "subject": "meie sõna",
+      "rationale": "Salm tingib saladuse: varguse väljaütlemine tühistab vande kaitse"
+    }
+  ],
+  "translation": "Ja kui sa avaldad ⟨את⟩ meie selle sõna, siis oleme meie lahti sinu vannest, mille sa oled meid vanduma pannud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3bf79038383a1b8df82cf196a9b51832a16726ee9dc5cd6270c3e47eca5edc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/2\/17-20.1792541385624.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "sa avaldad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meie see sõna"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "meie sõna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "siis oleme meie"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "süütud"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "sinu vannest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "sa oled meid vanduma pannud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:09:45.625755436Z",
+  "model": "glm-5.3"
+}

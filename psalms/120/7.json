@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "Heebrea puudub koppula: 'mina [olen] rahu' — nimetatud lause kõnekeeles kui 'mina räägin rahu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אני שלום",
+      "rationale": "'Mina [olen] rahu' (nimisõna, mitte omadussõna) vs 'mina räägin \/ olen rahu poolt' (vt. LXX ja tüüpilised tõlked)."
+    }
+  ],
+  "translation": "Mina ⟨olen⟩ rahu, aga kui ma räägin, nemad ⟨on⟩ sõja poolt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/120\/5-7.1792554234666.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "aga kui"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ma räägin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõja poolt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:54.667300391Z",
+  "model": "glm-5.3"
+}

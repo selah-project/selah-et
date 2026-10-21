@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זולות",
+      "rationale": "Ainus koht Tanahhis; juure זול tähendab põlatust-tühisust, Strong pakkumine 'torm' on ebakindel."
+    },
+    {
+      "kind": "crux",
+      "subject": "כרם זולות",
+      "rationale": "Kes kõrgendab keda: kas tühisust kõrgendatakse inimeste poolt (KJV 'vileimad mehed') või pahad käivad ringi nii nagu tühisus on kõrgendatud inimeste seas (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני אדם",
+      "rationale": "Otse: 'Aadama pojad' — liitsõna 'inimeste poegade' hoiab konstruktiooni kuju."
+    }
+  ],
+  "translation": "Ringi käivad pahad igal pool, kui kõrgendatud on-tühisus inimeste poegade poolt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b2778bfa2d03ee89d0f960057d56dd703d5cd57a8b8b89b82e2c82745f85fc0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/12\/9-9.1792552252028.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ringi-igal pool"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pahad"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "käivad"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kui kõrgendatud"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "tühisus"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimeste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:10:52.029168911Z",
+  "model": "glm-5.3"
+}

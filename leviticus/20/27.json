@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אוב",
+      "rationale": "'nõid', 'vaimudekutsuja' või otseselt 'kohtukõla (vaim)': sõna pilt on õõnest kõlav kohin, eesti 'nõid' kaotab pildi"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "eesti keeles on tegevuse subjekt vajalik, heebrea laseb tegusõnal subjektita"
+    }
+  ],
+  "translation": "Ja mees või naine, kui neis on nõid või teadjane, surmaga surigu nad; kividega nad ⟨את⟩ neid viskavad, nende veri on nende peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab5c9978c9840676ef420c5bc80808346c1b3046aca1e1fb570ee844d2c773f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/20\/25-27.1792539478591.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja mees"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neis"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "nõid"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "teadjane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surmaga"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "surigu nad"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kividega"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "nad viskavad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "neid"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "nende veri"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nende peal"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:58.592991924Z",
+  "model": "glm-5.3"
+}

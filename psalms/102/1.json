@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaebus",
+      "rationale": "שיח on nii 'mõtlus' kui 'väljavalamise sõna' — 'kaebus' katab siin palve konteksti"
+    },
+    {
+      "kind": "addition",
+      "subject": "tuleb",
+      "rationale": "heebrea puudub koppel; יעטף 'kattuma, kattet ette saama' nõuab eestis täisverbi"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעטף",
+      "rationale": "'kui ta kattub\/kattet saab' (nõrkusesse mähkub) vs 'kui talle kate ette tõmmatakse' — refleksiivne või transitiivne"
+    }
+  ],
+  "translation": "Palve ⟨rõhutuile⟩, kui talle kate ⟨tuleb⟩, ja Jahve palge ees valab ta välja oma kaebuse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/1-4.1792553713475.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Palve"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "⟨rõhutuile⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "temale kate ⟨tuleb⟩"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ja ... palge ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "valab ta välja"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "oma kaebuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.475822744Z",
+  "model": "glm-5.3"
+}

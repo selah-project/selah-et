@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 12:9",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בחרב בני עמון",
+      "rationale": "Heebrea ütleb 'Ammoni laste mõõgaga' — mõõgaga tapmise tegelik teostaja on Ammoni lapsed, mitte David ise."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mõõgaga — Ammoni laste käsi",
+      "rationale": "Eesti lause ehitasime ümber, et võimendus (David tappis) ja teostaja (ammonlased) eristuksid."
+    }
+  ],
+  "translation": "Miks põlastasid sa ⟨את⟩ Jahve sõna, teha kurja tema silmis? Urija hetiidi lõid sa mõõgaga ja tema naise võtsid sa endale naiseks, ja tema tapsid sa mõõgaga — Ammoni laste käsi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/12\/9-12.1792544635347.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "põlastasid sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve sõna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "tema silmis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija hetiidi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetiidi"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "lõid sa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mõõgaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema naise"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "tema naise"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "võtsid sa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naiseks"
+    },
+    {
+      "surface": "ו אתו",
+      "gloss": "⟨את⟩ ja tema"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "tapsid sa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mõõgaga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "laste"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    }
+  ],
+  "timestamp": "2026-10-21T01:03:55.349215814Z",
+  "model": "glm-5.3"
+}

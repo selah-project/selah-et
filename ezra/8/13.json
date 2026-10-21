@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 8:13",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kuuskümmend meest",
+      "rationale": "Loenduslista koos arvuga, kerubürokratlik register nagu kogu peatükk."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרנים",
+      "rationale": "'hilisemad' vs 'viimased': kas Adonikami hilisemad järeltulijad või hiljem tulnud rühm."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub."
+    }
+  ],
+  "translation": "Ja Adonikami hilisematest poegadest — ja need on nende nimed: Elifelet, Jeiuel ja Šemaja, ja nendega kuuskümmend meest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/8\/13-16.1792556752766.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ja … poegadest"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adonikami"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "hilisematest"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "on nende nimed"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "Elifelet"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeiuel"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ja Šemaja"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ja nendega"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "kuuskümmend"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "meest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:52.767322516Z",
+  "model": "glm-5.3"
+}

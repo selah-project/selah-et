@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 43:28",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "end",
+      "rationale": "eesti keel vajab objekti refleksiivses kummardamises, heebrea seda ei ütle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקדו…וישתחו",
+      "rationale": "kaks kummardamise verbi ühe jada jooksul: sügav painutus täieliku pikaliheitega, eesti keeles kaks erinevat sõna"
+    }
+  ],
+  "translation": "Ja nad ütlesid: shalom su sulasele, meie isale; ta elab veel. Ja nad painutasid end ja kummardasid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/43\/25-28.1792538084410.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja nad ütlesid"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "su sulasele"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "meie isale"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "ta veel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elab"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "ja nad painutasid end"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kummardasid"
+    }
+  ],
+  "timestamp": "2026-10-20T23:14:44.411246386Z",
+  "model": "glm-5.3"
+}

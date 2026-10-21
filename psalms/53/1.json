@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Mahalat",
+      "rationale": "מחלת: kas muusikamäärus \/ laulu pealkiri (Mahalat) või 'haiguse' tähenduses (nagu ylt 'On a disease')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maškil",
+      "gloss": "õpetlik luuletus hoitakse heebrea kõlaga sõnana, mitte ei tõlgita"
+    }
+  ],
+  "translation": "Koorijuhatajale, Mahalati järgi, maškil, Davidi ⟨päralt⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/53\/1-4.1792553003510.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "על",
+      "gloss": "järgi"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalati"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maškil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davi ⟨päralt⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:23.511468097Z",
+  "model": "glm-5.3"
+}

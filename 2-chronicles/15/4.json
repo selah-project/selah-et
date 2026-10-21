@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nemad⟩",
+      "rationale": "Heebrea üksikud asesõnad לו ja לה׾ on mitmuses kollektiivselt Jisraeli kohta; eesti keel vajab selgust jaoks asesõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "laskis end leida",
+      "rationale": "נמצא on nil-passiiv 'leiti'; halb kõla vältimiseks kasutatud jagavat väljendit"
+    }
+  ],
+  "translation": "Ja ahastuses pöördusid nad Jahve, Jisraeli Elohimi poole, ja nad otsisid teda, ja ta laskis end neile leida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35c3af063ff17429c93bb3de1a055bfd9c91b73dab35126202beef824bf7df80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/15\/4-4.1792558741291.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "pöördusid"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ahastuses"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nemad⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Jisraeli Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "otsisid teda"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "laskis end leida"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:59:01.292277401Z",
+  "model": "glm-5.3"
+}

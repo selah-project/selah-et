@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jehošuaga",
+      "rationale": "see את on prepositsioon 'koos', mitte objektimarker — seetõttu ilma ⟨את⟩ märgita"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "heebrea ויהי katab selle, kuid eesti lause vajab tegusõna kuulujutu jaoks eraldi"
+    }
+  ],
+  "translation": "Ja Jahve oli ⟨את⟩ Jehošuaga, ja tema kuulsus ⟨oli⟩ kogu maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a6a6485352707eee21d69188f1a0c9587a947c41684df6ed5ad0047e2f9e8dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/6\/25-27.1792541423069.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja ... oli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ Jehošuaga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "tema kuulsus"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maal"
+    }
+  ],
+  "timestamp": "2026-10-21T00:10:23.072446428Z",
+  "model": "glm-5.3"
+}

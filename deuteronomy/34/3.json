@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "appositsioonide vahel lisatud nagu eesti loend nõuab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lõunamaa",
+      "rationale": "הנגב on kuivuse järgi nime saanud lõunapiirkond; jään sõna kuju juurde"
+    }
+  ],
+  "translation": "ja ⟨את⟩ lõunamaa, ja ⟨את〕 tasandiku, Jerihoo oru, palmide linna, kuni Soarini.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/34\/1-4.1792541284169.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lõunamaa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "lõunamaa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tasandiku"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "tasandiku"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "oru"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeriho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linn"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmide"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Soarini"
+    }
+  ],
+  "timestamp": "2026-10-21T00:08:04.170328955Z",
+  "model": "glm-5.3"
+}

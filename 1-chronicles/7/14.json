@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kelle tema sünnitas",
+      "rationale": "Heebrea tekst ei ütle, kes sünnitas Asrieli; tõlkijad lisavad subjekti või loevadpärisorja kui Makiri ema."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pärisorjas",
+      "rationale": "פילגש on 'liignaine', madalama staatusega naine; 'pärisorjas' on lähim Tanahhi register."
+    }
+  ],
+  "translation": "Menasse pojad: Asriel, kelle tema sünnitas, tema aramea pärisorjas sünnitas ⟨את⟩ Makiri, Gileadi isa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/7\/13-16.1792557266359.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasse"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tema sünnitas"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "tema pärisorjas"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "aramea"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sünnitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Makir"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makiri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isa"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:34:26.360199241Z",
+  "model": "glm-5.3"
+}

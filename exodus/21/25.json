@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחת kordus",
+      "rationale": "Kolmekordne sõna-sõna-vastu rida (X tahat X) — täielik sümmeetria, mis peegeldab karmi tasakaalupõhimõtet."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחת",
+      "rationale": "Sõna tähendab 'all, asemele'; juriidilises tahvõrgus 'eest\/vastu' — kordusdiktsioon jäetakse sõna-sõnaliselt."
+    }
+  ],
+  "translation": "põletusmärgi eest põletusmärk, haava eest haav, mulgi eest mulg.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/25-28.1792538653511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "põletusmärk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eest"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "põletusmärk"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "haav"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eest"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "haav"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "mulg"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eest"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "mulg"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:13.512488597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפק",
+      "rationale": "lemma פוק 'välja andma, kindlustama': 'ära vii ellu' vs 'ära soosi', juba vana tõlke traditsioon läheb lahku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "muusikaline pausimärk, jäetakse nimena 'Sela'"
+    }
+  ],
+  "translation": "Ära anna, Jahve, õelate soove, tema plaani ära vii ellu, ⟨et nad⟩ ei kõrgendaks end. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/140\/9-12.1792554303495.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "soove"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "tema plaani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "vii ellu"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ei kõrgendaks end"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:03.496093229Z",
+  "model": "glm-5.3"
+}

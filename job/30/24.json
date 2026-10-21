@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 30:24",
+  "book": "job",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kogu salm",
+      "rationale": "Kõige raskem Iiobi koht: KJV 'ei siruta kätt hauani', YLT 'mitte virna vastu', ASV 'kas keegi ei siruta kätt languses' — sõnad בעי ja בפידו on mitmetimõistetavad"
+    },
+    {
+      "kind": "alternative",
+      "subject": "appihüüe",
+      "rationale": "שוע võib olla ka 'abi, päästja'; 'kui ta hädas, siis on abi' (Wycliffe-l互通pärane lõpp)"
+    }
+  ],
+  "translation": "Küll aga mitte palve pärast sirutatakse kätt; kui hädas — siis ⟨on⟩ appihüüe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/30\/21-24.1792555509899.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "küll aga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "בעי",
+      "gloss": "palve pärast"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sirutatakse"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kätt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בפידו",
+      "gloss": "hädas"
+    },
+    {
+      "surface": "להן",
+      "gloss": "siis"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "appihüüe"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:09.900684046Z",
+  "model": "glm-5.3"
+}

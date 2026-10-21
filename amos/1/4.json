@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכלה",
+      "rationale": "\"sööma\" kui tule kohta — heebrea kujund, kus tuli \"sööb\" kindlused, eesti keeles säilitatud otsesõnaga."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Eesti keel nõuab personaalpronoomeni, heebrea tegusõnalause ei sisalda seda eraldi."
+    }
+  ],
+  "translation": "Ja ma saadan tule Hazaeli koju, ja see sööb ära Ben-Hadadi kindlused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1d1bf0ceeacd4540fb72da40aa03581eff6b812b33f4a25ae27ef4bd2414bcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/1\/4-4.1792558490737.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja ma saadan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "koju"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ja see sööb ära"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "kindlused"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:50.738983231Z",
+  "model": "glm-5.3"
+}

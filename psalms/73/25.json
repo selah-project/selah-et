@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Psalmist pöördub otse Elohimi poole."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשמים kohta puuduv võrdlus",
+      "rationale": "Heebrea ei ütle 'peale sinu' — küsimus on avatud: 'Kes on mul taevas?', vastus jääb üles käepärast."
+    }
+  ],
+  "translation": "Kes on mul taeva juures? Ja koos sinuga ei ihka ma ⟨mitte kellegi⟩ maa peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/25-28.1792553339254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mul"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taeva juures"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ja koos sinuga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ihka ma"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maa peal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:59.254635312Z",
+  "model": "glm-5.3"
+}

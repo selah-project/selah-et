@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "teadmine",
+      "rationale": "Jumala teadmine on tahtlikult ületamatu — 'ma ei suuda seda'"
+    },
+    {
+      "kind": "is",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopa; eesti ⟨on⟩ nõuab seda — jäetud nurkadeta teksti loomulikkuse pärast? Mitte — reegel nõuab sulgusid"
+    }
+  ],
+  "translation": "Imepärane on see teadmine minu jaoks, kõrgel — ma ei suuda seda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/5-8.1792554290274.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "imepärane"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "teadmine"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minu jaoks"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "kõrgel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "suuda"
+    },
+    {
+      "surface": "לה",
+      "gloss": "seda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:50.275415638Z",
+  "model": "glm-5.3"
+}

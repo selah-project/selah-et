@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muusikaline pausimärk, edasi antud nimekirjana 'Sela', tõlkimata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד יהללוך",
+      "rationale": "Korduv jätkuv kiitmine — 'ikka ja jälle' püüab kinni edasi-tagasi liikumise, mis heebreas on ühes sõnas"
+    }
+  ],
+  "translation": "Kui õnnelikud on need, kes elavad su kodus; nad kiidavad sind ikka ja jälle. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/84\/5-8.1792553589419.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kui õnnelikud"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "need, kes elavad"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "su kodus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ikka ja jälle"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "kiidavad sind"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:09.419591607Z",
+  "model": "glm-5.3"
+}

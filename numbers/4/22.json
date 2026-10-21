@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את ראש",
+      "rationale": "tõlgi 'tõstma pead' = loendama; sõnasõnaline pilt loenduses kadunud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "isade järgi",
+      "rationale": "לבית אבתם on sidumisvorm 'nende isade majale', eesti kasutab järgi-konstruktsiooni"
+    }
+  ],
+  "translation": "Võta loendus ka Gersoni poegade üle, nende isade järgi, nende suguvõsade kaupa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/21-24.1792539754794.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "võta loendus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pea"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersoni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "maja järgi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nende suguvõsade kaupa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:42:34.795231671Z",
+  "model": "glm-5.3"
+}

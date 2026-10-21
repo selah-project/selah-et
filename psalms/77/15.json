@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oled⟩",
+      "rationale": "Kopeer puudub heebreas, eesti keel lisab selle."
+    }
+  ],
+  "translation": "Sina ⟨oled⟩ see El, kes teeb imesid; sa tegid rahvaste seas teatavaks oma väe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/13-16.1792553393773.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "האל",
+      "gloss": "see El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kes teeb"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "imesid"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "sa tegid teatavaks"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "rahvaste seas"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "oma väe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:53.774602925Z",
+  "model": "glm-5.3"
+}

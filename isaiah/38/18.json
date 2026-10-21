@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 38:18",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול on surge\/maailma all, mitte 'põrgu' karistusena."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל אמתך",
+      "rationale": "'sinu tõesuse ⟨osas⟩ loota' — KJV 'hope for thy truth'; eesti osastav nõuab käändevormi, heebrea ei ütle seda."
+    }
+  ],
+  "translation": "Sest mitte šeol ei tunnusta sind, surm ei kiida sind; mitte ei looda sinu tõesust need, kes kaevu laskuvad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/38\/17-20.1792547405884.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ei tunnusta sind"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surm"
+    },
+    {
+      "surface": "יהללך",
+      "gloss": "ei kiida sind"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ei looda"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "need, kes laskuvad"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kaevu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨osas⟩"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinu tõesust"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:05.885840405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 8:8",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨keegi⟩",
+      "rationale": "אין להשיב ütleb sõna-sõnalt 'pole tagasipööramist'; eesti keeles nõuab keel tegija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כתב\/נכתב\/ונחתום kordused",
+      "rationale": "Salm kordab 'kuninga nimel' ja 'kuninga rõngaga' kaks korda — ametlik dekreedirütm"
+    },
+    {
+      "kind": "you",
+      "subject": "kuningas Estrile ja Mordekaile",
+      "rationale": "Käskiv pöördumine: 'kirjutage teie'"
+    }
+  ],
+  "translation": "Ja teie — kirjutage juutide jaoks, nagu teie silmis hea on, kuninga nimel, ja pitseerige kuninga rõngaga, sest kirja, mis on kirjutatud kuninga nimel ja pitseeritud kuninga rõngaga, ei saa ⟨keegi⟩ tagasi pöörata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "133dd0839d4065e557d272c5b4d3654d7eabc871c7c4fd88cf9411641a2400f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/8\/5-8.1792556287057.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ja teie"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "kirjutage"
+    },
+    {
+      "surface": "על",
+      "gloss": "jaoks"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "juutide"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "nagu hea"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "teie silmis"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "וחתמו",
+      "gloss": "ja pitseerige"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "rõngaga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "kirja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "נכתב",
+      "gloss": "on kirjutatud"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ונחתום",
+      "gloss": "ja pitseeritud"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "rõngaga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei saa"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "tagasi pöörata"
+    }
+  ],
+  "timestamp": "2026-10-21T04:18:07.058747418Z",
+  "model": "glm-5.3"
+}

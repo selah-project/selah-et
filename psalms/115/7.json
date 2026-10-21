@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימישון",
+      "rationale": "מוש tähendab 'puutuma\/liigutama': 'ei puutu' vs 'ei liiguta' (käed)"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהגו בגרונם",
+      "rationale": "הגה kurgus: 'kurgus ei häälita' vs 'kurguga ei räägi'; sõna-sõnalt 'mõmisevad oma kurgus'"
+    }
+  ],
+  "translation": "Nende käed, aga nad ei puutu; nende jalad, aga nad ei käi; nad ei häälita ⟨oma⟩ kurgus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd08abba052a35f6a2e1b47522ccb246f05b86a69b2353d526d8ca3d7b1a27c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/6-7.1792558621800.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "nende käed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga nad ei"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "puutu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "nende jalad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga nad ei"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "käi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nad ei"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "häälita"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "kurgus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:01.823460118Z",
+  "model": "glm-5.3"
+}

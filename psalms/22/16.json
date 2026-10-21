@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa",
+      "rationale": "Verbi תשפתני subjekt on Jahve, eesti keeles kohustuslik, heebreas nimeta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lõugade",
+      "rationale": "מלקוחי on kaksus — 'lõugu-kaks', lõugade paar, mitte üksik lõug."
+    }
+  ],
+  "translation": "Minu jõud on kuivanud nagu kild, ja mu keel kleepub mu lõugade külge, ja surma tolmu sa asetad mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/13-16.1792552521479.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "on kuivanud"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "nagu kild"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "minu jõud"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ja mu keel"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "kleepub"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "mu lõugade"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ja tolmu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "sa asetad mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:21.482395064Z",
+  "model": "glm-5.3"
+}

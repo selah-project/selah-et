@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 9:33",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "vahemees",
+      "rationale": "מוכיח: 'kohtumõistja \/ vahemees \/ äsjaneitsi' — varasemad tõlked: daysman, umpire, arbiter, mediator; roll, mitte sõna pilt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ei ole",
+      "rationale": "לא võib olla igatsuspartikkel לוּא 'oleks vaid' nagu YLT: 'kui oleks meie vahel vahemees'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea יש on olemasoluverbi jäänuk, eesti keeles kordab eitust"
+    }
+  ],
+  "translation": "Ei ole meie vahel vahemeest, kes paneks oma käe meie mõlema peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "933871900b4a241ea5300255c5268a3a0eecc49e69c48b81563f3ae23709be21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/33-35.1792555204627.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "meie vahel"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "vahemeest"
+    },
+    {
+      "surface": "ישת",
+      "gloss": "paneks"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "meie mõlema"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:04.628492854Z",
+  "model": "glm-5.3"
+}

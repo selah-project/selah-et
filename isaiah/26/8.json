@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on lähemal 'kõrile\/hingejõule\/elujõule' kui filosoofilisele 'hingele'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "kõneleja pöördub otse Jahve poole"
+    }
+  ],
+  "translation": "Jah, sinu kohtumõistmiste teel, Jahve, ootame sind; sinu nime ja sinu mälestuse järele igatseb hing.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/26\/5-8.1792547067894.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "teel"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sinu kohtumõistmiste"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "ootame sind"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sinu nime järele"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ja sinu mälestuse järele"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "igatseb"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    }
+  ],
+  "timestamp": "2026-10-21T01:44:27.895279463Z",
+  "model": "glm-5.3"
+}

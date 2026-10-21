@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 16:23",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh'iks — nii halb ruahh kui Elohimi ruahh, üks sõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohimi ruahh",
+      "rationale": "רוח אלהים אל שאול: kas 'Elohimi (saadetud) ruahh Šauli peal' või 'ruahh, mis Elohimilt tuli Šauli kätte'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea infinitiivkonstruktsioon בהיות eeldab eesti keeles käändsõna, lisatud kopeel"
+    }
+  ],
+  "translation": "Ja sündis: kui Elohimi ruahh ⟨oli⟩ Šauli peal, võttis David ⟨את⟩ kandle ja mängis oma käega, ja Šaul sai kergendust ja oli hästi, ja halb ruahh lahkus temast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2d7593d52ea881d4bdfd672b718ca18d236cfdb80cc8981e3a87b1b463b6a005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/16\/21-23.1792544023216.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kui ... oli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauli"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "võttis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kandle"
+    },
+    {
+      "surface": "הכנור",
+      "gloss": "kandle"
+    },
+    {
+      "surface": "ונגן",
+      "gloss": "ja mängis"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "oma käega"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja sai kergendust"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ja oli hästi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "וסרה",
+      "gloss": "ja lahkus"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "halb"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:43.218421077Z",
+  "model": "glm-5.3"
+}

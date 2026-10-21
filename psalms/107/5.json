@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on hinge-\/elujõud, mitte 'hing' läänemõttes; jäetud kõlaliselt nefesh"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kattus koomale",
+      "rationale": "תתעטף sõna-sõnalt 'varjab end kinni \/ mässib end'; tõlkes 'nõrkus katab'"
+    }
+  ],
+  "translation": "Nälginud, ja janused, nende nefesh neis kattus koomale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/5-8.1792553891966.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Nälginud"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "janused"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende nefesh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "neis"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "kattus koomale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:11.967300255Z",
+  "model": "glm-5.3"
+}

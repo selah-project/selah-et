@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "on mööda lasknud",
+      "rationale": "העביר on 'üle viima, mööda laskma' — patt 'viiakse üle\/kõrvale', mitte lihtsalt 'andestatakse'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי \/ חטאתך",
+      "rationale": "Davidi 'pattusin' ja Naatani vastus 'sinu patt' — sama juur kordub dialoogis"
+    }
+  ],
+  "translation": "Ja David ütles Naatanile: Ma tegin pattu Jahve vastu. Ja Naatan ütles Davidile: Ka Jahve on sinu patu ära pannud ⟨mööda lasknud⟩ — sa ei sure.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/12\/13-16.1792544625986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naatan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "tegin pattu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve vastu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Naatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "on mööda lasknud"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "sinu patt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sure"
+    }
+  ],
+  "timestamp": "2026-10-21T01:03:45.987903914Z",
+  "model": "glm-5.3"
+}

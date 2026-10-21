@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "põline naine",
+      "rationale": "פילגש on kodune kaaslane, kes ei ole täisnaine; 'põline naine' on lähim eesti vaste"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sai isaks",
+      "rationale": "הליד tähendab sõna-sõnalt 'sünnitas (poegi)', kausatiivselt 'andas elu'; eesti vajab isakäänet"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sugupuu",
+      "rationale": "põlvkonnaloend, nimistu — perekonna järelkasvu üleskirjutus"
+    }
+  ],
+  "translation": "Ja Eefa, Kalebi põline naine, tõi ilmale ⟨את⟩ Harani ja ⟨את⟩ Motza ja ⟨את⟩ Gazezi; ja Haran sai isaks ⟨את⟩ Gazezile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a915489df23b84484699c265cc74a660b7a541fc80f96a5f3e0bedb77b169488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/2\/46-47.1792558710382.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Ja Eefa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "põline naine"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "toi ilmale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Harani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Motza"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gazezi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezi"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ja Haran"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "sai isaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gazezile"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazezile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:30.384314696Z",
+  "model": "glm-5.3"
+}

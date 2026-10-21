@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאלחו",
+      "rationale": "אָלַח 'hapaks' — kogu Tanahhis ainult siin; 'mõrudaks\/mädandunuks muutunud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "eesti kõnes subjekt pronoomenina, heebreas verbvormis"
+    }
+  ],
+  "translation": "Kõik nad on taganenud, üheskoos on nad rikkaks läinud; ei ole head-tegejat, ei ole ⟨isegi⟩ mitte ühtegi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/53\/1-4.1792553003510.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Kõik"
+    },
+    {
+      "surface": "סג",
+      "gloss": "on taganenud"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "on rikkaks läinud"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegejat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨isegi⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "mitte ühtegi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:23.512409775Z",
+  "model": "glm-5.3"
+}

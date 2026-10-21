@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מנד",
+      "rationale": "Passiivi pööre 'kõrvale heidetud' sõnast נדד esineb Tanahhis ainult siin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בליעל \/ קוץ",
+      "rationale": "Kurjuse pojad ja ohakad — jääv kujund, mis jätkub järgmises salmis (raud, tuli)."
+    }
+  ],
+  "translation": "Ja Beliali pojad on kõik nagu ohakad, kõrvale heidetud, sest palja käega neid ei võeta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/23\/5-8.1792544999796.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "ja Beliali pojad"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "nagu ohakad"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "kõrvale heidetud"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käega"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "võeta"
+    }
+  ],
+  "timestamp": "2026-10-21T01:09:59.798120023Z",
+  "model": "glm-5.3"
+}

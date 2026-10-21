@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ja ⟨את⟩ kuningaid troonile",
+      "rationale": "kas õiged istutatakse koos kuningatega troonile (KJV) või kuningad ise troonile (YLT); süntaks on tumedam, kuna מלכים kannab ⟨את⟩-objektimärgi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "igaveseks",
+      "rationale": "לנצח on 'eesmärgini, lõpuni', mitte tingimata ajalik igavik"
+    }
+  ],
+  "translation": "Ta ei võta oma silmi õigetelt ära, ja ⟨את⟩ kuningaid troonile istutab ta nad igaveseks, ja nad ülendatakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/36\/5-8.1792555641984.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "võta ära"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "õigetelt"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "oma silmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuningaid"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningaid"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "troonile"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "istutab ta nad"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "ja nad ülendatakse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:21.985512721Z",
+  "model": "glm-5.3"
+}

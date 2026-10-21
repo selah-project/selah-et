@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema ise⟩",
+      "rationale": "Heebrea הוא rõhutav asesõna, eesti keeles eraldiseisev rõhutus"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muusikaline paus, jäetakse märgiks 'Sela'"
+    }
+  ],
+  "translation": "Ja taevad kuulutavad tema tsedekit, sest Elohim on kohtumõistja ⟨tema ise⟩. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/5-8.1792552936062.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגידו ויגידו",
+      "gloss": "Ja kuulutavad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevad"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tema tsedekit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "kohtumõistja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨tema ise⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:16.063984004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שואה",
+      "rationale": "Sama sõna kordub salmi raamena — häving tuleb ja hävingu sisse ta langeb."
+    },
+    {
+      "kind": "addition",
+      "subject": "teda",
+      "rationale": "Kaudne objekt lisatud, et תלכדו siht oleks selge."
+    }
+  ],
+  "translation": "Tulgu talle kärashäving, mida ta ei tea, ja tema võrk, mille ta varjas, pangu ⟨teda⟩ kinni; hävingu sisse langegu ta sellesse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/5-8.1792552687356.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "tulgu talle"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "kärashäving"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ta teab"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "ja tema võrk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ta varjas"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "pangu kinni"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "hävingu sisse"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "langegu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sellesse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:07.357019210Z",
+  "model": "glm-5.3"
+}

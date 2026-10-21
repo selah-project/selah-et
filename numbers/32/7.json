@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנואון",
+      "rationale": "'heidutama\/ära kartma' (נוא) — tõlkijad jagunevad 'discourage', 'turn away', 'dissuade' vahel"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "suund eessõna 'maale' sulandub eestis ülemineku verbiga, eraldi ei eristu"
+    }
+  ],
+  "translation": "Ja miks te heidute Jisraeli poegade ⟨את⟩ südant, et nad ei läheks üle maale, mille Jahve on neile andnud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "355c2f08142dfcf564202a2a31e8bfd402050c3d712bf965783e2c37fa3439d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/32\/5-8.1792540396071.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Ja miks"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "te heidute"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "südant"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ületamast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on andnud"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T23:53:16.072602312Z",
+  "model": "glm-5.3"
+}

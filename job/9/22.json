@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ja seesama on⟩",
+      "rationale": "אחת היא on kirev kinnitus — 'üks see on'; eesti keel vajab laiendust"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחת היא",
+      "rationale": "'Üks asi on see' (Geneva\/KJV) vs 'kõik on üks ja seesama' (ASV\/JPS)"
+    }
+  ],
+  "translation": "Üks ⟨ja seesama on⟩ see; seepärast ütlesin mina: täiusliku ja õela hävitab tema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/21-24.1792555210722.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Üks"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see"
+    },
+    {
+      "surface": "על",
+      "gloss": "selle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ütlesin"
+    },
+    {
+      "surface": "תם",
+      "gloss": "täiusliku"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ja õela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "hävitab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:10.722916571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "'ainult\/oltedes' — piirab salmi 3: loomad, kellel on vaid üks tunnus kahest"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ebapüha",
+      "rationale": "טמא on puhtuse kategooria, mitte moraalne 'roojane'"
+    }
+  ],
+  "translation": "Ainult ⟨את⟩ seda ärge sööge mäletset üles tõstjate ja sõra lõhustajate hulgast: ⟨את⟩ kaameli — küll ta tõstab mäletset üles, aga sõra ta ei lõhusta; tema on teile ebapüha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/1-4.1792539259161.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda"
+    },
+    {
+      "surface": "זה",
+      "gloss": "seda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sööge"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "üles tõstjate hulgast"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "mäletset"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ja lõhustajate"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "sõra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaameli"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kaameli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "küll"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "tõstab üles"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "mäletset"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "aga sõra"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "lõhusta"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ebapüha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:19.162649605Z",
+  "model": "glm-5.3"
+}

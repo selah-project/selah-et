@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leivaks",
+      "rationale": "לחם tähendab 'leib\/toit' — metafoor, kus pisarad asendavad toidu."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Heebrea ei ütle, kes küsib — 'nad' lisatud, sest eesti keel vajab tegijat."
+    }
+  ],
+  "translation": "Minu pisarad on olnud mulle leivaks päeval ja ööl, kui nad ütlevad mulle kogu päeva: kus on su Elohim?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/42\/1-4.1792552893793.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "on olnud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "minu pisarad"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivaks"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja ööl"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "kui nad ütlevad"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kus"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "on su Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:33.794949789Z",
+  "model": "glm-5.3"
+}

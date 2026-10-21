@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebrea puudub koopula; eesti keel vajab ⟨oled⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on kurgu\/hingamise\/jõu sõna, mitte 'hing' platoni mõttes."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשחרך",
+      "rationale": "Juursõna שחר 'koitma': 'varavalges sind otsin' vs 'sind igatsen koitkel'; mõned loevad 'sind teenin vara'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve",
+      "rationale": "Pöördumine 'Elohim, sinä oled mu El' köidab kuulaja otse."
+    }
+  ],
+  "translation": "Elohim, sinä ⟨oled⟩ mu El, sind otsin varavalges; sind januneb mu nefesh, sind igatseb mu liha maal, mis on kuiv ja väsinud, ilma veeta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/63\/1-4.1792553112823.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mu El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sinä"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "sind otsin varavalges"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "januneb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefesh"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "igatseb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mu liha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "kuiv"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ja väsinud"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veeta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:12.824719618Z",
+  "model": "glm-5.3"
+}

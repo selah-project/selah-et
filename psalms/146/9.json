@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "orphanu",
+      "rationale": "יָתוֹם on 'isa kaotanud'; eesti 'orphan' on hääbumas, kuid säilitab sõna kuju"
+    },
+    {
+      "kind": "crux",
+      "subject": "moonutab",
+      "rationale": "יעוות: 'teeb lookavaks \/ rikub \/ pöörab pea peale' — JPS 'maketh crooked', KJV 'turneth upside down'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעודד\/יעות",
+      "rationale": "Kaks samajuurset-kõlalist verbi kõrvuti: 'toetab' vs 'moonutab' — retoriline vastandus, eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Jahve hoiab ⟨את⟩ võõraid, Toetab orphanu ja lese, Aga Jumalatute teed Ta moonutab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/146\/9-10.1792554364233.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hoiab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "võõraid"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "võõraid"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "orphanu"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ja lese"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "Toetab"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "Aga teed"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Jumalute"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "moonutab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:04.233947625Z",
+  "model": "glm-5.3"
+}

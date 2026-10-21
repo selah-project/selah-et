@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 4:23",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "valitsus",
+      "rationale": "Estonian requires a predicative noun ('taeval on valitsus'); Hebrew שלטן שמיא is a bare construct 'taeva valitsus'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלטן שמיא",
+      "rationale": "'taevas valitseb' (heavens rule) vs 'taevane võim' — plural-of-majesty reading debated"
+    }
+  ],
+  "translation": "Ja et nad ütlesid jätta puu juurte tüve: sinu kuningriik jääb sinule püsima, ajast, mil sa tead, et taeval on ⟨valitsus⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "afb914e331209bdf562ed97ef068f3902411420d5571ca630305db8cbe4ed6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/4\/21-24.1792556392319.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודי",
+      "gloss": "Ja et"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nad ütlesid"
+    },
+    {
+      "surface": "למשבק",
+      "gloss": "jätta"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "tüve"
+    },
+    {
+      "surface": "שרשוהי",
+      "gloss": "juurte"
+    },
+    {
+      "surface": "די",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "puu"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sinu kuningriik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "קימה",
+      "gloss": "jääb püsima"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ajast"
+    },
+    {
+      "surface": "די",
+      "gloss": "mil"
+    },
+    {
+      "surface": "תנדע",
+      "gloss": "sa tead"
+    },
+    {
+      "surface": "די",
+      "gloss": "et"
+    },
+    {
+      "surface": "שלטן",
+      "gloss": "valitsus"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "taeval"
+    }
+  ],
+  "timestamp": "2026-10-21T04:19:52.320697677Z",
+  "model": "glm-5.3"
+}

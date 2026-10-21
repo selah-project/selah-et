@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb heebrea sõnaks, mitte 'halastus' ega 'armastus'"
+    },
+    {
+      "kind": "elision",
+      "subject": "זו",
+      "rationale": " demonstratiivi 'see' asemele suhteline 'kelle', eesti suhtelause nõuab sidusõna"
+    }
+  ],
+  "translation": "Sa juhatasid oma hesediga rahva, kelle Sa olid lunastanud; Sa vedasid nad oma jõul oma püha asupaika.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/15\/13-16.1792538473560.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Sa juhatasid"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "oma hesediga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "Sa olid lunastanud"
+    },
+    {
+      "surface": "נהלת",
+      "gloss": "Sa vedasid"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "oma jõul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨asupaiga suunas⟩"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "asupaika"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "oma püha"
+    }
+  ],
+  "timestamp": "2026-10-20T23:21:13.561414144Z",
+  "model": "glm-5.3"
+}

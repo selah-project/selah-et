@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "käsivars",
+      "rationale": "זרוע on sõna-sõnalt 'käte'; jõudu tähendav pilt, mida BSB asendab sõnaga 'jõud'"
+    },
+    {
+      "kind": "you",
+      "subject": "Eeli preestriperekonnale",
+      "rationale": "otsene kõne — Jahve kõneleb Eelile tema pere kohta"
+    }
+  ],
+  "translation": "Vaata, päevad tulevad, ja ma raiun maha ⟨את⟩ sinu käsivarra ja ⟨את⟩ käsivarra sinu isa perekonnast, nii et sinu perekonnas ei ole ⟨enam⟩ vanurit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4444591629dff7c4df157ddb2ff09f7b4e9a01655f8b30d4275604df234e09a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/2\/30-31.1792558305250.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tulevad"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ja ma raiun maha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu käsivarr"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinu käsivars"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "käsivarra sinu isa perekonnast"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "käsivars"
+    },
+    {
+      "surface": "בית",
+      "gloss": "perekonnast"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sinu isa"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "nii et ei ole"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "vanurit"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sinu perekonnas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:45.251839196Z",
+  "model": "glm-5.3"
+}

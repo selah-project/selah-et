@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sinu nimi on Jahve",
+      "rationale": "KJV loeb 'sina, kelle nimi üksinda on Jahve'; heebrea sõnajärg võimaldab ka 'sinu nimi on Jahve, sina üksi' — ASV\/JPS moodu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõige ülem",
+      "rationale": "עליון on tiitel 'Elijon', ülemuslik; renderdatud tähendusega, mitte nimekujuna."
+    }
+  ],
+  "translation": "Ja nad tunneksid, et sina — sinu nimi on Jahve — oled üksinda kõige ülem kogu maa üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/83\/17-19.1792553524965.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ja nad tunneksid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sinu nimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "üksinda"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kõige ülem"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:04.966691885Z",
+  "model": "glm-5.3"
+}

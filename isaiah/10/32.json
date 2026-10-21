@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "heebrea jätab subjekti (Assüüria kuningas) nimetamata; eesti keel nõuab subjekti."
+    },
+    {
+      "kind": "crux",
+      "subject": "ינפף",
+      "rationale": "juurest נוף 'vehkima\/viibutama': ähvardav käeviibutus Tsiioni mäe suunas (KJV 'shake his hand against')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבעת ירושלם",
+      "rationale": "eelmistes salmides Giv'a ja Giv'at Šaul linnadena, siin tavaline 'küngas' — sama kõla kantakse maastikult linnale üle."
+    }
+  ],
+  "translation": "Veel täna päeval peatub ⟨ta⟩ Nobis; ⟨ta⟩ viibutab oma kätt Tsiioni tütre mäe, Jerušalaimi küngase poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "86730a13c8397b3aff45ba6669640fd9ec5ee6fa0fb8cda179acdbd5735a3d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/10\/29-32.1792546792547.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna päeval"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Nobis"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "peatub"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "viibutab"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma kätt"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mäe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tütre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiioni"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "küngase"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:39:52.548751146Z",
+  "model": "glm-5.3"
+}

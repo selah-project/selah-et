@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on \/ siin olen",
+      "rationale": "Eesti keel vajab kopulat ja asukoha väljendust; heebrea laseb asesõnadel üksi seista."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני הוא",
+      "rationale": "'mina see' — päristarvutuseta asesõnade kordus, ainulaadne enesetuvastus, eesti keeles jääb lamedaks."
+    }
+  ],
+  "translation": "Sellepärast tunneb mu rahvas mu nime; sellepärast nad teavad sel päeval, et mina ⟨olen⟩ see, kes kõneleb — vaata, ⟨siin olen⟩ mina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/52\/5-8.1792547694638.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Sellepärast"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunneb"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mu nime"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "olen see"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kes kõneleb"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "vaata, siin olen mina"
+    }
+  ],
+  "timestamp": "2026-10-21T01:54:54.639965330Z",
+  "model": "glm-5.3"
+}

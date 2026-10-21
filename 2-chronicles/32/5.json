@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 32:5",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩ · ⟨ehitas⟩",
+      "rationale": "Eesti keel vajab kopeelat ja kaudset öeldistäidet, mida heebrea tekst ei sisalda"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלוא (Millo)",
+      "rationale": "Vallasramp\/vall; tõlgitakse nimega Millo, tähendus 'täidis ehitis' jääb pimedaiks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלח",
+      "rationale": "Oda või sulenool; 'oda' on valitu, sõna tähendab ka 'võrse'"
+    }
+  ],
+  "translation": "Ja Hiskija kogus jõudu ja ehitas ⟨את⟩ kogu müüri, mis ⟨oli⟩ purustatud, ja tõstis selle üles tornideni, ja väljapoole müüri ⟨ehitas⟩ teise müüri, ja kindlustas ⟨את⟩ Millo, Davidi linna, ja tegi odasid rohkesti ja kilpe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b1815226ee566c02f84e9b4e37260e94fa95d4461653cd5a1d0bd02aea8ff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/32\/5-8.1792558152041.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "kogus jõudu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja ehitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu müüri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "müüri"
+    },
+    {
+      "surface": "הפרוצה",
+      "gloss": "purustatud"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja tõstis üles"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "המגדלות",
+      "gloss": "tornideni"
+    },
+    {
+      "surface": "ולחוצה",
+      "gloss": "ja väljapoole"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "müüri"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "teise"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ja kindlustas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Millo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "odasid"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "rohkesti"
+    },
+    {
+      "surface": "ומגנים",
+      "gloss": "ja kilpe"
+    }
+  ],
+  "timestamp": "2026-10-21T04:49:12.043152941Z",
+  "model": "glm-5.3"
+}

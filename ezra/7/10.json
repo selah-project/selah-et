@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub coppula; eesti nõuab 'oli'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חק",
+      "rationale": "'חק' siin 'määratus, seatud korraldus'; valisin 'uurimise' asemel 'seatud uurimise' tähenduse 'seatud asi' — lihtsustatult 'määrus'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm tegevust",
+      "rationale": "Verbi kolmik — otsida, teha, õpetada — struktureerib salmi ja edaspidi Esra teenistust"
+    }
+  ],
+  "translation": "Sest Esra oli valmistanud oma südama otsima ⟨את⟩ Jahve Toorat ja seda tegema ning õpetama Jisraelis uurimist ja kohust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/7\/9-12.1792556743951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "oli valmistanud"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "oma südama"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "otsima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Toorat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toorat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ja seda tegema"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ning õpetama"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "חק",
+      "gloss": "uurimist"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja kohust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:43.952950438Z",
+  "model": "glm-5.3"
+}

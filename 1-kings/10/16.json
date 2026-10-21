@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seeklit",
+      "rationale": "heebrea tekst ütleb 'kuussada kulda'; seekel on mõõt, mida siin omastatakse kontekstist (vrd 10:17)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחוט",
+      "rationale": "juur שחט tähendab sõna-sõnalt 'välja lööma, haamerdama' — kuld pandi peale löökides"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kilpide kuld",
+      "rationale": "200 kilpi, 600 seeklit kulda igaühe kohta"
+    }
+  ],
+  "translation": "Ja kuningas Šelomo tegi kakssada kuldset suurt kilpi, välja pekstud; kuussada ⟨seeklit⟩ kulda läks ühe kilbi peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a9c2e69b2d3c01bb1e2d0741799a5121b8ec9e8582484c59d991ef04894bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/10\/13-16.1792545434229.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ja tegi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kakssada"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "suurt kilpi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuldset"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "välja pekstud"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuussada"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "läks"
+    },
+    {
+      "surface": "על",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "kilbi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "peale"
+    }
+  ],
+  "timestamp": "2026-10-21T01:17:14.230878745Z",
+  "model": "glm-5.3"
+}

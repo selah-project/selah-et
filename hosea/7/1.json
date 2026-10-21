@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרפאי",
+      "rationale": "'kui ma parandasin\/tõin ravi' — mõned lugevad kui soovivorm 'kui ma tahan paranda', teised kui lõpetatud tegevus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "röövlite salk",
+      "rationale": "גדוד on sõdurite jõuk, 'salk' hoiab kujundi rühmast, mitte üksikust röövlist"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Jahve kõne Jisraeli kohta, kolmandas isikus"
+    }
+  ],
+  "translation": "Kui ma tõin Jisraelile ravi, sai paljastatuks Efrajimi patusus ja Šomeroni pahad teod, sest nad tegid valet, ja varas tuleb sisse, röövlite salk rüüstab väljaspool.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/7\/1-4.1792551027977.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "kui ma tõin ravi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "sai paljastatuks"
+    },
+    {
+      "surface": "עון",
+      "gloss": "patusus"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ja pahad teod"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeroni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "nad tegid"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valet"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ja varas"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb sisse"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "rüüstab"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "röövlite salk"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "väljaspool"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:27.977579321Z",
+  "model": "glm-5.3"
+}

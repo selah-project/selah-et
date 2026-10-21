@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oleme",
+      "rationale": "Heebrea puudub kopolula; eesti keel vajab 'oleme', märgitud sulgudes."
+    },
+    {
+      "kind": "substitution",
+      "subject": "olemust",
+      "rationale": "יצר tähendab 'kuju, vormi' (nagu 1Ms 2:7 inimese vormimine) — 'olemuse' asemel saaks öelda 'vormi, millest me tehtud oleme'."
+    }
+  ],
+  "translation": "Sest tema tunneb meie olemust, ta mäletab, et me ⟨oleme⟩ tolmu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/13-16.1792553775536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunneb"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "meie olemust"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "mäletab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tolmu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me ⟨oleme⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:15.537320038Z",
+  "model": "glm-5.3"
+}

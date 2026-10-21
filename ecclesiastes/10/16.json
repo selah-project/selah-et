@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "maa",
+      "rationale": "Otsene pöördumine — häjutav hüüd maale enese kui kuulajale"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kope puudub heebrea tekstis, eesti seda nõuab"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "10:16 \/ 10:17 paar",
+      "rationale": "Vastandväärsus: häda hommikusööjate vastu õnneliku õigel ajal sööjate vastu"
+    }
+  ],
+  "translation": "Häda sinule, maa, kui sinu kuningaks ⟨on⟩ nooruk ja sinu ülemad hommikul söövad!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/10\/13-16.1792556126539.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "häda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kui sinu kuningaks"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nooruk"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ja sinu ülemad"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "söövad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:26.540396607Z",
+  "model": "glm-5.3"
+}

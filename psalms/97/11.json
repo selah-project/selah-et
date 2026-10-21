@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea lühilauses puudub verb; eesti keel vajab kopeerivat 'on'"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרע",
+      "rationale": "'külvatud' (masoretide punktatsioon zerúa) vs 'külvab' (Qumran\/LXX 'tõuseb' — light dawns)"
+    }
+  ],
+  "translation": "Valgus on külvatud õigusele ja südame õigetele rõõm.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/97\/9-12.1792553685558.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "valgus"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "on külvatud"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "õigusele"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "ja õigetele"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "rõõm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:45.559883292Z",
+  "model": "glm-5.3"
+}

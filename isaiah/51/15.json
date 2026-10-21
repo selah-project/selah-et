@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "'raputab \/ kallutab' (ASV, JPS) versus 'rahustab' (YLV tõlgendab vaikse merega) — valitud aktiivne raputamine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jahve Tsevaot",
+      "rationale": "צבאון koos Nimega ei tõlgita — 'vägede Issand' jäetud kõrvale"
+    }
+  ],
+  "translation": "Ja mina olen Jahve, sinu Elohim, kes merd raputab, nii et tema lained kohisevad — Jahve Tsevaot on tema nimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4d4636d8b09c47c8209c5eb89dcc516b20117c04c72468b9e8943a9100890f25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/51\/13-16.1792547659699.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ja mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohim"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "raputab"
+    },
+    {
+      "surface": "הים",
+      "gloss": "merd"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "kohisevad"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "tema lained"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:54:19.700941599Z",
+  "model": "glm-5.3"
+}

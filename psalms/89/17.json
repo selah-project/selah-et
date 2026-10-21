@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה jääb vastavalt keelereeglile tsedekiks, mitte 'õiguseks' üksi"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Heebrea puudub subjekt; lause jätkab eelmise salmi 'rahvas' participe"
+    }
+  ],
+  "translation": "Sinu nimes rõõmutsevad nad kogu päeva, ja sinu tsedekis nad ülendatakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/17-20.1792553647400.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "sinu nimes"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "rõõmutsevad nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ja sinu tsedekis"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "nad ülendatakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:07.401050194Z",
+  "model": "glm-5.3"
+}

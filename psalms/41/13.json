@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "בתמי",
+      "rationale": "'täius' vs 'süütus' — heebrea תם hõlmab mõlemat; JPS loeb 'minu süütuse pärast', KJV 'minu täiuses'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "kõneleja pöördub otse Jumala poole"
+    }
+  ],
+  "translation": "Ja minu — oma täiuses sa ⟨on⟩ mind kandnud ja asetanud mind oma näo ette igaveseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/13-14.1792552813149.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ja minu"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "oma täiuses"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "kandnud"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "ja asetanud mind"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinu näo ette"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:13.150264464Z",
+  "model": "glm-5.3"
+}

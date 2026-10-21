@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 1:7",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub koppel"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחשת",
+      "rationale": "vask vs pronks — heebrea sõna tähistab vaske, kuid tõlkijad kirjutavad sageli 'pronks'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נצצים",
+      "rationale": "נצץ ilmub Tanahhis ainult selles salmis"
+    }
+  ],
+  "translation": "Ja nende jalad ⟨olid⟩ sirge jala jalad, ja nende jalatald nagu vasika jalatald, ja nad sähvatasid nagu läikiva vase värv.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/1\/5-8.1792549584644.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגליהם",
+      "gloss": "ja nende jalad"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "jalg"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "sirge"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "ja talla"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "nende jalatald"
+    },
+    {
+      "surface": "ככף",
+      "gloss": "nagu talla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "jala"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vasika"
+    },
+    {
+      "surface": "ונצצים",
+      "gloss": "ja nad sähvatasid"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "nagu värv"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vase"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "läikiv"
+    }
+  ],
+  "timestamp": "2026-10-21T02:26:24.645186794Z",
+  "model": "glm-5.3"
+}

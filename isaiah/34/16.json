@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 34:16",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "otsige ja lugege",
+      "rationale": "kaks imperatiivi pöörduvad lugeja poole: kutsutakse üles otsima Jahve raamatust"
+    },
+    {
+      "kind": "crux",
+      "subject": "tema suu",
+      "rationale": "KJV ja Wycliffe loevad 'minu suu' (kui Jahve ise räägib), heebrea tekst seisab 'tema suu' kolmandas isikus"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רעותה",
+      "rationale": "sõna ra'ut 'kaaslane' seisab Tanahhis ainult siin — kontekstis loomade paariline kaaslane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח hoitud kõla järgi 'ruahh' — tuul\/hingus\/vaim ühe sõnaga, mitte kitsendatud 'vaimuks'"
+    }
+  ],
+  "translation": "Otsige Jahve raamatust ja lugege ⟨sedá⟩: üks neist ei ole puudu, mitte üks ei jää ilma oma kaaslanneta, sest tema ⟨suu⟩ on see käskinud ja tema ruahh on nad kokku kogunud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "edcfb28284aab1562f729551e9c7933b23fdeaf52683c69ab6fc489fed4c5d99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/34\/16-16.1792558399270.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "otsige"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…-st"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raamatust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ja lugege"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "neist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נעדרה",
+      "gloss": "ole puudu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mitte üks"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "oma kaaslanneta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "jää"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "on see käskinud"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "ja tema ruahh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "קבצן",
+      "gloss": "on nad kokku kogunud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:19.271005344Z",
+  "model": "glm-5.3"
+}

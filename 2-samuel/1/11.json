@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rebisid omi",
+      "rationale": "Heebrea jättes kordamata välja, eesti vajab tegevuse kordust meeste kohta."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Prepositsioon 'temaga' esitatud märgina ⟨את⟩ ta juures, sest sõna-täpne vaste eestis puudub."
+    }
+  ],
+  "translation": "Ja David haaras ⟨omadest⟩ rõivastest ja rebis neid, ja ka kõik mehed, kes ⟨את⟩ ta juures ⟨olid⟩, ⟨rebisid omi⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/1\/9-12.1792544367345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ja David haaras"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "omadest rõivastest"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ja rebis neid"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ta juures",
+      "marks": "kõik mehed, kes ta juures olid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:27.347623090Z",
+  "model": "glm-5.3"
+}

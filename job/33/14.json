@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "inimene",
+      "rationale": "ישורנה puudub nimetatud subjekt; eesti keeles lisatud ⟨inimene⟩, nagu vanas tõlkes 'man'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישורנה",
+      "rationale": "KJV 'man perceiveth it not' vs YLT 'He doth not behold it' — kas tajuja on inimene või Elohim ise"
+    },
+    {
+      "kind": "alternative",
+      "subject": "באחת ובשתים",
+      "rationale": "JPS 'ühel viisil ja kahel' vs traditsiooniline 'kord, ja teist korda' — arvsõna kaudse väljendusena"
+    }
+  ],
+  "translation": "Sest ühel viisil räägib Elohim, ja kahel — seda ⟨inimene⟩ ei pane tähele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3dc3627b8b1b1215cfc8c786d3129a67a10ad326a2f456bdfa55fb31cdd97538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/13-16.1792555593170.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ühel viisil"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ja kahel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "pane-tähele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:33.171392725Z",
+  "model": "glm-5.3"
+}

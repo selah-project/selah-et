@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'teda ajapealet kõigutama' vs 'teda ajama' — 'pulsima, korduvalt tabama'; ajapealet edastab korduva löögi\/mõjutamise pildi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh' — Tuul\/Vaim\/hingus ühes sõnas, tõlkena kadunud"
+    },
+    {
+      "kind": "addition",
+      "subject": "teda",
+      "rationale": "Eesti keel vajab objekti, heebrea lõpp-pronoomen לפעמו sisaldub verbi sees"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחנה דן",
+      "rationale": "Paiganime 'Mahaneh-Dan' ('Dani laager') hoitud tervikuna, nagu 18:12"
+    }
+  ],
+  "translation": "Ja Jahve ruahh hakkas teda ajapealet kõigutama Mahaneh-Danis, Tsoora ja Eštaoli vahel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/13\/25-25.1792542018336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "ja hakkas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "teda ajapealet kõigutama"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "Mahaneh-"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danis"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoora"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Eštaoli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:20:18.337239267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨tuleb⟩",
+      "rationale": "Heebrea koppula ja verb puuduvad; eesti keel nõuab need lisada"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud\/hingamine, mitte immateriaalne 'hing'"
+    }
+  ],
+  "translation": "Ainult Elohimile ⟨on⟩ vaikne mu hing; temalt ⟨tuleb⟩ mu pääste.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "99a02712f8da45a1a4f3f7df4dc6dec9be442ed979a6e6c10ebe842f699d54a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/62\/1-4.1792553088087.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "vaikne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temalt"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mu pääste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:48.088441505Z",
+  "model": "glm-5.3"
+}

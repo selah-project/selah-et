@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 8:29",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tema suu",
+      "rationale": "פיו tähendab sõna-sõnalt 'tema suu' — KJV 'tema käsk' on tõlgendus, mitte sõna kuju"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחוקו",
+      "rationale": "juur חקק 'rafima, gravüürima': 'kui ta raius\/s Graveeris maa alused' — kivi raiumise pilt, mitte lihtsalt 'määras'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seatud piir",
+      "rationale": "verso loetleb loomise mõõdu: merele seatud piir, millest veed ei tohi üle käia"
+    }
+  ],
+  "translation": "kui ta pani merele ⟨tema⟩ seatud piiri ja veed ei ületa tema suud, kui ta raius maa alused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f01ec9c24aad581e52a50cf7f4499d75f2cace7d10af198898225ad9df0a3e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/8\/29-32.1792554608368.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשומו",
+      "gloss": "kui ta pani"
+    },
+    {
+      "surface": "לים",
+      "gloss": "merele"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "seatud piir"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja veed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "üle ei käi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tema suu"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "kui ta raius"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "alused"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:08.368687677Z",
+  "model": "glm-5.3"
+}

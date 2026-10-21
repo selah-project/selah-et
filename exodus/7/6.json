@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Aleph-tav märgib siin otse objekti, eestis jääb see ainult ⟨את⟩-märgiks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו ... עשו",
+      "rationale": "Tegemise tegusõna kordub raamis: nad tegid ... nõnda nad tegid"
+    }
+  ],
+  "translation": "Ja Moše ja Aharon tegid nii, nagu Jahve neile käskis — nõnda nad tegid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c812e2dec3f289643a500901f672534c886b4f228bd1f40cc54085bdd4fccb51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/7\/6-8.1792543553830.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii, nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "käskis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neid (Mošet ja Aharont)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tegid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:45:53.831617738Z",
+  "model": "glm-5.3"
+}

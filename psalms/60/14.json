@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on see",
+      "rationale": "Heebrea rõhutav והוא nõuab eesti keeles kopulativäljendi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaenlased",
+      "rationale": "צרינו on sõnõnult 'meie kitsused\/ahastajad' — 'kitsas koht' kui 'vaenlane'."
+    }
+  ],
+  "translation": "Elohimiga teeme me vägiteo, ja tema on see, kes tallab meie vaenlased.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/13-14.1792553037350.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimiga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "teeme me"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vägiteo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema on see"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "tallab"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "meie vaenlased"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:57.351521812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub koopula; eesti vajab selle 'poeg X aastat' puhul"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vanused",
+      "rationale": "Salm loeb Moše ja Aharoni eluaastad ennesegamist Paraoga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "poeg",
+      "rationale": "Heebrea idiom 'X aasta poeg' = 'X aastat vana', kujund säilitatud"
+    }
+  ],
+  "translation": "Ja Moše ⟨oli⟩ kaheksakümne aasta poeg ja Aharon kolme ja kaheksakümne aasta poeg, kui nad rääkisid Paraoga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c812e2dec3f289643a500901f672534c886b4f228bd1f40cc54085bdd4fccb51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/7\/6-8.1792543553830.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ja Moše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "kaheksakümne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ja Aharon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ja kaheksakümne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "kui nad rääkisid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "koos"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paraoga"
+    }
+  ],
+  "timestamp": "2026-10-21T00:45:53.832141380Z",
+  "model": "glm-5.3"
+}

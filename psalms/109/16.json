@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Sidesõnaline אשר ei leia eesti keeles eraldi vastet ja sulandub 'seepärast et' konstruktsiooni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb vastavalt distsipliinile häälikulisele kujule 'hesed'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונכאה לבב למותת",
+      "rationale": "Kellel on nurjunud süda — tagaendataval või vaesel? ja למותת: 'tappa (teda)' või '(nii et ta sureb)' — tõlkijad lahku lähevad"
+    }
+  ],
+  "translation": "Seepärast et ta ei mõelnud teha hesedit, vaid tagaendas vaest ja hätalist ning nurjunud südamega, et tappa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/13-16.1792553904617.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "seepärast et"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mõelnud"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedit"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "vaid tagaendas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimest"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vaest"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja hätalist"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ja nurjunud"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südamega"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "et tappa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:24.618347372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppel; eesti keel nõuab selle lisamist"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבש",
+      "rationale": "sama juur tähendab nii 'häbistuma' kui 'närbuma' — rohi närbub, süda variseb"
+    }
+  ],
+  "translation": "Löödud nagu rohi, ja närbunud ⟨on⟩ mu süda, sest olen unustanud süüa oma leiba.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/5-8.1792553685910.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "löödud"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "nagu rohi"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ja närbunud"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "olen unustanud"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "süüa"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "oma leiba"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:45.911471492Z",
+  "model": "glm-5.3"
+}

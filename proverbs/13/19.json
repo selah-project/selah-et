@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 13:19",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinge",
+      "rationale": "נפש on pigem 'kõri\/elujõud\/elusus', mitte eraldiseisev 'hing'"
+    },
+    {
+      "kind": "crux",
+      "subject": "סור מרע",
+      "rationale": "Kellele see kuulub: kas 'kõrvale kalduda kurjast ⟨on⟩ rumalatele vastik' (enamik) või 'rumalate vastik on kurjast eemaldumise iha'"
+    }
+  ],
+  "translation": "Täitunud igatsus ⟨on⟩ armas hingele, aga rumalate vastikuseks ⟨on⟩ kurjast kõrvale kalduda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/17-20.1792554681955.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאוה",
+      "gloss": "igatsus"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "täitunud"
+    },
+    {
+      "surface": "תערב",
+      "gloss": "on armas"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "hingele"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "aga vastikuseks"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "rumalate"
+    },
+    {
+      "surface": "סור",
+      "gloss": "kõrvale kalduda"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kurjast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:21.956324367Z",
+  "model": "glm-5.3"
+}

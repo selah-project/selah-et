@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte 'hing' klassikalises mõttes"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja",
+      "rationale": "Psalm räägib endast, kuid pöördub eeldatavale kuulajale — vaatamiskäsk 'vaata ja näe'"
+    }
+  ],
+  "translation": "Vaata paremale ja näe — ei ole mulle ⟨kenegi, kes tunneks⟩; põgenemise varjupaik on minust kadunud, ei ole ⟨ühtegi, kes⟩ küsiks minu elu järele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/142\/5-8.1792554406548.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paremale"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja näe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "⟨kenegi, kes tunneks⟩"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "on kadunud"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "põgenemise varjupaik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minust"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "küsiks järele"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "minu elu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:46.549592916Z",
+  "model": "glm-5.3"
+}

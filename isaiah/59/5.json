@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפעה",
+      "rationale": "Sõna אפעה ilmub Tanahhis ainult siin."
+    },
+    {
+      "kind": "crux",
+      "subject": "בקעו",
+      "rationale": "'Lõhuvad\/munevad' — vana tõlgijad lugesid 'haudusid' (nagu krokodillimuna), heebrea verbi põhitähendus on 'lõhkima'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקעו ... תבקע",
+      "rationale": "Sama verbi kordus alguses ja lõpus — salm raamib ennast sõnaga 'lõhkima'."
+    }
+  ],
+  "translation": "Mürkmadude mune nad lõhuvad ja ämblikuvõrgud nad kuduvad; kes nende mune sööb, see sureb, ja mis purustatakst, sellest koorub mürkmadu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/59\/5-8.1792547821443.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "munad"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "mürkmadude"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "nad lõhuvad"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "ja võrgud"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "ämbliku"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "nad kuduvad"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "kes sööb"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "nende mune"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "see sureb"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "ja mis purustatakst"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "koorub"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "mürkmadu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:01.453567865Z",
+  "model": "glm-5.3"
+}

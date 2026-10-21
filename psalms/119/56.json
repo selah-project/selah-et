@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "kopeeriv verb eesti jaoks"
+    },
+    {
+      "kind": "crux",
+      "subject": "זאת היתה לי",
+      "rationale": "ebamäärane: 'see on olnud minu osaks' vs 'nõnda on mul olnud' — viitab varasemale lohutusele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "valvanud",
+      "rationale": "נצר on 'valvama, hoidma nagu aiaga ümbritsedes', mitte lihtsalt 'järgima'"
+    }
+  ],
+  "translation": "See ⟨on⟩ olnud mulle, sest sinu käse ⟨on⟩ need, mida ma olen valvanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/53-56.1792554014448.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "on olnud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "sinu käse"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "olen valvanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:14.449831872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saast",
+      "rationale": "מצאה tähendab otse ' väljaheide, rüve' — 'saast' hoiab karmi pildi piires."
+    },
+    {
+      "kind": "addition",
+      "subject": "on \/ ei ole",
+      "rationale": "Heebrea nimilause ei ole kopeeruvat verbi ega täisverbi; eesti keel vajab neid ⟨…⟩ märgitud lisanditena."
+    }
+  ],
+  "translation": "⟨On⟩ põlvkond — puhas oma silmis, ja oma saastast ⟨ei ole⟩ pestud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/9-12.1792555038570.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "põlvkond"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "oma silmis"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "ja oma saastast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "⟨ei ole⟩ pestud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:18.571545563Z",
+  "model": "glm-5.3"
+}

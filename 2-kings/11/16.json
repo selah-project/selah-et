@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישמו לה ידים",
+      "rationale": "sõna-sõnalt 'panid talle käed' — kas haarasid kinni (KJV) või tegid teed (ASV\/JPS, nagu 2Sa 20:12 'soda käed'); järgitud sõna-sõnalist."
+    },
+    {
+      "kind": "addition",
+      "subject": "peale",
+      "rationale": "eesti keeles vajalik kaassõna 'panid käed peale'."
+    }
+  ],
+  "translation": "Ja nad panid talle käed peale, ja ta läks teed pidi — hobuste sissepääsust — kuninga koju, ja ta surmati seal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/13-16.1792546154426.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ja nad panid"
+    },
+    {
+      "surface": "לה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "käed"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja ta läks"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "teed pidi"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sissepääsust"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hobuste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koju"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "ja ta surmati"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-21T01:29:14.430634290Z",
+  "model": "glm-5.3"
+}

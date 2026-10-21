@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בעל המון",
+      "rationale": "Paiga nimi Baal-Hamon esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tuhat hõbeseeklit",
+      "rationale": "Viinamägi tasu arvudes: tuhat hõbedat iga hoidja kohta"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hõbeseeklit",
+      "rationale": "Tekst ütleb lihtsalt 'tuhat hõbedat'; 'seekel' on lisatud mõõdu selgituseks"
+    }
+  ],
+  "translation": "Šlomol oli viinamägi Baal-Hamonis; ta andis ⟨את⟩ viinamägi hoidjatele; igaüks toob selle vilja eest tuhat hõbeseeklit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/9-12.1792555821345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "viinamägi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šlomol"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "המון",
+      "gloss": "Hamonis"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ta andis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viinamägi"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "viinamägi"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "hoidjatele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "toob"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "selle vilja eest"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbeseeklit"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:21.346314430Z",
+  "model": "glm-5.3"
+}

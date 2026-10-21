@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Koopula, mis heebreas puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "tark",
+      "rationale": "חכם tähendab nii 'tark' kui 'kaval, nõtk' — KJV 'subtil' toob kavaluse varje, siin jääb sõna kuju"
+    }
+  ],
+  "translation": "Ja Amnonil oli sõber, ja tema nimi oli Jonadav, Šima poeg, Davidi vend, ja Jonadav oli väga tark mees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/13\/1-4.1792544686898.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "Ja Amnonil"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sõber"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja tema nimi"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Jonadav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Šima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vend"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "ja Jonadav"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-21T01:04:46.902228385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Elide poegadele",
+      "rationale": "Kaks korduvat käsku 'andke' kutsuvad jumalikke poegi Jahvet austama."
+    },
+    {
+      "kind": "crux",
+      "subject": "בני אלים",
+      "rationale": "'Elide pojad' sõna-sõnalt; teised loevad 'vägevate pojad' või 'taevolendid'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבו...הבו",
+      "rationale": "Korduv imperatiiv 'andke... andke' — kõne mitmuslikule kogukonnale, kordus rõhutab nõuet."
+    }
+  ],
+  "translation": "Davidi laul. Andke Jahvele, Elide pojad, andke Jahvele au ja väge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/29\/1-4.1792552582211.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Davidi laul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi laul"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Andke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elide"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ja väge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:22.212427565Z",
+  "model": "glm-5.3"
+}

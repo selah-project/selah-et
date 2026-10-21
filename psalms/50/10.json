@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puudub kopeer, eesti vajab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלף",
+      "rationale": "'tuhandel' vs 'härgade mägedel' (vt YLT) — אלף tähendab nii 'tuhat' kui 'härg'; enamus loeb 'tuhat'"
+    }
+  ],
+  "translation": "Sest minu ⟨on⟩ kõik metsa elukad, kariloomad tuhandel mägedel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/9-12.1792552946079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "elukad"
+    },
+    {
+      "surface": "יער",
+      "gloss": "metsa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "kariloomad"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "tuhandel mägedel"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhandel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:26.080133070Z",
+  "model": "glm-5.3"
+}

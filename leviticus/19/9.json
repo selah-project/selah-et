@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קציר\/קצר\/לקצר",
+      "rationale": "Juur קצר kordub kolm korda (lõikus\/lõikama\/lõigates) — eesti keeles säilitatud samal tüvel."
+    },
+    {
+      "kind": "you",
+      "subject": "Iisraelile",
+      "rationale": "Käsk suunatud kogudusele: mitmus 'teie' vaheldub ainsusega 'sinu põllu', nagu heebrea keeles."
+    }
+  ],
+  "translation": "Ja kui te lõikate ⟨את⟩ oma maa lõikust, ära vii lõpuni oma põllu äärt lõikates ega kogu kokku oma lõikuse jäänust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/9-12.1792543614952.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ja kui te lõikate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lõikust"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "lõikus"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "oma maa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "vii lõpuni"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "äär"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sinu põllu"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "lõikates"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ja jäänus"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sinu lõikuse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "kogu kokku"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:54.956910852Z",
+  "model": "glm-5.3"
+}

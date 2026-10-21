@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "isand",
+      "rationale": "אדון on siin inimene (araoh Joosebi suhtes), seega 'isand', mitte 'Adonai'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea lause subjekt (Jahve, salmi 20 'kuningas' järel) on eesti keeles lisatud asesõnaga 'ta'"
+    }
+  ],
+  "translation": "Määras ta oma koja isandaks ja kogu tema omandi valitsejaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/21-24.1792553788212.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "määras"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "isandaks"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "oma koja"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ja valitsejaks"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "tema omandi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:28.213132667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud, mitte eesti 'hing' mõistuslikus mõttes"
+    },
+    {
+      "kind": "you",
+      "subject": "kogudus",
+      "rationale": "koguduse ühine usuvanus, 'meie' hääl pöördub Jahve poole"
+    }
+  ],
+  "translation": "Meie hing on oodanud Jahvet, tema on meie abi ja meie kilp.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/33\/17-20.1792552616933.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Meie hing"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "on oodanud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "meie abi"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ja meie kilp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:56.934410880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תמהו\/נבהלו\/נחפזו",
+      "rationale": "Kolm lühikest paanikaverbi ritta — kuhjatud hirmu kaja, eesti keeles jäänud kolme väljendi jadaks."
+    },
+    {
+      "kind": "crux",
+      "subject": "כן",
+      "rationale": "KJV 'so they marvelled' vs JPS 'straightway' — kas כן tähendab 'nõnda' või 'otsekohe'."
+    }
+  ],
+  "translation": "Nemad nägid ⟨seda⟩ — kohe jäid nad õhku, värisesid kartusest ja põgenesid kiirustades.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/48\/5-8.1792552841177.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nägid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kohe"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "jäid õhku"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "värisesid kartusest"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "põgenesid kiirustades"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:41.178304846Z",
+  "model": "glm-5.3"
+}

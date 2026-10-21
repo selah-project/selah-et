@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopeel — nimetatud asjad lihtsalt on tema pea juures"
+    },
+    {
+      "kind": "crux",
+      "subject": "רצפים",
+      "rationale": "Hapax — kuumad kivid\/söed, millel leiba küpsetati; tõlkijad jagunenud 'söed' ja 'kuuma kivid' vahel"
+    },
+    {
+      "kind": "addition",
+      "subject": "endale",
+      "rationale": "וישכב on lihtsalt 'heitis', heebrea ei ütle 'endale'"
+    }
+  ],
+  "translation": "Ja ta vaatas, ja ennäe — tema pea juures ⟨oli⟩ kuumakividest küpsetatud leib ja veenõu; ja ta sõi ja jõi ning pöördus tagasi ja heitis ⟨endale⟩ magama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fc6cb9d3a21602cb8ea3fef3d427e1e86faa9fe8fbfb0094cdcf5e35bb3cc31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/19\/6-7.1792558355954.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Ja ta vaatas"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja ennäe"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "tema pea juures"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "leivakook"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "kuumakividest küpsetatud"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "ja veenõu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vee"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ja ta sõi"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ja jõi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja pöördus tagasi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ja heitis magama"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:35.955149057Z",
+  "model": "glm-5.3"
+}

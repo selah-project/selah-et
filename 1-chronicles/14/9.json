@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paisusid laiali",
+      "rationale": "ויפשטו tähendab sõjaliselt välja valgumist; 'laienesid' või 'rünnakule tungisid' on teised võimalused"
+    },
+    {
+      "kind": "crux",
+      "subject": "Refaimi org",
+      "rationale": "רפאים on nii kohanimi kui 'hiidude' sõna; nime ei tõlgita"
+    }
+  ],
+  "translation": "Ja plištim tulid ja paisusid laiali Refaimi orus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5152e0182668c46a733286843579704ca1972295636f3d7003dc8295cca337a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/14\/9-12.1792557342519.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ja plištim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulid"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ja paisusid laiali"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "orus"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:42.519930499Z",
+  "model": "glm-5.3"
+}

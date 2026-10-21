@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on elujõud\/isu, mitte 'hing' laooses mõttes; hoitud nefeshena"
+    },
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "נפשו umbkaudne asesõna nõuab eesti keeles 'oma'"
+    }
+  ],
+  "translation": "Õiglane sööb oma nefesheni küllastuseni, aga õelate kõht jääb puudusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/25-25.1792554662479.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Õiglane"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "küllastuseni"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma nefesheni"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "aga ... kõht"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "jääb puudusse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:02.479587080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 22:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeriva verbi ja ei-lause jaoks"
+    },
+    {
+      "kind": "crux",
+      "subject": "müüri lõhkumine",
+      "rationale": "קר võib olla müür (KJV) või paikanimi Kiir (JPS: 'Kiir kisendab')"
+    },
+    {
+      "kind": "crux",
+      "subject": "karje",
+      "rationale": "ושוע loetakse kas karjeks (KJV) või nimeks Soa (JPS)"
+    }
+  ],
+  "translation": "Sest päev ahastusest ja tallamisest ja segadusest ⟨on⟩ Adonai Jahve Tsevaotile nägemise orus: müüri lõhkumine ja karje mäe poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/22\/5-8.1792547031166.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ahastus"
+    },
+    {
+      "surface": "ומבוסה",
+      "gloss": "ja tallamine"
+    },
+    {
+      "surface": "ומבוכה",
+      "gloss": "ja segadus"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "orus"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "nägemise"
+    },
+    {
+      "surface": "מקרקר",
+      "gloss": "lõhkumine"
+    },
+    {
+      "surface": "קר",
+      "gloss": "müür"
+    },
+    {
+      "surface": "ושוע",
+      "gloss": "ja karje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäe"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:51.167248211Z",
+  "model": "glm-5.3"
+}

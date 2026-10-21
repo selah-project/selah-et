@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישוב\/לשוב",
+      "rationale": "Salm mängib juurt שׁוב kaks korda — 'pöörata tagasi' Mitsraimi ja 'keelduda pöördumast'; eesti keeles kordub 'pöörduma'."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ישוב",
+      "rationale": "Kes ei pöördu ja kuhu: 'ei lähe tagasi Mitsraimi' (KJV\/JPS) vs 'kas nad ei pöördu tagasi Mitsraimi' (BSB küsimuses); ka 'ta' = Efraim või rahvas."
+    }
+  ],
+  "translation": "Ei pöördu ta tagasi Mitsraimi maale, vaid Aššur — tema on tema kuningas, sest nad keeldusid pöörduda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "005f4fa2860f04403716e9d71d8dfb2af30144e20985f8a1d7984936c2ffed04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/11\/5-8.1792551047632.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maale"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "vaid Aššur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "on tema kuningas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "keeldusid nad"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "pöörduda"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:47.632877646Z",
+  "model": "glm-5.3"
+}

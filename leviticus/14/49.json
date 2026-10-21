@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "puhastamaks",
+      "rationale": "לחטא on otse 'patustamaks\/puhastamaks' — preestri teenistuse kontekstis tähendab see puhastusriitust, mitte moraalset pattu"
+    },
+    {
+      "kind": "crux",
+      "subject": "punast karda",
+      "rationale": "שני תולעת on 'košenilleurt', punane värvainet andva putuka järgi; tõlgitud värvinimedena 'punane' või 'karmiinpunane lõng'"
+    }
+  ],
+  "translation": "Ja ta võtab puhastamaks ⟨את⟩ maja kaks lindu ja seederpuu puitu ja punast karda ja iisopit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "40d35f14f2a96ee4d1e5992fa4ad20c76471b4c87d68286aad855c925eca8384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/14\/49-52.1792539313203.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ja ta võtab"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "puhastamaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "lindu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ja puitu"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "seederpuu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ja punast"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "karda"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ja iisopit"
+    }
+  ],
+  "timestamp": "2026-10-20T23:35:13.203668323Z",
+  "model": "glm-5.3"
+}

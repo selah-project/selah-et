@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לדבר רע",
+      "rationale": "'kurja sõna poole' sõna-sõnalt; osad tõlkijad loevad üldistavalt 'ühegi kurja asja' (KJV) keelelise täiendusega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "süda",
+      "rationale": "לב on heebrea mõtlemise, tahte ja tunnete keskus, mitte ainult süda"
+    },
+    {
+      "kind": "elision",
+      "subject": "ברשע",
+      "rationale": "'ühes pahega' — heebrea kasutab rahulist עם puudub; ברשע tähistab kurja tegude sfääri"
+    }
+  ],
+  "translation": "Ära kalda mu süda kurja sõna poole, et toime paha teosid, ühes ⟨את⟩ mehega, kes teevad üleantust, ja ärgu ma sööma nende maiustest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/141\/1-4.1792554402014.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "תט",
+      "gloss": "kalda"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sõna poole"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "et toime panna"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "teosid"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ühes pahega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehega, kes teevad üleantust"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mehega"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kes teevad"
+    },
+    {
+      "surface": "און",
+      "gloss": "üleantust"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ja ärgu"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ma sööma"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "nende maiustest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:42.016053349Z",
+  "model": "glm-5.3"
+}

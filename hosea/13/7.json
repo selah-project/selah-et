@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשור",
+      "rationale": "KJV loeb kui juurt שור 'varitsen' ('teel ma neid jälgin'); teised lugevad pärisnime Assur — Assuri tee."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Assuri teel",
+      "rationale": "Võimalik ka 'kui tee-pealne varitseja', kui võtta שור verbi, nagu KJB."
+    }
+  ],
+  "translation": "Ja ma olen neile nagu lõvi, nagu leopard, kes Assuri teel varitseb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/13\/5-8.1792551141320.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ja ma olen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lõvi"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "nagu leopard"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuru"
+    }
+  ],
+  "timestamp": "2026-10-21T02:52:21.321945793Z",
+  "model": "glm-5.3"
+}

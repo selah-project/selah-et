@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דחה \/ דחיתני",
+      "rationale": "Sama juure kordus — 'tõuke andes tõukasite' — heebrea kõikuv rütm, eesti keeles osaliselt alles"
+    },
+    {
+      "kind": "crux",
+      "subject": "דחה",
+      "rationale": "Lause puudub subjekt: 'sina mind tõukasid' — kõneleja adresseerib nimetamata vaenlast"
+    }
+  ],
+  "translation": "Tõuke andes tõukasite mind langema, aga Jahve aitas mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/13-16.1792553961746.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "tõuke andes"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "tõukasite mind"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "langema"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "aga Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "aitas mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:21.747449015Z",
+  "model": "glm-5.3"
+}

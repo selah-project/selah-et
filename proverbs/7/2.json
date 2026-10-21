@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "must (silma)",
+      "rationale": "כאישון sõna-sõnalt 'silma väike mees' — silmaisterdiku võrkkest, mis peegeldab väikse kujutise; 'must' on vabam."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the son",
+      "rationale": "jätkuv imperatiivide rida isa kõnes."
+    }
+  ],
+  "translation": "Hoia mu käske ja ela, ja mu Toorat nagu oma silma ·must·.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/7\/1-4.1792554566320.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hoia"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mu käske"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ja ela"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ja mu Toorat"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "nagu ·must·"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "oma silma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:26.321576610Z",
+  "model": "glm-5.3"
+}

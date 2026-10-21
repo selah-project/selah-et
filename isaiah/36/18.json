@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jumalad",
+      "rationale": "rahvaste valede jumalate kohta kirjutatakse Elohim väikese tähega — jumalad"
+    },
+    {
+      "kind": "you",
+      "subject": "Juuda rahvale",
+      "rationale": "Rabšake kõne Jerušalaimi müüride peal addressed lihtinimestele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kuniga",
+      "rationale": "eesti kõnekeelne 'kuniga' möönab; võiks olla ka 'kuninga'"
+    }
+  ],
+  "translation": "et Hizkija ⟨את⟩ teid ei eksitaks, öeldes: Jahve päästab meid. Kas päästsid rahvaste jumalad, igaüks ⟨את⟩ oma maa, Assüüria kuninga käest?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8881f14b30031a125d43260bb96bd7300760a5d2775bf4b6cd091b70ec8f92c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/36\/17-20.1792547280462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "et … ei"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "eksitaks"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkija"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "päästab meid"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "kas päästsid"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalad"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma maa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "oma maa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuniga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aššuri"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:00.463716821Z",
+  "model": "glm-5.3"
+}

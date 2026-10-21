@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "juurde",
+      "rationale": "Eesti keele kääne nõuab lisasõna, heebrea ütleb lihtsalt 'ja ta lisab õpetust'"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja lugejale",
+      "rationale": "Käskiv käändeline pöördumine: õpetussõnad kõnetavad otse õpilast"
+    }
+  ],
+  "translation": "Anna targale, ja ta saab veel targemaks; tee teada õigeks ja ta lisab ⟨juurde⟩ õpetust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/9\/9-12.1792554600504.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "targale"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "ja ta saab veel targemaks"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "tee teada"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "õigeks"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ja ta lisab"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "õpetust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:00.505359663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "siin on את eessõna 'sinuga' (H854), mitte sihitähis (H853) — 'käseb õnnistuse sinuga koos' vs 'käseb sinu üle õnnistuse'; ⟨את⟩ hoitud mõlemal kujul"
+    },
+    {
+      "kind": "idiom",
+      "subject": "משלח יד",
+      "gloss": "sõna-sõnalt 'käe väljasaatmine' = kättejõudmine, ettevõtmine",
+      "rationale": "eesti keeles 'mida sinu käsi ette võtab'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "באסמיך",
+      "rationale": "õnnistus suunatakse konkreetsetesse viljalaoruumidesse — õnnistuse mõõdetav, majapidamislik koht"
+    }
+  ],
+  "translation": "Jahve käseb ⟨את⟩ sinuga ⟨את⟩ õnnistuse sinu viljaaitadesse ja kõiges, mida sinu käsi ette võtab, ja Jahve õnnistab sind ⟨sel⟩ maal, mille Jahve, sinu Elohim, sinule annab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/28\/5-8.1792541145712.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "käseb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "õnnistuse"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "õnnistuse"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "sinu viljaaitadesse"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kõiges"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mida ... ette võtab"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sinu käsi"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ja õnnistab sind"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    }
+  ],
+  "timestamp": "2026-10-21T00:05:45.713458425Z",
+  "model": "glm-5.3"
+}

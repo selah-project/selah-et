@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עון על עונם",
+      "rationale": "sama sõna kordus: 'süü nende süü peale' — hoiab heebrea kõla"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה jäetakse vastavalt keele distsipliinile tsedek-kuju, mitte 'õigus'"
+    }
+  ],
+  "translation": "Anna süü nende süü peale, ja ärgu nad tulgu sinu tsedekusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/25-28.1792553221964.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "anna"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nende süü"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ärgu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "nad tulgu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sinu tsedekusse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:01.965325174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שרות",
+      "rationale": "Sõna 'vabadus\/äravabastus' esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "שרותך לטוב",
+      "rationale": "'Ma vabastan su heaks' (JPS) vs 'ma teen sind kindlaks heaks' (ASV) vs 'sinu jäänus saab häda' (mõned tõlked)"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפגעתי בך",
+      "rationale": "Jussiivne puutumine: 'sekkun sinu heaks vaenlase juures' vs 'puutun sinu vastu' — kumb pool, on vaidlusalune"
+    }
+  ],
+  "translation": "Ütles Jahve: kui mitte — su vabadus heaks? Kui mitte — mina astusin sinuga kokku kurja ajal ja ahastuse ajal ⟨את⟩ vaenlase ⟨kallal⟩?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a73cde250046486305da11170782a828977c7b2b98a2edc7a52f4ff0968ba912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/15\/9-12.1792548355055.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "su vabadus"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "heaks"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "astusin kokku (sekkusin)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinuga"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ja ajal"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahastuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaenlase"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "vaenlase"
+    }
+  ],
+  "timestamp": "2026-10-21T02:05:55.058622412Z",
+  "model": "glm-5.3"
+}

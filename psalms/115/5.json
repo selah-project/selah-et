@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti vajab kopeelatava puudumisel tegusõna 'on', heebreal puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "negaatus",
+      "rationale": "Eesti jaatav-negatiivne 'ei räägi' katab heebrea ולא 'ja mitte'"
+    }
+  ],
+  "translation": "Suu neil ⟨on⟩, aga nad ei räägi; silmad neil ⟨on⟩, aga nad ei näe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/5-8.1792553981172.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "suu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga nad ei"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "räági"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "silmad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga nad ei"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:41.172567683Z",
+  "model": "glm-5.3"
+}

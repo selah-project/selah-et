@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nuga",
+      "rationale": "המאכלת on sõna-sõnalt 'söögivahend', ainus 'nuga' tähendav sõna Tanahhis (esineb veel Hk 19:1; Hb 20:2 — prohveti nuga)."
+    },
+    {
+      "kind": "elision",
+      "subject": "את בנו",
+      "rationale": "Lõpp 'oma poja' puudub vajaliku selguse nimel; heebrea lõpetab ootuspäraselt sarnaselt salmile 9."
+    }
+  ],
+  "translation": "Ja Avraham sirutas välja ⟨את⟩ oma käe ja võttis ⟨את⟩ noa, et teha ohvriks ⟨את⟩ oma poja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/22\/9-12.1792537609245.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja sirutas välja"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja võttis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noa"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "noa"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "et teha ohvriks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma poja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oma poja"
+    }
+  ],
+  "timestamp": "2026-10-20T23:06:49.246776701Z",
+  "model": "glm-5.3"
+}

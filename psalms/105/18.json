@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud, mitte kehatu hing; 'raud läks tema neefeshi' — kogu tema olendi kohale tuli raud."
+    },
+    {
+      "kind": "crux",
+      "subject": "raud",
+      "rationale": "'באה נפשו ברזל': KJV 'tema hing rauda (ahelaid) sattus' vs juba-settimme 'raud läks tema hinge' — sõnajärg toetab viimast."
+    }
+  ],
+  "translation": "Piinasid tema jalgu kahlaga — raud läks tema hinge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/17-20.1792553790563.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Piinasid"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "kahlaga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tema jalgu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "raud"
+    },
+    {
+      "surface": "באה",
+      "gloss": "läks"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:30.563782213Z",
+  "model": "glm-5.3"
+}

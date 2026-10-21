@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Palve-apellatsioon: kaks keeldu ja palve 'vaata, me oleme kõik sinu rahvas'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הן הבט נא",
+      "rationale": "Korduv vaatamisimperatiiv koos נא-palveosakesega: 'vaata, vaata nüüd (palun)' — tõlkes 'we beseech thee' jätab korduse ära."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "KJV 64:9 vastab heebrea 64:8-le; heebrea salme mööda on see peatüki palve kulminatsioon."
+    }
+  ],
+  "translation": "Ära vihastu, Jahve, ülearu väga, ja ära igavesti mäleta süüd; vaata, vaata nüüd, me oleme kõik sinu rahvas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/64\/5-8.1792547931349.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "vihastu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ülearu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "mäleta"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süüd"
+    },
+    {
+      "surface": "הן",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd (palve)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinu rahvas"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "me kõik"
+    }
+  ],
+  "timestamp": "2026-10-21T01:58:51.352651533Z",
+  "model": "glm-5.3"
+}

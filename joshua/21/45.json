@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפל\/דבר\/דבר",
+      "rationale": "dāḇār 'sõna\/asjа' kordub kolm korda ja 'kõnelema' (dibber) — kõik-langes-kõne kaja, mida eesti keeles osaliselt edasi annab sõna-kordus."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נפל דבר",
+      "rationale": "otsetõlge 'sõna langes' tähendab 'jäi täitmata'; eesti keeles kasutatud 'ei jäänud täitmata'."
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kaudne kõneviis; eesti keel vajab abiverbi 'oli'."
+    }
+  ],
+  "translation": "Ükski sõna ei jäänud täitmata kõigist headest sõnadest, mida Jahve oli rääkinud Jisraeli kojaile — kõik sai teoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5148a3fb9e6d8a56047b5597e3c76c388f6d602d3641df5f8ae005d37aeaac99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/21\/45-45.1792541663910.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "jäänud täitmata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ükski sõna"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sõnadest"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "headest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli rääkinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kojaile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sai teoks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:14:23.911267427Z",
+  "model": "glm-5.3"
+}

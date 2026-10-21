@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בת ציון",
+      "rationale": "'Siioni tütar' = kogukond, mitte üks naine; kuju jäetakse sõna-sõnalt"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלונה",
+      "rationale": "ainus esinemine: valveonn\/magasinihütt ööbimisest (לין), 'valveonn' kujundi järgi"
+    }
+  ],
+  "translation": "Ja järele jäänud on Siioni tütar nagu onn viinamäel, nagu valveonn kurgipõllul, nagu piiratud linn.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/1\/5-8.1792546514693.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ja järele jäänud"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "nagu onn"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "viinamäel"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "nagu valveonn"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "kurgipõllul"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "nagu linn"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "piiratud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:35:14.695145830Z",
+  "model": "glm-5.3"
+}

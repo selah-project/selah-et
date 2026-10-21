@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "päevi ja neli kuud",
+      "rationale": "Ajaarvamine; 'päevi' täpsustamata arv, mõned tõlked pakuvad 'aasta' (kjv)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימים",
+      "rationale": "Määratlemata arv 'päevi' — kjv\/jps loevad 'aasta', heebrea tekst ütleb lihtsalt 'päevi ja neli kuud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti kopeerub kopeerub; heebrea ויהי kannab seda"
+    }
+  ],
+  "translation": "Ja päevade arv, millal David elas pliistlaste väljal, ⟨oli⟩ päevi ja neli kuud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "330c4cecc3ddf6716d9ae76e156eab7bbc703802a62c228482bd526a150e96ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/27\/5-8.1792544250123.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "arv"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päevade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millal"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "elas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "väljal"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pliistlaste"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevi"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "kuud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:57:30.124909047Z",
+  "model": "glm-5.3"
+}

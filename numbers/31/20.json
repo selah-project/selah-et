@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "puhastage",
+      "rationale": "תתחטאו — sõna-sõnalt 'patustage end puhtaks', rituaalne puhastus, mitte moraalne patt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וכל ×4",
+      "rationale": "Neli korda korduv 'ja kõik' annab loendile löögiühtluse rütmi."
+    }
+  ],
+  "translation": "ja kõik rõivad, ja kõik nahast riistad, ja kõik kitsekarvast tööd, ja kõik puust riistad — puhastage end.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "835b8a91d21d932e2e12bea38edddd8ba4addd908d734e059b64ffd068d6dde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/31\/17-20.1792540427850.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "rõivad"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "riistad"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nahast"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tööd"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kitsekarvast"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "riistad"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puust"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "puhastage end"
+    }
+  ],
+  "timestamp": "2026-10-20T23:53:47.851653698Z",
+  "model": "glm-5.3"
+}

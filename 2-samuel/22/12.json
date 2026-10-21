@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חשרת",
+      "rationale": "sõna esineb Tanahhis ainult siin; tähendab pilvede kogunemist veevarustuseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחקים",
+      "rationale": "sõna otsene tähendus 'peeneks peksutatud tolm' — kujutab pilvi kui taeva tolmu"
+    }
+  ],
+  "translation": "Ja ta pani pimeduse ümber enda telkideks, veekogumite kogunemise, paksud pilved.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/22\/9-12.1792544966390.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ja ta pani"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeduse"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ümber enda"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "telkideks"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "veekogumite kogunemise"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vete"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "paksud"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pilved"
+    }
+  ],
+  "timestamp": "2026-10-21T01:09:26.391807737Z",
+  "model": "glm-5.3"
+}

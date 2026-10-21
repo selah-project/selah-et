@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברצח",
+      "rationale": "KJV 'as with a sword'; JPS 'as with a crushing' — the word is a crushing\/slaughter-cry, rendered literally here"
+    },
+    {
+      "kind": "you",
+      "subject": "to the psalmist",
+      "rationale": "the enemies' taunt is direct speech addressed to the sufferer"
+    }
+  ],
+  "translation": "Nagu tapahäd mu luumatus teevad mu vaenlased mulle pilkust, öeldes mulle kogu päeva: kus ⟨on⟩ su Elohim?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/42\/9-12.1792552870331.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "nagu tapahäd"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "mu luumatus"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "teevad mulle pilkust"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mu vaenlased"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kus"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:10.332730255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך\/דרכי",
+      "rationale": "tee kordub alguses ja lõpus — kaja jääb eesti keeles osaliselt püsima"
+    },
+    {
+      "kind": "crux",
+      "subject": "לפני איש",
+      "rationale": "otsetõlge 'mehe ees\/silme ees' vs 'tundub õige mehele' (KJV) — heebrea ütleb sirgelt 'tee on sirge mehe ees'"
+    }
+  ],
+  "translation": "On olemas tee, mis on sirge mehe ees, ja tema lõpp on surma teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/25-28.1792554693833.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "on olemas"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "sirge"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ja tema lõpp"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "teed"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:33.833760821Z",
+  "model": "glm-5.3"
+}

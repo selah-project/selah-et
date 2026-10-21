@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 20:1",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Salm pöördub otse võitleja poole: 'sa lähed välja', 'ära karda'."
+    },
+    {
+      "kind": "crux",
+      "subject": "המעלך",
+      "rationale": "Hiphil 'tõstis üles\/teeni välja' — 'tõi välja' (KJV) vs 'tõstis üles' (ASV, JPS); hebrea kääne on aktiivsem kui 'välja toomine'."
+    }
+  ],
+  "translation": "Kui sa lähed välja sõtta oma vaenlaste vastu ja näed hobuseid ja sõjavankreid, rahvast, kes on rohkem kui sina, siis ära karda neid, sest Jahve, su Elohim, on sinuga, kes tõstis sind üles Mitsraimi maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/20\/1-4.1792540993251.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähed välja"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sõtta"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "sinu vaenlased"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "ja näed"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hobuseid"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ja sõjavankreid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahvast"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rohkem"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kui sina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "karda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinuga"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "kes tõstis sind üles"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-10-21T00:03:13.252341055Z",
+  "model": "glm-5.3"
+}

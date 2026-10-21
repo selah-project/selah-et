@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nahum 3:18",
+  "book": "nahum",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישכנו אדיריך",
+      "rationale": "'Sinu vägevad lamavad' vs KJV 'elasid tolmus' — heebrea tekst ei maini tolmu; 'puhkavad igaveseks' on kaudne."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נפשו",
+      "rationale": "Juur פושׁ võib tähendada nii 'laiali valguma' kui 'uhkeldama'; põhiline on laialipillatud rahva pilt."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨neid⟩",
+      "rationale": "Eesti kaudne kõne vajab objektisõna, mida heebrea heidab kogujale ilma selleta."
+    }
+  ],
+  "translation": "Uninevad sinu karjused, Assuri kuningas; lamavad sinu vägevad; laiali on pillatud sinu rahvas mägedel, ja ei ole kedagi, kes ⟨neid⟩ koguks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "295286b8265b52e6d645705d4560c8e77775675bc3f1fda32d20df6975bb6199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nahum\/3\/17-19.1792551587065.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמו",
+      "gloss": "uninevad"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "sinu karjused"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "lamavad"
+    },
+    {
+      "surface": "אדיריך",
+      "gloss": "sinu vägevad"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "laiali on pillatud"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinu rahvas"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mägede"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "מקבץ",
+      "gloss": "kogujat"
+    }
+  ],
+  "timestamp": "2026-10-21T02:59:47.066370025Z",
+  "model": "glm-5.3"
+}

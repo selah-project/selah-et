@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Toora",
+      "rationale": "התורת jääb 'Toora', mitte 'seadus' — mitmus 'Toorad' jääb mitmuseks."
+    },
+    {
+      "kind": "addition",
+      "subject": "peavad",
+      "rationale": "Eesti jaatav käsk vajab modaali 'peavad', heebrea jaatav partitsiip seda ei ütle."
+    }
+  ],
+  "translation": "ja hoiata sina ⟨את⟩ neid ⟨את⟩ määruste ja ⟨את⟩ Toorade eest, ja tee neile teada ⟨את⟩ tee, mida mööda nad käivad, ja ⟨את⟩ teo, mida nad peavad tegema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "904584ff265917df7da43c1dd71bb2889f05b0fdfe3ce740ed80cf750d7055db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/18\/17-20.1792538584038.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "ja hoiata"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "neid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "määruste"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "määruste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Toorade"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Toorade"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ja tee teada"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tee"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nad käivad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mööda seda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "teo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "teo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "nad peavad tegema"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:04.040344679Z",
+  "model": "glm-5.3"
+}

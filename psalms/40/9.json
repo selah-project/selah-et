@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puuduv öeldis, eesti keeles vajalik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sisikond",
+      "rationale": "מעי tähendab sõna-sõnalt kõhtu\/siseelundeid, mitte südametunnistust"
+    }
+  ],
+  "translation": "Teha sinu tahtmist, mu Elohim, ma olen ihaldanud, ja sinu Toora ⟨on⟩ mu sisikonna sees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/40\/9-12.1792552762385.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "sinu tahtmist"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ma olen ihaldanud"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ja sinu Toora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sees"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mu sisikonda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:22.386331309Z",
+  "model": "glm-5.3"
+}

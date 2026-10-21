@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub öeldis; eesti nõuab kopula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארחות\/מעגלות",
+      "rationale": "taas kaks teekonna-sõna — 'oroḥ' ja 'ma'agal' — kordavad salmi 13 teekonna-kujundit"
+    }
+  ],
+  "translation": "kelle teed on kõverad ja nad on pöördsed oma radades;",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63fe996d07235417bd280007e301249c080a6e2a6fdc11c62a828a02ea2bd02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/2\/13-16.1792554464818.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "teed"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "on kõverad"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "ja nad on pöördsed"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "oma radades"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:44.819221757Z",
+  "model": "glm-5.3"
+}

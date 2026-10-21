@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בקבק",
+      "rationale": "sõna 'pudel' ilmub Tanahhis vaid siin ja Jer 19:1 — kõla imiteerib pudeli tühjendamise kurinat"
+    }
+  ],
+  "translation": "Ja sa purustad pudeli nende meeste silma ees, kes sinuga ⟨את⟩ käivad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8582fbfb4effbbd0d47082f303133cff0de2b57258bb9c7f90f9bae10d4fb959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/19\/9-12.1792548460272.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "ja sa purustad"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "pudeli"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "silmade ees"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "meeste"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kes käivad"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sinuga",
+      "marks": "sina"
+    }
+  ],
+  "timestamp": "2026-10-21T02:07:40.273851908Z",
+  "model": "glm-5.3"
+}

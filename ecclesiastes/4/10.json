@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "Hoolalt loetud kui 'vaa, üksinda olevale' (JPS 'woe to him that is alone') või lihtsalt 'aga kui' tingliku jätkuna."
+    }
+  ],
+  "translation": "Sest kui nad langevad, tõstab üks üles ⟨את⟩ oma kaaslase; aga üksinda olevale — kui ta langeb ja teist pole, kes ta üles tõstaks!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/4\/9-12.1792556042460.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "nad langevad"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "tõstab üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kaaslase"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "oma kaaslase"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "aga üksinda olevale —"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kui ta langeb"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja pole"
+    },
+    {
+      "surface": "שני",
+      "gloss": "teist"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "kes ta üles tõstaks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:02.461218858Z",
+  "model": "glm-5.3"
+}

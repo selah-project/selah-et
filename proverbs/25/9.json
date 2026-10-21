@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "salajane nõu — usalduslik seis, mida ei tohi teisele avaldada."
+    },
+    {
+      "kind": "crux",
+      "subject": "סוד אחר",
+      "rationale": "kas 'teise saladust' (teise inimese usaldus) või 'teisele saladust' (võõrale); KJV loeb kahepidi."
+    }
+  ],
+  "translation": "Riidle oma tüli ⟨את⟩ oma kaaslasega, ja teise salajast nõu ära avalda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/9-12.1792554944788.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "oma tüli"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "riidle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kaaslasega"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "oma kaaslasega"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ja salajast nõu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "teise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "avalda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:44.789138787Z",
+  "model": "glm-5.3"
+}

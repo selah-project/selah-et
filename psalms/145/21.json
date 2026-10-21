@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "Heebrea פי on konstrukti 'mu suu' ehk 'teie suu'; possessiivpronoomen lisatud eesti keele nõudel"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויברך",
+      "rationale": "KJV 'let all flesh bless' (jussiiv) vs 'ja kogu liha õnnistab' (indikatiiv); heebrea kohatiiv\/lühike jussiiv lubab mõlemat"
+    }
+  ],
+  "translation": "Jahve kiitust räägib mu suu ja kiitagu kogu liha tema püha nime igavesti ja alatiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b4ff06a0a24023cc0952b89e9adf8b964dfbb2d0b0c915dd7f52a47316d414c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/21-21.1792554359336.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "kiitust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "räägib"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mu suu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ja kiitagu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tema püha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja alatiseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:59.336514281Z",
+  "model": "glm-5.3"
+}

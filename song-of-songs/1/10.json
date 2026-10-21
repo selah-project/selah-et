@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בתרים",
+      "rationale": "'Kuldpärlirea' vs 'juuksepatsid' — תור vaheldub tähenduses 'rivi, kee' ja 'keerd'."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub sidesõna; eesti kõlarvk nõuab seda."
+    }
+  ],
+  "translation": "Ilusad on sinu põsed pärlikeeodega, sinu kael pärlitest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/9-12.1792555757576.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "ilusad on"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "sinu põsed"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "pärlikeeodega"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "sinu kael"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "pärlitest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:17.576893969Z",
+  "model": "glm-5.3"
+}

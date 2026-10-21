@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אָוֶן",
+      "rationale": "Sõna tähendab 'tühjus\/kõrkus\/kurjus'; hoitud kõlaliselt, sest üks eesti sõna ei kanna kõiki varjunde"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצמיתם ... יצמיתם",
+      "rationale": "Kordus: 'hävitab nad ... hävitab nad' — kajav kinnitus, eestis jäänud kordusega"
+    }
+  ],
+  "translation": "Ja ta pöörab nende peale tagasi ⟨את⟩ nende אָוֶן-i ja nende kurjuses hävitab nad; hävitab nad Jahve, meie Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/94\/21-23.1792553749143.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ja ta pöörab tagasi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende peale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende אָוֶן"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "nende אָוֶן-i"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ja nende kurjuses"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "hävitab nad"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "hävitab nad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:49.143962221Z",
+  "model": "glm-5.3"
+}

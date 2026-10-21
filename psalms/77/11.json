@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puuduv koopula lisatud eesti lause nõudel"
+    },
+    {
+      "kind": "crux",
+      "subject": "šenot jemin Eljon",
+      "rationale": "שנות loetakse kas 'aastad' või (teises juures) 'muutused' — JPS: 'kõrgema parem käsi on muutunud'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלותי",
+      "rationale": "Salm on tuntud raskuskoheldus: KJV 'see on minu nõrkus' vs BSB 'mind kurvastab, et ... on muutunud'"
+    }
+  ],
+  "translation": "Ja ma ütlesin: minu viletsus ⟨on⟩ see — aastad Elyoni paremast käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/9-12.1792553358724.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "minu viletsus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "aastad"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paremast käest"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:18.725654472Z",
+  "model": "glm-5.3"
+}

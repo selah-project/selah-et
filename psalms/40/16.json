@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "Sõna tähendab 'kand\/teesuba' ja kaudselt 'tasu, palgakest' — 'nende häbi palgaks' (KJV 'reward of their shame') versus 'nende häbi tõttu' (ASV\/JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הֶאָח הֶאָח",
+      "rationale": "Kakskordne pilkenüüd 'haah, haah' — kõlak püsib eesti 'haah' kaudu"
+    }
+  ],
+  "translation": "Häbingegu oma häbi palga tõttu need, kes ütlevad mulle: haah, haah!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/40\/13-16.1792552777407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "häbingegu"
+    },
+    {
+      "surface": "על",
+      "gloss": "tõttu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "palga"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "oma häbi"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "need, kes ütlevad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "האח",
+      "gloss": "haah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "haah"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:37.409250723Z",
+  "model": "glm-5.3"
+}

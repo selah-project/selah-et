@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "siis olgu",
+      "rationale": "Eesti nõuab olevikuvormi ja sidendi; heebrea והיה kannab tulevikutähendust, mida eesti modaalne 'olgu' asendab."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kasvab suureks",
+      "rationale": "ישגה otseselt 'laieneb, kõrgeneb' — ruumiline pilt aja ja õnnega."
+    }
+  ],
+  "translation": "siis olgu su algus väike, aga su lõpp kasvab väga suureks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/8\/5-8.1792555192394.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "siis olgu"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "su algus"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "väike"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "aga su lõpp"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "kasvab suureks"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:52.395854016Z",
+  "model": "glm-5.3"
+}

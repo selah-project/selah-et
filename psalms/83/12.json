@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערב\/זאב",
+      "rationale": "Orev ('ronk') ja Ze'ev ('hunt') — linnu- ja loomanimedesõnamäng, eesti keeles nimefixed kaudu osaliselt kadunud"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסיך",
+      "rationale": "'Väljavalmistatu', libatsioonist — vürstidest ülekantult"
+    }
+  ],
+  "translation": "Pane nende ülikud nagu Oreviks ja nagu Ze'eviks, ja kui Zebahiks ja kui Tsalmunnaks, kõik nende vürstid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/83\/9-12.1792553526708.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Pane"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "nende ülikud"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "nagu Oreviks"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ja nagu Ze'eviks"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "ja kui Zebahiks"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ja kui Tsalmunnaks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "nende vürstid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:06.711422521Z",
+  "model": "glm-5.3"
+}

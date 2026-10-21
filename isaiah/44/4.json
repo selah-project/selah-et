@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בבין חציר",
+      "rationale": "'Rohu vahel' — vaid üks בֵּין, kus tavaliselt on kaks ('seal ja seal'); tõlkijad vaidlevad: 'rohu keskel' või 'rohu sekka kasvama'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערבים",
+      "rationale": "'Pajud' (pajupuud veekogude ääres); sõna tundub sarnane 'õhtu'-ga, kuid tähendab siin pilli- ehk pajupuu."
+    }
+  ],
+  "translation": "Ja nad tärkavad rohu vahel, nagu pajud veerääkaste ääres.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/44\/1-4.1792547537881.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ja nad tärkavad"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "rohu"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "nagu pajud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ääres"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "veerääkaste"
+    },
+    {
+      "surface": "מים",
+      "gloss": "…vee"
+    }
+  ],
+  "timestamp": "2026-10-21T01:52:17.882647206Z",
+  "model": "glm-5.3"
+}

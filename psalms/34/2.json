@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel; eesti keel seda nõuab."
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja",
+      "rationale": "Psalm avaneb esimeses kirjas pöördumisega, tegelik kõne on kogudusele."
+    }
+  ],
+  "translation": "Õnnistagem ⟨את⟩ Jahvet kogu ajal, pidevalt ⟨on⟩ tema kiitus mu suus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/34\/1-4.1792552644245.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "õnnistagem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pidevalt"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tema kiitus"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "mu suus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:24.246431288Z",
+  "model": "glm-5.3"
+}

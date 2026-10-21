@@ -1,0 +1,204 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 3:15",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סבכא · קיתרס · פסנתרין · סומפניה",
+      "rationale": "pillide nimed esinevad Tanahhis peaaegu ainult Taanieli pilt-kohas; täpne teadmatus, järgitud kõla"
+    },
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "eralduv eessõna sulandus eesti sõnavormi 'mu käest'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hea⟩ · ⟨teid⟩",
+      "rationale": "käskkirja heakskiit ('hea' vasteks heebrea metafoorile heaks kiitmiseks) ja passiivi objekt, mida aramaakeel verb ei nõua"
+    },
+    {
+      "kind": "you",
+      "subject": "Šadrakile, Meišakile ja Abed-Negole",
+      "rationale": "kuninga ähvarduskõne, otsene 'te'-pöördumine viimase retoorilise küsimisega"
+    }
+  ],
+  "translation": "Nüüd, kui te olete valmis, et sellel hetkel, kui te kuulete sarve, vile, kitharra, sabka, psaltri, sumfoonja ja igasuguse muusika häält, te langema ja kummardama kuju, mida ma olen teinud — ⟨hea⟩; aga kui te ei kummarda, siis samal hetkel heidetakse ⟨teid⟩ põleva tulise ahju keskele; ja kes on see jumal, kes teid mu käest päästaks?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "26727df9c02b408a8c562992b9027dc8f78413a7dffad5f46f9e777eaed371df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/3\/13-16.1792556418733.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kui"
+    },
+    {
+      "surface": "איתיכון",
+      "gloss": "te olete"
+    },
+    {
+      "surface": "עתידין",
+      "gloss": "valmis"
+    },
+    {
+      "surface": "די",
+      "gloss": "et"
+    },
+    {
+      "surface": "בעדנא",
+      "gloss": "sellel hetkel"
+    },
+    {
+      "surface": "די",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "te kuulete"
+    },
+    {
+      "surface": "קל",
+      "gloss": "häält"
+    },
+    {
+      "surface": "קרנא",
+      "gloss": "sarve"
+    },
+    {
+      "surface": "משרוקיתא",
+      "gloss": "vile"
+    },
+    {
+      "surface": "קיתרס",
+      "gloss": "kitharra"
+    },
+    {
+      "surface": "שבכא",
+      "gloss": "sabka"
+    },
+    {
+      "surface": "פסנתרין",
+      "gloss": "psaltri"
+    },
+    {
+      "surface": "וסומפניה",
+      "gloss": "ja sumfoonja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja igasuguse"
+    },
+    {
+      "surface": "זני",
+      "gloss": "liiki"
+    },
+    {
+      "surface": "זמרא",
+      "gloss": "muusikat"
+    },
+    {
+      "surface": "תפלון",
+      "gloss": "langema"
+    },
+    {
+      "surface": "ותסגדון",
+      "gloss": "ja kummardama"
+    },
+    {
+      "surface": "לצלמא",
+      "gloss": "kuju"
+    },
+    {
+      "surface": "די",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ma olen teinud"
+    },
+    {
+      "surface": "והן",
+      "gloss": "aga kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תסגדון",
+      "gloss": "kummarda"
+    },
+    {
+      "surface": "בה",
+      "gloss": "samal"
+    },
+    {
+      "surface": "שעתה",
+      "gloss": "hetkel"
+    },
+    {
+      "surface": "תתרמון",
+      "gloss": "heetakse"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "keskele"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "ahju"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "tulise"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "põleva"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on see"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "jumal"
+    },
+    {
+      "surface": "די",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ישיזבנכון",
+      "gloss": "teid päästaks"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:18.734696035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨naine⟩",
+      "rationale": "heebrea תהיה 'saab olema' eeldab abikaasarolli, eesti vajab selgitava sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõotusand",
+      "rationale": "תרומה on 'üles tõstetud osa' — kingitus, mis preestrile üles tõsteti"
+    }
+  ],
+  "translation": "Ja preestri tütar, kui temast saab võõrale mehele ⟨naine⟩, tema ei tohi süüa pühade tõotusandest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/22\/9-12.1792539500896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ja tütar"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preestri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "temast saab"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "זר",
+      "gloss": "võõrale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "tõotusannist"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "pühade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "süüa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:20.897830761Z",
+  "model": "glm-5.3"
+}

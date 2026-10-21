@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨üheski⟩",
+      "rationale": "Eesti keel vajab määrust, heebreal puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "על פני חוץ",
+      "rationale": "sõn-sõnalt 'välja pinnal' — 'tänaval\/avail' vs 'maailmas'"
+    }
+  ],
+  "translation": "Tema mälestus hukkub maalt, ja temal pole nime ⟨üheski⟩ tänava peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d439a6b2f954805fa2af8d678fa465e73bcac5ab6566fc527a1db8b7f9391ed3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/18\/17-20.1792555374327.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "tema mälestus"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hukkub"
+    },
+    {
+      "surface": "מני",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja pole"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temal"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnal"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "väljas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:54.327650723Z",
+  "model": "glm-5.3"
+}

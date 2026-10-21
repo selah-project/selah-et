@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 38:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "heebrea algab otse verbiga 'ja sulges'; teo teeb Jahve kõnest, kaja peab otsese ütluse"
+    },
+    {
+      "kind": "idiom",
+      "subject": "emaihust",
+      "rationale": "meri sünnib kui ihust — guhtus-pilt päritud otse"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kahe uksega",
+      "rationale": "בדלתים on kaksus — kaks ust, hoitud kujundina, mitte üks"
+    }
+  ],
+  "translation": "Ja ⟨tema⟩ sulges mere kahe uksega, kui see välja guhtus, emaihust tulles välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/38\/5-8.1792555667516.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסך",
+      "gloss": "ja sulges"
+    },
+    {
+      "surface": "בדלתים",
+      "gloss": "kahe uksega"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "בגיחו",
+      "gloss": "selle guhtudes"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "emaihust"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "välja tulles"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:47.516988869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 8:4",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Eesti keele objekt, mida heebrea partitsiip-vormiga ei vaja"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכרת",
+      "rationale": "'et nad ära lõigataks' — kas tagajärg ('seetõttu nad hävitatakse', KJV) või eesmärk ('et nad hävitataks')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצבים",
+      "rationale": "עצב 'ebajumal' on lähedane עצב 'valu, kurbus' — valu-jumalad, eesti keeles see kõlab ei kanna"
+    }
+  ],
+  "translation": "Nemad panid kuningaid, aga mitte minust; nad tegid vürste, aga mina ei teadnud ⟨seda⟩. Oma hõbedast ja oma kullast nad tegid endale ebajumalaid, et nad välja hävitataks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/8\/1-4.1792551009354.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "המליכו",
+      "gloss": "panid kuningaid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga mitte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minust"
+    },
+    {
+      "surface": "השירו",
+      "gloss": "tegid vürste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga mitte"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma ei teadnud"
+    },
+    {
+      "surface": "כספם",
+      "gloss": "oma hõbedast"
+    },
+    {
+      "surface": "וזהבם",
+      "gloss": "ja oma kullast"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nad tegid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "endale"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "ebajumalaid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "välja hävitataks"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:09.355368701Z",
+  "model": "glm-5.3"
+}

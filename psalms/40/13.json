@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nad on arvult rohkem kui",
+      "rationale": "Heebrea kasutab passiivi עצמו 'nad on kinnitatud rohkem kui' — eesti keeles lisatud tegijasõnad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "näha",
+      "rationale": "לראאות 'vaadata üles\/näha' — traditsiooniline 'vaadata üles' on tõlgendus, sõna ise ütleb 'näha'"
+    }
+  ],
+  "translation": "Sest kurjused ümbritsesid mind, arvata enam kui; mu ülekohused tabasid mind ja ma ei suutnud näha; nad on arvult rohkem kui mu pea juuksed ja mu süda jättis mu maha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/40\/13-16.1792552777407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "ümbritsesid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kurjused"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pole"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "arvu"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "tabasid mind"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mu ülekohused"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "suutnud ma"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "näha"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "rohkem kui"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "juuksed"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pea"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ja mu süda"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "jättis mu maha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:37.408587805Z",
+  "model": "glm-5.3"
+}

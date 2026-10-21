@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kerge",
+      "rationale": "קלתי 'ma olen kerge\/vähetähtis' — heebrea kõlab 'lahti tehtud, kergeks osutunud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "למו ei täpsusta otseselt 'suud'; 'oma' lisatud loetavuseks"
+    }
+  ],
+  "translation": "Enese, ma olen kerge; mida ma sulle vastan? Minu käe olen pannud oma suule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/40\/1-4.1792555709458.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "enese"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "ma olen kerge"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ma sulle vastan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "minu käe"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "olen pannud"
+    },
+    {
+      "surface": "למו",
+      "gloss": "oma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suule"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:29.459653142Z",
+  "model": "glm-5.3"
+}

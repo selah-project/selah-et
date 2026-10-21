@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "soost",
+      "rationale": "בית אל = 'Jisraeli maja'; 'maja' kui perekond — 'Jisraeli soost Jisrael'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli soole",
+      "rationale": "Otsene pöördumine Jisraeli maja poole"
+    }
+  ],
+  "translation": "Ja te ütlete: Adonai tee ei ole õigesti kaalutud. Igaüks oma teede järgi mõistan ma kohust ⟨את⟩ teid, Jaakobi soost Jisrael.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc98f7b43999e4502979c3d2a816e8fc0e86dcf1e4e3453cae846493b8f47d51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/33\/17-20.1792550420136.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "ja te ütlete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "ole õigesti kaalutud"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "oma teede järgi"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "mõistan kohust"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "soost"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T02:40:20.137523097Z",
+  "model": "glm-5.3"
+}

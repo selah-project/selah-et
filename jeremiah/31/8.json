@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 31:8",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Kopeerita lause 'nende seas pime ja jalutu' — eesti keel lisab 'on'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pime",
+      "rationale": "עור on 'pime (silmadelt)' — tõlgitud 'pime', mitte 'pime inimene'; kuju jääb omadussõnaks nagu heebreas."
+    }
+  ],
+  "translation": "Vaata, mina toon nad põhjamaalt ja kogun nad maa äärtest; nende seas ⟨on⟩ pime ja jalutu, rase ja sünnitav — koos suur kogu nad pöörduvad siia tagasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dcff08532b5bd9ba3e7a6cc167df2fe35a6252993986716e513a40c46626b049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/31\/5-8.1792548923911.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "vaata, mina"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "toon"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "nemad (sisserändajad)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "põhja"
+    },
+    {
+      "surface": "וקבצתים",
+      "gloss": "ja kogun nad"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "äärtest"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nende seas"
+    },
+    {
+      "surface": "עור",
+      "gloss": "pime"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "ja jalutu"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "rase"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "ja sünnitav"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "koos"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "nad pöörduvad tagasi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siia"
+    }
+  ],
+  "timestamp": "2026-10-21T02:15:23.916321335Z",
+  "model": "glm-5.3"
+}

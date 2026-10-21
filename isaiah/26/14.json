@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "refaimid",
+      "rationale": "רפאים on varjud, surnute vaimud; hoitud heebrea kõlas, mitte 'varjud' ega 'koolbastud'."
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Lüüriline enklitik 'neid' sulandub eesti käänetesse, esitatud ⟨neid⟩-ga."
+    }
+  ],
+  "translation": "Surnud ei ela, refaimid ei tõuse; seepärast sa külastasid ⟨neid⟩ ja hävitasid nad, ja sa tegid kaduma kogu nende mälestuse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/26\/13-16.1792547040977.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "surnud"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ela"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "tõuse"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "sa külastasid"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "ja hävitasid nad"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ja sa tegid kaduma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mälestuse"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨neid⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T01:44:00.978476661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Siin on אתם prepositsioon 'koos nendega', mitte aleph-tav; kuid tunnus nõuab ⟨את⟩-glossi."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab löögi jaoks verbilaadset sidet, heebrea sõnatu."
+    }
+  ],
+  "translation": "Paras, Kuus ja Put nendega, kõik neist kilbi ja kiivriga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f9e60814802c096c07d8ad82e12253fd3bfb7ca9300c222feafa13fcfec886ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/38\/5-8.1792550637163.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuus"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ja Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nendega"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kõik neist"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "kilbi"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ja kiivriga"
+    }
+  ],
+  "timestamp": "2026-10-21T02:43:57.163609234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 8:5",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolmsada meest",
+      "rationale": "Rahvaloenduslaadne meeste arvu loetelu tagasipöördujate nimekirjas."
+    },
+    {
+      "kind": "crux",
+      "subject": "בן יחזיאל",
+      "rationale": "Heebrea tekst ei nimeta siin peamist isikut, vaid ainult 'Jahatsieli poeg'; mõned tõlked (BSB) lisa­vad rühma ülemaks eeldatava nime."
+    }
+  ],
+  "translation": "Šekanjahu poegadest: Jahatsieli poeg, ja temaga koos kolmsada meest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "157d6dbe2b272ce1727058254231cc8607e50fed9fbc1014660ed4da4e897f73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/8\/5-8.1792556719296.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "poegadest"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Šekanjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Jahatsiel"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ja temaga koos"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "meest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:19.297300817Z",
+  "model": "glm-5.3"
+}

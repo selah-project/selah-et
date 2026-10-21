@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "להוללים \/ תהלו",
+      "rationale": "Sama juur הלל kordub nimetavas ja keelus — 'kiitlejatele: ärge kiitlege' — kajastatud ka eesti tõlkes."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוללים",
+      "rationale": "Juurt הלל tõlgitakse 'rumalad' (KJV), 'ülbed' (JPS) või 'kiitlejad' (YLT); 'kiitlejad' järgib juure tähendust 'rääkida uhkusega'."
+    }
+  ],
+  "translation": "Ütlesin kiitlejatele: ärge kiitlege, ja õelatele: ärge tõstke sarve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/75\/5-8.1792553371524.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ütlesin"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "kiitlejatele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "kiitlege"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "ja õelatele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "tõstke"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sarve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:31.525255486Z",
+  "model": "glm-5.3"
+}

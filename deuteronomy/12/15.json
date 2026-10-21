@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 12:15",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on kõri\/elujõud\/isu, mitte 'hing' abstraktses mõttes"
+    },
+    {
+      "kind": "crux",
+      "subject": "תזבח",
+      "rationale": "'võid ohverdada' vs 'võid tappa' — kontekst (söök kõigis väravates, nagu gaselli) viimase poole"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הטמא והטהור",
+      "rationale": "ebapuhas\/puhas — sama juurtik, kordus rõhutab vastandit, kaob osaliselt tõlkes"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אות",
+      "rationale": "רק בכל אות — iha-sõna esineb Tanahhis vaid üksikuid kordi"
+    }
+  ],
+  "translation": "Ainuksi: kõige järel, mida su nefesh ihaldab, võid teha ⟨את⟩ ohvri tapmise ja süüa liha, nii nagu Jahve, su Elohim, on sind õnnistanud kõigis su väravates; ebapuhas ja puhas võivad seda süüa, nagu gaselli ja hirve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/12\/13-16.1792540898525.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainuksi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõige"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ihalduse"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "su nefesh"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "võid teha ⟨את⟩ ohvri tapmise"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ja süüa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "nii nagu õnnistuse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "on andnud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõigis"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "su väravates"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ebapuhas"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ja puhas"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "võivad seda süüa"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "nagu gasell"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "ja hirv"
+    }
+  ],
+  "timestamp": "2026-10-21T00:01:38.526233101Z",
+  "model": "glm-5.3"
+}

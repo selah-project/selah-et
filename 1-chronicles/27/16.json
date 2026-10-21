@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebreas puudub koppelverbi olemasolu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šimvonlastele",
+      "rationale": "לשמעוני on liitvorm; eesti keeles sõnajärg täidab puuduva ülem-õige"
+    }
+  ],
+  "translation": "Ja Jisraeli sugukondade üle: rubenlastele ⟨oli⟩ ülem Eliezer, Sikri poeg; šimvonlastele Shefatja, Maaka poeg.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41c17bc6e3b31b6e6d56e6e8584a8e42401f8187a94799fde6235d143c404b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/27\/13-16.1792557572552.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ja üle"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "sugukondade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "rubenlastele"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Sikri"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "šimvonlastele"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "Shefatja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-10-21T04:39:32.554595709Z",
+  "model": "glm-5.3"
+}

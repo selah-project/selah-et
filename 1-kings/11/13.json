@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hõim",
+      "rationale": "שבט on 'sau, hõim' — karg, mitte 'päritoluliin'."
+    }
+  ],
+  "translation": "Ainult ⟨את⟩ kogu kuningriiki ma ära ei kisku; ühe hõimu annan ma sinu pojale, Davidi, mu teenri pärast ja Jerušalaimi pärast, mille ma valisin.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/11\/13-16.1792545446278.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu kuningriigi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningriiki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "kisku (ma ära)"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "hõimu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "annan ma"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "sinu pojale"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mu teenri"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja pärast"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ma valisin"
+    }
+  ],
+  "timestamp": "2026-10-21T01:17:26.279071753Z",
+  "model": "glm-5.3"
+}

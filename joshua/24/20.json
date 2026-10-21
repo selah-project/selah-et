@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Loogiline 'kui ... siis' tingimuslik või põhjuslik 'sest' — tõlkijad jagunevad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "võõraid jumalaid",
+      "rationale": "אלהי נכר sõna-sõnalt 'võõra Elohim' — mitmus koos 'võõrast' kujuneb eesti omadussõnaks"
+    }
+  ],
+  "translation": "Kui te jätate maha ⟨את⟩ Jahve ja teenite võõraid jumalaid, siis pöördub ta ja teeb teile kurja ning hävitab ⟨את⟩ teid, pärast seda, kui ta on teile head teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/17-20.1792541812677.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "te jätate maha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ja teenite"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "jumalaid"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "võõraid"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "pöördub"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ja teeb kurja"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ning hävitab"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seda, et"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "on head teinud"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    }
+  ],
+  "timestamp": "2026-10-21T00:16:52.679298626Z",
+  "model": "glm-5.3"
+}

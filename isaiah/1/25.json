@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבר",
+      "rationale": "'sooda\/leelis' (JPS) vs 'puhtaks' (KJV põhineb kui 'puhtuseks') — keemiline puhastusvahend, milleta metall ei sula puhtaks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בדיל",
+      "rationale": "Sõna tähendab nii 'tina' kui 'lisand', mis sulatamisel eemaldatakse."
+    }
+  ],
+  "translation": "Ja pööran oma käe sinu vastu ja sulan nagu soodaga sinu räbu ning eemaldan kogu sinu tina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eee3dcdb8668e34c30089d842b03c2e976f828dea70b761592f4188a52d3e489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/1\/25-28.1792546547621.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "ja pööran"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu vastu"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "ja sulan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "nagu soodaga"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "sinu räbu"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "ja eemaldan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "sinu tina"
+    }
+  ],
+  "timestamp": "2026-10-21T01:35:47.621806171Z",
+  "model": "glm-5.3"
+}

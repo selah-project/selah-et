@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שננו\/חרב",
+      "rationale": "keel kui mõõk ja nool: דרך tähendab nii 'astuma, vibu pingutama' kui 'suunama' — kujund keelest kui relvast"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר מר",
+      "rationale": "JPS 'mürgitatud sõna' vs sõnasõnaline 'mõru sõna'; מר on 'mõru', mitte 'mürgi'"
+    }
+  ],
+  "translation": "Kes oma keele teritasid nagu mõõga, oma nooli suunasid — sõna, mõru.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/64\/1-4.1792553104762.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "teritasid"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "nagu mõõga"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "oma keele"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "suunasid"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "oma nooli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mõru"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:04.764879745Z",
+  "model": "glm-5.3"
+}

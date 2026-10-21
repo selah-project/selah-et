@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "מספר",
+      "rationale": "Jäänud puud on kokku loetavad — lugemise ja üleskirjutamise motiiv."
+    },
+    {
+      "kind": "addition",
+      "subject": "üdane",
+      "rationale": "Eesti keeles vajalik täiend, mis täpsustab 'arvuga' mõtet 'niivähe, et laps neid loeb'."
+    }
+  ],
+  "translation": "Ja tema metsa puude jääk saab arvuga ⟨üdane⟩, ja laps kirjutab need üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/10\/17-20.1792546791191.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Ja jääk"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puude"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "tema metsa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "arvuga"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "saab"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ja laps"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "kirjutab need üles"
+    }
+  ],
+  "timestamp": "2026-10-21T01:39:51.192728601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 6:12",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seal",
+      "rationale": "Heebrea küsilauses puudub koha-adverb, eesti keeles vajalik täpsustus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mürkrohi",
+      "rationale": "ראש sõna-sõnalt 'peaga taim' (arvatavasti moon), tähendab mürki; 'gall' KJV-s ei edasta taimemõistet"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kas keegi künnab seal veistega",
+      "rationale": "בבקרים: kas 'künnab veistega' või memraadis 'künnab suud' — aramea vaste lubab lugeda 'kas merd küntakse', mida BSB järgib"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש \/ לענה",
+      "rationale": "Kaks mürktaime paarisena rõhutavad vastandust צדקה viljaga; mõlemad taimenimed kanduvad eesti keelde tähendusena, sõnamäng kaob"
+    }
+  ],
+  "translation": "Kas hobused jooksevad kaljul? Kas keegi künnab ⟨seal⟩ veistega? Sest teie olete pööranud õiguse mürkrohuks ja tsedeka vilja koirohuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81e0df51ecff49b4005666ee3b67c7450b2891f1e1db1fc1212581482808fde7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/6\/9-12.1792551281414.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירצון",
+      "gloss": "kas jooksevad"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "kaljul"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hobused"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יחרוש",
+      "gloss": "künnab"
+    },
+    {
+      "surface": "בבקרים",
+      "gloss": "veistega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הפכתם",
+      "gloss": "teie olete pööranud"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "mürkrohuks"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "õiguse"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ja vilja"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeka"
+    },
+    {
+      "surface": "ללענה",
+      "gloss": "koirohuks"
+    }
+  ],
+  "timestamp": "2026-10-21T02:54:41.415358106Z",
+  "model": "glm-5.3"
+}

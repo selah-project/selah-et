@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "laskeb ohjad käest",
+      "rationale": "יפרע tähendab otseselt 'paljastub, lõdvub, vabastatakse': 'hukkub' (KJV) vs 'kaotab ohjad' (ASV\/JPS) vs 'lahku lööb'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Toora",
+      "rationale": "תורה ei ole üldine 'seadus', vaid Toora oma nimega"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel nõuab olemasolu-verbi, heebrea יש\/אין-kääne seda ei väljenda selles vormis"
+    }
+  ],
+  "translation": "Kus ⟨on⟩ nägemus puudu, rahvas laseb ohjad käest; aga kes Toorat peab, õnnis on ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "247a2fa37d1a26cd1ef80a95662cc3b3e7ac41c8d228c9f10c65be049b47cfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/17-20.1792555006025.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "kus ⟨on⟩ puudu"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "nägemus"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "rahvas laseb ohjad käest"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "aga kes peab"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toorat"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "õnnis on ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:46.026445471Z",
+  "model": "glm-5.3"
+}

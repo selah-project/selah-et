@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 37:2",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kuulajale",
+      "rationale": "Paariskäsk 'kuulge, kuulake' köidab kuulaja otse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע",
+      "rationale": "Sama juure kordus — tähelepanu nõudev tõstuk, eesti keeles kahekordne kordus"
+    }
+  ],
+  "translation": "Kuulge, kuulake möiraldaes ta häält, ja möiratus tema suust läheb välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2fba9b30a419c2db1e04062441e1255097cc4af898950900bab143834125e3de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/1-4.1792555699070.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "kuulge"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "kuulake"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "möiraldaes"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ta häält"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ja möiratus"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "tema suust"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "läheb välja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:19.070820400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלאך",
+      "rationale": "'käskjalg' — heebrea sõna tähendab sõnumitoojat, mitte spetsiifiliselt inglit"
+    },
+    {
+      "kind": "crux",
+      "subject": "איננו אכל",
+      "rationale": "sõna-sõnalt 'ei söödud' (põlemise ülesöömise pilt) vs 'ei kustunud' või 'ei hävinud'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kibuvõsa",
+      "rationale": "põlev ja mittesöödav kibuvõsa on tahtlikult imeline, salapärane nähtus"
+    }
+  ],
+  "translation": "Ja ilmus Jahve käskjalg talle tule leegis kibuvõsa keskelt; ja ta nägi, ja vaata, kibuvõsas põles tulega, ja kibuvõsa ei söödud ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/3\/1-4.1792538271702.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ja ilmus"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "käskjalg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "leegis"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "keskelt"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kibuvõsa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja ta nägi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "kibuvõsas"
+    },
+    {
+      "surface": "בער",
+      "gloss": "põles"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "ja kibuvõsa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "söödud ära"
+    }
+  ],
+  "timestamp": "2026-10-20T23:17:51.703405420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Eelitlust ei ole eesti keeles eraldi sõnaga võimalik edasi anda."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Kohatiivivorm eeldab eesti keeles öeldise subjekti."
+    }
+  ],
+  "translation": "Tee hüvasti oma teenriga, et ⟨ma⟩ elaksin ja hoiaksin sinu sõna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/17-20.1792553996519.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Tee hüvasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "–"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "oma teenriga"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "elaksin"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ja hoiaksin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sinu sõna"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:56.519940005Z",
+  "model": "glm-5.3"
+}

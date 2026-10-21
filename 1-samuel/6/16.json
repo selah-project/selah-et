@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pealikud",
+      "rationale": "סרן on Filiistia linnriikide valitseja tiitel; 'pealik' vs 'vürst' vs 'sõjasadam' — kord kasutatud sõna."
+    },
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "ראו objekt on tekstis nimetamata; lisatud 'seda', kuna eesti keel objekti tahab."
+    }
+  ],
+  "translation": "Ja viis pealikku nägid seda ja naasid samal päeval Ekroni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d638e240ff3b030ebc616f6f6e290e00e83ae3802ac47aa09da9f481c237b77d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/16-16.1792558284231.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "ja viis"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "pealikku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plistlaste"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nägid"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja naasid"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekroni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "samal päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:24.232476166Z",
+  "model": "glm-5.3"
+}

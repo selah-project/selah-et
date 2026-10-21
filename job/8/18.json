@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יבלענו",
+      "rationale": "Sõnaõrnus 'neelama' kujundab ärajuurimist — eestis 'ära neelata' säilitab pildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Lause subjekt (kohast või maa-alune koht) on heebreas väljendamata."
+    }
+  ],
+  "translation": "Kui tema oma kohalt ära neelatakse, siis salgab ⟨see⟩ ta: ei, sind ma ei näinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "115f7f93859ebda55517b4ccb791b2859a05f7e8c6da8d5efda980af002312ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/8\/17-20.1792555185931.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "neelatakse ta ära"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "oma kohalt"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "siis salgab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "nähnud sind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:45.932495361Z",
+  "model": "glm-5.3"
+}

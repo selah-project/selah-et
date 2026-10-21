@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "kandekangid",
+      "rationale": "בַּדִּים tähendab eraldatud palke — kandekangid, mida pannakse rõngastesse; eesti 'kangid' ei ütle funktsiooni, kuid see on olemas jääva teksti poolt."
+    }
+  ],
+  "translation": "Ja ta tegi akaatsiapuust kangid ja kattis need ⟨את⟩ kullaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ba85dff12874f16ead7e2987442980a6b60f47329bac91de219cd554bd03b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/37\/1-4.1792539021971.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "kangid"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puust"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akaatsia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "kattis"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "need"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kullaga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:30:21.972173019Z",
+  "model": "glm-5.3"
+}

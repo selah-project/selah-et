@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sõna⟩",
+      "rationale": "Heebrea ei korda 'sõna' Jahve järel; eesti kordus lisatud selguseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "valvuri õue",
+      "rationale": "המטרה on vahimaja\/valvurite hoov — kujundi järgi 'see, mida lähedalt valvatakse'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jirmejahu",
+      "rationale": "Jahve sõna tuleb teist korda vangistatud prohvetile"
+    }
+  ],
+  "translation": "Ja järgnes sõna, Jahve ⟨sõna⟩ Jirmejahuile, teist korda, ja tema oli veel vangistatud valvuri õuel, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e9424f2436b8af6f93f3e6d07be096fae60270eb6dc877ead7aedcccc63f7fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/33\/1-4.1792548923982.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja järgnes"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jirmejahuile"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "teist korda"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "veel"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "vangistatud"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "õuel"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "valvuri"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-21T02:15:23.983658822Z",
+  "model": "glm-5.3"
+}

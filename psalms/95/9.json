@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuigi",
+      "rationale": "גם tähendab 'ka, isegi'; siin kandev tähendus 'isegi kuigi nad nägid'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסוני\/בחנוני",
+      "rationale": "kaks proovilepaneku verbi kõrvuti, nagu metalli katsudes"
+    }
+  ],
+  "translation": "Kus teie isead mind proovile panid, mind katsetasid, kuigi nad nägid mu tegu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/95\/9-11.1792553686815.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kus"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "panid mind proovile"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "teie isead"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "katsetasid mind"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuigi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nägid"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mu tegu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:46.815726969Z",
+  "model": "glm-5.3"
+}

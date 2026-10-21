@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri, elujõud, hinge elu', mitte hingehaldjas."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחת",
+      "rationale": "'auk, haud' sõnasõnalt; KJV mõnes kohas 'corruption' (lagunemine) on kaudsem."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "Tähendab 'sirges lastud (asi)': oda, nool; YLT 'dart', KJV marginaalis 'dart' tekstis 'sword'."
+    }
+  ],
+  "translation": "Ta hoiab tagasi tema hinge hauaauku eest, ja tema elu, et ta ei langeks noole alla.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/17-20.1792555617044.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "hoiab tagasi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema hinge"
+    },
+    {
+      "surface": "מני",
+      "gloss": "eest"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "hauaauku"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "ja tema elu"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "et ta ei langeks"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "noole alla"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:57.045603827Z",
+  "model": "glm-5.3"
+}

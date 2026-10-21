@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסכן",
+      "rationale": "Juur סכן tähendab nii 'kasu tooma' kui 'teenima, lähedane olema'; tõlkijad jagunevad 'kasu pole' ja 'ei meeldi' vahel."
+    },
+    {
+      "kind": "addition",
+      "subject": "head meelt",
+      "rationale": "ברצתו on abstraktne konstrukti 'oma rahulduse leidmisel'; eesti keel vajab objekti, see on lisatud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גבר",
+      "rationale": "גבר on 'võimekas mees, sõjamees', tavaline 'mees' kaotab sõna kuju."
+    }
+  ],
+  "translation": "Sest ta on öelnud: kasu ei ole mehele, kui ta leiab koos Elohimiga ⟨head meelt⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3ffb375b8b937087dca96c982a7456ed856af0c4bcf2792f26d1c4f6c82c5b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/34\/9-12.1792555598345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on öelnud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "kasu"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "kui ta leiab ⟨head meelt⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimiga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:38.345936332Z",
+  "model": "glm-5.3"
+}

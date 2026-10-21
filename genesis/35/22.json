@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 35:22",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hiljas",
+      "rationale": "פילגש on 'hiljanaalne, kõrvalnaine' — eesti 'hiljas' on lähim üks sõna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaksteist",
+      "rationale": "Jaakobi poegade arv loetletakse: kaksteist"
+    },
+    {
+      "kind": "elision",
+      "subject": "seda",
+      "rationale": "Eesti vajab objekti 'kuulis seda'; heebrea ütleb üksnes 'ja Jisrael kuulis'"
+    }
+  ],
+  "translation": "Ja sündis, kui Jisrael elas selles maal, et Ruben läks ja magas ⟨את⟩ Bilhaga, ⟨tema⟩ isa hiljaga; ja Jisrael kuulis seda. Ja Jaakobi poegi oli kaksteist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1db5d6684b46e938303ab2c44582b53177b615d453aaa31f2c14a2fe11b121de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/35\/21-24.1792537900808.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "בשכן",
+      "gloss": "kui elas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "selles maal"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "selles"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja läks"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruben"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ja magas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhaga"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhaga"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "hiljas"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨tema⟩ isa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kaksteist"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:40.808982473Z",
+  "model": "glm-5.3"
+}

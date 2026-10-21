@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jumalaid",
+      "rationale": "אלהים tõlgitud üldises tähenduses väikse tähega — keelatud on teised jumalad, mitte Elohim ise"
+    },
+    {
+      "kind": "crux",
+      "subject": "על פני",
+      "rationale": "sõna-sõnalt 'minu palge peal': kas 'mu näo ees' (kohalolu) või 'mu palge vastu' (vaenulikult vastu)"
+    }
+  ],
+  "translation": "Ärgu olgu sul muid elohe צteisi jumalaid minu palge peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/5\/5-8.1792540662381.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ärgu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sul"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalaid"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muid"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "פני",
+      "gloss": "minu palge"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:42.382006704Z",
+  "model": "glm-5.3"
+}

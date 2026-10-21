@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "õlaks",
+      "rationale": "שכם tähendab sõna-sõnalt 'õlg\/nukk' — KJV\/JPS 'pöörama selja' ja YLT 'märklauaks' on tõlgendused; kujund: vaenlased pannakse õlgade kujusse (põgeneva seljana) või sihtmärgiks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sihid",
+      "rationale": "תכונן on 'püstitama\/kindlaks seadma' — käänamine 'sihid' järgib vibunööri konteksti."
+    }
+  ],
+  "translation": "Sest sa asetad nad õlaks; oma vibunööridega sihid sa nende näo peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/21\/13-14.1792552492670.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "sa asetad nad"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "õlaks"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "oma vibunööridega"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "sihid sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nende näo"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:52.671246189Z",
+  "model": "glm-5.3"
+}

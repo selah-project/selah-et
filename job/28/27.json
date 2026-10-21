@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 28:27",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩, ⟨teda⟩",
+      "rationale": "Heebrea tekst ei nimeta objekti — lõpphäältega verbid osutavad tarkusele (jääb eelmistesse salmidesse), asepronoun lisatud eesti keele nõudel."
+    },
+    {
+      "kind": "secret",
+      "subject": "tarkus",
+      "rationale": "Jumal nägi, kirjeldas ja uuris tarkuse läbi — peidetud asja avamine."
+    }
+  ],
+  "translation": "siis nägi ta ⟨seda⟩ ja kirjeldas ⟨teda⟩, kinnitas ⟨teda⟩ ja ka uuris ⟨teda⟩ läbi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/25-28.1792555556336.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nägi ta"
+    },
+    {
+      "surface": "ויספרה",
+      "gloss": "ja kirjeldas"
+    },
+    {
+      "surface": "הכינה",
+      "gloss": "kinnitas"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "חקרה",
+      "gloss": "uuris läbi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:56.337677533Z",
+  "model": "glm-5.3"
+}

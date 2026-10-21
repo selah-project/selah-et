@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vasksid kavaluse",
+      "rationale": "ויתנכלו on kaudne vorm; tõlkes 'vasksid temale kavaluse', et säilitada נכל kavalus tüvi"
+    },
+    {
+      "kind": "elision",
+      "subject": "et",
+      "rationale": "eesti eessõna 'et' täiendab l-eesliitega infinitiivi"
+    }
+  ],
+  "translation": "Ja nad nägid teda ⟨את⟩ kaugelt, ja enne kui ta neile lähedale jõudis, vasksid nad temale ⟨את⟩ kavaluse, et teda tappa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "812ad966547268046798c5bf92ed756a89d83a8fd6162ff8ddd4c614a4a960e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/37\/17-20.1792537955290.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ja nägid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kaugelt"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "ja enne kui"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ta lähedale jõudis"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "vasksid kavaluse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "et teda tappa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:12:35.292503863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "'kellel pole väitjat\/vead tõestajat' vs 'kes teda ümber lükkaks' — juur יכח hõlmab nii süüdistust kui ümberlükkamist."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין ... מכם",
+      "rationale": "Eituse ja 'teie seast' paigutus rõhutab irooniat: kolm venda ega teinud Iiobile vastu."
+    },
+    {
+      "kind": "you",
+      "subject": "Eelihu kolmele sõbrale",
+      "rationale": "Vahetu etteheide kuulajatele."
+    }
+  ],
+  "translation": "Ja teid kuulataksin ja vaata — Iiobil pole ⟨teie seas⟩ ühtegi, kes teda veaks tõestaks ega vastaks tema sõnadele teie seast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/32\/9-12.1792555577430.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "ja teid (kuni teieni)"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ma kuulaksin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pole ühtegi"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Iiobile"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "kes tõestaks süüd"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "vastaks"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "tema sõnadele"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teie seast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:17.431746845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Kordus 'sest ta tuleb, jah, ta tuleb' — heebrea kajab, eesti keeles hoitud dubleerimisega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק jäetakse heebrea kõlana 'tsedek', mitte 'õigus' üksi."
+    },
+    {
+      "kind": "crux",
+      "subject": "באמונתו",
+      "rationale": "'oma usus' vs 'oma ustavuses' — אמנה tähendab nii kindlust kui truudust."
+    },
+    {
+      "kind": "you",
+      "subject": "loodusele\/kogudusele",
+      "rationale": "Psalmi pöördumine jätkub: kõik loodu kutsutakse Jahve ees rõõmustama."
+    }
+  ],
+  "translation": "Jahve näo ees, sest ta tuleb, jah, ta tuleb mõistma kohut ⟨üle⟩ maad; ta mõistab kohut ilmajää `world` üle tsedegis ja rahvaid oma usust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/96\/13-13.1792553663846.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "näo ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ta tuleb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ta tuleb"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "mõistma kohut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ta mõistab kohut"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ilmajaama"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tsedegis"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ja rahvaid"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "oma usus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:23.846646786Z",
+  "model": "glm-5.3"
+}

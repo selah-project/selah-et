@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Sõnasõnaline 'sest kui' toimib siin eitus-tõstuna: 'mitte ... vaid'; eestis ühe sidesõnaga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עכר",
+      "rationale": "Sama verb mis ja. 17 — Ahavi süüdistus pööratakse tagasi; sõnakordus jääb eesti keeles alles"
+    }
+  ],
+  "translation": "Ja tema ütles: Mitte mina ei ole ⟨את⟩ Jisraeli pahendanud, vaid sina ja su isa maja, sellega, et te jätate maha Jahve ⟨את⟩ käsud ja käite Baalide järel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/18\/17-20.1792545702265.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja tema ütles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ei ole mina pahendanud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ja ... maja"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "su isa"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "sellega, et te jätate maha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käsud"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käsud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ja käite"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järel"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalide"
+    }
+  ],
+  "timestamp": "2026-10-21T01:21:42.268220797Z",
+  "model": "glm-5.3"
+}

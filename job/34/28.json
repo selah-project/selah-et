@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 34:28",
+  "book": "job",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rõhutute",
+      "rationale": "עניים on 'rõhutud, viletsad' — 'vaesed' jätab rõhumise tahva katmata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צעקת ... וצעקת",
+      "rationale": "sõna kordus parallelismis — 'hüüe ... karjatus' pehmendab kordust, mis eesti keeles võiks säilida"
+    }
+  ],
+  "translation": "et vaese hüüe tuleks tema ette, ja rõhutute karjatust ta kuuleb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49d02fb502258b9d04dee6e3b91addb9242f28ff4005e2a17b5ac4b391148848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/34\/25-28.1792555582846.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "et tuleks"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema ette"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "hüüe"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "וצעקת",
+      "gloss": "ja karjatust"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "rõhutute"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ta kuuleb"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:22.846942552Z",
+  "model": "glm-5.3"
+}

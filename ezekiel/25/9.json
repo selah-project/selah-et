@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "õla",
+      "rationale": "כתף otsetähendus 'õlg\/külg': 'õlg' (ylt) vs 'külg' (kjv) vs 'äär, flank' (jps)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ puudub",
+      "rationale": "sidesõna 'mis on' puudub heebrea tekstis, lisatud loetavuseks"
+    },
+    {
+      "kind": "measurement",
+      "subject": "maa nimed",
+      "rationale": "luettelülova loetelu Moabi äärelinnadest: kolm paiganimed"
+    }
+  ],
+  "translation": "Seepärast, vaata, mina avan ⟨את⟩ Moabi õla linnadest, tema äärelinnadest, tema piirist: maa ilu, Beet-Ješimot, Baal-Meon ja Kirjataim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d97118e3b6fca6f0ec5d0dc03c86237b93eb74212fc9add6c852de3f2efb3136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/25\/9-12.1792550277521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "vaata, mina"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "avan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabi õla"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "õla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "linnadest"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "tema äärelinnadest"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "tema piirist"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "Ješimot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "ja Kirjataim"
+    }
+  ],
+  "timestamp": "2026-10-21T02:37:57.521942958Z",
+  "model": "glm-5.3"
+}

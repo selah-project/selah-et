@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tõstis oma hääle",
+      "rationale": "Heebrea נשא קול 'tõstma häält' = valjusti nutma; jäetud sõnasõnalt, kuna eesti samuti ütleb 'häält tõstma'"
+    },
+    {
+      "kind": "addition",
+      "subject": "juurde",
+      "rationale": "Heebrea konstrukt גבעת שאול on ainult nimi 'Gibea-Ša'ul'; liikumise siht lisatud eesti keele nõudel"
+    }
+  ],
+  "translation": "Ja saabusid saadikud Gibea Ša'uli juurde ja kõnelesid need sõnad rahva kõrvadesse; ja kogu rahvas tõstis ⟨את⟩ oma hääle ja nuttis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f170eb1f12e7941e4045b9094aab7bf43f581ec414c2ad6c69014c3d282b8b91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/11\/4-4.1792558320360.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ja saabusid"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "saadikud"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'uli"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ja kõnelesid"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "need sõnad"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kõrvadesse"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ja tõstis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma hääle"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "oma hääl"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ja nuttis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:00.361118310Z",
+  "model": "glm-5.3"
+}

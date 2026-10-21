@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab kopulat, heebrea jätab selle ära"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מה...הוא...שיהיה",
+      "rationale": "Korduv mis-on-saab-olema rütm, kahe paralleelse poolevõrdluse peegeldus"
+    }
+  ],
+  "translation": "Mis ⟨on⟩ olnud, see ⟨on⟩ see, mis saab olema, ja mis on tehtud, see ⟨on⟩ see, mida tehakse; ja pole ühtegi uut asja päikese all.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/9-12.1792555992539.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "on olnud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "mis saab olema"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja mis"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "on tehtud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "mida tehakse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja pole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ühtegi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uut"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikese"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:12.539810776Z",
+  "model": "glm-5.3"
+}

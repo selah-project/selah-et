@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeeriv verbi; eesti keel nõuab 'on'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "igaühele",
+      "rationale": "לאיש on sõna-sõnalt 'mehele\/inimesele'; 'igaühele' teeb lõigu üldistavaks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maksad tasu",
+      "rationale": "תשלם on juurest שלם 'tasakaalu viima, tasuma' — ei ole lihtsalt 'tasu andma'."
+    }
+  ],
+  "translation": "Ja sinul, Adonai, ⟨on⟩ hesed, sest sina maksad igaühele tasu tema tegu järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/62\/13-13.1792553034843.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "ja sinul"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "maksad tasu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "igaühele"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "tema tegu järgi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:54.844206429Z",
+  "model": "glm-5.3"
+}

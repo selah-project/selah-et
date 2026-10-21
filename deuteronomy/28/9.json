@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seab sind",
+      "rationale": "piel-kauzatiiv יקימך on sõna-sõnalt 'püsti sead sind', tõlgitud kui ' seab sind'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "kõne adresseeritud Jisraelile Moše kaudu, tingimusega 'kui sa hoiad'"
+    }
+  ],
+  "translation": "Jahve seab sind enesele pühaks rahvaks, nii nagu ta on sulle vannutanud, kui sa hoiad ⟨את⟩ Jahve, su Elohimi, käsusid ja käid tema teedel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83072a6556856f2537f196013010f5976a07257fa270e47aa1d5312436835098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/28\/9-12.1792541148790.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "seab sind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "enesele"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "rahvaks"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "pühaks"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "on vannutanud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "hoiad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "käsusid"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käsusid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ja käid"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "tema teedel"
+    }
+  ],
+  "timestamp": "2026-10-21T00:05:48.791307155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחש",
+      "rationale": "Piibli haruldane verb 'voolama\/muljema välja' — pilt südamest, mis kihkab üle."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keele sidekõnesõna, heebrea seda ei ütle."
+    },
+    {
+      "kind": "you",
+      "subject": "kuningale",
+      "rationale": "Salm pöördub edaspidi otseselt kuningale."
+    }
+  ],
+  "translation": "Mu süda voolab üle heast sõnast, ma ütlen: mu teosed ⟨on⟩ kuninga kohta; mu keel ⟨on⟩ kiire kirjutaja sule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/1-4.1792552881664.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "voolab üle"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõnast"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "heast"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ma ütlen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ma"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mu teosed"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninga kohta"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mu keel"
+    },
+    {
+      "surface": "עט",
+      "gloss": "sule"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "kirjutaja"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "kiire"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:21.666368406Z",
+  "model": "glm-5.3"
+}

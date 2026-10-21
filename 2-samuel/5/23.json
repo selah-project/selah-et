@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 5:23",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Jahve",
+      "rationale": "kõneleja nimetatud, heebreas ויאמר subjekt puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכאים",
+      "rationale": "'balsampuud' vs 'mooruspuud' (KJV mulberry) vs 'nutupuud' (בכה 'nutma') — sõna päritolu pole kindel"
+    },
+    {
+      "kind": "you",
+      "subject": "David",
+      "rationale": "Jahve pöördub otse Davidi poole imperatiivides"
+    }
+  ],
+  "translation": "Ja David küsis Jahve käest, ja ⟨Jahve⟩ ütles: Ära mine üles; pöördu nende selja taha ja tule neile vastu balsampuude eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fcdbe9b14556bdd47e12c7398ee23e4a5ac3c335874de02676fd33e065bec19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/5\/21-24.1792544508780.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ja David küsis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve käest"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära \/ ei"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "mine üles"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "pöördu"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "nende selja taha"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ja tule"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "vastu \/ otse ees"
+    },
+    {
+      "surface": "בכאים",
+      "gloss": "balsampuude juures"
+    }
+  ],
+  "timestamp": "2026-10-21T01:01:48.783958051Z",
+  "model": "glm-5.3"
+}

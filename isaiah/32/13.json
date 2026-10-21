@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קוץ שמיר",
+      "rationale": "kahe ogalise sõna paar, kõik-lõik nagu 'okkalised ja karud', eesti keeles kaotab kaasmälestatuse"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ ⟨see⟩",
+      "rationale": "heebrea kesklauses puudub verb; eesti keel nõuab olemasoluverbi"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמיר",
+      "rationale": "'ogasid' või 'diamant' (kõvaduse tõttu); enamus tõlkeid valib ogaselise"
+    }
+  ],
+  "translation": "Minu rahva pinnasele tõuseb kõik ja ogasid; sest kõigi rõõmumajade peale ⟨on⟩ ⟨see⟩, lõbusat linna ⟨peale⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/13-16.1792547233004.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "pinnasele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "minu rahva"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ogasid"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "tõuseb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "majade"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "rõõmu"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "linna"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "lõbusat"
+    }
+  ],
+  "timestamp": "2026-10-21T01:47:13.005291238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti ei kääna 'pärast Moše surma' sujuvalt — lisatud kaudne kõneviis 'oli surnud'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve kõne Jehoošuale",
+      "rationale": "Jumal pöördub otse Jehoošua poole — kogupeatüki kõneakti algus"
+    }
+  ],
+  "translation": "Ja sündis pärast seda, kui Moše, Jahve teenri, oli surnud, et Jahve rääkis Jehoošuale, Nuuni pojale, Moše teenrile, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30b15dc5f2f1deb881c888d1939f98d478454c1c548751c06f65420249dfcb96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/1\/1-4.1792541380644.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast seda, kui"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "teenri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja rääkis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "leidab aset"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoošuale"
+    },
+    {
+      "surface": "בן",
+      "gloss": "pojale"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuuni"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "teenrile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-21T00:09:40.645027176Z",
+  "model": "glm-5.3"
+}

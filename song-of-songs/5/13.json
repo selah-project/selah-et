@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 5:13",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreas puudub öeldis; eesti võrdluslause nõuab sõna 'on'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עֹבֵר",
+      "rationale": "'voolav mürri' vs 'puhas\/liikuvalt tilkuv mürri' — particula עבר tähendab üleminekut, voolamist"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מֶרְקָחִים",
+      "rationale": "lõhnasegude sõna esineb Tanahhis üksnes siin"
+    }
+  ],
+  "translation": "Tema põsed ⟨on⟩ nagu vürtsipeenrad, lõhnasegude tornid; tema huuled ⟨on⟩ liiliad, mis tilkuvad voolavat mürri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/13-16.1792555835079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחיו",
+      "gloss": "tema põsed"
+    },
+    {
+      "surface": "כערוגת",
+      "gloss": "nagu peenrad"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "vürtside"
+    },
+    {
+      "surface": "מגדלות",
+      "gloss": "tornid"
+    },
+    {
+      "surface": "מרקחים",
+      "gloss": "lõhnasegude"
+    },
+    {
+      "surface": "שפתותיו",
+      "gloss": "tema huuled"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "liiliad"
+    },
+    {
+      "surface": "נטפות",
+      "gloss": "tilkuvad"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mürri"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "voolavat"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:35.080254424Z",
+  "model": "glm-5.3"
+}

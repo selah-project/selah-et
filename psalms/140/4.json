@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mürkmadu",
+      "rationale": "חמת עכשוב tähendab sõna-sõnalt 'risustaja (madu) mürgi' — עכשוב on peletav mürkmadu, חמת siis mürgi tähenduses."
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "Sõna סלה on muusikaline pausimärk, jäetakse tõlkimata."
+    }
+  ],
+  "translation": "Nende keel on terav nagu madu, mürkmadu nende huulte all. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/140\/1-4.1792554328492.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "on terav"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "Nende keel"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mürkmadu"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "mürkmadu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "nende huulte"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:28.493111136Z",
+  "model": "glm-5.3"
+}

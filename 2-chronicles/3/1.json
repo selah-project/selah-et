@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨koha peal⟩",
+      "rationale": "Eesti osundus nõuab kordust, heebrea אשר kannab seda üksi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jalutusõu",
+      "rationale": "גרן on tegelikult 'jalutusõu\/ait', 'löömisõu' on täpsem kui 'aed'"
+    }
+  ],
+  "translation": "Ja Šelomo hakkas ehitama ⟨את⟩ koja Jahvele Jerušalaimis, Mooria mäel, mis sai nähtavaks ta isale Davidile, ⟨koha⟩ peale, mille David oli valmistanud Arnani jevuslase jalutusõuel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/3\/1-4.1792557665746.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Ja hakkas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ehitama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mäel"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Mooria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "sai nähtavaks"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ta isale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨koha peal⟩"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "oli valmistanud"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "koha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "jalutusõuel"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnani"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "jevuslane"
+    }
+  ],
+  "timestamp": "2026-10-21T04:41:05.747203703Z",
+  "model": "glm-5.3"
+}

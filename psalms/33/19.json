@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on lähemal 'elujõule\/kõrile' kui eesti 'hing'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ajal",
+      "rationale": "ברעב 'näljas' — eesti vajab ajamäärust"
+    }
+  ],
+  "translation": "et kiskuda nende hinge surmast ja hoida neid elus nälja ajal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/33\/17-20.1792552616933.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "et kiskuda"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "surmast"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende hinge"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "ja hoida neid elus"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "nälja ajal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:56.934267973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 6:14",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elahi",
+      "rationale": "Aramaic אלה (Elah) on Elahi\/Jisraeli — the Aramaic Name-form is kept as a proper name, not turned into 'Jumal'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Käsust Elahi — the object marker is placed before the divine name to keep the marked noun visible; Aramaic uses די-clauses, so the marker is supplied as structure, not Hebrew syntax."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm kuningat",
+      "rationale": "The verse counts off Cyrus, Darius and Artaxerxes — a deliberate list of three royal decrees behind the building."
+    }
+  ],
+  "translation": "Ja Juuda vanemad ehitasid ja edenesid Hagai prohveti ja Zekarja, Iddo poja, prohvetlike sõnade läbi; ja nad ehitasid ja nad lõpetasid Elahi, Jisraeli ⟨את⟩ käsust ning Kooreši, Darjavši ja Artahšasta, Pärsia kuninga käsu järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/6\/13-16.1792556761997.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבי",
+      "gloss": "ja vanemad"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "ehitasid"
+    },
+    {
+      "surface": "ומצלחין",
+      "gloss": "ja edenesid"
+    },
+    {
+      "surface": "בנבואת",
+      "gloss": "prohvetlike sõnade läbi"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Hagai"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "prohveti"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "ja Zekarja"
+    },
+    {
+      "surface": "בר",
+      "gloss": "poja"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "Iddo"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "ja nad ehitasid"
+    },
+    {
+      "surface": "ושכללו",
+      "gloss": "ja nad lõpetasid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-st"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "käsust"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elahi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ומטעם",
+      "gloss": "ja käsu järgi"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Kooreši"
+    },
+    {
+      "surface": "ודריוש",
+      "gloss": "Darjavši"
+    },
+    {
+      "surface": "וארתחששתא",
+      "gloss": "ja Artahšasta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Pärsia"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:01.997956961Z",
+  "model": "glm-5.3"
+}

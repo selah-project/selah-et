@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karjamaad",
+      "rationale": "בנאות on sõna-sõnalt 'elamud\/kodud' — karilooma 'koduks' on karjamaa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנוחה\/מנחה",
+      "rationale": "Rahu (menuhha) kõlab siin seoses遗漏 minchah'ga; eesti keeles see kaob"
+    }
+  ],
+  "translation": "Rohtunud karjamaadel laseb ta mind lamada, rahulike vetekõrval juhatab tema mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/23\/1-4.1792552520879.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "karjamaadel"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "rohtunud"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "laseb ta mind lamada"
+    },
+    {
+      "surface": "על",
+      "gloss": "kõrval"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vee"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "rahulike"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "juhatab tema mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:20.879806918Z",
+  "model": "glm-5.3"
+}

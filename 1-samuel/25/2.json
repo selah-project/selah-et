@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 25:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea keeles puudub kopeeriv verbi olemasolu verbi lauses kandev verbi vorm; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעשהו",
+      "rationale": "Sõna tähendab otseselt 'tema tegu\/tegevus', tõlgitud kui 'varandus' konteksti järgi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm tuhat ja tuhat kitsi",
+      "rationale": "Loendus: kariloomade arvuline suurus"
+    }
+  ],
+  "translation": "Ja ⟨oli⟩ mees Maonis, ja tema varandus Karmelis; ja mees oli väga suur, ja temal olid lambad ja kitsed — kolm tuhat ja tuhat kitsi — ja juhtus, kui ta pügis ⟨את⟩ oma karja Karmelis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8054a7e88969f656c2e3111dab3cce736f9adb04bba96124b8aa5426e88a2eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/25\/1-4.1792544283525.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja ⟨oli⟩ mees"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "Maonis"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "ja tema varandus"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "Karmelis"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ja mees"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "ja temal"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kariloomad — lambad ja kitsed"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja juhtus"
+    },
+    {
+      "surface": "בגזז",
+      "gloss": "kui pügis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma karja"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "tema karjaaed"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "⟨את⟩ Karmelis"
+    }
+  ],
+  "timestamp": "2026-10-21T00:58:03.526686081Z",
+  "model": "glm-5.3"
+}

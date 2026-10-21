@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti keel nõuab kopulat; heebrea lubab nimelause."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mäletaja",
+      "rationale": "מזכיר otseselt 'see, kes mäletab\/teeb meelde'; 'kantsler' on amet, mitte sõna kuju."
+    }
+  ],
+  "translation": "Ja Joab, Tseruja poeg, ⟨oli⟩ sõjaväe üle, ja Jehošafat, Ahiludi poeg, ⟨oli⟩ mäletaja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/18\/13-16.1792557400132.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ja Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruja"
+    },
+    {
+      "surface": "על",
+      "gloss": "üLE"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sõjaväe"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ja Jehošafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ahiludi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "mäletaja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:40.133770859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seitse korda",
+      "rationale": "šebāʾ — pühitsetud täisarv, tähendab 'seitse korda', mitte 'korduvalt'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול\/יכשלו",
+      "rationale": "kaks langemise verbi — õige 'langeb' ja tõuseb, õelad 'komistavad' püsivalt; eesti keeles eristatud langemine\/komistamine"
+    }
+  ],
+  "translation": "Sest seitse korda langeb õige ja tõuseb jälle, aga õelad komistavad pahasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/24\/13-16.1792554914864.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitse korda"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "langeb"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ja tõuseb"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "aga õelad"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "komistavad"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "pahasse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:14.865871187Z",
+  "model": "glm-5.3"
+}

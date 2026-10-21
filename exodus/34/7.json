@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 34:7",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פקד עון",
+      "rationale": "'külastab süüd' = toob karistuseks \/ seab arvele; heebrea פקד on kahepooleline sõna (külastab päästes ja karistuses)"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ינקה",
+      "rationale": "KJV 'ei pea süüdlast õigeks mingil moel'; heebrea on lühike: 'ei pea õigeks' — objekt lisatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "põlve",
+      "rationale": "Sõna 'põlv' lisatud eesti keele selguseks; heebrea שלשים\/רבעים on 'kolmandad\/neljandad' (põlved)"
+    }
+  ],
+  "translation": "kes hoiab hesedit tuhandele, kes kannab süü, ja üleastumist ja pattu, ja kes ei pea õigeks ⟨süüdi⟩, kes külastab isade süüd laste kallal ja lastelaste kallal, kolmandale ja neljandale põlve",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b979dfa7ed0b504af275711cd3fd3cc778850328720949595d5771685a5d0e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/34\/5-8.1792538945631.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "kes hoiab"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedit"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tuhandele"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kannab"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "ja üleastumist"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ja pattu"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ja õigeks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "pea"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "külastab"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "isade"
+    },
+    {
+      "surface": "על",
+      "gloss": "kallal"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "laste"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja kallal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "laste"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lastelaste"
+    },
+    {
+      "surface": "על",
+      "gloss": "kallal"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmandale"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja kallal"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "neljandale põlve"
+    }
+  ],
+  "timestamp": "2026-10-20T23:29:05.632241592Z",
+  "model": "glm-5.3"
+}

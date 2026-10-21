@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppula, eesti keeles ⟨on⟩ vajalik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elyon",
+      "rationale": "עליון kui tiitel kirjutatakse nime kombel, mitte 'Kõigekõrgem'"
+    }
+  ],
+  "translation": "Hea on tänu avaldada Jahvele ja mängida-laula su nimele, Elyon.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/1-4.1792553662056.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Hea"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "tänu avaldada"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "ja mängida-laula"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "su nimele"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:22.057734840Z",
+  "model": "glm-5.3"
+}

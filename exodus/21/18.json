@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Salm jätab lause lõpetamata; mõtte lõpetab järgmine salm (kui ta tõuseb...)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kukub voodisse",
+      "rationale": "נפל למשכב otsekui 'langes voodile' — haigusele\/voodihaigeks jäämise pilt"
+    }
+  ],
+  "translation": "Ja kui mehed riidlelevad ja lööb mees ⟨את⟩ oma kaaslast kivi või rusikaga ning ta ei sure, vaid kukub voodisse —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/17-20.1792538698519.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "mehed riidlelevad"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ja lööb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kaaslast"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oma kaaslast"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "rusikaga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ta sureb"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "vaid kukub"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "voodisse"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:58.520718594Z",
+  "model": "glm-5.3"
+}

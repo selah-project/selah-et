@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rõhuvad",
+      "rationale": "ענה tähendab põhiliselt 'rõhuma, vaevama'; mõned tõlked annavad 'piinama' või 'halvasti kohtlema'"
+    },
+    {
+      "kind": "you",
+      "subject": "Lavan Jaakovile",
+      "rationale": "tingimuslik hoiatus suunatud otseselt Jaakovile"
+    }
+  ],
+  "translation": "Kui sa rõhuvad ⟨את⟩ mu tütreid ja kui võtad naisi mu tütarde kõrvale, ei ole meest meie keskel; vaata, Elohim on tunnistaja minu ja sinu vahel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "317cd7c00d79cb25dc344134d061126f9856f704a07bbc3c40a6d7d81d26c17c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/49-52.1792537878704.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sa rõhuvad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu tütreid"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mu tütreid"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "võtad"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kõrvale"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mu tütarde"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meest"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meie keskel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tunnistaja"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "minu vahel"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ja sinu vahel"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:18.707591313Z",
+  "model": "glm-5.3"
+}

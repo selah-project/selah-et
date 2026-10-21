@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kõnele maaga",
+      "rationale": "Imperatiiv jätkub — loodus kutsutakse tunnistajaks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõnele",
+      "rationale": "שיח tähendab üldisemalt 'mõiskelda, rääkida' — 'kõnele' hoitud kõige lähemal"
+    }
+  ],
+  "translation": "Või kõnele maaga, ja see õpetab sind, ja mere kalad räägivad sulle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/5-8.1792555210426.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Või"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "kõnele"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maaga"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "ja see õpetab sind"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ja räägivad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "kalad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:10.427792644Z",
+  "model": "glm-5.3"
+}

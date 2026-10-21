@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מגורותי",
+      "rationale": "sõnatüvi מגור tähendab 'hirm\/ärevus'; 'kartused' oleks samuti võimalik"
+    }
+  ],
+  "translation": "Ma otsisin ⟨את⟩ Jahvet, ja tema vastas mulle, ja kõigist mu hirmudest päästis ta mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/34\/5-8.1792552593202.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ma otsisin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ja tema vastas mulle"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kõigist"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mu hirmudest"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "päästis ta mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:33.203325410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברבות \/ ירבה",
+      "rationale": "Sama juur רבה kaks korda: 'kui kurjad paljunevad, paljuneb ülestõus' — kordus on eesti keeles osaliselt kadunud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ülestõus",
+      "rationale": "פשע on mäss, jumalatagane üleastumine, mitte lihtsalt 'patt'."
+    }
+  ],
+  "translation": "Kui jultunud kurjaid tuleb juurde, kasvab ülestõus; aga õiged näevad nende langust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db27470f4c8c4dd5b7471d268b8ad75521a2ed46c6eae8e54540cef840e0289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/13-16.1792554997977.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "kui tuleb juurde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kurjaid"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "kasvab"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ülestõus"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "aga õiged"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "nende langust"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näevad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:37.978780668Z",
+  "model": "glm-5.3"
+}

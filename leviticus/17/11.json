@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "veri lepib hinge läbi",
+      "rationale": "הדם הוא בנפש יכפר: 'veri, see lepib hinge (pärast)'” — kelle hinge? ohvri hinge või ohverdaja hinge; viimane sõna puudub subjekt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lepitama",
+      "rationale": "כפר otse 'katma' — kate, lepitus; eesti 'lepitama' jätab katmise pildi osaliselt kaotamata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'elujõud, hingamine' — mitte dualistlik 'hing'"
+    }
+  ],
+  "translation": "Sest liha hing on veres, ja mina olen andnud selle teile altari peale teie hinge eest lepitama; sest veri — see lepib hinge läbi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/17\/9-12.1792539461482.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "veres"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ja mina"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "olen andnud selle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "lepitama"
+    },
+    {
+      "surface": "על",
+      "gloss": "eest"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "teie hinge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "veri"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "hinge läbi"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "lepib"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:41.484398117Z",
+  "model": "glm-5.3"
+}

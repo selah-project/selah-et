@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõstis tõstena",
+      "rationale": "נוף\/תנופה on liigutuse ja selle ohvrinimeta sama juur — 'lehvitama' kaotab tõstmise pildi"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea perfekt without copula; eesti eessõna 'nii nagu Moše käsis' vajab täiendi"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ rinnad ja ⟨את⟩ parema jala tõstis Aharon tõstena üles Jahve palge ees, nii nagu Moše oli käskinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a3d690cce0f3322a2a66c498da9c3472edea00af817a4030dbd6fd81d0fb9ec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/9\/21-24.1792539254047.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rinnad"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "rinnad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "parema jala"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "jalg"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "parem"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "tõstis üles"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tõstena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:14.047715927Z",
+  "model": "glm-5.3"
+}

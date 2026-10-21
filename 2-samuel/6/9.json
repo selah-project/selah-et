@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laek",
+      "rationale": "ארון on lihtsalt karp\/laek, mitte 'liidu laegas' — tühi puidust kast"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירא",
+      "rationale": "lasub 'kartis' vs 'eelitas\/austas' — kartuse tõlgendus toetub Ussa juhtumile"
+    },
+    {
+      "kind": "you",
+      "subject": "David räägib iseendaga",
+      "rationale": "rhetoriline küsimus, mis jääb vastuseta"
+    }
+  ],
+  "translation": "Ja David kartis sel päeval ⟨את⟩ Jahvet ja ütles: kuidas peaks minu juurde tulema Jahve laek?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5c5a3294f65174d5788a2170ef191baca46d0d332fbd906912e06619a7e70b0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/6\/9-12.1792544498629.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja kartis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "peaks tulema"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu juurde"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:01:38.630409379Z",
+  "model": "glm-5.3"
+}

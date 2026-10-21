@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõusis vastu",
+      "rationale": "פשע tähendab 'mässama, ära murdma (võimust)' — Moab, kes oli Jisraeli all, vabanes ülemvõimust."
+    }
+  ],
+  "translation": "Ja Moab tõusis Jisraeli vastu pärast Ahhabi surma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/1\/1-4.1792545829609.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "tõusis vastu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraeli vastu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahhabi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:23:49.610641237Z",
+  "model": "glm-5.3"
+}

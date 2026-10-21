@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 1:17",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפוצינה",
+      "rationale": "Juur פוץ tähendab 'laiali pillutama'; KJV\/JPS loevad 'valguvad heast üle' (halakhiline traditsioon pöörab hädast rikkuseks), sõna-sõnaline on 'veel pillutatakse mu linnad heaga'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מטוב",
+      "rationale": "מן + טוב: 'heast' — kas linnad hajutatakse heaga (rahvarohked õnnistusest) või hädas; järgi antud 'rikkuseks' vabam tõlge."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד",
+      "rationale": "Sõna 'veel' kordub salmis neli korda — Jahve korduva tegutsemise rütm, eesti keeles säilitatud."
+    },
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "Eesti possessiivpronomen 'mu' (linnad) on lisatud läbivale rõhulisele sufiksile."
+    }
+  ],
+  "translation": "Veel kutsu, öeldes: nõnda ütleb Jahve Tsevaot: veel pillutakse mu linnad rikkuseks üle, ja Jahve trööstib veel ⟨את⟩ Siioni ning valib veel Jerušalaimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be1438939c5a95c2bef280c085c3a489990902260f5903ebafa981c761047806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/1\/17-17.1792551850318.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kutsu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "תפוצינה",
+      "gloss": "pillutakse üle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mu linnad"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "rikkuseks"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ja trööstib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Siioni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ning valib"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:04:10.319439944Z",
+  "model": "glm-5.3"
+}

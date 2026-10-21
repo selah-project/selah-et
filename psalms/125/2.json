@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab olemasolu-verbi, heebrea jätab selle ära"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב … סביב",
+      "rationale": "Sõna kordus 'ringis … ringis' peegeldab mägede ja Jahve ümbritsemist, eesti keeles säilitatud"
+    }
+  ],
+  "translation": "Jerušalaimi ümber ⟨on⟩ mäed ringis, ja Jahve ⟨on⟩ oma rahva ümber ringis, nüüdtsesamast kuni igaveseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/125\/1-4.1792554242234.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringis"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ringis"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "oma rahva ümber"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "nüüdtsesamast"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:02.235343388Z",
+  "model": "glm-5.3"
+}

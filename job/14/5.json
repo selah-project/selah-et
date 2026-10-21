@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "⟨את⟩ sinu juures",
+      "rationale": "אִתָּךְ on siin H854 'sinuga\/sinu juures', mitte olemusihtimärk H853, kuid reegli kohaselt kandub ⟨את⟩ glossi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוצים",
+      "rationale": "'määratud' vs 'lühikesed\/kvalitud' — juur tähendab teravaks lõigatud, kokkulepitud piire"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeel kuni חקו"
+    }
+  ],
+  "translation": "Kui tema päevad on määratud, tema kuude arv on ⟨את⟩ sinu juures — tema piiri sa oled seadnud, ega ta saa sellest üle minna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/14\/5-8.1792555273908.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "määratud"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "tema päevad"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "arv"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "tema kuude"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinu juures"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "tema piiri"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sa oled seadnud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ta saa üle minna"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:13.909268254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "2-samuel 22:45",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "teesklevad kuulekust",
+      "rationale": "יתכחשו tähendab 'valetama, teesklema' (nii YLT), kuid KJV\/ASV loevad selle põhjal 'alistuvad mulle'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Eesti keeles vajalik subjekt, heebrea kohane lühike verbivorm seda ei sisalda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמוע \/ ישמעו",
+      "rationale": "Sama juur שמע kordub: 'kuuldes... kuulavad' — kõrvakuulmise sõnamäng"
+    }
+  ],
+  "translation": "Võõra pojad teesklevad mulle kuulekust; kõrva kuuldes kuulavad ⟨nad⟩ mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "70890e97f80619014a94292fc6223ac128d10a04bb9c3975c5f0de1dce5976cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/22\/45-48.1792544973462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "võõra"
+    },
+    {
+      "surface": "יתכחשו",
+      "gloss": "teesklevad kuulekust"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "kuuldes"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kõrva"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "nad kuulavad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    }
+  ],
+  "timestamp": "2026-10-21T01:09:33.462892743Z",
+  "model": "glm-5.3"
+}

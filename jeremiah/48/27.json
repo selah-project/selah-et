@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 48:27",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתנודד",
+      "rationale": "נוד 'kõikuma\/rinte rappa minema': 'pead noogitama' (KJV\/JPS) vs 'enda üle kurvastama' (YLТ) vs 'põgenema' (Wycliffe vangi)}"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sa pead⟩",
+      "rationale": "verb נוד eeldab eestis objekti 'pea', mis heebreas sisaldub sõna pildis"
+    },
+    {
+      "kind": "you",
+      "subject": "Moabile",
+      "rationale": "reprootš esitati Moabile otsekõnes, kõnetatav 'sina' kogu salmis"
+    }
+  ],
+  "translation": "Ei olnud Jisrael sinu jaoks naeruasi? Kas ta leiti varaste seas? Sest iga kord, kui sa temast räägid, noogutad ⟨sa pead⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bca79b071df106451b80923773fb8a450588942ebaac4da452a0fffc96bea939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/48\/25-28.1792549301501.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "השחק",
+      "gloss": "naeruasi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu jaoks"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kas"
+    },
+    {
+      "surface": "בגנבים",
+      "gloss": "varaste seas"
+    },
+    {
+      "surface": "נמצאה",
+      "gloss": "leiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "iga kord"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "kui sa temast räägid"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "תתנודד",
+      "gloss": "noogutad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:21:41.504181544Z",
+  "model": "glm-5.3"
+}

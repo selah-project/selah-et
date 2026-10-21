@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "millega",
+      "rationale": "eesti küsi-lause vajab vahendit, heebrea ütleb lihtsalt 'kui sul pole tasumiseks'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "võetakse",
+      "rationale": "יקח on 3. pöörde 'tema võtab' — tõlgitud umbisikuliselt, sest laenaja jääb nimetamata"
+    }
+  ],
+  "translation": "Kui sul pole millega maksta, miks võetakse su voodi su alt?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eeb858bd8873113fca526c01d0ce901be0135af792281a3d5b8ca643a451a5f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/22\/25-28.1792554924517.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "pole"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sul"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "millega maksta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "võetakse"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "su voodi"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "su alt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:24.519057024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 46:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה hoitakse heebrea kõlana 'tsedek', mitte 'õigus' üksi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pääste⟩",
+      "rationale": "Eesti kääne nõuab objekti kordust, heebrea ἑρισlubab objekti juba järgmises sõnas"
+    },
+    {
+      "kind": "crux",
+      "subject": "mu ilu Jisraelile",
+      "rationale": "תפארתי 'mu ilu' — kellele see kuulub: 'Jisrael, mu ilu' (KJV) vs 'Jisraelile mu ilu' (BSV-laadne)"
+    }
+  ],
+  "translation": "Ma olen lähedale toonud oma tsedeki — see ei ole kaugel, ja mu pääste ei viivi, ja ma panen Siioni ⟨pääste⟩, Jisraelile mu ilu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c86289585bb89cd143b327e6cfca267ea0eb894db0a06c836e7b7839e84aad2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/46\/13-13.1792547455343.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבתי",
+      "gloss": "olen lähedale toonud"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "oma tsedeki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ole kaugel"
+    },
+    {
+      "surface": "ותשועתי",
+      "gloss": "ja mu pääste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "viivi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ja ma panen"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "⟨pääste⟩"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "תפארתי",
+      "gloss": "mu ilu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:55.343780188Z",
+  "model": "glm-5.3"
+}

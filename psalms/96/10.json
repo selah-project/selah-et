@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub kopula; 'מלך' kui kuningliku trooniletõusu hüüe"
+    },
+    {
+      "kind": "crux",
+      "subject": "במישרים",
+      "rationale": "'õigluses' \/ 'õiglaselt' \/ 'paiknevuses' — mitmus 'meelsused' tasakaalustatud õiguse pilt"
+    }
+  ],
+  "translation": "Öelge rahvaste seas: Jahve on kuningas! ⟨Ka⟩ ⟨on⟩ ⟨-kindlalt⟩ püsiv ilmamaa, ei kõigu; ta kohutab rahvaid õiglases meelsuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc56e13fa9c7956d8fe1183e1e7ed952b16a0fbc76880e2220575ad914e55464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/96\/9-12.1792553705928.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Öelge"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "rahvaste seas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "on kuningas"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨Ka⟩"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "püsib ⟨-kindlalt⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ilmamaa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kõigu"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "kohutab"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaid"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "õiglases meelsuses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:05.929716060Z",
+  "model": "glm-5.3"
+}

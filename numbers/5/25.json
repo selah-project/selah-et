@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mincha",
+      "rationale": "מנחה jääb sõnaks mincha, mitte 'jahuohver'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני יהוה",
+      "rationale": "sõnasõnalt 'Jahve palge ees', mitte 'Jahve ees'"
+    }
+  ],
+  "translation": "Ja preester võtab naise käest ⟨את⟩ armukadeduse mincha ja liigutab ⟨את⟩ minchat Jahve palge ees ning toob ⟨את⟩ selle altarile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83033af375bba910e8a53af0d550fb36b8038156f26dd2ca53379b86c492ca56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/5\/25-28.1792539843427.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ja võtab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armukadeduse mincha"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "armukadeduse"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ja liigutab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchat"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ja toob"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "selle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "altarile"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    }
+  ],
+  "timestamp": "2026-10-20T23:44:03.428127313Z",
+  "model": "glm-5.3"
+}

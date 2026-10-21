@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ואשפר",
+      "rationale": "Sõna אשפר esineb Tanahhis ainult siin; tähendus 'mõõdetud ports' on määramata."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשפר",
+      "rationale": "KJV 'veini anum' vs ASV 'liha tükk' vs LXX 'kuivatatud viinamarjade kook' — 'ports' jätab mõõdu kui sellise nähtavale."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשישה",
+      "rationale": "'viinumarjakook' (kokku pressitud viinumarjad) vs mõned 'jahukook pangas'."
+    }
+  ],
+  "translation": "Ja ta jagas kõigile Jisraeli meestele, mehest naiseni, igale mehele ühe leivakaku ja portsu ning viinamarjakaku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/1-4.1792557424802.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ja ta jagas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meestele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mehest"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naiseni"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "igale mehele"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kaku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiva"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "ja portsu"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ja viinumarjakaku"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:04.803362505Z",
+  "model": "glm-5.3"
+}

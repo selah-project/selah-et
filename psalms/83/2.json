@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sina⟩",
+      "rationale": "eesti keel vajab olemasoluverbi, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל ... אל ... אל",
+      "rationale": "kolmekordne kordus: kaks eitust 'al' ja lõpuks nimi 'El' — eesti keeles ei eristu"
+    }
+  ],
+  "translation": "Elohim, ära ole ⟨sina⟩ vait, ära vaikigu sind, ja ära rahune, El.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/83\/1-4.1792553570929.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "vait"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vaikigu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "rahune"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:50.930291113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppel; eesti keel vajab seda kahes kohas"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "juur נוה: 'austan\/kiidan' (nagu enamik tõlkeid) vs 'valmistan talle eluaseme' (KJV 'habitation', loetud nagu מנוה)"
+    },
+    {
+      "kind": "crux",
+      "subject": "וזמרת",
+      "rationale": "juure זמר: 'laul\/kiitus' vs 'kaitse\/paigalpüsiv kaitse' (sarnane זמרה Ps 118:14) — laulmine on tavalisem, kuid 'varjupaik' on võimalik"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "laul lauldud Moše ja Jisraeli laste poolt; kõne addresserib Jahot ja kogudust"
+    }
+  ],
+  "translation": "Jah ⟨on⟩ minu jõud ja laul, ja ta sai minule päästmiseks; see ⟨on⟩ minu El, ja ma austan teda, minu isa Elohim, ja ma ülendan teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f0d46053bb8a020cc2d5fc8b65826ab9f7bc1dc26e49affac9ecc0e2e61082be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/15\/2-4.1792543561201.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "minu jõud"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ja laul"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ja ta sai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "päästmiseks"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu El"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "ja ma austan teda"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "minu isa"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "ja ma ülendan teda"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:01.205353890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "juuste mustus",
+      "rationale": "השחרות tuleb juurest שחר 'mustuda\/koitma' — 'must juuksevärv' (noorus) vs 'elukoit' (ylt\/asv 'dawn of life')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "haius",
+      "rationale": "הבל on sõna-sõnalt 'hingus' — Qoheleti võtmesõna, esineb umbes 38 korda"
+    }
+  ],
+  "translation": "Ja hoia kibemeel eemal oma südast ja lase halval oma lihast lahkuda, sest lapsepõlv ja juuste mustus on haius.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0fe947a63be6ceb1beeb541f4064d9df7138f79485a4fdf75245efc0e57cfd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/11\/9-10.1792556121725.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ja hoia eemal"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kibemeel"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "oma südast"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ja lase lahkuda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "halval"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "oma lihast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "lapsepõlv"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "juuste mustus"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "haius"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:21.726516843Z",
+  "model": "glm-5.3"
+}

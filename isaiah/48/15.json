@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני אני",
+      "rationale": "korduv 'mina, mina' rõhutab kõneleja ainulisust — eestis säilitatud topeltsõnaga"
+    },
+    {
+      "kind": "secret",
+      "subject": "kutsutu",
+      "rationale": "kutsutu jääb nimetamata — vihjab Kuurusele, kuid tekst ei avalda nime siin"
+    }
+  ],
+  "translation": "Mina, mina olen rääkinud, jah, ma olen teda kutsunud, ma tõin ta ja tema tee õnnestub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/48\/13-16.1792547601635.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "olen rääkinud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jah"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ma olen teda kutsunud"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "ma tõin ta"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ja ... õnnestub"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tema tee"
+    }
+  ],
+  "timestamp": "2026-10-21T01:53:21.636069912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hukkajate ülem",
+      "rationale": "הטבחים on otseselt 'tapjad\/hukkajad'; tõlgitud kujul 'valvurite ülem' (KJV 'captain of the guard') kaotab põhitähenduse"
+    },
+    {
+      "kind": "addition",
+      "subject": "mu",
+      "rationale": "Korduv אתי rõhutab mina-vormi; eesti keeles asepronomen objekti tähistamiseks"
+    }
+  ],
+  "translation": "Paro vihastas oma teenrite peale ja pani ⟨את⟩ mu vangi hukkajate ülema kotta, ⟨את⟩ mu ja ⟨את⟩ pagarite ülema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/41\/9-12.1792538037975.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "vihastas"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oma teenrid"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "vangi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kotta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ülema"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "hukkajate"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pagarite ülema"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ülema"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pagarite"
+    }
+  ],
+  "timestamp": "2026-10-20T23:13:57.976221292Z",
+  "model": "glm-5.3"
+}

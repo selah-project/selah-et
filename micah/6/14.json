@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeel; eesti keel nõuab"
+    },
+    {
+      "kind": "crux",
+      "subject": "näljutus",
+      "rationale": "ישח: 'näljutus' (BSB\/JPS-taoline) vs 'alandamine' (KJV 'casting down') vs 'auk' (YLT)"
+    },
+    {
+      "kind": "crux",
+      "subject": "sa haarad",
+      "rationale": "נסג: 'kinni haarama' (KJV) vs 'taganema' (Strongi põhitähendus); JPS loeb 'sa oled raseda, aga ei sünnita'"
+    },
+    {
+      "kind": "you",
+      "subject": "õnnistuseta süü",
+      "rationale": "Pikitud 'sina'-kõne rahvale: kõik teod pöörduvad otsaesise"
+    }
+  ],
+  "translation": "Sina sööd, ega saa küllalt, ja sinu näljutus ⟨on⟩ su sisikonnas; ja sa haarad, aga ei päästa, ja keda sa päästad, selle annan ma mõõgale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6ab8c8cba877c067032a1c2fb66b983d29614d6356603e7d07090f9e4cebb5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/6\/13-16.1792551578115.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sööd"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "sa küllalt"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "ja sinu näljutus"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "su sisikonnas"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "ja sa haarad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "päästa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja keda"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "sa päästad"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "mõõgale"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "annan ma"
+    }
+  ],
+  "timestamp": "2026-10-21T02:59:38.116766390Z",
+  "model": "glm-5.3"
+}

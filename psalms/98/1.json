@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koping, eesti nõuab seda lauseliite jaoks"
+    },
+    {
+      "kind": "crux",
+      "subject": "הושיעה לו",
+      "rationale": "Sõna-sõnalt 'päästis talle': kellele päästis — kas talle endale või tema rahvale"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרוע קדשו",
+      "rationale": "Püha käsivars — mitte 'vägev parem käsi', vaid kehaosana kirjutatud jõud"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Laulge Jahvele",
+      "rationale": "Käsk-kutse kogudusele laulma, salmi avav imperatiiv"
+    }
+  ],
+  "translation": "Psalter. Laulge Jahvele uut laulu, sest ta on teinud imeteo, tema parem käsi ja tema püha käsi-tuuakord ⟨on⟩ talle pääste toonud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/98\/1-4.1792553738626.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalter"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Laulge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "imeteo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "on teinud"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "pääste toonud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tema parem käsi"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ja tema käsivars"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tema püha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:38.627617997Z",
+  "model": "glm-5.3"
+}

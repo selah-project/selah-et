@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raam",
+      "rationale": "עצמי tähendab jõudu, tuge, keha; 'raam' (luustik) on asv 'frame' järgi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "maa sügavustes",
+      "rationale": "תחתיות ארץ on kujund emaihu kohta, mitte geograafiline koht"
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתר",
+      "rationale": "varjuline koht — see, mis on peidetud, kuid Elohim silme ees avatud"
+    }
+  ],
+  "translation": "Mu raam ei jää sinult salatuks, kui mind tehti varjulisel kohal, kui mind kooti maa sügavustes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/13-16.1792554318474.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "jää salatuks"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mu raam"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinult"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "mind tehti"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "varjulisel kohal"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "mind kooti"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "sügavustes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:18.475723796Z",
+  "model": "glm-5.3"
+}

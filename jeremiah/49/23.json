@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 49:23",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea ilma subjekrita; eesti keel vajab kandjat, kes rahu ei leia"
+    },
+    {
+      "kind": "crux",
+      "subject": "בים דאגה",
+      "rationale": "'meres on mure' — kas otsene meri (rahutu nagu meri) või 'läände poole'; enamik tõlkeid hoiab mere"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעה\/שמעו\/נמגו",
+      "rationale": "kuulmise ja sulamise kordus: kuulsid teadet (šəmuʿa šāməʿu) ja sulasid (nāmōgū) — eesti keeles kaotsiläinud"
+    }
+  ],
+  "translation": "Damaskuse kohta: häbistatud on Hamat ja Arpad, sest nad kuulsid halba teadet, nad sulasid ära; meres on mure, rahu ei suuda ⟨ta⟩ leida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c989bd1bf230e55e3fea7277dc22ee8f77161dcab42297bdd339eaa44947f9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/49\/23-24.1792558465847.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדמשק",
+      "gloss": "Damaskuse kohta"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "häbistatud on"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "וארפד",
+      "gloss": "ja Arpad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "teadet"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "halba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nad kuulsid"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "nad sulasid ära"
+    },
+    {
+      "surface": "בים",
+      "gloss": "meres"
+    },
+    {
+      "surface": "דאגה",
+      "gloss": "mure"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "suuda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:25.847889283Z",
+  "model": "glm-5.3"
+}

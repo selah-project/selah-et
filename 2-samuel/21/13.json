@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "risti pandud",
+      "rationale": "המוקעים tähendab sõna-sõnalt 'need, kelle keha on (kohast) ära kistud \/ riivistatud' — 'risti pandud' on tavaline, kuid pilt-lähedasem lugemine"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tõi üles",
+      "rationale": "ויעל võib tähendada ka 'tõi ära\/sealt' — tegu on Davidiga, kes tõi luud Jaaveš-Gileadist"
+    }
+  ],
+  "translation": "Ja ta tõi sealt üles ⟨את⟩ Šauli luud ja ⟨את⟩ tema poja Joonatani luud, ja nad kogusid ⟨את⟩ nende luud, kes olid risti pandud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/21\/13-16.1792545049186.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "tõi üles"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sealt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šauli luud"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luud"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauli"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "Joonatani luud"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luud"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Joonatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "poja"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ja nad kogusid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "risti pandute luud"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luud"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "kes olid risti pandud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:10:49.188699140Z",
+  "model": "glm-5.3"
+}

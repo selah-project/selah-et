@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopolula ושם יהיה 'ja seal ta olgu' — eesti nõuab ⟨on⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (H854)",
+      "rationale": "Teine את on läheduse-eessõna 'koos\/vastu', mitte objektimarker — seepärast mitte ⟨את⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדי",
+      "rationale": "'külastama\/meeleheaks pidama' — JPS 'kuni ma teda meenutan', teised 'kuni ma teda külastan'"
+    }
+  ],
+  "translation": "Ja Babülon viib ⟨את⟩ Sidkija ära, ja seal ta ⟨on⟩, kuni ma ⟨את⟩ teda külastan — ütleb Jahve; sest kui te võitlete kasdiide ⟨את⟩ vastu, ei saa te õnnestuma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/32\/5-8.1792548919958.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Ja Babülon"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "viib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidkija"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkija"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja seal"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "ma külastan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "te võitlete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ vastu"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kasdiide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "saa õnnestuma"
+    }
+  ],
+  "timestamp": "2026-10-21T02:15:19.960934259Z",
+  "model": "glm-5.3"
+}

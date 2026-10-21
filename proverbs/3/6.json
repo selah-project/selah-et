@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨teeb⟩",
+      "rationale": "Eesti keel vajab tegevussõna; heebrea יישר kannab seda ühes sõnas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרכיך\/ארחתיך",
+      "rationale": "Kaks sõna teed: דרך ja ארח (kelgu tee) — kordus jätab mulje tasandatud rajast."
+    }
+  ],
+  "translation": "Tunne teda ära kõigis oma teedes, ja tema ⟨teeb⟩ sirgeks sinu teerajad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "560062527fb27e3860896ed6c66d96e8a9a0dc589c340ce18779c78c1570302d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/5-8.1792554458757.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kõigis"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "oma teedes"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Tunne teda ära"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "sirgeks"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "sinu teerajad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:38.758357918Z",
+  "model": "glm-5.3"
+}

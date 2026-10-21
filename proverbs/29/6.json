@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab öeldistäit, heebrea puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hõiskab",
+      "rationale": "ירון on otseselt 'kriuksuvat häält\/heledat hõisket välja paiskama' — rõõmu hüüe, mitte lihtsalt laulmine."
+    }
+  ],
+  "translation": "Kurja mehe üleastumises ⟨on⟩ lõks, aga õine hõiskab ja rõõmustab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/5-8.1792555011023.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "üleastumises"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "lõks"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "aga õine"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "hõiskab"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ja rõõmustab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:51.024505878Z",
+  "model": "glm-5.3"
+}

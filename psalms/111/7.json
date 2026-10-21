@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea keeles puudub köitesõna; nimilause lühend, eesti keel nõuab 'on'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "määrused",
+      "rationale": "פקודיו on 'tema poolt määratud käsklused\/presegid' — 'määrused' hoitud ühe sõnaga."
+    }
+  ],
+  "translation": "Oma käe teod ⟨on⟩ tõde ja kohus; ustavad ⟨on⟩ kõik tema määrused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/111\/5-8.1792553909743.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "teod"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõde"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja kohus"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ustavad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "tema määrused"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:29.743924801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימולל",
+      "rationale": "Juurtähendus 'lõigatakse ära\/raitsetakse' (מול, nagu ümberlõikamine); 'närbub' on pehmendus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחלף\/וחלף",
+      "rationale": "Salmides 5–6 kordub חלף 'mööduma' — inimese päevad libisevad nagu rohi, mis ise libiseb."
+    }
+  ],
+  "translation": "Hommikul see õitseb ja möödub, õhtul see närbub ja kuivab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/5-8.1792553645090.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "õitseb"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ja möödub"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "õhtul"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "närbub"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ja kuivab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:05.092141571Z",
+  "model": "glm-5.3"
+}

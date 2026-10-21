@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 28:22",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ jõudnud",
+      "rationale": "Hebrew uses two verbs of hearing (we heard... a hearing); Estonian merges them and supplies a linking verb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמענו\/שמעה",
+      "rationale": "Root שמע repeated — 'we heard... the hearing\/rumor of it' — a paronomasia lost in Estonian."
+    },
+    {
+      "kind": "substitution",
+      "subject": "selle kuuldu",
+      "rationale": "שמעה is 'a heard thing, report'; the suffix 'her\/it' refers back to wisdom from v. 20."
+    }
+  ],
+  "translation": "Avaddon ja surm ütlesid: meie kõrvu ⟨on⟩ jõudnud selle kuuldu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/21-24.1792555496366.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבדון",
+      "gloss": "Avaddon"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "ja surm"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ütlesid"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "meie kõrvu"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "⟨on⟩ jõudnud"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "selle kuuldu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:56.367435326Z",
+  "model": "glm-5.3"
+}

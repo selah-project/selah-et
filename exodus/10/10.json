@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהי כן יהוה עמכם",
+      "rationale": "Faraoni irooniline õnnistus-vanne: 'olgu Jahve teiega, nagu ma teid lasken' — variandid käivad sõnastuse lahterdusest (ähusõnaline iroonia vs tingiv ähvardus)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נגד פניכם",
+      "rationale": "Sõnasõnaline 'teie palgete ees' = 'teie silme all, teie plaanis'; 'palge ees' hoiab heebrea pildi."
+    }
+  ],
+  "translation": "Ja ta ütles neile: Olgu nõnda Jahve teiega, nõnda nagu ma ⟨את⟩ teid ja ⟨את⟩ teie väikesed lapsed välja saadan — vaadake, et halb on teie palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/10\/9-12.1792538421755.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teiega"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nõnda nagu"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ma saadan välja"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "teie väikesed lapsed"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "teie väikesed lapsed"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vaadake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "halb"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "teie palge"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:21.756485990Z",
+  "model": "glm-5.3"
+}

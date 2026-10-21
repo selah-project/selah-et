@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti sidesõna, mida heebrea ei väljenda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היא",
+      "rationale": "Naissoost asesõna viitab אולת'le — eesti kes-sidesõna jätab soo näitamata"
+    }
+  ],
+  "translation": "Kes vastab sõnale enne kui ta ⟨on⟩ kuulnud — see on tema jaoks narrus ja häbi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/18\/13-16.1792554780478.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "vastab"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõnale"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "enne kui"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ta kuulnud"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "narrus"
+    },
+    {
+      "surface": "היא",
+      "gloss": "see on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema jaoks"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ja häbi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:00.479775550Z",
+  "model": "glm-5.3"
+}

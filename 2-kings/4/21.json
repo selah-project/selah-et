@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ukse",
+      "rationale": "Heebrea ütleb lihtsalt 'sulges tema kohal' — ese (uks) on kontekstist, mitte tekstist"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש האלהים",
+      "rationale": "'Elohim-i mees' — Elisa tiitel, sõnasõnaline kuju säilitatud"
+    }
+  ],
+  "translation": "Ja ta läks üles ja pani ta voodile, Elohim-i mehe voodile, ja sulges tema kohal ukse ja läks välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3083ce214782fcb3d5f8720f3433e478f1ba735abde62ab47982432ef55e4370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/4\/21-24.1792545860821.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "ja ta läks üles"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "ja pani ta lamama"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "voodile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "ja sulges"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "tema kohal"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "ja läks välja"
+    }
+  ],
+  "timestamp": "2026-10-21T01:24:20.822882629Z",
+  "model": "glm-5.3"
+}

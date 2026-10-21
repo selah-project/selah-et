@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לדוד",
+      "rationale": "Estonian genitive 'Davidi palm' repeats 'palm', which the Hebrew prefix ל expresses only once"
+    },
+    {
+      "kind": "invitation",
+      "subject": "מי יגור \/ מי ישכן",
+      "rationale": "The double 'who?' question summons the worshipper to examine himself before the tent"
+    }
+  ],
+  "translation": "Palm. Davidi ⟨palm⟩. Jahve, kes ⟨võib⟩ majaleda sinu telgis, kes ⟨võib⟩ elada sinu pühal mäel?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/15\/1-4.1792552442857.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Palm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "majaleda"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sinu telgis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "elada"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sinu pühal mäel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:02.857589394Z",
+  "model": "glm-5.3"
+}

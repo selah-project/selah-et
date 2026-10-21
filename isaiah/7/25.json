@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראת שמיר ושית",
+      "rationale": "Sõnasse 'jalgpähklite ja okaste kartus' vs 'sa ei saa sinna minna kartuses jalgpähklite ja okaste ees' — KJV\/JPS loevad יראת kui hirmuobjekti; BSB jagab ümber."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שית",
+      "rationale": "Sõna šit (õõsik-okas) esineb Tanahhis vaid Jesaja raamatus (7:23-25, 5:6, 10:17, 32:13)."
+    },
+    {
+      "kind": "addition",
+      "subject": "need",
+      "rationale": "Eesti keel vajab lauses objekti, heebrea והיה on lihtsalt 'ja sai'."
+    }
+  ],
+  "translation": "Ja kõik mäed, mida kae-tõukaga haritakse, sinna ei minda — jalgpähklite ja okaste kartus — ja need saavad härgade väljalaskmiseks ja tallade tallamiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "17bb0abbcffbc4a2278e931452eab3736fb615fd513cb298f3f7e0251fd3ff3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/7\/25-25.1792546721060.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "kae-tõukaga"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "haritakse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "minda"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kartus"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "jalgpähklite"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ja okaste"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja need saavad"
+    },
+    {
+      "surface": "למשלח",
+      "gloss": "väljalaskmiseks"
+    },
+    {
+      "surface": "שור",
+      "gloss": "härgade"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "ja tallamiseks"
+    },
+    {
+      "surface": "שה",
+      "gloss": "tallade"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:41.061122209Z",
+  "model": "glm-5.3"
+}

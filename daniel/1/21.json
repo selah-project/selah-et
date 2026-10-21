@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jäi",
+      "rationale": "Käänesõna ויהי on 'ja see sündis\/oli'; eesti vajab tegusõna 'jäi (püsima)'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "esimese",
+      "rationale": "אחת on kardinaal 'üks'; kontekstis möödaviiv 'esimene'"
+    }
+  ],
+  "translation": "Ja Daniel ⟨jäi⟩ kuni Kooreši, kuninga, esimese aastani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f85826ee73ece88de9602268a67211c28527bd3e1d619642ebe9eaba5a14077b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/1\/21-21.1792556295706.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja ⟨jäi⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "aastani"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "esimese"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Kooreši"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:18:15.706573028Z",
+  "model": "glm-5.3"
+}

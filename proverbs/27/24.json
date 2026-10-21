@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ei püsi \/ püsib",
+      "rationale": "heebrea lause kipub verbi ilma — küsimusel\/k eituses vajab eesti keeles väljendit"
+    },
+    {
+      "kind": "crux",
+      "subject": "נזר",
+      "rationale": "'pühitsetud\/kroon' — KJV küsib ('kas kroon püsib?'), YLT jaatab; ואם lubab küsimuslikku või tingivat lugemist"
+    }
+  ],
+  "translation": "Sest varandus ⟨ei püsi⟩ igavesti, ja kas kroon ⟨püsib⟩ põlvest põlve?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/27\/21-24.1792554969105.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "varandus"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kas"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kroon"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "דור",
+      "gloss": "põlve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:09.106978004Z",
+  "model": "glm-5.3"
+}

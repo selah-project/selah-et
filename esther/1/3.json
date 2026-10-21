@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pidusöögi",
+      "rationale": "משתה tuleneb juurest 'jooma' — joogipeo-, mitte lihtsalt 'pidu'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "paratemid",
+      "rationale": "הפרתמים on pärsia laen 'partem' — ülikud; jäetud kõlavormi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolmandal aastal",
+      "rationale": "valitsemisaja ajaarvamine"
+    }
+  ],
+  "translation": "oma valitsemise kolmandal aastal tegi ta pidusöögi kõigile oma ülikutele ja oma teenritele — Parasi ja Meedi vägi, paratemid ja maakondade ülikud tema ees,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/1-4.1792556198607.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "aastal"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "kolmandal"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "oma valitsemise"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pidusöögi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "oma ülikutele"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "ja oma teenritele"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Parasi"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ja Meedi"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "paratemid"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja ülikud"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "maakondade"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:38.608182343Z",
+  "model": "glm-5.3"
+}

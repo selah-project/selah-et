@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתי",
+      "rationale": "Võib olla aleph-tav + mina-sufiks või lihtsalt 'minuga'; ajad seda kui markerit + asesõna"
+    },
+    {
+      "kind": "you",
+      "subject": "Jumalale",
+      "rationale": "Iiob pöördub otse Elohimi\/Jahve poole, küsiv küsimus"
+    }
+  ],
+  "translation": "Ja veel: selle peale avad sa oma silmad ja tood ⟨את⟩ minu kohtu, iseenda juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/14\/1-4.1792555322571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ja veel"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "זה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "avad sa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "oma silmad"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ja ⟨את⟩ minu",
+      "marks": "minu (kaasa toodav)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "tood"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kohtu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "iseenda juurde"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:02.572675394Z",
+  "model": "glm-5.3"
+}

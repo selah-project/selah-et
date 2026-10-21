@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויסרו",
+      "rationale": "יסר tähendab nii 'karistama' kui 'kasvatama\/õpetama' — siin põllumehe õpetus, mitte karistus."
+    }
+  ],
+  "translation": "Ja tema Elohim õpetab teda kohuse jaoks, tema õpetab teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0dfdd48f8191fde9c3859097ce5a41d54b6def0087e7181467aefdae55ab4311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/28\/25-28.1792547196281.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "ja ta kasvatab"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kohuse jaoks"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "tema Elohim"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "õpetab teda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:46:36.282653341Z",
+  "model": "glm-5.3"
+}

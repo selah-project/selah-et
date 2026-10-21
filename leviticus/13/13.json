@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsaraat",
+      "rationale": "צרעת hoitakse kõla järgi 'tsaraat', mitte 'pidalitõbi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppula; kordus 'ta on puhas' vajab eesti keeles koppulat"
+    }
+  ],
+  "translation": "Ja preester vaatab, ja vaata, tsaraat on katnud ⟨את⟩ kogu tema ihu, ja ta kuulutab haiguse puhtaks — see on kõik muutunud valgeks; ta ⟨on⟩ puhas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/13\/13-16.1792539307573.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ja vaatab"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "on katnud"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu tema ihu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tema ihu"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ja kuulutab puhtaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haigus"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "haigus"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "see on kõik"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "muutunud"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "valgeks"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-20T23:35:07.573904264Z",
+  "model": "glm-5.3"
+}

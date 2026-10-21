@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק jääb 'tsedek' — 'õigus' üksi on D2 järgi tagasi lükatud"
+    }
+  ],
+  "translation": "Taeed kuulutasid tema tsedeki, ja nägid kõik rahvad tema au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/97\/5-8.1792553722665.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "kuulutasid"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeed"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tema tsedek"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja nägid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tema au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:22.666194993Z",
+  "model": "glm-5.3"
+}

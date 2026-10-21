@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sõna",
+      "rationale": "דבר: kelle sõna — 'tema sõna' (Jumala lubadus, nagu enamik tõlkeid) või määruslikult 'sõna tähenduses kiidan' (kiidan Jumalat sõnaga); heebrea jätab omaniku määramata."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kordus",
+      "rationale": "Kaks täielikult sarnast pooldvärssi (bElohim \/ baJahve) — täpne parallelism, eesti keel hoiab selle alles."
+    }
+  ],
+  "translation": "Elohimis kiidan ma sõna, Jahves kiidan ma sõna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/9-12.1792553129765.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimis"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "kiidan ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "kiidan ma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:29.767133930Z",
+  "model": "glm-5.3"
+}

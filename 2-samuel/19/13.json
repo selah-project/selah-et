@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "peaksite",
+      "rationale": "Eesti kääne nõuab abiverbi, heebrea infinitiivikonstruktsioon seda ei sisalda"
+    },
+    {
+      "kind": "you",
+      "subject": "Juuda meestele",
+      "rationale": "Kõne pöördub otse Juuda vanemate poole"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kordus",
+      "rationale": "Salm kordab sõna-sõnalt 19:12 lõppu — kordus on Davidi kõne retooriline vahend"
+    }
+  ],
+  "translation": "Mu vennad olete teie, mu luu ja mu liha olete teie — ja miks peaksite teie olema viimased ⟨את⟩ kuningat tagasi tooma?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/19\/13-16.1792544909369.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "mu vennad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mu luu"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ja mu liha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ja miks"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "peaksite olema"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "viimased"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "tagasi tooma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    }
+  ],
+  "timestamp": "2026-10-21T01:08:29.371515109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nägi hääled",
+      "rationale": "Heebrea ütleb otse 'nägi ⟨את⟩ hääled' — heli 'nägemine' on sünesteesia, mida mitmed tõlkijad silmendavad kuulmiseks."
+    },
+    {
+      "kind": "crux",
+      "subject": "וינעו",
+      "rationale": "'värisesid' (Nifal נוע) vs 'lahkusid\/eemaldusid' (sama juur) — vanemad tõlked 'they removed'."
+    }
+  ],
+  "translation": "Ja kogu rahvas nägi ⟨את⟩ hääled ja ⟨את⟩ leegid ning ⟨את⟩ šofarri hääle ja ⟨את⟩ suitsusat mäge; ja rahvas nägi, värises ja jäi kaugele seisma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/17-20.1792538593004.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nägi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hääled"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "hääled"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leegid"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "leegid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "šofarri hääle"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hääle"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "šofarri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suitsusat mäge"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäge"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "suitsusat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "värises"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja jäi seisma"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kaugele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:13.005316673Z",
+  "model": "glm-5.3"
+}

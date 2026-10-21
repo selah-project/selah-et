@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tõstnud pea",
+      "rationale": "נשאו ראש — uhkuse ja mässu žest, eesti keeles sarnane väljend"
+    }
+  ],
+  "translation": "Sest vaata, su vaenlased käratsevad, ja need, kes sind vihkavad, on tõstnud pea.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/83\/1-4.1792553570929.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "su vaenlased"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "käratsevad"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ja need, kes sind vihkavad"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "on tõstnud"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:50.930437582Z",
+  "model": "glm-5.3"
+}

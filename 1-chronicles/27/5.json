@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 27:5",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub kopeel; verbitarvik lisatud eesti keele jaoks"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'pealik' vs 'preestri ülem' — Benajahu isa Jehojada oli ülempreester; tekst ütleb vaid 'pealik'"
+    }
+  ],
+  "translation": "Kolmanda väe ülem kolmandaks kuuks oli Benajahu, Jehojada poeg, preester, pealik, ja tema jaoskonna üle ⟨olid⟩ kakskümmend neli tuhat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/27\/5-8.1792557556530.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "väe"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmanda"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kolmandaks kuuks"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmandaks"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pealik"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... üle"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "tema jaoskonna"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T04:39:16.531597713Z",
+  "model": "glm-5.3"
+}

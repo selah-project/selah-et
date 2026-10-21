@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בתודה ... בתהלה",
+      "rationale": "Jutustava parallelism: väravad—tänuga \/ õued—kiitusega; paarisstruktuur, mis eesti keeles peegeldub, aga ei kõla."
+    },
+    {
+      "kind": "invitation",
+      "subject": "באו ... הודו ... ברכו",
+      "rationale": "Kolm käsku kutsuvad kogudust tempelisse sisenema ja kiitma."
+    }
+  ],
+  "translation": "Tulge tema väravate läbi tänuga, tema õuede kiitusega; kiitke teda, õnnistage tema nime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/100\/1-4.1792553732169.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Tulge"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "tema väravate"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "tänuga"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "tema õuede"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "kiitusega"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "kiitke"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "õnnistage"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nime"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:32.170308960Z",
+  "model": "glm-5.3"
+}

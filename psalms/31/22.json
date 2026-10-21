@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעיר מצור",
+      "rationale": "'Piiratud linn' (matsor = piiramismuld, piiramine) — alternatiivne tõlgendus loeb מצור kui Mitsraimile viidates ('linnast vaenlaste keskel')."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab kaassõna 'on' — heebrea הפליא on tegusõna 'tegema imeliseks'."
+    }
+  ],
+  "translation": "Kiidetud olgu Jahve, sest tema hesed minu vastu ⟨on⟩ imeline, piiratud linnas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/21-24.1792552661573.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kiidetud olgu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "⟨on⟩ imeline"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "piiratud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:41.574683773Z",
+  "model": "glm-5.3"
+}

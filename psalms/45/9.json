@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "Lugemine 'keelpillid' (mend-instrumentid, nagu YLT\/ASV\/JPS) vs traditsiooniline 'mistõttu nad sind rõõutsasid' (KJV); 'keelpillid' toetab Masora paigutust."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel; lause on nimeline."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מני",
+      "rationale": "Sõna esineb Tanahhis äärmiselt harva ja tähendus on vaidlustatud."
+    }
+  ],
+  "translation": "Mürri ja aaloe, kassiat ⟨on⟩ kõik su riided; elevantsluust paleedest on keelpillid sind rõõmustanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/9-12.1792552826701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mürri"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ja aaloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassiat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "su riided"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-st"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "paleedest"
+    },
+    {
+      "surface": "שן",
+      "gloss": "elevantsluust"
+    },
+    {
+      "surface": "מני",
+      "gloss": "keelpillid"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "sind rõõmustanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:26.703034902Z",
+  "model": "glm-5.3"
+}

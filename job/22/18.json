@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 22:18",
+  "book": "job",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea kopolat ei väljenda — 'õelate plaan kaugel minust'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "plaan",
+      "rationale": "עצה on 'nõu, plaan, kavalus' — 'nõu' asemel 'plaan', sest kontekst räägib õelate vandenõust"
+    }
+  ],
+  "translation": "Aga tema täitis nende majad hüvega; aga õelate plaan ⟨on⟩ kaugel minust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/22\/17-20.1792555438973.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ווהוא",
+      "gloss": "aga tema"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täitis"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "nende majad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hüvega"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "aga plaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "kauge"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:58.974504239Z",
+  "model": "glm-5.3"
+}

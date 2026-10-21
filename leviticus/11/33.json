@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "te",
+      "rationale": "Teine isik mitmuses lisatud verbile, heebrea laseb selle kaudu jääda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תוכו\/בתוכו",
+      "rationale": "Korduv 'sisse\/selle sees' rõhutab nõu sisemust, kajar kadub eesti keeles osaliselt"
+    }
+  ],
+  "translation": "Ja iga savinõu, kuhu nendest miski langeb — kõik, mis selle sees on, muutub ebapüha-ks, ja selle ⟨את⟩ peate te lõhkuma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/33-36.1792539243722.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja iga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nõu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "savist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuhu"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "langeb"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nendest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "selle"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "selle sees"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "muutub ebapühaks"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "selle (savinõu)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "peate te lõhkuma"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:03.723064282Z",
+  "model": "glm-5.3"
+}

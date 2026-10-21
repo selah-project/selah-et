@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "Kolm tähendust: varajane vihm (kõige tavalisem), õpetaja\/näitaja (Targum: 'õpetaja'), vibukütt — 'varajane vihm' valitud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבכא",
+      "rationale": "Kohanimi Baka kõlab nagu 'batkāʾ' — nutmise org; eesti Keeles kadub see kõlalist side"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יעטה מורה",
+      "rationale": "Võib lugeda ka 'õpetaja katab sellega õnnistused' (Targumi järgi), kuid vihm-õnnistus-pilt on loomulikum"
+    }
+  ],
+  "translation": "Läbikäijad teevad Baka orust allika; ka õnnistused katavad selle — varajane vihm.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/84\/5-8.1792553589419.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "läbikäijad"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "orus"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "allikas"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "teevad selle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "õnnistused"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "katavad"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "varajane vihm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:09.420416570Z",
+  "model": "glm-5.3"
+}

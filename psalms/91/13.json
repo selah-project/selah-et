@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mereelukas",
+      "rationale": "תנין on mere- või maamonster; võimalik ka 'šaakal'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדרך\/תרמס",
+      "rationale": "kaks tallamise verbit paralleelses värsis, eesti keeles korduvad mõlemad 'tallama'"
+    }
+  ],
+  "translation": "Lõvi ja mürkmadu peal sa tallad, noort lõvi ja mereelukat sa tallad jalgade alla.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/13-16.1792553636807.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lõvi"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ja mürkmadu"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "sa tallad"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "sa tallad jalgade alla"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "noort lõvi"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ja mereelukat"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:56.809601349Z",
+  "model": "glm-5.3"
+}

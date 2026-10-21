@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "tingiv 'kui' vs käsitav 'kui (juhtus, et)'; YLT 'If he slew them'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שחר",
+      "rationale": "sõna-sõnalt 'koitma' — 'varahommikul otsima', st innukalt otsima"
+    }
+  ],
+  "translation": "Kui ta neid tappis, siis nad otsisid teda, ja nad pöördusid tagasi ning otsisid varakult Eeli.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/33-36.1792553415740.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "ta neid tappis"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "nad otsisid teda"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja nad pöördusid tagasi"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ja nad otsisid varakult"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eeli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:15.741355481Z",
+  "model": "glm-5.3"
+}

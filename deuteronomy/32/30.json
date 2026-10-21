@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalju",
+      "rationale": "צור on kalju\/irutahuk; 'Kalju' on Jahve poeetiline nimi, jäetud kõlana."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא כי",
+      "rationale": "sõnasõnaline 'kui mitte et' = 'muud ei ole kui see, et'; vastasel juhul poleks see võimalik."
+    }
+  ],
+  "translation": "Kuidas jälitab üks tuhandt ja kaks paneb kümme tuhandt põgenema, kui ei ⟨ole⟩ nii, et nende kalju müüs nad ja Jahve andis nad üle?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/32\/29-32.1792541253545.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "kuidas"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "jälitab"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhandt"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ja kaks"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "paneb põgenema"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "kümme tuhandt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "nende kalju"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "müüs nad"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "andis nad üle"
+    }
+  ],
+  "timestamp": "2026-10-21T00:07:33.546392082Z",
+  "model": "glm-5.3"
+}

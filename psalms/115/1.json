@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb hesediks, mitte 'halastus' või 'armastus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא לנו ... לא לנו",
+      "rationale": "korduv eitus jaoks esiletõstetud kordus, eestis jääb kajale"
+    }
+  ],
+  "translation": "Mitte meile, Jahve, mitte meile, vaid oma nimele anna au – oma hesedi pärast, oma tõe pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/1-4.1792553991441.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "oma nimele"
+    },
+    {
+      "surface": "תן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "oma hesedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "oma tõe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:51.441700652Z",
+  "model": "glm-5.3"
+}

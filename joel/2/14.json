@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joel 2:14",
+  "book": "joel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebreal puudub subjekt; veerandimatu 'ehk' kannab küsiva lootuse tooni"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי יודע",
+      "rationale": "Kes teab, ehk ta pöördub — KJV küsib tingivalt, YLT ja JPS kaldutavad lootusrikkamale poole ('võib-olla küll pöördub')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kahetseb",
+      "rationale": "נחם on sõna-sõnalt 'ohkama, tugevalt hingama' — meeletegevus hingeõhu kaudu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "minha ja nesech",
+      "rationale": "Loenduslikult loetletakse ohvrianded, mida rännurohust puudumine (1:9, 13) oli ära võtnud"
+    }
+  ],
+  "translation": "Kes teab, ehk ⟨ta⟩ pöördub tagasi ja kahetseb, ja jätab enese järele õnnistuse — minha ja joohvri Jahvele, teie Elohimile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e7c4258ae844de2f691a39f98fea7477c53c14d1be9e555e1d8970c3c6aa736",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joel\/2\/14-15.1792558537490.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kes"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "teab"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "pöördub tagasi"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ja kahetseb"
+    },
+    {
+      "surface": "והשאיר",
+      "gloss": "ja jätab"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "enese järele"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "õnnistuse"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ja joohvri"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohimile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:37.492755643Z",
+  "model": "glm-5.3"
+}

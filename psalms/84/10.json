@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohimile",
+      "rationale": "Otsepalve: vaata meie kilpi, loe oma võitu nägu."
+    },
+    {
+      "kind": "crux",
+      "subject": "võitu",
+      "rationale": "משיחך — 'sinu võitu' (kuningas tavalises Tanahhi tähenduses); mõned loevad kollektiivselt kogu rahvast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "loe ... nägu",
+      "rationale": "הבט פני on 'näo poole pilku heitma' — soosiv pilk, mitte lihtsalt vaatamine."
+    }
+  ],
+  "translation": "Meie kilpi, Elohim, vaata, ja loe oma võitu nägu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/84\/9-12.1792553544838.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Meie kilpi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ja loe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "oma võitu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:24.839768660Z",
+  "model": "glm-5.3"
+}

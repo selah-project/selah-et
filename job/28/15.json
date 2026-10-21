@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kulda",
+      "rationale": "סגור tähendab sõna-sõnalt 'sulatud\/puhas kuld' — 'suletud (raudas) kuld'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaaluta",
+      "rationale": "kaalumise kauplemiskeel — tarkust ei saa mõõta hõbedaga"
+    }
+  ],
+  "translation": "Selle eest ei anta kulla ega kaaluta hõbedat selle hinnaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f65b8ed679d2b1ab378e3f5690930de30c2f0b0e6618e7a7c5e8f87e983d67fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/13-16.1792555516089.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anta"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "kulda"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "selle eest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "kaaluta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedat"
+    },
+    {
+      "surface": "מחירה",
+      "gloss": "selle hinnaks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:16.089783673Z",
+  "model": "glm-5.3"
+}

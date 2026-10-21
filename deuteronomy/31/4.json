@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Aleph-tav koos suffiksga 'neid' — eesti lauses jääb osaliselt kattuma"
+    }
+  ],
+  "translation": "Ja Jahve teeb neile nii, nagu ta tegi Sihonile ja Ogile, emorlaste kuningatele, ja nende maale, keda ta hävitas ⟨את⟩ nad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93068135cf33ae1e5fc4afae7b6848fcc2a0a396743b2258686252ac2e77c840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/31\/1-4.1792541288574.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ja teeb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihonile"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ja Ogile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningatele"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorlaste"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "ja nende maale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "hävitas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nad",
+      "marks": "nad (Sihon ja Og)"
+    }
+  ],
+  "timestamp": "2026-10-21T00:08:08.575911911Z",
+  "model": "glm-5.3"
+}

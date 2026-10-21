@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וענה",
+      "rationale": "'vastab\/tunnistab' (KJV, JPS) vs 'alandatud' (YLT loeb ענה kui alandama) — juur võimaldab mõlemat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשל",
+      "rationale": "Juure kordus: 'komistavad ... komistab' — kõik kolm riiki ühe langemisega, eesti säilitab korduse."
+    }
+  ],
+  "translation": "Ja Jisraeli ülbus tunnistab ta palgele, ja Jisrael ja Efraim komistavad oma süüdtes, komistab ka Juuda koos nendega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/5\/5-8.1792551039240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "tunnistab"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ülbus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ta palgele"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ja Jisrael"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ja Efraim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "komistavad"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "oma süüdtes"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "komistab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "koos nendega"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:39.241287407Z",
+  "model": "glm-5.3"
+}

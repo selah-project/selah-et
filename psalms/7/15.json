@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Subjektipronoom on lisatud — heebrea jätab sünnitaja (jumalatu) nimetamata."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחבל-והרה-וילד",
+      "rationale": "Sünnituse metafoori kett: vaevas – rasestus – sünnitas; eesti keel hoiab kogu sünnituspildi järjestuses."
+    }
+  ],
+  "translation": "Vaata, ⟨ta⟩ vaevas kooskõlvatusega ja sai rasesteks vaevaga ning sünnitas valeargu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/13-16.1792552276263.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "vaevas kooskõlvatusega"
+    },
+    {
+      "surface": "און",
+      "gloss": "kooskõlvatus"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ja sai rasesteks"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaev"
+    },
+    {
+      "surface": "והילד",
+      "gloss": "ja sünnitas"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valeargu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:16.265278263Z",
+  "model": "glm-5.3"
+}

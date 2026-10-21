@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "asju",
+      "rationale": "אשר suhtesõna eest lisatud nimisõna, eesti ehitus nõuab objekti"
+    }
+  ],
+  "translation": "Tõusevad üles vägivalla tunnistajad; asju, mida ma ei tea, nad küsivad minult.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/9-12.1792552623092.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "tõusevad üles"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tunnistajad"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "vägivalla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asju, mida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tea"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "nad küsivad minult"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:03.093297756Z",
+  "model": "glm-5.3"
+}

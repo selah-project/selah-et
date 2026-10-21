@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedekiks",
+      "rationale": "צדקה jääb sõnaks 'tsedek' — õigsus\/õigus, mitte ainult 'õigeksolek'"
+    },
+    {
+      "kind": "crux",
+      "subject": "tema arvas selle",
+      "rationale": "kelle arvas? Elohim arvab Avrami usalduse — mitte Avram arvab Elohimile"
+    }
+  ],
+  "translation": "Ja ta usaldas Jahvet, ja tema arvas selle talle tsedekiks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/15\/5-8.1792537466193.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "ja ta usaldas"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "ja arvas selle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedekiks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:26.194473643Z",
+  "model": "glm-5.3"
+}

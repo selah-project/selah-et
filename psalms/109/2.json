@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minuga",
+      "rationale": "אתי on lähedusprepositsioon 'koos\/minuga', mitte päris objektimarker, kuid tähis ⟨את⟩ hoitakse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי...ופי",
+      "rationale": "korduv 'suu... ja suu' kaja, eesti keeles säilitatud"
+    }
+  ],
+  "translation": "Sest õela suu ja petmise suu on mu peal avanud nad; nad kõnelesid ⟨את⟩ minuga valekeelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/1-4.1792553916732.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õela"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ja petmise suu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "petmine"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mu peal"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "avanud nad"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nad kõnelesid"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "minuga (valekeel)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "keel"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:36.732913634Z",
+  "model": "glm-5.3"
+}

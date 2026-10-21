@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחולל",
+      "rationale": "KJV\/Geneva: põhjatuul ”ajab vihma minema”; YLT\/JPS: põhjatuul ”toob vihma” — juur חול tähendab keerutamist\/sünnitama, suund on vaieldav"
+    },
+    {
+      "kind": "elision",
+      "subject": "verb teises pooles",
+      "rationale": "Teises võrdluses puudub verb; see kordub esimesest poolest (gapping), eesti keel nõuab lisatud verbi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צפון \/ סתר",
+      "rationale": "צפון tähendab nii ”põhi” kui ”peidetud”, סתר ”peitu” — varjamise kaja läbi terve salmi, eesti keeles kaob"
+    }
+  ],
+  "translation": "Põhja-ruahh keerutab vihma ⟨ära⟩, ja vihaste nägude ⟨ees⟩ ⟨pagentub⟩ salajane keel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7692eb697b4f720d957513373f9bc284efba48204600c2c72d10d141639bd363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/21-24.1792554954741.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "põhja-"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "keerutab"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "vihma"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ja näod"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "vihased"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "keel"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "salajane"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:54.742477875Z",
+  "model": "glm-5.3"
+}

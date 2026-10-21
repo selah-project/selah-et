@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeruv verb — '⟨on⟩ põlvkond' eestib keele nõudel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקלל \/ יברך",
+      "rationale": "Neamine ja õnnistamine seisavad teravas antiteesis — kaob osaliselt, sest eestis ei ole sõnade kõla peegeldust."
+    }
+  ],
+  "translation": "⟨On⟩ põlvkond, kes neab oma isa, ja ⟨את⟩ oma ema ei õnnista.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/9-12.1792555038570.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "põlvkond"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "neab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oma ema"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "oma ema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "õnnista"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:18.571426684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pimedad",
+      "rationale": "עורים tähendab 'pimedad' (kui paljune rõõhutud kaalud), kogu inimkond"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולחמם",
+      "rationale": "לחום võib olla 'nende liha' või haruldane sõna 'nende rüüst'; enamik tõlgib 'liha'"
+    }
+  ],
+  "translation": "Ja ma kitsendan ⟨את⟩ inimese kägu, ja nad käivad nagu pimedad, sest Jahvele nad on pattu teinud, ja nende veri valatakse nagu tolm ja nende liha nagu sõnnikukuulid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a9de43d14f3b5d3b640c983198563c7e76fa6c75cad4b22e3bdaa795f9eccf35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/1\/17-18.1792551711401.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "ja ma kitsendan"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "ja nad käivad"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "nagu pimedad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nad on pattu teinud"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "ja valatakse"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "nende veri"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "nagu tolm"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "ja nende liha"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "nagu sõnnikukuulid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:01:51.402840367Z",
+  "model": "glm-5.3"
+}

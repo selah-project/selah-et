@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה ei ole pelgalt 'õigus', vaid tsedek — kogu õiguse-mõiste, jäetud kõla järgi"
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Kõneleja mina puudub heebrea verbivormides, lisatud selguseks"
+    }
+  ],
+  "translation": "Tsiioni päralt ei jää ma vaikima ja Jerušalaimi päralt ei leia ma rahu, kuni tema tsedek läheb välja nagu hiilgus ja tema pääste nagu põlev tõrvik.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "24c77d6249b19f1ad04523fb997eff274cfbdf1815e466a30c2ee1a86a316a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/62\/1-4.1792547890038.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "päralt"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiioni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "jää ma vaikima"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ja ... päralt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "leia ma rahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "läheb välja"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "nagu hiilgus"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "ja tema pääste"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "nagu tõrvik"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "põlev"
+    }
+  ],
+  "timestamp": "2026-10-21T01:58:10.039560667Z",
+  "model": "glm-5.3"
+}

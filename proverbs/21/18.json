@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "כפר 'lunaraha\/leppehind' vs üldnem tõlge 'lunastus'; siin kujund: jumalatu tasub õige eest nagu asendushind"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lunaraha õige eest",
+      "rationale": "võimalik ka 'lunaraha õiguseks' — prepositsioon ל lubab mõlemat"
+    }
+  ],
+  "translation": "Julm ⟨on⟩ lunaraha õige eest, ja reetur õigete asemel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/17-20.1792554859359.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "lunaraha"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "õigele"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "julm"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ja asemel"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "õigete"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "reetur"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:19.359886693Z",
+  "model": "glm-5.3"
+}

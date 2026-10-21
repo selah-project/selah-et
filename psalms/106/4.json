@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בישועתך",
+      "rationale": "ישׂועה: 'päästmine' vs 'abi, võit'; esialgne tähendus on 'laia ruumi \/ vabanemine', mitte hilisem päästeõpetus"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדני",
+      "rationale": "פקד: 'külastama' nii heas (pöörata tähelepanu) kui karmis (karistada) tähenduses; siin palve heast külastusest"
+    },
+    {
+      "kind": "you",
+      "subject": "kogu salm",
+      "rationale": "Palve otse Jahvele: tuleta mulle meelde, vaata mind"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tuleta mulle meelde",
+      "rationale": "Tõlkes 'mäleta mind'; heebrea זכר on jõuline pöördumine Jumala tähelepanu poole"
+    }
+  ],
+  "translation": "Jahve, tuleta mulle meelde oma rahva meelevallas, vaata mind külastades oma lahinguvõidus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/1-4.1792553827260.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "tuleta mulle meelde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "meelevallas"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oma rahva"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "vaata mind külastades"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "oma lahinguvõidus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:07.261751255Z",
+  "model": "glm-5.3"
+}

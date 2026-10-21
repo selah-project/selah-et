@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידעו\/ישימו\/ישכילו",
+      "rationale": "Four purpose-clause verbs pile up (näeksid, teeksid, paneksid, mõistaksid), a crescendo of perception-verbs characteristic of Isaiah 41."
+    },
+    {
+      "kind": "substitution",
+      "subject": "paneksid tähele",
+      "rationale": "וישימו 'panema' tähenuses 'südame panema' — 'paneksid tähele' edastab pildi, kuid heebrea 'panema' ise kaob."
+    }
+  ],
+  "translation": "Selleks et nad näeksid ja teeksid, paneksid tähele ja mõistaksid üheskoos, et Jahve käsi tegi selle ja Jisraeli Püha lõi selle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ac96167170206cd250ce33d4920f9366d50efe8c0e0d61b6492b3b29e59b2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/41\/20-20.1792558395042.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "selleks et"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nad näeksid"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ja teeksid"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "paneksid tähele"
+    },
+    {
+      "surface": "וישכילו",
+      "gloss": "ja mõistaksid"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "selle"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ja Püha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "loi selle"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:15.043552233Z",
+  "model": "glm-5.3"
+}

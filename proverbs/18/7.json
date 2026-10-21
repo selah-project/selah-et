@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koopula; eesti vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on hinge-elujõud, mitte 'hing' kehatus mõttes"
+    }
+  ],
+  "translation": "Narri suu on tema enda hukk ja tema huuled on tema nefeshi püünis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9918ca3120226fb8aa8bc01b8522346ff089b7bc2b034ba88ef2ec83c580d4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/18\/6-7.1792558622091.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "narri"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "hukk"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema enda"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ja tema huuled"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "püünis"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema nefeshi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:02.097222337Z",
+  "model": "glm-5.3"
+}

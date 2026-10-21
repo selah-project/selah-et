@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "Tugev eitussõna 'bullus, mitte midagi' — eesti keeles kahe eitusena 'mitte iial'"
+    }
+  ],
+  "translation": "Ja mina ütlesin oma rahus: mitte iial ei vanku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/30\/5-8.1792552644571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ja mina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ütlesin"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "oma rahus"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "vanku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iial"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:24.571987066Z",
+  "model": "glm-5.3"
+}

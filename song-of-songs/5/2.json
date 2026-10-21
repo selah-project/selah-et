@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 5:2",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab koppelverbi 'on'; heebrea puudub."
+    },
+    {
+      "kind": "you",
+      "subject": "Ava mulle",
+      "rationale": "Otsene pöördumine kallima poole läbi kõnelejanna: armastatu kõne õele ja kaasale."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ישנה ולבי ער",
+      "rationale": "'Ma magan, aga mu süda on valvas' — kehastatud und kirjeldav püsiväljend, sisemine ärkvelolek."
+    }
+  ],
+  "translation": "Ma magan, aga mu süda ⟨on⟩ valvas: mu armastatu hääl koputab: Ava mulle, mu õde, mu kaasa, mu tuvi, mu täiuslik — sest mu pea on täis kastet, mu juuksesalgud öökastmepiiskadest!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/1-4.1792555842067.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ma"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "magan"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "aga mu süda"
+    },
+    {
+      "surface": "ער",
+      "gloss": "valvas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mu armastatu"
+    },
+    {
+      "surface": "דופק",
+      "gloss": "koputab"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ava"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "mu õde"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mu kaasa"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "mu tuvi"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "mu täiuslik"
+    },
+    {
+      "surface": "שראשי",
+      "gloss": "sest mu pea"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "on täis"
+    },
+    {
+      "surface": "טל",
+      "gloss": "kastet"
+    },
+    {
+      "surface": "קוצותי",
+      "gloss": "mu juuksesalgud"
+    },
+    {
+      "surface": "רסיסי",
+      "gloss": "öökastmepiiskadest"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "öö"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:42.068784209Z",
+  "model": "glm-5.3"
+}

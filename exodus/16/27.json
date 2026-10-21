@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן העם",
+      "rationale": "'Rahvast (mõned)' — heebrea ei ütle 'mõned', lause ⟨mõned⟩ on lisatud selguse jaoks."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mitte midagi⟩",
+      "rationale": "Heebrea ütleb lihtsalt 'ja ei leidnud'; objekt on eesti keeles lisatud."
+    }
+  ],
+  "translation": "Ja sündis seitsmendal päeval, et ⟨mõned⟩ rahvast läksid välja koguma, ja nad ei leidnud ⟨mitte midagi⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63e0ac22b9f58eefaf36e5d10dcb4e2de1e762c12f56a543fee0b4423ffa25b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/16\/25-28.1792538543636.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsmendal"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "läksid välja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rahvast"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvast"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "koguma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "leidnud"
+    }
+  ],
+  "timestamp": "2026-10-20T23:22:23.637359754Z",
+  "model": "glm-5.3"
+}

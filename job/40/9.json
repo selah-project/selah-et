@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab öeldisverbi, heebrea puudub"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve kõne Iiobile",
+      "rationale": "Jumala küsimus pöördub otse Iiobi poole"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרוע\/תרעם",
+      "rationale": "pikk kõlav möirgamine kui Jumala väe kuulutamine, kaja jääb osaliselt kaduma"
+    }
+  ],
+  "translation": "Ja kas sinul on käsi nagu El, ja kas sa möirgad häälega nagu tema?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ddc96f5b4a9968a83a0c7b5889c591dfe192340bc037b4a7a916fa2eec58d31f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/40\/9-12.1792555720891.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kas"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "nagu El"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinul on"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ja häälega"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "nagu tema"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "möirgad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:40.891845064Z",
+  "model": "glm-5.3"
+}

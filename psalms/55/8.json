@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõrb",
+      "rationale": "מדבר on karjamaa\/loodusala, mis sai tähenduseks kõrb — valitud tavaline tähendus"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "muusikaline pausimärk, jäetud nimekujul 'Sela'"
+    }
+  ],
+  "translation": "Ennäe — ma looks kaugele pagenud, ööbiksin kõrbes. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/5-8.1792552934705.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ennäe"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "kaugele"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "pagenud"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ööbiksin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:14.707151095Z",
+  "model": "glm-5.3"
+}

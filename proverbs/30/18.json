@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolm \/ neli",
+      "rationale": "Numbriline 'kolm — ja veel neljas' rida, Aguri tunnuslik loendivormel."
+    },
+    {
+      "kind": "mystery",
+      "subject": "nelja ma ei tundnud",
+      "rationale": "Tekst tunnistab teadmise piiri: need asjad ületavad kõneleja arusaamise."
+    },
+    {
+      "kind": "substitution",
+      "subject": "imelisemad kui mina",
+      "rationale": "נפלאו ממני tähistab 'liiga imeline minu jaoks', mitte võrdlevat 'imelisem kui mina'."
+    }
+  ],
+  "translation": "Kolm ⟨asja⟩ on mulle imelisemad kui mina, ja nelja ma ei tundnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "226cb39cb7c912ee9135b26247b64812ddc76df494e0d60874da88ff3e176e27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/17-20.1792555063211.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨asja⟩ on"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "on mulle imelisemad"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kui mina"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja nelja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "ma tundnud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:43.212980344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Lisatud abiõige, heebrea pus particib puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "tsedek",
+      "rationale": "KJV loeb צדק kui omadussõna tunnistustele ('õiged on su tunnistused'), heebrea sõnajärg pigem adverbina 'tsedegis'"
+    }
+  ],
+  "translation": "Käskisid ⟨oled⟩ tsedeki su tunnistustes ja usaldusväärsust ülimalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/137-140.1792554085159.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צויתא",
+      "gloss": "Käskisid"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeki"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "su tunnistustes"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ja usaldusväärsust"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ülimalt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:25.160581027Z",
+  "model": "glm-5.3"
+}

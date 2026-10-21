@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolmandal päeval",
+      "rationale": "Kolme päeva ennetähtaeg täitub täpselt nagu Joosep tõlgendas."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישא את ראש",
+      "rationale": "Sama väljend 'pea tõstmine' katab nii vabastamise (jookide ülem) kui hukkamise (paganrtele ülem) — topeltläbi."
+    }
+  ],
+  "translation": "Ja sündis kolmandal päeval — päeval, mil sündis ⟨את⟩ Parao — et ta tegi pidusöögi kõigile oma teenritele, ja ta tõstis üles ⟨את⟩ pea jookide ülemal ja ⟨את⟩ pea pagarite ülemal oma teenrite seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4bdccd1b815fd3fda6a6b5d16a0ff9789c7365e7bf37fae9208d00f75c53e176",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/40\/17-20.1792538008897.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmandal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "mil sündis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "pidusöögi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oma teenritele"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja ta tõstis üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pea (jookide ülemal)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "jookide (valajate)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pea (pagarite ülemal)"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "pagarite"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "seas"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oma teenrite"
+    }
+  ],
+  "timestamp": "2026-10-20T23:13:28.898628663Z",
+  "model": "glm-5.3"
+}

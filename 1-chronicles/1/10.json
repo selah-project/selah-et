@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea rõhutav ׳הוא החל׳ ei vaja küpulat, eesti lause vajab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vägev mees",
+      "rationale": "גבור on ׳vägev, sõjamees׳ — üks sõna, eestis kaheks"
+    }
+  ],
+  "translation": "Ja Kuš sai ⟨את⟩ Nimrodi; tema ⟨oli⟩ see, kes hakkas olema vägev mees maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/1\/9-12.1792557114470.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ja Kuš"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodi"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "החל",
+      "gloss": "hakkas"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "olema"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vägev mees"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:54.471602314Z",
+  "model": "glm-5.3"
+}

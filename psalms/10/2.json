@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ajab taga",
+      "rationale": "ידלק tähendab sõna-sõnalt 'põlema, leekima' — 'taga ajama' on kujundlik asendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתפשו",
+      "rationale": "Vorm võib olla indikatiiv ('nad püütakse kinni') või jussiiv ('püüdki nad kinni') — KJV valinud ehtsuse, JPS vaidlustava"
+    }
+  ],
+  "translation": "Õel ülbuses ajab vaest taga; püüdki nad kinni kavalustes, mida nad on kavaldanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/1-4.1792552321572.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "ülbuses"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õel"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "ajab taga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vaene"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "püüdki nad kinni"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "kavalustes"
+    },
+    {
+      "surface": "זו",
+      "gloss": "mida"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "kavaldanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:01.573833028Z",
+  "model": "glm-5.3"
+}

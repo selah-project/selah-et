@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האבות",
+      "rationale": "Sõna-sõnalt 'nahkveinipudel' (õõnsast kõlast), tähendab surnute väljakutsujat; 'nõidkujutaja' jätab kõlakujundi kaota."
+    },
+    {
+      "kind": "crux",
+      "subject": "הידענים",
+      "rationale": "'tundjad' — vaimudega nõu pidavad; erinevalt האבות on siin teine, kuid sugulane sõna."
+    }
+  ],
+  "translation": "Ja Šemuuel oli surnud, ja kogu Jisrael oli teda nutnud, ja nad matsid ta Raamas, tema linnas. Ja Šaul oli ära kaotanud nõidkujutajad ja ⟨את⟩ tundjate-vaimude maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/28\/1-4.1792544335345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ja Šemuuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oli surnud"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "olid nutnud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ja matsid ta"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Raamas"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "tema linnas"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ja Šaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "oli ära kaotanud"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "nõidkujutajad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tundjate-vaimude"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "tundjate-vaimud"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "maalt"
+    }
+  ],
+  "timestamp": "2026-10-21T00:58:55.348348334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 3:6",
+  "book": "habakkuk",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימדד",
+      "rationale": "Juure tähendab nii 'mõõtma' kui 'raputama'; enamik tõlkeid valib 'mõõtis', JPS 'raputab'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הליכות עולם לו",
+      "rationale": "Kas 'tema teed on igavesed' või 'igiaegsed teed kuuluvad temale'; lõpp לו lubab mõlemat."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel 'on'; eesti keel nõuab selle 'igavesed on tema teed' puhul lisama."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ×3",
+      "rationale": "Sõna 'igavene' kordub kolm kordusena salmis — mäed, küngased, teed —; kordus kannab struktuuri."
+    }
+  ],
+  "translation": "Ta seisis ja mõõtis ⟨את⟩ maa, Ta nägi ja põhmestas rahvaid, ja igavesed mäed purunesid, iidsed küngused kummardusid — igavesed ⟨on⟩ tema teed, ⟨on⟩ temale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a712c69cc2b1238de8ff2dd2316f0d39f63c5a08a610543012cf9f6b69a97904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/habakkuk\/3\/5-8.1792551827683.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "seisis"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "ja mõõtis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nägi"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ja põhmestas"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvaid"
+    },
+    {
+      "surface": "ויתפצצו",
+      "gloss": "ja purunesid"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "igavesed mäed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igavesed"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "kummardusid"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "küngased"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iidsed"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "teed"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesed"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:03:47.683928148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Palvepartikkel 'palun\/nüüd' ühendatud mööndussonaga, eraldi ei paista."
+    },
+    {
+      "kind": "you",
+      "subject": "kõik teie",
+      "rationale": "Iiob pöördub otse sõprade poole."
+    }
+  ],
+  "translation": "Agu nüüd, pöörduge kõik tagasi ja tulge, aga ma ei leia teie seast ühtegi tarka.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/17\/9-12.1792555258954.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Agu nüüd"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "pöörduge tagasi"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ja tulge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd (palvepartikkel)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga ma ei"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "leia"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teie seast"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ühtegi tarka"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:58.955168048Z",
+  "model": "glm-5.3"
+}

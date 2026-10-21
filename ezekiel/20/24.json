@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 20:24",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ebajumalad",
+      "rationale": "גלול tähendab sõna-sõnalt 'ümar palk'; eesti 'ebajumal' kaotab halvustava kujundi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "silmad olid järgnemas",
+      "rationale": "heebrea väljend 'silmad olid järel' = himustasid, pöörasid pilgu; jäetud sõnasõnalisse kujundisse"
+    }
+  ],
+  "translation": "Seepärast et mu kohtuid nad ei teinud ja mu hukked nad ära põlgasid, ja ⟨את⟩ mu šabateid nad riivasid, ja nende silmad järgnesid nende isade ebajumalaid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/20\/21-24.1792549987576.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "seepärast et"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mu kohtuid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "tegid nad"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "ja mu hukked"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ära põlgasid nad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mu šabateid"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mu šabateid"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "riivasid nad"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ja järgnesid"
+    },
+    {
+      "surface": "גלולי",
+      "gloss": "ebajumalaid"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olid"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "nende silmad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:33:07.578541429Z",
+  "model": "glm-5.3"
+}

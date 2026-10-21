@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koping; 'olgu ⟨on⟩ šalom' täiendab soovivormi."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Pehme particle 'palun\/nüüd' — tehtud 'nüüd'-ks, täpne vaste puudub."
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaim",
+      "rationale": "Salm pöördub otse linnale (naissoost 'sinu sees')."
+    }
+  ],
+  "translation": "Oma vendade ja sõprade pärast räägin nüüd: olgu ⟨on⟩ šalom sinu sees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/122\/5-8.1792554215853.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "oma vendade"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ja sõprade"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "räägin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu sees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:35.854531936Z",
+  "model": "glm-5.3"
+}

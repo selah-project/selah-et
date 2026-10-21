@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבתון\/תשבתו\/שבתכם",
+      "rationale": "Neljakordne š-b-t kordus ühes salmis; osaliselt säilinud, šabaton jääb tõlkimata."
+    },
+    {
+      "kind": "measurement",
+      "subject": "÷htust ÷htuni",
+      "rationale": "Päeva piiride mõõtmine: šabat kestab õhtust õhtuni."
+    },
+    {
+      "kind": "crux",
+      "subject": "alandate",
+      "rationale": "ענה: 'ennem alandama (paastuma)' vs 'piinama'."
+    }
+  ],
+  "translation": "Šabat šabaton see on teile, ja te alandate ⟨את⟩ oma hinged; üheksandal kuul, õhtul, ÷htust õhtuni peate te oma šabatit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/29-32.1792539593289.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "on teile"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ja te alandate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma hinged"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "oma hinged"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "üheksandal"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuul"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "õhtul"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "÷htust"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "õhtuni"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "peate te"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "oma šabatit"
+    }
+  ],
+  "timestamp": "2026-10-20T23:39:53.290665246Z",
+  "model": "glm-5.3"
+}

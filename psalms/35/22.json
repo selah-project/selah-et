@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Palve pöördub otseselt Jahve poole"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Eesti keel vajab objekti; heebrea 'sina nägid' viitab salmi 21 vaenlaste ülbusele"
+    }
+  ],
+  "translation": "Sina nägid ⟨seda⟩, Jahve; ära vaiki, Adonai, ära ole minust kaugel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/21-24.1792552791624.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Sina nägid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vaiki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ole kaugel"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:51.625466002Z",
+  "model": "glm-5.3"
+}

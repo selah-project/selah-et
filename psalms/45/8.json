@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨rohkem kui⟩",
+      "rationale": "heebrea võrdlus on puht juxtapositsiooniga 'enem kui su kaaslased'; eestis nõuab võrdlus sidesõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחך אלהים אלהיך",
+      "rationale": "'on sind võitnud Elohim, sinu Elohim' — kaks אלהים järjest; kumb on kõnetus, kumb tegija, on iidne küsimus"
+    }
+  ],
+  "translation": "Sina armastad tsedekit ja vihkad ülekohut; seepärast on sind võitnud Elohim, sinu Elohim, rõõmu õliga ⟨rohkem kui⟩ sinu kaaslasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/5-8.1792552870877.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sina armastad"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedekit"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ja vihkad"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ülekohut"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨sellepärast⟩"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "on sind võitnud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "õliga"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "rõõmu"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "sinu kaaslasi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:10.880966704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hevel",
+      "rationale": "הבל on 'hingus\/tühjus', jäetakse heebrea kõlana 'hevel'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לכה נא",
+      "rationale": "'Tule nüüd' — heebrea idioom enesega rääkimiseks, 'mine ja' sõna-sõnalt"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja iseendale",
+      "rationale": "Kõneleja kõnetab oma südant kui 'sind'"
+    }
+  ],
+  "translation": "Mina ütlesin oma südames: Tule nüüd, ma proovin sind rõõmuga ja vaatan heale — ja vaata, ka see on hevel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/2\/1-4.1792556025047.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ütlesin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "oma südames"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Tule"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "ma proovin"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "rõõmuga"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ja vaatan"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "heale"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "on hevel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:45.048451507Z",
+  "model": "glm-5.3"
+}

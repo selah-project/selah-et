@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרים\/גבעות ja אילים\/בני צאן",
+      "rationale": "Suur-väike paar: mäed~künkad vastandub hirved~talled, astmeline kahanev pilt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "hirved",
+      "rationale": "איל tähendab nii 'hirve' kui 'pukki'; pukid-villakud on traditsiooniline, kuid D4 annab 'hirv'."
+    }
+  ],
+  "translation": "Mäed, et te hüppate nagu hirved, künkad nagu talled?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/114\/5-8.1792553987545.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Mäed"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "te hüppate"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "nagu hirved"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "künkad"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "talled"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:47.545702876Z",
+  "model": "glm-5.3"
+}

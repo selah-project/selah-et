@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨poole⟩ \/ ⟨peale⟩",
+      "rationale": "Eesti kaassõnad nõuavad täiendavat sõna heebrea üksnesse kaassõnaga konstruktiooni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõustakse üles",
+      "rationale": "ויקום on üksikisikuline 'ja ta tõuseb' — vana inimene tõuseb varaksite linnulaulude ajal; eesti passiivne kuju jätab teise lugemise"
+    }
+  ],
+  "translation": "ja uksed suletakse tänava ⟨poole⟩, kui jahvatamise hääl vaikib, ja tõustakse üles linnu hääle ⟨peale⟩, ja kõik laulu tütred longutavad",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/12\/1-4.1792556157330.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "ja suletakse"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "uksed"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "tänava poole"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "kui ... vaikib"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "jahvatamise"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ja tõustakse üles"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "hääle peale"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "linnu"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ja longutavad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütred"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "laulu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:57.331945436Z",
+  "model": "glm-5.3"
+}

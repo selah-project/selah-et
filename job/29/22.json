@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 29:22",
+  "book": "job",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תטף",
+      "rationale": "kõne 'tilkub' — heebrea kujund kui kaste; eesti 'tilkus' hoiab pildi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישנו",
+      "rationale": "שנה tähendab 'kordama\/teistama': 'ei vastanud' (KJV) või 'ei muutnud' (YLTL) või 'ei lisanud' (Wycliffe)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨midagi⟩",
+      "rationale": "eesti eitus vajab objekti, heebrea jätab selle välja"
+    }
+  ],
+  "translation": "Pärast minu sõna nad ⟨midagi⟩ ei kordanud, ja neile tilkus minu kõne.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b002f39b6acedbde80a406aaa2141a9f5320b89b8ee8a83198e769d419fcce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/29\/21-24.1792555527084.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "minu sõna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "nad kordasid"
+    },
+    {
+      "surface": "ועלימו",
+      "gloss": "neile peale"
+    },
+    {
+      "surface": "תטף",
+      "gloss": "tilkus"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "minu kõne"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:27.085464090Z",
+  "model": "glm-5.3"
+}

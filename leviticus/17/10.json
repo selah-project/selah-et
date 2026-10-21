@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pööran oma näo vastu",
+      "rationale": "נתתי פני — 'panen oma palge (kellegi) vastu', vihavaenulik pöördumine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingamine, elujõud, isik' — 'hing' on küll lähedane, aga heebrea sõna tähendab ka kurku ja elu"
+    }
+  ],
+  "translation": "Ja ükskõik kes mees Jisraeli soost või võõraist, kes nende keskel võõrana elab, kes sööb mingit verd — siis pööran mina oma näo selle hinge vastu, kes sööb ⟨את⟩ verd, ja raiun ta välja ⟨אתה⟩ tema rahva keskelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/17\/9-12.1792539461482.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja iga mees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kes mees"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soost"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "või ... seest"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "võõrast"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kes võõrana elab"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "nende keskel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mingit"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "וונתתי",
+      "gloss": "siis pööran"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oma näo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "selle hinge vastu"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "kes sööb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "verd"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ja raiun välja"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ta (see hing)"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskelt"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "tema rahva"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:41.484038265Z",
+  "model": "glm-5.3"
+}

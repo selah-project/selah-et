@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/elujõud\/isu' kui eesti 'hing' kui eraldiseisev seesmus."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשה בכל אלה",
+      "rationale": "Kuulus lahkarvamus: kas 'naist kõigi nende [tuhande mehe] seest ei leidnud' või üldistus õpetaja kogemusest — mis täpselt ei leidnud, tekst ei ütle."
+    }
+  ],
+  "translation": "Mida mu hing veel otsis ja ei leidnud: üht inimest tuhande seest leidsin, aga üht naist kõigi nende seest ei leidnud ma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d10cf694c491d26d7496a3266004acd3fea6c11b8eab06b1f90af8188bb92511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/25-28.1792556082595.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mida"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "otsis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "leidnud"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimest"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üht"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "tuhande seest"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "leidsin"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "aga üht naist"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "nende seest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "leidnud ma"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:42.596884718Z",
+  "model": "glm-5.3"
+}

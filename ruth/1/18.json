@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti nõuab kopeeli 'temal oli kindel meel'; heebreas öeldis puudub"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "Prepositsioon את eestindatakse sisseütleva käändega 'temaga', seepärast ⟨temaga⟩"
+    }
+  ],
+  "translation": "Ja ta nägi, et temal ⟨oli⟩ kindel meel minna ⟨את⟩ ⟨temaga⟩, ja ta lakkas temale rääkimast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/1\/17-20.1792555852721.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ja ta nägi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "kindel meel"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "minna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨temaga⟩",
+      "marks": "temaga"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ja ta lakkas"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rääkimast"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "temale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:52.722676323Z",
+  "model": "glm-5.3"
+}

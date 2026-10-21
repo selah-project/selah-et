@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "riistade nimekiri",
+      "rationale": "Salm loetleb täpse kohta neli lauanõude liiki puhtast kullast."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומנקיתיו",
+      "rationale": "KJV 'kaaned' vs JPS\/ASV 'valamisnõud' — juur נקה viitab valamisele, mitte katmisele."
+    }
+  ],
+  "translation": "Ja sa teed selle kausid ja selle labidad ning selle kannud ja selle valamisnõud, millega neisse valatakse — puhtast kullast sa teed ⟨את⟩ need.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5947f62cc4596e3f7127139b32075a25dcc30248ba32344938bbd6da22b407b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/25\/29-32.1792538780456.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja sa teed"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "selle kausid"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "ja selle labidad"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "ning selle kannud"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "ja selle valamisnõud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millega"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "valatakse"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nendega"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuld"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sa teed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "need"
+    }
+  ],
+  "timestamp": "2026-10-20T23:26:20.457300164Z",
+  "model": "glm-5.3"
+}

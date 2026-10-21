@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahve palge",
+      "rationale": "KJV 'the anger of the LORD'; heebrea ütleb sõna-sõnalt 'Jahve pale\/nägu' — kuju on säilitatud"
+    },
+    {
+      "kind": "idiom",
+      "subject": "palgeid tõstma",
+      "rationale": "נשא פנים tähendab 'austust näitama' (sõna-sõnalt 'palgeid tõstma'); otsetõlge kuju säilitab kujundi"
+    },
+    {
+      "kind": "crux",
+      "subject": "פני כהנים לא נשאו",
+      "rationale": "Kes ei näidanud austust: Jahve või rahvas — heebrea jaatus jätab subjekdi lahtiseks"
+    }
+  ],
+  "translation": "Jahve palge on nad laiali jaganud, ta ei vaata neid enam; preestrite palgeid ei tõstetud, vanu ei armustatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7815c1e5e26d9059fcdacec0d4ec5b5fbd7234af19a13fe0f1f4db6e74b00ca8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/13-16.1792556005755.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "palge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "on nad laiali jaganud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "vaata enam"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palgeid"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "preestrite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "tõstetud"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vanu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "armustatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:25.756996968Z",
+  "model": "glm-5.3"
+}

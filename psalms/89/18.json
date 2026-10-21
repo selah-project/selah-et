@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebrea puudub koopula; eesti nõuab selle"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sarv",
+      "rationale": "קרפ 'sarv' tähendab jõudu ja au; jäetud kujundlikult 'sarveks'"
+    }
+  ],
+  "translation": "Sest sina oled nende jõuorevuse hiilgus, ja sinu meelsuses tõstetakse meie sarv.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/17-20.1792553647400.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "hiilgus"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "nende jõud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina oled"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ja sinu meelsuses"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "tõstetakse"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "meie sarv"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:07.401534653Z",
+  "model": "glm-5.3"
+}

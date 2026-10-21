@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karetb",
+      "rationale": "סמר 'karvad tõusevad' — ihuline värisemine, 'karetma' jätab pildi"
+    }
+  ],
+  "translation": "Mu liha karetab su õudusest ja su kohtuotsustest ma kardan.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/117-120.1792554057631.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "karetab"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "su õudusest"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mu liha"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ja su kohtuotsustest"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ma kardan"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:57.632045480Z",
+  "model": "glm-5.3"
+}

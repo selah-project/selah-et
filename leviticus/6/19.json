@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המחטא",
+      "rationale": "sõna-sõnalt 'kes patust teeb\/patu eest toob' — hifili 'patuohvrina toob', mitte lihtsalt 'ohverdab'"
+    }
+  ],
+  "translation": "Preester, kes selle ⟨את⟩ patuohvrina toob, söögu seda; pühas paigas süüakse seda, kohtumise telgi õuel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/6\/17-20.1792539144714.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Preester"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "kes patuohvrina toob"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "seda (patuohvrit)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "söögu seda"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "pühas paigas"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pühas paigas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "süüakse"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "õuel"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telgi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtumise"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:24.715237764Z",
+  "model": "glm-5.3"
+}

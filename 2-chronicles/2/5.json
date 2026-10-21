@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 2:5",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Kaks את-i: koja ja 'Teda' juures; hoitud ⟨את⟩-ina, kus see nimisõna osutab"
+    },
+    {
+      "kind": "you",
+      "subject": "Huramile",
+      "rationale": "Šelomo kõne Türose kuningale 'kes olen mina' — otsekõne"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'kui mitte ainult' — 'välja arvatud selleks, et' vs 'ainult selleks, et'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית ... בית",
+      "rationale": "koja-koja kordus, retooriline peegeldus, eesti keeles säilinud kordusena"
+    }
+  ],
+  "translation": "Ja kes suudab koguda jõudu, et ehitada Talle ⟨את⟩ koja? Sest taivad ja taevaste taevad Ei suuda Teda ⟨את⟩ mahutada. Ja kes olen mina, et ma ehitaksin Talle ⟨את⟩ koja — kui mitte ainult selleks, et Tema ees suitsutada?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb069e0910010e5f2479aed1aba445be3de15d5a70161c2aa8f12a4be8de214b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/2\/5-8.1792557699201.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "suudab koguda"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jõudu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ehitama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Talle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja",
+      "marks": null
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taivad"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ja taevaste"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taevad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יכלכלהו",
+      "gloss": "suuda Teda mahutada"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "אני",
+      "gloss": "olen mina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "אבנה",
+      "gloss": "ma ehitan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Talle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja",
+      "marks": null
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mitte ainult"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "suitsutama"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Tema ees"
+    }
+  ],
+  "timestamp": "2026-10-21T04:41:39.202694326Z",
+  "model": "glm-5.3"
+}

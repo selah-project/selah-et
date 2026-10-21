@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb vastavalt reeglile kuju 'ruahh' — vaim\/hingamise kujund, mitte 'vaim' üksi"
+    },
+    {
+      "kind": "addition",
+      "subject": "siis",
+      "rationale": "Eesti keele lausestruktuur nõuab rõhulist sidesõna vastandusele 'mina \/ sina'"
+    }
+  ],
+  "translation": "Kui mu ruahh katub end minu kohal, siis sina tead mu rada; teel, mida mööda ma käin, on nad pannud mulle varjatud paelu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/142\/1-4.1792554396202.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "kui ... katub end"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu kohal"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mu ruahh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "siis sina"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tead"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "mu rada"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "teel"
+    },
+    {
+      "surface": "זו",
+      "gloss": "mida mööda"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ma käin"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "on nad pannud varjatult"
+    },
+    {
+      "surface": "פח",
+      "gloss": "paelu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:36.203700723Z",
+  "model": "glm-5.3"
+}

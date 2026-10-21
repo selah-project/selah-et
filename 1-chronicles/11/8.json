@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elavdas",
+      "rationale": "יחיה on kausatiiv 'tegema elavaks'; tõlked ütlevad 'parandas' või 'ehitas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Millo",
+      "rationale": "המלוא tähendus ebakindel: 'täidisvalli' — 'tugevusterrass' vs 'kindlus'; jäetud nimeks"
+    }
+  ],
+  "translation": "Ja ta ehitas linna ringi ümber, Millolt kuni ringi ümber; ja Joab elavdas ⟨את⟩ linna ülejäänu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/5-8.1792557316471.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja ta ehitas"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ringi ümber"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Millolt"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millolt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "ringi ümber"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ja Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "elavdas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linna ülejäänu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ülejäänu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:16.472699925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea kõrvallause puudub koopula, eesti keel nõuab selle."
+    },
+    {
+      "kind": "alternative",
+      "subject": "להראות",
+      "rationale": "Tegelikult infinitiiv 'näitama' — 'ennast näitama' vastab kontekstile (v.1 käsule)."
+    }
+  ],
+  "translation": "Ja Elia läks ennast näitama Ahabile — ja näljahäda ⟨oli⟩ tugev Šomeronis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/18\/1-4.1792545688027.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ja läks"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ennast näitama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ahabile"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabile"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ja näljahäda"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "tugev"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Šomeronis"
+    }
+  ],
+  "timestamp": "2026-10-21T01:21:28.028890824Z",
+  "model": "glm-5.3"
+}

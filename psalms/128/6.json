@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olgu⟩",
+      "rationale": "Heebrea infinitiivlause שלום על on soov; eesti keel vajab kopulativerbet"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בנים לבניך",
+      "rationale": "Sõna-sõnalt 'poegi su poegadele' — tähendab 'lapselapsi'"
+    }
+  ],
+  "translation": "Ja näe oma laste lapsi; rahu ⟨olgu⟩ Jisraeli peal!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/128\/5-6.1792554198583.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ja näe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "oma laste"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:18.584394735Z",
+  "model": "glm-5.3"
+}

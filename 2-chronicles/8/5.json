@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kindlustatud",
+      "rationale": "ערי מצור on loendav аппositsioon — 'linnad piiramiseks\/kindluseks', eesti vajab omadussõna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Baeti-Horoni paaris",
+      "rationale": "kahe naabrusega linna topograafiline loendamine: ülemine ja alumine"
+    }
+  ],
+  "translation": "Ja ta ehitas ⟨את⟩ Beit-Horoni ülemise ja ⟨את⟩ Beit-Horoni alumise, kindlustatud linnad, müürid, väravad ja poldid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/8\/5-8.1792557792497.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja ta ehitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Horoni ülemise"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ülemine"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit-Horoni alumise"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "alumine"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "linnad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kindlustatud"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "müürid"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ja poldid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:43:12.498867842Z",
+  "model": "glm-5.3"
+}

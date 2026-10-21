@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "oma viinapuu all ja oma viigipuul",
+      "rationale": "rahurahva paikne pilt — igaühel oma viljapuu, kellegi ei karda"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pole⟩",
+      "rationale": "ואין מחריד sõna-sõnalt 'ja ei ole hirmutajat'; eesti rütm nõuab verbi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש \/ מחריד",
+      "rationale": "'igaüks' ja 'hirmutaja' — חרד juur kordub õudsena, mis on ära võetud"
+    }
+  ],
+  "translation": "Ja nad istuvad igaüks oma viinapuu all ja oma viigipuul, ja ⟨pole⟩ kes õudust pane; sest Jahve Tsevaot suu on rääkinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47d9ed81c349e38b97ffa609194a20bf951047ae1d8b1b348f9f8cbf7265a50e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/4\/1-4.1792551659697.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ja nad istuvad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "oma viinapuu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ja all"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "oma viigipuul"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ⟨pole⟩"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "kes õudust pane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "on rääkinud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:00:59.699685994Z",
+  "model": "glm-5.3"
+}

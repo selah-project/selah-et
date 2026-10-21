@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 41:29",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb ruahhiks — tuul\/vaim\/hingus ühes sõnas; 'tuul' üksi kaotaks teistsuguse tähenduse"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס",
+      "rationale": "אפס jääb heebrea kujul: 'lõpp\/nulli' — mõned loevad selle otseselt järgneva sõna predikaadiks ('nende teod on null')"
+    },
+    {
+      "kind": "elision",
+      "subject": "אפס",
+      "rationale": "Consonantal אפס ei ole ת marker, kuid tuleb meeles pidada Strong's H657 peale; renderdatud otseselt kui אפס"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נסכיהם",
+      "rationale": "נסך nii 'jookohver' kui 'valatud kujud' — valitud 'valatud kujud' idoli kontekstis"
+    }
+  ],
+  "translation": "Vaata, kõik nad on tühjus, אפס ⟨noolt⟩ nende teod; ruahh ja kõrbus on nende valatud kujud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "42484a9a7a36db5fb3b46c15768639d6b03f235fb19a1a0d996c21c0ff206593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/41\/29-29.1792547322323.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kõik nad"
+    },
+    {
+      "surface": "און",
+      "gloss": "tühjus"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "אפס"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "nende teod"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "ja kõrbus"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "nende valatud kujud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:42.324447643Z",
+  "model": "glm-5.3"
+}

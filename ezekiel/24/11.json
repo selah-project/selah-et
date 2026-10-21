@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 24:11",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pott⟩",
+      "rationale": "Eesti vajab objekti, mida heebrea näitab vaid naissoo asesõnaga -הָ"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלאתה",
+      "rationale": "חלאה tähendab nii 'haigus' kui 'rooste' — poti metafooris 'rooste', inimese kohta 'haigus'; eesti valib rooste"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתם",
+      "rationale": "Kolmas kord tüvel תמם 'lõpuni' salmisarjas — lõplik tarvitamine kordub"
+    }
+  ],
+  "translation": "Ja aseta ⟨pott⟩ tühjena oma sütele, et ta kuumeneks ja ta vask hõõguks, ja et ta saaks sulanud oma sees, ⟨et⟩ tema rüve tarbitaks lõpuni, tema roostet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f661161662517ba772fdfc546400bf2e5664f598d037d625241cc81ff9e6f34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/24\/9-12.1792550181560.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמידה",
+      "gloss": "Ja aseta"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "גחליה",
+      "gloss": "oma sütele"
+    },
+    {
+      "surface": "רקה",
+      "gloss": "tühjena"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "תחם",
+      "gloss": "kuumaks"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "ja hõõguks"
+    },
+    {
+      "surface": "נחשתה",
+      "gloss": "ta vask"
+    },
+    {
+      "surface": "ונתכה",
+      "gloss": "ja suluks"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "oma sees"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "tema rüve"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "tarbitaks lõpuni"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "tema rooste"
+    }
+  ],
+  "timestamp": "2026-10-21T02:36:21.561052304Z",
+  "model": "glm-5.3"
+}

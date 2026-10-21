@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "Heebrea puudub verb; kõlasõna lisatud eesti keele nõudel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb heebrea sõnaks 'hesed', mitte 'halastus'"
+    }
+  ],
+  "translation": "Tema annab leiba kõigile lihale, sest igavesti ⟨kestab⟩ tema hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/136\/25-26.1792554255695.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "lihale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:15.695973711Z",
+  "model": "glm-5.3"
+}

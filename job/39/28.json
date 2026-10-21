@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kalju hammas",
+      "rationale": "שן סלע otsekui 'kalju hammas' = terav kaljueend, piltlik väljend"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומצודה",
+      "rationale": "nii 'kindlus' kui 'võrk' — siin 'kaljueendi kindlus', mitte jahivõrk"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלע ... סלע",
+      "rationale": "sõna kordub raamistamas salmi kaljuteemaga"
+    }
+  ],
+  "translation": "Kaljul ta elab ja ööbib, kalju hambal ja ⟨kindluses⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2434cbbe391d2d827f50cab2df87e543657c7a0f3c5297e730cd3716553b6a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/39\/25-28.1792555684429.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "Kaljul"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ta elab"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "ja ööbib"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שן",
+      "gloss": "hambal"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "kalju"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "ja kindluses"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:04.430965056Z",
+  "model": "glm-5.3"
+}

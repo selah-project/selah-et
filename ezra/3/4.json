@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הסכות",
+      "rationale": "'sukkot' — kitse\/laineste püha nimi, mitte 'lehtmajade püha' tõlkena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום ... יום ביומו",
+      "rationale": "korduv 'päev päeva päeval' rütm, eesti keeles 'päevapäeva ... selle päeva' taasloodud"
+    }
+  ],
+  "translation": "Ja nad pidasid ⟨את⟩ sukkoti püha, nii nagu on kirjutatud, ja päevapäeva põletusohvreid arvu järgi, korra kohaselt, iga päeva nõude selle päeva jaoks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/3\/1-4.1792556697373.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ja nad pidasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sukkoti püha"
+    },
+    {
+      "surface": "חג",
+      "gloss": "püha"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "sukkoti"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "nii nagu on kirjutatud"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ja põletusohvri"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päevapäeva"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "arvu järgi"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "korra kohaselt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nõude"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "selle päeva jaoks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:57.374383693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kes sina oled, mu tütar",
+      "rationale": "kas Naemi ei tundnud hämaruses Ruuti ära, või tähendab küsimus 'kuidas läks' — teised tõlkijad valivad viimase"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי את בתי",
+      "rationale": "siin on את asesõna (sina), mitte otsesihitisemärk — samad tähed kui elsewhere DOM את"
+    }
+  ],
+  "translation": "Ja ta tuli oma ämma juurde, ja see ütles: kes sina oled, mu tütar? Ja ta kuulutas talle ⟨את⟩ kõik, mida mees oli temale teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/3\/13-16.1792555900160.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "ja ta tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "oma ämma"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "את",
+      "gloss": "sina"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mu tütar"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ja ta kuulutas"
+    },
+    {
+      "surface": "לה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "לה",
+      "gloss": "temale"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mees"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:40.162022490Z",
+  "model": "glm-5.3"
+}

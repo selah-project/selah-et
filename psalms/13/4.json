@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "surma und \/ surma",
+      "rationale": "'magada surma und' vs 'magada surma' — heebrea פן אישן המות on vaid kaks sõna, ilta sidesõnata"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "otse pöördumine imperatiividega: vaata, vasta, valgusta"
+    }
+  ],
+  "translation": "Vaata mind ja vasta mind, Jahve, mu Elohim! Valgusta mu silmad, et ma ei magaks ⟨את⟩ surma!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/13\/1-4.1792552306370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ja vasta mind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "Valgusta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silmad"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et ... ei"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ma magaks"
+    },
+    {
+      "surface": "המות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:46.372450207Z",
+  "model": "glm-5.3"
+}

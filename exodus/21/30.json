@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש ei ole 'hing', vaid elusolendi elujõud — eesti 'elu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "Lunaraha lubamine vahetab salmi 29 surmanuhtluse — tuntud vaidluskoht: kas kohus saab elu lunastada rahaga."
+    }
+  ],
+  "translation": "Kui lunaraha pandakse tema peale, siis annab ta oma elu lunastuse hinnaks, kõige, mis tema peale pandaakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7c66bfcaa69ce408fab0550d5e2c78d9b34835180ff068e2f0638dae72976173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/29-32.1792538698464.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "lunaraha"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "pandakse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "annab ta"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "lunastuse"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma elu"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kõige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "pandaakse"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:58.464895735Z",
+  "model": "glm-5.3"
+}

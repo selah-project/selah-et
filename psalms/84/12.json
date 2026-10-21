@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keeles vajalik olla-verb, heebreas puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "täiuses",
+      "rationale": "תמים tähendab 'terve, lõpmatu, laitmatu' — kõndimine laitmatult."
+    }
+  ],
+  "translation": "Sest päike ja kilp on Jahve Elohim; armu ja au annab Jahve, ei hoia ta tagasi head nendelt, kes käivad täiuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/84\/9-12.1792553544838.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "päike"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ja kilp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "on Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "armu"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja au"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "hoia ta tagasi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "nendelt, kes käivad"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "täiuses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:24.840363756Z",
+  "model": "glm-5.3"
+}

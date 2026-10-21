@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהולל אקרא יהוה",
+      "rationale": "Kas 'hüüan Jahvet, kes on väärt ülistust' (KJV) või 'Ülistatuna hüüan Jahve' (YLT\/JPS) — keskaegne sõnajärg võimaldab mõlemat"
+    },
+    {
+      "kind": "addition",
+      "subject": "poole",
+      "rationale": "Eesti täiend-kaandeline 'hüüan Jahve poole' asendab heebrea otsese sihitist"
+    }
+  ],
+  "translation": "Ülistatuna hüüan ma Jahve poole, ja vaenlaste käest mina päästen.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/1-4.1792552401362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ülistatuna"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hüüan ma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja käest"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vaenlaste"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "päästen"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:21.364231101Z",
+  "model": "glm-5.3"
+}

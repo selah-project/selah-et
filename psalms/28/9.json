@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sinu",
+      "rationale": "Eesti keel nõuab omaniku详情 — heebreas on see sufiks לis עמך\/נחלתך sees"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kanda",
+      "rationale": "נשא on 'tõstma, kandma' — karjusepildi osa, mitte 'ülendama' nagu KJV 'exalt'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve Jahvele",
+      "rationale": "Kolm imperatiivi pöörduvad otse Jahve poole — psalmi palveosa kulg"
+    }
+  ],
+  "translation": "Päästa ⟨את⟩ sinu rahvas ja õnnista ⟨את⟩ sinu pärand, ja karja neid ja kanna neid igaveseni!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "148f3cb8edf9a33d506ebfe46cde3702e171ff4e49225e6ff3010540e0c90737",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/28\/9-9.1792552480507.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Päästa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu rahvas"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinu rahvas"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ja õnnista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu pärand"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "sinu pärand"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ja karja neid"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "ja kanna neid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igaveseni"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "igaveseni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:40.508028850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nendin",
+      "rationale": "אשוחח hõlmab nii meenutamist kui vaikset kõnelemist endaga; eesti üks sõna ei kanna mõlemat"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגיתי\/אשוחח",
+      "rationale": "kaks sünonüümset mõtisklusverbi kõrvuti, eestis jääb kaja kahvatuks"
+    }
+  ],
+  "translation": "Mäletan ammuseid päevi, mõtisklen kõigi sinu tegude üle, sinu käte teo üle nendin.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/143\/5-8.1792554415128.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mäletan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ammuseid"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "mõtisklen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "sinu tegude"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "teo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sinu käte"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "nendin"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:55.129438675Z",
+  "model": "glm-5.3"
+}

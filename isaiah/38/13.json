@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 38:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ennast",
+      "rationale": "heebrea שויתי (tasandasin\/rahusin) ei ütle objekti; eesti keel vajab seda selguseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "שויתי",
+      "rationale": "'rahune koiduni' vs 'seadsin (südame) koiduni' — šavah tähendab tasandama, võrdlema"
+    }
+  ],
+  "translation": "Rahustasin ⟨ennast⟩ hommikuni; nagu lõvi, nõnda purustab ta kõik mu luud; päevast kuni ööni teed sa minust täieliku lõpu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/38\/13-16.1792547380467.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "rahustasin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hommikuni"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "nagu lõvi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "purustab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mu luud"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "päevast"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ööni"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "teed minust täieliku lõpu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:49:40.467561320Z",
+  "model": "glm-5.3"
+}

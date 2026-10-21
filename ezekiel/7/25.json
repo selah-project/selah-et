@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קפדה",
+      "rationale": "Haruldane sõna: 'hirm'\/'ahastus' (JPS 'horror', KJV 'destruction') vs 'kangedumine'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šalomit",
+      "rationale": "שלום jääb osaliselt heebrea kõlaga, sest 'rahu' ei kata tervist ja heaolu."
+    }
+  ],
+  "translation": "Hirm tuleb, ja nad otsivad šalomit, ja seda ei ole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5b70c1e96c66ef85364a2dab8a9a965d5d32225143d0a0838eaa387fb0aa2fa8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/7\/25-27.1792549672353.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "hirm"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ja nad otsivad"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomit"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja seda ei ole"
+    }
+  ],
+  "timestamp": "2026-10-21T02:27:52.354483924Z",
+  "model": "glm-5.3"
+}

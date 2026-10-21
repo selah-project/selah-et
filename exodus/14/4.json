@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kangestan südame",
+      "rationale": "חזק on 'kangeks tegema' — tuntud vaidlus: kas Jahve muudab faraao tahte või kinnistab faraao enese valikut."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saan au",
+      "rationale": "כבד tähendab sõna-sõnalt 'raske olema' — 'au' on üks lugem, kivi raskeks tegemine teine."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד",
+      "rationale": "Sama juur kannab nii 'au' kui 'raske' tähendust kogu Mitsraimi lugudes (vt konnad, kärntõbi) — eesti keeles see kahekordsus hajub."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויעשו כן",
+      "rationale": "Lause subjekt vahetub äkki — 'nad tegid nii' tähendab Mošest ja Jisraeli poegi, mitte faraod ega mitsrittlasi."
+    }
+  ],
+  "translation": "Ja mina kangestan ⟨את⟩ faraao südame, ja ta ajab neid taga, ja mina saan au faraao ja kogu tema sõjaväe arvel, ja mitsritid tunnevad, et mina olen Jahve. Ja nad tegid nii.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1dcadd2308e908b67bc205f75726ca73e16458c27a75d9bd2f2722e874aa8837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/14\/2-4.1792543572016.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "kangestan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraao südame"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraao"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ajab taga"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "saan au"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "faraao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sõjaväe"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "tunnevad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsritid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ja nad tegid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:12.019693935Z",
+  "model": "glm-5.3"
+}

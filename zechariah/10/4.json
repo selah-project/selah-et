@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ממנו ×4",
+      "rationale": "anafoorne kordus 'temast' neli korda — rütmiline kolonn, eesti keeles säilitatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "נוגש",
+      "rationale": "'maksunõudja\/rõhuja' vs 'valitseja' (ASV 'ruler') — kas väljaminev on rõhuja või juht, muudab salmi suunda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nurgakivi",
+      "rationale": "פנה sõna-sõnalt 'nurk'; 'nurgakivi' on kokkukeritud tähendus, mitte sõna kuju"
+    }
+  ],
+  "translation": "Temast ⟨tuleb⟩ nurgakivi, temast vai, temast sõjavibu; temast läheb välja iga rõhuja üheskoos.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b8f971c583ed779ed85209d444d528597dd55d363eab8a3051bd8d0ca5dd1815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/10\/1-4.1792552114322.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "nurgakivi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "vai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sõjavibu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sõja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "läheb välja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "rõhuja"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "üheskoos"
+    }
+  ],
+  "timestamp": "2026-10-21T03:08:34.323551260Z",
+  "model": "glm-5.3"
+}

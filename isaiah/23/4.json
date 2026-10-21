@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מעוז הים",
+      "rationale": "'Mere kindlus' — epiteet Tsoorile, merekindele linnale; võimalik ka 'mere vägi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילדתי \/ גדלתי \/ רוממתי",
+      "rationale": "Kolmainsatud sünnitus- ja kasvatamismotiivi kõneleb meri isikustatult; eesti keeles säilinud rida, kuid heebrea tihedus kaob."
+    }
+  ],
+  "translation": "Häbenegu Tsidon, sest meri on kõnelnud, mere kindlus, öeldes: ma ei kannatanud valusid ega sünnitanud, ega kasvatanud noorukeid, ega tõstnud üles neitsid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/23\/1-4.1792547069110.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Häbenegu"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "on kõnelnud"
+    },
+    {
+      "surface": "ים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kindlus"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ma ei kannatanud valusid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "sünnitanud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "kasvatanud"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "noorukeid"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "tõstnud üles"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "neitsid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:44:29.111335284Z",
+  "model": "glm-5.3"
+}

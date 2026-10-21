@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨me⟩",
+      "rationale": "Heebrea perfekt ברכנו 'me õnnistasime \/ me õnnistame' — eesti keeles lisatud subjektisõna ⟨me⟩, heebrea seda ei ütle."
+    },
+    {
+      "kind": "you",
+      "subject": "teie üle",
+      "rationale": "Pöördumine otseselt 'teie' (teises mitmuses) — need, kes vihkavad Siioni."
+    }
+  ],
+  "translation": "Ja möödujad ei ütle: Jahve õnnistus olgu teie üle, me õnnistame ⟨את⟩ teid Jahve nimed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/129\/5-8.1792554216707.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "möödujad"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "õnnistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "olgu teie üle"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "me õnnistame"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:36.708437252Z",
+  "model": "glm-5.3"
+}

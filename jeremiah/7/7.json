@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "igavesest ajast",
+      "rationale": "למן עולם on ebaselge — 'igavesest ajast' või 'alates ammustest aegadest'; tõlkijad lahku läinud."
+    },
+    {
+      "kind": "measurement",
+      "subject": "aeg",
+      "rationale": "Topelt עולם märgib ajapiiri: igavikust igavikuni."
+    }
+  ],
+  "translation": "siis lasen ma ⟨את⟩ teid elada selles paigas, maas, mille ma andsin teie isadele, igavesest ajast igaveseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/7\/5-8.1792548171264.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "siis lasen ma elada"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "paigas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selles"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ma andsin"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "teie isadele"
+    },
+    {
+      "surface": "למן",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ajast"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "igaveseni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseni"
+    }
+  ],
+  "timestamp": "2026-10-21T02:02:51.266985474Z",
+  "model": "glm-5.3"
+}

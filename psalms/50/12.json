@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "kopeer 'on' lisatud, heebrea laseb selle mainimata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "gloss": null,
+      "rationale": "'maailm' omandilises küünes — sõna-sõnalt 'asustatud maa'"
+    },
+    {
+      "kind": "you",
+      "subject": "sulle",
+      "rationale": "Jahve kõneleb otse ohvritoojale \/ õiglasele"
+    }
+  ],
+  "translation": "Kui ma nälga tunneksin, ei ütleks ma sulle, sest minu ⟨on⟩ maailm ja selle täius.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/9-12.1792552946079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ma nälga tunneksin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleks ma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailm"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ja selle täius"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:26.080921713Z",
+  "model": "glm-5.3"
+}

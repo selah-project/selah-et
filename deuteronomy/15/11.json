@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Jahve otsene käsk kuulajale: ava oma käsi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עני \/ אביון",
+      "rationale": "Kaks erinevat heebrea sõna vaesuse kohta — kehvik (עני) ja vaene (אביון) — mõlemad säilitatud eraldi."
+    }
+  ],
+  "translation": "Sest vaest ei lõpe ma keskkohast ära; seepärast käsin mina sind, öeldes: Avades ava ⟨את⟩ oma käsi oma vennale, oma kehvikule ja oma vaesele sinu maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fbb08bcabab7bc6f9dae348b1c49d1977f430cc1d972dc1d15d1c7f8e82a9bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/15\/9-12.1792540908887.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "lõpe"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "vaest"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "keskkohast"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ma"
+    },
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "käsin sind"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Avades"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käsi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "oma käsi"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "oma vennale"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "oma kehvikule"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "ja oma vaesele"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sinu maal"
+    }
+  ],
+  "timestamp": "2026-10-21T00:01:48.888674275Z",
+  "model": "glm-5.3"
+}

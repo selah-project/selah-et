@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "aeg",
+      "rationale": "Salm dateerib sündmuse valitsemisaasta järgi: viienda aastana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tõusis üles",
+      "rationale": "עלה tähendab 'ronima\/üles minema' — sõjakäigu tehniline väljend, eesti keeles 'tõusis üles ... vastu'."
+    }
+  ],
+  "translation": "Ja sündis kuningas Rehavami viiendal aastal, et Šišak, Mitsraimi kuningas, tõusis üles Jerušalaimi vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80edccb1bd8991d69023936a1eb78523550bc1fc31a72819daaab35e9f47c076",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/14\/25-28.1792545544801.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "aastal"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "viiendal"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavami"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tõusis üles"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Šišak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:19:04.802475246Z",
+  "model": "glm-5.3"
+}

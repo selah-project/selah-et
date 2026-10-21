@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 6:10",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea ונשאו suffix viitab laibale, mille eesti üldlauses vajab täiendavat asesõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "tema, kes ta põletab",
+      "rationale": "ומסרפו: kas üks isik (onu, kes põletab) või kaks (onu ja põletaja); KJV 'onu, põletaja' laseb lugeda kahe tegelasena"
+    },
+    {
+      "kind": "crux",
+      "subject": "sest Jahve nime ei tohi meenutada",
+      "rationale": "כי לא להזכיר: 'sest ei tohi' (hirm Nime välja öelda hädas) vs 'kui ei taha mainida' (kadeduse või hirmu tõttu)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sisenurkades",
+      "rationale": "ירכתי sõna-sõnalt 'külg, tagumik', kujundlikult 'maja kõige varjatumad osad'"
+    }
+  ],
+  "translation": "Ja tema onu võtab ⟨ta⟩ üles, ja tema, kes ta põletab, et tuua luud välja majast, ja ta ütleb sellele, kes on maja sisenurkades: Kas on veel kellegi sinusugane? Ja ta ütleb: Mitte ühtegi. Ja ta ütleb: Vait! Sest Jahve nime ei tohi meenutada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81e0df51ecff49b4005666ee3b67c7450b2891f1e1db1fc1212581482808fde7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/6\/9-12.1792551281414.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "ja võtab üles"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "tema onu"
+    },
+    {
+      "surface": "ומסרפו",
+      "gloss": "ja tema, kes ta põletab"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "et tuua välja"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "luud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "välja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "majast"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja ta ütleb"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sellele, kes"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "on sisenurkades"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "kas on veel"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinusugane"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja ta ütleb"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "mitte ühtegi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja ta ütleb"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Vait!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "meenutada"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:54:41.414947404Z",
+  "model": "glm-5.3"
+}

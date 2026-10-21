@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingesus",
+      "rationale": "נפש on kurgus\/hingamine\/elujõud, mitte eraldiseisev 'hing'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "pannku tolma elama",
+      "rationale": "Heebrea kujund: au saab tolmus 'elama' — kõrguse langeb madalasse, eestis peab kujund lahti kirjutama"
+    },
+    {
+      "kind": "you",
+      "subject": "vaenlane",
+      "rationale": "Kohuselaused suunatud vaenlasele — David kutsub endale üle karistuse, kui ta süüdi on"
+    }
+  ],
+  "translation": "Jahtigu vaenlane mu hingesust ja jõudku kätte, ja tallaku mu elu maha maale, ja mu au pannku tolma elama. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/5-8.1792552306977.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "jahtigu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlane"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hingesust"
+    },
+    {
+      "surface": "וגשג",
+      "gloss": "ja jõudku kätte"
+    },
+    {
+      "surface": "ורמס",
+      "gloss": "ja tallaku"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ja mu au"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "tolma"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "elagu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:46.978952527Z",
+  "model": "glm-5.3"
+}

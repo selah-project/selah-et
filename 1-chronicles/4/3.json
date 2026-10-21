@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨pojad⟩",
+      "rationale": "Heebrea ütleb ainult 'need olid Etami isa' — sõna 'pojad' on lisa selguse nimel"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבי עיטם",
+      "rationale": "Kas 'Etami isa' (isik) või 'Etami asula isa' (asutaja) — tõlkijad lahenevad erinevalt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sugupuu",
+      "rationale": "Nimede loend koos õe nimega"
+    }
+  ],
+  "translation": "Ja need olid Etami isa ⟨pojad⟩: Jisreel, Jishma ja Jidbash; ja nende õe nimi oli Tselelponi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/4\/1-4.1792557210671.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja need"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isa"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etami"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "Jishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "Jidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nimi"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "nende õe"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:33:30.672104904Z",
+  "model": "glm-5.3"
+}

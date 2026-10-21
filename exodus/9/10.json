@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tolm",
+      "rationale": "פיח on ahjust võetud nõtke tahm, mitte lihtsalt tolm; 'ahju tolm' hoiab pildi"
+    }
+  ],
+  "translation": "Ja nad võtsid ⟨את⟩ ahju tolmu ja seisid Parao ees, ja Moše piserdas seda taeva poole, ja sai mädapõletik, paisetused, mis lööbivad inimesel ja kariloomal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/9\/9-12.1792538381531.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja nad võtsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahju tolmu"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "tolm"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "ahju"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja seisid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ja piserdas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "tolmu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "taeva poole"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "mädapõletik"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "paisetused"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "lööbivad"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "inimesel"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ja kariloomal"
+    }
+  ],
+  "timestamp": "2026-10-20T23:19:41.532494193Z",
+  "model": "glm-5.3"
+}

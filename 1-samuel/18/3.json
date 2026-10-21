@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "sõna-sõnalt 'lepingu lõikama' — heebrea idiom lepingu sõlmimiseks, eestis 'sõlmima'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באהבתו אתו כנפשו",
+      "rationale": "korduv -תו lõpp kajab kolm korda, eesti keeles kadunud"
+    }
+  ],
+  "translation": "Ja Jehoonatan ja David sõlmisid lepingu, sest ta armastas teda ⟨את⟩ nagu oma hinge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/18\/1-4.1792544066155.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Ja sõlmis"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehoonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ja David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sest ta armastas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "teda"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "nagu oma hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:26.157054883Z",
+  "model": "glm-5.3"
+}

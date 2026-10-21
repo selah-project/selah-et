@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "'Jahve hääl' kordub 29. salmi keeruses seitse korda — kõue refrään, mis algab siit."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הרעים",
+      "rationale": "רעם 'müristama' — harv põhiline kõuesõna, siin päästetud õige kujuga, mitte üldistatud 'kõuab'."
+    }
+  ],
+  "translation": "Jahve hääl on ⟨peal⟩ vete — Elohim, kõrg-au, müristab, Jahve on paljude vete kohal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/29\/1-4.1792552582211.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨peal⟩"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kõrg-au"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "müristab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vete"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "paljude"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:22.213182612Z",
+  "model": "glm-5.3"
+}

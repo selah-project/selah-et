@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea subjekt on прилежащimata — asesõna lisatud selguseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "heidetakse maha",
+      "rationale": "וימל on otseseselt 'pügati\/kituti' (nagu lill, mille närbunud pea maha lõigatakse)"
+    }
+  ],
+  "translation": "Nagu õis tuleb ⟨ta⟩ välja ja heidetakse maha, ja põgeneb nagu vari ega jää püsima.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/14\/1-4.1792555322571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "Nagu õis"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "tuleb välja"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ja heidetakse maha"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ja põgeneb"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "nagu vari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "jää püsima"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:02.572495399Z",
+  "model": "glm-5.3"
+}

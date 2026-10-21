@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "egiptlanna",
+      "rationale": "Heebrea 'mitsriit' — Mitsraimi nime kaudu; eesti tavanimi 'egiptlanna' on akurateerim kui Nime kuuluv."
+    },
+    {
+      "kind": "measurement",
+      "subject": "suguvõsad",
+      "rationale": "Toledot-pealkiri algab nimeloendiga (salm 13-16)."
+    }
+  ],
+  "translation": "Ja need on Jišmaeli, Avrahami poja, suguvõsad, kelle Hagar, egiptlanna, Saara orjatari, sai Avrahamile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de05087e2ce424be23747e2d43c6088eb990d1b5c91fc9e32be64c963da95786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/25\/9-12.1792537708220.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ja need"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "suguvõsad"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poja"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sai"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "egiptlanna"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "orjatari"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamile"
+    }
+  ],
+  "timestamp": "2026-10-20T23:08:28.221942430Z",
+  "model": "glm-5.3"
+}

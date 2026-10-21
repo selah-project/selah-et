@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "need",
+      "rationale": "eesti osutab käsitletavatele meesteile kindlalt, heebrea 'ha' jääb eesti artiklita nähtamatuks"
+    },
+    {
+      "kind": "you",
+      "subject": "Šemuelile",
+      "rationale": "rahvas pöördub otse Šemueli poole nõudmisega"
+    },
+    {
+      "kind": "crux",
+      "subject": "kas Šaul saab valitsema",
+      "rationale": "küsimuse või eitava kaudse kõne tõlgendus: kes ütles 'Šaul ei pea valitsema' vs kes küsis 'kas Šaul valitseb'"
+    }
+  ],
+  "translation": "Ja rahvas ütles Šemuelile: kes on see, kes ütles: kas Šaul saab valitsema minu üle? Andke need mehed ja tapame nad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/11\/9-12.1792543828345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuelile"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "on see, kes ütles"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "saab valitsema"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meie üle"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "need mehed"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "ja tapame nad"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:28.346906730Z",
+  "model": "glm-5.3"
+}

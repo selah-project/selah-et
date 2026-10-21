@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "käsk kuulajale",
+      "rationale": "järeltulijatundeline imperatiiv 'Pea meeles' — Jisraelile kui otsene pöördumine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šabat",
+      "rationale": "שבת jääb nimeks šabat, mitte 'hingamispäev'"
+    }
+  ],
+  "translation": "Pea ⟨את⟩ šabati päev pühaks selle pühitsemiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/5-8.1792538550206.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Pea meeles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šabati päev"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabati"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "selle pühitsemiseks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:22:30.207611234Z",
+  "model": "glm-5.3"
+}

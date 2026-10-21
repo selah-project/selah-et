@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pealetõugatud",
+      "rationale": "נדחי tuleneb juurest 'tõukama\/minema ajama' — 'hüljatud\/pagulased' on roll, mitte sõna kuju"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jahve ehitab",
+      "rationale": "Osalev preesens kui tegutsev iseloomustus: 'Jahve, kes ehitab Jerušalaimi'"
+    }
+  ],
+  "translation": "Jahve ehitab Jerušalaimi, Jisraeli pealetõugatud kogub ta kokku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/1-4.1792554400739.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "ehitab"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "pealetõugatud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "kogub kokku"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:40.739916340Z",
+  "model": "glm-5.3"
+}

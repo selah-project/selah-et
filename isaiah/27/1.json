@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 27:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברח",
+      "rationale": "'põgenev' (ylt) vs 'läbistav' (kjv 'piercing') — juur tähendab põgenemist, kuid tähendab ka 'terav'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לויתן... נחש... נחש",
+      "rationale": "Korduv parallelism: kaks madu ja mereelukas — kaosmonstri kolmikku tasandab eesti keel ühe lausega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mereelukas",
+      "rationale": "תנין on merekoletis, mitte 'loom' ega 'draakon' (D4)."
+    }
+  ],
+  "translation": "Sel päeval karistab Jahve oma raske ja suure ja tugeva mõõgaga ⟨את⟩ Livjatani, põgenevat madu, ja ⟨את⟩ Livjatani, keerduvat madu, ja ta tapab ⟨את⟩ mereeluka, kes on meres.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a7cdd0246d1e6b9bfb3c11d9b40f8cbf0c89014599360b6cbbf0b8731ea8ddaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/27\/1-4.1792547124058.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "karistab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחרבו",
+      "gloss": "oma mõõgaga"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "raske"
+    },
+    {
+      "surface": "והגדולה",
+      "gloss": "ja suure"
+    },
+    {
+      "surface": "והחזקה",
+      "gloss": "ja tugeva"
+    },
+    {
+      "surface": "על",
+      "gloss": "peatuseks"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatani"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "põgenev"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Livjatani"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "madu"
+    },
+    {
+      "surface": "עקלתון",
+      "gloss": "keerduv"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ja tapab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mereeluka"
+    },
+    {
+      "surface": "התנין",
+      "gloss": "mereeluka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בים",
+      "gloss": "on meres"
+    }
+  ],
+  "timestamp": "2026-10-21T01:45:24.059505703Z",
+  "model": "glm-5.3"
+}

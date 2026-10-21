@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võituid",
+      "rationale": "משיחי mitmuses — 'mu võitud'; 'mašiahh' jääb preestri\/kuninga üksikisiku jaoks"
+    },
+    {
+      "kind": "you",
+      "subject": "kuningatele",
+      "rationale": "jumalik kõne asumate kuningate vastu, eelneva noomuse sisu"
+    }
+  ],
+  "translation": "Äerge puutuma mu võituid, ja mu prohvetitega äerge kurja tegevat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/13-16.1792553786313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "äerge"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "puutuma"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "mu võituid"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ja mu prohvetitega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "äerge"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "kurja tegevat"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:26.314203125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koper puudub heebreas — lisatud ⟨on⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Jahve loeb rahvaid",
+      "rationale": "Jumal kui rahvaloendaja — nimistu, register, loendamine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "Muusikaline pausimärk, tõlkimata jäetud"
+    }
+  ],
+  "translation": "Jahve loeb, kui ta rahvaid üles kirjutab: see ⟨on⟩ seal sündinud. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/87\/5-7.1792553538586.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "loeb"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "kui ta üles kirjutab"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sündinud"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:18.588423310Z",
+  "model": "glm-5.3"
+}

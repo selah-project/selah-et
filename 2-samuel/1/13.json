@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab olemise verbi, heebrea lubab nimenaatmise ilma selleta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "amaleklastest",
+      "rationale": "רעמלקי üksikisikust rahvuse nimetus edasi antud rahvuse nimetusega"
+    }
+  ],
+  "translation": "Ja David ütles noorele, kes talle seda teatas: Kust sa oled? Ja tema ütles: Ma olen võõra mehe poeg, amaleklastest ⟨on⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/1\/13-16.1792544372986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "noorele"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "noorele"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "kes teatas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kust"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "sa oled"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "גר",
+      "gloss": "võõra"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amaleklane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ma olen"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:32.987799161Z",
+  "model": "glm-5.3"
+}

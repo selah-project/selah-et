@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 27:33",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see on⟩ \/ ⟨on⟩",
+      "rationale": "Eesti küsi- ja kõneside vajab kopulat, mida heebrea puudulikult väljendab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "uurima",
+      "rationale": "בקר tähendab sõna-sõnalt 'sõeluma\/läbi vaatama', nagu karja lugevate kepi all"
+    },
+    {
+      "kind": "crux",
+      "subject": "המר ימירנו",
+      "rationale": "Infinitivus absolutus: 'kui ta tõepoolest vahetab' — rõhutav kordus"
+    }
+  ],
+  "translation": "Ta ei tohi uurida, kas ⟨see on⟩ hea või halb, ega tohi seda vahetada; ja kui ta seda tõepoolest vahetab, siis see ja selle vahetus ⟨on⟩ püha — seda ei tohi lunastada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c3fce8cb71bd990fd235cbaa466bf251a5fcc5af8609747b14222a7368190708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/27\/33-34.1792539632993.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "tohib uurida"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "või halb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega ei tohi"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "seda vahetada"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "המר",
+      "gloss": "tõepoolest vahetab"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "ta seda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "siis saab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ja selle vahetus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "tohi lunastada"
+    }
+  ],
+  "timestamp": "2026-10-20T23:40:32.993703603Z",
+  "model": "glm-5.3"
+}

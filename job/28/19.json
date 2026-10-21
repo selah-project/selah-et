@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 28:19",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaaluta",
+      "rationale": "סלה tähendab 'kaaluma' või 'põlgama' — 'kaaluta' hoiab kaalu-pildi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יערכנה kordus",
+      "rationale": "sama verb kui v 17 — korduv rida 'ei pane võrdseks' seob salmid"
+    }
+  ],
+  "translation": "Topaas Kuusist ei pane seda võrdseks, puhase kullaga ei kaaluta seda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a39dad4af560f1c75bfdb9147d53561308b20fc62810c15ab0461e209ccd4d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/17-20.1792555495016.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יערכנה",
+      "gloss": "pane võrdseks"
+    },
+    {
+      "surface": "פטדת",
+      "gloss": "topaas"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuusist"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "puhase kullaga"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תסלה",
+      "gloss": "kaaluta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:55.017555180Z",
+  "model": "glm-5.3"
+}

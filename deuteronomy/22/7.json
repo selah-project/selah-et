@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלח",
+      "rationale": "Infinitivus absolutus + imperatiiv: 'laskma pead laskma' — täielik kordus, eesti keeles tugevdatud 'pead sa lahti lasta'."
+    }
+  ],
+  "translation": "Laskma pead sa lahti lasta ⟨את⟩ ema, ja ⟨את⟩ pojad võta endale, et sinule hästi oleks ja et sa päevi pikendaksid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/22\/5-8.1792541020341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "laskma"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pead sa lahti lasta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ema"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "pojad"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "võta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "hästi oleks"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ja sa pikendaksid"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:03:40.342030292Z",
+  "model": "glm-5.3"
+}

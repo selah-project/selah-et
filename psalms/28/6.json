@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti jaatuse kääne nõuab sidesõna, mis heebreas puudub"
+    }
+  ],
+  "translation": "Õnnistatud ⟨on⟩ Jahve, sest ta kuulis mu palvehäält.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/28\/5-8.1792552554010.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "õnnistatud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulis"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mu palve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:54.012075993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזבח",
+      "rationale": "'ohverdas' sõna otseses mõttes — kuningas käsitleb preestreid kui ohvreid; mõned tõlked pehmendavad 'tappis'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "על המזבחות",
+      "rationale": "Eesti sõnajärg seab 'altarite peal' elukohale; heebrea paneb altarid lause lõppu — tegu on kõrgendite altaritega, millega preestrid seotud on."
+    }
+  ],
+  "translation": "Ja ta ohverdas ⟨את⟩ kõik kõrgendite preestrid, kes seal olid, altarite peal, ja põletas ⟨את⟩ inimeste luid nende peal; ja ta pöördus tagasi Jerušalaimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/23\/17-20.1792546586056.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "ja ta ohverdas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik kõrgendite preestrid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "kõrgendite"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarite"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ja põletas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inimeste luid"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "luid"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimeste"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende peal"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja ta pöördus tagasi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:36:26.058242706Z",
+  "model": "glm-5.3"
+}

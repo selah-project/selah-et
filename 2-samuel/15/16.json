@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברגליו",
+      "rationale": "sõna-sõnalt 'tema jalgadel' — tõlked jagunevad 'jalgsi', 'tema jalgade järel', 'tema kannul'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "liignaised",
+      "rationale": "פלגשים — 'liignaised' (naised teise järgu seisuses), eesti tavatekstides 'külgnad'"
+    }
+  ],
+  "translation": "Ja kuningas läks välja ja kogu tema koda tema jalgade järel; ja kuningas jättis ⟨את⟩ kümme naist, liignaised, hoidma maja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/15\/13-16.1792544737488.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ja läks välja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tema koda"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "tema jalgade järel"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ja jättis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kümme naist"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naist"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "liignaised"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hoidma"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "maja"
+    }
+  ],
+  "timestamp": "2026-10-21T01:05:37.493761590Z",
+  "model": "glm-5.3"
+}

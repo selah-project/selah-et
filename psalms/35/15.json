@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונאסספו ... נאספו",
+      "rationale": "korduv נאספו\/נֶאֱסָפו — kogunemise kajakord, eesti keeles kaks 'kogunesid' järjest"
+    },
+    {
+      "kind": "crux",
+      "subject": "ei vaikenud iial",
+      "rationale": "דָמו: 'ei vaiksust pidanud' (YLT 'ceased not') vs 'olid vait, hämmastusid' (JPS-laiend 'without ceasing' põhineb KJV-il)"
+    }
+  ],
+  "translation": "Ja mu lonkamise ajal nad rõõmustasid ja kogunesid; kogunesid minu vastu lööjad, ja mina ei teadnud; nad kiskusid ja ei vaikenud iial.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/13-16.1792552654384.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ja mu lonkamise ajal"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "rõõmustasid"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ja kogunesid"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "kogunesid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "lööjad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "teadnud"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "kiskusid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "vaikenud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:34.385156961Z",
+  "model": "glm-5.3"
+}

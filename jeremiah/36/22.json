@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel vajab lause jaoks liitööriista, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האח",
+      "rationale": "האח on tulepott ehk hauasüsi, mitte lihtsalt 'kamin'"
+    }
+  ],
+  "translation": "Ja kuningas istus talvemajas, üheksandas kuus, ja ⟨את⟩ hauasüsi tema ees põles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/36\/21-24.1792549100243.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "istus"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "talve"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "üheksandas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hauasüsi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hauasüsi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "põles"
+    }
+  ],
+  "timestamp": "2026-10-21T02:18:20.244318989Z",
+  "model": "glm-5.3"
+}

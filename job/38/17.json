@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 38:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות\/צלמות",
+      "rationale": "צלמות ('surmavari') kordab sõna מות ('surm') — kaja jääb eesti keeles osaliselt 'surma\/surmavari' kaudu alles"
+    },
+    {
+      "kind": "addition",
+      "subject": "neid",
+      "rationale": "אות puudub; eesti keel vajab lauses kedagi, keda on nähtud"
+    },
+    {
+      "kind": "mystery",
+      "subject": "surma väravad",
+      "rationale": "Salajased, inimesele suletud alused — küsimus Iiobile piiride näitamiseks"
+    }
+  ],
+  "translation": "Kas sulle on avanenud surma väravad, ja surmavarju väravad — kas sa oled neid näinud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/38\/17-20.1792555692638.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנגלו",
+      "gloss": "kas on avanenud"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "ושערי",
+      "gloss": "ja väravad"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "surmavarju"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "oled näinud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:12.638694232Z",
+  "model": "glm-5.3"
+}

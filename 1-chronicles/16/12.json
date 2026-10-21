@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "otsuseid",
+      "rationale": "משפטי on 'kohused\/otsused' — käesolevas kontekstis Jumala suust lähtuvad otsused, mitte kohtulikud määrused."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatiiv",
+      "rationale": "Pidage meeles — jätkuv pöördumine koguduse poole."
+    }
+  ],
+  "translation": "Pidage meeles tema imetegusid, mida ta on teinud, tema tunnustähti ja tema suu otsuseid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81ddc519dd746b5909b234c39b3cfe716555d41f37cabdbcd35e601fbed67f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/9-12.1792557390933.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Pidage meeles"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "tema imetegusid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ta on teinud"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "tema tunnustähti"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ja tema ... otsuseid"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "suu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:30.934619165Z",
+  "model": "glm-5.3"
+}

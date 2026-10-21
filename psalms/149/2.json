@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma Loojas",
+      "rationale": "עשיו on partitsiibis 'tegi teda'; tavatõlge 'Looja' katab eesti lugeja jaoks terve fraasi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "temas, kes tema tegi",
+      "rationale": "Sõnasõnaline partitsiip 'tegevas'; valitud tavapärane 'Loojas'"
+    }
+  ],
+  "translation": "Jisrael olgu rõõmus oma Loojas, Siioni pojad rõõmistku oma kuningas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/149\/1-4.1792554417949.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "olgu rõõmus"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "oma Loojas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "rõõmistku"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "oma kuningas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:57.950190036Z",
+  "model": "glm-5.3"
+}

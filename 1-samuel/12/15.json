@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יד יהוה בכם",
+      "rationale": "'Jahve käsi teie peal\/vastu' — võimu väljendus, mitte kehaline käsi"
+    },
+    {
+      "kind": "addition",
+      "subject": "sõna",
+      "rationale": "'suu' üksi ei piisa; eesti lisab 'sõna' suulise ütlemise selgituseks"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Hoiatuspöördus rahvale ja nende isadele"
+    }
+  ],
+  "translation": "Aga kui te ei kuule Jahve häält ja põlgate Jahve ⟨את⟩ suu sõna, siis saab Jahve käsi teie vastu ja teie isade vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/12\/13-16.1792543865811.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "aga kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "te kuule"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ja põlgate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve suu sõna"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "siis saab"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teie vastu"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ja teie isade vastu"
+    }
+  ],
+  "timestamp": "2026-10-21T00:51:05.813264865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "süüta veri",
+      "rationale": "דם הנקי: 'süüta veri' otsekui või 'süüta vere (valamise süü)' nagu KJV\/BSB 'guilt of innocent blood'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ובערת",
+      "rationale": "tõlgitud 'kõrvaldad'; sõna otseselt 'põletad\/kõrbetad (nagu tulega)' — puhas pilt tulnukatest"
+    }
+  ],
+  "translation": "Su silm ei halasta tema peale, ja sa kõrvaldad süüta vere Jisraeli seest, ja sind läheb hästi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f6a0ea4794208b51a38e742b8475ace9b0b0704848a0c5043ad29ea8642b1f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/19\/13-16.1792540971951.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "halasta"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "su silm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ja sa kõrvaldad"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vere"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "süüta"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisraeli seest"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ja läheb hästi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    }
+  ],
+  "timestamp": "2026-10-21T00:02:51.952258128Z",
+  "model": "glm-5.3"
+}

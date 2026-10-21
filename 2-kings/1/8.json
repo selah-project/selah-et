@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעל שער",
+      "rationale": "sõna-sõnalt 'karvade isand' — tavaliselt 'karvane mees', kujundi 'isand' kaob"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel vajab koppelverbi, heebrea puudub"
+    }
+  ],
+  "translation": "Ja nad ütlesid talle: karvade-isand mees, ja nahast vöö vöötatuna tema puusadele. Ja ta ütles: Elija, Tisbitlane, see ⟨on⟩ see.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/1\/5-8.1792545861088.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja nad ütlesid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "karvade-isand"
+    },
+    {
+      "surface": "שער",
+      "gloss": "karvad"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "ja vöö"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nahast"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "vöötatuna"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "tema puusadele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Tisbitlane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    }
+  ],
+  "timestamp": "2026-10-21T01:24:21.091241907Z",
+  "model": "glm-5.3"
+}

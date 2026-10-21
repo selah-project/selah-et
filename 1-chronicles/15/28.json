@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 15:28",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõrvid",
+      "rationale": "מצלתים on kahekordne helisev paar — 'tõrvid' (kellukujulised klapid) puändne laen."
+    }
+  ],
+  "translation": "Ja kogu Jisrael tõi üles ⟨את⟩ Jahve lepingu laegast hõiskamisega ja šofari häälega, ja pasunate ja tõrvidega, kõlastades neeelide ja kandlidega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "401c764ff6c5563256b5ccba86547f4dde8e9758ca25d69dfcd872aac6e89813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/15\/25-28.1792557401141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ja kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "tõi üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve lepingu laegas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laegast"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "hõiskamisega"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ja häälega"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofari"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "ja pasunate"
+    },
+    {
+      "surface": "ובמצלתים",
+      "gloss": "ja tõrvidega"
+    },
+    {
+      "surface": "משמעים",
+      "gloss": "kõlastades"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "neeelidega"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "ja kandlidega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:41.143020266Z",
+  "model": "glm-5.3"
+}

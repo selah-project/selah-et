@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pikkade päevade jooksul",
+      "rationale": "לארך ימים on heebrea väljend 'päevade pikkus' = väga kaua, mitte tingimata 'igavesti' nagu KJV"
+    },
+    {
+      "kind": "crux",
+      "subject": "hesed",
+      "rationale": "רדף tähendab tõsiselt 'jälitama, taga ajama' — hea ja hesed 'jahivad' mind, tõlkevorm 'järgnevad' pehmendab pilti"
+    }
+  ],
+  "translation": "Ainult hea ja hesed jälitavad mind kõik mu elu päevad, ja ma elan Jahve houses pikkade päevade jooksul.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/23\/5-6.1792552484665.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ja hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "jälitavad mind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ja ma elan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "hoones"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "pikkuse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevade"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:44.666510409Z",
+  "model": "glm-5.3"
+}

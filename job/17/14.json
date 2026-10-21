@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõdu",
+      "rationale": "לשחת on 'auk, hukk; mädanemine' — perekonnaks kutsutakt haukaevu ja ussi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם\/אמי",
+      "rationale": "'kui' (v13) ja 'mu ema' (v14) kõlavad ühtmoodi — tingimus ja ema põimuvad"
+    }
+  ],
+  "translation": "Kõdule ma ütlesin: sa oled mu isa; mu ema ja mu õe ma nimetasin ussi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/17\/13-16.1792555341250.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "kõdule"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ma hüüdsin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mu ema"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "ja mu õde"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "ussile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:21.250761115Z",
+  "model": "glm-5.3"
+}

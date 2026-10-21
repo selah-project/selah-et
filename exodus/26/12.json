@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סרח\/העדף",
+      "rationale": "juur סרח kordub kaks korda ('üle jääma, üle ulatuma') koos העדף-ga — korduv ülejäägi teema"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškan",
+      "rationale": "המשכן jääb moodi 'miškan', mitte 'paavälitelk'"
+    }
+  ],
+  "translation": "Ja ülejääk, mis jääb kardinatest teljele, pooled ainest kardinast üle jäänud, langeb tagantpoolt üle miškani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a931db4a45907414d7cd4ce306a858e52a327afa01c0c7c1f7f130d02ec9d9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/26\/10-12.1792543566582.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "Ja ülejääk"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "mis jääb üle"
+    },
+    {
+      "surface": "ביריעות",
+      "gloss": "kardinatest"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "teljele"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "pool"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "kardinast"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "üle jäänud"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "langeb üle"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "tagantpoolt"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškani"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:06.585129897Z",
+  "model": "glm-5.3"
+}

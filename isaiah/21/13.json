@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בערב…בערב",
+      "rationale": "ba-Arav ('Araabias') kordub kaks korda samas salmis, kajab nagi kordus eelmistes koormustes"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביער",
+      "rationale": "'võsas\/metsas' — mõned tõlgid loevad 'õhtul' (בערב), kuid konsonandid on ביער"
+    }
+  ],
+  "translation": "Koormus Araabia kohta. Võsas Araabias peatute ööks, oo Dedani karavanid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/21\/13-16.1792546981844.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "koormus"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Araabia"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "võsas"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "Araabias"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "peatute ööks"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "karavanid"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "Dedani"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:01.845293344Z",
+  "model": "glm-5.3"
+}

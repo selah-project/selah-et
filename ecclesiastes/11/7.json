@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel; eesti keeles vajalik."
+    }
+  ],
+  "translation": "Ja magus ⟨on⟩ valgus, ja hea on silmadele näha ⟨את⟩ päikest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/11\/5-8.1792556162097.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ja magus"
+    },
+    {
+      "surface": "האור",
+      "gloss": "valgus"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ja hea"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "silmadele"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "näha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "päikest"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:02.098265626Z",
+  "model": "glm-5.3"
+}

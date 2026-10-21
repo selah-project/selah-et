@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "käe",
+      "rationale": "מלאך tähendab 'saatja\/käskjalg'; tõlkisin kujundlikult 'käe' — vt alternatiiv"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jahve käskjala mõõk",
+      "rationale": "Otsetõlge: מלאך יהוה on 'Jahve käskjalg (ingel)'; mõõk kuulub käskjalgemale, mitte Jahve käele"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nõu⟩",
+      "rationale": "דרש אלהים on püsiühend 'Elohimilt küsima\/nõu pidama'; eesti ilmutus nõuab objekti"
+    }
+  ],
+  "translation": "Ja David ei suutnud minna selle ette, et otsida Elohimilt ⟨nõu⟩, sest ta oli kohkunud Jahve käe mõõga pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f0077f9b1066bd85709a0b803cc34f21569a4eb57baef8bc5629e1685b6726c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/21\/29-30.1792557468138.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja ei"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "suutnud"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "minna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "selle ette"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "otsima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimilt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "oli kohkunud"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "käe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:48.139315133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "narride narrus on narrus",
+      "rationale": "Kordav lause: mõned lugevad 'narri saak on narrus' (kõlad sarnased), teised 'narritus ise jääb narrituseks'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אולת...אולת",
+      "rationale": "Sama sõna alguses ja lõpus — paljastav kordus, säilitatud"
+    }
+  ],
+  "translation": "Tarkade krooniks ⟨on⟩ nende rikkus, narride narrus — ⟨üksnes⟩ narrus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/21-24.1792554683170.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "krooniks"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "tarkade"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "nende rikkus"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "narride narrus"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "narride"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "narrus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:23.171667839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 39:16",
+  "book": "job",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הקשיח",
+      "rationale": "verbi קשח põhivormi haruldane esinemine Tanahhis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ilma kartuseta",
+      "rationale": "פחד on ootamatu hirm, 'jähmetunud kartus' — eesti 'kartus' jätab äkilisuse varju"
+    }
+  ],
+  "translation": "Ta teeb tundetuks oma pojad, nagu ei oleks nad tema omad; asjata on tema vaev, ilma kartuseta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0d9575c97f6212d68123822bbbb901a38e1d1fd5f981c12c6b16ecfe6257aeac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/39\/13-16.1792555707833.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיח",
+      "gloss": "teeb tundetuks"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oma pojad"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "nagu ei oleks"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tema omad"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "asjata"
+    },
+    {
+      "surface": "יגיעה",
+      "gloss": "tema vaev"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kartuseta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:27.834677797Z",
+  "model": "glm-5.3"
+}

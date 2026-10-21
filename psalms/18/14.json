@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "müristas",
+      "rationale": "ועליון יתן קלו 'Kõrgemais andis oma häält' — kõue kujund, aga sõna-sõnalt 'hääl' on jäänud"
+    },
+    {
+      "kind": "measurement",
+      "subject": "taevastes",
+      "rationale": "שמים on kaksus — 'kaks taevast', eesti mitmus seda osaliselt kandis"
+    }
+  ],
+  "translation": "Ja Jahve müristas taevastes, ja Kõrgemais andis oma häält: rahe ja tule-söed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/13-16.1792552387283.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ja müristas"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevastes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ja Kõrgemais"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "oma häält"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "rahe"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ja tule-söed"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:07.285029354Z",
+  "model": "glm-5.3"
+}

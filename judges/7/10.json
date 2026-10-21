@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Directional preposition folded into Estonian illative 'laagrisse'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Gideon",
+      "rationale": "Direct conditional address: Jahve anticipates Gideon's fear."
+    }
+  ],
+  "translation": "Ja kui sa kardad alla minna, siis mine sina ja Purah, su nooruk, alla laagrisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9572e5cf3ef2620a3811f23e7773874de6788d59f9c85ea1e74c86b2f7ed1deb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/7\/9-12.1792541907635.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kardad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "alla minna"
+    },
+    {
+      "surface": "רד",
+      "gloss": "mine"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "ja Purah"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "su nooruk"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "alla laagrisse"
+    }
+  ],
+  "timestamp": "2026-10-21T00:18:27.636077551Z",
+  "model": "glm-5.3"
+}

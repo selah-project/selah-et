@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "patuohver",
+      "rationale": "החטאת on nii patt kui ka patu ohver; siis tähendab ohvrit"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ rasva patuohvrist ta suitsutab altaris.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0f6d8bf77077f86897720c9059ce3f4c68f1b45c8d074a519075b5c784d8bfd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/16\/25-28.1792539441471.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rasva"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "rasva"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "patuohvri"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "suitsutab"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altaris"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:21.471834799Z",
+  "model": "glm-5.3"
+}

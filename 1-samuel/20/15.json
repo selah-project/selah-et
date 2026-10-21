@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת \/ הכרית",
+      "rationale": "sama juur «lõikama»: ära lõika hesedit (s:14) ja Jahve lõikab vaenlased ära (s:15, 16) — sõnamäng hoitud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביתי",
+      "rationale": "«minu sugu\/maja» — pereliin, mitte hoone"
+    },
+    {
+      "kind": "measurement",
+      "subject": "איש מעל פני האדמה",
+      "rationale": "distributiivne loendus «igaüks maa pinnalt»"
+    }
+  ],
+  "translation": "ja ära lõika oma hesedit minu soost ära iial, ka siis mitte, kui Jahve hävitab ⟨את⟩ Davidi vaenlased, igaühe maa pinnalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cb14f6d7744f54c69aaef52baf127fee4bac8c66f30a41aced25b0187218fdb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/20\/13-16.1792544186184.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "lõika ... ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma hesed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "oma hesed"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "juurest"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "minu sugu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iial"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka siis mitte"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "kui ... hävitab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi vaenlased"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vaenlased"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "maa pealt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pinnalt"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T00:56:26.187070587Z",
+  "model": "glm-5.3"
+}

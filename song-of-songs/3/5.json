@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "Tsevaot 'hiilgus\/gasellid' vs 'väed' — kontekstis loomariik, vt ka 2:7."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעירו\/תעוררו",
+      "rationale": "Sama juure עור kordus — 'äratage\/ergutage', eesti keeles lähendatud."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kutse",
+      "rationale": "Pöördumine Jerušalaimi tütarde poole keeluga — vannumisrefrään kordub 2:7 ja 8:4."
+    }
+  ],
+  "translation": "Ma vannetan teid, Jerušalaimi tütred, ⟨את⟩teid gasellide või välja hirvede poolt: ärge äratage ega ergutage ⟨את⟩ armastust, enne kui ta tahab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/3\/5-8.1792555781493.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ma vannetan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩teid",
+      "marks": "Jerušalaimi tütred"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütred"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "gasellide"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "hirvede"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "välja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "äratage"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "ergutage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armastust"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "armastust"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennen kui"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ta tahab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:41.493617932Z",
+  "model": "glm-5.3"
+}

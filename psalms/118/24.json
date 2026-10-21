@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "röögatagem ja olgem rõõmsad",
+      "rationale": "Kohutus-sooritused suunavad kogudust kaasa lööma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "röögatagem",
+      "rationale": "גיל tähendab algselt 'ringi pöörlema' — pöörlev rõõm, mitte pelgalt hõisatus"
+    }
+  ],
+  "translation": "See on päev, mille Jahve on teinud; röögatagem ja olgem rõõmsad selles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/21-24.1792553957754.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "See"
+    },
+    {
+      "surface": "היום",
+      "gloss": "on päev"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "on teinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "röögatagem"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ja olgem rõõmsad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "selles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:17.755580099Z",
+  "model": "glm-5.3"
+}

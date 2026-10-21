@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבחלת",
+      "rationale": "Keskvorm בחל 'vastikust tundma\/kiirustama' — 'kiiresti hangitud' (KJV) vs 'ebaõiglaselt himustatud' (YLT); sõna ilmub Tanahhis ainult siin."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מבחלת",
+      "rationale": "Sõna esineb Tanahhis ainsana selles salmis."
+    },
+    {
+      "kind": "addition",
+      "subject": "ole",
+      "rationale": "Heebrea puudub koplula; eesti keel vajab 'ei ole õnnistust' jaoks tegusõna."
+    }
+  ],
+  "translation": "Pärand, mille alguses omaks himustatakse, selle lõpul ei ole õnnistust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/20\/21-24.1792554747880.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "pärand"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "mille omaks himustatakse"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "alguses"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "selle lõpul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ole õnnistust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:27.881026324Z",
+  "model": "glm-5.3"
+}

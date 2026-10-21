@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "üheksateist meest ja Asahel",
+      "rationale": "langenute loendus — פקד musterdataud küsitlus."
+    },
+    {
+      "kind": "elision",
+      "subject": "ועשה אל",
+      "rationale": "Asaheli lisanime אל ei renderdata eraldi; see on nime osa."
+    }
+  ],
+  "translation": "Ja Joab pöördus tagasi Avneri järelt ja kogus kokku ⟨את⟩ kogu rahva, ja loeti kokku Davidi teenrite hulgast üheksateist meest ja Asaheli.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5af5f4fd87ce2fb91b2157f87cdb52801557c4396854f786aab9b93772326803",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/2\/29-32.1792544354551.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ja Joab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "pöördus tagasi"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "järelt"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avneri"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ja kogus kokku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu rahva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "ja loeti kokku"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "teenrite hulgast"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "üheksa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "teist"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meest"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja Asahel"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:14.555156223Z",
+  "model": "glm-5.3"
+}

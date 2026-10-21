@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kõneleja palve Jahvele",
+      "rationale": "kaks imperatiivi Jumalale otseesituses"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוררי",
+      "rationale": "haruldane sõna — 'mu vastased' või 'need, kes mind jälgivad' (vaatlejad), passiivse tähenduse võimalus"
+    }
+  ],
+  "translation": "Õpeta mind, Jahve, oma teed ja juhata mind tasasel teerajal mu vastaste pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/27\/9-12.1792552527199.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "õpeta mind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "oma teed"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ja juhata mind"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "teerajal"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "tasasel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "mu vastaste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:27.201307725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל פניו",
+      "rationale": "sõnastik 'tema näo suhtes' — eesti kasutab 'nende näo ees', sedasi ei kanta eraldi sõnana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנא\/משלם",
+      "rationale": "korduv 'vihkaja' ja 'tasub' kajab salmi 9 'armastavate' vastandina — kiiasm jätab võõra keeles alles struktuuri, mitte kõla"
+    }
+  ],
+  "translation": "ja tasub oma vihkajatele nende näo ees, hukkama neid; ei viivita ta oma vihkajale, tema näo ees tasub temale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/7\/9-12.1792540770289.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "ja tasub"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "oma vihkajatele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "none"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "nende näo ees"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "hukkama neid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "viivita"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "oma vihkajale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "none"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tema näo ees"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "tasub"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:59:30.290159209Z",
+  "model": "glm-5.3"
+}

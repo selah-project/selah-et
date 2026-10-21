@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאד",
+      "rationale": "נוד 'põgenemised' ja נאוד 'nahkmärskas' jagavad juurt נוד — kõlalist kõrvutust, mida eesti keeles ei kanna."
+    },
+    {
+      "kind": "measurement",
+      "subject": "üles lugenud",
+      "rationale": "Jahve loeb kokku ja kirjutab raamatusse — loendamise ja üleskirjutamise motiiv."
+    },
+    {
+      "kind": "you",
+      "subject": "sina",
+      "rationale": "Psalmitõlgija pöördub otseselt Jahve poole."
+    }
+  ],
+  "translation": "Mu põgenemised oled sina üles lugenud; pane mu pisarid oma nahkmärskasse — kas pole nad sinu raamatus?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/9-12.1792553129765.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "mu põgenemised"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "oled üles lugenud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "pane"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "mu pisarid"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "oma nahkmärskasse"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "kas pole"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "sinu raamatus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:29.766635152Z",
+  "model": "glm-5.3"
+}

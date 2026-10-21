@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨selle peale⟩",
+      "rationale": "Heebrea ütleb lihtsalt 'ärge pange südant'; sihtmärk on lisatud eesti jaoks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהבלו \/ הבל",
+      "rationale": "Verbi haval 'olla tühine' kõlab nagu eelmise salmi hevel 'tühjus' — side kahe salmi vahel"
+    }
+  ],
+  "translation": "Ärge usaldage rõhumist, ja ärge röövimises asjata lootke; kui varandus kasvab, äräge pange südant ⟨selle peale⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/62\/9-12.1792553078296.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "usaldage"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "rõhumist"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "ja röövimises"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "asjata lootke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "varandus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "kasvab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "pange"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südant"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:38.298138806Z",
+  "model": "glm-5.3"
+}

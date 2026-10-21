@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefesh on hingamine\/elujõud, 'hing' siin elujõu tähenduses, mitte dualistlik 'hingel'"
+    }
+  ],
+  "translation": "Sest vaenlane tagajab mu hinge, tallab mu elu maa pinnale, on pannud mu elama pimedusse, nagu igaveseks surnuid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/143\/1-4.1792554405747.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "tagajab"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlane"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hinge"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "tallab"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maa pinnale"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "on pannud mu elama"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "pimedusse"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "nagu surnuid"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:45.748470659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olivad",
+      "rationale": "Heebrea puudub koopula; eesti keel vajab seda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laegas",
+      "rationale": "aron tähendab sõna-sõnalt 'kirst\/laegas' — lepingulaegas."
+    }
+  ],
+  "translation": "Ja Berekja ja Elkana ⟨olivad⟩ väravahoidjad laeka ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c4b9973b9f589e02ff6405fb49708380bfafdf468028fa8d49a63cafc96c21f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/15\/21-24.1792557399793.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "Ja Berekja"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "ja Elkana"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "väravahoidjad"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "laeka ees"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:39.794470489Z",
+  "model": "glm-5.3"
+}

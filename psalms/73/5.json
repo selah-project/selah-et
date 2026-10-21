@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "Surelike on loomulikult surelik olend, mitte lihtsalt 'teised inimesed' nagu tavalistes tõlgetes."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ינגעו",
+      "rationale": "Nugah – 'neid ei puudutata' (nimetava kääne: kogukond ei neid lööma); mõned loevad seda kui pahatakse passiivi – 'neid ei piinata'."
+    }
+  ],
+  "translation": "Surmainginguliste vaevuses neid ei ole, ja inimkonna hulgas neid ei puudutata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/5-8.1792553330499.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "vaevuses"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "surelike"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "neid ei ole"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja koos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimkonnaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "puudutata"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:50.500206887Z",
+  "model": "glm-5.3"
+}

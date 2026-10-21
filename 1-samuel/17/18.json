@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרצי החלב",
+      "rationale": "Sõnasõnalt 'piima lõikused' — enamik tõlgib 'juustud', 'vahukommid' või 'piasmatükid'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תפקד לשלום",
+      "rationale": "'Külasta (jälle) rahu kohta' — 'tervita neid' vs 'vaata, kuidas neil läheb'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ערבתם",
+      "rationale": "'Nende pant\/tagatis' — märk ohutusest, mida vennad tagasi toovad."
+    }
+  ],
+  "translation": "ja too need kümme juustukera ⟨את⟩ tuhande ülemale, ja külasta ⟨את⟩ oma vendade järele, kas neil läheb hästi, ja võta ⟨את⟩ nende pant.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0ae7269ca59e02ce205286d9e0deda27bd71d5724ff930513c96d778131a3a27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/17\/17-20.1792544085820.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "need kümme juustukera"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "juustukera"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "piima"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "neid"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "too"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "ülemale"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tuhande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oma vendi"
+    },
+    {
+      "surface": "אחיכ",
+      "gloss": "oma vendi"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "külasta järele"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "kas läheb hästi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nende panti"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "nende pant"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "võta"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:45.822508661Z",
+  "model": "glm-5.3"
+}

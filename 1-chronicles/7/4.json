@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 7:4",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea tegusõna הרבו tähendab 'nad olid paljukasvavad' — eestis lisandub kopeeriv ⟨oli⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolmkümmend ja kuus tuhat",
+      "rationale": "Sõjaliste malevate täpne arv"
+    },
+    {
+      "kind": "substitution",
+      "subject": "malevad",
+      "rationale": "גדוד on 'röövelparv\/sõjasalk' — kord suurus, kord üksus; 'malev' hoiab sõjaväelise kogumi kuju"
+    }
+  ],
+  "translation": "Ja nende kõrvale, nende põlvnemiste järgi, oma isa koja järgi, sõjaväe malevaid sõjaks — kolmkümmend ja kuus tuhat, sest neil ⟨oli⟩ palju naisi ja poegi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d2caa34fc1d548bc4795c1ccb2ecae836b56ff70103300a723f97bece34f11c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/7\/1-4.1792557267433.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועליהם",
+      "gloss": "Ja nende kõrvale"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "nende põlvnemiste järgi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "... koja järgi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "malevaid"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sõjaväe"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sõjaks"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmkümmend"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ja kuus"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "neil ⟨oli⟩ palju"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naisi"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ja poegi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:34:27.434603558Z",
+  "model": "glm-5.3"
+}

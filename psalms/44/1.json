@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "psalm",
+      "rationale": "משכיל on liigitus — eesti keel vajab pärisnime, 'õpetuslik psalm' täidab selle"
+    }
+  ],
+  "translation": "Juhatajale, Koorahi poegadele, õpetuslik psalm.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/44\/1-4.1792552867693.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "juhatajale"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poegadele"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koorahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "õpetuslik psalm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:07.693738079Z",
+  "model": "glm-5.3"
+}

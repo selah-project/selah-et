@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "leiba",
+      "rationale": "מצות on pärisus, eesti keeles on nimisõna vajalik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצות",
+      "rationale": "'hapnemata leib'; sõnasõnalt tähendab juur 'magusust', st käärimata jahutainas"
+    }
+  ],
+  "translation": "Ja söögu ⟨את⟩ liha sel ööl — tulega röstitud — ja hapnemata leiba; mõru rohuga söögu seda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/12\/5-8.1792538437523.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ja söögu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liha"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ööl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sel"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "röstitud"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "hapnemata leiba"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "mõru rohuga"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "söögu seda"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:37.525562201Z",
+  "model": "glm-5.3"
+}

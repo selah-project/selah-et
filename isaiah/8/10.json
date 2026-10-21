@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koopula; 'meiega El' — 'El on meiega'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצו\/עצה · דברו\/דבר",
+      "rationale": "kääb ja omadus korduvad: nõu-nõupidage, sõna-kõnelge — kajaks ka eestis"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמנו אל",
+      "rationale": "'El meiega' — vihje Immanu-elile (Jes 7:14); YLT jätab liitsõna tervikuna"
+    }
+  ],
+  "translation": "Nõupidage nõu ja see purustatakse; kõnelge sõna ja see ei tõuse, sest meiega ⟨on⟩ El.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1bd4ca61db6f3265b140054c201f98d36c01a93ecd6a8371c7945df1e5c3b682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/8\/10-11.1792558361536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "nõupidage nõu"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "nõu"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ja see purustatakse"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "kõnelge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "tõuse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meiega"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:41.537007084Z",
+  "model": "glm-5.3"
+}

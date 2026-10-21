@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זיז",
+      "rationale": "sõna tähendab sõna-sõnalt 'rinnataoline \/ liiguv olend' — 'elukad' on leevendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמדי",
+      "rationale": "'on minu juures' vs traditsiooniline 'on minu omad' (omandiline 'koos minuga')"
+    }
+  ],
+  "translation": "Mina tunnen kõik mägede linde, ja välja elukad on minu juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/9-12.1792552946079.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Mina tunnen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linde"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägede"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ja välja elukad"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "välja"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "on minu juures"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:26.080669495Z",
+  "model": "glm-5.3"
+}

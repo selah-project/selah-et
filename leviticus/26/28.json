@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרי",
+      "rationale": "'vastasseis' vs 'kõrkus' vs 'karistus kokkuleppimatus' — sama vaidlusalune sõna nagu 3Ms 26:27, siin lisaks 'חמת קרי' kooskomplektis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse korda",
+      "rationale": "seitse korda korduv karistusmõõt pattude pärast (vt 26:18, 24)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף אני",
+      "rationale": "kalambuur: אף tähendab nii 'ka\/ka veel' kui 'ninasõrus' — kogumisrõhukonstruktsioon 'ka mina, mina ise'."
+    }
+  ],
+  "translation": "siis ma käin teiega koos karvases vastasseisus ja karistan teid ⟨את⟩, ka mina, seitse korda teie pattide pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3830eb8310ff9e447861bfff6904fe62b47c0408b847f80a38e745439a81eeb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/25-28.1792539657006.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "siis ma käin"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teiega koos"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "karvases"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "vastasseisus"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ja ma karistan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teid"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitse korda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "teie pattide"
+    }
+  ],
+  "timestamp": "2026-10-20T23:40:57.007712354Z",
+  "model": "glm-5.3"
+}

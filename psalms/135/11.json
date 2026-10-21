@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuningriike",
+      "rationale": "ממלכות tähendab nii valitsust kui riiki; 'kuningriigid' hoiab kuningas-juure (מלך) nähtavana, nagu heebrea sõna ise"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuningate loend",
+      "rationale": "Salm loetleb nimepidi löödud kuningaid — loetelu kui võidu register"
+    }
+  ],
+  "translation": "Sihhoni, emorlaste kuninga, ja Oogi, Bašani kuninga, ja kõiki Kenaani kuningriike;",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a24591ba1fe36f68eb3ca66953624f6fa85a71a16facc0abe0ea66f71913a76e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/135\/10-11.1792558616564.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihhoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorlaste"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ja Oogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašani"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kõiki"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kuningriike"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:56.568167282Z",
+  "model": "glm-5.3"
+}

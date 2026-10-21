@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub kopeel: 'rumala poeg ⟨on⟩ ema kurbus'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אב\/אמו",
+      "rationale": "isa\/ema antitees ühe salmi sees, paralleelsuse raamistik"
+    }
+  ],
+  "translation": "Šelomo õpetussõnad. Tark poeg rõõmustatab isa, aga rumala poeg ⟨on⟩ ema kurbus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/10\/1-4.1792554642821.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "õpetussõnad"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rõõmustatab"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "aga poeg"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "rumala"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "kurbus"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:42.821567533Z",
+  "model": "glm-5.3"
+}

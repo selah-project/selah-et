@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 37:11",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להחרימם",
+      "rationale": "חרם on 'pühendama hävitamisele'; eesti 'need hävitades' ei edasta pühitsuskeelu tähendust"
+    },
+    {
+      "kind": "addition",
+      "subject": "?",
+      "rationale": "Küsimärk lisatud: heebrea תנצל on väide\/küsimus, mida eesti küsimärgiga selgitatakse"
+    }
+  ],
+  "translation": "Vaata, sina oled kuulnud, mida Assüüria kuningad on teinud kõigile maadele, need hävitades — ja sina päästetaks?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/37\/9-12.1792547279879.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "oled kuulnud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "on teinud"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningad"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assüüria"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigile"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "maadele"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "need hävitades"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "päästetaks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:47:59.880666536Z",
+  "model": "glm-5.3"
+}

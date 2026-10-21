@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "צוה ואת isikulise objektiga — 'käsisin teid kõigi asjade kohta', objekt säilitatud otseses käändes."
+    }
+  ],
+  "translation": "Ja ma käsisin ⟨את⟩ teid sel ajal ⟨את⟩ kõigi nende asjade kohta, mida te peate tegema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de8242910b62f82408b93fa2d4d20e394827557b59eafa809ab4805f55b048f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/17-20.1792540607978.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ja ma käsisin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sel ajal"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨sel ajal⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõigi asjade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "asjade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "te peate tegema"
+    }
+  ],
+  "timestamp": "2026-10-20T23:56:47.979772212Z",
+  "model": "glm-5.3"
+}

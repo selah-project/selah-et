@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea suhtelause jätab kopolula ära; eesti keel lisab 'on'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממעל\/מתחת",
+      "rationale": "Kolmekordne üles-all vastandus (taevas üleval, maa all, vesi maa all) — korduv rifmnev struktuur."
+    }
+  ],
+  "translation": "Ära tee endale raidpilti ega ühtki kuju, mis ⟨on⟩ taevas üleval, ega mis ⟨on⟩ maal all, ega mis ⟨on⟩ vetes maa all.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/1-4.1792538589332.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "raidpilti"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ega ühtki"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "kuju"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevas"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "üleval"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ega mis"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ega mis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vetes"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:09.333020710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנחם",
+      "rationale": "נחם Pieli: 'lohutab\/kannab hoolt' vs KJV 'kahetseb\/kahandab end' — sama verbi kaja 1Ms 6:6"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mõistab kohut",
+      "rationale": "דין hõlmab nii valitsemist kui õigusemõistmist; 'kohut mõistab' kitsendab veidi"
+    }
+  ],
+  "translation": "Sest Jahve mõistab kohut ⟨את⟩ oma rahva, ja oma teenistujate üle tunneb ta heldust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/135\/13-16.1792554294764.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "mõistab kohut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oma rahva"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja üle"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oma teenistujate"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "tunneb ta heldust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:54.765295366Z",
+  "model": "glm-5.3"
+}

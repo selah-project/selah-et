@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "koopula lisatud, heebrea seda ei ütle"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצל…בצל",
+      "rationale": "kordus 'varjus… varjus' — paralleel jääb ka eesti keeles"
+    },
+    {
+      "kind": "crux",
+      "subject": "בצל",
+      "rationale": "'vari\/varjupaik' — KJV 'kaitse', BSB 'varjupaik'; sõna-sõnane 'vari' hoitud"
+    }
+  ],
+  "translation": "Sest varjus ⟨on⟩ tarkus, varjus ⟨on⟩ hõbe, aga teadmise eelis: tarkus teeb elavaks tema omanikud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/9-12.1792556055901.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "varjus"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "tarkus"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "varjus"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hõbe"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "aga eelis"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "teadmise"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "tarkus"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "teeb elavaks"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "tema omanikud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:15.902872782Z",
+  "model": "glm-5.3"
+}

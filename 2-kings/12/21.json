@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית מלא",
+      "rationale": "'Beet-Millo' kohanimena vs 'täitevalli kindlus' — jäänud nimeks nagu heebrea tekstis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היורד סלא",
+      "rationale": "Tähestikuline kohanimi Silla; 'laskub Sillasse' oletab teed, heebrea ütleb lihtsalt 'Silla poole'."
+    }
+  ],
+  "translation": "Ja tema teenijad tõusid ja sõlmisid vandenõu ning lõid ⟨את⟩ Joaši Beet-Millos, mis laskub Sillasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c7e876170047f2b4b84e24de0d6e72cc55afb3db5c81de3a6fbc6a04f8924d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/12\/21-22.1792546097400.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "tõusid"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tema teenijad"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "sõlmisid vandenõu"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "vandenõu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "lõid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaši"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaši"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Millos"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "mis laskub"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Sillasse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:28:17.401517667Z",
+  "model": "glm-5.3"
+}

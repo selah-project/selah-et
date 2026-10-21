@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "põlvnemise register",
+      "rationale": "Salm räägib suguvõsade loendamisest ja üleskirjutamisest raamatusse."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויהודה",
+      "rationale": "KJV ja YLT loevad Juuda osana raamatu nimest; ASV, JPS ja BSB loevad Juuda kui asumisele viidut."
+    }
+  ],
+  "translation": "Ja kogu Jisrael lasi end põlvnemise järgi üles kirjutada, ja vaata, nad on kirja pandud Jisraeli ja Juuda kuningate raamatusse; ja Juuda viidi Babelisse asumisele nende truudusetuse pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/9\/1-4.1792557306295.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "lasi end põlvnemise järgi üles kirjutada"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "nad on kirja pandud"
+    },
+    {
+      "surface": "על",
+      "gloss": "raamatusse"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raamatus"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningate"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Juuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "viidi asumisele"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Babelisse"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "nende truudusetuse pärast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:06.296425830Z",
+  "model": "glm-5.3"
+}

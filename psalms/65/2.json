@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti nõuab kopolat, heebreas puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "דמיה תהלה",
+      "rationale": "'Vaikiv kiitus' vs 'kiitus ootab sind' (KJV) — דומיה tähendab vaikust\/usaldavat ootamist."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimile",
+      "rationale": "Pöördumine otse Elohimi poole."
+    }
+  ],
+  "translation": "Sulle ⟨on⟩ vaikiv kiitus, Elohim, Siionis, ja sinule makstakse täielikult ⟨את⟩ tõotus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/65\/1-4.1792553129336.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sulle"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "vaikiv"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "kiitus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siionis"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ja sinule"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "makstakse täielikult"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "tõotus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:29.336989930Z",
+  "model": "glm-5.3"
+}

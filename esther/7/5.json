@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלאו לבו לעשות כן",
+      "rationale": "sõna-sõnalt 'kelle süda on teda täitnud seda tegema' — süda kui teo algataja"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puudib umbisikuline verb; eesti küsimelauses nõuab see sidesõna"
+    },
+    {
+      "kind": "you",
+      "subject": "Esterile",
+      "rationale": "kuningas pöördub otse kuninganna Esteri poole"
+    }
+  ],
+  "translation": "Ja kuningas Ahšveroš ütles ja ütles kuninganna Esterile: kes ⟨on⟩ see ja kus ⟨on⟩ see, kelle süda on teda täitnud seda tegema?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e58881efdbb408e4cbb684fbddf32dfc30cb28cddca718a788bd2de04804ccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/7\/5-8.1792556290994.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahšveroš"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterile"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kuninganna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ja kus"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "on täitnud"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tema süda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tegema"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:18:10.995651123Z",
+  "model": "glm-5.3"
+}

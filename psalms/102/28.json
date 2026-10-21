@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebrea rõhutab vaid asesõnaga ואתה הוא; köitesõna lisatud eesti jaoks"
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא",
+      "rationale": "'Sina oled seesama' vs 'sina oled ise' — heebrea rõhutav asesõna ilma võrdluseta"
+    }
+  ],
+  "translation": "Aga sina ⟨oled⟩ seesama, ja su aastatel ei ole lõppu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/25-28.1792553713450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Aga sina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "seesama"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ja su aastatel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ole lõppu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.451362241Z",
+  "model": "glm-5.3"
+}

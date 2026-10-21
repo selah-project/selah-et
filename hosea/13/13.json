@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti kõneviis nõuab olevikukopulat, mida heebrea ei väljenda"
+    },
+    {
+      "kind": "crux",
+      "subject": "במשבר",
+      "rationale": "'läbimurdmine' (emaka suudme avandumine): kas vastsündinu ei viibi õigel hetkel sünnikanalis (BSB) või ei tohita seal viibida (KJV\/JPS)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בן לא חכם",
+      "rationale": "'targuta poeg' — Efraimi kui Jahve pojana kujund; sõnasõnaline pilt säilitatud"
+    }
+  ],
+  "translation": "Sünnitusvalud, nagu sünnitaval naisel, tulevad tema üle; tema ⟨on⟩ poeg, kes ei ole tark, sest õigel hetkel ei seisa ta laste läbimurdmise kohas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/13\/13-15.1792551128938.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "sünnitusvalud"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "sünnitaval naisel"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tulevad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema üle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עת",
+      "gloss": "õigel hetkel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisa"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "läbimurdmise kohas"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "laste"
+    }
+  ],
+  "timestamp": "2026-10-21T02:52:08.938986115Z",
+  "model": "glm-5.3"
+}

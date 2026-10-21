@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel: ביה שמו — 'Jah tema nimi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "kõrbetes",
+      "rationale": "ערבות: kõrbed\/lagendikud vs taevalised kõrgused (mõned tõlkijad lugevad pilvi)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלו \/ לרכב",
+      "rationale": "teed kergendada (סלל) sõidutaja jaoks — pilt maantee tasandamisest rändajale, eesti keeles osaliselt kadunud"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "korduvad käsud: laulge, mängige, kergendage, röõmustage"
+    }
+  ],
+  "translation": "Laulge Elohimile, mängige ta nime auks, kergendage teed ⟨temale⟩, kes sõidab kõrbetes, Jah ⟨on⟩ tema nimi, ja röõmustage tema näo ees!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/5-8.1792553176030.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Laulge"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mängige"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ta nime"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "kergendage teed"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "⟨temale⟩, kes sõidab"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "kõrbetes"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "ja röõmustage"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema näo ees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:16.030845109Z",
+  "model": "glm-5.3"
+}

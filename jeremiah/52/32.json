@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebreal puudub tegusõna; eesti nõuab kopeeri 'olid', seega sulgudes"
+    },
+    {
+      "kind": "idiom",
+      "subject": "rääkis häid sõnu",
+      "rationale": "וידבר אתו טבות idiom 'häälega temaga rääkima' = lahkesti kohtlema"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "esimene אתו on H854 'koos temaga', mitte את H853 sihimarker; teine samuti"
+    }
+  ],
+  "translation": "ja rääkis temaga häid sõnu, ja pani tema trooni kõrgemale troonidest nendest kuningatest, kes ⟨olid⟩ temaga Babülonis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/52\/29-32.1792549547249.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja rääkis"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga",
+      "marks": "Jeojakin"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "häid sõnu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ja pani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema trooni"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tema trooni"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "kõrgemale"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "troonidest"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningatest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga",
+      "marks": "kuningad, kes olid temaga"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babülonis"
+    }
+  ],
+  "timestamp": "2026-10-21T02:25:47.253605907Z",
+  "model": "glm-5.3"
+}

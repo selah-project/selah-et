@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מימים ימימה",
+      "rationale": "sõna-sõnalt 'päevadest päevade poole' — aastast aastasse; korduv 'päev' on eesti keeles säilitatud"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "käsk vormis 'sa pead'"
+    }
+  ],
+  "translation": "Ja sa pead pidama ⟨את⟩ seda määrust tema määratud ajal, päevadest päevade poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4049d8ad094d0133afa0bd7845caab51ad8f79d6d6be687d3261d2b662c440e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/13\/9-12.1792538471134.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ja sa pead pidama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda määrust"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "seda määrust"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sedasi"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "tema määratud ajal"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "päevadest"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "päevade poole"
+    }
+  ],
+  "timestamp": "2026-10-20T23:21:11.136123687Z",
+  "model": "glm-5.3"
+}

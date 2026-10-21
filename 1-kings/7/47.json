@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaalumata",
+      "rationale": "עזב 'jätma' + kontekst annab 'kaalumata jätma'; lisatud sõna täpsustab otstarbe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "Kordus 'ülimalt ülimalt' — heebrea intensiiv, eesti keeles säilitatud topeltsõnaga"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaal",
+      "rationale": "Salm räägib vase kaalumatus kogusest — mõõtmine on võimatu"
+    }
+  ],
+  "translation": "Ja Shelomo jättis ⟨את⟩ kõik nõud kaalumata, sest neid oli ülimalt, ülimalt palju; vase kaalu ei suudetud uurida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/45-48.1792545382838.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "jättis"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik nõud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nõud"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "palju"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ülimalt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ülimalt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "suudetud uurida"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "kaalu"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "vask"
+    }
+  ],
+  "timestamp": "2026-10-21T01:16:22.842977486Z",
+  "model": "glm-5.3"
+}

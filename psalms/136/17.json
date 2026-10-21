@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb transliteratsioonina 'hesed', mitte 'halastus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "Talle, kes",
+      "rationale": "Eesti keel vajab osalause pea, heebrea infinitiiv konstruktsioonis seda ei sisalda"
+    }
+  ],
+  "translation": "Talle, kes lõi suuri kuningaid, sest igavesti on tema hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53a786b6a044b466b5488df5864251b5083198327558428d013442ff4eb9d5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/136\/17-20.1792554278895.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Talle, kes lõi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningaid"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "suuri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:38.896401860Z",
+  "model": "glm-5.3"
+}

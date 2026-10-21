@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאת פני",
+      "rationale": "Heebrea idiom 'näo tõstmine' = erapoolikkond, osalisuse üles näitamine; jäetud sõnasõnaliseks."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab sidesõna, heebreas puudub."
+    }
+  ],
+  "translation": "Kurja näo tõstmine ei ole hea, et kohtus õiglast kõrvale kalutada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/18\/5-8.1792554752370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "tõstmine"
+    },
+    {
+      "surface": "פני",
+      "gloss": "näo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ole hea"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "kõrvale kalutada"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õiglast"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kohtus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:32.370975528Z",
+  "model": "glm-5.3"
+}

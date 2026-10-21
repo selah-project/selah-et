@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איים",
+      "rationale": "Saared — hedemaa rannikute pilt kogu kaugemate rahvaste kohta; 'saarte hulk' nagu vanades tõlgetes"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלך",
+      "rationale": "Täiuslik 'on kuningas saanud' vs käskiv tähendus 'olgu kuningas'; mõlemad võimalikud"
+    }
+  ],
+  "translation": "Jahve ⟨on⟩ kuningas —rõõmutku ⟨את⟩ maa, rõõmustugu saared, kelle ⟨on⟩ palju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/97\/1-4.1792553721498.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨on⟩ kuningas"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "rõõmutku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "rõõmustugu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "saared"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kelle ⟨on⟩ palju"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:21.498864350Z",
+  "model": "glm-5.3"
+}

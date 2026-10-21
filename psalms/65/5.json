@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreal puudub kopeel; eesti keel nõuab 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõhtustatakse",
+      "rationale": "נשבעה on 'söötes täis saama, küllastuma' — kõhukõne, mitte abstraktne 'rahuldatakse'"
+    }
+  ],
+  "translation": "Õnnis ⟨on⟩ see, keda sa valid ja keda sa ligi tood, et ta elaks sinu õuedes; meid kõhtustatakse sinu koja hüvega, sinu püha paleega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/65\/5-8.1792553124496.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "sa valid"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ja keda sa ligi tood"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ta elaks"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "sinu õuedes"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "meid kõhtustatakse"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "hüvega"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sinu koja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "sinu paleega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:24.496534927Z",
+  "model": "glm-5.3"
+}

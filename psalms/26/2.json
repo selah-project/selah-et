@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neerud",
+      "rationale": "כליות on sõna-sõnalt neerud, piibli keeles sisetunde iste; paljud tõlked asendavad selle 'mõistusega'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צרופה",
+      "rationale": "'sulata mind' (käsk) vs 'need on sulatatud' (väide) — tõlkeosad lähevad lahku: imperatiiv või passive participle"
+    },
+    {
+      "kind": "invitation",
+      "subject": "test",
+      "rationale": "Kõneleja kutsub end ise proovile — kutselise kullaiproovi pilt"
+    }
+  ],
+  "translation": "Kats mind läbi, Jahve, ja kiusa mind, sulata mind, mu neerud ja mu süda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/26\/1-4.1792552563236.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "kats mind läbi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וונסני",
+      "gloss": "ja kiusa mind"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "sulata mind"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mu neerud"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ja mu süda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:03.237596126Z",
+  "model": "glm-5.3"
+}

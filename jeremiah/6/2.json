@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמיתי",
+      "rationale": "Juurest דמה I 'võrdsin' (KJV) vs דמה II 'hävitasin\/vaigistan' (JPS\/BSB); kooskõlas kontekstiga valitud 'hävitan'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Eesti keeles vajalik subjektipronoomeni kordus pärast lause alguses seisvat objekti."
+    }
+  ],
+  "translation": "Kaunitari ja õrna, Tsioni tütre, hävitan ⟨ma⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/6\/1-4.1792548144240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "kaunitari"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "ja õrna"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "hävitan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütre"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsioni"
+    }
+  ],
+  "timestamp": "2026-10-21T02:02:24.243208530Z",
+  "model": "glm-5.3"
+}

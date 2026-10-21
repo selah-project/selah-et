@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Aharoni sugu",
+      "rationale": "Pöördumine preestliku soelu järgu poole."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sugu",
+      "rationale": "בית tähendab sõna-sõnalt 'maja', siin perekonnana; 'sugu' annab perekonnatähenduse."
+    }
+  ],
+  "translation": "Aharoni sugu, lohutage Jahve peale: nende abi ja nende kilp on tema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/9-12.1792553955604.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "sugu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "lohutage"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve peale"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "nende abi"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ja nende kilp"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:15.605173224Z",
+  "model": "glm-5.3"
+}

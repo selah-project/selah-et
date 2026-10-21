@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheol",
+      "rationale": "שאול edastatakse nimekujuga sheol, mitte 'põrgu' ega 'haud'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קדמוני",
+      "rationale": "'tuli mulle vastu' vs 'eeldas mind (tuli enne, kui jõudsin)'; mõlemad õiged."
+    }
+  ],
+  "translation": "Sheoli köied keerutasid mind ümber, surma püünised sattusid mulle ette.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/5-8.1792552379985.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "köied"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheoli"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "keerutasid mind ümber"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "sattusid mulle ette"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "püünised"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:59.986272366Z",
+  "model": "glm-5.3"
+}

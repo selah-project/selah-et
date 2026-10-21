@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olen tsedek",
+      "rationale": "tsedek-juur hoitud; 'õigeks mõistetud' oleks kohtulik roll, mitte sõna kuju"
+    },
+    {
+      "kind": "alternative",
+      "subject": "olen õigeks mõistetud",
+      "rationale": "osutus: kohtulik õigeksmõistmine vs 'olen õige'"
+    }
+  ],
+  "translation": "Vaata nüüd, mina olen seadnud ⟨et⟩ järjekorda oma õiguse; ma tean, et mina olen tsedek.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/17-20.1792555299776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "olen seadnud järjekorda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oma õiguse"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tean"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "olen tsedek"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:39.777341669Z",
+  "model": "glm-5.3"
+}

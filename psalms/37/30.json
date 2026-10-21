@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "räägib",
+      "rationale": "יהגה on sisetamine, pomisemine — '(suu) pomiseb\/mõiskleb tarkust'; 'räägib' kaotab pomisemise kujundi."
+    }
+  ],
+  "translation": "Õige suu räägib tarkust ja tema keel kõneleb kohust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9df869ae84e9d14d25c9fd70164770b15ed12d9660f4b459d621f3c963873834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/29-32.1792552768039.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "suu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "räägib"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ja tema keel"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "kõneleb"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:28.040375891Z",
+  "model": "glm-5.3"
+}

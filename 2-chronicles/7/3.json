@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 7:3",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "Heebrea puudub verb; eesti keel nõuab öeldist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "auual",
+      "rationale": "וכבוד יהוה עַל on sidumises 'Jahve au koja peal'; eesti omastav 'Jahve auual' teeb sõnasisese sidumise läbipaistvaks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כִּי … כִּי",
+      "rationale": "Korduv 'sest' liturgilises värssis 'sest ta on hea, sest igavesti kestab ta hesed' (Ps 136), eesti keeles säilitatud."
+    }
+  ],
+  "translation": "Ja kõik Jisraeli pojad nägid tule laskumist ja Jahve auual koja peal, ja nad lasksid põlvili nägu maad pidama põrandale ja kummardasid ja tänasid Jahvet: sest ta on hea, sest igavesti ⟨kestab⟩ ta hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "027a0af9d447d234db7bde7354e4fd1ad6b6d841f5ce2dd7a49d47227aafc293",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/7\/1-4.1792557792416.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nägid"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "laskumist"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja au"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "ויכרעו",
+      "gloss": "ja nad lasksid põlvili"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maad pidama"
+    },
+    {
+      "surface": "על",
+      "gloss": "põrandale"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "põrandale"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ja kummardasid"
+    },
+    {
+      "surface": "והודות",
+      "gloss": "ja tänasid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ta on hea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ta hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T04:43:12.418660849Z",
+  "model": "glm-5.3"
+}

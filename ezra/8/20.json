@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "netiinid",
+      "rationale": "הנתינים 'antud' — templiteenijate klass, eesti keeles translitereeritud kui netiinid."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kakssada kakskümmend",
+      "rationale": "Loendus: 220 netiini, arvud täielikult välja kirjutatud nagu heebrea keeles."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתינים \/ נתן",
+      "rationale": "'antud' (netiinid) ja 'andis' (natan) — sama juur kordub sõnamänguna, eesti keeles osaliselt kadunud."
+    }
+  ],
+  "translation": "Ja netiinidest, kelle David ja vürstid olid andnud leevitite teenistuseks, kakssada kakskümmend netiini; kõik nad olid nimeliselt nimetatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6c5717d1e6f7bc7455e4001b4b13060e52efe02c4985ad84eddedd134461fa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/8\/17-20.1792556785843.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ja (hulgast)"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "netiinidest"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "olid andnud"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ja vürstid"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "teenistuseks"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leevitite"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "netiini"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kakssada"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kõik nad"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "olid nimetatud"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "nimeliselt"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:25.845350577Z",
+  "model": "glm-5.3"
+}

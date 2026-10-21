@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "3000 mõistussõna, 1005 laulu",
+      "rationale": "arvud täielikult, nagu heebrea tekst"
+    },
+    {
+      "kind": "alternative",
+      "subject": "viis tuhat ja tuhat",
+      "rationale": "חמשה ואלף — sõna-sõnalt 'viis ja tuhat', tava mõista 1005"
+    }
+  ],
+  "translation": "Ja ta kõneles kolm tuhat mõistusõna ja tema laule ⟨oli⟩ viis tuhat ja tuhat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/5\/9-12.1792545176142.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ja kõneles"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mõistusõna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨oli⟩"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "tema laule"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "viis"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "tuhat ja tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T01:12:56.144281762Z",
+  "model": "glm-5.3"
+}

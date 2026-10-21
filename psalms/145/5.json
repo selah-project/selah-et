@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõisklen",
+      "rationale": "אשיחה tähendab nii meenutada kui valjusti rääkida; 'mõisklema' hoiab kahe tähenduse koos"
+    },
+    {
+      "kind": "crux",
+      "subject": "הדר כבוד הודך",
+      "rationale": "Kolm selletaolist sõna (hiilgus, au, väražrus) ahel — tõlkijad jaotavad neid kaheks või kolmeks omastusahelaks"
+    }
+  ],
+  "translation": "Sinu väražrahu au hiilgust ja sinu imetegude sõnu ma mõisklen.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/5-8.1792554375741.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "hiilgust"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sinu väražrahu"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ja ... sõnu"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sinu imetegude"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ma mõisklen"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:15.741789149Z",
+  "model": "glm-5.3"
+}

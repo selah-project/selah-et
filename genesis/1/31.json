@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "see oli",
+      "rationale": "Heebreas puudub sidusõna 'see oli', eesti keel vajab seda"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuues päev",
+      "rationale": "Päeva loendus kuuenda päevani lõpetab loomise nädala"
+    }
+  ],
+  "translation": "Ja Elohim nägi ⟨את⟩ kõike, mis ta oli teinud, ja vaata — see oli väga hea. Ja sai õhtu ja sai hommik, kuues päev.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "468bd5962ebf2312cbbedef2005981114ef009c288c0423ff3065380f4d5a4b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/1\/29-31.1792537331403.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ta oli teinud"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "õhtu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "hommik"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "kuues"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:11.405442627Z",
+  "model": "glm-5.3"
+}

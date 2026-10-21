@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפש on 'hing\/elujõud', kõlab kõri ja elava olendina; 'elu' on lähim sobiv eesti vaste."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמי",
+      "rationale": "'mees, kelle mina hävitamisele pühendsin' — herem: hävituspüük, pühendatud hävitamine; KJV 'whom I appointed to utter destruction'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת…תחת",
+      "rationale": "Kordus: 'sinu elu tema elu asemele, sinu rahvas tema rahva asemele' — peegeline kordus, eesti keeles säilitatud."
+    }
+  ],
+  "translation": "Ja ta ütles talle: Nii ütleb Jahve: Seepärast, et sa lasid käest ⟨את⟩ mehe, minu hävituspüügi, siis saab su elu tema elu asemele ja su rahvas tema rahva asemele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/20\/41-43.1792545766430.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "seepärast, et"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "sa lasid käest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "minu hävituspüügi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "siis saab"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "su elu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "asemele"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema elu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ja su rahvas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "asemele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T01:22:46.431661579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jääb",
+      "rationale": "Eesti keel vajab kõrvulausele verbi; heebrea יחזק on 'on tugev'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנאi",
+      "rationale": "Igavene kuningriik on siin tingimuslik (אם), mis seoses 2Sm 7-ga tõlkijaid jagab"
+    }
+  ],
+  "translation": "Ja ma valmistan ⟨את⟩ tema kuningavõimu igaveseks, kui ta jääb tugevaks täitma mu käske ja mu kohtumõistusi, nagu sel päeval.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "581094651e59083d473786f83d7141d6989c0fff4fe95484688eff0e0996a9be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/28\/5-8.1792557600495.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "ja ma valmistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema kuningavõimu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "tema kuningavõimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "jääb tugevaks"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "täitma"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mu käske"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ja mu kohtumõistusi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nagu sel päeval"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "sel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:40:00.496762064Z",
+  "model": "glm-5.3"
+}

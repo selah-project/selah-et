@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ puudub",
+      "rationale": "Eesti eessõnad katab heebrea puuduva sidesõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תקות",
+      "rationale": "Sõna otseses mõttes 'köis, nöör', kujundlikult 'lootus'"
+    }
+  ],
+  "translation": "Sest ei unustata igavesti vaest, viledate lootus ei hävi iialgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/17-20.1792552296668.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "unustata"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "vaest"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "lootus"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "viledate"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ei hävi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "iialgi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:36.669640750Z",
+  "model": "glm-5.3"
+}

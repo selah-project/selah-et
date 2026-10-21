@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub koper; eesti keel nõuab selle"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרוים",
+      "rationale": "Parvajim — kuldne piirkond, esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Parvajimi",
+      "rationale": "Kohanimi jääb kõla järgi; täpne asukoht teadmata"
+    }
+  ],
+  "translation": "Ja ta kattis ⟨את⟩ koda kalli kiviga ilu jaoks, ja kuld ⟨oli⟩ Parvajimi kuld.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf3895dfc603bd841e587225127fc9daa882cea33c502c4d55eb891c5ba97326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/3\/5-8.1792557665676.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ja ta kattis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koda"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kiviga"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "kalli"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ilu jaoks"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ja kuld"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuld"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvajimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:41:05.678055787Z",
+  "model": "glm-5.3"
+}

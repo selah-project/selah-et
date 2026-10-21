@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 19:17",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Siin on את־tav hääldatud kui isikuline asesõna אֹתָם 'nad', mitte puhas objektimehhanism; gloss ⟨את⟩ märgib struktuuri, eesti keeles 'nad'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על נפשך",
+      "rationale": "Otsetõlge 'sinu hinga peal' on eesti keeles pilt tühi; 'oma elu pärast' annab heebrea idioomi 'päästmaks oma elu'."
+    },
+    {
+      "kind": "you",
+      "subject": "Loot",
+      "rationale": "Käsklused pöörduvad otseselt Looti poole: põgene, ära vaata, ära peatu."
+    }
+  ],
+  "translation": "Ja sündis, kui nad olid viinud ⟨את⟩ nad välja, et ta ütles: Põgene oma elu pärast, ära vaata tagasi ega peatu kogu tasandikul; põgene mäele, et sa ei häviks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "165e42dcde9879618a8626321e8f0a95b31ff14596ff863ae5f33e4b81c94405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/19\/17-20.1792537601632.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "כהוציאם",
+      "gloss": "kui nad olid viinud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nad"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "välja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "põgene"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinu elu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "tagasi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "peatu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "tasandikul"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "mäele"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "põgene"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "häviks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:06:41.633038116Z",
+  "model": "glm-5.3"
+}

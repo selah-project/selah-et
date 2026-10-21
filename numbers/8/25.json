@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ומבן חמשים שנה",
+      "rationale": "sõna-sõnalt 'ja poeg viiskümmend aastat' — eesti keeles 'viiekümne aastaselt'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצבא",
+      "rationale": "sõna-sõnalt 'sõjaväest\/hordist' — sõjanduslik pilt Levi teenistusest, 'väest' hoiab selle"
+    },
+    {
+      "kind": "measurement",
+      "subject": "viiskümmend aastat",
+      "rationale": "vanusepiir, leviitide teenistuse lõpp"
+    }
+  ],
+  "translation": "Ja viiekümne aastaselt pöördub ta tagasi teenistuse väest ega teeni enam.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/8\/25-26.1792539866016.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "aastaselt"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "viiekümne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastaselt"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "pöördub tagasi"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "väest"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "teenistuse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "teeni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    }
+  ],
+  "timestamp": "2026-10-20T23:44:26.017213560Z",
+  "model": "glm-5.3"
+}

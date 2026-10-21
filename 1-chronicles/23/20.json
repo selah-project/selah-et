@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "suguvõsa loend",
+      "rationale": "Leviitide perekondade nimistu koos järjestusega 'peamine, teine'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מיכה",
+      "rationale": "'Miika' vs tuntud 'Miikael' — mitte segi ajada prohvet Miikaga; siin on tegemist leviidiga."
+    }
+  ],
+  "translation": "Uzzieli pojad: Miika peamine ja Jišija teine.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fb39018e92c27cb135a1338d3c8b341084648e816d6e9fecb05f41527cba897a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/23\/17-20.1792557475113.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzzieli"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miika"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "peamine"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ja Jišija"
+    },
+    {
+      "surface": "השני",
+      "gloss": "teine"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:55.114007518Z",
+  "model": "glm-5.3"
+}

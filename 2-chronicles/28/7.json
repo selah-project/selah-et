@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kes oli",
+      "rationale": "eesti nõuab sidesõna ameti kirjeldamisel; heebrea lihtsalt ütleb 'kuninga teine'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נגיד הבית",
+      "rationale": "'koja ülem' sõna-sõnalt; teine lugemine 'palee valitseja', kuid 'koda' on Tanahhi sõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "משנה המלך",
+      "rationale": "'kuninga teine' (asemik, järgmine mees) vs 'kuninga koopia\/koopias'; enamik loeb ametiks 'teine kuninga järel'"
+    }
+  ],
+  "translation": "Ja Zikri, Efrjimi vägimees, tappis ⟨את⟩ Maasejahu, kuninga poja, ja ⟨את⟩ Asrikami, koja ülema, ja ⟨את⟩ Elkona, kes oli kuninga teine.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8dee184a6b1b54564e80b940c367f2109b38e290dd9fee73ef05f07a2b51ed34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/28\/5-8.1792558076357.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ja tappis"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vägimees"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrjimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maasejahu, kuninga poja"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asrikami, koja ülema"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Asrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elkona, kuninga teine"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkona"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "teine"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:47:56.360355600Z",
+  "model": "glm-5.3"
+}

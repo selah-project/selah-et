@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õud",
+      "rationale": "מפחד on ootamatu hirm\/õud, otseselt hirmu objekt või tunne"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשאת",
+      "rationale": "torm\/hävitus vs 'jõud, mis sisse tungivad' (Wycliffe); juur שוא tühjus"
+    }
+  ],
+  "translation": "Ära karda äkilist õudu ega õelate hävingut, kui see saabub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/25-28.1792554493770.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "karda"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "õudu"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "äkilist"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "ega hävingut"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "saabub"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:13.770973050Z",
+  "model": "glm-5.3"
+}

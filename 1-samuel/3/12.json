@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "algusest lõpuni",
+      "rationale": "החל וכלה on kaks infinitiivi 'alustades ja lõpetades' — tõlgitud kui piiripaar"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "אל עלי 'Eelile' kaksiksuund jäetakse lihtsustatult üheks"
+    }
+  ],
+  "translation": "Sel päeval tõstan ma Eelile ⟨את⟩ kõik, mis ma olen rääkinud ta kohta taiale, algusest lõpuni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/3\/9-12.1792543694428.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "tõstan ma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eelile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ma olen rääkinud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta kohta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "taiale"
+    },
+    {
+      "surface": "החל",
+      "gloss": "algusest"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "lõpuni"
+    }
+  ],
+  "timestamp": "2026-10-21T00:48:14.432501440Z",
+  "model": "glm-5.3"
+}

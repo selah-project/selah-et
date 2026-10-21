@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea ei ole sidesõna osastavast täiendist 'kõik hingusega'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hingus",
+      "rationale": "נשמה on elav hingamine\/hingus, mitte ' hingesõna ' kui seesmine 'hing' ega 'vaim'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Halelu-Jah = 'Halleluuja' paistab eestis liiklusena ühe sõnana, tükeldatult kaob nime Jah läbipaistvus"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõik, millel on hingus",
+      "rationale": "Universaalne kutse kõige elavale psalmi kõrgpunktis"
+    }
+  ],
+  "translation": "Kõik, millel ⟨on⟩ hingus, kiitku Jahi! Kiitke Jahi!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/150\/5-6.1792554430407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "hingusega"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "kiitku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:10.408214370Z",
+  "model": "glm-5.3"
+}

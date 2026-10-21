@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub kõppula; jada ei vaja tegusõna, eesti keel vajab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "valmisid marjadeks",
+      "rationale": "הבשילו אשכלתיה ענבים sõnasõna 'keetsid valmiks oma kobarad viinamarjad' — keetmise pilt"
+    }
+  ],
+  "translation": "Ja viinapuus ⟨olid⟩ kolm võrset, ja see puhkes pungadesse, selle õis tõusis esile, selle viinamarjakobarad valmisid marjadeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d2efdd64f9ee3ccc5493901802b1198cf51eb127ca341d0255770cbf49b7e47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/40\/10-12.1792543561197.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "ja viinapuus"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "võrset"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja see"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "puhkes pungadesse"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "tõusis esile"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "selle õis"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "valmisid"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "selle kobarad"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "marjadeks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:01.205350607Z",
+  "model": "glm-5.3"
+}

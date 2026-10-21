@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keel vajab kopeelat, heebrea puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשר לדביר",
+      "rationale": "Otseselt 'mis debirile (omaks)': tõlgin 'mis debirile kuulus'."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ kogu koda kattis ta kullaga, kuni kogu koda ⟨oli⟩ lõpuni tehtud, ja kogu altari, mis debirile kuulus, kattis ta kullaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d01613b6bed134d9b887c1db815d804771c1f7842882b93b9435517ea1e68911",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/6\/21-24.1792545184648.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ja ⟨את⟩",
+      "marks": "kogu koda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kattis ta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "תם",
+      "gloss": "lõpuni tehtud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "debirile kuulus"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "kattis ta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:13:04.649938246Z",
+  "model": "glm-5.3"
+}

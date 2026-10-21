@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohimile",
+      "rationale": "Otsene pöördumine Jumala poole"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "gloss": "Rõhutav eitus 'ega\/sul pole nii' vs kurvastav kinnitus 'sa oled ju meid hüljanud'"
+    }
+  ],
+  "translation": "Ega sa ole, Elohim, meid ära heitnud, ja sa, Elohim, ei välju meie vägedega?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e69b23b51c4bea361ba24c724e93c2f89bf0e653cd67a10f2afcb61cd32469ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/9-12.1792553864376.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "oled meid ära heitnud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sa välju"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "meie vägedega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:44.378338686Z",
+  "model": "glm-5.3"
+}

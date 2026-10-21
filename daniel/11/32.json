@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 11:32",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חנף",
+      "rationale": "sõna-sõnalt 'määrduma, silmakirjaliseks muutuma' — selles pihitsemistähenduses Tanahhis haruldane"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחניף",
+      "rationale": "'teeb silmakirjatsevaks' vs 'meelitab silmakirjatsemisega' — tegevuse suund tõlkijate vahel lahku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "soo-\/isikuline kvantifikaator, mida eesti omastav nõuab"
+    }
+  ],
+  "translation": "Ja lepingu kurjategijaid ta teeb silmakirjatsevaks silmakirjatsemissõnadega; aga rahvas, kes tunneb ⟨tema⟩ Elohimit, on tugevad ja tegutsevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f36351f964aa07ac5d63f3d344a2ee8d967d1d64e147a318ba539dc92d337d36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/11\/29-32.1792556576885.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומרשיעי",
+      "gloss": "ja ... kurjategijaid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "יחניף",
+      "gloss": "teeb silmakirjatsevaks"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "silmakirjatsemissõnadega"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "aga rahvas"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kes tunneb"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "on tugevad"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "ja tegutsevad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:22:56.886468867Z",
+  "model": "glm-5.3"
+}

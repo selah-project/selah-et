@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mida te talle ütlete",
+      "rationale": "KJV loeb käsiva vormi 'öelge talle', JPS\/YSL küsiva 'mida te talle ütlete?' — küsimärk muudab värsi tooni."
+    },
+    {
+      "kind": "you",
+      "subject": "tütarid Jerušalaimi",
+      "rationale": "Otsene pöördumine möödakäijaute (koorigi) poole vannumisega."
+    },
+    {
+      "kind": "substitution",
+      "subject": "haige armastusest",
+      "rationale": "שחולת אהבה 'armastusest kurnatud\/nõrgenenud' — sõna-sõnalt 'kulumise' pilt."
+    }
+  ],
+  "translation": "Vannutan ⟨את⟩ teid, tütarid Jerušalaimi: kui te leiate ⟨את⟩ mu daadi, mida te talle ütlete? — et haige armastusest olen mina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/5\/5-8.1792555857178.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Vannutan teid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "tütarid Jerušalaimi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütarid"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "te leiate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu daadi"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mu daadi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "te ütlete"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "haige"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "armastusest"
+    },
+    {
+      "surface": "אני",
+      "gloss": "olen mina"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:57.179303250Z",
+  "model": "glm-5.3"
+}

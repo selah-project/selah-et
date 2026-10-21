@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebrea puudub kopeeriv tegusõna; eesti keel vajab seda"
+    }
+  ],
+  "translation": "Elohim, sina oled mind õpetanud noorusest peale, ja kuni siiani kuulutan ma sinu imetegusid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/71\/17-20.1792553301307.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "oled mind õpetanud"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "noorusest peale"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja kuni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "siiani"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kuulutan ma"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sinu imetegusid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:21.308213143Z",
+  "model": "glm-5.3"
+}

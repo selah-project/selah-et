@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kalju",
+      "rationale": "צור on järsu kalju või kaljurahn, mitte üldine 'kivi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבלעדי\/זולתי",
+      "rationale": "Kaks erinevat sõna 'peale\/välja arvatud' tähistavad korduvat eraldusühendit, mis eesti keeles langevad kokku üheks sõnaks"
+    }
+  ],
+  "translation": "Sest kes on Eloah peale Jahve? Ja kes on kalju peale meie Elohimi?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37b03c73420c5116bd75dfee553fff3a45eb36a645ef86c53ea5b4fceda4b355",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/32-32.1792558538075.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "peale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ja kes"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kalju"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "peale"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:38.077054023Z",
+  "model": "glm-5.3"
+}

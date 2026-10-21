@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ei pöördunud⟩",
+      "rationale": "heebrea ütleb sõna-sõnalt 'ja ei olnud teid minusse' — verb puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "närbumistõbi",
+      "rationale": "ירקון on taimekahjustus 'kahvatus', tõlgitud tähenduse järgi"
+    },
+    {
+      "kind": "you",
+      "subject": "rahvale",
+      "rationale": "Jahve kõnetab otse oma rahvast"
+    }
+  ],
+  "translation": "Ma lõin ⟨את⟩ teid kalega ja närbumistõvega ja rahega, ⟨את⟩ kõiki teie käte tegusid, aga ⟨את⟩ te ⟨ei pöördunud⟩ minu poole, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/haggai\/2\/17-20.1792551895833.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "ma lõin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "kalega"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "ja närbumistõvega"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "ja rahega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõiki teie käte tegusid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "tegu"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "teie käte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ te"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu poole"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:04:55.834626587Z",
+  "model": "glm-5.3"
+}

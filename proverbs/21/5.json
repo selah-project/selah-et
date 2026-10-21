@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "viivad \/ jõuab",
+      "rationale": "Heebreal puudub verb; kõverlause eesti keeles nõuab seda"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חרוץ",
+      "rationale": "'äralõikav, terav' → 'agar'; teine lugemine: 'otsustav'"
+    }
+  ],
+  "translation": "Agara mõtted ⟨viivad⟩ ainult kasule, aga iga kiirustaja ⟨jõuab⟩ ainult puudusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/5-8.1792554831900.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "mõtted"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "agara"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "kasule"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "aga iga"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "kiirustaja"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "puudusse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:51.900854740Z",
+  "model": "glm-5.3"
+}

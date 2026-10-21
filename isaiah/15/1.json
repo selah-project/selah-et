@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppula; eesti keel nõuab see 'on'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/נדמה",
+      "rationale": "Korduv paar 'laastati\/hävitatud' kahes sarnases poolversis — kaja läheb eesti keeles osaliselt kaduma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hävitatud",
+      "rationale": "נדמה tähendab otseselt 'vaikseks jääda, hukkuda' — 'hävitatud' katab 'hukkunud' varjundi"
+    }
+  ],
+  "translation": "Koorem Moabi kohta. Sest öösel laastati Ar Moabist, see ⟨on⟩ hävitatud; sest öösel laastati Kir Moabist, see ⟨on⟩ hävitatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/15\/1-4.1792546917780.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "koorem"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "öösel"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "laastati"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabist"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "hävitatud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "öösel"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "laastati"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabist"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "hävitatud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:41:57.781177638Z",
+  "model": "glm-5.3"
+}

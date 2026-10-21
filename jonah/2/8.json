@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "translation",
+      "subject": "translation",
+      "rationale": "Eelmist rida parandati: korduv tekst eemaldatud, päris tõlge:"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud, mitte eraldiseisev 'hing' — eesti 'hing' on lähim, kuid kitsam"
+    },
+    {
+      "kind": "substitution",
+      "subject": "palee",
+      "rationale": "היכל tähendab nii paleed kui templihoonet; 'palee' hoiab sõna kuju, 'tempel' on tõlge"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kui mu hing kahanemas oli",
+      "rationale": "בהתעטף sõna-sõnalt 'kui see ennast kattis\/riietus' — 'kattis ennast' (rt. kattuma) on täpsem kui 'kahanemas'"
+    }
+  ],
+  "translation": "Kui mu hing minu sees kahanemas oli, mäletasin ma ⟨את⟩ Jahvet, ja mu palve tuli sinu juurde, sinu pühasse ⟩templi⟨se. Kui mu hing ennast minust kattis, mäletasin ma ⟨את⟩ Jahvet, ja mu palve jõudis sinuni, sinu püha palee sisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "911a4dddd5197671a6bb4cdac7f661314fe60d846dfc74a313dd485a6885edba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jonah\/2\/8-8.1792558504991.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "kui mu hing ennast minust kattis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu peale"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "mäletasin ma"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja jõudis"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinuni"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palee"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sinu pühasse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:04.999595173Z",
+  "model": "glm-5.3"
+}

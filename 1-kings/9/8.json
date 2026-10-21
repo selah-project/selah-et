@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 9:8",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליון",
+      "rationale": "'kõrge' vs 'varemeteks (kõrge küngas)': KJV 'which is high', JPS 'so high', BSB 'heap of rubble' — ilmselt irooniline 'kõrge varekal'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "heebrea küsisõna אַל־מֶה eesti keeles püüdmata 'pärast mida'"
+    }
+  ],
+  "translation": "Ja see koda saab varemeteks; iga möödakäija kohendub ja viletab ning nad ütlevad: miks teki Jahve nõnda selle maaga ja selle kojaga?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/9\/5-8.1792545395565.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "ja see koda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "saab"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "varemeteks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "möödakäija"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "kohendub"
+    },
+    {
+      "surface": "ושרק",
+      "gloss": "ja viletab"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja nad ütlevad"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "selle maaga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "selle"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ja selle kojaga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    }
+  ],
+  "timestamp": "2026-10-21T01:16:35.569376693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõht",
+      "rationale": "בטן on kõht — ihade ja varanduse asumiskoht, mitte üldine 'keha'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בחמודו לא ימלט",
+      "rationale": "kas 'oma ihaldatud asjast ei päästa midagi' või 'oma himu tõttu ei pääse ise' — KJV vs YLT lahku"
+    }
+  ],
+  "translation": "Sest ta ei tundnud rahu oma kõhus, oma ihaldusega ei pääse ⟨ta⟩ ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef7b4c9907781c4ab63d798a9d8684c5fee8e078794e313c084374e5e96d3587",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/17-20.1792555408262.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tundnud"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "oma kõhus"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "oma ihaldusega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "pääse ära"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:28.263043419Z",
+  "model": "glm-5.3"
+}

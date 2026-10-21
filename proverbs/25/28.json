@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח on tuul\/hingus\/vaim ühes sõnas — hoitud kui 'ruahh', mitte 'temper' ega 'vaim' üksi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מעצר",
+      "rationale": "'pidur, kinnihoid' esineb Tanahhis ainult siin"
+    }
+  ],
+  "translation": "Linn, mis ⟨on⟩ lõhutud, ilma müürita — see ⟨on⟩ mees, kellel ei ole pidurit tema ruahhile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/25-28.1792554967049.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "linn"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "lõhutud"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "müürita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kellel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "pidurit"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "tema ruahhile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:07.051165770Z",
+  "model": "glm-5.3"
+}

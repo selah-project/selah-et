@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 28:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Estonian requires a copula the Hebrew verb forms imply but do not state."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נעלמה\/נסתרה",
+      "rationale": "Two near-synonymous hiding verbs paired — 'veiled from sight' and 'concealed' — a parallelism flattened in translation."
+    },
+    {
+      "kind": "mystery",
+      "subject": "wisdom hidden",
+      "rationale": "The verse withholds wisdom's place even from birds whose flight surveys all the earth."
+    }
+  ],
+  "translation": "Ja ⟨on⟩ varjatud kõige elava silmade eest ja taevaste lindude eest ⟨on⟩ peidetud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/21-24.1792555496366.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעלמה",
+      "gloss": "ja ⟨on⟩ varjatud"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "silmade eest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõige"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elava"
+    },
+    {
+      "surface": "ומעוף",
+      "gloss": "ja lindude eest"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taevaste"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "⟨on⟩ peidetud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:56.367274539Z",
+  "model": "glm-5.3"
+}

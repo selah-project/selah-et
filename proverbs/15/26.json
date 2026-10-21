@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jälg",
+      "rationale": "תועבה on vastik asi, jälg eesti Piibli sõnavara kohane."
+    },
+    {
+      "kind": "crux",
+      "subject": "וטהרים",
+      "rationale": "'rikkudes sõnad on armsad' vs alternatiiv 'puhtad on meeldiva ütluse sõnad' (asv\/jps)."
+    }
+  ],
+  "translation": "Jahve jälg on kurja mõtted, aga rikkudes sõnad on armsad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de6cbe6260b3f3f5d0194cbd567b9cf491168bb0acac71ac5239b751476c1b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/25-28.1792554729436.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "jälg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mõtted"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "aga rikkudes"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sõnad"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "armsad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:09.437416964Z",
+  "model": "glm-5.3"
+}

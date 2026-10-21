@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rohkem kui",
+      "rationale": "võrdlusmärk puudub heebreas, מן kannab võrdlevat tähendust"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושבח",
+      "rationale": "'ülistan' vs 'pidan õnnelikeks' — juur שבח tähendab nii kiitust kui õnnelikuks pidamist"
+    }
+  ],
+  "translation": "Ja ülistan mina ⟨את⟩ surnuid, kes juba surnud on, rohkem kui elavad, kes veel elavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f6af2180538e3ce9e80a385de2e970bd47ac6839f9cc9947c1c6a73ee71573bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/4\/1-4.1792556092618.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "ja ülistan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surnuid"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "surnuid"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "juba"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "surnud on"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rohkem kui"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elavad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "המה",
+      "gloss": "veel"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elavad"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "seni"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:52.619151742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירננו",
+      "rationale": "רנן tähendab algselt 'ragiseda\/kriuksuda' — puude hääl kui rõõmurõve, eesti 'hõiskama' kaotab kõla-pildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel võimaldab siin koopulata konstruktsiooni (tuleb kohutama), mida heebrea infinitivi konstruktsioon toetab."
+    }
+  ],
+  "translation": "Siis hõiskavad metsa puud Jahve näo eest, sest ta tuleb kohutama ⟨את⟩ maad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d1e7df8ddacb961f492785697d958b1853756b6704f2e7faf3a82a6dbc3fddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/33-34.1792558712844.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hõiskavad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puud"
+    },
+    {
+      "surface": "היער",
+      "gloss": "metsa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "näo eest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "kohutama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:32.847494810Z",
+  "model": "glm-5.3"
+}

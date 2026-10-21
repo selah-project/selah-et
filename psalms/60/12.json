@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "eitus-küsimus 'eks ole nii' eeldab jaatust: 'sina oled see, kes...' — eesti 'eks' edasi küsimuse tooni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "hülgasid",
+      "rationale": "lause võib olla ka appell: 'sädele, Elohim, meie vägedega' — verbivormi asukoht on tekstikriitiliselt arutatud (vrd Ps 108:11)."
+    }
+  ],
+  "translation": "Eks ole sina, Elohim, kes meid hülgasid? Ja sina, Elohim, ei välju meie vägedega!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/9-12.1792553055915.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "eks"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "hülgasid meid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "välju sina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "meie vägedega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.916446070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vutid",
+      "rationale": "השלו on vutid (kaaluka raskuse tõttu aeglase lennuga linnud), rahva kogumuses"
+    },
+    {
+      "kind": "literal-shape",
+      "subject": "שכבת הטל",
+      "rationale": "sõna-sõnalt 'kaste lamamine' — kate nagu lamav kate, mitte lihtsalt 'kaste'"
+    }
+  ],
+  "translation": "Ja sündis õhtul: tõusid üles vutid ja katsid ⟨את⟩ laagri; ja hommikul oli kaste lamamine laagri ümber.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7712fdf70ccfcb5be57d22ff3fa3c59bc4e3f5f1e5f2f1fd2c3b94d451cf278f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/16\/13-16.1792538610543.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "õhtul"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "tõusid üles"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "vutid"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ja katsid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laagri"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "laagri"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ja hommikul"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lamamine"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "kaste"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "laagri"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:30.544313894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopolula 'טוב' ees; eesti keel nõuab 'on'."
+    },
+    {
+      "kind": "elision",
+      "subject": "בין ... ובין",
+      "rationale": "Korduv 'vahelt ... ja vahelt' taandatud eesti da-datiivi konstruktsiooniks 'valgust pimedusest'."
+    }
+  ],
+  "translation": "Ja Elohim nägi ⟨את⟩ valgust, et see on hea, ja Elohim lahutas valgust pimedusest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e7f682cabcb8cf97c9f1183cef6f4975a64a4fd8e94b70e012f4c5bfba5168cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/1\/2-4.1792543543539.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valgust"
+    },
+    {
+      "surface": "האור",
+      "gloss": "valgust"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea ⟨on⟩"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ja lahutas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahelt"
+    },
+    {
+      "surface": "האור",
+      "gloss": "valguse"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja vahelt"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "pimeduse"
+    }
+  ],
+  "timestamp": "2026-10-21T00:45:43.542622514Z",
+  "model": "glm-5.3"
+}

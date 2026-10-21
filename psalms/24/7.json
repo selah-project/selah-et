@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "väravatele",
+      "rationale": "Hüüdv käsklussõna — väravaid kutsutakse avama tee"
+    },
+    {
+      "kind": "you",
+      "subject": "väravad ja igavesed uksed",
+      "rationale": "Otsene pöördumine personifitseeritud väravate poole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "au Kuningas",
+      "rationale": "מלך הכבוד on genitiivikonstruktsioon 'kuningas-au'; eesti omadussõnaga 'au Kuningas' jääb side näitamata"
+    }
+  ],
+  "translation": "Tõstke, väravad, oma päid, ja tõstke end üles, igavesed uksed, ja tulegu sisse au Kuningas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/24\/5-8.1792552567206.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "tõstke"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "oma päid"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ja tõstke end üles"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "uksed"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesed"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ja tulegu sisse"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kuningas"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:07.207345809Z",
+  "model": "glm-5.3"
+}

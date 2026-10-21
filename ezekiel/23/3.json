@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 23:3",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותזנינה \/ זנו",
+      "rationale": "Juure זנה kordus (hooramine) kahes lühikeses klauslis — kajastatud kordusega 'hoorasid'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעכו",
+      "rationale": "Sõna tähendab 'pressima, muljuma'; tõlkijad jagunevad 'pigistama' ja 'koheldama' vahel"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דדי בתוליהן",
+      "rationale": "Otseses 'nende neitsilikkuse tissid'; 'neitsilikkuse rinnu' hoiab sideme liiga"
+    }
+  ],
+  "translation": "Ja nad hoorasid Mitsraimis, oma nooruses hoorasid nad; seal roniti nende rindadele ja seal puudutati nende neitsilikkuse rinnu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6a8ce53f0725d4bce11c2f22acb68d05cd08d128dd95a8d16b801f743871f1f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/23\/1-4.1792550160508.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנינה",
+      "gloss": "Ja nad hoorasid"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraimis"
+    },
+    {
+      "surface": "בנעוריהן",
+      "gloss": "oma nooruses"
+    },
+    {
+      "surface": "זנו",
+      "gloss": "hoorasid nad"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "מעכו",
+      "gloss": "roniti (pressiti)"
+    },
+    {
+      "surface": "שדיהן",
+      "gloss": "nende rinnad"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja seal"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "puudutati (tehti)"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "rinnu"
+    },
+    {
+      "surface": "בתוליהן",
+      "gloss": "nende neitsilikkuse"
+    }
+  ],
+  "timestamp": "2026-10-21T02:36:00.509727172Z",
+  "model": "glm-5.3"
+}

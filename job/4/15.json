@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb vastavalt D2 reeglile 'ruahh'iks — tuul\/vaim\/hingus ühes sõnas"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨püsti⟩",
+      "rationale": "תסמר 'kangestus kortsu' — eesti needs adverb; lisatud selguseks"
+    }
+  ],
+  "translation": "Ja ruahh libises mu näo ees, mu ihu karvad tõusid ⟨püsti⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ce8288c94b9253748ad4af1aecb85a19e0af4243e25cbd5eee3cb9b338ddb3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/4\/13-16.1792555106247.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mu näo"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "libises"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "tõusid kortsu"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "karvad"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mu ihus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:26.248588627Z",
+  "model": "glm-5.3"
+}

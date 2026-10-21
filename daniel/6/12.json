@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 6:12",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "אלהה on arameea 'Eloah' — Jumala nimi, mitte üldnimetus; eestis 'Jumal' EI"
+    },
+    {
+      "kind": "elision",
+      "subject": "קדם",
+      "rationale": "eraldiseisev eessõna 'ees' liideti käändeühendisse 'oma Elohimilt ees'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Taaniel",
+      "rationale": "דניאל heebrea kõla järgi — Daniel, mitte Piibli tavapärane 'Taaniel'"
+    }
+  ],
+  "translation": "Siis need mehed kogunesid kohal ja leidsid Taanieli palumas ja armu paluma oma Elohimilt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf3a586b832faedf5a0e4e39719ad0413c5558787b06e87c117b9d0b72f3a584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/6\/12-12.1792558703054.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Siis"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "need"
+    },
+    {
+      "surface": "הרגשו",
+      "gloss": "kogunesid kohal"
+    },
+    {
+      "surface": "והשכחו",
+      "gloss": "ja leidsid"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "Taanieli"
+    },
+    {
+      "surface": "בעא",
+      "gloss": "palumas"
+    },
+    {
+      "surface": "ומתחנן",
+      "gloss": "ja armu paluma"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ees"
+    },
+    {
+      "surface": "אלהה",
+      "gloss": "oma Elohimilt"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:23.056768758Z",
+  "model": "glm-5.3"
+}

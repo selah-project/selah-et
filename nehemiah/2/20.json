@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 2:20",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדקה → õigust",
+      "rationale": "Siin tähendab צדקה juriidilist nõuet\/osalist õigust, mitte abstraktset tsedekit"
+    },
+    {
+      "kind": "you",
+      "subject": "ולכם",
+      "rationale": "Otsene tagasilükkamine Sanballatile, Tovijale ja Gešemile: teile ei ole Jerušalaimis õigust"
+    }
+  ],
+  "translation": "Ja ma vastasin neile ⟨את⟩ sõnaga ja ütlesin neile: Taeva Elohim, tema annab meile õnnestumist, ja meie, tema sulased, tõuseme ja ehitame; aga teile ei ole osa ega õigust ega mälestust Jerušalaimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e33d046a47d82ea6f36e9c7c3feda24e8101225ff898250dfcfc3785a1a93cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/2\/17-20.1792556892280.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיב",
+      "gloss": "Ja ma vastasin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "neile ⟨את⟩",
+      "marks": "sõnaga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõnaga"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ja ütlesin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "annab õnnestumist"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ja meie"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "tema sulased"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "tõuseme"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "ja ehitame"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "aga teile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "osa"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ega õigust"
+    },
+    {
+      "surface": "וזכרון",
+      "gloss": "ega mälestust"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:28:12.282777078Z",
+  "model": "glm-5.3"
+}

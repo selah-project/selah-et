@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחרוץ",
+      "rationale": "Sõna tähendab 'kullasse pandud, puhas kuld'; 'rafinitud kuld' vs lihtsalt 'kuld'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבואא",
+      "rationale": "תבואתה on otseselt 'saak\/tulu' (põllusaak), siin tarkuse tulust kui saagist."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סחר\/מסחר",
+      "rationale": "Sama juur kaks korda: tema-kauplemine vs hõbeda-kauplemine, kaja jääb eesti 'kauplemine' kordusega."
+    }
+  ],
+  "translation": "Sest tema kauplemine on parem kui hõbeda kauplemine, ja tema saak kullast kallim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d331f34493488c161d3ff7ac439b463bd2f4343e1d856948cdda62fa827e361d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/14-15.1792558633947.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "tema kauplemine"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "kauplemine"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbeda"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "kullast"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "tema saak"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:13.952820417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaarao",
+      "rationale": "פרעה on tiitel, heebrea kõlalt 'Par'o', eesti tavaks 'vaarao'"
+    },
+    {
+      "kind": "addition",
+      "subject": "See on",
+      "rationale": "Eesti keel nõuab lause algust; heebrea algab osalausega אשר היה"
+    }
+  ],
+  "translation": "See on Jahve sõna, mis tuli prohveti Jirmejahu poole pliistlaste kohta, enne kui vaarao lõi ⟨את⟩ Aza.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/47\/1-4.1792549383217.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "see, mis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prohvet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kohta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pliistlased"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ennem kui"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "lööb"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "vaarao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    }
+  ],
+  "timestamp": "2026-10-21T02:23:03.218996892Z",
+  "model": "glm-5.3"
+}

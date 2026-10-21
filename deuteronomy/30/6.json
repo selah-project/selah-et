@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/elujõud\/vitaliteet', mitte immateriaalne hing"
+    },
+    {
+      "kind": "alternative",
+      "subject": "elamiseks",
+      "rationale": "למען חייך võib tähendada ka 'et sa jääksid elama' või 'sinu elu heaks'"
+    }
+  ],
+  "translation": "Ja Jahve, sinu Elohim, ümberlõikab sinu südame ja sinu seemne südame, et sa armastaksid Jahvet, sinu Elohimit, kogu oma südamega ja kogu oma hingega, elamiseks ⟨see on: sinu elu pärast⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f2f469d4827a15866facddf263dc3d0788e99ec158222deee8159c8c5f9a2ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/30\/5-8.1792541172392.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ümberlõikab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu südame"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sinu südame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "sinu seemne südame"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sinu seemne"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "et sa armastaksid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sinu Elohimit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "oma südamega"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "oma hingega"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "sinu elu"
+    }
+  ],
+  "timestamp": "2026-10-21T00:06:12.393647455Z",
+  "model": "glm-5.3"
+}

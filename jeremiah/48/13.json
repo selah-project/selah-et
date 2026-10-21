@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koprul; eesti keel nõuab olevikuvormi"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבית אל",
+      "rationale": "Kas lugeda 'Beet-Elist' (linn) või 'Beti-Eli (jumala) peale' — varasemates tõlgetes mõlemad"
+    }
+  ],
+  "translation": "Ja Moab häbeneb Kemosi, nagu ⟨on⟩ häbenenud Jisraeli sugu Beet-Elist, oma lootusest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/48\/13-16.1792549323781.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "ja häbeneb"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "Kemos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "häbenenud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sugu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Beet-Elist"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eel"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "oma lootusest"
+    }
+  ],
+  "timestamp": "2026-10-21T02:22:03.783604340Z",
+  "model": "glm-5.3"
+}

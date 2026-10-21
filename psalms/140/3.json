@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuduvad",
+      "rationale": "חשב põhitähendus on 'kuduma\/punuma' — tavaline tõlge 'mõtlema välja' kaotab kujundi."
+    }
+  ],
+  "translation": "kes südames kurja kuduvad, kogu päeva kogunevad sõdima.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/140\/1-4.1792554328492.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "kuduvad"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "südames"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "kogunevad"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sõdima"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:28.492949370Z",
+  "model": "glm-5.3"
+}

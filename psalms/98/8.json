@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירננו\/קריעה",
+      "rationale": "רנן tähendab algselt 'kirsuma' (nagu ukseling) — rõõmukarje looduslik kõla."
+    },
+    {
+      "kind": "idiom",
+      "subject": "plaksutagu käsi",
+      "rationale": "Jõed käsi ei ole — heebrea annab jõgedele inimkeha, eesti jätab pildi sisse."
+    }
+  ],
+  "translation": "Jõed plaksutagu käsi, mäed hõisku üheskoos.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/98\/5-8.1792553706901.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Jõed"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "plaksutagu"
+    },
+    {
+      "surface": "כף",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hõisku"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:06.902093283Z",
+  "model": "glm-5.3"
+}

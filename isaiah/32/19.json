@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברד\/ברדת · שפלה\/תשפל",
+      "rationale": "Paronomasia: sama juur kordub tegelases ja nimisõnas (rahe\/langema, madalik\/madalamaks tegema), eesti keeles osaliselt taastatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "metsa langemine",
+      "rationale": "Kas 32:19 räägib Jahve kohtumõistmisest (rahe laastab metsa, linn jäetakse maha) või kaitsest selle eest — tõlkijad lahku läinud"
+    }
+  ],
+  "translation": "Ja rahe raheb, kui mets laskub, ja lagedal linn langetatakse madalaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/17-20.1792547231782.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "ja rahe raheb"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "kui ... laskub"
+    },
+    {
+      "surface": "היער",
+      "gloss": "mets"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "ja lagedal"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "langetatakse madalaks"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linn"
+    }
+  ],
+  "timestamp": "2026-10-21T01:47:11.786310253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערף",
+      "rationale": "Kaelanuka andmine tähendab vaenlaste põgenemiseks pööramist; eesti 'nuka' ei anna seda üksi edasi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hävitama",
+      "rationale": "אצמיתם on 'juurilõikama, täielikult hävitama' — tugevam kui lihtne hävitamine"
+    }
+  ],
+  "translation": "Ja mu vaenlased — sa andsid mulle nuka, ja need, kes mind vihkavad, ma hävitan nad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/41-44.1792552389584.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "ja mu vaenlased"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "sa andsid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nuka"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ja need, kes mind vihkavad"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "ma hävitan nad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:09.585317622Z",
+  "model": "glm-5.3"
+}

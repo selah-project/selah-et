@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ספרות",
+      "rationale": "'arv, loend' esineb Tanahhis ainult siin; sidus sõnamänguga יספר (jutustab\/loeb)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יספר \/ ספרות",
+      "rationale": "sama juur ספר: 'suu jutustab' ja 'arvu, mida ei tunta' — piiratus kutsub üles rääkima"
+    }
+  ],
+  "translation": "Mu suu jutustab sinu tsedekit, kogu päeva sinu päästmist, sest ma ei tunda ⟨nende⟩ arvu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/71\/13-16.1792553301954.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Mu suu"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "jutustab"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sinu tsedekit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "sinu päästmist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tunda"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "arvu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:21.955644292Z",
+  "model": "glm-5.3"
+}

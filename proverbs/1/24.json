@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נטיתי ידי",
+      "rationale": "Käe sirutamine on heebrea žest appipalveks ja kutseks — kujund säilitatud sõnasõnaliselt."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ei olnud⟩",
+      "rationale": "Eesti keel vajab olemasoluverbi, heebrea אין on puhtsõnaline eitus."
+    }
+  ],
+  "translation": "Et ma kutsusin ja te keeldusite, ma sirutasin välja oma käe ja ⟨ei olnud⟩ ühtegi, kes kuulaks:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7808f2645761d34e9704998dc60d7db3709166d589bd16531da455231ab3cc49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/21-24.1792554474506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Et"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ma kutsusin"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "te keeldusite"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ma sirutasin välja"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ⟨ei olnud⟩"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ühtegi, kes kuulaks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:54.510005309Z",
+  "model": "glm-5.3"
+}

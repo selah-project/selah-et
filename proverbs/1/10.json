@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ütled-meed",
+      "rationale": "חטאים on 'need, kes eksivad\/kurjategijad'; edasiantud kujupildina 'ütled-meed'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mu poeg",
+      "rationale": "kõne pöördub otse poja poole — õpetuse adresseeritud hüüe"
+    },
+    {
+      "kind": "crux",
+      "subject": "nõustu",
+      "rationale": "אבה on 'nõus olema, tahtma': KJV 'consent' vs YLT 'be not willing'"
+    }
+  ],
+  "translation": "Mu poeg, kui ütled-meed sind ahvatlevad, ära nõustu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b12b827848eb236a4c5fc1342646b6f84d358926e83d3559f0ea44c7944b83b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/10-11.1792558619331.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mu poeg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "sind ahvatlevad"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ütled-meed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "nõustu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:59.342545026Z",
+  "model": "glm-5.3"
+}

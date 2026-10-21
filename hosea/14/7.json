@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kohaldav kääne ויהי nõuab eesti keeles kopulat, heebrea ei kasuta seda lihtsalt kopulana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילכו...ינקותיו",
+      "rationale": "Võsud 'lähevad\/levivad' — heebrea kõneviis, kus taim kõnnib; eesti keeles 'levima' või 'minema'"
+    }
+  ],
+  "translation": "Tema võsud lähevad ⟨edasi⟧, ja tema hiilgus ⟨on⟩ nagu oliivipuu, ja tema lõhn nagu Liibanon.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/14\/5-8.1792551115701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "lähevad"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "tema võsud"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨on⟩"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "nagu oliivipuu"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "tema hiilgus"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ja lõhn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "nagu Liibanon"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:55.702306853Z",
+  "model": "glm-5.3"
+}

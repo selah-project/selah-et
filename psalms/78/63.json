@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הוללו",
+      "rationale": "הלל tähendab nii 'kiitma, hüüdma' kui pulmakisa — 'pulmalaulu ei lauldud', kujund jäädvustamata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sööis",
+      "rationale": "אכל 'sööma' sõnasilmselt: tuli sõbis nad ära"
+    }
+  ],
+  "translation": "Tema noori mehi sööis tuli, ja tema neitsid ei saanud pulmalaulu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/61-64.1792553396422.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "Tema noori mehi"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "sööis"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "ja tema neitsid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "saanud pulmalaulu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:56.423060334Z",
+  "model": "glm-5.3"
+}

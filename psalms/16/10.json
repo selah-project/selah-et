@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingamine, elujõud', mitte ebemateriaalne 'hing'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חסידך — oma usaldatut",
+      "rationale": "'Sinu püha' (KJV), 'sinu vagad' (JPS), 'sinu ustav' — hesedi juur: ustav, pühendunud."
+    },
+    {
+      "kind": "elision",
+      "subject": "לראות nägema",
+      "rationale": "Lõplik tegusõnavorm eesti infinitiiviga; heebrea eitust 'ei anna ... nägema' tõlgib kui 'ei lase nägema'."
+    }
+  ],
+  "translation": "Sest sa ei jäta mu hinge šeoli, sa ei anna oma usaldatut näha korrutust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/16\/9-11.1792552349437.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "jäta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hinge"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "šeoli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "oma usaldatut"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nägema"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "auku"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:29.438257128Z",
+  "model": "glm-5.3"
+}

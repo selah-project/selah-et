@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "saab kinni võtta",
+      "rationale": "תתפש passiivne 'saakse kinni võtta' (JPS, BSB) vs KJV\/geneva aktiivne 'haarab kätega' (ämbliku pildi järgi); שממית on 'sisalik', mitte 'ämblik'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שממית",
+      "rationale": "sõna ilmub Tanahhis ainult selles salmis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "neli väikest",
+      "rationale": "neljas ja viimane loendi liige"
+    }
+  ],
+  "translation": "Sisalik saab kätega kinni võtta, ja ⟨ta⟩ elab kuningate paleedes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/25-28.1792555033680.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "sisalik"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "kätega"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "saab kinni võtta"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja ⟨ta⟩"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "paleedes"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:13.681071665Z",
+  "model": "glm-5.3"
+}

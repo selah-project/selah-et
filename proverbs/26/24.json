@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 26:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ינכר",
+      "rationale": "Juurest נכר 'tundma\/võõraks osutama': kas 'teeb end tundmatuks, varjab end' (KJV 'dissembleth') või 'on äratuntav' — kuid paralleel מרמה toetab varjamise lugemit."
+    },
+    {
+      "kind": "substitution",
+      "subject": "varjab end",
+      "rationale": "Heebrea ינכר on passiiv 'tuntakse ära \/ tundmatuks tehtud'; eestis vajab see läbirõivat tegusõna."
+    }
+  ],
+  "translation": "Oma huultega varjab end see, kes vihkab, ja oma südames seab ta pettuse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/26\/21-24.1792554947283.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתו",
+      "gloss": "oma huultega"
+    },
+    {
+      "surface": "ינכר",
+      "gloss": "varjab end"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "see, kes vihkab"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "ja oma südames"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "seab ta"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pettuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:47.284560239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppel; eesti ⟨on⟩ on lisatud."
+    },
+    {
+      "kind": "crux",
+      "subject": "על מות",
+      "rationale": "'üle surma' (me ületame surma) vs 'kuni surmani' (JPS 'igavesti') — על-ümberlugev lubab mõlemat."
+    }
+  ],
+  "translation": "Sest see on Elohim, meie Elohim igavesest ajast ja igaveseni; tema juhib meid üle surma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/48\/13-15.1792552824369.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesest ajast"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja igaveseni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "juhib meid"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:24.371189285Z",
+  "model": "glm-5.3"
+}

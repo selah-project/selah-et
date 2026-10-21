@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kõik, mis",
+      "rationale": "Heebrea lühike osastav konstruktsioon 'עֹבֵר אָרְחוֹת יַמִּים' vajab eesti keeles täiendit"
+    }
+  ],
+  "translation": "Taeva linnud ja mere kalad, kõik, mis läbib mere teid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/8\/9-10.1792552248629.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "linnud"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ja kalad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "läbib"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "teid"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mere"
+    }
+  ],
+  "timestamp": "2026-10-21T03:10:48.629583026Z",
+  "model": "glm-5.3"
+}

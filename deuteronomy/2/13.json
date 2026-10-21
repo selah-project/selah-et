@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לכם",
+      "rationale": "refleksiivne 'endale' sulandub eesti 'üle minema' konstruktsiooni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "את נחל זרד",
+      "rationale": "sama fraes kordub salmi algus-lõpus, kajana; eesti keeles säilitatud täpselt samasuguse kordusega"
+    }
+  ],
+  "translation": "Nüüd tõuske ja minge üle ⟨את⟩ Zeredi oru; ja meie läksime üle ⟨את⟩ Zeredi oru.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3ac84bd16af5cf35aeb1d4cd78ab0f97c2e4ff2844f1033019636e9829fba0cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/2\/13-16.1792540568844.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nüüd"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "tõuske"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ja minge üle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeredi org"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "org"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ja meie läksime üle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeredi org"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "org"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-10-20T23:56:08.844617803Z",
+  "model": "glm-5.3"
+}

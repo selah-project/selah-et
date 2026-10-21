@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 16:4",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתן",
+      "rationale": "'määras' põhineb 'andma' laiendusel; heebrea ütleb otseselt 'ja ta pani\/andas leviite arku ette'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ולהודות \/ יהודה",
+      "rationale": "Juudi kõlas 'tunnistama\/tänitama' (hoda) meenutab nime Juuda (Jehuda, 1Ms 29:35) — eesti keeles see kõla on kadunud."
+    }
+  ],
+  "translation": "Ja ta määras teenistusse leviite Jahve arku ette, et meenutada, et tänuda ja et kiita Jahvet, Jisraeli Elohimit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/1-4.1792557424802.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ja ta määras"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ette"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hulka"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviite"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "teenistusse"
+    },
+    {
+      "surface": "ולהזכיר",
+      "gloss": "et meenutada"
+    },
+    {
+      "surface": "ולהודות",
+      "gloss": "et tänuda"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "et kiita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:04.803550743Z",
+  "model": "glm-5.3"
+}

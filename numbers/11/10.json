@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Sõna-sõnalt 'ja tema nina põles' = viha süttis; eesti keeles 'nina põles' pole idiom, seega osaliselt sõna-sõnaline."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koopula 'oli'; eesti keel vajab seda."
+    }
+  ],
+  "translation": "Ja Moše kuulis ⟨את⟩ rahvast nutvat oma sugukondade kaupa, igaüks oma telgi ees, ja Jahve nina põles väga ja Moše silmis ⟨oli⟩ see ⟨halb⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bdc90ea0a233af4e250a640c7550a15c9f3099261afe6f903a03455e4748a37c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/11\/9-12.1792539981505.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahvast"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvast"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nutvat"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "oma sugukondade kaupa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ees"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "oma telgi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja põles"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ja silmis"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "רע",
+      "gloss": "halb"
+    }
+  ],
+  "timestamp": "2026-10-20T23:46:21.505929627Z",
+  "model": "glm-5.3"
+}

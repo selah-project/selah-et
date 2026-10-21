@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "D2: tsedek ei tõlgita üksinda 'õiguseks'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבין\/תבונה",
+      "rationale": "juur בין kordub salmides 9 ja 11: arusaamine ja arusaamine hoiavad"
+    }
+  ],
+  "translation": "Siis saad aru tsedekist ja kohtust ning õigsusest — igal heal teel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/2\/9-12.1792554431024.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Siis"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "saad aru"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedekist"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja kohtust"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ning õigsusest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "igal"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "teel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "heal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:11.024551540Z",
+  "model": "glm-5.3"
+}

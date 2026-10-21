@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ויוכח",
+      "rationale": "võib tähendada ka 'otsustas nende kasuks'; valitud 'noomis'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ühelgi",
+      "rationale": "eesti eitus nõuab kvantorit, heebrea ütleb lihtsalt 'ei lubanud inimesel'"
+    }
+  ],
+  "translation": "Ei lubanud ta ühelgi inimesel neid rõhuda, ja noomis nende pärast kuningaid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/13-16.1792553786313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "lubanud"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ühelgi inimesel"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "neid rõhuda"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ja noomis"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende pärast"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningaid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:26.314042337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "neerud",
+      "rationale": "כליות on siseelundid, mida heebrea keeles peetakse tunnete ja mõtte asukohaks — mitte moodsa 'südametunnistus' ase"
+    },
+    {
+      "kind": "alternative",
+      "subject": "õpetavad mind",
+      "rationale": "יסרוני võib tähendada ka 'noomivad\/karistavad mind' — kontekst toetab õpetamist"
+    }
+  ],
+  "translation": "Ma õnnistan ⟨את⟩ Jahvet, kes on mulle nõu andnud; jah, öösi õpetavad mind mu neerud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/16\/5-8.1792552443571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ma õnnistan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "on mulle nõu andnud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jah"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "öösi"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "õpetavad mind"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mu neerud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:03.573679177Z",
+  "model": "glm-5.3"
+}

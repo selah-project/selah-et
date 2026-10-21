@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "need",
+      "rationale": "Eesti nõuab subjekti, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peavad kiiremaks",
+      "rationale": "קלו tähendab otseselt 'on kerged', võrdluse võti"
+    }
+  ],
+  "translation": "Minu päevad on kiiremad kui jooksja; need põgenevad, nad ei ole näinud head.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/25-28.1792555216979.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "ja minu päevad"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "on kiiremad"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kui"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "jooksja"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "need põgenevad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nad on näinud"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "head"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:16.980334663Z",
+  "model": "glm-5.3"
+}

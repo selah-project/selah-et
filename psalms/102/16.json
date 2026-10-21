@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kardavad⟩",
+      "rationale": "Teine pool salmist ei korda tegusõna — heebrea jätab selle ära, eesti keeles vajab kordust selguseks."
+    }
+  ],
+  "translation": "Ja rahvad kardavad ⟨את⟩ Jahve nime, ja kõik maa kuningad ⟨kardavad⟩ ⟨את⟩ sinu au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/13-16.1792553711651.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ja kardavad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve nimi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinu au"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sinu au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:11.652767055Z",
+  "model": "glm-5.3"
+}

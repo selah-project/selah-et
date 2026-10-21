@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ma külvan õnnetust",
+      "rationale": "פקד 'külastama, arvele panema' — eesti lühike tõlge kaotab 'külastuse' pildi"
+    },
+    {
+      "kind": "substitution",
+      "subject": " ülbed ülbed",
+      "rationale": "גאון\/גאות on läbinisti kõlav sõnapaar — ei ole 'ülbed ülbed' tähenduses 'kahekordne', vaid ühe kõla kordus"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבל",
+      "rationale": "'tevel' — kogu asustatud maailm või konkreetselt Babüloni maa"
+    }
+  ],
+  "translation": "Ja ma külvan õnnetust maailmale ja pahategijatele nende süü; ja ma puhkan ülbed ülbed vägivallategijate rõhuvast uhkusest ma painutan maha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/13\/9-12.1792546735857.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ja ma külvan õnnetust"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailma"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja üle"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pahategijate"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "nende süü"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ja ma puhkan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ülbed ülbuse"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ülbed"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "ja rõhuvat uhkust"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "vägivallategijate"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "ma painutan maha"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:55.858712033Z",
+  "model": "glm-5.3"
+}

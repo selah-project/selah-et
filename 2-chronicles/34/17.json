@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valasid välja",
+      "rationale": "ותק tähendab otseselt 'voolama\/valama' — hõbe valati välja nagu vedelik; KJV 'kogusid kokko' kaotab pildi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "sõna-sõnalt 'peale käe' = 'kätte, hoole alla'"
+    }
+  ],
+  "translation": "Ja nad valasid välja ⟨את⟩ hõbeda, mis leiti Jahve kojas, ja andsid selle ülevaatajate kätte ja töötegijate kätte.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "834726cfbac34520d6037b08b427a57f1b470e3057b2e15497643291537dcbd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/34\/17-20.1792558216337.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "Ja nad valasid välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hõbeda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hõbeda"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "mis leiti"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kojas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "ja andsid selle"
+    },
+    {
+      "surface": "על",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "ülevaatajate"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "tegijate"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "töö"
+    }
+  ],
+  "timestamp": "2026-10-21T04:50:16.339311417Z",
+  "model": "glm-5.3"
+}

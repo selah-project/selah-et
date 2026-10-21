@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 15:13",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jube kujutis",
+      "rationale": "מפלצת sõna-sõnalt 'hirmuette', õudus — kujutis, mis hirmu äratab"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגבירה",
+      "rationale": "'valitsejanna' vs 'ema kuninganna' ( kuninga ema tiitel); heebrea ütleb lihtsalt 'valitsejanna'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ei⟩",
+      "rationale": "eesti eituskonstruktsioon nõuab 'ei' – heebrea infinitiivkonstruktsioon seda ei sisalda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפלצת...מפלצתה",
+      "rationale": "sõna kordub kaks korda, kaja säilib eesti keeles"
+    }
+  ],
+  "translation": "Ja ka Maakha, tema ema, eemaldas ta sellest, et ⟨ei⟩ olla valitsejanna, sest tema oli teinud jube kujutise Ašerale; ja Asa raius maha tema jubeda kujutise ja põletas selle Kidroni ojas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f243442e953b28e3d7500bd4d4bb09beb7a4cfcab15ad555e3df56256aa445cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/15\/13-16.1792545612934.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "tema ema"
+    },
+    {
+      "surface": "ויסרה",
+      "gloss": "eemaldas ta"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "valitsejannast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "tema oli teinud"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "jube kujutise"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Ašerale"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ja raius maha"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema jubeda kujutise"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "tema jube kujutis"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ja põletas"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ojas"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidroni"
+    }
+  ],
+  "timestamp": "2026-10-21T01:20:12.935794175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבך",
+      "rationale": "KJV 'tool' vs 'mõõk': sõna tähendab mõõka, kuid kontekstis tahutud kivi võib tähendada üldiselt tahumisriista."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מזבח",
+      "rationale": "Eesti 'lohvri' traditsiooniline vaste; kivist altar — 'kivilohver' hoiab ühe sõna ühe sõnaga."
+    }
+  ],
+  "translation": "Ja kui teed mulle kivilohvri, ära ehita neid tahutud kivist, sest oma mõõga oled sa selle kohal liikutanud ja oled selle rüvetanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/25-26.1792538627232.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kivilohver"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "teed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ehita"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "tahutud kivist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "oma mõõga"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "oled sa liikutanud"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "selle kohal"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ja oled selle rüvetanud"
+    }
+  ],
+  "timestamp": "2026-10-20T23:23:47.232564139Z",
+  "model": "glm-5.3"
+}

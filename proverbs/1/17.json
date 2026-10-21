@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tiiva-omanik",
+      "rationale": "בעל כנף on sõna-sõnalt 'tiiva isand'; kõik teised tõlked lühendavad selle 'linnuks', heebrea ei ütle 'lind'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מזרה",
+      "rationale": "'pööratud\/visatud laiali' (nagu tuulamisel) — kas 'laiapoetsatud' või 'välja pandud'; tõlkes 'pannakse välja'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "võrk lindude silme ees",
+      "rationale": "verbid 17–19 on piltlik tähendamissõna ahnusest, järgmine salm pöörab selle ära langijate endi vastu"
+    }
+  ],
+  "translation": "Sest asjatult pannakse võrk välja iga tiiva-omaniku silme ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/17-20.1792554484927.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "asjatult"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "pannakse välja"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "võrk"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "silme ees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "omaniku"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "tiiva-"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:04.928359532Z",
+  "model": "glm-5.3"
+}

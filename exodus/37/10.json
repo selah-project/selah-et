@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "heebrea puudub koplula, eesti nouns-lause nõuab selle"
+    },
+    {
+      "kind": "measurement",
+      "subject": "laua mõõdud",
+      "rationale": "kaks küünart × üks küünar × üks küünar ja pool"
+    }
+  ],
+  "translation": "Ja ta tegi ⟨את⟩ laua akatsiapuust: kaks küünart oli selle pikkus ja üks küünar selle laius ja üks küünar ja pool selle kõrgus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d1f098d9ff01c0d8835826ea1c57ffc66e76536add2355666f4aecf4bedf9d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/37\/9-12.1792539012502.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja ta tegi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laua"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lauda"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puust"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kaks küünart"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "selle pikkus"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja üks küünar"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "selle laius"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ja üks küünar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ja pool"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "selle kõrgus"
+    }
+  ],
+  "timestamp": "2026-10-20T23:30:12.502861624Z",
+  "model": "glm-5.3"
+}

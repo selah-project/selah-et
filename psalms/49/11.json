@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõistmatu",
+      "rationale": "בער on 'veise-ja-tüüpi', karilooma rumalus — 'brutish'\/'mõistmatu' kaotab loomapildi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמים\/כסיל",
+      "rationale": "tark vs paks-rumal — tarkuse ja rasvase rumaluse vastandus on salmi telg"
+    }
+  ],
+  "translation": "Sest ta näeb: targad surevad, koos rumala ja mõistmatuga hukkuvad nad ja jätavad teistele oma varanduse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/9-12.1792552967551.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ta näeb"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "targad"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "surevad"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "koos"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "rumala"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ja mõistmatu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hukkuvad nad"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ja jätavad"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "teistele"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "oma varanduse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:47.552863611Z",
+  "model": "glm-5.3"
+}

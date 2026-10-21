@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "joovevad",
+      "rationale": "partitsiibivorm: 'kes joovevad' (Jahve ülistus) või 'tema joovevad' — valisin viimase, sest jaatus puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõrgustest",
+      "rationale": "מעליותיו tähendab ülemisi ruume\/kõrgust, sõna-sõnalt ' tema ülemised kambrid'"
+    }
+  ],
+  "translation": "Jahve joovevad mägesid oma kõrgustest; tema tegude viljast saab maa söödud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/13-16.1792553809817.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "joovevad"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägesid"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "oma kõrgustest"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "viljast"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "su tegude"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "söödud saab"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:49.817558044Z",
+  "model": "glm-5.3"
+}

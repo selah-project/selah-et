@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקרב \/ קרבן",
+      "rationale": "Sama juur — 'viis lähedale ohvri (korban)': teo ja objekti kaja, eesti keeles osaliselt kadunud."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת \/ ויחטאהו",
+      "rationale": "'Patt' ja 'pattu teenima' on sama verb — 'tegigi selle patuks'."
+    }
+  ],
+  "translation": "Ja ta viis lähedale ⟨את⟩ rahva ohvri, ja võttis ⟨את⟩ kitse — see oli patuohver rahva eest — ning tappis selle ning tegi selle patuohvriks nagu esimese.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/9\/13-16.1792539247988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ja ta viis lähedale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahva ohvri"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ohvri"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja võttis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kits"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kits"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "patuohver"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "rahva eest"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "ja tappis selle"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "ja tegi selle patuohvriks"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "nagu esimese"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:07.989919791Z",
+  "model": "glm-5.3"
+}

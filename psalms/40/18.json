@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Heebrea puudub koopula; eesti nõuab 'olen' salmi alguses."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחשב",
+      "rationale": "Crux: 'mõtleb' \/ 'arvestab' \/ 'kavandab' minu heaks — חשב kandub nii mõtlemise kui plaanimise suunas."
+    },
+    {
+      "kind": "you",
+      "subject": "Otse pöördumine Elohimile",
+      "rationale": "Palve otsepööre: 'mu Elohim, ära viivita!'"
+    }
+  ],
+  "translation": "Aga mina olen vaene ja puuduses; Adonai mõtleb minule: mu abiks ja mu päästjaks oled sina, mu Elohim — ära viivita!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/40\/17-18.1792552729122.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aga mina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "vaene"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ja puuduses"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mõtleb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mu abiks"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ja mu päästjaks"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "viivita"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:49.123282424Z",
+  "model": "glm-5.3"
+}

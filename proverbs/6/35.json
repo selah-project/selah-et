@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פני",
+      "rationale": "'Näo tõstma' = kellegi eelistama, lepituma; sõna-sõnalt 'ta ei tõsta ühegi lunaraha nägu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר \/ שחד",
+      "rationale": "Kahe erineva sõna kontrast: lunaraha (כפר, lepituse hind) vs altkäemaks (שחד) — kumbki ei aita"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa",
+      "rationale": "Pöördumise alusõna lisatud, heebrea jääb ebaisikuliseks"
+    }
+  ],
+  "translation": "Ta ei tõsta nägu ühegi lunaraha ees, ega nõustu, kuigi sa altkäemaksu mitmekordistad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d58f996a7edda261c7e9c2a410c7dc325e39f21154ffa18151f4705c378c9373",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/6\/33-35.1792554552852.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "tõsta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ühegi"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "lunaraha"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ega ei"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "nõustu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuigi"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "mitmekordistad"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "altkäemaksu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:12.852936564Z",
+  "model": "glm-5.3"
+}

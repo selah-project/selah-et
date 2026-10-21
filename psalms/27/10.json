@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ajavorm",
+      "rationale": "võib lugeda tulevikuna: 'kui isa ja ema hülgavad mu, siis Jahve kogub mu' — heebrea perfekt võib tähistada kindlat tulevikku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזבוני \/ יאספני",
+      "rationale": "hülgamise ja kokkukogumise vastandus — lahuskus vs kogumine"
+    }
+  ],
+  "translation": "Sest isa ja ema on mind hüljanud, aga Jahve kogub mu enesele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/27\/9-12.1792552527199.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "isa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ja ema"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "on mind hüljanud"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "aga Jahve"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "kogub mu enesele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:27.200694538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "püünis",
+      "rationale": "פח on pingenõel sarnanev haardenõel; 'püünis' kannab pildi üldiselt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פח \/ מוקש",
+      "rationale": "sama juur יקש ühendab salmi: püünis ja silmus, korduv kõlavõrdlus"
+    }
+  ],
+  "translation": "Hoia mind püünise käest, mis on minu jaoks pandud, ja kurjuse tegijate silmuse eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/141\/9-10.1792554362106.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Hoia mind"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "käest"
+    },
+    {
+      "surface": "פח",
+      "gloss": "püünis"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "on pandud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu jaoks"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "ja silmuse"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tegijate"
+    },
+    {
+      "surface": "און",
+      "gloss": "kurjuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:02.106910470Z",
+  "model": "glm-5.3"
+}

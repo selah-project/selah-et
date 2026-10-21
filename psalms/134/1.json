@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the servants of YHWH",
+      "rationale": "Imperative 'bless' summons the night watch of the temple."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלילות",
+      "rationale": "Plural 'in the nights' — ööd läbi (night after night) vs 'by night' (KJV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בבית",
+      "rationale": "Construct 'house of YHWH' rendered as one bound phrase 'Jahve koda'."
+    }
+  ],
+  "translation": "Laul tõusmistest. Vaata, õnnistage ⟨את⟩ Jahvet, kõik Jahve teenijad, kes seisavad Jahve koda ööd läbi!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/134\/1-3.1792554280637.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laul"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tõusmistest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "õnnistage"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "teenijad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kes seisavad"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kojas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ööd läbi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:40.638203342Z",
+  "model": "glm-5.3"
+}

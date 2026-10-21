@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kitsenärvast",
+      "rationale": "עזים otse 'kitsekarvad'; eesti kompileks ühend"
+    },
+    {
+      "kind": "addition",
+      "subject": "neid",
+      "rationale": "etturuna asetatud objekt; heebrea järgneva predikaadiga"
+    }
+  ],
+  "translation": "Ja sa teed kitsenärvast kardinad telgiks miškani peale; üksteist kardinaid sa teed ⟨את⟩ neid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "505dcc2faede235c10f79b09d8c21112796956b5b7033dce6f475a74007984f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/26\/5-8.1792538752132.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ja sa teed"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kardinad"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kitsenärvast"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "telgiks"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškani"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "üksteist-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kümmet"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "kardinaid"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sa teed"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neid (üksteist kardinaid)"
+    }
+  ],
+  "timestamp": "2026-10-20T23:25:52.133999311Z",
+  "model": "glm-5.3"
+}

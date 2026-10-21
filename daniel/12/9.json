@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "sõnad on kinnised ja pitserdatud",
+      "rationale": "kinnised-pitserdatud sõnad: tahtlikult varjatud teadmine, mis avaneb alles lõpu ajal"
+    },
+    {
+      "kind": "mystery",
+      "subject": "kuni lõpu ajani",
+      "rationale": "tekst peidab oma tähenduse tuleviku taha — Daniel ei tohi veel mõista"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סתמים \/ חתמים",
+      "rationale": "kaks kergelt riimuvat passiivpartitsiipi 'kinni pandud \/ pitseriga suletud', eesti keeles kaotab kõla"
+    }
+  ],
+  "translation": "Ja ta ütles: Mine, Dani'el, sest kinnised ja pitserdatud on need sõnad kuni lõpu ajani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b44b2635239d137cacfac27e5e6baf129b38b4cf47cc9b3e39024b5e9739bb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/12\/9-12.1792556557968.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mine"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Dani'el"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "kinnised"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ja pitserdatud"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "need sõnad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ajani"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "lõpu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:22:37.969246794Z",
+  "model": "glm-5.3"
+}

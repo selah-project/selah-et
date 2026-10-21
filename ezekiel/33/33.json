@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keel nõuab kopeelt, heebrea היה on siin kinnitav 'on olnud', kuid lause eeldab ilmutatud kopeelt"
+    },
+    {
+      "kind": "you",
+      "subject": "kohaleveeru rahvas",
+      "rationale": "Salm pöördub kaudselt kuulajaskonna poole — 'nemad' tunnevad ära, et prohvet oli nende keskel"
+    }
+  ],
+  "translation": "Ja kui see saabub — vaata, see saabub —, siis nad teavad, et prohvet ⟨oli⟩ nende keskel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "77273e578ea9d0006a84dc8f0376b18b7baf76846041aa89ac041cac467e8500",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/33\/33-33.1792550468586.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "ja kui see saabub"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "באה",
+      "gloss": "see saabub"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "siis nad teavad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prohvet"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨oli⟩"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "nende keskel"
+    }
+  ],
+  "timestamp": "2026-10-21T02:41:08.586897115Z",
+  "model": "glm-5.3"
+}

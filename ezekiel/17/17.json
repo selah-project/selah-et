@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 17:17",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema jaoks⟩",
+      "rationale": "Heebrea אותו (aleph-tav + sufiks 'teda') nõuab eesti keeles laiendust 'tema jaoks'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hingi",
+      "rationale": "נפשות on nefesh mitmuses — elujõud, elusolend, mitte 'hing' platoonilises mõttes"
+    },
+    {
+      "kind": "crux",
+      "subject": "ei tee ... tema jaoks",
+      "rationale": "יעשה אותו: KJV 'make for him', teised 'help him' (aidata) — heebrea sõnaõnad on lihtsalt 'teha'"
+    }
+  ],
+  "translation": "Ja mitte suure väega ega suure koguga ei tee Paroh sõjas ⟨את⟩ ⟨tema jaoks⟩, kaldvalli valamisel ja piiramistorne ehitades, et maha lõigata palju hingi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be0978ccc929a9c28b4ba27c5d5ae05661c75d4b0020e6ff57555d033de0f734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/17\/17-20.1792550047663.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ja mitte"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "väega"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suure"
+    },
+    {
+      "surface": "ובקהל",
+      "gloss": "ega koguga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suure"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ei tee"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "tema jaoks"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sõjas"
+    },
+    {
+      "surface": "בשפך",
+      "gloss": "valamisel"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "kaldvalli"
+    },
+    {
+      "surface": "ובבנות",
+      "gloss": "ja ehitades"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "piiramistorne"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "et maha lõigata"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "hingi"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "palju"
+    }
+  ],
+  "timestamp": "2026-10-21T02:34:07.665157404Z",
+  "model": "glm-5.3"
+}

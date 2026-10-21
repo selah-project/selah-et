@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ennest⟩",
+      "rationale": "Heebrea גדל ei ütle refleksiivset 'endid', see on lisatud eesti kõla jaoks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פן ... במוט",
+      "rationale": "'pelgaks komistaks' — kõlasid sarnaselt, eesti keeles kadunud"
+    }
+  ],
+  "translation": "Sest ma ütlesin: et nad ei rõõmustaks minu üle — kui mu jalg komistab, suurendasid nad ⟨ennest⟩ minu vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/38\/17-20.1792552746520.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ma ütlesin"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et ... ei"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "nad rõõmustaksid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu üle"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "kui ... komistab"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mu jalg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "suurendasid nad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:06.521178718Z",
+  "model": "glm-5.3"
+}

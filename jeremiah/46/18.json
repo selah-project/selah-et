@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 46:18",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea subjekt puudub — יבוא 'tuleb' subjektita, eesti keel vajab asesõna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כתבור … כרמל",
+      "rationale": "Võimalik ka võrdlus kõrgusest: 'nagu Tavor mägede seas' — kes tuleb, on vallutaja, kes tõuseb nagu need mäed"
+    }
+  ],
+  "translation": "Nii tõesti kui mina elan, ütleb kuningas — Jahve Tsevaot on tema nimi —, nõnda nagu Tavor mägede seas ja nagu Karmel mere ääres, nõnda tuleb ⟨ta⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7aa0eeef7829677e74f9724532f72c6cbe801c828d1a7f8bece79488b56941d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/46\/17-20.1792549312182.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "elan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nõnda tõesti"
+    },
+    {
+      "surface": "כתבור",
+      "gloss": "nagu Tavor"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mägede seas"
+    },
+    {
+      "surface": "וככרמל",
+      "gloss": "ja nagu Karmel"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mere ääres"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb"
+    }
+  ],
+  "timestamp": "2026-10-21T02:21:52.184223789Z",
+  "model": "glm-5.3"
+}

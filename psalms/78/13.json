@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "valli",
+      "rationale": "נד tähendab kuhjat, lainevalli; 'valli' hoiab kuhja pildi, 'müür' oleks võõras kujund."
+    }
+  ],
+  "translation": "Ta lõhestas ⟨את⟩ mere ja lasi neil läbi minna, ja pani veid seisma nagu valli.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/13-16.1792553398524.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "lõhestas"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ja lasi neil läbi minna"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ja pani seisma"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veid"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "נד",
+      "gloss": "valli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:58.525015923Z",
+  "model": "glm-5.3"
+}

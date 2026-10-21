@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "käsi",
+      "rationale": "Eesti keeles vajab 'vasak' ja 'parem' juurde sõna 'käsi'; heebrea שמאל\/ימין kannab seda iseenesest."
+    }
+  ],
+  "translation": "Tema vasak käsi on mu pea all ja tema parem käsi embab mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/1-4.1792555827980.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "tema vasak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pea"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ja tema parem"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "embab mind"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:27.981724187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לאולתי",
+      "rationale": "'narritus \/ narrius' — sõna tähendab rumalust, tühja juttu; 'sittumus' oleks liiga õpetuslik"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimile",
+      "rationale": "otsene pöördumine Jumala poole"
+    }
+  ],
+  "translation": "Elohim, sina tead mu narritust, ja mu süüteod ei ole sinu eest varjatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/5-8.1792553168242.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tead"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "mu narritust"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ja mu süüteod"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sinu eest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "varjatud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:08.243660996Z",
+  "model": "glm-5.3"
+}

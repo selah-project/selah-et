@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb translitereerituks: lojaalne lahkus — 'arm' ega 'halastus' üksi ei kata"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kedagi⟩",
+      "rationale": "Eesti keeles on partitsipi jaoks vajalik isik: heebrea otse 'ärgu olgu talle hesedit tõmbajat'"
+    }
+  ],
+  "translation": "Ärgu olgu teda tõmbama ⟨kedagi, kes näitab⟩ hesedit, ja ärgu olgu tema orbudele armu näitama ⟨kedagi⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/9-12.1792553866257.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "משך",
+      "gloss": "tõmbama ⟨kedagi, kes näitab⟩"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ärgu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "armu näitama ⟨kedagi⟩"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "tema orbudele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:46.258009438Z",
+  "model": "glm-5.3"
+}

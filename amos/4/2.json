@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצנות",
+      "rationale": "Kääbaste pinnalt 'konksud', kuid võimalik ka 'kilbid' või 'ogad'; kalakonksude pilt toetub järgmisele sõnale."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחריתכן בסירות דוגה",
+      "rationale": "Kas 'teie viimased kalakonksudega' või 'teie jäänuk keedunõudes'; sõna סיר tähendab nii 'nõu' kui 'konks'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalakonksudega kalapüügiks",
+      "rationale": "בסירות דוגה on kaks sõna: 'kalapüügi-nõudega\/konksudega'; eesti keeles lahendatud ühe pildiga."
+    }
+  ],
+  "translation": "Vannub Adonai Jahve oma pühas: vaata, päevad tulevad teie peale, ja ⟨את⟩ teid tõstetakse ära konksudega ja teie viimased kalakonksudega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8201392b02767ec64cf02cab1fa1e3687c72369a0b49078c2d876b5d34698cbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/4\/1-4.1792551333522.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Vannub"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "oma pühas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tulevad"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teie peale"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ja tõstetakse ära"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "konksudega"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "konksudega"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "ja teie viimased"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "kalakonksudega"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "kalapüügiks"
+    }
+  ],
+  "timestamp": "2026-10-21T02:55:33.523345341Z",
+  "model": "glm-5.3"
+}

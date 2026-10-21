@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול ei ole karistuskoht, vaid allmaailm; eesti 'põrgu' jäetakne kõrvale"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגליה\/צעדיה",
+      "rationale": "jalad\/sammud paralleelsus: samasugune kõnekuju ka eesti keeles"
+    }
+  ],
+  "translation": "Tema jalad astuvad alla surma, šeoli haaravad tema sammud kinni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/5\/5-8.1792554546271.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "Tema jalad"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "astuvad alla"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "tema sammud"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "haaravad kinni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:06.271871835Z",
+  "model": "glm-5.3"
+}

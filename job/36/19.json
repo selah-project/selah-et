@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 36:19",
+  "book": "job",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שועך",
+      "rationale": "שוע tähendab nii 'varandust' (KJV, JPS) kui 'hüüdmist\/appellatsiooni' (ASV: 'kas sinu hüüe kehtib')."
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא בצר",
+      "rationale": "Võib lugeda 'raua abil, mitte kullaga' või 'kitsikuses, mitte kullaga' — בצר juur tähendab ka 'kitsas'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "küsimelaused",
+      "rationale": "Kaks lõpetamata küsimust jätvad vastuse kõneleja tahtlikult lahti."
+    }
+  ],
+  "translation": "Kas sinu varandus kehtib ⟨siis⟩, kui ⟨pole⟩ kullagi, ja kõik jõuvarud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/36\/17-20.1792555647743.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היערך",
+      "gloss": "kas seatakse"
+    },
+    {
+      "surface": "שועך",
+      "gloss": "sinu varandus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "kullagi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "מאמצי",
+      "gloss": "jõuvarud"
+    },
+    {
+      "surface": "כח",
+      "gloss": "jõu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:27.744128724Z",
+  "model": "glm-5.3"
+}

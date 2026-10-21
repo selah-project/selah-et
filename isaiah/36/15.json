@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצל יצילנו",
+      "rationale": "Sama juure kordus — 'päästab, küll päästab'; eesti keeles jääb kordus osaliselt kaduma"
+    },
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Eesti omadussõna nõuab ⟨see⟩-täiendit, heebrea הזאת kannab artikli-funktsiooni"
+    }
+  ],
+  "translation": "Ja ärgu lasku Hiskija ⟨את⟩ teil loota Jahve peale, öeldes: Jahve päästab, jah päästab meid; ⟨see⟩ linn ei antud Assuri kuninga kätte.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/36\/13-16.1792547287167.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ja ärgu"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "lasku loota"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teil",
+      "marks": "Hiskija"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "päästab"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "päästab meid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "antud"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linn"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assuri"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:07.169485524Z",
+  "model": "glm-5.3"
+}

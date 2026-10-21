@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kes kutsus",
+      "rationale": "Subjekt puudub: kas prohvetid\/provetid kutsusid (KJV, JPS) või Baalid kutsusid neid endale (mõni tõlgendus); heebrea jätab tegija lahtiseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "כן",
+      "rationale": "'nõnda' või siin kvazi-adversatiivsena 'aga nemad' — otsene 'nõnda nad läksid' annaks vale mõtte"
+    }
+  ],
+  "translation": "Nad kutsusid neid, aga nemad läksid nende palgest: Baalidele nad ohverdavad ja nikerdkujudele nad suitsutavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/11\/1-4.1792551027767.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "nad kutsusid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "aga nemad"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "läksid"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "nende palgest"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalidele"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "nad ohverdavad"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "ja nikerdkujudele"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "nad suitsutavad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:27.768473027Z",
+  "model": "glm-5.3"
+}

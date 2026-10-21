@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahhiks' — tuul\/vaim\/hingus ühes sõnas; ei asendata 'Vaimuga' ega 'tuulega' üksi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lugeja",
+      "rationale": "Kaks retoorilist küsimust tõmbavad kuulaja psalmi mõttekäiku"
+    }
+  ],
+  "translation": "Kuhu ma läheksin sinu ruahhist, ja kuhu ma sinu palge eest põgeneks?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/5-8.1792554290274.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kuhu"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ma läheksin"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "sinu ruahhist"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ja kuhu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sinu palge eest"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ma põgeneks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:50.275564343Z",
+  "model": "glm-5.3"
+}

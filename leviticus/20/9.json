@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Infinitiiv-absoluut + käänetav verb: 'surma ta sureb' — kindluse sundimäärang, tähelepanelik kordus."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דמיו בו",
+      "rationale": "Sõna-sõnalt 'tema veri temas' — juriidiline väljend: vastutus langeb temale endale."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש איש",
+      "rationale": "Topelt 'mees, mees' — jaotav kordus: 'iga üksik mees', eesti keeles raske täpselt edasi anda."
+    }
+  ],
+  "translation": "Sest iga mees, iga mees, kes needab ⟨את⟩ oma isa ja ⟨את⟩ oma ema — surma ta sureb; oma isa ja oma ema ta on neednud, tema veri ⟨on⟩ tema peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/20\/9-12.1792539510116.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iga mees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iga mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "needab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma isa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oma ema"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "oma ema"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ta sureb"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ja oma ema"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ta on neednud"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "tema veri"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema peal"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:30.116975503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea lause algab suunaga אל האשה אמר — tegija (Jahve Elohim eelmisest salmist) puudub, eesti nõuab subjekti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרבה ארבה",
+      "rationale": "Infinitiiv-absoluut + imperfekt kordus: 'suurendades suurendan' — heebrea intensiiv säilitatud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "toidad",
+      "gloss-alternative": "",
+      "rationale": "תלדי on 'sünnitad'; glossis 'toidad' asendatud — parandatud: 'sünnitad'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תשוקתך",
+      "rationale": "'Su iha on su mehe poole' — tõlgitakse ka 'su igatsus on su mehe järele' või 'su himu on su mehe vastu'; sõna esineb Tanahhis vaid kolm korda."
+    }
+  ],
+  "translation": "Naisele ⟨ta⟩ ütles: Suurendades suurendan su valu ja su rasedust; valuga sa toidad lapsi; ja su iha on su mehe poole ja tema valitseb sinu üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de587e3961d7380c4318bb6c10222ab44911e8d0eafc7146027ccee031e19888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/3\/13-16.1792537324722.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Naisele"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "suurendades"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "suurendan"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "su valu"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "ja su rasedust"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "valuga"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "sünnitad"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lapsi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ... poole"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "su mehe"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "su iha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "valitseb"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu üle"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:04.723433042Z",
+  "model": "glm-5.3"
+}

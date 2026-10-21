@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 13:2",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tulnud vastu",
+      "rationale": "קדמו 'ette tulema, vastu minema' — leiva ja veega vastuvõtmise puudumine (vt 5Ms 23:5)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ag",
+      "rationale": "heebrea mõistevaw-side ו פööratud vastandavaks 'agaks', nagu kjv 'howbeit'"
+    }
+  ],
+  "translation": "sest nad ei tulnud vastu Jisraeli ⟨את⟩ poegi leiva ja veega, ja nad palkasid nende vastu ⟨את⟩ Bilami neid needma, aga meie Elohim pööras needuse õnnistuseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/13\/1-4.1792557139557.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "tulnud vastu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli poegi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "leiva"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ja veega"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ja palkasid"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nende vastu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilami"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilami"
+    },
+    {
+      "surface": "לקללו",
+      "gloss": "neid needma"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "pööras"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "needuse"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "õnnistuseks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:32:19.558626487Z",
+  "model": "glm-5.3"
+}

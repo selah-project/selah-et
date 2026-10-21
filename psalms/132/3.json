@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kui ... kui",
+      "rationale": "Heebrea אם-tingimus vandetundes tähendab 'ei tee seda', eesti paneb kiire osalause või eituse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם ... אם",
+      "rationale": "Korduv tingimuslik 'kui' raamib vannet, paralleelsus telk\/voodi"
+    }
+  ],
+  "translation": "Kui ma astun oma koja telki, kui ma tõusen oma voodi laotise peale —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/1-4.1792554239894.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "astun"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "telki"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "oma koja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "tõusen"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "voodi"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "mu laotise"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:59.895686469Z",
+  "model": "glm-5.3"
+}

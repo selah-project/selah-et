@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hävitasid",
+      "rationale": "כלה 'lõpetama, ära kulutama' — 'peaaegu nad lõpetasid mu' laiem kui 'hävitasid'"
+    }
+  ],
+  "translation": "Peaaegu hävitasid nad mind maal, aga mina ei jätnud maha sinu määrusi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/85-88.1792554042986.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "peaaegu"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "hävitasid nad mind"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aga mina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "jätnud maha"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sinu määrusi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:42.987009872Z",
+  "model": "glm-5.3"
+}

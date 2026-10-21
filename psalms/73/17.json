@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sisse⟩",
+      "rationale": "Eesti keeles vajalik suund, heebrea אל jätab selle liidesse kandmata"
+    },
+    {
+      "kind": "elision",
+      "subject": "לְ",
+      "rationale": "eelasettav ל ei saa eesti keeles eraldi sõnaks"
+    },
+    {
+      "kind": "mystery",
+      "subject": "nende lõpp",
+      "rationale": " saladuslik pööre: vastus saabub alles pühakojas, mitte mõtlemises"
+    }
+  ],
+  "translation": "Kuni ma tulin Elohi pühakodadesse, sain ma aru nende lõpust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/17-20.1792553337320.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ma tulin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sisse⟩"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "pühakodadesse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "sain ma aru"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "nende lõpust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:57.321288302Z",
+  "model": "glm-5.3"
+}

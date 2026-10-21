@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישובו",
+      "rationale": "Aktiiv 'pöörduvad tagasi' vs passiiv 'tagasi pööratakse' (nagu KJV 'shall be turned')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול ei ole karistuspõrgu vaid surnute maailm"
+    }
+  ],
+  "translation": "Pöörduvad tagasi pahad šeoli, kõik rahvad, kes unustavad Elohimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/17-20.1792552296668.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Pöörduvad tagasi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "pahad"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "šeoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "kes unustavad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:36.669499449Z",
+  "model": "glm-5.3"
+}

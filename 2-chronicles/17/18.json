@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub verbi, eesti keel lisab kopeeri"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ועל ידו",
+      "rationale": "Sõna-sõnalt 'ja ta käe peal' — 'tema kõrval\/käe all'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sada kaheksakümmend tuhat",
+      "rationale": "Vägede loendi arv, antud täpselt nagu heebrea keeles"
+    }
+  ],
+  "translation": "Ja tema kõrval ⟨oli⟩ Jehoosabad, ja temaga sada kaheksakümmend tuhat sõjaväest välja-varustatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/17\/17-19.1792557911339.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ja ... kõrval"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tema (käe all)"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jehoosabad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ja temaga"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "kaheksakümmend"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "välja-varustatud"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sõjaväest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:11.341459305Z",
+  "model": "glm-5.3"
+}

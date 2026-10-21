@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lonkama",
+      "rationale": "לצלע tähendab otseselt 'lonkama' (נכה לצלע, 2Sm 4:4); paljud tõlked pehmendavad 'kukkuma valmis' (asv, bsb)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "valu",
+      "rationale": "מכאוב on tugev valu\/piin, mitte üldine 'kurbus' (geneva 'sorow')"
+    }
+  ],
+  "translation": "Sest mina olen valmis lonkama, ja mu valu on alati minu ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/38\/17-20.1792552746520.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "lonkama"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "olen valmis"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ja mu valu"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "minu ees"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:06.521357876Z",
+  "model": "glm-5.3"
+}

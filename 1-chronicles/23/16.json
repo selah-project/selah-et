@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebreas puudub koopula; eesti keeles vajalik"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראש",
+      "rationale": "'peamine\/pealik' vs 'esimene' — kas Ševuel oli perekonna pea või vanim poeg"
+    }
+  ],
+  "translation": "Geršomi pojad: Ševuel ⟨oli⟩ peamine.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2bfcbf9ea098676d27eb052194404ddda41955ff848b75528cbbfb4fd6d691ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/23\/13-16.1792557460871.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Geršomi"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Ševuel"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "peamine"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:40.873138457Z",
+  "model": "glm-5.3"
+}

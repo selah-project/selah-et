@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kohiseku",
+      "rationale": "רעם on müristama\/lööma (nagu müka) — 'kohisema' on lähim, aga toorus kaob."
+    },
+    {
+      "kind": "crux",
+      "subject": "תבל",
+      "rationale": "'Asustatud maa, ilm' — 'maailm' on kõige tavalisem, aga 'ilm' on vanas eesti Piiblis."
+    }
+  ],
+  "translation": "Kohiseku meri ja kõik, mis teda täidab; maailm ja kõik, kes seal elavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/98\/5-8.1792553706901.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Kohiseku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ja kõik, mis teda täidab"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "maailm"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ja kõik, kes elavad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:06.901970073Z",
+  "model": "glm-5.3"
+}

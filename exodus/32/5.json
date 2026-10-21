@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeegeldusverb; lause on nimetav fraas 'püha Jahvele homme'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "selle ette",
+      "rationale": "לפניו sõnasõnalt 'selle palge ette'; 'palge' kujund on eesti tekstis silutud"
+    },
+    {
+      "kind": "crux",
+      "subject": "ja Aharon nägi seda",
+      "rationale": "וירא: 'nägi (seda)' — mida Aharon nägi, ei ole öeldud: vasikat või rahva rõõmu; tekst jätab objekti lisamata"
+    }
+  ],
+  "translation": "Ja Aharon nägi seda ja ehitas altari selle ette, ja Aharon kuulutas ning ütles: püha Jahvele ⟨on⟩ homme.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a86d8070e73ea6d61ab0898d7dc1f3ffd2ceb56b1188d97681b29f5c68199caa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/32\/5-8.1792538931898.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ja ehitas"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "selle ette"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kuulutas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "חג",
+      "gloss": "püha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "homme"
+    }
+  ],
+  "timestamp": "2026-10-20T23:28:51.898921304Z",
+  "model": "glm-5.3"
+}

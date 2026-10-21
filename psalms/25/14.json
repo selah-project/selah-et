@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Saladus\/nõupidamine — Jahve kogukondlike nõuande saladus on nende päralt, kes teda kardavad."
+    },
+    {
+      "kind": "crux",
+      "subject": "סוד",
+      "rationale": "KJV 'secret', ASV 'friendship', JPS 'counsel' — sõna tähendab nii nõupidamiskogu kui usalduslikku saladust."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koppel; eesti keele jaoks lisatud ⟨on⟩."
+    }
+  ],
+  "translation": "Jahve saladus on tema kartjate jaoks, ja tema leping, et neile teada anda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b3e4243da4d4bac908d2baa0e00eaae797cc11891bce2c4ea54a8cb4ac74fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/25\/14-15.1792558576422.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "saladus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tema kartjate jaoks"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ja tema leping"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "et neile teada anda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:16.424536020Z",
+  "model": "glm-5.3"
+}

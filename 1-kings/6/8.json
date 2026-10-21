@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "külgkamber",
+      "rationale": "צלע on sõna-tähenduses 'ribi\/küverdas külg'; siin hoone küljekamber — kuju 'kamber' jääb."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בלולים",
+      "rationale": "Spiraal-sammud — selles tähenduses ainult siin Tanahhis; 'keerdtreppe' hoiab pildi."
+    },
+    {
+      "kind": "crux",
+      "subject": "parem õlg",
+      "rationale": "כתף הבית 'maja õlg' = hoone külg; JPS loeb 'madalaim rida', sest התיכנה eeldab kolme taset, kuid loetelu algab alles keskmisest."
+    },
+    {
+      "kind": "measurement",
+      "subject": "korrused",
+      "rationale": "Järgnev hoone tasandite loendus: keskmine, kolmas — ehituse mõõteline kirjeldus."
+    }
+  ],
+  "translation": "Keskmine külgkamber sai oma avause ⟨Sisseskäik⟩ ⟨asus⟩ maja paremas õlas, ja keerdtreppe pidi tõusti keskmisele, ja keskmiselt kolmandale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9ea059472710b9ac5faeba7f1210926238e30c2bc979a636e3cece50c16c4900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/6\/8-8.1792558288557.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "avaus"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "külgkamber"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "keskmine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "viis"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "õla"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "paremas"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "ja keerdtreppe"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "tõusti"
+    },
+    {
+      "surface": "על",
+      "gloss": "pidi"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "keskmisele"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ja keskmiselt"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "keskmise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "kolmandale"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:28.557983758Z",
+  "model": "glm-5.3"
+}

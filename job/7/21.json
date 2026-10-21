@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ושחרתני",
+      "rationale": "'Šahhar' tähendab 'koitma, varakult otsima' — KJV 'seek me in the morning'; 'varakult\/käsis otsima' pilt, mitte lihtsalt 'otsima'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי עתה",
+      "rationale": "'kī ʿattā' — 'sest nüüd' (ma suren varsti) või põhjendav küsimusele: miks andestada, kuna ma suren niipea igal juhul."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואינני",
+      "rationale": "Lõppvormitus: 'ja mind ei ole' — kolm sõna, millega kogu Iiobi kõne vaibub; tõlkes lisan 'amaj' täpsustuseks."
+    }
+  ],
+  "translation": "Ja miks sa ei kanna ⟨את⟩ mu mässu ega lase mööda ⟨את⟩ mu pahateost? Sest nüüd ma heidan ⟨ma⟩ tolmu, ja otsid mind varsti — ja mind ei ole enam.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "229a8f79207f463e03495fdfde791c55c65d023fdeaa083af382fa18be1ab479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/7\/21-21.1792555094479.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Ja miks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kanna"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mu mässu"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ega lase mööda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu pahateost"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mu pahateost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "tolmu"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "heidan"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "otsid mind varsti"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ja mind ei ole enam"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:14.479569621Z",
+  "model": "glm-5.3"
+}

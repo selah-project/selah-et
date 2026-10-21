@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Heebrea puudub tegijasubjekt šuum-verbi juures; eesti keel nõuab lauses tegevajat, lisatud sulgudesse."
+    },
+    {
+      "kind": "crux",
+      "subject": "hämarik",
+      "rationale": "נשף: 'hämarik, õhtu', tähendab siin kas õhtut, mida ihaldati (pidu?), või kogu mu ihaldatud aja — tõlkijad lahenevad erinevalt."
+    }
+  ],
+  "translation": "Mu süda ekslab, õudus on mind ehmunud; ⟨את⟩ hämariku, mu ihalduse, on ⟨tema⟩ pannud mulle värinaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/21\/1-4.1792547011124.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "ekslab"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "õudus"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "on mind ehmunud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hämariku, mu ihalduse"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "hämariku"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "mu ihalduse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "on pannud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "värinaks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:31.125500741Z",
+  "model": "glm-5.3"
+}

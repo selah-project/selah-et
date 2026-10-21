@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "keda",
+      "rationale": "אשר viitab eelmise salmi kolmikule (Jisraelile koos Mitsraimi ja Assuriga) — üksikkollektiiv või mitmus, tõlkijad lahendavad erinevalt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו\/ברוך",
+      "rationale": "sama juur ברך kordub: 'õnnistanud' ja 'õnnistatud' — kajad eesti tõlkes samast tüvest"
+    }
+  ],
+  "translation": "keda õnnistanud on Jahve Tsevaot, öeldes: Õnnistatud on mu rahvas Mitsraim ja mu käte töö Assur ja mu pärand Jisrael.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a4d499442ab2930a8af8ae96135fa91a6c719c5b2eac5c448d62058fd12e915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/25-25.1792546842932.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "õnnistanud on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "õnnistatud on"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja mu käte töö"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mu käed"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ja mu pärand"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T01:40:42.933378410Z",
+  "model": "glm-5.3"
+}

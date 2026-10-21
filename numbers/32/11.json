@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 32:11",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kui nad näevad",
+      "rationale": "vanne algab tingivaga אם 'kui nad näevad' — heebrea vandestruktuur, mida tõlked tihti ümber järjestavad 'kindlasti ei näe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maa",
+      "rationale": "האדמה on 'pinnas\/muld' (punakas muld), erinevalt הארץ 'maa' eelmises salmis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kakskümmend aastat ja ülespoole",
+      "rationale": "vanusepiir loendamise mõõduna"
+    }
+  ],
+  "translation": "Kui nad näevad mehed, kes läksid üles Mitsraimist, pojast kakskümmend aastat ja ülespoole, ⟨את⟩ maa, millele ma olen vandunud Avrahamile, Jitshakile ja Jaakovile — sest nad ei olnud täielikult minu järel:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37d32527465632209b7bff079bab51d689d70a4200a376f03f4df1cd57ce24cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/32\/9-12.1792540418561.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "näevad"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kes läksid üles"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "pojast"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja ülespoole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millele"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ma olen vandunud"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamile"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jitshakile"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ja Jaakovile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "olnud täielikult"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järel"
+    }
+  ],
+  "timestamp": "2026-10-20T23:53:38.562988968Z",
+  "model": "glm-5.3"
+}

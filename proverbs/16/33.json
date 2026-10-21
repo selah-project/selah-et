@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopolat, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "liisk",
+      "rationale": "גורל on sõna-sõnalt 'kivike' — liiskuheiskamise kivid"
+    }
+  ],
+  "translation": "Süles heidetakse ⟨את⟩ liisk; aga kogu tema otsus ⟨on⟩ Jahvelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3cd67df8c2b1466b247e47f0a57072167f5bc2c2a8d284b67124f5a90e28a1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/33-33.1792554661915.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "süles"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "heidetakse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liisk"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "liisk"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "agA Jahvelt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "tema otsus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:01.916034574Z",
+  "model": "glm-5.3"
+}

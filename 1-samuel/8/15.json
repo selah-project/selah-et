@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סריסיו",
+      "rationale": "Sõna tähendab sõna-sõnalt 'tema kastreerituid\/õunukaid', kuid tähendab ka kõrgemat õukonda; valisin 'õukondlased'."
+    }
+  ],
+  "translation": "Ja teie seemnest ja teie viinamäedest ta võtab kümnendi ja annab oma õukondlastele ja oma sulastele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/8\/13-16.1792543809158.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "ja teie seemnest"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ja teie viinamäedest"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ta võtab kümnendi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja annab"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "oma õukondlastele"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ja oma sulastele"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:09.161140028Z",
+  "model": "glm-5.3"
+}

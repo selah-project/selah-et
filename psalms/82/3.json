@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתום",
+      "rationale": "Sõna-sõnalt 'ja orb' — 'üksik, isa kaotanud'; 'orb' eesti keeles kannab kitsamat tähendust."
+    },
+    {
+      "kind": "you",
+      "subject": "kohtunikele",
+      "rationale": "Jätkuv otsene käsk kogu liikmetele."
+    }
+  ],
+  "translation": "Mõistke kohu nõrga ja üksiku üle, rõhutu ja vaese õigeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/82\/1-4.1792553591259.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Mõistke kohut"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nõrga"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ja üksiku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "rõhutu"
+    },
+    {
+      "surface": "וורש",
+      "gloss": "ja vaese"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "õigeks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:11.261039710Z",
+  "model": "glm-5.3"
+}

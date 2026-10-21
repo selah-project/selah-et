@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea kõnelauses puudub kopeela; eesti keel vajab seda"
+    },
+    {
+      "kind": "invitation",
+      "subject": "õnnis",
+      "rationale": "Psalm avaneb õnnistuseshüütisega, mis köidab kuulaja"
+    }
+  ],
+  "translation": "Õnnis ⟨on⟩ see, kes toimib targalt vaese suhtes; kurja päeval päästab teda Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e53e1dd8fb6f80f12d139fd08cced983696460a0f4267e9ce2e96ef1870e496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/2-3.1792558568486.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Õnnis"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "toimib targalt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suhtes"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "päästab teda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:08.494552819Z",
+  "model": "glm-5.3"
+}

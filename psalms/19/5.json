@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mõõdunöör",
+      "rationale": "קום: 'mõõdunöör\/joon' vs LXX 'hääl' (fōnē), mida järgivad BSB jt."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebreas puudub subjekt; tegija on Jumala loomise kontekstis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mõõdunöör",
+      "rationale": "Jumala au kuulutatakse mööda maa mõõdujoont kogu ilmale."
+    }
+  ],
+  "translation": "Kogu maale läheb nende mõõdunöör ja ilmamaa äärele nende sõnad; päikesele on ⟨ta⟩ telgi pannud nende sisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/19\/5-8.1792552458058.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "läheb"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mõõdunöör"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ja äärele"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ilmamaa"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "nende sõnad"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "päikesele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "on pannud"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telgi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nende sisse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:18.059587059Z",
+  "model": "glm-5.3"
+}

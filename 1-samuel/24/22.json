@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם vannetuses",
+      "rationale": "Heebrea vannete tingimusvormel: 'kui sa teed...' tähendab 'ära tee'; tõlkes säilitatud tingimusena, nagu heebrea ütleb"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Sauli nõue",
+      "rationale": "Saul nõuab Davidilt vandust — käsklvorm 'vannu mulle'"
+    }
+  ],
+  "translation": "Ja nüüd, vannu mulle Jahve poolt: kui sa lõikad ära ⟨את⟩ mu seemne pärast mind ja kui sa hävitad ⟨את⟩ mu nime mu isa majast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf9976c7c73c9492fbdd668ba968e4763a441212441a36b7da07b6d83dbf4915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/24\/21-23.1792544247192.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ja nüüd"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "vannu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve poolt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "sa lõikad ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu seemne"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mu seemne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast mind"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "sa hävitad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu nime"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mu nime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "majast"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    }
+  ],
+  "timestamp": "2026-10-21T00:57:27.193800654Z",
+  "model": "glm-5.3"
+}

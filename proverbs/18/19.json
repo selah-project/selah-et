@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 18:19",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on, võita",
+      "rationale": "Eesti keel vajab kõpulat ja infinitiivi, mida heebrea kaudselt ütleb"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפשע",
+      "rationale": "'(vend) kelle vastu on üle astutud' (soolvatud vend, KJV\/JPS) või 'kes on üle astunud' (äge taganeja) — heebrea passiiv\/aktiiv on ähmav"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מקרית עז",
+      "rationale": "Sõna-sõnalt 'tugevast linnast'; mem on põhimõtteliselt vrdlus 'kui'"
+    }
+  ],
+  "translation": "Vend, kes on taganenud, ⟨on⟩ raskem ⟨võita⟩ kui tugev linn, ja vaidlused ⟨on⟩ nagu palee puittalad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dca0a25dce8811f37fe2f0a35fd7ada92c83b5452e0d02d94c38f34edc6a65aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/18\/17-20.1792554791500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "vend"
+    },
+    {
+      "surface": "נפשע",
+      "gloss": "kes on taganenud"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "kui linn"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tugev"
+    },
+    {
+      "surface": "ומדונים",
+      "gloss": "ja vaidlused"
+    },
+    {
+      "surface": "כבריח",
+      "gloss": "nagu puittalad"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "palee"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:11.501330363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "kopula, mida heebrea ei väljenda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמוט\/מוט",
+      "rationale": "'kõikuma' — sama verbi kordus üle salmi, tasakaalu kujund"
+    }
+  ],
+  "translation": "Ainult tema ⟨on⟩ mu kalju ja mu pääste, mu varjuline kõrgus ⟨on⟩ tema — ma ei kõigu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/62\/5-8.1792553076595.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ja mu pääste"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mu varjuline kõrgus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ma kõigu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:36.598601908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nad⟩",
+      "rationale": "eesti keel nõuab päästjaks subjekti — salmi 11 mõistus ja arusaamine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pööratud asju",
+      "rationale": "תהפכות juurest הפך 'pöörama': sõnad, mis on ümber pööratud, pahupidised"
+    }
+  ],
+  "translation": "et ⟨nad⟩ päästaksid sind kurjalt teelt, mehest, kes räägib pööratud asju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/2\/9-12.1792554431024.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "et päästaksid sind"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "teelt"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurjalt"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "mehest"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kes räägib"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "pööratud asju"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:11.025245610Z",
+  "model": "glm-5.3"
+}

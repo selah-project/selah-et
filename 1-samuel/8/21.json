@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kordas",
+      "rationale": "וידברם tähendab sõna-sõnalt 'ja rääkis need'; 'kordas' annab inglise\/eesti tavatõlke"
+    }
+  ],
+  "translation": "Ja Šemuuel kuulis ⟨את⟩ kõiki rahva sõnu ja kordas need Jahve kõrvus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/8\/21-22.1792543804849.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõiki rahva sõnu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sõnu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ja kordas need"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kõrvus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:04.850964508Z",
+  "model": "glm-5.3"
+}

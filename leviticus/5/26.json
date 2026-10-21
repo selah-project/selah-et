@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 5:26",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני יהוה",
+      "rationale": "otsetõlge 'Jahve palge ees', mitte 'Jahve ees' — näo kujund hoitud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩\/⟨temale⟩",
+      "rationale": "eesti keele kohustuslikud asesõnad, heebrea lühiorm puudub"
+    }
+  ],
+  "translation": "Ja preester pihib ⟨tema⟩ eest Jahve palge ees, ja ⟨temale⟩ antakse andeks ühe kohta kõigest, mida ta teeb, et selles süüd saada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/5\/25-26.1792539121874.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "pihib"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨tema⟩ eest"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "antakse andeks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨temale⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ühe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ta teeb"
+    },
+    {
+      "surface": "לאשמה",
+      "gloss": "süüd saada"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selles"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:01.875958998Z",
+  "model": "glm-5.3"
+}

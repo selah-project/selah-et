@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea lause omapäraselt ei väljenda kopeelat, eesti keel nõuab seda."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגר",
+      "rationale": "'kartis' (KJV) vs 'sai arukaks \/ jäi tahedaks' (JPS 'stood in awe') — gvr tähendab nii kartust kui võõrandumist."
+    }
+  ],
+  "translation": "Ja Shaul nägi, et ta ⟨on⟩ väga edukas-targalt-temperlik, ja ta kartis teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e4b14f2836feb455bdd817b3ffdfc37829c269a7813f5690645f4c833be3912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/18\/13-16.1792544049927.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "edukas-targalt"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ja kartis"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:09.929386648Z",
+  "model": "glm-5.3"
+}

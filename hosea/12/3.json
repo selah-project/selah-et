@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "riid",
+      "rationale": "ריב on õiguslik 'vaidlus\/kohtuasi' — Jahve kui süüdistaja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "karistatakse",
+      "rationale": "פקד 'külastama\/järele valvama' — ka neutraalne 'tuleneb üle'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כדרכיו כמעלליו",
+      "rationale": "paralleelkordus: teed \/ teod — peegelrütm"
+    }
+  ],
+  "translation": "Ja Jahvel on riid Juudaga, ja Jaakobit karistatakse tema teede järgi; tema tegude järgi tasutakse talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/12\/1-4.1792551076535.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ja riid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudaga"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "ja karistatakse"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobit"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "tema teede järgi"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "tema tegude järgi"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "tasutakse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:16.537508647Z",
+  "model": "glm-5.3"
+}

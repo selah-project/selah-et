@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "julgus",
+      "rationale": "בכסל tähendab otseselt 'nimme, rasva' — kehakoht, kust jõud ja kindlus tulevad"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jahve on sinu külgmaal",
+      "rationale": "בְּ + kohaline tähendus: 'on sinu küljel' nagu YLT 'at thy side'"
+    }
+  ],
+  "translation": "Sest Jahve on sinu julgus ja ta hoiab su jalgu püünisest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/25-28.1792554493770.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "on"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "sinu julgus"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ja ta hoiab"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "su jalgu"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "püünisest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:13.771154722Z",
+  "model": "glm-5.3"
+}

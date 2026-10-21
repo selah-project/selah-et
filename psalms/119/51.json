@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aga",
+      "rationale": "Heebrea jätab vastandava sidesõna ära; juxtapositsioon tähistab kontrasti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "narrima",
+      "rationale": "הליצ tähendab sõnasõnalt 'suud moodi tegema', pilkama; eesti kasutab leebemat kõnekäändu."
+    }
+  ],
+  "translation": "Ülbused on mind väga narrinud, ⟨aga⟩ sinu Toorast ma ei ole kaldunud kõrvale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/49-52.1792554092915.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Ülbused"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "on mind narrinud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "sinu Toorast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ole kaldunud kõrvale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:32.916008143Z",
+  "model": "glm-5.3"
+}

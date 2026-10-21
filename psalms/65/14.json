@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בר",
+      "rationale": "בר on teravili, mis veel põllul seisab — 'teravili' kitsendab selle laiemat tähendust ' küps vili'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבשו\/יעטפו",
+      "rationale": "Kaks riietumisverbi (köitma\/kaitlema) kulgevad paralleelselt üle värsside 13–14: künkad, karjamaad ja orud kõik 'riietuvad'."
+    }
+  ],
+  "translation": "Karjamaad on riietunud lammaste ja kitsedega, ja orud kaetakse teraviljaga; need hüüavad ⟨rõõmust⟩, jah, nad laulavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/65\/13-14.1792553164706.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "on riietunud"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "karjamaad"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "lambad ja kitsed"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "ja orud"
+    },
+    {
+      "surface": "יעטתו",
+      "gloss": "kaetakse"
+    },
+    {
+      "surface": "בר",
+      "gloss": "teraviljaga"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "hüüavad"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jah"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "laulavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:04.707158306Z",
+  "model": "glm-5.3"
+}

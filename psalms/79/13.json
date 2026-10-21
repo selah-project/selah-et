@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopula; eesti keel nõuab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרעיתך",
+      "rationale": "'su karjatus' — מרעית tähendab karjatamist\/karjamaad; pilt on Jahve kui karjane"
+    }
+  ],
+  "translation": "Ja meie, ⟨on⟩ su rahvas ja kariloomad su karjamaalt, täname sind igavesti, põlvest põlve jutustame sinu kiitust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/79\/13-13.1792553383393.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "ja meie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su rahvas"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ja kariloomad"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "su karjamaalt"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "täname"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "põlve"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "jutustame"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sinu kiitust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:43.393752204Z",
+  "model": "glm-5.3"
+}

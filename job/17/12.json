@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אור קרוב מפני חשך",
+      "rationale": "'Valgus on ligidal pimeduse palge ees' vs KJV 'valgus on lühike pimeduse pärast' – kes on tegija, on lahtine."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Subjekt (tõenäoliselt sõbrad) on heebreas nimetata, lisatud asesõnaga."
+    }
+  ],
+  "translation": "Öö panevad nad päevaks, valgus ⟨on⟩ pimeuse palge ees ligidal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/17\/9-12.1792555258954.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "Öö"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päevaks"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "panevad nad"
+    },
+    {
+      "surface": "אור",
+      "gloss": "valgus"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ligidal"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimeuse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:58.955438634Z",
+  "model": "glm-5.3"
+}

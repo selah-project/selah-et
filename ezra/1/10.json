@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "loend",
+      "rationale": "Jätkuv arvuline loend: 30 + 410 + 1000."
+    },
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "Sõna-sõnalt 'teise järgu (duplikaadid)'; tõlkijad lahku: 'teist järku' (KJV, JPS) või 'paaris- \/ vastavuse järgi' (BSB 'matching')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kausid",
+      "rationale": "כפורי on sõna-sõnalt 'kaantega nõud' (kaetud peekrid), 'kausid' jätab kuju lihtsustatuks."
+    }
+  ],
+  "translation": "Kuldkausid kolmkümmend, hõbekausid teist järku neli sadat ja kümme, muid nõusid tuhat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/1\/9-11.1792556590324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "kausid"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kuld"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmkümmend"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "kausid"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbe"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "teist järku"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neli"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sadat"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ja kümme"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "nõusid"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "muid"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T04:23:10.324912818Z",
+  "model": "glm-5.3"
+}

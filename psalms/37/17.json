@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרועות תשברנה",
+      "rationale": "Lühike sõnamäng: sirgeks sirutatud käed (jõud) just purunevad — jõu sõna on ise murtud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "käed",
+      "rationale": "זרועות tähendab sõna-sõnalt 'käsivarred' kui jõu sümbolit."
+    }
+  ],
+  "translation": "Sest õelate käed lähevad purustatuks, aga Jahve toetab ⟨aux⟩ õiged.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/17-20.1792552756846.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "käed"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "lähevad purustatuks"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "aga toetab"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "õiged"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:16.846887145Z",
+  "model": "glm-5.3"
+}

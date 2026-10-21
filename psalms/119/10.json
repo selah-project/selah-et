@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve poole pöördumine",
+      "rationale": "Palveoretus: 'ära lase mind eksida' suunatud Jumalale."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Eesti keel nõuab öeldisega kaasa minevat asesõna, heebrea puudub."
+    }
+  ],
+  "translation": "Kogu oma südamega olen ma sind otsinud; ära lase mind eksida sinu käskudest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/9-12.1792554009269.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "oma südamega"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "olen ma sind otsinud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "lase mind eksida"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "sinu käskudest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:09.270139420Z",
+  "model": "glm-5.3"
+}

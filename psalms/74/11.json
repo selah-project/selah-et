@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nemad⟩",
+      "rationale": "כלה imperatiivil puudub heebreas objekt; KJV jätab selle ära, teised lisavad"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוקך",
+      "rationale": "sõnasõnaliselt 'sinu määratud (ala)' — roietevaheline põuelapp, üldtunnustatud 'põuest'"
+    }
+  ],
+  "translation": "Miks tõmbad tagasi sinu käe ja sinu parema käe sinu põue seest? Hävita ⟨nemad⟩!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/74\/9-12.1792553314804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "tõmbad tagasi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sinu käe"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ja sinu parema käe"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "seest"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "sinu põue"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hävita"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:34.806090536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "endale",
+      "rationale": "Eesti keeles lisatud vastaja selguseks; heebrea ütleb lihtsalt 'tehke sarnast'."
+    },
+    {
+      "kind": "crux",
+      "subject": "במתכנתו",
+      "rationale": "'Selle mõõdu\/koostise järgi' — tõlkijad jagunevad 'proportsiooni' ja 'retsepti\/valmistamisviisi' vahel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש הוא קדש",
+      "rationale": "Kordus 'püha — see on püha' rõhutab keeldu; eesti keeles kajastatud kahekordselt."
+    }
+  ],
+  "translation": "Inimese ihule ei tohi seda valada, ja selle mõõdu järgi ärge tehke endale sarnast — see ⟨on⟩ püha, pühaks see saab olema teile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ffb277de3b7e546d00bf0640ddd3b82f58c59cc04ddcd48fd100a9340ae28b3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/30\/29-32.1792538846142.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ihule"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ihule"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "valada"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "ja selle mõõdu järgi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "tehke"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sarnast"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pühaks"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "see saab olema"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    }
+  ],
+  "timestamp": "2026-10-20T23:27:26.144107299Z",
+  "model": "glm-5.3"
+}

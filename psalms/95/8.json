@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Meriiva ja Massa",
+      "rationale": "Paikade nimed 2Ms 17:7 ja 5Ms 6:16; tähendavad 'tüli' ja 'katsed' — sõnamäng jäädes nimedeks"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Otsene keeld-käsk: äge kõvendage oma südant"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõrbes",
+      "rationale": "מדבר on 'karjamaa\/laubane maa', eesti 'kõrb' kitsendab tähendust"
+    }
+  ],
+  "translation": "Äge kõvendage ⟨את⟩ oma südant nagu Meriivas, nagu Massa päeval kõrbes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/95\/5-8.1792553735679.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "äge"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "kõvendage"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "⟨את⟩ oma südant"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "nagu Meriivas"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nagu päeval"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:35.680275324Z",
+  "model": "glm-5.3"
+}

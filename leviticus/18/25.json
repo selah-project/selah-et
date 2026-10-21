@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "oksendas",
+      "rationale": "קוא 'oksendama' — maa pildiväljend rahvaste väljaheidmise kohta, jäetakse sõna-sõnalt alles"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve kõne Jisraelile",
+      "rationale": "kõne teisele isikule, kes räägib maa saatusest ammendamatu metafoorina"
+    }
+  ],
+  "translation": "Ja maa muutus ebapuuhtaks, ja ma külastasin selle pahatead selle peal, ja maa oksendas ⟨את⟩ oma elanikud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/18\/25-28.1792539406841.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ja muutus ebapuuhtaks"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ja ma külastasin"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "selle pahatead"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "selle peal"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ja oksendas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma elanikud"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "oma elanikud"
+    }
+  ],
+  "timestamp": "2026-10-20T23:36:46.842390154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb heebrea kõnega, mitte 'halastus' ega 'armastus' üksi"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחקים",
+      "rationale": "'pilved' vs 'tihked taevalaged' — sõna tähendab peeneks peenestatud, õhku tõmmatut"
+    }
+  ],
+  "translation": "Sest suur on taeva kohal sinu hesed ja pilvedeni sinu tõde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/5-8.1792553916648.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sinu hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja kuni"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pilvedeni"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinu tõde"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:36.649229968Z",
+  "model": "glm-5.3"
+}

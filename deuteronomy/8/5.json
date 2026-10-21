@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Moshe pöördub otseselt Jisraeli poole: 'sa tead', 'su Elohim', 'sind kasvatab'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ייסר",
+      "rationale": "'kasvatab\/instrueerib' vs 'karistab\/tõsib' — sama juur mõlemas salmis; valitud õpetaval tähendusel koos karistuse varjundiga."
+    }
+  ],
+  "translation": "Ja sa tead koos oma südamega, et nõnda nagu mees kasvatab ⟨את⟩ oma poega, nõnda Jahve, su Elohim, sind kasvatab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/8\/5-8.1792540783052.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ja sa tead"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "oma südamega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nõnda nagu"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "kasvatab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma poega"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oma poega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "sind kasvatab"
+    }
+  ],
+  "timestamp": "2026-10-20T23:59:43.053199398Z",
+  "model": "glm-5.3"
+}

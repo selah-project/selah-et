@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפלח תחתית",
+      "rationale": "sõna-sõnalt 'viil\/plit alemist (kivi)' — üldiselt mõistetud kui 'alumene jahvekivi', vrd דאבה on hapax"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פלח",
+      "rationale": "lemma 'viil\/plaat' esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצוק\/ויצוק",
+      "rationale": "sama verb kordub kaks korda — 'valatud … kõvaks valatud', löökjõud"
+    }
+  ],
+  "translation": "Tema süda on valatud nagu kivi ja kõvaks valatud nagu alamene jahvekivi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/41\/13-16.1792555737779.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "tema süda"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "on valatud"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "ja kõvaks valatud"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "nagu viil jahvekivist"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "alamene"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:57.780209369Z",
+  "model": "glm-5.3"
+}

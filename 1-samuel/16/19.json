@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "juures",
+      "rationale": "Heebrea eessõnalause בצאן on sõna-sõnalt 'karjas', eesti vajab 'karja juures'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jeessale",
+      "rationale": "Šauli kaudne otsene pöördumine Jeessale käskuga 'saada'"
+    }
+  ],
+  "translation": "Ja Šaul saatis saadikud Jeessa juurde ja ütles: Saada mulle ⟨את⟩ oma poeg David, kes on karja juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/16\/17-20.1792544089676.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "saadikud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jeessa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "saada"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oma poeg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "on karja juures"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:49.678957015Z",
+  "model": "glm-5.3"
+}

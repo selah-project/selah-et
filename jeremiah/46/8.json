@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel vajab omastavat asesõna 'oma' Heebrea puuduva possessiivi kohal."
+    },
+    {
+      "kind": "crux",
+      "subject": "עיר",
+      "rationale": "Ainsus 'linn' (KJV\/JPS) vs ASV\/BSV mitmus 'linnad' — Heebrea tekst seab ainsuse, üldistatuna kogu maale."
+    }
+  ],
+  "translation": "Mitsraim tõuseb nagu jõgi ja nagu jõed keerutavad oma veed looka; ja ta ütles: Ma tõusen, ma katan maa, ma viin hukka linna ja ⟨tema⟩ elanikud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "099de369b38be0297e87452360f8fd24011f05e5a0d1937fbdce116c97513186",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/46\/5-8.1792549147028.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "nagu jõgi"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "tõuseb"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "ja nagu jõed"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "keerutavad looka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "oma veed"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Ma tõusen"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "ma katan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "ma viin hukka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "elanikud"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tema (elanikud)"
+    }
+  ],
+  "timestamp": "2026-10-21T02:19:07.030065924Z",
+  "model": "glm-5.3"
+}

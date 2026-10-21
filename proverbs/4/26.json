@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלס",
+      "rationale": "Hapax-põhiline verb: 'kaalu\/kaalu üle' (mõtiskle, nagu KJV 'ponder') või 'tee tasandamine' (nagu ASV 'make level')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "olgu kindlalt paigas",
+      "rationale": "יכנו on püstitatud\/püsti seatud; eestis 'kindlalt paigas' edastab püsivuse, mitte püstiasendi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõne",
+      "rationale": "Käskkõne kuulajale: tasanda rada"
+    }
+  ],
+  "translation": "Tasanda oma jala rada, ja kõik su teed olgu kindlalt paigas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/4\/25-27.1792554523763.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "Tasanda"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "rada"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "oma jala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "su teed"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "olgu kindlalt paigas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:43.763830043Z",
+  "model": "glm-5.3"
+}

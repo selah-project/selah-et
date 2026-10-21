@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 36:12",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võtavad teid omaks",
+      "rationale": "וירשוך on 'nad pärandavad\/pärivad sind' — eesti 'pärandama' ei käi siin; 'kinnistama' oleks teine võimalus"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשכלם",
+      "rationale": "'neid lapsi röövima' (KJV, rõhuv kurtmine) vs 'neilt lapsi kaotama' — juur שכל tähendab nurjemist\/kaotust"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli maa\/mägedele",
+      "rationale": "Üksik 'sa' — maa kui naiselik kuju, kes sünnitab ja kaotab lapsi"
+    }
+  ],
+  "translation": "Ja ma viin teie peal inimesi — ⟨את⟩ mu rahvast Jisraeli — ja nad võtavad teid omaks, ja teie saate neile pärandiks, ja sa ei võta enam neilt lapsi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64e9d588819c13e4e36c242a7a78a2b9015ff822bbffaaa0184400878c1def50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/36\/9-12.1792550497544.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "ja ma viin"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teie peal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu rahvast Jisraeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvast"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "וירשוך",
+      "gloss": "ja nad võtavad teid omaks"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ja sa saad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "pärandiks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "sa võta enam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "לשכלם",
+      "gloss": "neilt lapsi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:41:37.545439538Z",
+  "model": "glm-5.3"
+}

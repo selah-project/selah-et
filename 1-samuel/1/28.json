@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 1:28",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאל",
+      "rationale": "Juht š-l: v27 'palve\/paluma' ja v28 'laenatud\/küsitud' (השאלתהו\/שאול) — sama juure mäng; שאול kõlab ka kuninga nime Šaul järgi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab sidesõna, heebreas puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "השאלתהו",
+      "rationale": "'Laenasin\/annetasin\/kinkisin' — KJV 'lent', YLT 'caused to be asked for'; juur שאל kannab nii palumise kui laenamise tähendust."
+    }
+  ],
+  "translation": "Ja ka mina olen ta Jahvele laenanud kõigiks päevadeks, mil ta ⟨on⟩ olemas — tema ⟨on⟩ Jahvele küsitud; ja nad kummardasid seal Jahvet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2f0a1b144e73c1c25d4ffaa11637c81cf607f9fe224e7495110a247fe88ac3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/1\/25-28.1792542297074.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ja ka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "השאלתהו",
+      "gloss": "olen ta laenanud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigiks"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "päevadeks"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mil"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨on⟩ olemas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "küsitud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja nad kummardasid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvet"
+    }
+  ],
+  "timestamp": "2026-10-21T00:24:57.077803021Z",
+  "model": "glm-5.3"
+}

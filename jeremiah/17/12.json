@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab öeldisverbi, heebrea keeles seda ei ole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aujärje",
+      "rationale": "כבוד on otseselt 'raske, kaal', ülekantult 'au, hiilgus' — kujund kaotatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "märkimatu järelklausel",
+      "rationale": "Mõned tõlked (Wycliffe) lisavad 'Israeli asupaiga', heebrea tekstis seda ei ole"
+    }
+  ],
+  "translation": "Aujärje troon, kõrgel ⟨on⟩ algusest peale, ⟨on⟩ meie pühapaiga koht.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9495845a7e53719471fcb6405bfc5429aeb679e58327a0cd27f5750e59543572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/17\/12-12.1792558399225.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "aujärje"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kõrgel"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "algusest peale"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "koht"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "meie pühapaiga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:19.226053454Z",
+  "model": "glm-5.3"
+}

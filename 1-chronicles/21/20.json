@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oliid⟩",
+      "ratioale": "heebrea partitsiip eeldab eesti keeles pöördemärki"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתחבאים",
+      "rationale": "kes peidus olid: ainult pojad (KJV) või ka Arnan koos poegadega (Wycliffe)"
+    }
+  ],
+  "translation": "Ja Arnan pöördus ringi ja nägi ⟨את⟩ inglit, ja tema neli poega ⟨oliid⟩ temaga peidus end varjamas; ja Arnan lõi nisu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/21\/17-20.1792557511358.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ja pöördus ringi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inglit"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "inglit"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "tema poega"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "peidus end varjamas"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ja Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "lõi"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "nisu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:38:31.359430638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 11:4",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אספסף",
+      "rationale": "'laast' — see sõna esineb Tanahhis ainult siin ja Nr 11:4 paralleelkohas; tegu on kogunenud segarahvastikuga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התאוו תאוה",
+      "rationale": "verb ja nimisõna samast juurest אוה — 'ihaldasid iha', kordus rõhutab, eesti keeles 'tundis himu — himu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישבו",
+      "rationale": "'pöördusid tagasi' (sõna-sõnalt) või 'jälle hakkasid' — KJV 'weep again' võtab selle ajaliseks, mitte pöördumiseks"
+    }
+  ],
+  "translation": "Ja laast, kes tema keskel oli, tundis himu — himu, ja nad pöördusid tagasi ja nutsid ka Jisraeli pojad ning ütlesid: Kes annab meile liha süüa?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/11\/1-4.1792539939215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאספסף",
+      "gloss": "ja laast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "tema keskel"
+    },
+    {
+      "surface": "התאוו",
+      "gloss": "tundis himu"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "himu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ja pöördusid tagasi"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ja nutsid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja ütlesid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "annab meile süüa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    }
+  ],
+  "timestamp": "2026-10-20T23:45:39.216838280Z",
+  "model": "glm-5.3"
+}

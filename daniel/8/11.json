@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "התמיד",
+      "rationale": "'pidev' — omadussõna, millele tõlked lisavad 'ohver'; heebrea jätab nimetuks"
+    },
+    {
+      "kind": "crux",
+      "subject": "וממנו הרים",
+      "rationale": "'temalt võeti ära' (midagi) — heebrea predikaat passiivne ja objekt puudub; KJV 'by him' loeb teisiti"
+    }
+  ],
+  "translation": "Ja isegi väe vürsti vastu ülendas see end, ja temalt võeti ära pidev ⟨ohver⟩, ja tema pühapaiga ase heideti maha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/8\/9-12.1792556422662.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "ja isegi...vastu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vürsti"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "väe"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ülendas see end"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "ja temalt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "võeti ära"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "pidev ⟨ohver⟩"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "ja heideti maha"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ase"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "tema pühapaiga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:22.663058052Z",
+  "model": "glm-5.3"
+}

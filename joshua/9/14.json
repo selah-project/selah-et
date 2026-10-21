@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Jahve suud küsima",
+      "rationale": "פי יהוה 'Jahve suu' = Jumala tahte küsimine; sõnasõnaline 'suu' on hoitud"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצידם",
+      "rationale": "'nende varustusest' vs 'nende tõestuse kohta' — heebrea ציד võib tähendada nii saaki kui vastuseisu"
+    }
+  ],
+  "translation": "Ja mehed võtsid ⟨את⟩ nende varustusest, aga Jahve suud nad ei küsinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e7daa4ee37735a371b6d43300e557172430840b51ca950c09d6be133a1df191",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/9\/13-16.1792541426336.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ja võtsid"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "nende varustusest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "aga ⟨את⟩",
+      "marks": "Jahve suu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "suud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "küsinud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:10:26.337826087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti küsimus nõuab koppelverbi, heebreas puudub."
+    },
+    {
+      "kind": "you",
+      "subject": "rahvas \/ Serubbabel ja Jehošua",
+      "rationale": "Otsekõne: Jahve küsimus pöördub kuulajate poole, rõhutatud 'teie' (אתם)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ספונים",
+      "rationale": "Vooderdatud\/peakattega majad: kallist puitmaterjali vihjamine, võrreldes püha koja varemetega."
+    }
+  ],
+  "translation": "Kas ⟨on⟩ teile, teie jaoks, aeg elamiseks oma vooderdatud majades, ja see koda on varemeis?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6065e47d61d55f1a724afda066f0142bc05d98de4125cbcfe9c6b59027cc189f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/haggai\/1\/1-4.1792551848667.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "kas aeg"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "elamiseks"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "oma majades"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "vooderdatud"
+    },
+    {
+      "surface": "ו הבית",
+      "gloss": "ja see koda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "varemeis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:04:08.668835006Z",
+  "model": "glm-5.3"
+}

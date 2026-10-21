@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeeriv tegusõna; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "D2: tsedek jääb heebrea kõlana, mitte 'õigus'"
+    }
+  ],
+  "translation": "Ja tsedek ⟨on⟩ ta vöörihm ja usaldus ⟨on⟩ ta puusade vöö.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/11\/5-8.1792546785672.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "vöörihm"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ta vöö"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ja usaldus"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "vöö"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ta puusade"
+    }
+  ],
+  "timestamp": "2026-10-21T01:39:45.673426013Z",
+  "model": "glm-5.3"
+}

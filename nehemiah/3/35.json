@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 3:35",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šaakal",
+      "rationale": "שועל on šaakal, mitte rebase 'fox' nagu mõned tõlked"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "eesti keeles vajalik kuuluvusverbi lisamine"
+    }
+  ],
+  "translation": "Ja Toobija ammonlane ⟨oli⟩ tema kõrval ja ütles: ka see, mida nad ehitavad — kui šaakal ronib üles, purustab ta nende kivimüüri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c684995899dca74caaadcc70e5e35b4ef010db83b5a1d0a243b360fd5bb8b40a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/3\/33-36.1792556841234.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוביה",
+      "gloss": "ja Toobija"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "ammonlane"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": " tema kõrval"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "ehitavad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ronib üles"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "šaakal"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "purustab"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "müüri"
+    },
+    {
+      "surface": "אבניהם",
+      "gloss": "nende kivimüüri"
+    }
+  ],
+  "timestamp": "2026-10-21T04:27:21.235752525Z",
+  "model": "glm-5.3"
+}

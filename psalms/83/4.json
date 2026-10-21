@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "salanõu, kinnine kogu ja varjatud plaan — salatsemise sõnaväli"
+    },
+    {
+      "kind": "crux",
+      "subject": "צפוניך",
+      "rationale": "'sinu varjatud' vs KJV 'hidden ones' vs JPS 'treasured ones' — kas varjatud isikud või hoietatud\/päratuime"
+    }
+  ],
+  "translation": "Su rahva vastu sepistavad nad salanõu ja pidavad nõu sinu varjatute vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/83\/1-4.1792553570929.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su rahva"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "sepistavad nad"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "salanõu"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ja pidavad nõu"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "sinu varjatute"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:50.930709706Z",
+  "model": "glm-5.3"
+}

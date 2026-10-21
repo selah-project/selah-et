@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ei ole",
+      "rationale": "Heebrea ואיננו on olematuspartikkel koos asesõnaga; eestis väljendatud 'ei ole', verb lisatud sulgudes."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח on nii 'tuul' kui 'väeõhk' — hoitud heebrea kujuna 'ruahh', et mitte valida üks tähendus teise arvel."
+    },
+    {
+      "kind": "idiom",
+      "subject": "tema koht ei tunda teda",
+      "rationale": "Heebrea kujund: koht ' tunneb' inimest ära; sõnasõnaline tõlge säilitatud, kuna kujund on selge."
+    }
+  ],
+  "translation": "Sest ruahh läheb üle tema ja teda ⟨ei ole⟩ enam, ning tema koht ei tunda teda enam ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/13-16.1792553775536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "läheb üle"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "teda ⟨ei ole⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "tunda ära"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tema koht"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:15.537615770Z",
+  "model": "glm-5.3"
+}

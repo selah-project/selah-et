@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 13:14",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Eesti kõrvulause vajab otsust täpsustava asesõna; heebrea את אשר kannab seda markerina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגיד",
+      "rationale": "'Vürst\/eesseisja' (nagu KJV 'captain', JPS 'prince') — sõna tähendab eesotsas seijat, mitte kuningat."
+    }
+  ],
+  "translation": "Ja nüüd ei püsi sinu kuningriik: Jahve on otsinud endale mehe, kes on tema südame järgi, ja Jahve on käskinud ta olla vürstiks tema rahva üle, sest sa ei pidanud ⟨את⟩ seda, mida Jahve sulle käsis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/13\/13-16.1792543957028.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nüüd"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "sinu kuningriik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "püsi"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "on otsinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "kes on tema südame järgi"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ja on käskinud ta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "olema vürstiks"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema rahva"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "pidanud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda, mida Jahve sulle käsis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "sulle käsis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:37.033005756Z",
+  "model": "glm-5.3"
+}

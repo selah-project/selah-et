@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rahvas",
+      "rationale": "גוי võib tähendada ka loomaparve — rohud kui 'rahvas', võimalik alternatiivne lugemine."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab omastava lause jaoks tegusõna 'on', heebrea puudub."
+    }
+  ],
+  "translation": "Sest rahvas on tõusnud mu maale, vägev ja loendamatu; tema hambad on lõvi hambad ja tal on lõvitarra kihvad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joel\/1\/5-8.1792551207701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "on tõusnud"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mu maale"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ilma"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "loendamata"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tema hambad"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hambad"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lõvi"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "ja kihvad"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "lõvitar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tal ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T02:53:27.702987049Z",
+  "model": "glm-5.3"
+}

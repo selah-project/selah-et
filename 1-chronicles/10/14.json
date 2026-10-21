@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti keel vajab subjektipronoomi, heebrea puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויסב",
+      "rationale": "'pööras \/ keeras ümber' — sõna tähendab pöörama, mitte lihtsalt 'andma üle'."
+    }
+  ],
+  "translation": "ja ta ei pärinud Jahvelt, ja Jahve tappis ta ja pööras ⟨את⟩ kuningriigi Davidile, Jišai pojale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/10\/13-14.1792557278723.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "pärinud"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvelt"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ja tappis ta"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ja pööras"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuningriigi"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "kuningriigi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišai"
+    }
+  ],
+  "timestamp": "2026-10-21T04:34:38.724659195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמתו בבור חיי",
+      "rationale": "'Hävitasid mu elu kaevus' (KJV, JPS) vs 'pistsid mind elavana kaevu' (BSB); חיי võib olla 'mu elu' või 'mind elavana'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pildusid",
+      "rationale": "וידו hõlmab nii viskamist kui kummardamist; siin järsu viskamise tähendus."
+    }
+  ],
+  "translation": "Nad hävitasid ⟨את⟩ mu elu kaevus ja nad pildusid kivi minusse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b1a95eaa7da2d8359f2e549e92b042dcab6a18a9537568d9a8436e45db1a7032",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/53-56.1792555972554.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "Nad hävitasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu elu"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "kaevus"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ja nad pildusid"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minusse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:52.555379830Z",
+  "model": "glm-5.3"
+}

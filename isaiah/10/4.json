@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי כרע",
+      "rationale": "ebaharilik tarvitus: KJV 'ilma minuta', JPS 'ainult kummardama', YLT 'minust ilmas' — kelle all kummardatakse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "viha",
+      "rationale": "אף on sõna-sõnalt 'ninasõõrmed' — viha kehaline kujund, eesti keeles 'viha'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת ... תחת",
+      "rationale": "korduv 'all ... ja all' paralleelstruktuur, vangide ja tapetute paar"
+    }
+  ],
+  "translation": "Ainult kummardama vangi all ja tapetute all langema. Kõige selle juures ei pöördunud tema viha tagasi, vaid veel on tema käsi välja sirutatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/10\/1-4.1792546801564.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "Ainult"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "kummardama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "vangi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ja all"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "tapetute"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "langema"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Kõige"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "selle juures"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שב",
+      "gloss": "pöördunud tagasi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tema viha"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "vaid veel"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tema käsi"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "välja sirutatud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:40:01.566085525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 16:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותקמטני",
+      "rationale": "naissoost verb 'kortsutas kokku' — subjektiks kas Jumal või Iiobi kõhnus ise; KJV 'sina täitsid mu kortsudega'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kõhnus",
+      "rationale": "כחש on sõna-sõnalt 'liha puudus' — kõhnemine, millest tuleneb kõnekäändlikult 'pettus'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohimile",
+      "rationale": "Iiob jätkab otselist pöördumist Jumala poole"
+    }
+  ],
+  "translation": "Ja sina kortsutasid mu kokku — see sai tunnistajaks; ja mu kõhnus tõuseb mu vastu, mu palge ees vastab ⟨see⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/16\/5-8.1792555303117.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקמטני",
+      "gloss": "ja sina kortsutasid mu kokku"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tunnistajaks"
+    },
+    {
+      "surface": "היה",
+      "gloss": "sai"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ja tõuseb"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mu vastu"
+    },
+    {
+      "surface": "כחשי",
+      "gloss": "mu kõhnus"
+    },
+    {
+      "surface": "בפני",
+      "gloss": "mu palge ees"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "vastab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:43.118581612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 5:12",
+  "book": "job",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תושיה",
+      "rationale": "haruldane sõna: 'toetus, küps tarkus, edukas plaan' — KJV 'ettevõtmine', JPS 'midagi olulist'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערומים",
+      "rationale": "ערום on 'kaval, nõidlik' halvas mõttes — mitte lihtsalt 'targad'"
+    }
+  ],
+  "translation": "Kes purustab kavalate nõud, ja nende käed ei saa toime tarkust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/5\/9-12.1792555127945.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "kes purustab"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "nõud"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "kavalate"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "saa toime"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "nende käed"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "tarkust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:47.946639131Z",
+  "model": "glm-5.3"
+}

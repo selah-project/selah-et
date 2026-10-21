@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 21:13",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנה",
+      "rationale": "'laskis sattuda \/ juhtis' — heebrea ütleb 'ja Elohim laskis ta sattuda tema kätte': kas passiivne juhus või aktiivne juhtimine."
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Eesti keel nõuab kaudses kõnes subjekti; heebrea tüvikonjugatsioon ⟨ma⟩ ei ütle."
+    },
+    {
+      "kind": "you",
+      "subject": "sulle",
+      "rationale": "Jahve pöördub otse Moosese\/Iisraeli poole: 'määran sulle koha'."
+    }
+  ],
+  "translation": "Aga kes ei varitsenud, ja Elohim juhtis ta sattuma tema kätte, siis määran ⟨ma⟩ sulle koha, kuhu ta võib põgeneda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/13-16.1792538667466.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "aga kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "varitsenud"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ja Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "juhtis sattuma"
+    },
+    {
+      "surface": "לידו",
+      "gloss": "tema kätte"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "siis määran"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "koha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kuhu"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ta põgeneb"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinna"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:27.467286717Z",
+  "model": "glm-5.3"
+}

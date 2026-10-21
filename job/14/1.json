@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab öeldisestähet, heebrea puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rahutusest",
+      "rationale": "רגז on ärevus, põrin, viha — 'muredega täis' oleks liiga pehmeks tehtud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצר ימים \/ ושבע רגז",
+      "rationale": "Kaks lühikest paari — 'lühikesed päevad \/ küllastunud ärevusest' — tasakaal jääb osaliselt"
+    }
+  ],
+  "translation": "Inimene, naisest sündinud — lühikesed ⟨on⟩ tema päevad ja rahutusest küllastunud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/14\/1-4.1792555322571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Inimene"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "sündinud"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naisest"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "lühikesed"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ja küllastunud"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "rahutusest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:02.572315614Z",
+  "model": "glm-5.3"
+}

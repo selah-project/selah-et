@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "on teotanud",
+      "rationale": "חנף on sõna-sõnalt 'on saanud profaanseks \/ on määrdunud'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ×3",
+      "rationale": "kolmekordne kordamine rõhutab süü ulatust: nii prohvet, preester kui ka tempel"
+    }
+  ],
+  "translation": "Sest nii prohvet kui preester on teotanud ⟨püha⟩, isegi minu hoones leidsin nende kurjuse, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5baecef3a4577431dff609f2b59f58d1e61d01b99b0d57699f0237daaeda1d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/23\/9-12.1792548595341.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nii"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prohvet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "on teotanud"
+    },
+    {
+      "surface": "גם",
+      "gloss": "isegi"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "minu hoones"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "leidsin"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "nende kurjuse"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:09:55.342601703Z",
+  "model": "glm-5.3"
+}

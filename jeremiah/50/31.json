@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 50:31",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "heebrea jätab käivri ära — 'mina sinu vastu' —, eesti keel vajab kopeerit, ⟨olen⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "külastan",
+      "rationale": "פקד 'külastama' nii sõbralikul kui vaenulikul eesmärgil; siin mõistatuskäik, 'karistan' oleks liiga kitsas."
+    },
+    {
+      "kind": "you",
+      "subject": "ülbus \/ Babülon",
+      "rationale": "Jumal pöördub otse ülbuse — Babüloni — poole."
+    }
+  ],
+  "translation": "Vaata, mina ⟨olen⟩ sinu vastu, oh ülbus — ütleb Adonai Jahve Tsevaot —, sest sinu päev on tulnud, aeg, mil ma sind külastan.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "509351c2a1991613c6dbe779ee23e90d483c385f1d7a9c202ac57e2ca73b6e34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/50\/29-32.1792549507835.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Vaata, mina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu vastu"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "oh ülbus"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בא",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "יומך",
+      "gloss": "sinu päev"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aeg"
+    },
+    {
+      "surface": "פקדתיך",
+      "gloss": "külastan sind"
+    }
+  ],
+  "timestamp": "2026-10-21T02:25:07.837457953Z",
+  "model": "glm-5.3"
+}

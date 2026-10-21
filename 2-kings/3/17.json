@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh' — tuul\/vaim\/hingus ühes sõnas"
+    },
+    {
+      "kind": "crux",
+      "subject": "org",
+      "rationale": "הנחל on kahepalgeline: 'talgang\/talv oja' vs 'org'; siin 'see org' nagu 3:16 orud"
+    }
+  ],
+  "translation": "Sest nõnda ütleb Jahve: Te ei näe ruahhi ega näe te vihmasadu, ja see org täitub veega, ja te jooksete — teie, ja teie kariloomad, ja teie veised.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/3\/17-20.1792545926131.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "näe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "näe"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "vihmasadu"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "ja see org"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "täitub"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veega"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ja te jooksete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "ja teie kariloomad"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "ja teie veised"
+    }
+  ],
+  "timestamp": "2026-10-21T01:25:26.132060544Z",
+  "model": "glm-5.3"
+}

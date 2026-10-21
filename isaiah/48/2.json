@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nad on nime saanud",
+      "rationale": "נקראו: passiiv 'nad kutsutakse' vs KJV refleksiivne 'nad nimetavad endid'; passiiv hoitud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "eesti omastav konstruktsioon nõuab asesõna, heebreal on 'Jahve Tsevaot tema-nimi'"
+    }
+  ],
+  "translation": "Sest pühast linnast nad on nime saanud ja Jisraeli Elohimile nad toetuvad — Jahve Tsevaot on ⟨tema⟩ nimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/48\/1-4.1792547572435.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "linnast"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "pühast"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "nad on nime saanud"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... peale"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "nad toetuvad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "on tema nimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:52:52.436246362Z",
+  "model": "glm-5.3"
+}

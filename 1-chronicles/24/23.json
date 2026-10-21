@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid \/ oli",
+      "rationale": "Heebrea loend nimed + järjest arvud ilma verbita"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובני יריהו",
+      "rationale": "Tekst ütleb 'ja pojad Jerijale', aga kontekst (v24 ees) ootab 'Hebrooni poegi'; KJV lisab 'Hebron', heebrea teksti ei saa lisada"
+    },
+    {
+      "kind": "measurement",
+      "subject": "teine-kolmas-neljas",
+      "rationale": "Järjestuse loendamine — puudub 'esimene', sest Jerija ⟨oli⟩ esimestena"
+    }
+  ],
+  "translation": "Ja pojad ⟨olid⟩ Jerijale: Amarja ⟨oli⟩ teine, Jahatsiel ⟨oli⟩ kolmas, Jekamam ⟨oli⟩ neljas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "11aa543bc72f9310d07ea976fdcb052131a3d261afd8646238d7412c2d4edcab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/24\/21-24.1792557460687.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ja pojad"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "Jerijale"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "השני",
+      "gloss": "teine"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Jahatsiel"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmas"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Jekamam"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "neljas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:40.688429933Z",
+  "model": "glm-5.3"
+}

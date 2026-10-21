@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 29:11",
+  "book": "job",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õnnistas",
+      "rationale": "אשר tähendab otseselt 'kuulutas õnnelikuks', mitte formaalset õnnistamist"
+    },
+    {
+      "kind": "addition",
+      "subject": "mind \/ minu kasuks",
+      "rationale": "heebrea jaatav kuulamine\/nägemine eeldab objekti 'mind', mis tuletab kõnelejale (Iiobi) lisatud"
+    }
+  ],
+  "translation": "Sest kõrv kuulis mind ja õnnistas mind, ja silm nägi mind ja tunnistas minu kasuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/29\/9-12.1792555489451.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kõrv"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "kuulis"
+    },
+    {
+      "surface": "ותאשרני",
+      "gloss": "ja õnnistas mind"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ja silm"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nägi"
+    },
+    {
+      "surface": "ותעידני",
+      "gloss": "ja tunnistas minu kasuks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:49.451831541Z",
+  "model": "glm-5.3"
+}

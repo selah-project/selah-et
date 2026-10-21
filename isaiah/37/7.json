@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ruahh",
+      "rationale": "רוח: 'vaim' vs 'tuuleiha\/pööris' (KJV 'blast') — jään kõla-eelsele ruahhile"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "suundav אל sulandub eestis 'pöördub tagasi oma maale'"
+    }
+  ],
+  "translation": "Vaata, ma panen temasse ruahhi, ja ta kuuleb kuuldisõna ning pöördub tagasi oma maale, ja ma langetan ta mõõgaga tema omas maas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2ca2338badd94f8b47809a6d61a4c5f6f781f3ab8078952206cfafe550a56284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/37\/5-8.1792547289482.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "vaata, ma"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "panen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temasse"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahhi"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ja ta kuuleb"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "kuuldisõna"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ja pöördub tagasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "oma maale"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "ja ma langetan ta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mõõgaga"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "tema omas maas"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:09.483754363Z",
+  "model": "glm-5.3"
+}

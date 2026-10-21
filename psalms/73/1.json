@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "Vanemas traditsioonis loetakse אלהים siin kui predikatiivi (\"Elohim on Jisraelile hea\") või kui lause lõppu kuuluvat järgmist salmi alustavat fraasi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨poolest⟩",
+      "rationale": "Eesti keeles on tarvis täiendit 'puhastele südame poolest', heebrea ütleb lihtsalt 'puhtadele südame'."
+    }
+  ],
+  "translation": "Laul Asafile. Küll on hea Jisraelile Elohim, puhastele südame ⟨poolest⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/1-4.1792553351239.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Laul"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafile"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Küll"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "puhastele"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südame"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:11.240662775Z",
+  "model": "glm-5.3"
+}

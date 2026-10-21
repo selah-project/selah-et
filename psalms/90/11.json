@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "אף on sõna otseses mõttes nina\/ninamik — viha kujutatakse paisunud ninamikuna."
+    },
+    {
+      "kind": "mystery",
+      "subject": "rhetoriline küsimus",
+      "rationale": "'Kes tunneb?' — vastust ei oodata; viha võimu tunnetatakse vaid osaliselt, teadmine on kinnipeetud."
+    }
+  ],
+  "translation": "Kes tunneb su viha võimu, ja nagu su kartus, nõnda su pahameel?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/9-12.1792553621782.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kes"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tunneb"
+    },
+    {
+      "surface": "עז",
+      "gloss": "võimu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "su viha"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ja nagu su kartus"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "su pahameel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:41.784159520Z",
+  "model": "glm-5.3"
+}

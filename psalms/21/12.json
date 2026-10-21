@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aga⟩",
+      "rationale": "eesti keele kontrasti märk, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kallutasid",
+      "rationale": "נטו on ' paindlesid\/kallutasid end', kujundlik kalduvi kurjale"
+    }
+  ],
+  "translation": "Sest nad kallutasid sinu vastu kurja, nad kavatsesid kavalat — ⟨aga⟩ nad ei suuda seda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/21\/9-12.1792552403412.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "nad kallutasid"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu vastu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "nad kavatsesid"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "kavalat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "nad suuda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:23.414413858Z",
+  "model": "glm-5.3"
+}

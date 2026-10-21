@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח ei ole 'vaim' üksi — ruahh hoiab tuule\/hinguse\/vaimu ühe sõnana."
+    },
+    {
+      "kind": "crux",
+      "subject": "Pöörduge",
+      "rationale": "Käsk ('pöörduge!') või möödaminnes tingiv ('kui te pöörduksite') — heebrea kuju kannab mõlemat; BSB valib tingiva, enamik käsiva."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Pöörduge",
+      "rationale": "Tarkuse kutse koos lubadusega: ruahhi väljavalamine ja sõnade teatavaks tegemine."
+    }
+  ],
+  "translation": "Pöörduge mu noomimise juurde; vaata, ma valan teile välja oma ruahhi, ma teile teatavaks teen oma sõnad ⟨אתכם⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7808f2645761d34e9704998dc60d7db3709166d589bd16531da455231ab3cc49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/21-24.1792554474506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Pöörduge"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "mu noomimise juurde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ma valan välja"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "oma ruahhi"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ma teatavaks teen"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "oma sõnad"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "teie"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:54.509476707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub käänesõna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "viinamaja",
+      "rationale": "Kirjakeeles 'pidusaal', kuid בית היין on sõnast lähtuvalt 'veini maja'"
+    }
+  ],
+  "translation": "Tõi mind ta viinamajja, ja tema lipp minu kohal ⟨on⟩ armastus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/2\/1-4.1792555772744.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Tõi mind"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "היין",
+      "gloss": "viina"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ja tema lipp"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu kohal"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "armastus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:32.745053154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vaid",
+      "rationale": "כי on siin elamise põhjendus: 'sest elan'; tõlgitud 'vaid' vastavalt eestiPiibli tavale"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמות\/אחיה",
+      "rationale": "sure\/elan terav vastand, heebrea lühikeste vastandlike ütluste rida"
+    }
+  ],
+  "translation": "Ei sure, vaid elan ⟨ja⟩ jutustan Jahi teod.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/17-20.1792553971677.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sure"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "elan"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "ja jutustan"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "teod"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:31.678106459Z",
+  "model": "glm-5.3"
+}

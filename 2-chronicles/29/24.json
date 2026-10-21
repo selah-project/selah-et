@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea kaudkõne puudub olevik; eesti侧tõlgitud kui kuninga tsitaat, sidekaja lisatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי לכל ישראל אמר המלך",
+      "rationale": "kas 'sest kuningas käsis' (KJV) või kirjakeelne tsitaat 'kogu Jisraeli jaoks, ütles kuningas' (YLT)"
+    }
+  ],
+  "translation": "Ja preestrid lõikasid nad ja pihustasid ⟨את⟩ nende vere altarile lepituseks kogu Jisraeli eest, sest kogu Jisraeli jaoks, ütles kuningas, ⟨on⟩ põletusohver ja patuohver.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a0b8227fa1ff5d4fb45247c3dd6f253ce85f3c43615b20441bbe91f7e9d26687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/29\/21-24.1792558087836.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "ja nad lõikasid nad"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "ja nad patusohverdasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende vere"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "nende veri"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarile"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "lepituseks"
+    },
+    {
+      "surface": "על",
+      "gloss": "eest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "põletusohver"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "ja patuohver"
+    }
+  ],
+  "timestamp": "2026-10-21T04:48:07.838343578Z",
+  "model": "glm-5.3"
+}

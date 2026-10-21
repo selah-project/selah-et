@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kõri",
+      "rationale": "נפש on kurgu\/hinge\/elujõud, mitte 'hing' kehast eraldatuna"
+    }
+  ],
+  "translation": "Kõik toituõlgustab nende kõri, ja jõuavad surma väravateni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/17-20.1792553886674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "toit"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "õlgustab"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende kõri"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ja jõuavad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "väravateni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:06.674999551Z",
+  "model": "glm-5.3"
+}

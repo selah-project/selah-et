@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 19:3",
+  "book": "job",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kümme korda",
+      "rationale": "arvuliselt kokkulugev fraas, täpselt nii nagu heebrea tekst"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהכרו",
+      "rationale": "haruldane tähendus: 'teete endid minu jaoks võõraks' vs 'kahjustate mind'; valitud viimane"
+    }
+  ],
+  "translation": "Need kümme korda olete te mind teotanud, te ei häbene, et kohtlete mind karmilt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "772b40919c30e9bed244a051291c604f7267bd8bf9a13ac44c6bc8834ba540d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/19\/1-4.1792555388767.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "need"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "korda"
+    },
+    {
+      "surface": "תכלימוני",
+      "gloss": "ote te mind teotanud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "te häbene"
+    },
+    {
+      "surface": "תהכרו",
+      "gloss": "te kohtlete karmilt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:08.768514662Z",
+  "model": "glm-5.3"
+}

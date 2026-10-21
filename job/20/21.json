@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחיל",
+      "rationale": "Osa tõlkeid loevad יחל 'loota' (KJV 'no man look'), teised 'püsima jääma'; valin vastupidavuse tähenduse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ellujäänut",
+      "rationale": "שריד on otseselt ' ellujäänu\/jäänuk' — kõikvõimaliku söödu kohta, mitte lihtsalt 'midagi'."
+    }
+  ],
+  "translation": "Tema toidust ei jää ⟨ellujäänut⟩, sellepärast ei pea tema heaolu vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63a491fdd295dbb62bfbc926623ad4c71a6a15081ea5a7d257ad493ee91ee3a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/21-22.1792558657333.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei jää"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "⟨ellujäänut⟩"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "tema toidust"
+    },
+    {
+      "surface": "על",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "pea vastu"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "tema heaolu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:37.338038161Z",
+  "model": "glm-5.3"
+}

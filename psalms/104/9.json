@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sina",
+      "rationale": "Kaalukas isikuline asesõna (שמת) rõhutamiseks, heebrea ei too seda eraldi sõnana esile kui rõhuliselt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בל ... בל",
+      "rationale": "Korduv eitus 'ei ... ei' — paralleelne süntaks, kus kaks keeldu peegeldavad teineteist"
+    }
+  ],
+  "translation": "Piiri sina panid — ei lähe nad üle, ei pöördu tagasi katma maa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/9-12.1792553771566.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "piiri"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "sina panid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "lähe nad üle"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "katma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:11.566603361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lootvad",
+      "rationale": "heebrea tekstis puudub tegusõna; 'lootma' on tuletatud salmi 9 vastusest"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה...ואלה...ואנחנו",
+      "rationale": "kordus 'need...need...aga meie' — vastandus on salmi retooriline telg"
+    }
+  ],
+  "translation": "Need ⟨lootvad⟩ vankritele ja need hobustele, aga meie meenutame Jahve, meie Elohimi, nime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/20\/5-8.1792552454686.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "vankritele"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "hobustele"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "aga meie"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "... nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "meenutame"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:14.687865629Z",
+  "model": "glm-5.3"
+}

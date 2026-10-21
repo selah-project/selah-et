@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אחריתו",
+      "rationale": "'tema lõpp' — sõna tähendab nii lõppu kui järeltulijaid; siin peaks hävitama mõlemad"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/ימח",
+      "rationale": "mäletamine ja kustutamine — salmis 13 kustutatakse nimi, salmis 14 nõutakse meenutamist"
+    }
+  ],
+  "translation": "Olgu tema lõpp raiutud ära, teises põlves olgu nende nimi kustutatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/13-16.1792553904617.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "tema lõpp"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "raiutud ära"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "põlves"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "teises"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "olgu kustutatud"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nende nimi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:24.617752206Z",
+  "model": "glm-5.3"
+}

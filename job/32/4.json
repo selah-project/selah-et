@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חכה את איוב בדברים",
+      "rationale": "'ootas Iiobit sõnades' — kas ootas Iiobi kõne lõppu või ootas koos sõnadega; את siin võib olla ka 'juures\/kõrval'"
+    },
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Eesti keeles nõuab oleviku aeg koopula, heebrea laseb selle ära jätta"
+    }
+  ],
+  "translation": "Ja Elihu ootas ⟨את⟩ Iiobit sõnades, sest nemad ⟨olid⟩ temast vanemad päevade poolest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/32\/1-4.1792555565711.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Ja Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ootas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iiobit"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiobit"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sõnades"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "vanemad"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "päevade poolest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:05.713039261Z",
+  "model": "glm-5.3"
+}

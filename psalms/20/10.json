@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הושיעה המלך",
+      "rationale": "kas 'päästa, Jahve! Kuningas vastaku' (hüüatus + palve) või 'Jahve, pääasta kuningas' (YLTA\/BSB) — sõnajärg lubab mõlemat"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "otsene hüüd Jahve poole — psalmi lõpppalve"
+    },
+    {
+      "kind": "invitation",
+      "subject": "hüüd",
+      "rationale": "hüüdava palve vorm kannab koguduse palveakti"
+    }
+  ],
+  "translation": "Jahve, päästa! Kuningas vastaku meile päeval, mil me hüüdime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/20\/9-10.1792552342137.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "päästa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kuningas"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "vastaku meile"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "mil me hüüdime"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:22.138811183Z",
+  "model": "glm-5.3"
+}

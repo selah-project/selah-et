@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והחזיק",
+      "rationale": "'haaras kinni' — KJV 'force' (vägistas) vs JPS\/BSB 'take hold\/overpowers'; heebrea sõna ütleb ainult haaramist, vägistus tuleneb kontekstist (v27 kisendus)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כן הדבר (v26 seos)",
+      "rationale": "Sama verbum שכב kordub kolm korda — seaduslik keel, mittsugestiivne."
+    }
+  ],
+  "translation": "Aga kui väljal leiab mees ⟨את⟩ tüdruku, kihlatu, ja mees haarab ta kinni ja magab temaga, siis sureb üksi see mees, kes temaga magas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1b6f9b2321331519fe279391b52e44fd54fdd066ec989456c8a576cd8c3e617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/22\/25-28.1792541090803.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Aga kui"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "väljal"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "leiab"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tüdruku, kihlatu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tüdruku"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "kihlatu"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "haarbab kinni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "magab"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "siis sureb"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "magas"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "üksi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:04:50.803847267Z",
+  "model": "glm-5.3"
+}

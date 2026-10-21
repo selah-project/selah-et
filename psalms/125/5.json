@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יוליכם את פעלי האון",
+      "rationale": "Kas Jahve viib kõverad teed käijad pahategijatega KOOS ära, või viib ta nad pahategijateks — heebrea eitab\/kohamärk lubab mõlemat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקלקלותם",
+      "rationale": "Reduplitseeritud juur עקל-עקל kõlab ise kokku keksivana — 'kõver-kõverdused', eesti keeles kaotab sõna kuju."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Juhtiv על käändsõna 'üle\/peale' ühildub eesti käänetega ja ei saa oma sõnana välja."
+    }
+  ],
+  "translation": "Aga kes kalduvad oma kõveratele teedele, need viib Jahve ära ⟨את⟩ pahategijatega koos. Rahu Jisraelile!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/125\/5-5.1792554180427.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "kes kalduvad"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "oma kõveratele teedele"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "neid viib ära"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahategijad"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pahategijatega"
+    },
+    {
+      "surface": "האון",
+      "gloss": "paha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Rahu"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:00.427505593Z",
+  "model": "glm-5.3"
+}

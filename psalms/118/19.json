@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק ei ole abstraktne 'õigus', vaid õigsus\/kõlbluslik kord; heebrea käib väravate kohta"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudusele",
+      "rationale": "hüüd avada väravad — liturgiline pöördumine templiteenistuses"
+    }
+  ],
+  "translation": "Avage mulle tsedeki väravad, ma lähen nendesse ⟨sisse⟩, ma tunnistan Jahhi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/17-20.1792553971677.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Avage"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeki"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ma lähen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nendesse sisse"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ma tunnistan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahhi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:31.678437674Z",
+  "model": "glm-5.3"
+}

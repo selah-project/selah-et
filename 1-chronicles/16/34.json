@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tunnistage",
+      "rationale": "ידה tähendab otseselt 'viskama (kivi, noolt)' — kummardusliikumisena 'tunnistama\/tänama'; eesti 'tänage' oleks liiga kitsas."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "Heebreas puudub verb; eesti loomulik kõne vajab 'kestab'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסед jääb vastavalt distsipliinile translitereeritud kujule; 'halastus' või 'armastus' üksi oleks liiga kitsas."
+    }
+  ],
+  "translation": "Tunnistage Jahvele, sest ta on hea, sest igavesti ⟨kestab⟩ tema hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d1e7df8ddacb961f492785697d958b1853756b6704f2e7faf3a82a6dbc3fddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/33-34.1792558712844.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Tunnistage"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:32.848922274Z",
+  "model": "glm-5.3"
+}

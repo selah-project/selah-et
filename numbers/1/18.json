@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויתילדו",
+      "rationale": "Otseselt 'lasid end sünnitada\/põlvnemist üles lugeda' — tehislik tiwgaal, tähendab põlvnemise üleskirjutamist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "Sõnasõnalt 'nende koljukese järgi' — peade kaupa loendamine."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Loenduskäsk: nimede arv, vanus möödreekla twenyt aastat, pea järgi."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ kogu koguduse kutsusid nad kokku esimesel päeval teises kuus, ja nad kirjutasid end üles oma sugukondade järgi, oma isade järgi suguvõsa perekondade kaupa, nimede arvu järgi peast peale, kahekümne aasta vanusest ja üles, igaühe pea järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/1\/17-20.1792539694316.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kogu koguduse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "koguduse"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "kutsusid kokku"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "esimesel päeval"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "השני",
+      "gloss": "teises"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "kirjutasid end üles"
+    },
+    {
+      "surface": "על",
+      "gloss": "järgi"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "oma sugukondade"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "perekondade kaupa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "oma isade"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "arvu järgi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimede"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "vanusest"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kahekümne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ja üles"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "nende kolju\/pea järgi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:41:34.317333042Z",
+  "model": "glm-5.3"
+}

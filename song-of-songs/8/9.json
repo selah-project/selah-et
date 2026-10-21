@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea ei väljenda kopelet; eesti nõuab selle kohal täpsustava sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kindlusetorn",
+      "rationale": "טירה tähendab nii müüri, kindlust kui väikest asulat; 'torn' on tõlke valik, mitte ainsus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מומה\/דלת",
+      "rationale": "müüri\/ukse vastandus kordub järgmises salmis — naine vastab 'mina olen müür'"
+    }
+  ],
+  "translation": "Kui ta on müür, ehitame tema peale hõbedase kindlusetorni; ja kui ta on uks, piirame ta cedarist tahvlitega sisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/9-12.1792555821345.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "müür"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ta ⟨on⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ehitame"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "kindlusetorni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "hõbedase"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "uks"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ta ⟨on⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "piirame sisse"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "teda"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tahvlitega"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedarist"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:21.345930202Z",
+  "model": "glm-5.3"
+}

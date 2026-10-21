@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 11:10",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keeles nõutud koppel, heebreas puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "על ישראל",
+      "rationale": "'Jisraeli üle' (YLT) vs 'Jisraeli kohta' (KJV\/JPS); tekstil on על 'üle\/peal'."
+    }
+  ],
+  "translation": "Ja need ⟨on⟩ vägilaste pead, kes Davidi olid, need, kes temaga tugevnesid tema kuningriigis koos kogu Jisraeliga, et temast teha kuningas, Jahve sõna järgi Jisraeli üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/9-12.1792557316499.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pead"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vägilaste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidi olid"
+    },
+    {
+      "surface": "המתחזקים",
+      "gloss": "kes tugevnesid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "tema kuningriigis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliga"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "et temast teha kuningas"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sõna järgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:16.500381799Z",
+  "model": "glm-5.3"
+}

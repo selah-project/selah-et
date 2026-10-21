@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני עבדך ×2",
+      "rationale": "Korduv 'mina sinu sulane' — kinnitusretoriika, eesti keeles säilitatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "למוסרי",
+      "rationale": "מוסר põhimõttelt 'karistus, piiraja, (koera) rihm' — tõlgitud 'köied', alternatiivina 'paelud\/ahelad'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Päevalaulija pöördub otse Jahve poole"
+    }
+  ],
+  "translation": "Oh Jahve, sest mina olen sinu sulane, mina, sinu sulane, sinu orjatäri poeg — sina avasid mu köied.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/116\/13-16.1792553979395.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "oh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sinu sulane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sinu sulane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sinu orjatäri"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "avasid"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mu köied"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:39.396321612Z",
+  "model": "glm-5.3"
+}

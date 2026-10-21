@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨teha⟩ · ⟨ainult⟩",
+      "rationale": "Eesti keel vajab verbi 'teha' ja piiravat 'ainult', et küsimus-lause täielikuks saada"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה האדם",
+      "rationale": "Küsimuse vs ütlusena: 'mis on inimene, kes tuleb kuninga järele' — KJV küsib, YLT ütleb"
+    }
+  ],
+  "translation": "Ja ma pöördusin vaatama tarkust ja hullust ning narritust, sest mis suudab inimene ⟨teha⟩, kes tuleb kuninga järele — ⟨ainult⟩ seda, ⟨את⟩ mida on juba tehtud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/2\/9-12.1792556013159.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ja ma pöördusin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vaatama"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "ja hullust"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "ning narritust"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "kes tuleb"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda, mida on juba tehtud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "juba"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "on tehtud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:33.160495240Z",
+  "model": "glm-5.3"
+}

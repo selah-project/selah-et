@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני לחמי",
+      "rationale": "'Enne mu leiba' (ohkamine tuleb enne sööki) vs 'mu leiva asemel' nagu JPS; eelistatud sõnasõnaline järjekord."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאגה",
+      "rationale": "Sama sõna mida lõvide kohutamise kohta — Iiobi kurbus kõlab kui metsiku looma möire."
+    }
+  ],
+  "translation": "Sest enne mu leiba tuleb mu ohkamine, ja mu möirged valguvad välja nagu veed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4c0fbba5549b14f646af83c6c6a540f22b91d0456340d684ef3f84954a7452e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/3\/24-24.1792558640484.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "enne"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mu leiba"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mu ohkamine"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "valguvad välja"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nagu veed"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mu möirged"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:20.485995307Z",
+  "model": "glm-5.3"
+}

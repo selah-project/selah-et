@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "endale",
+      "rationale": "לך on rõhutav反映si, eesti keeles vajab käänet"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hoia end",
+      "rationale": "השמר לך otseselt 'kaitse ennast', tähendab 'kaetu olul, ole tähelepanelik'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "käsk suunatud kuulajale — kultuse keskestamise seadus"
+    }
+  ],
+  "translation": "Hoia end, et sa ei viiks ⟨את⟩ oma tõusohvreid üles igas paigas, mida sa näed,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/12\/13-16.1792540898525.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "hoia end"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨endale⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "sa viiksid üles"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "⟨את⟩ oma tõusohvreid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "igas"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "paigas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sa näed"
+    }
+  ],
+  "timestamp": "2026-10-21T00:01:38.525827639Z",
+  "model": "glm-5.3"
+}

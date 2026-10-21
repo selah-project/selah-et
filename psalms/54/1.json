@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨päralt⟩",
+      "rationale": "Eesti keel vajab omamissuhet, heebrea l-eesliited seda sõna ei sisalda"
+    },
+    {
+      "kind": "measurement",
+      "subject": "pealkiri",
+      "rationale": "Psalmi pealkiri: esitlusjuhised ja autorlus"
+    }
+  ],
+  "translation": "Koorijuhatajale, keelpillide saatel. Õpetussalm, Davidi ⟨päralt⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/54\/1-4.1792552994324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "keelpillide saatel"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Õpetussalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi ⟨päralt⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:14.324621142Z",
+  "model": "glm-5.3"
+}

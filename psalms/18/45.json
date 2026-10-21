@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "KJV 'submit' vs JPS 'dwindle' vs YLT 'feign obedience'; כחש tähendab valetada, teeselda, hülgada — siin 'petavad\/teeseldavad kuulekust'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמע ... ישמעו",
+      "rationale": "Sama juur שמע kordus: kuulmine-kuulatus, heebrea sõnamäng."
+    }
+  ],
+  "translation": "Kõrva kuulmise järgi kuulevad nad mind, võõramaalaste pojad petavad mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/45-48.1792552376698.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "kuulmise järgi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kõrva"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "kuulevad nad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "võõramaalaste"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "petavad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:56.699714592Z",
+  "model": "glm-5.3"
+}

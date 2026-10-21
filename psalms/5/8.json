@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד hoitakse transliteratsioonis 'hesed' — 'armastus' ega 'halastus' ei ammenda."
+    }
+  ],
+  "translation": "Ja mina su hesedi ohtruses astun su koju, kummardan su püha palee poole su kartuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/5\/5-8.1792552137156.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ja mina"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ohtruses"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "su hesedi"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "astun"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "su koju"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "kummardan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palee"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "su püha"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "su kartuses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:08:57.157917182Z",
+  "model": "glm-5.3"
+}

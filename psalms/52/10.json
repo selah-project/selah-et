@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Heebrea puudub koopula; eesti keel vajab seda (⟨olen⟩)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "Korduv ajamäärus 'igavest ja veel' — eesti topeltsõnega 'igavesest igaveseni' taasesitatud."
+    }
+  ],
+  "translation": "Aga mina ⟨olen⟩ nagu haljas oliivipuu Elohimi kojas; ma loodan Elohimi hesedi igavesest igaveseni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/52\/9-11.1792552939253.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Aga mina"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "nagu oliivipuu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "haljas"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kojas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ma loodan"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "hesedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "igaveseni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:19.253959380Z",
+  "model": "glm-5.3"
+}

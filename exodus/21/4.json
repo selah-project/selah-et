@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma kehaga",
+      "rationale": "בגפו sõna-sõnalt 'oma kehas' — 'üksinda' on tõlge tähenduse järgi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדניו \/ לאדניה",
+      "rationale": "isanda kordus raamib salmi: orja isand annab, orja naise isand saab"
+    }
+  ],
+  "translation": "Kui tema isand annab talle naise ja ta sünnitab talle poegi või tütreid, siis naine ja tema lapsed olgu tema isandale, ja tema läheb välja oma kehaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/1-4.1792538694518.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tema isand"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naise"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "ja ta sünnitab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poegi"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütreid"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "naine"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ja tema lapsed"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "tema isandale"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "läheb välja"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "oma kehaga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:54.519865727Z",
+  "model": "glm-5.3"
+}

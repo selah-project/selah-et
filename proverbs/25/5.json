@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק jäetakse kõlalisena, mitte 'õiguses', ühe juure truuks jäämiseks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגו...הגה",
+      "rationale": "salm 25:4 'eemalda' ja siin sama verbi kordus — hõbe ja kuningriik, kujund läheb eelmisest salmist üle"
+    }
+  ],
+  "translation": "Eemalda paheline kuninga näost, ja tsedekis püsib tema troon.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/5-8.1792554986662.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "eemalda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "paheline"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "näost"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "ja püsib"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tsedekis"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tema troon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:26.662772063Z",
+  "model": "glm-5.3"
+}

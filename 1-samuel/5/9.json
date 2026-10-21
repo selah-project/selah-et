@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 5:9",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "paisted",
+      "rationale": "עפלים: 'paistetused\/kasvajad' (ASV\/BSB) vs KJV\/geneva 'emerods' (pärakutõbi) vs 'künkkindlustused' (Juuda kuningate mündiparalleel)"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopa; eesti 'käsi oli linnas' nõuab selle"
+    }
+  ],
+  "translation": "Ja sündis pärast seda, kui nad olid ⟨את⟩ teda ringi viinud, et Jahve käi ⟨oli⟩ linnas väga suure segadusega, ja ta lõi ⟨את⟩ linna mehi, väiksest kuni suureni, ja neile purskesid välja paisted.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/9-12.1792543743370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast seda"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "nad olid ringi viinud"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda (ark)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "oli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "segadusega"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "suure"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja ta lõi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linna mehi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mehi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "väiksest"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureni"
+    },
+    {
+      "surface": "וישתרו",
+      "gloss": "ja purskesid välja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "עפלים",
+      "gloss": "paisted"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:03.372306964Z",
+  "model": "glm-5.3"
+}

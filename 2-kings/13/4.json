@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לחץ",
+      "rationale": "Sama juur κordub: nimisõna 'ahastus' ja tegusõna 'suruma' — sõnamäng, eestis kaks erinevat sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lepis palega",
+      "rationale": "חלל פני otsetähendus 'hõõrus pale' — armu palumise idiom"
+    }
+  ],
+  "translation": "Ja Jehoahas lepis Jahve palega, ja Jahve kuulis teda, sest ta nägi ⟨את⟩ Iisraeli ahastust, sest Arami kuningas surus neid kokku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/13\/1-4.1792546202126.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ja lepis"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palega"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "raאה",
+      "gloss": " nägi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahastust"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ahastust"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Iisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "surus kokku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "neid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    }
+  ],
+  "timestamp": "2026-10-21T01:30:02.129531718Z",
+  "model": "glm-5.3"
+}

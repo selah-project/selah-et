@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti keel nõuab subjekti, heebreal on see verbi sees"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mürdikimp",
+      "rationale": "צרור on otseselt 'pakk, kimp' — 'kimp' jätab pildi tervena"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõne",
+      "rationale": "Otse kõnetus armsale — kehaline, intiimne pilt"
+    }
+  ],
+  "translation": "Mürdikimbu oma on mu armas mulle, mu rindade vahel ööbib ⟨ta⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/13-16.1792555760442.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "mürdikimp"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mürdi"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mu armas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mu rindade"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ööbib"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:20.442889248Z",
+  "model": "glm-5.3"
+}

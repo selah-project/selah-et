@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 18:43",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח kirjutatakse kõla järgi 'ruahh' — siin tähendab see tuult, aga üks sõna kannab kõiki tähendusi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tolm\/muda",
+      "rationale": "Kaks paralleelset võrdlust (tolm tuules, muda tänaval) — heebrea parallelism jääb nähtavaks"
+    }
+  ],
+  "translation": "Ja ma hõõrun nad peeneks nagu tolm ruahhi näol, nagu tänavate muda ma valan nad välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/41-44.1792552389584.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשחקם",
+      "gloss": "ja ma hõõrun nad peeneks"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "nagu tolm"
+    },
+    {
+      "surface": "על",
+      "gloss": "…l"
+    },
+    {
+      "surface": "פני",
+      "gloss": "näo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "nagu muda"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "tänavate"
+    },
+    {
+      "surface": "אריקם",
+      "gloss": "ma valan nad välja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:09.585758356Z",
+  "model": "glm-5.3"
+}

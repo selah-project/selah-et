@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יברכך",
+      "rationale": "Tegusõna tähendab 'õnnistama', kuid on euufemism 'needma' (nii nagu 1:5 ja 2:9); YLT tõlgib sõnasõnaliselt 'õnnistab'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "Tõlkes 'kui ta mitte ... neab' = 'kindlasti neab'; heebrea vannumisvormel."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sind⟩",
+      "rationale": "Eesti keeles lisatud sihitis, mida heebrea kaudne väljend ei kanna."
+    }
+  ],
+  "translation": "Aga siruta nüüd välja oma käsi ja puudu tema luud ja tema liha — kui ta mitte su näo ees ⟨sind⟩ neab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/2\/5-8.1792555064118.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "aga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "siruta välja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sinu käsi"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "ja puudu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "tema luud"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tema liha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "su"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "não ees"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "neab sind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:44.119177684Z",
+  "model": "glm-5.3"
+}

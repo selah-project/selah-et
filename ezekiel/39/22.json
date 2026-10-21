@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat 'mina olen Jahve' — heebreas puudub."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית ישראל",
+      "rationale": "'Jisraeli saat' — בית on perekond, mitte hoone."
+    }
+  ],
+  "translation": "Ja Jisraeli saat tunneb sel päeval ja edaspidi, et mina olen Jahve, nende Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe3bf555dcc733e178bc331397fbc4ecf6b31f8bbe3bbb837ae6cfddbfe48bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/39\/21-24.1792550631026.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ja tunneb"
+    },
+    {
+      "surface": "בית",
+      "gloss": "saat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nende Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ja edaspidi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:43:51.027241441Z",
+  "model": "glm-5.3"
+}

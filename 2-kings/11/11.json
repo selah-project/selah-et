@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 11:11",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õlg",
+      "rationale": "כתף 'õlg' hoitakse sõnaselgelt: koja 'õlad', mitte 'küljed' ega 'nurgad' nagu paljud tõlked."
+    },
+    {
+      "kind": "measurement",
+      "subject": "valvurite liin",
+      "rationale": "Salm mõõdab valvejoone ruumiliselt: parem õlg kuni vasak õlg, altar ja koja ümber."
+    }
+  ],
+  "translation": "Ja jooksjad seisid, igaüks oma relvaga käes, koja paremalt õlalt kuni koja vasaku õlani, altari juures ja koja juures, kuninga ümber.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ff8e7e442f8e4a0f09177127b412e769bcb7d3900ae6b43d8cb9ed4634246e89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/9-12.1792546115438.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja seisid"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "jooksjad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "oma relvaga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "käes"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "õlalt"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "paremalt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "õlani"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "vasaku"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altari juures"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ja koja juures"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    }
+  ],
+  "timestamp": "2026-10-21T01:28:35.440590072Z",
+  "model": "glm-5.3"
+}

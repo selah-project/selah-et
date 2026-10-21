@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ilutasid (תחולל)",
+      "rationale": "' keerama, sünnitusvalus vilklema' — sünnituse pilt, 'vormima' jätab selle kaotama"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם...עולם",
+      "rationale": "kordus 'igavesest igaveseni' — piiratus raam, eesti ei saa sümmeetriat täielikult edasi"
+    }
+  ],
+  "translation": "Enne kui mäed sündisid ja sa ilutasid maa ja ilmakera, igavesest ajast igaveseni oled sina El.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/1-4.1792553655589.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "enne kui"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "sndisid"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ja ilutasid"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ja ilmakera"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "igavesest ajast"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:15.590276233Z",
+  "model": "glm-5.3"
+}

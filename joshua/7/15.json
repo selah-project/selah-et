@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rumalus",
+      "rationale": "נבלה on 'narritus\/solgimine, moraalne jõhkrus' — 'rumalust' kitsendab; alternatiiv 'solv teo'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav isikulise asesõna kujul, taasesitatud otseselt kui 'tema'"
+    }
+  ],
+  "translation": "Ja see saab: see, kes heremiga tabatuks osutub, põletatakse tulega, tema ja kõik, mis tema on, sest ta rikkus ⟨את⟩ Jahve lepingu ja sest ta tegi rumaluse Jisraelis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "381ba58528775682fcc339618a9f35a388b6a4c48508671cf9ad1ba49e7df5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/7\/13-16.1792541471293.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja see saab"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "kes tabatuks osutub"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "heremiga"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "põletatakse"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik, mis tema on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "rikkus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve lepingu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ja sest"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "rumaluse"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelis"
+    }
+  ],
+  "timestamp": "2026-10-21T00:11:11.295039808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 22:12",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שק",
+      "rationale": "שק on jäme riie; 'sakk' pole eesti tavasõna, 'sander' annab kõla, kuid heebrea sõna tähistab leinariiet"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבכי ולמספד ולקרחה ולחגר שק",
+      "rationale": "neli lühikest infinitiivi ahel — leina astmed: nutt, lein, paljas pealagi, sandiriiel"
+    }
+  ],
+  "translation": "Ja Adonai Jahve Tsevaot kutsus sel päeval nutma ja leinama ning peast paljaks ajama ja ⟨sandi⟩ kinnitama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bab2bf2153342a0ac869fd8f4ed6055454b40678a2db9f2d1f3c2a24715bad0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/22\/12-12.1792558350338.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsus"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "לבכי",
+      "gloss": "nutma"
+    },
+    {
+      "surface": "ולמספד",
+      "gloss": "ja leinama"
+    },
+    {
+      "surface": "ולקרחה",
+      "gloss": "ja peast paljaks ajama"
+    },
+    {
+      "surface": "ולחגר",
+      "gloss": "ja kinnitama"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sandi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:30.339654682Z",
+  "model": "glm-5.3"
+}

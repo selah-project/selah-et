@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elohimite ees",
+      "rationale": "נגד אלהים: 'jumalate\/valitsejate ees' (KJV 'gods', JPS 'mighty') vs 'Elohimi ees'; mitmus jäetakse mitmuseks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אודך \/ אזמרך",
+      "rationale": "kaks tegevust — tänulause ja keelpillimäng — paralleelsus, eestis jääb kaheks erinevaks verbiks"
+    }
+  ],
+  "translation": "Davidi psalm. Ma tänan sind kogu oma südamest, Elohimite ees mängin sulle kiitust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "346831442b593983d91b4805757d480418ee2d0e94b60ab9c1b20b4682cdb7b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/138\/1-4.1792554336398.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi psalm"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "tänan sind"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "oma südamest"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimite"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "mängin sulle kiitust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:36.399481783Z",
+  "model": "glm-5.3"
+}

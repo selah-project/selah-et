@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "keegi",
+      "rationale": "heebrea puudub subjekt; tegija lisatud kontekstist"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקנתו\/אחזתו",
+      "rationale": "ost-mine vs valdus — kaks maamõistet kõrvuti, eesti keeles eraldi sõnadega"
+    }
+  ],
+  "translation": "Ja kui keegi pühitseb Jahvele ⟨את⟩ ostetud põldu, mis ei ole ta põlistest valduspõldudest,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3d2a7744f7a7aad6ab64b2a4443a3d3542b17a2064e1230df7ea9fe619bf7998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/27\/21-24.1792539674506.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ostetud põldu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "põldu"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "ta ostetud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "põldudest"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ta valduse"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "pühitseb"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:41:14.506743058Z",
+  "model": "glm-5.3"
+}

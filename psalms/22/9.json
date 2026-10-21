@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גל",
+      "rationale": "'Veerenda (Jahve peale\/kätte)' — kujund, mida enamik tõlkeid pehmendab 'usaldagu'; sõna pilt on palli veeretamine."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גל אל",
+      "rationale": "Tõlkisin 'veerendagu Jahve kätta', mitte 'usaldagu', et heebrea kujund alles jääks."
+    }
+  ],
+  "translation": "Veerendagu teda Jahve kätte, päästku tema, päästku ta välja, sest tema tahab teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/9-12.1792552497250.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Veerendagu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahve kätte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "päästku tema"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "päästku ta välja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tahab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:57.251430298Z",
+  "model": "glm-5.3"
+}

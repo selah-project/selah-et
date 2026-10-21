@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on elujõud, kõri, isu — mitte 'hing'以内 pooleldi; jäetud heebrea kõlaga."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רֵעֵהוּ \/ רַע",
+      "rationale": "רע 'kuri' ja רעהו 'tema kaaslane' kõlavad ühtemoodi — kuri ihaleb kurja ega halasta 'kaas-kurjale'."
+    }
+  ],
+  "translation": "Rõve inimese nefesh ihaleb kurja, tema kaasleja ei leia armu tema silmis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/9-12.1792554810450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rõve inimese"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "ihaleb"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "leia armu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tema silmis"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tema kaasleja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:30.451206824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח on nii 'tuul', 'hingus' kui 'vaim' — üks sõna, jäetud kõlana 'ruahh'"
+    },
+    {
+      "kind": "crux",
+      "subject": "קבוציך",
+      "rationale": "kas 'sinu kogutud (jumalad)' (nagu BSB) või üldiselt 'sinu kogunemised \/ kaaslased'"
+    }
+  ],
+  "translation": "Kui sa kisened, päästku sind sinu kogunemised; aga ruahh viib nad ⟨את⟩ kõik ära, haihtuvus võtab; aga kes minu peale loodab, see pärib maa ja omandab minu püha mäe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "01a735f0436826aec3f77325945b48a8c7e8a4e93dc89f1ca6e10e07b1bfca5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/57\/13-16.1792547779062.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "kui sa kisened"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "päästku sind"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "sinu kogunemised"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "neid kõiki"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "viib ära"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "võtab"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "haihtuvus"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "ja kes loodab"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minu peale"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "pärib"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ja omandab"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mäe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "minu püha"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:19.064326783Z",
+  "model": "glm-5.3"
+}

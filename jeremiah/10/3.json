@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבל",
+      "rationale": "'Hääletus' e 'ebaõiglus' (nii Saalomonkiiras 1:2) — eesti traditsioon kasutab ka 'tühisus', kuid üks sõna kõigis kohtades on eelistatud."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab kopulat, heebrea omab lihtsalt כיפrit — lisa ⟨on⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (teine)",
+      "rationale": "Teine כי on heebrea lause侧, eesti keeles paralleelsus juba olemas — ei vaja eraldi 'sest'."
+    }
+  ],
+  "translation": "Sest rahvate kombed on ebaõiglus — hei, metsast raiutud puu, käsitöölise käte töö, peitli abil.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/10\/1-4.1792548213689.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "kombed"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "rahvate"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ebaõiglus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puu"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "metsast"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "raiutud"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "töö"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "käte"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "käsitöölise"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "peitli abil"
+    }
+  ],
+  "timestamp": "2026-10-21T02:03:33.691383793Z",
+  "model": "glm-5.3"
+}

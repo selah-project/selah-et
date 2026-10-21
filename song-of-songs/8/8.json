@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeruv verb 'omama' — eesti keele jaoks lisatud (⟨on⟩ ei ole märkimist vaja, kuna kopeeruv on eesti tavapärane käänamisvorm)."
+    },
+    {
+      "kind": "crux",
+      "subject": "שידבר בה",
+      "rationale": "'Päeval, mil temast kõneldakse' — vihjab kosjasobimisele: kas 'kui teda taotletakse' või 'kui temast räägitakse'."
+    }
+  ],
+  "translation": "Meil on väike õde, ja rindu tal ei ole; mida me teeme meie õele päeval, mil temast kõneldakse?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/5-8.1792555872920.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "õde"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meil on"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "väike"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "ja rindu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "me teeme"
+    },
+    {
+      "surface": "לאחותנו",
+      "gloss": "meie õele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "mil kõneldakse"
+    },
+    {
+      "surface": "בה",
+      "gloss": "temast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:12.921913590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oleks⟩",
+      "rationale": "Eesti keel nõuab kopulat, heebrea infinitivus להיות seda kandma ei pea"
+    },
+    {
+      "kind": "you",
+      "subject": "õpilasele",
+      "rationale": "Otsene pöördumine õpetaja õpilase poole: sinule, just sulle"
+    }
+  ],
+  "translation": "Et sinu kindlus ⟨oleks⟩ Jahves, tegin ma sinule täna teatavaks, jah, just sulle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/22\/17-20.1792554885111.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "et ⟨oleks⟩"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "sinu kindlus"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "tegin ma sinule teatavaks"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jah"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "just sulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:45.112216495Z",
+  "model": "glm-5.3"
+}

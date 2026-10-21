@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמרורים",
+      "rationale": "Sõna tähendab tavaliselt 'kibedusi' (mitmus), KJV 'kibedaimalt'; kuid varasem tõlge 'kõrgpaikadega' põhineb sõna תמרור juhuslikul sarnasusel"
+    },
+    {
+      "kind": "crux",
+      "subject": "יטוש",
+      "rationale": "'jätab\/lastakse' (KJV) vs 'puistatakse' (JPS) — veri jäetakse tema enda peale või pühitakse tema peale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדניו 'tema Isand' viitab Jumalale; nime kohal Adonai, mitte 'Issand'"
+    }
+  ],
+  "translation": "Efraim vihastutas kibedalt, ja tema veri jäetakse tema peale, ja tema häbi tasub tema Adonai talle tagasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/12\/13-15.1792551118737.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "vihastutas"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "kibedalt"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "ja tema veri"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "jäetakse"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ja tema häbi"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "tasub tagasi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tema Adonai"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:58.738151141Z",
+  "model": "glm-5.3"
+}

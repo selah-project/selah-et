@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ei",
+      "rationale": "Heebrea loetleb kolm eitust 'min'-konstruktsiooniga; eesti paneb 'ei' iga liikme ette."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוף \/ יתעופף",
+      "rationale": "Sõnamäng: lind \/ lendab — juur kordub, kaduvuse pilt."
+    }
+  ],
+  "translation": "Efraim — nagu lind lendab nende au ära: ei sünnitust, ei üsat, ei rasedust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/9\/9-12.1792550983978.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "nagu lind"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "lendab ära"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "nende au"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ei sünnitust"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "ei üsat"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "ei rasedust"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:43.979920747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mõtlemine",
+      "rationale": "קרב 'sisemus' eeldab eesti keeles täiendit; heebrea jätta lihtsalt 'nende sisemus ⟨on⟩'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בתימו",
+      "rationale": "BSB\/mõned loevad 'nende hauad' — kontekst surmast; teksniliselt 'nende kodud'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "salm 12",
+      "rationale": "salm avab salmi 21 pitserliku paradoksi: rikkad usuvad, et nende kodud kestavad igavesti, ent surevad nagu loomad"
+    }
+  ],
+  "translation": "Nende sisemus ⟨mõtlemine⟩: nende kodud igaveseks, nende miškanid põlvest põlven; nende nimed on kutsutud maade peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/9-12.1792552967551.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Nende sisemus"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "nende kodud"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "nende miškanid"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "põlven"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "on kutsutud"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "nende nimed"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "peale"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "maade"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:47.553222206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידדון ידדון",
+      "rationale": "Täielik kordus — 'põgenevad, põgenevad' — heebrea rõhutav kaja, eesti keeles kordusega säilitatud."
+    },
+    {
+      "kind": "crux",
+      "subject": "נות בית",
+      "rationale": "'Kodus istuv naine' sõnasõnaliselt 'koja-asuja'; mõned lugevad 'armas kodune'. Valitud sõnasõnaline pilt jagavast naisest."
+    }
+  ],
+  "translation": "Vägede kuningad põgenevad, põgenevad, ja kodus-istuv-naine jagab sõjasaaki.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/13-16.1792553184313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "kuningad"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "vägede"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "põgenevad"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "põgenevad"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ja kodus-istuv"
+    },
+    {
+      "surface": "בית",
+      "gloss": "-naine"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "jagab"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sõjasaaki"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:24.314005932Z",
+  "model": "glm-5.3"
+}

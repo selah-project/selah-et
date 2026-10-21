@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 11:2",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את בניכם",
+      "rationale": "Esimene את on siin osutussõna lause alguses ('just teie lapsed pole need'), eesti keeles renditud kaudselt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרוע",
+      "rationale": "זרוע on 'käsivars', mitte 'käsi'; eesti kasutab 'käsi' sõnaõige pikkuse vältimiseks."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Silmapilkne pöördumine mitmuses: teadke täna, et teie — mitte teie lapsed — nägite."
+    }
+  ],
+  "translation": "Ja teie teate täna, et ⟨את⟩ ⟨see pole⟩ teie lapsed, kes pole tundnud ega näinud Jahve, oma Elohimi õpetust, ⟨את⟩ tema suurust, ⟨את⟩ tema tugevat kätt ja tema väljasirutatud kätt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/11\/1-4.1792540818365.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Ja teie teate"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨see pole⟩",
+      "marks": "teie lapsed"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "teie lapsed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tundnud"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näinud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "õpetust"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "õpetust"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "oma Elohimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema suurust"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "tema suurust"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema kätt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tema kätt"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "tugevat"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ja tema väljasirutatud kätt"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "väljasirutatud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:00:18.366533646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מידעת",
+      "rationale": "Hophal of ידע appears only here in the Tanakh; rendered as jussive 'let it be known' after ASH\/ASV."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨ta⟩",
+      "rationale": "Estonian requires a verb and pronoun; Hebrew has only the participle עשה."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמרו",
+      "rationale": "'Sing' vs the lemma's literal 'play (strings)'; Estonian laulge follows the dominant reading."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Plural imperative addressed to the people."
+    }
+  ],
+  "translation": "Laulge Jahvele, sest ülevust on ta teinud; see olgu teada kogu maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/12\/5-6.1792546729265.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Laulge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ülevust"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "on ta teinud"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "olgu teada"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maal"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:49.266190237Z",
+  "model": "glm-5.3"
+}

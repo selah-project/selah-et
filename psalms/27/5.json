@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suvilaia",
+      "rationale": "סכה on lehtokstest punutud onn — laager\/suvarajatis, mitte 'paviljon'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסתרני \/ בסתר",
+      "rationale": "sama juur סתר kordub: 'varjab' ja 'varjuline paik', eesti keeles osaliselt säilinud"
+    }
+  ],
+  "translation": "Sest tema peidab mind suvilaias pahade päeval, varjab mind oma telgi varjulises paigas, kaljule tõstab ta mind üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/27\/5-8.1792552574080.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "tema peidab mind"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "suvilaias"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pahade"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "varjab mind"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "varjulises paigas"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "oma telgi"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "kaljule"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ta tõstab mind üles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:14.081218832Z",
+  "model": "glm-5.3"
+}

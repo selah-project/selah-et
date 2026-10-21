@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 3:13",
+  "book": "nahum",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naised",
+      "rationale": "נשים 'naised' kui nõrkuse kujund, mitte sõna-sõnalt naissoost inimesed"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keeles puuduv koopula, heebrea jätab selle ära"
+    },
+    {
+      "kind": "you",
+      "subject": "Ninive",
+      "rationale": "Pilk otseselt Ninevele (su, sinu)"
+    }
+  ],
+  "translation": "Vaata, su rahvas on sinu keskel naised; su vaenlastele on väravelt avatud su maa väravad; tuli on ära söönud su piirded.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a191a72f704716bdb189713adb9aa604a0b49d20aa4275c1d05271dd9bd2289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nahum\/3\/13-16.1792551587120.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "su rahvas"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "naised"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sinu keskel"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "su vaenlastele"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "avatud"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "on avatud"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "väravad"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "su maa"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "on ära söönud"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "בריחיך",
+      "gloss": "su piirded"
+    }
+  ],
+  "timestamp": "2026-10-21T02:59:47.120706988Z",
+  "model": "glm-5.3"
+}

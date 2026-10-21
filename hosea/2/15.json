@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "külastama",
+      "rationale": "פקד tähendab 'külastama' nii lahku kui hukka mõistes — kohut mõistev külastus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתי שכחה",
+      "rationale": "Aleph-tav esiplaanile tõstetud: 'ja MIND ta unustas' — heebrea sõnajärje rõhutust eesti ei kanna"
+    }
+  ],
+  "translation": "Ja ma külastan tema peal ⟨את⟩ baalide päevi, mil ta neile suitsu tõstis, ja ta ehtis end oma ninarõnga ja oma kaelaehtega, ja ta läks oma armastajate järele, ja mind ⟨את⟩ unustas ta, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8409e26cb5687f7845a7be93c8657ef5993e23252f2ca8236104b7bd69a42b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/2\/13-16.1792550934310.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Ja ma külastan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tema peal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baalide päevi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevi"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mil"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "ta suitsu tõstis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "ja ta ehtis end"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "oma ninarõngaga"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "ja oma kaelaehtega"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ja ta läks"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järele"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "oma armastajate"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ja mind ⟨את⟩",
+      "marks": "mind (tema unustas)"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "unustas ta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:48:54.312613294Z",
+  "model": "glm-5.3"
+}

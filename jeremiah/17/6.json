@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 17:6",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חררים",
+      "rationale": "sõna 'põletatud\/kõrbunud paigad' esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערער",
+      "rationale": "'kadakas' vs 'paljas põõsas' (juur ערר 'paljas') — YLT valib 'paljas asi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "gloss": "⟨on⟩",
+      "rationale": "eesti keel nõuab koppelverbi, heebrea והיה kannab 'temast saab' tähendust"
+    }
+  ],
+  "translation": "Ja ta ⟨on⟩ nagu kadakas stepis, ega näe, kui hüve tuleb; ta elab põletatud paikades kõrbes, soolatud maal, mida ei asustata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f224d892930df3fa442b429c708188c8c72b50d06bb0455152a52c5f6b733b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/17\/5-8.1792548507295.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja ta on"
+    },
+    {
+      "surface": "כערער",
+      "gloss": "nagu kadakas"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "stepis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hüve"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ta elab"
+    },
+    {
+      "surface": "חררים",
+      "gloss": "põletatud paikades"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "מלחה",
+      "gloss": "soolatud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "asustata"
+    }
+  ],
+  "timestamp": "2026-10-21T02:08:27.296528819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא גרמו לבקר",
+      "rationale": "'Nad ei jätnud konti hommikuni' (kõik on öösel ära näritud) vastu YLT 'nad ei närinud kont hommikul' ja JPS traditsiooni 'nad ei jäta konti hommikuks'; גרם tähendab otseselt 'kont, luu'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב",
+      "rationale": "'Õhtu' (עֶרֶב) kõlab kokku sõnaga 'segadus\/rändrahvas' (עֵרֶב) — Habakkuki 1:8 'kõrbe hundid' põhjal on JPS lugenud siit kõrbe; juure eristus on tõlkekrux."
+    }
+  ],
+  "translation": "Tema vürstid ta keskel on möirgevad lõvid, tema kohtunikud on õhtu hundid — nad ei jätnud konti hommikuni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zephaniah\/3\/1-4.1792551776501.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Tema vürstid"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ta keskel"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lõvid"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "möirgevad"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "tema kohtunikud"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "hundid"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "õhtu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "jätnud (konte)"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hommikuni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:02:56.502362276Z",
+  "model": "glm-5.3"
+}

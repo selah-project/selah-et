@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תרחם \/ לחננה",
+      "rationale": "Kaks halastuse juurt (רחם ja חנן) ühes salmis — korduv halastusmotiiv, eesti keeles kaotab nüansi."
+    },
+    {
+      "kind": "addition",
+      "subject": "kätte jõudnud on",
+      "rationale": "בא מועד on lihtsalt 'tulnud on määratud aeg'; 'kätte jõudnud' selgitab, aga on lisatud sära."
+    }
+  ],
+  "translation": "Sina tõused, halastad Siionile, sest tulnud on aeg talle armu osutada, sest kätte jõudnud on määratud aeg.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/13-16.1792553711651.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "tõused"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "halastad"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siionile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aeg"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "talle armu osutada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulnud on"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "määratud aeg"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:11.652460915Z",
+  "model": "glm-5.3"
+}

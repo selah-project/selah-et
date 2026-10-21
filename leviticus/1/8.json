@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rasv",
+      "rationale": "פדר on siserasv, tagumise osa searasv, mitte üldine 'rasv'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "kaks korda: asesõnalause 'mis on tule peal' nõuab eesti keeles kopulat, heebrea lühendab"
+    }
+  ],
+  "translation": "Ja preestrite Aharoni pojad rivitavad ⟨את⟩ tukid, ⟨את⟩ pea ja ⟨את⟩ rasva puidu peale, mis on tule peal, mis on altaril.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/1\/5-8.1792539111046.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "ja rivitavad"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukid"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "tukid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pea"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasv"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "rasva"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "puidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on peal"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on peal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altaril"
+    }
+  ],
+  "timestamp": "2026-10-20T23:31:51.047952376Z",
+  "model": "glm-5.3"
+}

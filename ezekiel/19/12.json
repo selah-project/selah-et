@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 19:12",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh'ks nii tuule kui vaimu jaoks; 'ida-ruahh' on põletav idatuul."
+    },
+    {
+      "kind": "addition",
+      "subject": "need",
+      "gloss": "אכלתהו on naissoo suffiksiga 'sõi selle' (viinapuu), mitmuse 'okstad' tõttu lisatud 'need'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטות עז \/ מטה עזה",
+      "rationale": "Salmides 11 ja 12 kordub 'võimsad oksad' — 'võimsuse võsu', mille tuli sööb; allegooria Jeahhuja ja Sidkija kohta."
+    }
+  ],
+  "translation": "Ja vihas maha kisti, maale heideti, ja ida-ruahh kuivatas tema vilja; murdusid ja kuivasid tema võimsa võsu okstad — tuli söönud need.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/19\/9-12.1792550009476.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתש",
+      "gloss": "ja kisti maha"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "vihas"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "השלכה",
+      "gloss": "heideti"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ida-"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "kuivatas"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "tema vilja"
+    },
+    {
+      "surface": "התפרקו",
+      "gloss": "murdusid"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ja kuivasid"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "võsu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "võimsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "söönud need"
+    }
+  ],
+  "timestamp": "2026-10-21T02:33:29.478091540Z",
+  "model": "glm-5.3"
+}

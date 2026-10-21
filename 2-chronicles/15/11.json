@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צאן",
+      "rationale": "Kollektiivne sõna tähendab nii lambaid kui kitsi; eesti keeles üht kollektiivi pole, 'kari' katab tüve."
+    },
+    {
+      "kind": "measurement",
+      "subject": "700 ja 7000",
+      "rationale": "Arvud on täpsed ohvriarvestus, kuuluvad salmi mõttesse."
+    }
+  ],
+  "translation": "Ja nad ohverdasid Jahvele sel päeval sõjasaagist, mille nad olid toonud, seitsetsada veist ja seitse tuhat talli ja kari.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "02d953779c8b6f5ea806e3a1ca1c6326b1d6530c85dc50e92fbdd35e2d222111",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/15\/9-12.1792557834911.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ja nad ohverdasid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sõjasaagist"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "sõjasaagist"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "mille nad olid toonud"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "veist"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seitset-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ja kari"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitse"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T04:43:54.912634621Z",
+  "model": "glm-5.3"
+}

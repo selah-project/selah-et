@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ככפיר",
+      "rationale": "'Noor lõvi' vs 'küla' (sama lemma, kaks tähendust); peaaegu kõik tõlked valivad lõvi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסו...רדף",
+      "rationale": "Pagemise ja tagaajamise pööre: paheline põgeneb, kuigi ei aja kedagi taga."
+    }
+  ],
+  "translation": "Põgeneb kurjaja, ega kedagi taga kiusamas; õiged aga kui noor lõvi on kindlad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/28\/1-4.1792555004516.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "põgenevad"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ega kedagi"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "taga kiusamas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "kurjaja"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "õiged aga"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "kui noor lõvi"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "on kindlad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:44.516733551Z",
+  "model": "glm-5.3"
+}

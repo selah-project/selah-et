@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משגב...משגב",
+      "rationale": "kordus 'kindlustus... kindlustus' — heebrea jääb kordama sama sõna, eesti järgib seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kindlustus",
+      "rationale": "משגב on 'kõrge kalju, varjupaik'; 'kindlustus' hoiaab koha, mitte rolli"
+    }
+  ],
+  "translation": "Ja Jahve ⟨on⟩ kindlustus rõhutudile, kindlustus kitsas tunnil ahastuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/9-12.1792552271412.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja olgu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kindlustus"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "rõhutudile"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kindlustus"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "kitsas tunnil"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ahastuses"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:11.413194476Z",
+  "model": "glm-5.3"
+}

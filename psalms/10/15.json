@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זרוע",
+      "rationale": "käsivars = jõud ja vägi; 'murra käsivars' tähendab murra tema võim"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בל תמצא",
+      "rationale": "võib lugeda käsuna: 'otsi, kuni ei leia' — või tulemusena: 'seda ei leita enam'"
+    }
+  ],
+  "translation": "Murra röövli käsivars ja kurja inimese oma; otsi tema kurjust, et midagi ei leitaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/13-16.1792552284534.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "murra"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "käsivars"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "röövli"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ja kurja"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "otsi"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "tema kurjust"
+    },
+    {
+      "surface": "בל",
+      "gloss": "et midagi ei"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "leitaks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:24.536362371Z",
+  "model": "glm-5.3"
+}

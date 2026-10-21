@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Asesõna lisatud küsiõige selguseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "D2 kohaselt 'ruahh', mitte 'vaim' üksi — üks sõna, mitu tähendust"
+    },
+    {
+      "kind": "crux",
+      "subject": "lõpumärk",
+      "rationale": "Küsimus või väide — 'kes saab seda kanda?' vs 'keegi ei saa'"
+    }
+  ],
+  "translation": "Mehe ruahh kannab tema haigust, aga löödud ruahhi — kes ⟨see⟩ üles tõstab?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/18\/13-16.1792554780478.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "kannab"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "tema haigust"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "aga ruahhi"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "löödud"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "üles tõstab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:00.480135122Z",
+  "model": "glm-5.3"
+}

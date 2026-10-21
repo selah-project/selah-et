@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 16:17",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti keel nõuab objektipronoomi, heebrea litteraalne 'tema' liitub otse verbiga"
+    },
+    {
+      "kind": "you",
+      "subject": "sulastele",
+      "rationale": "Šauli otsene pöördumine oma sulaste käskudega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hästi mängima",
+      "rationale": "מיטיב לנגן on sõna-sõnalt 'teeb head mängimist' — tegusõna põimub tähendusega 'oskab hästi'"
+    }
+  ],
+  "translation": "Ja Šaul ütles oma sulastele: Vaadake nüüd mulle mees, kes oskab hästi mängida, ja tooge ta minu juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/16\/17-20.1792544089676.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oma sulastele"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sulased"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vaadake"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "מיטיב",
+      "gloss": "hästi oskab"
+    },
+    {
+      "surface": "לנגן",
+      "gloss": "mängima"
+    },
+    {
+      "surface": "והביאותם",
+      "gloss": "ja tooge ta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu juurde"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:49.677891499Z",
+  "model": "glm-5.3"
+}

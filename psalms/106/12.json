@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Siis",
+      "rationale": "eesti keeles vajalik ajamäärus, mida heebrea päris ei ütle"
+    }
+  ],
+  "translation": "Siis nad uskusid tema sõnu, nad laulsid tema kiitust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b53a52a7fa97b27f156b0fea1c40b210d5c3b5da97c0edb572e2909762caa2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/9-12.1792553812975.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "siis nad uskusid"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "tema sõnu"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "nad laulsid"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tema kiitust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:52.976239056Z",
+  "model": "glm-5.3"
+}

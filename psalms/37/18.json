@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aux⟩",
+      "rationale": "Heebrea objektimärgita sihtobjekt 'päevi' nõuab eesti keeles abisõna."
+    }
+  ],
+  "translation": "Jahve tunneb ⟨aux⟩ täiuslike päevi, ja nende pärand jääb igaveseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/17-20.1792552756846.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "tunneb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevi"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "täiuslike"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ja nende pärand"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "jääb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:16.847082297Z",
+  "model": "glm-5.3"
+}

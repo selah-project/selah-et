@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תקרא \/ קול",
+      "rationale": "hüüdmine ja hääl korduvad läbi salmide 1–4, kõlav raam kogu kõnele"
+    },
+    {
+      "kind": "invitation",
+      "subject": "retorioline küsimus",
+      "rationale": "küsimus 'ei hüüa tarkus?' tõmbab kuulaja kohe kõne sisse"
+    }
+  ],
+  "translation": "Ei hüüa tarkus, ja mõistmine ei anna oma häält?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/8\/1-4.1792554572019.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkus"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "hüüab"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ja mõistmine"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "oma häält"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:32.020311355Z",
+  "model": "glm-5.3"
+}

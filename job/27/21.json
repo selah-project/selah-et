@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 27:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "idatuul",
+      "rationale": "קדים tähendab sõna-sõnalt 'ida', kuid kontekst nõuab tuult"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ja tõukab ta ära",
+      "rationale": "וישערהו võib olla ka 'jahmutab teda' (juur 'värinaga'), kuid tormipilt on levinum"
+    }
+  ],
+  "translation": "Tema îdab idatuul ja ta läheb ära, ning torm tõukab ta ära tema kohast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bde751e5e0d77a314c7e1bd5efc2362baaff1955ac16dd0e6069691040b460bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/27\/21-23.1792555445598.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישאהו",
+      "gloss": "tõstab"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "idatuul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja ta läheb"
+    },
+    {
+      "surface": "וישערהו",
+      "gloss": "ja tõukab ta ära"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "tema kohast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:05.599368959Z",
+  "model": "glm-5.3"
+}

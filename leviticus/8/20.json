@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "suitsutas",
+      "rationale": "ויקטר tähendab 'lõhnaks suitsuks muutma' — 'põletas' kaotab ohvri lõhna mõõtme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתח\/לנתחיו\/הנתחים",
+      "rationale": "Sama juur kordub kolm korda — tükeldamine, tükid, tükid; kordus jääb nähtavaks"
+    }
+  ],
+  "translation": "Aga ⟨את⟩ täru tükeldas ta tema tükkideks, ja Moše suitsutas ⟨את⟩ pea ja ⟨את⟩ tükid ning ⟨את⟩ rasva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/8\/17-20.1792539260603.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "täru"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "täru"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "tükeldas"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "tema tükkideks"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "suitsutas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pea"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tükid"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "tükid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rasva"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "rasva"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:20.604968116Z",
+  "model": "glm-5.3"
+}

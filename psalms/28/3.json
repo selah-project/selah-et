@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רשעים",
+      "rationale": "רשע on aktiivne ülekohtutegija, mitte üldine 'pahad'; eesti koondliit hoiab tegijatähenduse."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab küpalamat 'on', heebrea puudub."
+    }
+  ],
+  "translation": "Ära tõmba mind ära koos ülekohtutegijatega ja koos kurjuse-tegijatega, kes räägivad rahu oma kaaslastega, aga kuri on nende südames.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/28\/1-4.1792552584715.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "tõmba mind ära"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ülekohtutegijatega"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja koos"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "tegijatega"
+    },
+    {
+      "surface": "און",
+      "gloss": "kurjuse"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kes räägivad"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "oma kaaslastega"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "aga kuri"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "on nende südames"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:24.717169360Z",
+  "model": "glm-5.3"
+}

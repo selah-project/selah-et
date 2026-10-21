@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "südamikus",
+      "rationale": "בטחות on sõna-sõnalt 'neerud' — heebrea keeles sisemuse paik"
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתם",
+      "rationale": "Varjatud\/salajane koht, kus tarkus teatavaks tehakse"
+    }
+  ],
+  "translation": "Vaata, tõde sina tahad südamikus, ja varjatus sa teadustad mulle tarkust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/5-8.1792552950089.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõde"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "sina tahad"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "südamikus"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ja varjatus"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "sa teadustad mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:30.090800318Z",
+  "model": "glm-5.3"
+}

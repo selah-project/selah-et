@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeeruv verb; eesti keel vajab 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teegelt",
+      "rationale": "עשה on aktiivpartitsiip 'tegev, teinud' — 'Looja' oleks roll, mitte sõna kuju"
+    }
+  ],
+  "translation": "Mu abi ⟨on⟩ Jahve juurest, taeva ja maa teegelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/121\/1-4.1792554235043.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Mu abi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "juurest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teegelt"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:55.044620094Z",
+  "model": "glm-5.3"
+}

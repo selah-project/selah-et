@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהי צורי",
+      "rationale": "'Mu kalju Elohim' (konstruktiiv: Elohim mu kalju) vs KJV 'mu kalju Jumal'; eesti järgib konstruktiivi tihedust"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישעי\/משעי\/תשעני",
+      "rationale": "Juure ישע kolmene kordus (pääste\/päästja\/päästad) — eesti säilitab alliteratsiooni 'pääste\/päästja\/päästad'"
+    }
+  ],
+  "translation": "Mu kalju Elohim, tema juures ma pagen; ta ⟨on⟩ mu kilp ja mu pääste sarv, mu kõrged kindlused ja mu põgenemiskoht, mu päästja — vägivalla eest päästad sa mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/22\/1-4.1792544996845.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ma pagen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema juures"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mu kilp"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ja sarv"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mu pääste"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mu kõrged kindlused"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "ja mu põgenemiskoht"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "mu päästja"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "vägivalla eest"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "päästad sa mind"
+    }
+  ],
+  "timestamp": "2026-10-21T01:09:56.847709402Z",
+  "model": "glm-5.3"
+}

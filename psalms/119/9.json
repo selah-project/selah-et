@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "nooruk",
+      "rationale": "Küsimus suunab otse lugejale: kuidas hoida teekond puhtana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "puhastab",
+      "rationale": "זכה võib tähendada ka 'kaitseb end süüta' — 'puhastab' on levinud valik."
+    }
+  ],
+  "translation": "Millega puhastab nooruk ⟨את⟩ oma teekonda? Selleks, et hoida seda vastavalt sinu sõnale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/9-12.1792554009269.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "millega"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "puhastab"
+    },
+    {
+      "surface": "נער",
+      "gloss": "nooruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma teekonda"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "oma teekonda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "selleks, et hoida"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "vastavalt sinu sõnale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:09.269920589Z",
+  "model": "glm-5.3"
+}

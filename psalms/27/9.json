@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Jumal⟩",
+      "rationale": "Eesti omastav konstruktsioon vajab peameist, heebrea omab lihtsalt ketist 'minu päästmise Elohim'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "באף",
+      "rationale": "sõna-sõnalt 'ninas\/ Ninas vihas' — viha omab heebrea keeles nina, eesti keeles 'vihaselt'"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja palve Jahvele",
+      "rationale": "salm on otsene palve, viis imperatiivi või keeldu Jumalale"
+    }
+  ],
+  "translation": "Ära peida oma nägu minu eest, ära pööra vihaselt kõrvale oma sulast; mu abi oled sa olnud; ära heida mind kõrvale ega jäta mind maha, Elohim, mu päästmise ⟨Jumal⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/27\/9-12.1792552527199.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "peida"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oma nägu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minu eest"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תט",
+      "gloss": "pööra kõrvale"
+    },
+    {
+      "surface": "באף",
+      "gloss": "vihaselt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "oma sulast"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "mu abi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "oled sa olnud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "heida mind kõrvale"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ega ära"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "jäta mind maha"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mu päästmise"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:27.200509443Z",
+  "model": "glm-5.3"
+}

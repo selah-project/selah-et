@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võitu",
+      "rationale": "משיחו kuninga kohta: 'võitu' (D2), mitte 'mašiahh' ega 'Messias'"
+    }
+  ],
+  "translation": "Ja kui nad tulid sisse, nägi ta ⟨את⟩ Eliabi ja ütles: küllap on Jahve ees tema võitu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/16\/5-8.1792543995385.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "kui nad tulid sisse"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nägi ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliabi"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliabi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אך",
+      "gloss": "küllap"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "tema võitu"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:15.389268043Z",
+  "model": "glm-5.3"
+}

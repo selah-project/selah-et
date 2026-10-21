@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 10:4",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דברו דברים",
+      "rationale": "Tegu ja objekt samast juurest — 'sõnad räägivad sõnu', eestis osaliselt alles"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרת ברית",
+      "rationale": "'Lõikama lepingut' — loomade vahelt läbilöömise tseremoonia; eesti 'lõikavad lepingu' hoiab pildi, kuid kõlab võõralt"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תלמי",
+      "rationale": "תלם 'põlluvagu' esineb Tanahhis vaid üksikutes kohtades, siin mitmuses vagudest"
+    }
+  ],
+  "translation": "Nad räägivad sõnu, vanduvad valelult, lõikavad lepingu; ja kohus tõuseb nagu mürgirohi põllu vagude peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/10\/1-4.1792551074240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "nad räägivad"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sõnu"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "vanduvad need"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "valelult"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "lõikavad"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ja tõuseb"
+    },
+    {
+      "surface": "כראש",
+      "gloss": "nagu mürgirohi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohus"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "vagude"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "põllu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:51:14.243782513Z",
+  "model": "glm-5.3"
+}

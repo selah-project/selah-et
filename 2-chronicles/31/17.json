@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kakskümmend aastat",
+      "rationale": "Leviitide teenistuse miinimumvanus loenduses, arv täielikult välja kirjutatud."
+    },
+    {
+      "kind": "addition",
+      "subject": "kaupa \/ järgi",
+      "rationale": "Eesti sidesõnad heebrea konstruktiisiduse (לבית, במשמרותיהם) jaoks, mida heebrea ei väljenda eraldi sõnaga."
+    }
+  ],
+  "translation": "ja ⟨את⟩ põlvnemise loendis olevad preestrid oma isade järgi perekondade kaupa, ja leviidid kakskümmend aastat vanad ja ülespoole, oma valvete ja oma jaotuste järgi;",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "abaf1e32ed97e641b859f4a69f1019bb79d2451268292dd488242392dffde3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/31\/17-20.1792558149321.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "põlvnemise loendis olevad preestrid"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "põlvnemise loendis olevad"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "perekondade kaupa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "oma isade järgi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviidid"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "vanad"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kakskümmend"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ja ülespoole"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "oma valvete"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "oma jaotuste järgi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:49:09.322090461Z",
+  "model": "glm-5.3"
+}

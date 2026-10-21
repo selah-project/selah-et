@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנגה נגדו",
+      "rationale": "n-g-h \/ n-g-d kõlakord, eesti keeles kaotsiläinud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tule-söed",
+      "rationale": "גחלי אש 'tule söed', liitsõna hoiab pildi koos"
+    }
+  ],
+  "translation": "Tema sära eest läksid mööda tema pilved: rahe ja tule-söed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/13-16.1792552387283.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "sära eest"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "tema pilved"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "läksid mööda"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "rahe"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ja tule-söed"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:13:07.284479937Z",
+  "model": "glm-5.3"
+}

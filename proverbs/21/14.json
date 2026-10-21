@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ see, mis",
+      "rationale": "Heebrea puudub tegusõna; eesti keel vajab kopulat ja viidatavat"
+    },
+    {
+      "kind": "crux",
+      "subject": "altziir",
+      "rationale": "שחד võib olla 'kingitus' või 'altziir' — contexts here on andi and, Luther\/JPS: 'a gift', YLT: 'bribe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "põlegus",
+      "rationale": "חמה sõnasõnalt 'kuumus', vihastava kuumuse pilt"
+    }
+  ],
+  "translation": "Kingitus varjatult ⟨on⟩ see, mis taltsab viha, ja altziir rinnal ⟨on⟩ see, mis taltsab ägeda põleguse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c695c38665899521242573c02558294166c993a06fa7487b39cbc792c3a6d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/14-15.1792558676144.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "kingitus"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "varjatult"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "taltsab"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ja altziir"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "rinnal"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "põleguse"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ägeda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:56.145857862Z",
+  "model": "glm-5.3"
+}

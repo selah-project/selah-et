@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נמהרים",
+      "rationale": "KJV 'rash' (käratud) või põhjendus 'kiirustajad' — juur מהר tähendab kiirustama"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמהרים\/תמהר",
+      "rationale": "sama juur מהר kordub: kiirustajate süda ja kogelja keel 'kiirustab' — eesti jätb osaliselt nähtamatuks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "selgelt",
+      "rationale": "צחות on 'kirkas, päikeseline' — 'selgelt' on kerge nõrgendus"
+    }
+  ],
+  "translation": "Ja kiirustajate süda mõistab teadmist, ja kogeljate keel kiirustab rääkima selgelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/1-4.1792547209066.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Ja süda"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "kiirustajate"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mõistab"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "teadmist"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ja keel"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "kogeljate"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "kiirustab"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rääkima"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "selgelt"
+    }
+  ],
+  "timestamp": "2026-10-21T01:46:49.067733189Z",
+  "model": "glm-5.3"
+}

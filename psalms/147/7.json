@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kogudusele",
+      "rationale": "käskiv kutsung laulmisele — imperatiivid ענו ja זמרו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Laulge",
+      "rationale": "ענו põhitähendus 'vastake'; laulmisena kõlab koori vastusena, 'vastake Jahvele tänuga' on võimalik alternatiiv"
+    }
+  ],
+  "translation": "Laulge Jahvele tänuga, mängige meie Elohimile kannel!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/5-8.1792554382091.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Laulge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "tänuga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mängige"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "meie Elohimile"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kannel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:22.091952857Z",
+  "model": "glm-5.3"
+}

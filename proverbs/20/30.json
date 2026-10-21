@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תמריק",
+      "rationale": "Vorm תמריק erinevas kirjapildis (Ketiv\/Qere) esineb vaid siin Tanahhis; tähendab 'pühkima, puhastama'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חברות פצע",
+      "rationale": "KJV 'blueness of a wound' vs BSB 'lashes and wounds'; sõna-sõnalt 'kokkukleepunud verevalumid, haav'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ulatuvad⟩",
+      "rationale": "Heebrea umbisikuline construct חדרי בטן nõuab eesti keeles tegusõna, mis heebreas puudub."
+    }
+  ],
+  "translation": "Löögijäljed, haav — need pühivad kurja ära, ja hoobid ⟨ulatuvad⟩ kõhu kambritesse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/20\/29-30.1792554742370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "löögijäljed"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "haav"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "pühivad"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "ja hoobid"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "kambritesse"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kõhu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:22.371313595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "heebrea puudub koopula; eesti nimetuslause nõuab selle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "karu",
+      "rationale": "האיל tähendab otseselt 'jäär' (hilisemas aramea mõjus ' pärsia karu'); tõlgitud kujuga"
+    }
+  ],
+  "translation": "Karu, keda sa nägid sarvedega, ⟨on⟩ Meedia ja Pärsia kuningad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/8\/17-20.1792556442113.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "karu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "sa nägid"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "omades"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "sarved"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kuningad"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Meedia"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ja Pärsia"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:42.114490867Z",
+  "model": "glm-5.3"
+}

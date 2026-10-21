@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingi",
+      "rationale": "נפש on pigem kurk\/elujõud, mitte indiviidi hing"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puuduv kopeelviit — מרמה on teine pool predikatiivsena"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרמה",
+      "rationale": "KJV 'speaketh lies' vs JPS 'is all deceit' — sõna tähendab pettust, mitte rääkimist"
+    }
+  ],
+  "translation": "Tõe tunnistaja päästab hingi, aga kes puhub välja valesid, ⟨on⟩ petus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/25-28.1792554695934.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "päästab"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "hingi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tunnistaja"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõe"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "puhub välja"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "valesid"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "⟨on⟩ petus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:35.934974261Z",
+  "model": "glm-5.3"
+}

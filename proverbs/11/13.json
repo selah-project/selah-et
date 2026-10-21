@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Salanõu — hoitud, kinnikatetud teadmine on selles salmi teljeks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח on nii 'vaim' kui 'hingus'; 'truud hingamise' asemel 'truu ruahh', kuju jäetakse kokku."
+    }
+  ],
+  "translation": "Käiv kõnejärgija paljastab salanõu, aga truu ruahh katab aso kinni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/13-16.1792554641448.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "käiv"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "kõnejärgija"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "paljastab"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "salanõu"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "aga truu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "katab kinni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:41.449264428Z",
+  "model": "glm-5.3"
+}

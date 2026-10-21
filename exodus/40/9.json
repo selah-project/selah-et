@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "miškan",
+      "rationale": "המשכן jääb heebrea kõlana 'miškan', mitte 'telk' ega 'paigutus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Eesti kaudne objekt nõuab asesõna, heebrea אתו on märgiga objekt"
+    }
+  ],
+  "translation": "Ja võta võidmisõli ja võida ⟨את⟩ miškan ja ⟨את⟩ kõik, mis temas on, ja pühitse see ⟨את⟩ ja kõik selle nõud, ja see saab pühaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/40\/9-12.1792539086613.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja võta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "võidmisõli"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "õli"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "võidmis-"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ja võida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "miškan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõik, mis temas on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temas on"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ja pühitse"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "miškan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõik selle nõud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "selle nõud"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja see saab"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "pühaks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:31:26.614541016Z",
+  "model": "glm-5.3"
+}

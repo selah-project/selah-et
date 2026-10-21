@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ורעה אמונה",
+      "rationale": "'Karjata usku' sõna-sõnalt; vaidlused: 'sööda usaldusväärselt', 'harjuta ustavust' — karjase-pilt on juures."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בטח",
+      "gloss": "'Loe varjupaigaks' — tüvi tähendab põgenemist turvalisse kohta, eesti 'usalda' jätks pildi kaduma."
+    }
+  ],
+  "translation": "Loe varjupaigaks Jahvet ja tee head, ela ⟨maa peal⟩ ja karjata usku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/1-4.1792552766239.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "loe varjupaigaks"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja tee"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa peal"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ja karjata"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "usku"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:26.241577340Z",
+  "model": "glm-5.3"
+}

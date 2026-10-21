@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחליפם \/ ויחלפו",
+      "rationale": "Sama juur חלף kaks korda: 'vahetad neid' ja 'nad vahetuvad' — kaja säilib eesti 'vaheta'-sõnaga"
+    },
+    {
+      "kind": "addition",
+      "subject": "neid",
+      "rationale": "Eestikeelne asesõna lisatud, et märkida otsest objekti"
+    }
+  ],
+  "translation": "Nemad hukkuvad, aga sina püsid; ja nemad kõik kuluvad nagu rõivas; nagu rõivast vahetad sa ⟨neid⟩ välja, ja nad vahetuvad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/25-28.1792553713450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Nemad"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hukkuvad"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "aga sina"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "püsid"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ja nemad kõik"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "nagu rõivas"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "kuluvad"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "nagu rõivast"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "vahetad sa välja"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ja nad vahetuvad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.451228344Z",
+  "model": "glm-5.3"
+}

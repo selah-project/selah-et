@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta ümber",
+      "rationale": "ויסבו 'ja keerutasid' nõuab eesti keeles objekti, heebrea jätab selle kontekstist"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלי",
+      "rationale": "keli on 'riist, nõu' laias tähenduses — 'relvad' on kontekstipõhine tõlge"
+    }
+  ],
+  "translation": "Ja kümme noormeest, Joabi relvakandjad, keerutasid ⟨ta ümber⟩ ja lõid ⟨את⟩ Avšalomit ja tapsid ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/18\/13-16.1792544866628.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ja keerutasid"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kümme"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "noormeest"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kandjad"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "relvi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ja lõid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšalomit"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomit"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ja tapsid ta"
+    }
+  ],
+  "timestamp": "2026-10-21T01:07:46.630888018Z",
+  "model": "glm-5.3"
+}

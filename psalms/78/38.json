@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 78:38",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "katteb",
+      "rationale": "כפר põhitähendus on 'katta' — halastus katab süü"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפו\/חמתו",
+      "rationale": "אף on sõna-sõnalt 'ninasõõr' (vihast puhisev) ja חמה 'kuumus, palav' — mõlemad kehastavad viha"
+    }
+  ],
+  "translation": "Aga tema on halastaja, katteb süü ja ei hävita, ning tihti pöörab tagasi oma viha ega ärata kogu oma põletavat viha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/37-40.1792553414982.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "aga tema"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "halastaja"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "katteb"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "hävita"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ning tihti"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "pöörab tagasi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "oma viha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega ei"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ärata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "oma põletavat viha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:14.982864473Z",
+  "model": "glm-5.3"
+}

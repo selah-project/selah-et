@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "Kuulus lahkheli: 'mu vürstlik rahvas' vs pärisnimi 'Amminadib' (KJV) — heebrea võimaldab mõlemat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on elujõud\/hing, mitte 'hing' või 'ihaline isu' (BSB 'desire')"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Mina ei teadnud",
+      "rationale": "Salm on teadlikult hägune — kõik tõlkijad tunnistavad, et tähendus on varjatud"
+    }
+  ],
+  "translation": "Mina ei teadnud — mu nefesh pani mu ⟨mu⟩ vankrite peale, mu vürstlikku rahvast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/6\/9-12.1792555806270.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma teadnud"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefesh"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "pani mu"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "vankrite peale"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvast"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "vürstlikku"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:06.271185070Z",
+  "model": "glm-5.3"
+}

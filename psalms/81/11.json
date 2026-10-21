@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "heebreas puudub kopeel"
+    },
+    {
+      "kind": "crux",
+      "subject": "המעלך",
+      "rationale": "'kes tõstab sind üles' (עלה) vs 'kes viib sind välja' — Tulge-tõuse-tõstmise pilt"
+    }
+  ],
+  "translation": "Mina ⟨olen⟩ Jahve, su Elohim, kes tõstab sind üles maast Mitsraimist; ava suu laiasti, ja mina täidan ⟨selle⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/81\/9-12.1792553482036.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "kes tõstab sind üles"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maast"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "ava laiasti"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "su suu"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ja mina täidan ⟨selle⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:22.036975215Z",
+  "model": "glm-5.3"
+}

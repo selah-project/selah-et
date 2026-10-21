@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "saamist",
+      "rationale": "Eesti omastav konstrutsioon nõuab nimisõna, mida heebrea tegusõna הולידו otseselt ei sisalda."
+    },
+    {
+      "kind": "measurement",
+      "subject": "viissada aastat",
+      "rationale": "Vanusammude loendamine soospõlves."
+    }
+  ],
+  "translation": "Ja Šem elas pärast ⟨את⟩ Arpakšadi ⟨saamist⟩ viissada aastat ja sai poegi ja tütreid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d600afaaff682b9f32b6c86c247364ca07dbbdb67574b0c482e52c0d1978d9ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/11\/9-12.1792537483794.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ja elas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ta saamist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakšadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakšadi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "poegi"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ja tütreid"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:43.796613160Z",
+  "model": "glm-5.3"
+}

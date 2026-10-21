@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea omastav lause 'naised, kes selles' — eesti keel vajab kopeela 'olid'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "väikesest kuni suureni",
+      "rationale": "מקטן ועד גדול — 'väiksest suureni', st kõik vanused ja seisused"
+    }
+  ],
+  "translation": "Ja nad viisid vangi ⟨את⟩ naised, kes seal ⟨olid⟩, väikesest kuni suureni; nad ei tapnud ühtegi inimest, vaid ajasid nad minema ja läksid oma teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/30\/1-4.1792544430412.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ja nad viisid vangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naised"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "naised"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "väikesest"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suureni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "tapnud"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ühtegi inimest"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "ajasid nad minema"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja läksid"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "oma teed"
+    }
+  ],
+  "timestamp": "2026-10-21T01:00:30.416160939Z",
+  "model": "glm-5.3"
+}

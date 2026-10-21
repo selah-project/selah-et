@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 44:17",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jumal",
+      "rationale": "אל on siin ebajumal — väikese tähega jumal, mitte nimi El"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפסלו",
+      "rationale": "lemmal j\/6459 andis põhjenduse 'tema'; siis eemaldasin liigse lisandi"
+    },
+    {
+      "kind": "you",
+      "subject": "kummardaja",
+      "rationale": "jumala kujule öeldud kõne 'päästa mind, sest sina oled mu jumal'"
+    }
+  ],
+  "translation": "Ja selle jäägist teeb ta endale jumala, oma tahutud kuju; ta heitub selle ees pikali ja kummardab seda ning palvetab selle poole ja ütleb: Päästa mind, sest sina oled mu jumal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/44\/17-20.1792547564303.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאריתו",
+      "gloss": "ja selle jääk"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "jumalaks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "לפסלו",
+      "gloss": "oma tahutud kujule"
+    },
+    {
+      "surface": "יסגוד",
+      "gloss": "ta heitub pikali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "selle ees"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kummardab"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ja palvetab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "selle poole"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütleb"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "päästa mind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mu jumal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina oled"
+    }
+  ],
+  "timestamp": "2026-10-21T01:52:44.303703181Z",
+  "model": "glm-5.3"
+}

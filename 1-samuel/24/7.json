@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "Otsetõlge 'rõve olgu see minust, Jahve eest' = eesti idiom 'olgu see minust kaugel, Jahve eest'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "võitu",
+      "rationale": "משיח tähendab 'võitu' — kuninga kohta kasutatud sõna tähenduses, mitte nimetus 'Messias', mida tekst ei kanna."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula 'on', mida heebrea lause משיח יהוה הוא ei vaja, kordab rõhutavat sõnajärge."
+    }
+  ],
+  "translation": "Ja ta ütles oma meestele: olgu see minust kaugel, Jahve eest, et ma teeksin ⟨את⟩ selle asja oma isandale, Jahve võitule, et ma sirutaksin oma käe tema vastu, sest Jahve võitu on ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "29eac7974ee29c48af6575d40d5b23d0a2c1e0fab5e0a62a85877172c79f3599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/24\/6-7.1792558318179.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ta ütles"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "oma meestele"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "olgu see kaugel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minust"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve eest"
+    },
+    {
+      "surface": "אם",
+      "gloss": "et"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ma teeksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle asja"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "asja"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "oma isandale"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "võitule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "et ma sirutaksin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema vastu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "võitu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on ta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:58.180020548Z",
+  "model": "glm-5.3"
+}

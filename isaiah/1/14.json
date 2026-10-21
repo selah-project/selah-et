@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kurgu-elujõud, mitte alaline 'hing' eesti mõttes"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve rahvale",
+      "rationale": "Jumala kõne jätkub — pühade vihkamine"
+    }
+  ],
+  "translation": "Teie noorkuud ja teie pühade ajad vihkab mu hing; need on mulle koormaks, olen väsinud ⟨kandmast⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/1\/13-16.1792546527845.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "teie noorkuud"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "ja teie pühade ajad"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "vihkab"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "היו",
+      "gloss": "need on"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "koormaks"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "olen väsinud"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kandmast"
+    }
+  ],
+  "timestamp": "2026-10-21T01:35:27.845839445Z",
+  "model": "glm-5.3"
+}

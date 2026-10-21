@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oleme",
+      "rationale": "Kopeel puudub heebreas, kohustuslik eesti täielauses"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אם",
+      "rationale": "Traditsioon loeb tingivana 'kui...kuulete', võimalik ka sooviv 'oh et te kuuleksite'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרעיתו וצאן ידו",
+      "rationale": "Karja-piltide paaris: karjamaa rahvas, tema käe kari — 'käe kari' on ebatavaline kujund"
+    }
+  ],
+  "translation": "Sest tema on meie Elohim, ja meie oleme tema karjamaa rahvas ja tema käe kari — täna, kui tema häält te kuulete!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/95\/5-8.1792553735679.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ja meie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "tema karjamaa"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ja kari"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tema käe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "tema häält"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "te kuulete"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:35.680134303Z",
+  "model": "glm-5.3"
+}

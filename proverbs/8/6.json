@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab kopulat, heebrea puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "נגידים",
+      "rationale": "'Vürstlikud\/ülldad asjad' (nagiidist, juhist) — piltlik sõna, mida tõlgitakse 'kõrged', 'ülid', 'väärikad'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kuulge",
+      "rationale": "Imperatiiv koos põhjendusega tõmbab kuulaja kõnesse."
+    }
+  ],
+  "translation": "Kuulge, sest üllaid asju ma räägin, ja mu huulte avamine ⟨on⟩ õigus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/8\/5-8.1792554571916.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "kuulge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "üllaid asju"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ma räägin"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "ja mu huulte avamine"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mu huulte"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "õigus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:31.917494491Z",
+  "model": "glm-5.3"
+}

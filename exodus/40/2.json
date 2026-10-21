@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kuupäev",
+      "rationale": "Täpne aja määrang: esimese kuu esimene päev."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kohtumise telk",
+      "rationale": "אהל מועד otse 'kinnitatud aja telk'; 'kohtumise telk' on levinud tõlge."
+    }
+  ],
+  "translation": "Esimese kuu esimesel päeval püstita sa ⟨את⟩ miškani, kohtumise telk.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "af3a6f9d1178b2ebfe7257f1540c18410aa2bbac99c3b36de40c24189ac49020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/40\/1-4.1792539102988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "esimese"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "esimesel"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "püstita sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miškani"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telk"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtumise"
+    }
+  ],
+  "timestamp": "2026-10-20T23:31:42.989638118Z",
+  "model": "glm-5.3"
+}

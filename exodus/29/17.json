@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sääred",
+      "rationale": "כרעיו on kaksus — 'sääred' (kaks jalalabade ülaosasid), ainult kaksuses kasutusel"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ hirve tükeldad tema tükkideks, ja pesed tema siseelundid ja tema sääred, ja paned tema tükkide peale ja tema pea peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "726529bc76c5389857739c8463775b54626592956593f976d260c32766ab5dcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/29\/17-20.1792538851656.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hirve"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hirv"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "tükeldad"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "tema tükkideks"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ja pesed"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "tema siseelundid"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ja tema sääred"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ja paned"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "tema tükid"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja peale"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tema pea"
+    }
+  ],
+  "timestamp": "2026-10-20T23:27:31.657411760Z",
+  "model": "glm-5.3"
+}

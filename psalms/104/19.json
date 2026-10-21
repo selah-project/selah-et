@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מועדים",
+      "rationale": "'määratud aegu' või täpselt 'pühi' (pidude-aegu); valitud üldisem tähendus."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מבואו",
+      "rationale": "Sõnaliselt 'oma sisenemist' — loojumine kui päikese 'sissekäik'; 'loojumist' on loomulik, kuid ka 'tulekut' on võimalik."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuu ja päike",
+      "rationale": "Salm räägib taevakehade määramisest aegu ja piire mõõtma."
+    }
+  ],
+  "translation": "Tegi kuu määratud aegadeks, päike teab oma loojumist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/17-20.1792553815111.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "määratud aegadeks"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "päike"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "teab"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "oma loojumist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:55.112675416Z",
+  "model": "glm-5.3"
+}

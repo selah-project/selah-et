@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb heebrea kõlaks 'hesed', mitte 'halastus'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כאמרתך",
+      "rationale": "otsetõlge 'nagu sinu ütlus'; mõned lugevad 'sinu lubaduse kohaselt'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve",
+      "rationale": "jussiivpalve Jahvele — hesed ja pääste palutakse"
+    }
+  ],
+  "translation": "Ja tulgu minuni sinu hesed, oo Jahve, sinu pääste, nagu sinu sõna ütleb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/41-44.1792554018279.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "ja tulgu minuni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sinu hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "sinu pääste"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "nagu sinu sõna ütleb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:18.280045401Z",
+  "model": "glm-5.3"
+}

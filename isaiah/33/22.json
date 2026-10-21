@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula puudub heebrea keeles"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ×3",
+      "rationale": "Kolmekordne kordamine kohtumõistja-seaduseandja-kuningas: tõusvad ametid, klimaks 'tema päästab meid'"
+    }
+  ],
+  "translation": "Sest Jahve ⟨on⟩ meie kohtumõistja, Jahve meie seaduseandja, Jahve meie kuningas — tema päästab meid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/33\/21-24.1792547280728.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "meie kohtumõistja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "meie seaduseandja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "meie kuningas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "päästab meid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:48:00.729960042Z",
+  "model": "glm-5.3"
+}

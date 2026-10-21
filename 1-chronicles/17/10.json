@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 17:10",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "painutasin põlvili",
+      "rationale": "הכנעתי tähendab sõna-sõnalt 'põlvi painutama' ehk alistama"
+    },
+    {
+      "kind": "addition",
+      "subject": "ütleb Jahve",
+      "rationale": "Jaotuslaused asetavad lõppu 'ütleb Jahve' konteksti järgi, kuid see tekstis puudub"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ütleb Jahve",
+      "rationale": "Rohkem sõnasõnaline: 'ja ma kuulutan sulle, et koda ehitatakse sulle, Jahve jaoks' — 'Jahve' võib olla ehituse eesmärk, mitte rääkija"
+    }
+  ],
+  "translation": "ja päevadest, mil ma käsesin kohtumõistjaid oma rahva Jisraeli üle, ja ma painutasin põlvili ⟨את⟩ kõik su vaenlased, ja ma kuulutan sulle: koda ehitatakse sulle, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/17\/9-12.1792557424025.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמימים",
+      "gloss": "ja päevadest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mil"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ma käsesin"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "kohtumõistjaid"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oma rahva"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "והכנעתי",
+      "gloss": "ja ma painutasin põlvili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik su vaenlased"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "su vaenlased"
+    },
+    {
+      "surface": "ואגד",
+      "gloss": "ja ma kuulutan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ehitatakse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:04.027376940Z",
+  "model": "glm-5.3"
+}

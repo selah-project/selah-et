@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Eesliide אל koos eest käiva pooltega sulandub eesti suunakäänetesse ega vaja eraldi sõna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש ההר",
+      "rationale": "'mäe pea' kordub salmis kaks korda — struktuurne kajastus, mida 'tipp' kandes annab."
+    }
+  ],
+  "translation": "Ja Jahve laskus Siinai mäele, mäe tippu, ja Jahve kutsus Moše mäe tippu, ja Moše läks üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/19\/17-20.1792538564996.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ja laskus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mäele"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Siinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tippu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja kutsus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tippu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mäe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja läks üles"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-20T23:22:44.998267541Z",
+  "model": "glm-5.3"
+}

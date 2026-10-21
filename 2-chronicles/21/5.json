@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolmkümmend kaks \/ kaheksa aastat",
+      "rationale": "Vanuse ja valitsusaja loendamine, arvud täielikult nagu heebrea keeles."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן … במלכו",
+      "rationale": "Tõlkes 'vanune … valitsemise alul'; sõna-sõnalt 'poeg kolmekümne kahe aasta … oma valitsuses'."
+    }
+  ],
+  "translation": "Kolmekümne kahe aasta vanune oli Jehooram oma valitsemise alul, ja kaheksa aastat valitses ta Jerušalaimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "aa1c99831813ca67dfcb424fda2d7948b82c97947012603a0bb31720b7c4f9e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/21\/5-8.1792557954124.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "vanune"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmekümne"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kahe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehooram"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "oma valitsemise alul"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "kaheksa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "valitses ta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:54.125469221Z",
+  "model": "glm-5.3"
+}

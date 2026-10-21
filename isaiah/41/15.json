@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פיפיות",
+      "rationale": "'terad' — sõna esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "löögiregi",
+      "rationale": "מורג on terashambulise tuulutusregi pilt; eesti 'löögiregi' annab vahendi, mitte rolli"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדוש...ותדק",
+      "rationale": "tallata-jahvatada kordus: töö järjestus kaks tegusõnaga, eesti kaotab sõnatüvede kõla"
+    }
+  ],
+  "translation": "Vaata, mina tegin sind löögiregiks, uueks, teravaks, kahe teraga: sa tallad mäed ja jahvatad puruks, ja küngad teed sa põhuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/41\/13-16.1792547408252.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "mina tegin sind"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "löögiregiks"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "terav"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uueks"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "kahe-tera-ga omaja"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "terad"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "sa tallad"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "ja jahvatad puruks"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ja küngad"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "põhuks"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "teed sa"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:08.253259531Z",
+  "model": "glm-5.3"
+}

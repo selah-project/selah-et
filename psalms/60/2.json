@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaksteist tuhat",
+      "rationale": "Langevate edomlaste arv on pealkirjas täpselt loetud"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פצם (salm 4 seotud)",
+      "rationale": "Salmi 4 פצמתה on ainsas kohas Tanahhis — maavärinast lõhkumine"
+    }
+  ],
+  "translation": "Kui ta võitles ⟨את⟩ Aram-Nahharajimi ja ⟨את⟩ Aram-Tsoovaga vastu, ja Joav pöördus tagasi ning lõi ⟨את⟩ Edomi soolases orus — kaksteist tuhat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/1-4.1792553125534.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "kui ta võitles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Nahharajimi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Nahharajimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Aram-Tsoova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoovaga"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja pöördus tagasi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja lõi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "orus"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soolases"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kaksteist"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:25.536558505Z",
+  "model": "glm-5.3"
+}

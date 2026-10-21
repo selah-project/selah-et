@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "valitsusajal",
+      "rationale": "במלכות on otseselt 'kuningriigis'; 'valitsusajal' annab eesti oja loomuliku väljendi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "suguvõsa kirjapanek",
+      "rationale": "salm avab suguvõsarollide loendi koos arvudega"
+    }
+  ],
+  "translation": "Ja need on nende isade pead ja nende suguvõsa kirjapanek — need, kes tulid üles minuga Artahšasta, kuninga, valitsusajal Babelist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/8\/1-4.1792556771675.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ja need"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pead"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "nende isade"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "nende suguvõsa kirjapanek"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kes tulid üles"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "minuga"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "valitsusajal"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artahšasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babelist"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:11.675926377Z",
+  "model": "glm-5.3"
+}

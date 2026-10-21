@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Heebrea puudub subjekt; eesti nõuab seda — viitab eelmise salmi hirmutustele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבוני \/ הקיפו",
+      "rationale": "Kaks ümberringi-juurt korduvad ja rõhutavad piiramist"
+    }
+  ],
+  "translation": "Nad ümbritsesid mind nagu veed kogu päeva, nad tiirutasid üle minu üheskoos.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/88\/17-19.1792553549431.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "nad ümbritsesid mind"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nagu veed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "nad tiirutasid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "üle minu"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "üheskoos"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:29.432854007Z",
+  "model": "glm-5.3"
+}

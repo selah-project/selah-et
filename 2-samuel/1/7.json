@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨siin⟩",
+      "rationale": "heebrea הנני on vaid 'vaata-mina'; eesti keelele on lisatud ⟨siin⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הנני",
+      "rationale": "'vaata, mina' — kuulaja valmisoleku hüüe, eesti tavaks 'vaata, mina olen siin'."
+    }
+  ],
+  "translation": "Ja ta pööras end tagasi, nägi mind ja hüüdis mind, ja ma ütlesin: Vaata, mina olen siin.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/1\/5-8.1792544351005.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ja ta pööras end"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tagasi"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "nägi mind"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ja hüüdis"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "vaata, mina olen ⟨siin⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:11.007458583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karjamaad",
+      "rationale": "מגרש הго levilaste linnade ümber asuvad söödimaad, sõna-sõnalt 'karjamaad\/ääremaad'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי...כי",
+      "rationale": "korduv 'sest' seob põhjuse kahe ahelaga: lahkumise põhjus on Jerobeami tegu."
+    }
+  ],
+  "translation": "Sest levilased jätsid maha ⟨את⟩ oma karjamaad ja oma valdused ning läksid Juudasse ja Jerušalaimi, sest Jerobeam ja tema pojad olid nad kõrvale heitnud, et nad ei teeniks preestritena Jahvele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b97dea88e1073a12d2c8af50f811e8bb0ad0bd8b11c7f2ff9626f34feb09699",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/11\/13-16.1792557847901.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "jätsid maha"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levilased"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma karjamaad"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "oma karjamaad"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "ja oma valdused"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ning läksid"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Juudasse"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "ja Jerušalaimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "olid nad kõrvale heitnud"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ja tema pojad"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "preestrina teenimast"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:44:07.902680263Z",
+  "model": "glm-5.3"
+}

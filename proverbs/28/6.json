@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "süütuses",
+      "rationale": "בתומו tähendab 'täiuslikkuses, lihtsuses, süütuses' — moraalne terviklikkus, mitte õiguslik süüatus üksi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ta⟩",
+      "rationale": "Heebrea והוא עשיר on rõhutus 'ja tema (on) rikas'; eesti keel vajab asesõna."
+    }
+  ],
+  "translation": "Parem on vaene, kes käib süütuses, kui teid moonutav, kuigi ⟨ta⟩ on rikas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "70ab27c8be0155fcd212a6e8a3f6308fc4e267f9894af80499f5bbb4b777a040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/28\/5-8.1792554990337.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "רש",
+      "gloss": "vaene"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kes käib"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "süütuses"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "teid moonutav"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "teid"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kuigi ⟨ta⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "rikas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:30.338817419Z",
+  "model": "glm-5.3"
+}

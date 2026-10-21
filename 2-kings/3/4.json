@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נקד",
+      "rationale": "lemma esineb Tanahhis harvalt; tähendab 'laikudega märkija', karja omanikku\/kasvatajat."
+    },
+    {
+      "kind": "measurement",
+      "subject": "andam",
+      "rationale": "Sada tuhat tall ja sada tuhat jäärade — andami suurused loendatuna."
+    },
+    {
+      "kind": "crux",
+      "subject": "צמר",
+      "rationale": "Kas 'villaga kaetud' käib jäärade kohta (KJV) või on andamiks vill (ASV\/JPS 'the wool of...')."
+    }
+  ],
+  "translation": "Ja Meša, Moabi kuningas, oli lambakasvataja, ja ta maksis Jisraeli kuningale sada tuhat tall ja sada tuhat täiskasvanud jäärade villaga kaetud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/3\/1-4.1792545939057.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Ja Meša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "lambakasvataja"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ja ta maksis"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningale"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sada"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "tall"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ja sada"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "täiskasvanud jäärade"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "villaga kaetud"
+    }
+  ],
+  "timestamp": "2026-10-21T01:25:39.060431280Z",
+  "model": "glm-5.3"
+}

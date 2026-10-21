@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "eesti keel nõuab olemasoluverbi, heebrea jätab selle ära"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כמחנה אלהים",
+      "rationale": "'nagu Elohimi väerlaager' — üliinimlik suuruse väljendus, mitte väga Elohim ise"
+    }
+  ],
+  "translation": "sest ajal, päev päevalt, tulid nad Davidi juurde teda aitama, kuni ⟨oli⟩ väerlaager nii suur nagu Elohimi väerlaager.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0294cb332435402e729a92ffedc7af984a1e6c6df84dd3d12deb3885ff3331f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/12\/21-24.1792557348136.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päevalt"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tulid nad"
+    },
+    {
+      "surface": "על",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "teda aitama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "väerlaager"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "nagu ... väerlaager"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:48.137591123Z",
+  "model": "glm-5.3"
+}

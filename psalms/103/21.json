@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kõik tema väed",
+      "rationale": "Käskiv kutse kõigile JAHVE vägedele teda õnnistada, psalmi lõpuhoogne."
+    },
+    {
+      "kind": "substitution",
+      "subject": "teenijad",
+      "rationale": "משרתיו on sõna otseses mõttes 'tema teenindajad' (kultuspersonali sõna), kujundilikult ka 'tema kaastöölised'."
+    }
+  ],
+  "translation": "Õnnistage Jahvet, kõik tema väed, tema teenijad, kes täidavad tema tahtmist!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/21-22.1792553766371.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Õnnistage"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "tema väed"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "tema teenijad"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "kes täidavad"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "tema tahtmist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:06.372303124Z",
+  "model": "glm-5.3"
+}

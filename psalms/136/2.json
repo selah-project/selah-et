@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb hesed, mitte 'halastus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "kestab",
+      "rationale": "Heebrea puudub verbi; eesti keel nõuab seda"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "Käskkõne: andke tänu"
+    }
+  ],
+  "translation": "Andke tänu jumalate Elohimile, sest igavesti ⟨kestab⟩ tema hesed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb3f379a19527be1d91a41c97a2238e964d9491f614b36e286e8a60337d343f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/136\/2-3.1792558627074.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Andke tänu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "jumalate Elohimile"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "jumalate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesed"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:07.079311994Z",
+  "model": "glm-5.3"
+}

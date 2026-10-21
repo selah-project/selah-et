@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "mis saab olema",
+      "rationale": "tulevik on inimesele varjatud — keegi ei saa seda talle kuulutada"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "eesti keel vajab viitavaid asesõnu, mida heebrea küsilause ei kanna"
+    }
+  ],
+  "translation": "Sest tema ei tea, mis saab olema, sest kui see saab olema, kes ⟨seda⟩ talle kuulutab?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/8\/5-8.1792556100097.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei ole ta"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tea"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "saab olema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "saab olema"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kuulutab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:00.098142830Z",
+  "model": "glm-5.3"
+}

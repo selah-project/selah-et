@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "Tähendab sõna-sõnalt 'laida kõrv laiali'; tõlgitud 'pane kõrva'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הגיגי",
+      "rationale": "'Murmatus, ohise nurin' — tõlkijad pakuvad 'mõtisklus', 'ohkamine', 'palve'."
+    }
+  ],
+  "translation": "Mu sõnad — pane kõrva, Jahve, mõista mu mõtisklust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3e39ade9600d4388a3cc353c2f73cfd4e904612ceb9003ca67fa8913cd679690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/5\/1-4.1792552164559.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Mu sõnad"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pane kõrva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "mõista"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "mu mõtisklust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:24.560072192Z",
+  "model": "glm-5.3"
+}

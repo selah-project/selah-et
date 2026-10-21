@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tule tõusmine",
+      "rationale": "Heebrea salm jätab tegusõna otsesõnalt mainimata (ellips) — verbi paralleel jääb eelmistest salmidest; eesti keeles lisatud ⟨…⟩ märgiga."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרים",
+      "rationale": "Kirjutatud nagu 'mäed', kuid osutatud on HÖRIMIM (ram, kõrgusse tõusma): 'kõrbest, tõusust' (LXX, Rashi) vs 'mägede kõrbest' (JPS)."
+    }
+  ],
+  "translation": "Sest ei idast ega läänest ega kõrbest, mägede ‹kõrgustest›, ‹tule tõusmine›.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/75\/5-8.1792553371524.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "idast"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ega läänest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kõrbest"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägede"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:31.525596409Z",
+  "model": "glm-5.3"
+}

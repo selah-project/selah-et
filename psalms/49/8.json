@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא פדה יפדה",
+      "rationale": "Infinitiivi-absoluudi kordus 'ei lunasta lunastades' = tugevdatud eitus, 'ei saa üldse lunastada'."
+    },
+    {
+      "kind": "crux",
+      "subject": "inimese eest",
+      "rationale": "איש võib olla objekt ('inimese eest') või subjekt ('inimene ei anna'); mõlemad lõpevad lunaraha mõttega."
+    }
+  ],
+  "translation": "Vend ei lunasta ⟨üldse⟩; inimese eest ei anna Elohimi juurde tema lunaraha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/5-8.1792552893206.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "vend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "⟨üldse⟩ lunasta"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "lunastama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimese eest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anna"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimi juurde"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "tema lunaraha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:33.208011514Z",
+  "model": "glm-5.3"
+}

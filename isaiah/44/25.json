@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 44:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "narriks",
+      "rationale": "ישכל on 'saama rumalaks\/tõretsejaks'; 'narriks' kannab pildi, kuid heebrea sõna ütleb 'teeb rumalaks'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדים",
+      "rationale": "'valetajate' vs 'ennustajate linnud (בָּדִים tähendab nii 'valed' kui 'ennustused') — KJV 'liars', teised 'diviners'."
+    }
+  ],
+  "translation": "Kes teeb tühjaks valetajate tunnused ja ajab ennustajad hulluks, kes pöörab targad tagurpidi ja nende teadmise teeb ta narriks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "006ac0daa57af6a0823b38da88c03a5109e91d0f6e8e8c4ec7b1c0bb6e2b73a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/44\/25-28.1792547485774.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "teeb tühjaks"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tunnused"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "valetajate"
+    },
+    {
+      "surface": "וקסמים",
+      "gloss": "ja ennustajad"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ajab hulluks"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "pöörab"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "targad"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tagurpidi"
+    },
+    {
+      "surface": "ודעתם",
+      "gloss": "ja nende teadmise"
+    },
+    {
+      "surface": "ישכל",
+      "gloss": "teeb narriks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:51:25.774773423Z",
+  "model": "glm-5.3"
+}

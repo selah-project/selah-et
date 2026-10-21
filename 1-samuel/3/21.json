@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "end",
+      "rationale": "Nifali refleksiivne 'näidata end' nõuab eesti keeles asesõna 'end'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sõna kaudu",
+      "rationale": "בדבר יהוה võib olla ka 'Jahve sõnaga' \/ 'läbi Jahve sõna' — instrumentaal, mitte koht."
+    }
+  ],
+  "translation": "Ja Jahve jätkas end näitamist Šilos, sest Jahve oli end Šilos Šemuélile avaldanud, Jahve sõna kaudu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/3\/21-21.1792543682287.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "jätkas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "end näitamist"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Šilos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "oli end avaldanud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨endale⟩"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuélile"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "Šilos"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sõna kaudu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T00:48:02.288343Z",
+  "model": "glm-5.3"
+}

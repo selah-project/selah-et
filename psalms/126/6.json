@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוך ילך ... בא יבוא",
+      "rationale": "lõpmatu absolutiivi kordus: 'minnes ta läheb, tulles ta tuleb' — kindel, põhimõtteline tegevus"
+    },
+    {
+      "kind": "crux",
+      "subject": "משך הזרע",
+      "rationale": "kas 'seemnemõõt (kott seemnetega)' või 'pretsioosne seeme'; KJV 'precious seed' vastu JPS 'measure of seed'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשא ... נשא",
+      "rationale": "sama verbum kaks korda: nuttes kannab — rõõmutsedes kannab; peegeldab salmi 5 rööpaid"
+    }
+  ],
+  "translation": "Minnes ta läheb ja nuttes kannab seemnemõõdu; tulles ta tuleb hõiskamises, kandes oma kimbud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1463c9e58546f1aba4e5cd25b89439d43fbe2911171d2f9ada8db4f54e962d30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/126\/5-6.1792554202517.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "minnes"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ta läheb"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ja nuttes"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kannab"
+    },
+    {
+      "surface": "משך",
+      "gloss": "seemnemõõdu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "seemne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tulles"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ta tuleb"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "hõiskamises"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kandes"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "oma kimbud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:22.518020208Z",
+  "model": "glm-5.3"
+}

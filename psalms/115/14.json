@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עליכם עליכם",
+      "rationale": "Korduv 'teile, teile' — rõhutav kordus, eesti keeles säilitatud."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli kogudus",
+      "rationale": "Otsene pöördumine teises mitmuses: 'teile ... teie lastele'."
+    }
+  ],
+  "translation": "Jahve lisab teile, teile ja teie lastele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/13-16.1792553977409.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "lisab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "teie lastele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:37.409718475Z",
+  "model": "glm-5.3"
+}

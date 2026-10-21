@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "David vastab Saulile otse küsimusega, mis väljendab alandust."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti küsimus vajab kopulat, heebrea puuduliku lause puhul see puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומי חיי",
+      "rationale": "'Kes on mu elu' — otsene küsimus sõna חיי kohta; võimalik ka 'mis on mu elu(tähtsus)'; tõlked kasutavad nii 'kes' kui 'mis'."
+    }
+  ],
+  "translation": "Ja David ütles Saulile: Kes ma olen ja kes ⟨on⟩ mu elu või mu isa perekond Jisraelis, et minust saaks kuninga väimees?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/18\/17-20.1792544085353.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Saulile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulile"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ma olen"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "või kes"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "perekond"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "minust saaks"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "väimees"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninga"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:45.356467273Z",
+  "model": "glm-5.3"
+}

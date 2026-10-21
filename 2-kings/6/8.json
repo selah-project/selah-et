@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "'selline-selline' — heebrea väljend nimeta kohta, 'nii-ja-nii'."
+    },
+    {
+      "kind": "addition",
+      "subject": "panen",
+      "rationale": "Salm puudub; verb ⟨panen⟩ lisatud eesti keele nõudel."
+    }
+  ],
+  "translation": "Ja Arami kuningas sõdis Jisraeli vastu ja pidas nõu oma teenritega, öeldes: Sellise-sellisesse kohta ⟨panen⟩ oma laagri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/6\/5-8.1792545976396.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ja kuningas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "sõdis"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraeli vastu"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ja pidas nõu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "koos"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oma teenritega"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-------"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kohta"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "selline-selline"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "niisugune"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "oma laager"
+    }
+  ],
+  "timestamp": "2026-10-21T01:26:16.399236990Z",
+  "model": "glm-5.3"
+}

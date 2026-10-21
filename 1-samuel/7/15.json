@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kohutas",
+      "rationale": "שפט hõlmab nii kohtumõistmist kui valitsemist-juhtimist; 'kohutama' on kitsam"
+    }
+  ],
+  "translation": "Ja Šemuel kohutas ⟨את⟩ Jisraeli kõik oma elu päevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/7\/13-16.1792543839646.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ja kohutas"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "oma elu"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:39.649118128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזך\/עזי",
+      "rationale": "v. 17 'Su vägi' ja v. 18 'minu vägi' moodustavad ümberlülituse — Jumala vägi mu väeks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mängin keelt",
+      "rationale": "זמר tähendab sõn-sõnalt keelepilli kautamist — 'kiita' kaotab pildi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb kõlana, ei tõlgita ühe sõnaga"
+    }
+  ],
+  "translation": "Minu vägi, Sinule mängin keelt, sest Elohim on mu kaljulinnus, mu hesedi Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/59\/17-18.1792553041873.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Minu vägi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sinule"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mängin keelt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mu kaljulinnus"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "mu hesedi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:01.874085602Z",
+  "model": "glm-5.3"
+}

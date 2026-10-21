@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Estonian requires a copula in the recognition formula; Hebrew omits it."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "",
+      "rationale": "על גבול reads as 'on\/at the border'; Estonian composite 'piiril' absorbs the preposition."
+    }
+  ],
+  "translation": "Mõõga läbi te langeste; Jisraeli piiril mõistan ⟨את⟩ teile kohust, ja te tunnete ära, et mina ⟨on⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/11\/9-12.1792549710141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "Mõõga läbi"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "te langeste"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "piiril"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "mõistan kohust"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teile",
+      "marks": "teile"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ja te tunnete ära"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:28:30.143085346Z",
+  "model": "glm-5.3"
+}

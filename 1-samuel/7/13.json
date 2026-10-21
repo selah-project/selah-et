@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 7:13",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alistati",
+      "rationale": "ויכנעו on 'kummardati, painutati põlvi' — alandati; 'alistati' kannab võitu tähenduse"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Jahve käsi oli ... vastu",
+      "rationale": "Heebrea 'käsi oli peal (ב)' — võimu väljendus, 'vastu' on lisatud suuna selguseks"
+    },
+    {
+      "kind": "elision",
+      "subject": "יספו עוד",
+      "rationale": "sõna-sõnalt 'ei lisanud enam' — 'ei püüdnud enam' on idioomi silumine"
+    }
+  ],
+  "translation": "Ja alistati ⟨את⟩ pliistlased ega püüdnud nad enam tulla Jisraeli piiridesse; ja Jahve käsi oli pliistlaste vastu kõik Šemueli päevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/7\/13-16.1792543839646.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "alistati"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "pliistlased"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "püüdnud nad enam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tulema"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "piiridesse"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja oli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "pliistlaste vastu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemueli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:39.647741026Z",
+  "model": "glm-5.3"
+}

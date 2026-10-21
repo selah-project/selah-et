@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingi",
+      "rationale": "נפשות on pigem elujõud\/hingamine, mitte kehatu hing"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Kaudse objekti asesõna lisatud selguseks"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שמר נפשות חסידיו",
+      "rationale": "Eraldiseisev absoluutne fraas: 'hoidja oma häädade hingele' — võib olla juhatus, mitte jaatus"
+    }
+  ],
+  "translation": "Jahvet armastajad, vihkage kurja! Jahve hoiab oma häädade hingi, ta päästab nad õelate käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/97\/9-12.1792553685558.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "armastajad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "vihkage"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hoiab"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "hingi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "oma häädade"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "päästab nad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:45.559739128Z",
+  "model": "glm-5.3"
+}

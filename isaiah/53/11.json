@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראה mida näeb",
+      "rationale": "Qumran ja LXX lisavad 'valgust' ('näeb valgust ja rahuldub') — Masoreta tekstil pole objekti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצדיק צדיק",
+      "rationale": "sama juur צדק kordus: 'õigustab õige' — eesti keeles osaliselt alles."
+    }
+  ],
+  "translation": "Oma hinge vaevast näeb ta ⟨⟩, rahuldub; oma teadmisega õigustab mu õige teener paljusid, ja nende põlgusi kannab tema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/53\/9-12.1792547642870.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "oma hinge vaevast"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hinge"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näeb ta"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "rahuldub"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "oma teadmisega"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "õigustab"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mu teener"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "paljusid"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "ja nende põlgusi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "kannab"
+    }
+  ],
+  "timestamp": "2026-10-21T01:54:02.871270204Z",
+  "model": "glm-5.3"
+}

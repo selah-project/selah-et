@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "heebrea puudub kopeer; eesti nõuab selle"
+    },
+    {
+      "kind": "crux",
+      "subject": "בריחיה",
+      "rationale": "מaa 'pulgad\/puuked' — vangi väravate pulgad kui kujund, mitte 'riivid' ega 'ahelad'"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "פleanud 'kõdunemine' (KJV corruption) vs 'auk\/lõks' — juur שחת tähendab kaevu, mis hävitab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "alusteni",
+      "rationale": "קצבי מ_iilgab kujund 'lõigatud servadeni' — mägede juured\/alused"
+    }
+  ],
+  "translation": "Mägede alusteni laskusin maa, tema pulgad ⟨olid⟩ mu vastu igavesti; aga sina tõid mu elu üles august, Jahve, mu Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83c5c736b11b86e06aa1e4ec41bcb7d4ad4f3869de26dec6528ba92fa90d9227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jonah\/2\/6-7.1792558526894.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "alusteni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägede"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "laskusin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "tema pulgad"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mu vastu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "aga sina tõid üles"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "august"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mu elu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:26.907639613Z",
+  "model": "glm-5.3"
+}

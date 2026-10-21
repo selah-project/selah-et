@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לעיניו",
+      "rationale": "sõna-sõnalt 'tema silmade jaoks', tõlgitud 'tema silmade ees'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושרף…ישרף",
+      "rationale": "salm algab ja lõpeb samale juurele שרף tagasihoidlik ümarmõistega, kadunud on see, et tegu on üheainsa teoga"
+    }
+  ],
+  "translation": "Ja ta põletagu ⟨את⟩ lehm tema silmade ees: ⟨את⟩ tema naha ja ⟨את⟩ tema liha ja ⟨את⟩ tema vere koos tema sõnnikuga põletagu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/19\/5-8.1792540145333.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "ja ta põletagu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehm"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "lehm"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "tema silmade ees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema naha"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "tema naha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema liha"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "tema liha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema vere"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "tema vere"
+    },
+    {
+      "surface": "על",
+      "gloss": "koos"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "tema sõnnikuga"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "põletagu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:49:05.334433810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kõlasõna; כלתה on tegusõna, kuid eesti vajab ühendussõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on kurgu\/hingamine\/elujõud, mitte 'hing' tunnetuses"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Psaltrii otsekõne Jumalale"
+    }
+  ],
+  "translation": "Minu nefesh on lõpuni oodata sinu päästmist; sinu sõna peale ma loodan.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/81-84.1792554093960.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "on lõpuni"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "sinu päästmist"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "minu nefesh"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sinu sõna peale"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ma loodan"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:33.960751214Z",
+  "model": "glm-5.3"
+}

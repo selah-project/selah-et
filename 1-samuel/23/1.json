@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lõustakud",
+      "rationale": "גרנות on lõikamisplatsid, avatud tasased alad, mitte laadad"
+    },
+    {
+      "kind": "addition",
+      "subject": "teatati",
+      "rationale": "Heebrea ויגדו on aktiivne 'nad teatasid', eesti kõneleb passiivis"
+    }
+  ],
+  "translation": "Ja Davidile teatati, öeldes: Vaata, plistid võitlevad Keila vastu ja nad rööstavad ⟨את⟩ lõustakuid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0ff76f86f965a3bb19e8739d2615bbd7d71d83f7dc8c2ba8d4958cef6bda0e04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/23\/1-4.1792544188319.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Ja Davidile teatati"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plistid"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "võitlevad"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "Keila vastu"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ja nemad"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "rööstavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lõustakud"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "lõustakud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:56:28.320711835Z",
+  "model": "glm-5.3"
+}

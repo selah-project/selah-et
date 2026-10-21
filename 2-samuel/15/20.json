@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sinuga",
+      "rationale": "Heebrea ütleb üksnes 'hesed ja tõde'; adressaat lisatud eesti keeles loetavuseks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse kõla järgi 'hesed' — 'armastus' või 'halastus' üksi ei kannaks sõna tervikut."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "'sinna, kuhu' kannab suuna; eraldi eessõna ei vajata."
+    }
+  ],
+  "translation": "Eile saabusid sa, ja täna peaksin ma sind hulguma panna meiega minema? Mina aga lähen sinna, kuhu mina lähen; pöördu tagasi ja too tagasi ⟨את⟩ oma vennad enda juurde — hesed ja tõde sinuga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2655ab66004121c956557883e3353d19732b57ecff9aaa23052efb676f10f488",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/15\/17-20.1792544759944.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "Eile"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "saabusid sa"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "ja täna"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "peaksin ma sind hulguma panna"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "meiega"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "minema"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Mina aga"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "lähen"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sinna, kuhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "lähen"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "ja too tagasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma vennad"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "oma vennad"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "enda juurde"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja tõde"
+    }
+  ],
+  "timestamp": "2026-10-21T01:05:59.947065189Z",
+  "model": "glm-5.3"
+}

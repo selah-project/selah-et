@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 1:10",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eunuhid",
+      "rationale": "KJV 'chamberlains' ja eesti tava peidab, et סריסים on sõna-sõnalt eunuhid"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse",
+      "rationale": "seitse nimetatud eunuhhi — arv täieneb loetelu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כטוב לב",
+      "rationale": "heebrea idiom 'kui süda oli hea' = veinist rõõmus"
+    }
+  ],
+  "translation": "Seitsmendal päeval, kui kuninga süda oli veinist rõõmus, ütles ta Mehumanile, Biztale, Harbonale, Bigtale ja Abagtale, Zetarile ja Karkasele — seitsele eunuhile, kes teenisid ⟨את⟩ kuninga Ahšveroši palee ees —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe5a3fb65ca18f924811ba7cb1573bd07e27d81351854287fbf50aec3b545b39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/9-12.1792556173578.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsmendal"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "kui ... rõõmus"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "veinist"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "למהומן",
+      "gloss": "Mehumanile"
+    },
+    {
+      "surface": "בזתא",
+      "gloss": "Biztale"
+    },
+    {
+      "surface": "חרבונא",
+      "gloss": "Harbonale"
+    },
+    {
+      "surface": "בגתא",
+      "gloss": "Bigtale"
+    },
+    {
+      "surface": "ואבגתא",
+      "gloss": "ja Abagtale"
+    },
+    {
+      "surface": "זתר",
+      "gloss": "Zetarile"
+    },
+    {
+      "surface": "וכרכס",
+      "gloss": "ja Karkasele"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "seitsele"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "eunuhile"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "kes teenisid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuninga Ahšveroši palee"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palee ees"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahšveroši"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:13.579744385Z",
+  "model": "glm-5.3"
+}

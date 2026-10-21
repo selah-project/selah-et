@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "nefesh on kõri\/elujõud, mitte 'hing' filosoofilises mõttes; hoian heebrea sõna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אנה",
+      "rationale": "kolmas ja neljas 'kuni millal' — psalmi neljaosaline korduv hüüd"
+    }
+  ],
+  "translation": "Kui kaua seadsin ma nõu oma nefeshis, kurbust mu südames päevast päeva? Kui kaua tõuseb mu vaenlane minu üle?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/13\/1-4.1792552306370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kui kaua"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kaua"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "seadsin ma"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "nõu"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "oma nefeshis"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kurbust"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "mu südames"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päevast päeva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kui kaua"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kaua"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "tõuseb"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mu vaenlane"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu üle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:46.372161529Z",
+  "model": "glm-5.3"
+}

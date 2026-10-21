@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 27:8",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tüürimehed",
+      "rationale": "חבל on sõnast juhtnööri\/trossi siduma — laevajuht, mitte lihtsalt 'meremees' nagu KJV 'pilots\/mariners' vahel segunevad"
+    },
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "heebrea puudub kopeeriv verb peale המה; eesti vajab seda"
+    }
+  ],
+  "translation": "Tsidoni ja Arvadi asukad olid sinu sõudjad; su targad, Tsor, olid sinus, nemad ⟨olid⟩ su tüürimehed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eb68945cd2dfb6c5526b0615606e03fd4832e266a4f84f0d022975654ec02bc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/27\/5-8.1792550279031.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "asukad"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "וארוד",
+      "gloss": "ja Arvadi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olid"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sõudjad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "su targad"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "olid"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinus"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "su tüürimehed"
+    }
+  ],
+  "timestamp": "2026-10-21T02:37:59.032112650Z",
+  "model": "glm-5.3"
+}

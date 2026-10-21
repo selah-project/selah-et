@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בראשית",
+      "rationale": "Absoluutne ('alguses') vs konstrukt ('alguses, kui \/ Jumala loomise alguses', nagu YLT) — vokaalitušiir lubab mõlemat."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בראשית ... ברא",
+      "rationale": "Kõlasõna: bereshit \/ bara — algus ja loomine kõlavad, eesti keeles kaob."
+    },
+    {
+      "kind": "substitution",
+      "subject": "taeva",
+      "rationale": "השמים on kaksus ('kaks taevast'), eesti üksikkeskus ei anna edasi."
+    }
+  ],
+  "translation": "Alguses lõi Elohim ⟨את⟩ taeva ja ⟨את⟩ maa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/1\/1-4.1792537346142.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Alguses"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "lõi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taeva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:26.142637827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sinu üle",
+      "rationale": "Heebrea בך 'sinus' tähendab kohati 'sinu vastu\/sinu üle' — eesti kohakäändus nõuab ülekannet."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פיך \/ ושפתיך",
+      "rationale": "Suu ja huuled paarisrõhulise paralleelina; korduv 'sinu' rõhutab süü iseloomu."
+    }
+  ],
+  "translation": "Sinu suu kuulutab sind süüdi, ja mitte mina, ja sinu huuled vastavad sinu üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/15\/5-8.1792555273506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "kuulutab sind süüdi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sinu suu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ja sinu huuled"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "vastavad"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu üle"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:13.507364235Z",
+  "model": "glm-5.3"
+}

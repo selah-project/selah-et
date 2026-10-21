@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המשפילי לראות בשמים",
+      "rationale": "otsekui Jumal 'madaldab end', et näha taevas — JPS 'vaatab madalalt alla taevale'; kujund Jumala ülalt alla painumisest"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשמים",
+      "gloss": "taevas — heebrea duaalsus 'kaks taevast' eesti keeles üheks"
+    }
+  ],
+  "translation": "kes painutab end alla vaatama taevas ja maa peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b66ab65988add8a6d65d65d76d0feb34f02fdd6f45802f496aaf324e7f7f74ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/113\/5-8.1792553944910.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "kes painutab end alla"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vaatama"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevas"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ja maa peal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:04.911106302Z",
+  "model": "glm-5.3"
+}

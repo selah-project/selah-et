@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rasusad",
+      "rationale": "דשנים sõna-sõnalt 'rasused, õlised' — viljakuse rikkus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rohelised",
+      "rationale": "ורעננים 'rohelised, värskehaljad' — vaevkuse puudumine"
+    }
+  ],
+  "translation": "Veel kannavad nad vilja vanas eas, rasusad ja rohelised nad ⟨on⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a2ee6fe7326f9c35c658c4976110a7c26f5102519ae42e133bf41a0e4469067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/14-15.1792558633599.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "kannavad vilja"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "vanas eas"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "rasusad"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "rohelised"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:13.601906757Z",
+  "model": "glm-5.3"
+}

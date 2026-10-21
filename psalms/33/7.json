@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כנד",
+      "rationale": "Hapax: 'kuhjäsis' (nagu kuhja) — üksnes siin Tanahhis"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנד",
+      "rationale": "Sõna esineb Tanahhis ainult selles salmis"
+    }
+  ],
+  "translation": "Kogudes nagu kuhja mere veed, pannes sügavused oma tagavaradesse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/33\/5-8.1792552596760.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "kogudes"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "nagu kuhja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "veed"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "pannes"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "tagavaradesse"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "sügavused"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:36.761834519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "jõgede",
+      "rationale": "נהרות tähendab vooluveekogusid, sh kosmoloogilised ürgjõed, mitte ainult jõed"
+    }
+  ],
+  "translation": "Sest tema on selle merede peale rajanud ja jõgede peale selle püstitanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/24\/1-4.1792552551892.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "merede"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "on rajanud selle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja peale"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "jõgede"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "selle püstitanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:51.893091199Z",
+  "model": "glm-5.3"
+}

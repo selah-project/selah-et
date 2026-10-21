@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש ei ole 'hing' vaid kõri\/elujõud; jäetud kõla järgi 'nefesh'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיה\/אחסה",
+      "rationale": "Sama juur חסה kordub: 'varjab end' ja 'pugema' — usalduse kajastus, eesti keeles osaliselt säilinud."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Pöördumine otse Elohimi poole palves."
+    }
+  ],
+  "translation": "Ole mulle armuline, Elohim, ole mulle armuline, sest sinu juures varjab end mu nefesh, ja su tiibade varju ma pugema, kuni hädad on üle läinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/1-4.1792553095830.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ole mulle armuline"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ole mulle armuline"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu juures"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "varjab end"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefesh"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ja ... varju"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "su tiibade"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ma pugema"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "on üle läinud"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "hädad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:55.831276616Z",
+  "model": "glm-5.3"
+}

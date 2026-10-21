@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגרך",
+      "rationale": "גור 'elasema\/viibima' — 'elada juures' vs 'püsida'; valida 'taluda juures' kui võõrastemaja-pilt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "juures",
+      "rationale": "Heebrea niides 'elada\/ööbida Sinu juures', eesti kasutab 'taluda' võõrana."
+    }
+  ],
+  "translation": "Sest sina ei ole El, kellele meeldib õelus, kurja ei saa ⟨sina⟩ taluda juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/5\/5-8.1792552137156.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kellele meeldib"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õelus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "saada taluda juures"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:08:57.157461709Z",
+  "model": "glm-5.3"
+}

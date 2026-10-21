@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 4:17",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea ואין puudub verbi個人 piisav; eesti keel vajab kaudset kõneviisi"
+    },
+    {
+      "kind": "addition",
+      "subject": "läks",
+      "rationale": "איש שלחו המים on nib-compact; verb puudub ja tuleb juurde lisada"
+    },
+    {
+      "kind": "crux",
+      "subject": "איש שלחו המים",
+      "rationale": "JPS: 'igaüks, kes läks vee juurde, kandis relva' vs otsetõlge 'igaüks tema oda, vesi'; šelach = oda\/käsirelv"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פשטים",
+      "rationale": "verbi põhitähendus on 'lahti riietuma'; kasutusel ka 'vaenulikult rivistuma', kuid siin 'riided seljast võtma'"
+    }
+  ],
+  "translation": "Ja mina, mu vennad, mu noored ja valve mehed, kes ⟨olid⟩ mu järel — meie ei võtnud oma riideid seljast; igaüks ⟨läks⟩ vee juurde oma odaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f9519dbd50501233146a8189dabccccc38a30f3ad296efe85560628bcb5b4a73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/4\/17-17.1792556824415.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "ja ⟨oli⟩ ei"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "ja mu vennad"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "ja mu noored"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ja mehed"
+    },
+    {
+      "surface": "המשמר",
+      "gloss": "valve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mu järel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "meie"
+    },
+    {
+      "surface": "פשטים",
+      "gloss": "võtnud seljast"
+    },
+    {
+      "surface": "בגדינו",
+      "gloss": "meie riideid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "oma odaga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vee juurde"
+    }
+  ],
+  "timestamp": "2026-10-21T04:27:04.416680296Z",
+  "model": "glm-5.3"
+}

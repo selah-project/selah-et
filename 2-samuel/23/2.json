@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puuduv köidesõna; eesti keel nõuab seda."
+    },
+    {
+      "kind": "secret",
+      "subject": "Jahve ruahh",
+      "rationale": "Prohvetliku kõne päritolu: sõna ei tule Davidist endast, vaid Jumala ruahhist — väline autoriteet."
+    }
+  ],
+  "translation": "Jahve ruahh rääkis minus ja tema sõna ⟨on⟩ mu keelel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/23\/1-4.1792545017107.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minus"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ja tema sõna"
+    },
+    {
+      "surface": "על",
+      "gloss": "keelel"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mu keel"
+    }
+  ],
+  "timestamp": "2026-10-21T01:10:17.109854429Z",
+  "model": "glm-5.3"
+}

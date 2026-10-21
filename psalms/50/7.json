@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Otsene pöördumine rahva poole: 'Kuule, mu rahvas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואעידה בך",
+      "rationale": "'Tunnistan sinu vastu' vs. 'tunnistan sinule' — kohtupidamise kontekst toob süüdistava varjundi"
+    }
+  ],
+  "translation": "Kuule, mu rahvas, ja ma räägin, Jisrael, ja ma tunnistan sinu vastu: Elohim, su Elohim, olen mina.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/5-8.1792552936062.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ja ma räägin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ja ma tunnistan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinu vastu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "olen mina"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:16.064205699Z",
+  "model": "glm-5.3"
+}

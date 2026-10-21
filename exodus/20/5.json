@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kade",
+      "rationale": "קנא tähendab kadu\/-armukadet, mitte viha; eesti 'kade' hoiab sõna kuju"
+    },
+    {
+      "kind": "addition",
+      "subject": "põlv",
+      "rationale": "שלשים\/רבעים on 'kolmandat\/põlve järeltulijad' — 'põlv' lisatud arvsõna kõrvale"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolmas ja neljas põlv",
+      "rationale": "salm loeb põlved numbriliselt"
+    }
+  ],
+  "translation": "Ära kummarda neid ega teeni neid, sest mina, Jahve, su Elohim, olen kade El, kes karistab isade süüdi laste kaela, kolmandasse ja neljandasse põlveni neil, kes mind vihkavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/5-8.1792538550206.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "kummarda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "teeni neid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "kade"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "karistab"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süüdi"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "isade"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaela"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "laste"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmandasse põlveni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "neljandasse põlveni"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "neil, kes mind vihkavad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:22:30.207053575Z",
+  "model": "glm-5.3"
+}

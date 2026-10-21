@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Tunnistagu nad",
+      "rationale": "yiqtol kõneleb kas soove ('tunnistagu!') või kirjeldab ('nad tunnistavad') — KJV\/JPS valivad soovi, YLT näitab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "D2 keelab tõlkimise 'halastuseks'; jääb heebrea kõla 'hesed'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "soovijussiiv kutsub üles kiitma — salm on üleskutse, lugejat kaasatakse"
+    }
+  ],
+  "translation": "Tunnistagu nad Jahvele tema hesedi ja tema imetegu inimeste lastele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/29-32.1792553899330.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "tunnistagu nad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesedi"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ja tema imetegu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lastele"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimeste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:19.331523306Z",
+  "model": "glm-5.3"
+}

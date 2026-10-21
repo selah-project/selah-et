@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "ootuslik palve pöördub otseselt Jahve poole"
+    },
+    {
+      "kind": "addition",
+      "subject": "tulgu",
+      "rationale": "eesti nõuab kõneviimääramatut soovivormi, mis heebrea jussiiv kandes lisandub"
+    }
+  ],
+  "translation": "Jahve, kuule mu palvet, ja mu hüüatus tulgu sinu juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/1-4.1792553713475.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "kuule"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palvet"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ja mu hüüatus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinu juurde"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tulgu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.476030538Z",
+  "model": "glm-5.3"
+}

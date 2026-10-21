@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "Eitav küsimus 'kas ei' – heebrea eeldab jaatust vastust"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea passiivne osastis ונכבשה vajab eesti keeles kopeerat"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli ülemad",
+      "rationale": "David pöördub otse Jisraeli ülemate poole teises personas"
+    }
+  ],
+  "translation": "Kas ei ole Jahve, teie Elohim, teiega, ja kas ta ei ole andnud teile puhkust kõigilt poolt? Sest ta on andnud minu kätte ⟨את⟩ maa elanikud, ja maa ⟨on⟩ alistatud Jahve ees ja tema rahva ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7a1d1eec31ab0a9f0654063308885510e8603c5964bd1192b324bb5e138c2a92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/22\/17-19.1792557491492.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "kas ei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "teiega"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "andnud puhkust"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "kõigilt poolt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andnud"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "minu kätte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa elanikud"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "elanikud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ונכבשה",
+      "gloss": "alistatud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ja ees"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:38:11.493068762Z",
+  "model": "glm-5.3"
+}

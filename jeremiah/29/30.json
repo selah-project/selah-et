@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea ויהי puudub eesti kopeer; sulgudes lisatud"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "ötlemise infinitiiv renders as colon introducing direct speech"
+    }
+  ],
+  "translation": "Ja ⟨oli⟩ Jahve sõna Jirmejale järgmine:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b189fb87f47d6ec7e45dc14baa957a234487189bd3147d5036d65513f46c7c2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/30-31.1792558429990.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja ⟨oli⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jirmejale"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "järgmine:"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:49.991378905Z",
+  "model": "glm-5.3"
+}

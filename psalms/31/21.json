@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מרכסי",
+      "rationale": "Ainus koht Tanahhis — 'võrgust ikke', sõna pilt on seotud köitesilmadest võrgustikust."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סתר \/ צפן",
+      "rationale": "Kaks 'peitma' juurt korduvad paralleelses värsis; eesti keeles kaks erinevat sõna, heebrea peegeldus jääb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "onnis",
+      "rationale": "בסכה on sukkā, ajutine lehtonn — mitte 'paviljon' ega 'pühamu'."
+    }
+  ],
+  "translation": "Sa peidad nad oma näo varju, inimese võrkude eest; sa varjad nad onnis, keelte tüli eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/21-24.1792552661573.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "sa peidad nad"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "varju"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "oma näo"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "võrkude eest"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "sa varjad nad"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "onnis"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "tüli"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "keelte"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:41.574378123Z",
+  "model": "glm-5.3"
+}

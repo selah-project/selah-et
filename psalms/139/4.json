@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "koguni",
+      "rationale": "כלה tähendab 'kõik\/kokku' — 'sina tead seda kõik' või 'sina tead seda enne kui see lauldakse'"
+    },
+    {
+      "kind": "secret",
+      "subject": "sõna enne keelt",
+      "rationale": "Jumal tunneb veel välja ütlemata sõna — varjatud, sisemine teadmata asi on Talle avatud"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Otsene pöördumine: 'vaata, Jahve, sina tead'"
+    }
+  ],
+  "translation": "Sest sõna ei ole mu keelel — vaata, Jahve, sina tead selle koguni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/1-4.1792554325195.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "mu keelel"
+    },
+    {
+      "surface": "הן",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "sina tead"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "selle koguni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:25.197191775Z",
+  "model": "glm-5.3"
+}

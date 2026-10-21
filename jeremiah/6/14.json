@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על נקלה",
+      "rationale": "KJV 'slightly' (printsiip: nad ravisid põgusalt) vs 'sweet words' (geneva); heebrea kääne 'kerkelt, põlglikult'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום ואין שלום",
+      "rationale": "Kolmekordne šalom-kordus klimaksiga 'aga rahu ei ole'"
+    }
+  ],
+  "translation": "Ja nad ravisid ⟨את⟩ mu rahva murtut põgusalt, öeldes: rahu, rahu — aga rahu ei ole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/6\/13-16.1792548248324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "ja nad ravisid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu rahva murtut"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "murtut"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahva"
+    },
+    {
+      "surface": "על",
+      "gloss": "põgusalt"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "kerkelt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aga ei ole"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:04:08.326245353Z",
+  "model": "glm-5.3"
+}

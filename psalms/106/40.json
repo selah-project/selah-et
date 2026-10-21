@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "viha põles",
+      "rationale": "ויחר אף sõna-sõnalt 'nina kuumenes' = viha süttis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "näriv",
+      "rationale": "ותעב 'tõugab endast, peab jäledaks'; 'näriv' edastab füüsilise tõrje"
+    }
+  ],
+  "translation": "Ja Jahve viha põles tema rahva vastu, ja ta näriv ⟨את⟩ oma pärandi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/37-40.1792553852065.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Ja ... põles"
+    },
+    {
+      "surface": "אף",
+      "gloss": "viha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "tema rahva vastu"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ja ta näriv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma pärandi"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "oma pärandi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:32.066853345Z",
+  "model": "glm-5.3"
+}

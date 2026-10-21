@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 12:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ומזיח",
+      "rationale": "Vöö-sõna esineb Tanahhis ainult siin; pilt: ta lööb tugevate vöö lõdvaks, nad kaotavad jõu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפיקים",
+      "rationale": "Sõna tähendab ojanguange; siin metonüümia tugevate kohta, 'vöö vahemik' kui jõu koht."
+    },
+    {
+      "kind": "crux",
+      "subject": "רפה",
+      "rationale": "'Lõdvendab\/raiskab' — KJV 'nõrgestab tugevate jõu', ASV\/JPS 'lahutab vöö'; eesti järgib vöö-pilti."
+    }
+  ],
+  "translation": "Ta valab põlgust üllaste peale ja lõdvendab vööd tugevatel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6cce5daa9ee4f23dd0efc89477366f23b0eabe562369eef9efcbe8ad2d0311d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/21-24.1792555199744.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שופך",
+      "gloss": "valab"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "põlgust"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "üllaste"
+    },
+    {
+      "surface": "ומזיח",
+      "gloss": "ja vööd"
+    },
+    {
+      "surface": "אפיקים",
+      "gloss": "tugevatel"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "lõdvendab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:59.745315747Z",
+  "model": "glm-5.3"
+}

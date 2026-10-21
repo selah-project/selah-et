@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub sidusõna 'oli' — niminimetus lisatud sulgudes."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקוה",
+      "rationale": "מקוה 'kogumiskoht' jagab juurt salmi 9 sõnaga מקום ja verbiga יקוו — vete kogumine saab oma nime."
+    }
+  ],
+  "translation": "Ja nimetas Elohim ⟨את⟩ kuiva maa maaks ja vete kogumise nimetas ta meredeks. Ja nägi Elohim, et see ⟨oli⟩ hea.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f62476ec3a8ec90584dda549afd1ebb203cffe7948ea8641e427d4533d89a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/1\/9-12.1792537325903.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ja nimetas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "kuiva maa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maaks"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ja vete kogumise"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vete"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nimetas ta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "meredeks"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:05.904637112Z",
+  "model": "glm-5.3"
+}

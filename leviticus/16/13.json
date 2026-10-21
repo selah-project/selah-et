@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kapporet",
+      "rationale": "כפרת on koha nimi (kaane), mitte 'halastuse iste'; hoitakse kõla järgi."
+    },
+    {
+      "kind": "mystery",
+      "subject": "pilenkate",
+      "rationale": "Lõhnasuitsu pilv varjab tunnistuse kapporeti — see, mis on kõige püham, peab jääma katetuks."
+    }
+  ],
+  "translation": "Ja ta paneb ⟨את⟩ lõhnasuitsu tule peale Jahve näo ette, ja lõhnasuitsu pilv katab ⟨את⟩ kapporeti, mis on tunnistuse kohal, ja ta ei sure.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "599dd9c9827c6af35139595dfc9803e5ec7682da8900d6118de49e069c81a5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/16\/13-16.1792539443149.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ja ta paneb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lõhnasuitsu"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "lõhnasuitsu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "näo ette"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ja katab"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "pilv"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "lõhnasuitsu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporeti"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporeti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "tunnistuse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sure"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:23.150223454Z",
+  "model": "glm-5.3"
+}

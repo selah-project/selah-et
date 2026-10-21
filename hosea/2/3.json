@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Öelge",
+      "rationale": "Käskkõne kõnetab lugejat ja kogudust otse."
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja vendadele ja õdedele",
+      "rationale": "Otsene pöördumine Iisraeli laste poole."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמי \/ רחמה",
+      "rationale": "Nimed 'Ammi' (mu rahvas) ja 'Ruhamah' (armastatu) — nimekõned, mis tühistavad Ho 1:6-9 needuse."
+    }
+  ],
+  "translation": "Öelge oma vendadele: Mu rahvas; ja oma õdedele: Armastatu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b31616355a5530e5d6890226146878deefb310dbd4734f3406351c48fe5a5591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/2\/1-4.1792550955551.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Öelge"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "oma vendadele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mu rahvas"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ja oma õdedele"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Armastatu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:49:15.552835445Z",
+  "model": "glm-5.3"
+}

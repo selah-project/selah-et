@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרצין",
+      "rationale": "hiphil-partitsip 'jooksjad' — KJV 'valvurid', teised 'rahva jooksjad'; sõna-sõnalt 'jooksjad'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית יהוה",
+      "rationale": "otsetõlge 'Jahve koda' tavapärase 'pühamu\/templi' asemel, et Nimi jääks nähtavale."
+    }
+  ],
+  "translation": "Ja Atalja kuulis ⟨את⟩ häält — jooksjate, rahva — ja ta tuli rahva juurde Jahve koju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/13-16.1792546154426.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "häält"
+    },
+    {
+      "surface": "קול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "jooksjate"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ja ta tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koju"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:29:14.428418531Z",
+  "model": "glm-5.3"
+}

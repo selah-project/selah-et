@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "palve",
+      "rationale": "Jumalale suunatud palve: 'õpeta mind'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחד",
+      "rationale": "'tee mu süda üheks' (jagamatuks) vs 'ühenda mu süda' — heebrea verbi pilt on südame kokkuliitmine üheks"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אהלך",
+      "rationale": "Kohortatiiv 'ma kõnnin' kui enesele võetud lubadus, mitte tingiv 'siis ma kõnnin'"
+    }
+  ],
+  "translation": "Õpeta mind, Jahve, oma teed; ma kõnnin su tões. Ühtaegsaks mu süda su nime kartma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a8d55b0bff19daab32d0140ef27a4b8b5dcba43105abd7ab7cf05938910c57b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/86\/9-12.1792553511451.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "õpeta mind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "oma teed"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ma kõnnin"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "su tões"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ühtaegsaks"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "kartma"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "su nime"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:51.452883341Z",
+  "model": "glm-5.3"
+}

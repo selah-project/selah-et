@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keele koprulatt, heebreas puudub"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עדי עד",
+      "rationale": "Korduv 'igavesest igavani' — mõõtmatu kestuse märk"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אוה\/אותיה",
+      "rationale": "Salmis 13 ja 14 kordub sama ihalduse verb, siduv kajästus"
+    }
+  ],
+  "translation": "See on mu puhkepaik igavesest igavani; siin ma tahan istuda, sest mina olen teda ihaldanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/13-16.1792554262182.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "See"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "on mu puhkepaik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "עד",
+      "gloss": "igavani"
+    },
+    {
+      "surface": "פה",
+      "gloss": "siin"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ma tahan istuda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "olen teda ihaldanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:22.183568950Z",
+  "model": "glm-5.3"
+}

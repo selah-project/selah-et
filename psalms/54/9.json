@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ahastus",
+      "rationale": "צרה on sõnaotselt 'kitsus, ahtus' — 'ahastus' kannab kõige lähema kujundi"
+    },
+    {
+      "kind": "elision",
+      "subject": "ראתה עיני",
+      "rationale": "heebrea ütleb lihtsalt 'on näinud mu silm' — 'mu vaenlaste peale' katab בְּ eessõna, KJV 'näinud oma ihaldust' on lisatud tõlkepilt"
+    },
+    {
+      "kind": "crux",
+      "subject": "vaenlaste peale vaadanud",
+      "rationale": "KJV\/ASV: 'mu silm on näinud oma ihaldust mu vaenlaste peal' (lisatud 'ihaldus'); JPS\/BSB: lihtsalt vaadanud\/vahindanud vaenlasi — heebrea tekst lisata sõna puudub"
+    }
+  ],
+  "translation": "Sest kõigist ahastustest päästis ta mind, ja mu vaenlaste peale on mu silm vaadanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "826d8d16dd036ec13b32673ff7576212e0192b305b959f59d0736afb05f11d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/54\/9-9.1792552919400.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ahastustest"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "päästis ta mind"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ja mu vaenlaste peale"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "on vaadanud"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:59.400466277Z",
+  "model": "glm-5.3"
+}

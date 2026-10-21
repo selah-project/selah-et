@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תפרו",
+      "rationale": "פרר 'tükeldada, tühistada' lepingu kohta — 'muudate tühiseks' kannab murdmise pildi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בריתי … בריתי",
+      "rationale": "korduv 'minu leping' päeva ja ööga seob päeva-öö korra Davidi lepinguga (salm 21)"
+    }
+  ],
+  "translation": "Nõnda ütleb Jahve: kui te muudate tühiseks ⟨את⟩ minu päeva lepingu ja ⟨את⟩ minu öö lepingu, nii et päev ja öö ei oleks enam omal ajal —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "536010f4029c2e6799bad06c98b91fb4b0cc5413c4e94b27365538b6cbb567fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/33\/17-20.1792548851951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "muudate tühiseks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minu päeva lepingu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "minu lepingu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "minu öö lepingu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "minu lepingu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "öö"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nii et … ei"
+    },
+    {
+      "surface": "היות",
+      "gloss": "oleks"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päev"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öö"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "omal ajal"
+    }
+  ],
+  "timestamp": "2026-10-21T02:14:11.954150393Z",
+  "model": "glm-5.3"
+}

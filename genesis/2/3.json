@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "'mille Elohim oli loonud et teha' — infinitiivi lõpp on tummas: KJV 'ja tegi', JPS 'luues tegi', YLT 'valmistas tegemiseks'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel nõuab aeg- ja kõneviisi märke, mida heebrea puudutav verbi kuju ei kanna täielikult"
+    }
+  ],
+  "translation": "Ja Elohim õnnistas ⟨את⟩ seitsmendat päeva ja pühitses ⟨את⟩ selle, sest sel päeval ta lakkas kogu oma tööst, mille Elohim oli loonud ⟨et teha⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/2\/1-4.1792537363639.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ja õnnistas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seitsmendat päeva"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsmendat"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ja pühitses"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "selle (seitsmenda päeva)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sel"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ta lakkas"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "oma tööst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "oli loonud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨et teha⟩"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:43.640192276Z",
+  "model": "glm-5.3"
+}

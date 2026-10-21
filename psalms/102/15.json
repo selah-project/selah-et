@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחננו",
+      "rationale": "'nad armastavad\/leiavad meelt tema tolmust' vs 'tema tolm leiab armu' — subjekt on ähmane; KJV 'favour the dust thereof' loeb teenijad subjektiks."
+    }
+  ],
+  "translation": "Sest sinu teenijatele meeldivad ⟨את⟩ tema kivid ja ⟨את⟩ tema tolmu nad armastavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/13-16.1792553711651.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "meeldivad"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sinu teenijatele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema kivid"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "tema kivid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema tolm"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "tema tolm"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "armastavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:11.652630294Z",
+  "model": "glm-5.3"
+}

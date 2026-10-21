@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקח ... לקח ... ויקח",
+      "rationale": "Kolmekordne kordus 'võttis ... võttis ... võttis' — röövi põhjalikkuse retoorika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "varakambrid",
+      "rationale": "אוצרות on 'aared\/aidad'; 'varakamber' hoiab ladustamise tähenduse."
+    }
+  ],
+  "translation": "Ja ta võttis ⟨את⟩ Jahve koja varakambrid ja ⟨את⟩ kuninga koja varakambrid, ja ⟨את⟩ kõik ta võttis; ja ta võttis ⟨את⟩ kõik kuldsete kilbid, mille Šelomo oli teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80edccb1bd8991d69023936a1eb78523550bc1fc31a72819daaab35e9f47c076",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/14\/25-28.1792545544801.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ja ta võttis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varakambrid"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "varakambrid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "varakambrid"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "varakambrid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõik"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ta võttis"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ja ta võttis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik kilbid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "kilbid"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "kuldsete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    }
+  ],
+  "timestamp": "2026-10-21T01:19:04.802797171Z",
+  "model": "glm-5.3"
+}

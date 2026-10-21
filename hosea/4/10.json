@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשמר",
+      "rationale": "eitus puudub heebrea lõpus: kas 'nad jätsid jätma Jahvet' (loe: nad jätsid ta järel) või 'nad jätsid Jahvet, et [mitte] järgida' — enamus tõlkeid lisab eituse"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨et⟩",
+      "rationale": "eesti nõuab sidesõna, heebrea infinitivikonstruktsioon seda ei saa"
+    }
+  ],
+  "translation": "Ja nad söövad ega saa kõhu täis, nad hooravad ega sigi, sest ⟨את⟩ Jahve on nad hüljanud, ⟨et⟩ järgida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/4\/9-12.1792550906693.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ja nad söövad"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "saavad kõhu täis"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "nad hooravad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "sigi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "on nad hüljanud"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨et⟩ järgida"
+    }
+  ],
+  "timestamp": "2026-10-21T02:48:26.694378228Z",
+  "model": "glm-5.3"
+}

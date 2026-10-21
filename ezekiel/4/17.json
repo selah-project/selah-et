@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 4:17",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אישׁ ואחיו",
+      "rationale": "'mees ja tema vend' — üksteise poole pööratud või üheskoos hukkuvad: KJV 'one with another' vs BSB 'at the sight of one another'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hämmastugu",
+      "rationale": "נשם on otseselt 'tuhmuda\/kohketseda' — teadvuse kaotus näljast, mitte lihtne imestus."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בעונם",
+      "rationale": "eelpositraali 'pahateo sees' — nende süü sees närbuvad, eesti 'pärast\/palvel' oleks nõrgem."
+    }
+  ],
+  "translation": "selleks et nad jääksid puudu leivast ja veest, ja igaüks ja tema vend hämmastugu, ja nad närbuvad oma pahateo sees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "16399d0a0f4c5a6cb00357299a92ab5ee5afa4edd01fcb227539f90711388bea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/4\/17-17.1792549567882.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "selleks et"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "jääksid puudu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivast"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ja veest"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "hämmastugu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ja tema vend"
+    },
+    {
+      "surface": "ונמקו",
+      "gloss": "närbuvad"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "oma pahateo sees"
+    }
+  ],
+  "timestamp": "2026-10-21T02:26:07.883702073Z",
+  "model": "glm-5.3"
+}

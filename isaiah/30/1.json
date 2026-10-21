@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 30:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסכה",
+      "rationale": "'valatud kate\/kuju' vs 'katetus' vs 'leping' — KJV 'covering', ASV 'league'; juur נסך tähendab nii valamine kui lepingu sõlmimine."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת על חטאת",
+      "rationale": "kordus 'patt patu peale' — heebrea kordus rõhutab kuhjumist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוחי jääb 'minu ruahhiks', mitte 'vaimuks' üksi."
+    }
+  ],
+  "translation": "Häda maarjale lastele, kes ära pöörduvad — ütleb Jahve —, et teha plaani, aga mitte minult, ja valada valamist, aga mitte minu ruahhi, et kuhjata patt patu peale!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/30\/1-4.1792547185648.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Häda"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lastele"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "kes ära pöörduvad"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et teha"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "plaani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga mitte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minult"
+    },
+    {
+      "surface": "ולנסך",
+      "gloss": "ja valada"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "valamist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga mitte"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "minu ruahhi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "kuhjata"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "patt"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "patu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:46:25.648671668Z",
+  "model": "glm-5.3"
+}

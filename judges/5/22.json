@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 5:22",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דהרות",
+      "rationale": "Sõna דהרות (kihutamine) esineb Tanahhis ainult siin ja selle korduses."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדהרות דהרות",
+      "rationale": "Korduv kihutuse sõna teeb kapjade rütmi kuuldavaks; tõlkes kaks kordust."
+    },
+    {
+      "kind": "crux",
+      "subject": "אביריו",
+      "rationale": "'Tema vägevad' — kas vaenlase ratsuvägi või (sõna אביר 'täkk') otseselt 'ta täkud'."
+    }
+  ],
+  "translation": "Siis tagusid hobuse kabjad — kihutades, kihutades ta vägevaid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c495c5a9bc0eecb29a8893887700a6bb4f9fc7dac109ba6e072515db719f694b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/5\/21-24.1792541861551.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "tagusid"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "kabjad"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "hobuse"
+    },
+    {
+      "surface": "מדהרות",
+      "gloss": "kihutades"
+    },
+    {
+      "surface": "דהרות",
+      "gloss": "kihutades"
+    },
+    {
+      "surface": "אביריו",
+      "gloss": "ta vägevaid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:17:41.552652828Z",
+  "model": "glm-5.3"
+}

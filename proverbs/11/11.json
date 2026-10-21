@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Eesti keeles nõuab passiiv objekti, heebrea jätab selle nimeta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרום\/תהרס",
+      "rationale": "Tõuseb\/lammutatakse — vastandverbid sama süntaksi kahel poolel"
+    }
+  ],
+  "translation": "Õiglaste õnnistusega tõuseb linn üles, ja õelate suu järgi ⟨see⟩ lammutatakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "41c6229165c4af5a0f6304ad160214c060a21a801001977bf91eed4b3ddb948b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/9-12.1792554597194.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "õnnistusega"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "õiglaste"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "tõuseb üles"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "linn"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "ja suu järgi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "lammutatakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:57.195576583Z",
+  "model": "glm-5.3"
+}

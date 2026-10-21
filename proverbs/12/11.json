@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חסר לב",
+      "rationale": "sõna-sõnalt 'südant puudu' — eesti idiom 'südant ei jätku' moodi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ריקים",
+      "rationale": "'tühised' sõna-sõnalt 'tühjad'; KJV 'vain persons' lisab isikud"
+    }
+  ],
+  "translation": "Kes harib oma põldu, saab leivast kõhu täis; aga kes tühiste järele jookseb, sellel südant ei jätku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/9-12.1792554604556.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "kes harib"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "oma põldu"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "saab kõhu täis"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivast"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "aga kes jookseb järele"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "tühiste"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "sellel ei jätku"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südant"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:04.557520984Z",
+  "model": "glm-5.3"
+}

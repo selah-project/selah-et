@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 9:28",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מבלי יכלת",
+      "rationale": "kirjlikult 'mitte-võime puudusel', eestis 'ei olnud võimet'"
+    },
+    {
+      "kind": "addition",
+      "subject": "et",
+      "rationale": "Eesti eeldab siduva sõna ka vihkamise-põhjuse jaoks, heebreas vaid vav"
+    }
+  ],
+  "translation": "et maa, kust sa meid välja tõid, ei ütleks: Jahvel ei olnud võimet tuua neid maale, millest ta neile rääkis, ja et ta vihkas neid, tõi ta nad ⟨את⟩ välja neid tapma kõrbes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/9\/25-28.1792540822074.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "et ... ei"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ütleks"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kust"
+    },
+    {
+      "surface": "הוצאתנו",
+      "gloss": "sa tõid meid välja"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sealt"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "puudusel"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "võimest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvel"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "tuua neid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millest"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ta rääkis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ומשנאתו",
+      "gloss": "ja et ta vihkas"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "nad"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "tõi ta nad välja"
+    },
+    {
+      "surface": "להמתם",
+      "gloss": "neid tapma"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    }
+  ],
+  "timestamp": "2026-10-21T00:00:22.075345172Z",
+  "model": "glm-5.3"
+}

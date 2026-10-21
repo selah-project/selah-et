@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 9:31",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tunnevad minust õõvu",
+      "rationale": "Kreekas personifikatsioon: rõivad 'jävavad' kandja; eesti kõneleb 'õõvast'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טבל\/שחת",
+      "rationale": "Pesemise (v 30) ja uputamise kaevikusse terav vastandus, kordus 'puhas → määrdunud'"
+    }
+  ],
+  "translation": "siis Sa uputad mind kaevikusse ja mu rõivad tunnevad minust õõvu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "677818c64360e2db54f6b20bba5a2a3cbb7f36ece44bf0eb28f62c7c4f3d4907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/29-32.1792555235807.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "kaevikusse"
+    },
+    {
+      "surface": "תטבלני",
+      "gloss": "Sa uputad mind"
+    },
+    {
+      "surface": "ותעבוני",
+      "gloss": "ja tunnevad minust õõvu"
+    },
+    {
+      "surface": "שלמותי",
+      "gloss": "mu rõivad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:35.807871551Z",
+  "model": "glm-5.3"
+}

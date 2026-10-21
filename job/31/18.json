@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 31:18",
+  "book": "job",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "teda",
+      "rationale": "אנחנה naissoo asesõna 'teda' — kellele viitab: vaeslapsele (s 17) või lesale (s 16); tõlkijad lähevad lahku"
+    },
+    {
+      "kind": "addition",
+      "subject": "(ema)ihu",
+      "rationale": "בטן on kõht\/ihu; eesti vajab täiendit 'ema-', sest אמי järgneb"
+    }
+  ],
+  "translation": "sest noorusest saadik on ta kasvanud minu juures nagu isa juures, ja emaihuust saadik olen mina teda juhatanud —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ac5a585a0cb7c7cf53d43d252c4c6825a3972ab14fb327139150228dbc849521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/31\/17-20.1792555544300.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "noorusest saadik"
+    },
+    {
+      "surface": "גדלני",
+      "gloss": "on kasvanud minu juures"
+    },
+    {
+      "surface": "כאב",
+      "gloss": "nagu isa (juures)"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "ja (ema)ihust"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mu ema"
+    },
+    {
+      "surface": "אנחנה",
+      "gloss": "olen mina juhatanud teda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:44.301607510Z",
+  "model": "glm-5.3"
+}

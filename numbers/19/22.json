@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'hingamine, elujõud', mitte hinge mõiste hilisemas mõttes"
+    },
+    {
+      "kind": "addition",
+      "subject": "inimene",
+      "rationale": "הטמא on omadussõna 'ebapuhas'; eesti keele selguseks lisatud 'inimene'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יטמא\/הטמא",
+      "rationale": "Sama juure kordus: ebapuhas teeb ebapuhaseks — juure טמא kolmekordne kaja"
+    }
+  ],
+  "translation": "Ja kõik, mida ebapuhas inimene puudutab, saab ebapuhaseks, ja hing, kes seda puudutab, on ebapuhas õhtuni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c07d8611f331d49baaa80897c1b68859fa62f12f5393b1f4e79e4e1e372b5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/19\/21-22.1792540114525.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "puudutab"
+    },
+    {
+      "surface": "בו",
+      "gloss": "seda"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ebapuhas inimene"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "saab ebapuhaseks"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "ja hing"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "kes puudutab"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "on ebapuhas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "õhtuni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:48:34.526261291Z",
+  "model": "glm-5.3"
+}

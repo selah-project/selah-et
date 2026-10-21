@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 8:22",
+  "book": "job",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ei ole⟩",
+      "rationale": "איננו on olematus, 'on mitte' — eesti keel nõuab paiknemisverbi, mis on lisa"
+    },
+    {
+      "kind": "idiom",
+      "subject": "riietuvad häbiga",
+      "rationale": "לבש בשת: häbi kui rõivas — heebrea kujund, eesti säilitab sõna-sõnalt"
+    }
+  ],
+  "translation": "Need, kes sind vihkavad, riietuvad häbiga, ja õelate telk ⟨ei ole⟩ enam.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c81419a499af4329b2e6b7759862f466ec7fe1caa44cabfef8eee439013d20b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/8\/21-22.1792555168579.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאיך",
+      "gloss": "need, kes sind vihkavad"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "riietuvad"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häbiga"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ja telk"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨ei ole⟩ enam"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:28.580198467Z",
+  "model": "glm-5.3"
+}

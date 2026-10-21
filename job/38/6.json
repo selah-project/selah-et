@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "alused, nurgakivi",
+      "rationale": "ehituse mõõtmis-küsimuste jätk: vundamendi paigutus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "settis",
+      "rationale": "ירה tähendab põhimõtteliselt 'voolama, viskama'; 'panema' on kontekstipõhine valik"
+    }
+  ],
+  "translation": "Mille peale on selle alused põhja vajutatud, või kes settis selle nurgakivi?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/38\/5-8.1792555667516.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "selle alused"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "on põhja vajutatud"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "settis"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kivi"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "nurk — nurgakivi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:47.516732881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ilma põhjuseta",
+      "rationale": "חנם tähendab ka 'asjata, tasuta'; 'asjata' on teine võimalik kirjapilt"
+    }
+  ],
+  "translation": "Ja vihkamise sõnad ümbritsesid mind, ja nad sõdivad mind ilma põhjuseta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/1-4.1792553916732.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ja sõnad"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "vihkamise"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ümbristasid mind"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ja nad sõdivad mind"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ilma põhjuseta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:36.733039080Z",
+  "model": "glm-5.3"
+}

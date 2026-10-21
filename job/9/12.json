@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חתף",
+      "rationale": "'Käharama, haarama' esineb Tanahhis ainult siin."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחתף",
+      "rationale": "Otsene objekt puudub: 'ta kisub-krahmab' — KJV 'võtab ää', GENEVA 'haavad saagi'; heebrea jätab objekti nimetamata."
+    },
+    {
+      "kind": "invitation",
+      "subject": "v. 12",
+      "rationale": "Kaks retoorilist küsimust pöörduvad kuulaja poole, nõudes vastust 'mitte keegi'."
+    }
+  ],
+  "translation": "Vaata, ta kähara endale — kes paneb teda tagasi? kes ütleb temale: mida sa teed?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/9-12.1792555201309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "ta kähara endale"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "paneb teda tagasi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sa teed"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:01.310067614Z",
+  "model": "glm-5.3"
+}

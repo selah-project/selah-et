@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 1:13",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דוה",
+      "rationale": "Haruldane sõna, tähendab 'haige' — eriti naiselik rüve (menstruatsioon); kajab 1:17 võrdusele"
+    },
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Heebrea puuduv koopula, lisatud ⟨olen⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממרום...ממני",
+      "rationale": "Kõrgusest tuleb tuli ja kõrgus on kaugel — kõrguse kahene kuju pagasi kaotatud tõlkes"
+    }
+  ],
+  "translation": "Kõrgusest saatis ta tule mu luidesse ja see painas mu maha; ta laotas mu jalge ette võrgu, pööras mu tagurpidi, tegi mu laastatuks — kogu päev ⟨olen⟩ haige.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/1\/13-16.1792555941725.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרום",
+      "gloss": "kõrgusest"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saatis"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "mu luidesse"
+    },
+    {
+      "surface": "וירדנה",
+      "gloss": "ja see painas mu maha"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ta laotas"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "võrgu"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "mu jalge ette"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "pööras mu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "tagurpidi"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "teg-i mu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "laastatuks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "haige"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:21.726378273Z",
+  "model": "glm-5.3"
+}

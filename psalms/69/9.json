@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מוזר\/נכרי",
+      "rationale": "Kaks sõna ühest juurest זור — võõras ja võõraks muutunud, kordus kadus eesti tõlkes osaliselt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "võõrale maale",
+      "rationale": "נכרי tähendab ka 'muulane'; 'võõramaalane oma ema poegadele' on samuti otsene."
+    }
+  ],
+  "translation": "Võõraks olen ma saanud oma vendadele ja võõrale maale oma ema poegadele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/9-12.1792553191359.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "võõraks"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olen ma saanud"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "oma vendadele"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "võõrale maale"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poegadele"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "oma ema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:31.360444899Z",
+  "model": "glm-5.3"
+}

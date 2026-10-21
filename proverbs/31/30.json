@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koopula; nimilause 'petlik võlu' nõuab eesti keeles 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tühi",
+      "rationale": "הבל on 'aursuits, tühjus' — 'kerge' või 'kaduv' (BSB 'fleeting') on tõlkijate valik"
+    },
+    {
+      "kind": "you",
+      "subject": "ešel-Iišnaieele",
+      "rationale": "Salm kuulub ema õpetuse hõlmava eeskuju pöördumise juurde, kõnetab kuulajat kaudselt"
+    }
+  ],
+  "translation": "Petlik ⟨on⟩ võlu ja tühi ⟨on⟩ ilu; aga naine, kes kardab Jahvet, tema kiidetakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07edb7f87577324bea021f95e54fa2a37428de599886e4ee14f692a189de3177",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/31\/29-31.1792555039436.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "petlik"
+    },
+    {
+      "surface": "החן",
+      "gloss": "võlu"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ja tühi"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "ilu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naine"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kes kardab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "היא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "kiidetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:19.436701275Z",
+  "model": "glm-5.3"
+}

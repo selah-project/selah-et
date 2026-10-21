@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rüüsteretkele",
+      "rationale": "פשט tähendab 'lahti ründama, röövretkel käima'; sõna-sõnalt 'rünnanud lõunamaale'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "suund eestindatud sisseütlisega 'rüüsteretkele lõunamaale'"
+    }
+  ],
+  "translation": "Ja sündis, kui David ja tema mehed jõudsid Tsiklagi kolmandal päeval, et amaleklased olid läinud rüüsteretkele lõunamaale ja Tsiklagi; ja nad lõid ⟨את⟩ Tsiklag ja põletasid selle tulega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/30\/1-4.1792544430412.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "jõudsid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ja tema mehed"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmandal"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ja amaleklased"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "olid läinud rüüsteretkele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "lõunamaale"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklagi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "nad lõid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ja põletasid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "selle"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    }
+  ],
+  "timestamp": "2026-10-21T01:00:30.414950212Z",
+  "model": "glm-5.3"
+}

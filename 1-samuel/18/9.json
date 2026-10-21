@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עון",
+      "rationale": "Kaanud loevad עין 'silm' — 'Šaul silus Davidi'; enne trükitud teksti seisab עון 'pahatus', mis on tõenäoliselt sama juure krunt; kõik tõlked lähevad 'silmas pidama'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pillas kade silma",
+      "rationale": "Heebrea ütleb lihtsalt 'silmu' — kadedus on lisatud kontekstist, mitte sõnast endast."
+    }
+  ],
+  "translation": "Ja sündis, et Šaul pillas kade silma ⟨את⟩ Davidile sellest päevast alates ja edaspidi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9cbcbd1c84569f80b6e0663f5ac2250682273701ea7a4fdef6542f485ccafa35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/18\/9-12.1792544039364.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "silmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "sellest päevast"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ja edaspidi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:59.366876835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub koprula; sünnitusverbideta lause eeldab eesti keeles ⟨on⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנת\/חלקי\/גורלי",
+      "rationale": "Kolm mõõdu- ja pärandisõna (jaotatud osa, pärandiosa, loos) kuhjuvad ühes salmis — möödukeele pilt kadu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "גורלי",
+      "rationale": "Loosimiste kivid — maa mõõtmine ja jagamine lootega"
+    }
+  ],
+  "translation": "Jahve ⟨on⟩ mu jaotatud osa ja mu karikas; sina, sina hoiad üleval mu loosi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/16\/5-8.1792552443571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "jaotatud osa"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "mu pärandiosa"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ja mu karikas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "hoiad üleval"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "mu loos"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:03.572868951Z",
+  "model": "glm-5.3"
+}

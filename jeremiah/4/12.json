@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "täis neist",
+      "rationale": "מלא מאלה: 'täis neist asudest' (KJV) vs JPS 'nendele liiga tugev' — heebrea fraas on tumedavõitu"
+    },
+    {
+      "kind": "elision",
+      "subject": "neile",
+      "rationale": "אותם on aleph-tav'i eesliide + nende-lopp; eesti keeles 'neile' varjab osaliselt otse objekti näitamist, ⟨את⟩ marker säilitatud"
+    }
+  ],
+  "translation": "Ruahh, täis neist, tuleb minu poole; nüüd ka mina kõnelen neile ⟨את⟩ kohtuotsused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "522189bc4beb5ac7c576936390379b034031937826f9dc1c8273d9363df1e784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/4\/9-12.1792548043364.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruahh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täis"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "neist"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu poole"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "kõnelen"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "kohtuotsused"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "neile"
+    }
+  ],
+  "timestamp": "2026-10-21T02:00:43.366683296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "החליק",
+      "rationale": "sõna-sõnalt 'tegema siledaks' — ennast oma silmades siliti pidada; eesti 'silmitseb siledaks' hoitakse sileduse pilti"
+    },
+    {
+      "kind": "crux",
+      "subject": "למצא עונו לשנא",
+      "rationale": "'et leida oma süü vihatana' — kas Jumal leiab ja vihkab, või (ASV) 'et tema süüd ei leita ega vihata'"
+    }
+  ],
+  "translation": "Sest ta silmitseb enda silmades siledaks, et leida oma süü, et vihata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/36\/1-4.1792552775995.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "silitab siledaks"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "enda"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tema silmades"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "et leida"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "oma süü"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "et vihata"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:35.996976103Z",
+  "model": "glm-5.3"
+}

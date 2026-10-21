@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סבבוני",
+      "rationale": "kääne on 'nad ümbritsevad mind', aga subjekt on 'meie samme' — 'nende sammud piiravad meid' vs 'nad piiravad meie samme'; tõlgitud viimase järgi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨meid⟩",
+      "rationale": "eestikeelne sihitis lisatud, heebrea infinitiiv לנטות on sihitu"
+    }
+  ],
+  "translation": "Meie samme nad nüüd ümbritsevad; oma silmad nad suunavad, et ⟨meid⟩ maa peal maha painutada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/17\/9-12.1792552354093.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "meie samme"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nad ümbritsevad"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "oma silmad"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "nad suunavad"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "maha painutada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maa peal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:34.094589896Z",
+  "model": "glm-5.3"
+}

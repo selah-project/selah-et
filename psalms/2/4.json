@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למו",
+      "rationale": "kaudne sufiks 'nende kallal' — eesti 'nad neile' kasin pikendus"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישחק\/ילעג",
+      "rationale": "kaks naeru — rõõmus naer ja pilke irv — paigutatud kiasmis"
+    }
+  ],
+  "translation": "Ilmatuid, kes istub taevas, naerab; Adonai nad neile irvitab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/2\/1-4.1792552158951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "kes istub"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevas"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "naerab"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "irvitab"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nad neile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:18.952722610Z",
+  "model": "glm-5.3"
+}

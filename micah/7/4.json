@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 7:4",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sinu valvurite päev",
+      "rationale": "מצפיך: 'sinu valvurite päev' (KJV) või 'päev, mida sinu valvurid ootavad'; אין selgust"
+    },
+    {
+      "kind": "substitution",
+      "subject": "külastus",
+      "rationale": "פקודה on ametlik 'külastus' — karistav või kontrolliv, ei ole neutraalne külaskäik"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel vajab koppelverbi, heebrea puudub"
+    }
+  ],
+  "translation": "Nende parim on nagu tõrnipõõsas, nende õigem kui tõnihekk; sinu valvurite päev, sinu külastus ⟨on⟩ tulnud; nüüd saab olema nende hämming.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9badb260bcd3b8e3c6fcd0de0c4dd2696b8c5d26fea218d9ab04be40e79888d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/7\/1-4.1792551607014.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טובם",
+      "gloss": "nende parim"
+    },
+    {
+      "surface": "כחדק",
+      "gloss": "nagu tõrnipõõsas"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "nende õigem"
+    },
+    {
+      "surface": "ממסוכה",
+      "gloss": "kui tõnihekk"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "מצפיך",
+      "gloss": "sinu valvurite"
+    },
+    {
+      "surface": "פקדתך",
+      "gloss": "sinu külastus"
+    },
+    {
+      "surface": "באה",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "saab olema"
+    },
+    {
+      "surface": "מבוכתם",
+      "gloss": "nende hämming"
+    }
+  ],
+  "timestamp": "2026-10-21T03:00:07.016277117Z",
+  "model": "glm-5.3"
+}

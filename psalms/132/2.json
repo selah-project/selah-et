@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Vägevale",
+      "rationale": "אביר 'Vägev' on Jumala kui võimsa omadusnimi, mitme tõlke 'Kõigeväeline' asendab kuju"
+    }
+  ],
+  "translation": "kes vandus Jahvele, kes tõotas Jaakobi Vägevale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/1-4.1792554239894.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "vandus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "tõotas"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Vägevale"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:59.895546007Z",
+  "model": "glm-5.3"
+}

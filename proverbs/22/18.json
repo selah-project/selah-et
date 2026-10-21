@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siseerus",
+      "rationale": "בטן on sõna-sõnalt 'kõht, üssa' — sisemuse asukoht, mitte süda"
+    },
+    {
+      "kind": "addition",
+      "subject": "nad on",
+      "rationale": "Kopula, mida heebrea ei kasuta"
+    }
+  ],
+  "translation": "Sest nad on meeldivad, kui sa hoiad neid ⟨oma⟩ siseerus; nad on kindlasti üheskoos sinu huultel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/22\/17-20.1792554885111.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "nad on meeldivad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "sa hoiad neid"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "⟨oma⟩ siseerus"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "nad on kindlasti"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "על",
+      "gloss": "…l"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "sinu huultel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:45.111977129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "eesti keel nõuab olevikuvormi 'ma olen andnud', heebrea perfekti jaoks"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehoošuale",
+      "rationale": "Jahve pöördub otse Jehoošua poole: 'ära karda neid'"
+    }
+  ],
+  "translation": "Ja Jahve ütles Jehoošuale: Ära karda neid, sest ma olen andnud nad su kätte; nende seast ei seisa ükski mees sinu palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1e74cfe1b550b7e57f9a04c7bd4fdb7dffe80dba1e8250f52c2697332bf47c0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/10\/5-8.1792541493398.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-le"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehoošua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "karda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "neid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "su kätte"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "ma olen andnud nad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "seisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ükski mees"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nende seast"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "sinu palge ees"
+    }
+  ],
+  "timestamp": "2026-10-21T00:11:33.399892645Z",
+  "model": "glm-5.3"
+}

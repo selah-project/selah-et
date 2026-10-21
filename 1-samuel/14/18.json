@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 14:18",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨juures⟩",
+      "rationale": "Heebrea konstruktioon 'laat ... Jisraeli laste' eeldab eesti keeles asukohasõna."
+    },
+    {
+      "kind": "crux",
+      "subject": "laat",
+      "rationale": "Paljud käsikirjad ja LXX loevad siin 'epood' (אפוד); 'Elohim'i laat' on massoreetiline tekst."
+    }
+  ],
+  "translation": "Ja Šaul ütles Ahijale: Too siia Elohim'i laat, sest Elohim'i laat oli sel päeval Jisraeli laste ⟨juures⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/17-20.1792543982281.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לאחיה",
+      "gloss": "Ahijale"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "too siia"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja laste"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:02.282710539Z",
+  "model": "glm-5.3"
+}

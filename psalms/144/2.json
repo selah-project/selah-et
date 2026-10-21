@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea ohutunnistus puudub kaudne kõneviis, eesti keel vajab abiverbi"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרודד",
+      "rationale": "Tüvi רדד: 'allutama' (nagu hõbeda haamerdamist) vs 'alandama' — siin 'allutab rahvad minu alla'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסדי \/ חסיתי",
+      "rationale": "Hesed ja hasah kõlavad kokku — 'mu lahus' ja 'tema juurde pagenud'"
+    }
+  ],
+  "translation": "Mu hesed ja mu kindlus, mu varjupaik ja mu päästja, mu kilp — tema juurde ⟨on⟩ ma pagenud, see, kes talutab mu rahvast minu all.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/144\/1-4.1792554384240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "mu hesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ja mu kindlus"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mu kõrgusepaik"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ja mu päästja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mul"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mu kilp"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "⟨on⟩ ma pagenud"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "kes talutab"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "minu all"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:24.240769155Z",
+  "model": "glm-5.3"
+}

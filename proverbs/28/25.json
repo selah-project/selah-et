@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ahne",
+      "rationale": "רחב נפש sõnasõnalt 'lai hing': tanahhis kas 'uhke' (KJV) või 'ahne' (ASV\/JPS); eesti valib 'ahne'"
+    },
+    {
+      "kind": "crux",
+      "subject": "rasvaseks",
+      "rationale": "ידשן 'rasvaseks tehtud': otsene tähendus 'jäetakse rasvaks', kõikides tõlgetes sageli silenenud 'jäetakse rikkaks'"
+    }
+  ],
+  "translation": "Ahne hing ärritab tüli, aga kes loodab Jahve peale, ⟨sai⟩ rasvaseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "91bae79eca09c14c1c755e3ce3aa658580e6ce4a3e595eecf88de4cc36c8c282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/28\/25-28.1792555007238.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "ahne"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ärritab"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "tüli"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "aga kes loodab"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "⟨sai⟩ rasvaseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:47.238962859Z",
+  "model": "glm-5.3"
+}

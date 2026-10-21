@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וזהמתו חיתו",
+      "rationale": "Kes vihkab: 'tema elu põlgab leiba' (KJV) vs 'tema elu teeb temale leiva jälgivateks' (mõned loevad kaudset kõneviisi)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'kõri, isu, elujõud' — siin otse iha asupaik, mitte hingehaldjas."
+    }
+  ],
+  "translation": "ja tema elu tunneb vastikust leiva vastu, ja ta hing ihaldusrooga vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/33\/17-20.1792555617044.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "ja tunneb vastikust"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "tema elu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiva"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ja ta hing"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "rooga"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ihaldus-"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:57.045968706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 15:25",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Korduv sissejuhatav 'Ja sündis' lühendatud loetavuse jaoks; heebrea不由u küsimus lause alus puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "laegas",
+      "rationale": "ארון tähendab sõna-sõnalt 'karp, kirst'; laegas on eesti tavapärane täiendus."
+    }
+  ],
+  "translation": "Ja David ja Jisraeli vanemad ja tuhande ülemused läksid üles tooma ⟨את⟩ Jahve lepingu laeka Oved-Edomi majast rõõmuga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "401c764ff6c5563256b5ccba86547f4dde8e9758ca25d69dfcd872aac6e89813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/15\/25-28.1792557401141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ja vanemad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ja ülemused"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tuhande"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "läksid"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "üles tooma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve lepingu laegas"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laegas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "märts"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majast"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-Edomi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Oved-Edom"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "rõõmuga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:41.142431035Z",
+  "model": "glm-5.3"
+}

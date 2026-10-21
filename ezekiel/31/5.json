@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 31:5",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võrsed",
+      "rationale": "פארתו on sõna-sõnalt 'tema ilu(esemed)', väljendab hiilgavat lehestikku ja jäsemeid"
+    },
+    {
+      "kind": "addition",
+      "subject": "neid",
+      "rationale": "בשלחו 'tema saates' — asesõna lisatud eesti selguseks"
+    }
+  ],
+  "translation": "Seepärast tõusis tema kõrgus üle kõigi väljade puude, ja ta harud paljunesid, ja ta võrsed pikenesid paljudest vettest, kui ta neid välja saatis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62b09a90287767d9789f0516cc19786e9e165a5592c6672ee3d8a83a472f608c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/31\/5-8.1792550442731.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "גבהא",
+      "gloss": "tõusis kõrgele"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "tema kõrgus"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "üle kõigi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "puude"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "väljade"
+    },
+    {
+      "surface": "ותרבינה",
+      "gloss": "ja paljunesid"
+    },
+    {
+      "surface": "סרעפתיו",
+      "gloss": "ta harud"
+    },
+    {
+      "surface": "ותארכנה",
+      "gloss": "ja pikenesid"
+    },
+    {
+      "surface": "פארתו",
+      "gloss": "ta võrsed"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "vettest"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "paljudest"
+    },
+    {
+      "surface": "בשלחו",
+      "gloss": "kui ta välja saatas"
+    }
+  ],
+  "timestamp": "2026-10-21T02:40:42.732196434Z",
+  "model": "glm-5.3"
+}

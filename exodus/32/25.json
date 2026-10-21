@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרע\/פרעה",
+      "rationale": "Sama juur kordub: rahvas 'lasti lahti' ja Aharon 'laskis nad lahti' — eesti keeles kordub 'pidematu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בקמיהם",
+      "rationale": "KJV 'their enemies' vs YLT 'their withstanders'; sõna tähendab 'nende tõusjaid\/vastaseid'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "naked",
+      "rationale": "KJV\/Geneva 'naked' on räpane tõlge; פרע tähendab 'lahti lastud, pidematu'."
+    }
+  ],
+  "translation": "Ja Moše nägi ⟨את⟩ rahvast, et see oli pidematu, sest Aharon oli selle lasknud pidematuks ⟨sööda⟩ nende vastaste hukka.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/32\/25-28.1792538945240.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahvast"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "pidematu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "oli lasknud pidematuks"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "hukka"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "nende vastaste keskel"
+    }
+  ],
+  "timestamp": "2026-10-20T23:29:05.241173450Z",
+  "model": "glm-5.3"
+}

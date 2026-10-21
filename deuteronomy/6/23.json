@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "eesti keeles tuleb tegevussubjekt 'ta' lisada, heebreas verbitüvi seda ei kanna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוציא \/ הביא",
+      "rationale": "välja-viia \/ sisse-tuua vastandpaar, rütmi võimendab eesti 'välja\/sisse'"
+    }
+  ],
+  "translation": "ja ⟨את⟩ meid viis ta sealt välja, et tuua ⟨את⟩ meid sisse ja anda meile ⟨את⟩ maa, mille ta vandus meie isadele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ce9b49351a73e9bdeef410d886571be476648e183811742638424001e4b5364c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/6\/21-24.1792540666234.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ meid",
+      "marks": "viis välja"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "viis välja"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sealt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "tuua sisse"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ meid",
+      "marks": "tuua sisse"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "anda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "vandus"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "meie isadele"
+    }
+  ],
+  "timestamp": "2026-10-20T23:57:46.235388478Z",
+  "model": "glm-5.3"
+}

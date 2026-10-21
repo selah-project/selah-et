@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ebajumalad",
+      "rationale": "הבליהם sõna-sõnalt 'nende tühisustega'; ebajumalad on kontekstiline tõlge"
+    },
+    {
+      "kind": "crux",
+      "subject": "Eela",
+      "rationale": "אלה on kohanimi (kuningas), mitte asesõna 'need'"
+    }
+  ],
+  "translation": "Kõigi Baʼaša pattude ja pattude pärast, tema poja Eelaga, mida nad patustasid ja millega nad panid patustama ⟨את⟩ Jisraeli, et vihastada ⟨את⟩ Jahvet, Jisraeli Elohimit, oma ebajumaladega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "02bdaab2e11b56cc7c8d4a928e26b0c8891045fb69772f50ca88f47af0532f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/16\/13-16.1792545619028.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "pattude"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʼaša"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "ja pattude"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tema poja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nad patustasid"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja millega"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "nad panid patustama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "et vihastada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Jisraeli Elohimit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "oma ebajumaladega"
+    }
+  ],
+  "timestamp": "2026-10-21T01:20:19.029568449Z",
+  "model": "glm-5.3"
+}

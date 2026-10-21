@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "põrutame",
+      "rationale": "ננגח tähendab sõna-sõnalt 'sarvedega nügida', loomne kujund"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vastaseid",
+      "rationale": "צר põhitähendus 'kitsas, ahastus', siin 'ahastaja\/vastane'"
+    }
+  ],
+  "translation": "Sinu läbi põrutame meie vastaseid, sinu nime läbi tallame alla need, kes meie vastu tõusevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/44\/5-8.1792552827951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "sinu läbi"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "meie vastaseid"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "põrutame"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sinu nime läbi"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "tallame alla"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "need, kes meie vastu tõusevad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:27.952725901Z",
+  "model": "glm-5.3"
+}

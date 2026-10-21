@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "יעשה",
+      "rationale": "Täisminevik või olevik: 'mida inimene mulle teeb' (kindel) või 'teha suudab' (võimalikkus) — heebrea imperfekt jätab valiku avatuks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kordus",
+      "rationale": "Salm kordab refrääni 56:5 sõnastikus 'Elohimis ... ma ei karda' — koorilaadne kordus."
+    }
+  ],
+  "translation": "Elohimis olen ma kindel, ma ei karda — mida saab inimene mulle teha?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/9-12.1792553129765.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimis"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "olen ma kindel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "karda ma"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "saab teha"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:29.767333972Z",
+  "model": "glm-5.3"
+}

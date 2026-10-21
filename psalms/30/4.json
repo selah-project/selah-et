@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מיורדי בור",
+      "rationale": "Osadestav mitmus 'langejate kaevu': KJV 'et ma ei läheks alla kaevu' vs YLT 'langevate seest' — heebrea lubab mõlemat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud\/kõri, mitte immateriaalne hing"
+    }
+  ],
+  "translation": "Jahve, sina tõstsid mu hinge üles šeolist, sina hoidsid mind elus ⟨et⟩ ma ei langeks kaeviku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "762d86f72a0910b295bc8fca099d0a30b85f4b4468693a4d736a4660eeebb8a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/30\/3-4.1792558562231.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "sina tõstsid üles"
+    },
+    {
+      "surface": "מן",
+      "gloss": "šeolist"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolist"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hinge"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "sina hoidsid mind elus"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "et ma ei langeks"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kaeviku"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:02.245218818Z",
+  "model": "glm-5.3"
+}

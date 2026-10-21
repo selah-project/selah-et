@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תבקשנה\/תחפשנה",
+      "rationale": "Kaks erinevat otsimisverbi paralleelses rütmis; naissoo lõppvokaal -נָה viitab naissoost tarkusele"
+    },
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Eesti keeles nõuab objekt 'seda', heebreas on see tegusõna lõpuga kaetud"
+    }
+  ],
+  "translation": "kui sa otsid seda nagu hõbedat ja kaevand varandusi nagu peidetud aardeid —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/2\/1-4.1792554497531.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "sa otsid"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "nagu hõbedat"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "ja nagu peidetud aardeid"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "sa kaevand otsid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:17.532085544Z",
+  "model": "glm-5.3"
+}

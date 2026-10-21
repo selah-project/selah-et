@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 1:5",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Eesti nimisõnaline täiend nõuab sidesõna, heebreas on אל גדול lihtsalt nimetuse järel"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb heebrea kõla järgi — 'halastus' või 'armastus' üksinda ei kata tervet sõna"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Pöördumine Jumala poole otseselt — palve algus"
+    }
+  ],
+  "translation": "Ja ma ütlesin: Palun, Jahve, taevaste Elohim, El, ⟨see⟩ suur ja kardetav, kes hoiab lepingut ja hesedit oma armastajatele ja neile, kes peavad tema käske.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/1\/5-8.1792556884081.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ja ma ütlesin"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "Palun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taevaste"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "ja kardetav"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kes hoiab"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lepingut"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ja hesedit"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "oma armastajatele"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ja neile, kes peavad"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "tema käske"
+    }
+  ],
+  "timestamp": "2026-10-21T04:28:04.082678673Z",
+  "model": "glm-5.3"
+}

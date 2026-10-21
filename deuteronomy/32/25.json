@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teeb nad lastetuks",
+      "rationale": "שכל tähendab otseselt 'rasedana kaotama, järeltulijateta jääma'; 'hävitama' on laiem"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tuleb⟩",
+      "rationale": "heebrea nimetatud öeldis puudub; luuletuse lünkus võimalik ka 'valitseb'"
+    }
+  ],
+  "translation": "Väljas teeb mõõk nad lastetuks ja kodu sisehoonetest ⟨tuleb⟩ õudus: nii noormees kui ka neitsi, imetav laps koos hallipealisega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/32\/25-28.1792541237661.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "väljas"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "teeb nad lastetuks"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõk"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "ja sisehoonetest"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "õudus"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nii"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "noormees"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kui ka"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "neitsi"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "imetav laps"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimesega"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "hallipealise"
+    }
+  ],
+  "timestamp": "2026-10-21T00:07:17.661702848Z",
+  "model": "glm-5.3"
+}

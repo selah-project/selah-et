@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šelamim",
+      "rationale": "שלמים jäetakse heebrea kõlana, mitte 'rahuohvrid' ega 'tänuohvrid'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחתו on siin ohver, mitte kingitus, seepärast 'minha' D2 reegli järgi"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ jäärast teeb ta šelamim-ohvri Jahvele, koos korviga hapnemata leibu; ja preester teeb ⟨את⟩ tema minha ja ⟨את⟩ tema joogiohveri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5c0c6a99105a177a605235c94bf6c3b575be447c9ed9022b1c168e65fb1e3968",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/6\/17-20.1792539840208.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jäärast"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "jäärast"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ohvri"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim-"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "על",
+      "gloss": "koos"
+    },
+    {
+      "surface": "סל",
+      "gloss": "korviga"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "hapnemata leibu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja teeb"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema minha"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "tema minha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tema joogiohveri"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "tema joogiohveri"
+    }
+  ],
+  "timestamp": "2026-10-20T23:44:00.209042160Z",
+  "model": "glm-5.3"
+}

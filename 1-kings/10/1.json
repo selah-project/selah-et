@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "mõistatustega",
+      "rationale": "בחידות — salajised mõistatused, millega kuningann tuli Shelomot proovile panna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעת \/ שמע",
+      "rationale": "Sama juur kordub: 'kuulis \/ kuulsus' — kaja kaob eesti tõlkes osaliselt."
+    }
+  ],
+  "translation": "Ja Seeba kuninganna kuulis Shelomo ⟨את⟩ kuulsust — Jahve nime pärast — ja tuli teda proovile panna mõistatustega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/10\/1-4.1792545404846.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Ja Seeba kuninganna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Seeba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "kuulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo kuulsust"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuulsust"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nime pärast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "teda proovile panema"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "mõistatustega"
+    }
+  ],
+  "timestamp": "2026-10-21T01:16:44.847709706Z",
+  "model": "glm-5.3"
+}

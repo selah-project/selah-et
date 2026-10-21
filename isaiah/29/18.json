@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 29:18",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pimedik",
+      "rationale": "שנi synonüümide eraldamiseks: אופל 'pimedus\/süngus' ja חשך 'pimedik\/pime mustus'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "raamatu sõnad",
+      "rationale": "Suletud raamatu (v 11) avamine — varjatu saab kuuldavaks kurdile ja nähtavaks pimele"
+    }
+  ],
+  "translation": "Ja sel päeval kuulevad kurdid raamatu sõnu, ja pimedusest ja pimedikust näevad pimedate silmad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "040888d57d601ac67184603210ccfac979d0af3707afae0561ea52fa8887bffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/29\/17-20.1792547108402.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעו",
+      "gloss": "ja kuulevad"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "kurdid"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sõnu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raamatu"
+    },
+    {
+      "surface": "ומאפל",
+      "gloss": "ja pimedusest"
+    },
+    {
+      "surface": "ומחשך",
+      "gloss": "ja pimedikust"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "silmad"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "pimedate"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "näevad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:45:08.403485639Z",
+  "model": "glm-5.3"
+}

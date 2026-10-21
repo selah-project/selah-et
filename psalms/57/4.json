@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Elohim⟩",
+      "rationale": "Esimese lause subjekt on heebreas väljajäetud; järgmise lause parallelismi järgi Elohim, lisatud sulgudes."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרף שאפי",
+      "rationale": "Kes teotab — Elohim (EI) või vaenlane (KJV)? Sõnajärg: 'teotab [tähistaja] mind ahnitseja' — arvatavasti Elohm Lööb maha ahnitseja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלח...ישלח",
+      "rationale": "Korduv 'saadab' seob päästmise taevast ja hesedi saatmist üheks teoks."
+    }
+  ],
+  "translation": "⟨Elohim⟩ saadab taevast ja päästab mind, teotab mind, kes mind ahnitseb. Sela. Elohim saadab oma hesedi ja oma tõe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/1-4.1792553095830.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "saadab"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "taevast"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ja päästab mind"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "teotab"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "mind ahnitseb"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "saadab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "oma hesedi"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ja oma tõe"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:55.831619076Z",
+  "model": "glm-5.3"
+}

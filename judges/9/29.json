@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 9:29",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ומי יתן",
+      "rationale": "Tahvus: 'kes annaks' = 'oleks, et'; eesti keeles säilitatud sõna-sõnalt."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאמר לאבימלך",
+      "rationale": "Kes ütles ja kellele: Gaal jätkab enda kõnet (BSB) või see teatati Avimelehile (KJV)?"
+    }
+  ],
+  "translation": "Ja kes annaks ⟨את⟩ selle rahva mu kätte, siis ma kõrvaldaksin ⟨את⟩ Avimelehi. Aga ta ütles Avimelehile: Suurenda oma sõjaväge ja tule välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "32776385177d5251644b883b21c6a0dd25340f7457892d7b1f43d1d0e75d78a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/9\/29-32.1792541967894.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda rahva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "mu kätte"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "siis ma kõrvaldaksin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelehi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelehi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Avimelehile"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "suurenda"
+    },
+    {
+      "surface": "צבאך",
+      "gloss": "oma sõjaväge"
+    },
+    {
+      "surface": "וצאה",
+      "gloss": "ja tule välja"
+    }
+  ],
+  "timestamp": "2026-10-21T00:19:27.895639513Z",
+  "model": "glm-5.3"
+}

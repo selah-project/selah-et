@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתך on tsedek-juur, jäetakse kõlaga sõnaks 'tsedek', mitte 'õigus'"
+    },
+    {
+      "kind": "irony",
+      "subject": "kuulutan välja",
+      "rationale": "nii nagu נגד eessõna-sõnalt tähendab 'välja seisma, välja panema' — Jahve paneb nende 'õiguse' näitlikult välja, jääb arusaamatuks"
+    }
+  ],
+  "translation": "Mina kuulutan välja sinu tsedeki ja ⟨את⟩ sinu teod, ja need ei too sulle kasu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/57\/9-12.1792547762843.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "kuulutan välja"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sinu tsedeki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sinu teod"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sinu teod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "too sulle kasu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:02.845982143Z",
+  "model": "glm-5.3"
+}

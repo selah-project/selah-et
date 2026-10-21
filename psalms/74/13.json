@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנינים",
+      "rationale": "'mereelukad' vs 'lohehuvud' või 'šaakalid' — sõna tähendab nii meremaoja kui maismaalooma."
+    },
+    {
+      "kind": "addition",
+      "subject": "sa",
+      "rationale": "Eesti korduv asesõna viitab eelnevale 'sina' ja täiendab paralleeli."
+    }
+  ],
+  "translation": "Sina murdsid oma väega mere, sa purustasid mereelukate päid vetel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/74\/13-16.1792553324158.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "murdsid"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "oma väega"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mere"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sa purustasid"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "päid"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "mereelukate"
+    },
+    {
+      "surface": "על",
+      "gloss": "vetel"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vetel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:44.158592502Z",
+  "model": "glm-5.3"
+}

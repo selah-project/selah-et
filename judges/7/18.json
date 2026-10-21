@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 7:18",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "את koos lõpuga tähendab siin 'koos minuga'; ⟨את⟩-marker jääb glossi, eesti tekstis 'minuga'."
+    },
+    {
+      "kind": "you",
+      "subject": "Gidemoni sõduritele",
+      "rationale": "Käsk-vormid pöörduvad otse kolmesajale mehele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hüüde sõnu",
+      "rationale": "lamed ei ole 'mõõk Jahve ja Gidemoni', vaid 'Jahvele ja Gidemonile' — mõistatus laheneb alles järgmises salmis (חרב jõuab hüüdesse alles 7:20)."
+    }
+  ],
+  "translation": "Ja mina puhun šofarit, mina ja kõik, kes ⟨את⟩ minuga on, ja teie puhuge ka šofareid, teie, ümber kogu laagri, ja ütelge: Jahvele ja Gidemonile!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1dc35927bb509968c1e5af03feebc43419bebd99ec89fed519761a98cb8dc9cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/7\/17-20.1792542001397.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקעתי",
+      "gloss": "Ja mina puhun"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "šofarit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minuga"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "ja teie puhuge"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "šofareid"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "laagri"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "ja ütelge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "ולגדעון",
+      "gloss": "ja Gidemonile"
+    }
+  ],
+  "timestamp": "2026-10-21T00:20:01.398554572Z",
+  "model": "glm-5.3"
+}

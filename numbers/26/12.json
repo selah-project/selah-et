@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "suguvõsade loend",
+      "rationale": "loenduse koosseis — Šimoni poja nimed ja nende perekonnad rahvaloenduses"
+    },
+    {
+      "kind": "substitution",
+      "subject": "-lased",
+      "rationale": "heebrea gentiliitsiid -i (הנמואלי) edastatud eesti -laste liiduga"
+    }
+  ],
+  "translation": "Šimoni pojad oma suguvõsade järgi: Nemuelist perekond nemuellased, Jamini perekond jaminlased, Jakhini perekond jakhinlased.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f4014d859195ba089fabdc755c74143dfa4eeed6145f053d79143dd2a56b9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/26\/9-12.1792540284670.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "oma suguvõsade järgi"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "Nemuelist"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "perekond"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "nemuellased"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "Jamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "perekond"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "jaminlased"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "Jakhini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "perekond"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "jakhinlased"
+    }
+  ],
+  "timestamp": "2026-10-20T23:51:24.671698652Z",
+  "model": "glm-5.3"
+}

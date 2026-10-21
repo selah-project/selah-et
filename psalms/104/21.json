@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "noored lõvid",
+      "rationale": "כפירים on Ille 'noor lõvi', mitte lihtsalt lõvi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨enda⟩",
+      "rationale": "Heebrea omastav sufiks אכלם 'nende toit' nõuab eesti keeles selgitust, kelle toit"
+    }
+  ],
+  "translation": "Noored lõvid möirgavad saaki otsides ja et leida Elilt ⟨enda⟩ toitu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/21-24.1792553786389.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "noored lõvid"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "möirgavad"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "saaki"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "ja et leida"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "Elilt"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "nende toitu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:26.390030257Z",
+  "model": "glm-5.3"
+}

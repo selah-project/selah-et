@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלימו",
+      "rationale": "'temale enesele' (KJV, YLT) vs 'Temale' ehk Jumalale (JPS, BSB); pronomen on mitusevorm ja pooltel loeb see käivat mehe, pooltel Jumala kohta."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Kaudne pöördumine Iiobi poole kaudselt küsimusega mehe kasulikkusest Jumalale."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopolula 'on', eesti keel nõuab selle lisamist."
+    }
+  ],
+  "translation": "Kas mees ⟨on⟩ Elile kasulik? Kas tark ⟨on⟩ kasulik ⟨tema enesele⟩?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/22\/1-4.1792555415547.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "on kasulik"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kas"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "on kasulik"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "tema enesele"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "tark"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:35.548461367Z",
+  "model": "glm-5.3"
+}

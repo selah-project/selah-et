@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 5:2",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קום\/מקימה",
+      "rationale": "juur קום kordub: 'tõuse' ja 'üles tõstja' — langemise iroonia eesti keeles osaliselt säilinud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ei ole⟩",
+      "rationale": "eesti keel nõuab olemasolu-verbi, heebrea אין on partikkel"
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "נטשה",
+      "rationale": "haruldane vorm — 'mahavisatud\/舍弃' kui linn vaikselt lamama jäetud"
+    }
+  ],
+  "translation": "Langes, ei tõuse enam Jisraeli neitsi; ta on mahavisatud oma pinnasele, kedagi, kes ta üles tõstaks ⟨ei ole⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/5\/1-4.1792551339164.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "Langes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "enam"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tõuse"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "neitsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "נטשה",
+      "gloss": "on mahavisatud"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "אדמתה",
+      "gloss": "oma pinnasele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kedagi… ei ole"
+    },
+    {
+      "surface": "מקימה",
+      "gloss": "kes tõstaks üles"
+    }
+  ],
+  "timestamp": "2026-10-21T02:55:39.165324907Z",
+  "model": "glm-5.3"
+}

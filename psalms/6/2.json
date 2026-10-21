@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפך",
+      "rationale": "Sõna-sõnalt 'su ninas' — heebrea viha asukoht on ninaärritus; eesti 'vihas'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve",
+      "rationale": "Kaks eitussoovi kätkeb otsest pöördumist Jahve poole."
+    }
+  ],
+  "translation": "Jahve, ära nuhu mind oma vihas, ära kasuta mind oma põlguses!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/6\/1-4.1792552318778.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "oma vihas"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "nuhu mind"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "oma põlguses"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "kasuta mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:58.778867065Z",
+  "model": "glm-5.3"
+}

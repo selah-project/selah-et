@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 20:15",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti eitusvorm nõuab olema-verbi, heebrea puudub"
+    },
+    {
+      "kind": "you",
+      "subject": "Ješaja küsimus Hiskijale",
+      "rationale": "Otsene pöördumine: 'mida nad su kojas nägid'"
+    }
+  ],
+  "translation": "Ja ta ütles: Mida nad su kojas nägid? Ja Hiskija ütles: Kõik, mis mu kojas on, nad nägid; ei olnud asja, mida ma neile ei oleks näidanud oma varades.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/13-16.1792546407783.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nad nägid"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "su kojas"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskija"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik, mis mu kojas on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "mu kojas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nad nägid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olnud"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "oleks ma neile näidanud"
+    },
+    {
+      "surface": "באצרתי",
+      "gloss": "mu varades"
+    }
+  ],
+  "timestamp": "2026-10-21T01:33:27.785299229Z",
+  "model": "glm-5.3"
+}

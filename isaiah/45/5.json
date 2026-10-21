@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Heebreas puudub koopula; eesti keel nõuab selle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "panen su vööle",
+      "rationale": "אאזרך on vööga komberdamise pilt: 'vöötan sind', mitte üldine 'varustan'"
+    }
+  ],
+  "translation": "Mina ⟨olen⟩ Jahve ja ei ole kedagi teist; minust väljaspool ei ole Elohimi; ma panen su vööle, kuigi sa ei tunne mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/45\/5-8.1792547527660.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kedagi teist"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "minust väljaspool"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ma panen su vööle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kuigi ei"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "sa tunne mind"
+    }
+  ],
+  "timestamp": "2026-10-21T01:52:07.660805013Z",
+  "model": "glm-5.3"
+}

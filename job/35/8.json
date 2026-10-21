@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea fraas on nimetavlik, kopeel eesti keeles nõutud"
+    },
+    {
+      "kind": "crux",
+      "subject": "רשעך\/צדקתך",
+      "rationale": "Kas 'su õelus kahjustab inimest' (KJV lisab verbi) või puhtparalleelne 'inimesele nagu sina [kuulub] su õelus' (YLT); nimetatud vorm annab teise"
+    }
+  ],
+  "translation": "Inimesele, kes on nagu sina, ⟨on⟩ su õelus, ja inimese pojale su õigus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e66d573fdf9712bdf484cba9d20923a21f339765e5bd167bd637c76beed12547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/35\/5-8.1792555633829.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "Inimesele"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "nagu sina"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "su õelus"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ja inimese pojale"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "su õigus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:07:13.830178426Z",
+  "model": "glm-5.3"
+}

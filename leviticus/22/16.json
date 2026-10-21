@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אַשְׁמָה",
+      "rationale": "'süüdieet' vs 'süüohver' vs 'süüdlus' — see sõna tähendab nii süüd kui selle eest toodavat ohvrit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש \/ מקדשם",
+      "rationale": "Püha (קדש) ja pühitsema (מקדשם) sama juur — rüvetamise keeld ja pühitseja Nimetu asetsevad samas salmis."
+    }
+  ],
+  "translation": "ja panevad neid kandma ⟨את⟩ süüdieetri süü, kui nad söövad ⟨את⟩ oma pühasid; sest mina olen Jahve, kes nad pühitseb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/22\/13-16.1792539527685.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "ja panevad"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ neid",
+      "marks": "süüdieetri süü"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "süüdieetri"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "kui nad söövad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma pühasid"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "oma pühasid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina olen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "kes nad pühitseb"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:47.686943684Z",
+  "model": "glm-5.3"
+}

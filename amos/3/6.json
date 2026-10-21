@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "eelviidata lisatud, et eesti väljend 'pole teinud' osutuks loogiline"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה",
+      "rationale": "'paha' — kellele halb: moraalne pahatus või õnnetus; Amose kontekstis:",
+      "notes": "kahjutoonus katastroof, mida Jahve on saatnud"
+    }
+  ],
+  "translation": "Kui šofar puhutakse linnas ja rahvas ei vapise? Kui paha juhtub linnas ja Jahve pole seda teinud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/3\/5-8.1792551326307.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "puhutakse"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja rahvas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "vapise"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "juhtub"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "paha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ja Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teinud"
+    }
+  ],
+  "timestamp": "2026-10-21T02:55:26.308149829Z",
+  "model": "glm-5.3"
+}

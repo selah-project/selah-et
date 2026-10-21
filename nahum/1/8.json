@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 1:8",
+  "book": "nahum",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pimedus ajab taga",
+      "rationale": "וירדף חשך: KJV\/JPS 'pimedus ajab tema vaenlasi' vs YLT 'tema vaenlased ajavad pimedust' — sõnajärg lubab mõlemat"
+    },
+    {
+      "kind": "substitution",
+      "subject": "täielik lõpp",
+      "rationale": "כלה sõnasõnalt 'lõpetatus, häving' — täielik lõppemine, mitte pelgalt 'otsa saamine'"
+    }
+  ],
+  "translation": "Ja üleujutusega, mis üle käib, teeb ta täieliku lõpu tema paigast, ja pimedus ajab taga tema vaenlasi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nahum\/1\/5-8.1792551623278.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשטף",
+      "gloss": "ja üleujutusega"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mis üle käib"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "täieliku lõpu"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb ta"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "tema paigast"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "tema vaenlasi"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "ajab taga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimedus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:00:23.279758579Z",
+  "model": "glm-5.3"
+}

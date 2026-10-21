@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kuju poolest ruahh — tuul\/hingus\/vaim ühe sõnana"
+    },
+    {
+      "kind": "elision",
+      "subject": "יש",
+      "gloss_koht": "אין יש tahab öelda 'ei ole olemas' — לopitud kui liigne"
+    }
+  ],
+  "translation": "Kõrvad neil on, aga nad ei kuule; ka ei ole ruahh nende suus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/135\/17-20.1792554288400.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Kõrvad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neil on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "nad kuule"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nende suus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:48.400640346Z",
+  "model": "glm-5.3"
+}

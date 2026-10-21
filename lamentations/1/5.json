@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 1:5",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צריה…צר",
+      "rationale": "salm algab ja lõpeb sama sõnaga צר (ahistaja), raamistab järsult"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub kopeeratav verb, ⟨on⟩ lisatud"
+    }
+  ],
+  "translation": "Tema ahistajatest said pead, tema vaenlased elavad rahulikult, sest Jahve on talle kurbust toonud tema ülestõusmiste rohkuse pärast; tema imiked läksid vangi, ahistaja palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "50c9b385c97ce858125c40bbebe815a3e452676b75c3988929fd10855c2d680f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/1\/5-8.1792555952355.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "said"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "tema ahistajatest"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "peadeks"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "tema vaenlased"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "elavad rahulikult"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "on talle kurbust toonud"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rohkuse"
+    },
+    {
+      "surface": "פשעיה",
+      "gloss": "tema ülestõusmiste"
+    },
+    {
+      "surface": "עולליה",
+      "gloss": "tema imiked"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "läksid"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "vangi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ahistaja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:32.356592040Z",
+  "model": "glm-5.3"
+}

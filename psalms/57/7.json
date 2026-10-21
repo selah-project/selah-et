@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mu näo ette",
+      "rationale": "לפני otse 'minu ees', 'näo' säilitab heebrea pildi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sammude ette",
+      "rationale": "לפעמי otse 'mu jalatallale' (löök, samm)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kaev-langesid",
+      "rationale": "põluja ise langeb kaevu — irooniline pööre, esiletulev ka eesti keeles"
+    }
+  ],
+  "translation": "Võrgu nad on püstitanud mu sammude ette, küürutatud on mu hing, kaevu on nad kaevanud mu näo ette, nad ise langesid selle keskele. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/5-8.1792553094339.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "võrgu"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "nad on püstitanud"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "mu sammude ette"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "küürutatud"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "on nad kaevanud"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mu näo ette"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "kaevu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nad langesid"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "selle keskele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:54.342335612Z",
+  "model": "glm-5.3"
+}

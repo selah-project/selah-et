@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eemal",
+      "rationale": "מאתי = 'minu juurest (eemaldudes)' — 'eemal' lisatud tähenduse selguseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "יד חזית",
+      "rationale": "'kätt nägid' — sõnasõnaline; tõlkijad: 'nende paljastust' vs 'kätt \/ fallose sümbolit' vs JPS 'kelle keda armastasid'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "rajisid lepingu",
+      "rationale": "כרת ברית — sõnasõnalt 'raiskasid (looja) lepingu', eesti komaal 'lepingut sõlmima' oleks juure kadumiseni viinud"
+    },
+    {
+      "kind": "secret",
+      "subject": "mälestusmärk ukse taga",
+      "rationale": "varjatud kultusmärk uksepiida taha — peidetud, mitte avalik ohver"
+    }
+  ],
+  "translation": "Ja ukse ja uksepiida taha oled pannud oma mälestusmärgi; sest ⟨את⟩ minu juurest ⟨eemal⟩ paljastasid enda ja ronisid üles, laiendasid oma voodit ja rajisid endale nendega lepingu — armastasid nende voodit, kätt nägid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/57\/5-8.1792547759660.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ja taha"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ukse"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "ja uksepiida"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "oled pannud"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "oma mälestusmärgi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ minu juurest",
+      "marks": "minu juurest"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "paljastasid enda"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "ja ronisid üles"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "laiendasid"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "oma voodit"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ja rajisid"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nendega"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "armastasid"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "nende voodit"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kätt"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "nägid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:55:59.662221179Z",
+  "model": "glm-5.3"
+}

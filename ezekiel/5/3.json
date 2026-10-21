@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hõlm",
+      "rationale": "כנפיך sõna-sõnalt 'sinu tiivad' — rõiva äärtest; 'hõlm' kannab pilti eesti keeles."
+    },
+    {
+      "kind": "measurement",
+      "subject": "arvu järgi",
+      "rationale": "במספר rõhutab loendamist — vähesed, kuid loetud."
+    }
+  ],
+  "translation": "Ja võtad sealt mõned vähesed arvu järgi ja kinnitad ⟨את⟩ nad oma hõlma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1024afea1559ba1b12bff69fad5f3ab164b1e9f51d87af8b45d26ecdc4e6ae99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/5\/2-3.1792558486043.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ja võtad"
+    },
+    {
+      "surface": "משם",
+      "gloss": "sealt"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähesed"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "arvu järgi"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ja kinnitad"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nad",
+      "marks": "nad (vähesed karvad)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "oma hõlma"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:46.047014061Z",
+  "model": "glm-5.3"
+}

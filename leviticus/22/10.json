@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תושב",
+      "rationale": "'elama asunud võõras (majas)' vs 'öömaja-võõras' — preestri majapidamises elav, kuid mitte perekonna liige"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זר\/קדש",
+      "rationale": "võõras\/püha vastandus kordub salmis kolm korda, kordus jääb peale"
+    }
+  ],
+  "translation": "Ja ükski võõras ei tohi süüa püha; preestri elanik ega palgapalk ei tohi süüa püha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/22\/9-12.1792539500896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja ükski"
+    },
+    {
+      "surface": "זר",
+      "gloss": "võõras"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "süüa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "elanik"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preestri"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ja palgapalk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "süüa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    }
+  ],
+  "timestamp": "2026-10-20T23:38:20.897518685Z",
+  "model": "glm-5.3"
+}

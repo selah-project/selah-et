@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "'vägi, rikkus, sõjasaak' — siin 'rikkus'; sõna hõlmab nii väge kui varandust."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלל",
+      "rationale": "Nime teine sõna 'šalal' täitub siin: 'saak' (šalal) Šomronist kantakse ära."
+    }
+  ],
+  "translation": "Sest enne kui poiss teab öelda 'mu isa' ja 'mu ema', kantakse ära ⟨את⟩ Damaski rikkuse ja ⟨את⟩ Šomroni saagi Asurla kuninga palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/8\/1-4.1792546810947.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "enne kui"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "teab"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "poiss"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "öelda"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ja mu ema"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "kantakse ära"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damaski rikkuse"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rikkuse"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaski"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Šomroni saagi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "saagi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomroni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asur"
+    }
+  ],
+  "timestamp": "2026-10-21T01:40:10.949065262Z",
+  "model": "glm-5.3"
+}

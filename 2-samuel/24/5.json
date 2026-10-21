@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨suundusid⟩",
+      "rationale": "heebrea ואל ('ja poole') eeldab eestis verbi, mis on lisatud"
+    },
+    {
+      "kind": "measurement",
+      "subject": "rahvaloenduse teekond",
+      "rationale": "salm paigutab loenduse marsruudi geograafiliselt täpselt"
+    }
+  ],
+  "translation": "Ja nad ületasid ⟨את⟩ Jaardani ning laagerdusid Aroëris, linna paremal käel, mis asub Gadi orus, ja ⟨suundusid⟩ Jaatsëri poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/24\/5-8.1792545016680.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ja nad ületasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaardani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jaardani"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja laagerdusid"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroëris"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paremal käel"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "asub keskel"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "orus"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja poole"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jaatsëri"
+    }
+  ],
+  "timestamp": "2026-10-21T01:10:16.682538437Z",
+  "model": "glm-5.3"
+}

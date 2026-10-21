@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ta on⟩",
+      "rationale": "Heebreas puudub kopeelata; 'pillaja ja joodik' seisvad nominaalpredikaadina."
+    },
+    {
+      "kind": "crux",
+      "subject": "זולל וסבא",
+      "rationale": "'Sööma-puhuja ja joobnu' — pillaja\/mähkija vs 'lööve ja joodik'; vaidlus, kas זולל tähendab liigsööjat või märatsejat."
+    }
+  ],
+  "translation": "ja ütlevad oma linna vanematele: See meie poeg on nurjus ja mässaja, ta ei kuula meie häält, ⟨ta on⟩ pillaja ja joodik.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "723aabea00934cce08940c88404aeb97a9d079fdcfc86eea9764bc7d5883754b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/21\/18-20.1792543631178.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ja ütlevad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanemate"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "oma linna"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "meie poeg"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "nurjus"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ja mässaja"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuula"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "meie häält"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "pillaja"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ja joodik"
+    }
+  ],
+  "timestamp": "2026-10-21T00:47:11.187502575Z",
+  "model": "glm-5.3"
+}

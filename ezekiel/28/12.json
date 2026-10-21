@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 28:12",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Eesti keel nõuab kopeeli, heebrea lause on kõnekäänuline nimivorm"
+    },
+    {
+      "kind": "crux",
+      "subject": "חותם תכנית",
+      "rationale": "'täpsuse pitser' (KJV 'sealest up the sum') vs 'täiuslikkuse pitser' — kas kuningas on pitseri omaja või pitseerija"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור",
+      "rationale": "Tsoori nimi kõlab kui 'kalju' (צור) — võimalik sõnamäng kuninga uhkusega"
+    }
+  ],
+  "translation": "Inimesepoeg, tõota nutulaul Tsoori kuninga üle ja ütle talle: nõnda ütleb Adonai Jahve: sina oled pitser, täpselt mõõdetud, täis tarkust ja täiuslik ilus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd19c53dfbe0309efbc63af9679925925d0fa0a8ad0c65e15c996aca46f6bb7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/28\/9-12.1792550298654.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "שא",
+      "gloss": "tõota"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "nutulaul"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsoor"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja ütle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pitser"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "täpselt mõõdetud"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täis"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkust"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "täiuslik"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "ilus"
+    }
+  ],
+  "timestamp": "2026-10-21T02:38:18.655369240Z",
+  "model": "glm-5.3"
+}

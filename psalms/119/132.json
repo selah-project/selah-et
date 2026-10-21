@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "כמשפט otsesõnu 'nagu kohus\/õigus' — eesti võrdluskond nõuab kopeerit ⟨on⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "komme",
+      "rationale": "משפט on 'kohtuotsus\/õigus'; siin tähendab 'nagu on õige sinu tavandi järgi'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "otse pöördumine JAHVE poole: pööra, ole armuline"
+    }
+  ],
+  "translation": "Pööra mu poole ja ole mulle armuline, nagu ⟨on⟩ sinu komme nende vastu, kes armastavad su nime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/129-132.1792554060409.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "pööra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mu poole"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ja ole mulle armuline"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "nagu on sinu komme"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "nende vastu, kes armastavad"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "su nime"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:00.410691737Z",
+  "model": "glm-5.3"
+}

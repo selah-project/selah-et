@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Israel",
+      "rationale": "imperatives summon the people to act: put away, incline"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהי הנכר",
+      "rationale": "'võõra rahva Elohimid' keeps Elohim plural-form with lowercase sense per D1 rather than 'võõrad jumalad' alone"
+    }
+  ],
+  "translation": "Ja nüüd pange kõrvale ⟨את⟩ võõra rahva Elohimid, kes teie keskel ⟨on⟩, ja kalduge ⟨את⟩ oma südamed Jahve, Jisraeli Elohimi poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/21-24.1792541766309.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nüüd"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "pange kõrvale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "võõra rahva Elohimid"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimid"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "võõra rahva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "teie keskel"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "ja kalduge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma südamed"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "oma südamed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:16:06.310669630Z",
+  "model": "glm-5.3"
+}

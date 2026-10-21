@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rahvaste",
+      "rationale": "Eesti omastav nõuab täiendit, heebrea l\/m-kuuluvus jäetakse markerina"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהגו",
+      "rationale": "mõtisklevad\/mõtlevad vs nurisevad — הגה on nii pomisev kui ka kaalutlev"
+    }
+  ],
+  "translation": "Miks rahvad tunglevad ja ⟨rahvaste⟩ hõimud mõtisklevad tühja?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/2\/1-4.1792552158951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "tunglevad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ja hõimud"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mõtisklevad"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tühja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:18.951852735Z",
+  "model": "glm-5.3"
+}

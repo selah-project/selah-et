@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "eesti keeles vajalik asesõna, heebrea ilmafinish-prefiks kannab seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "pilve käsutamine",
+      "rationale": "taeva kujutatakse majana, millel on uksed — kujund, mis eesti 'taeva uksed' küll edasi annab"
+    }
+  ],
+  "translation": "Ja ta käskis pilvi ülaltpoolt ja taeva-uksi ta avas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/21-24.1792553423175.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ja ta käskis"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ülaltpoolt"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "ja taeva-uksi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ta avas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:23.176486822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 41:21",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub kopolula 'nende välimus ⟨oli⟩ paha' kohas"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sisse",
+      "rationale": "קרב tähendab sõna-sõnalt 'sise, kõht' — 'nende sisse' asendab pildi 'nende kõhtu'"
+    }
+  ],
+  "translation": "Ja need läksid nende sisse, aga ei olnud teada, et nad olid nende sisse läinud, ja nende välimus oli paha nagu alguses — ja mina ärkasin.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "52d171f77d4a0db9bbf35013864851f355b569df8d50ed632cc3a8f5d9874886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/41\/21-24.1792538033885.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "ja need läksid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "nende sisse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "oonud teada"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nad olid läinud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "nende sisse"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "ja nende välimus"
+    },
+    {
+      "surface": "רע",
+      "gloss": "paha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "alguses"
+    },
+    {
+      "surface": "ואיקץ",
+      "gloss": "ja mina ärkasin"
+    }
+  ],
+  "timestamp": "2026-10-20T23:13:53.886224800Z",
+  "model": "glm-5.3"
+}

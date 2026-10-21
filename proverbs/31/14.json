@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea kaudne kõneviis puudub; eesti nõuab kopeeri 'on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leib",
+      "rationale": "לחם on laiemalt 'toit', 'leib' kui tüvinäide"
+    }
+  ],
+  "translation": "Ta on nagu kaupmeeste laevad, kaugelelt toob ta oma leiva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/31\/13-16.1792555023496.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Ta on"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "nagu ... laevad"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "kaupmeeste"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kaugelelt"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "toob"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "oma leiva"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:03.497949869Z",
+  "model": "glm-5.3"
+}

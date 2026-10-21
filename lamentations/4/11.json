@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma nina põlemine",
+      "rationale": "חרון אף on otseselt 'nina põlemine' — raevu idiom, hoitud sõna-sõnalt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף",
+      "rationale": "'Nina' tähendab ka 'viha' — topeltmärgistus jääb eesti 'nina' kaudu nähtavale"
+    }
+  ],
+  "translation": "Lõpetas Jahve ⟨את⟩ oma raevu, valas välja oma nina põlemise, ja süütas tule Siionis, ja see sööis ära tema alused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/9-12.1792555991351.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Lõpetas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma raevu"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "oma raevu"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "valas välja"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "põlemise"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "oma nina"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "ja süütas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siionis"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja see sööis ära"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "tema alused"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:11.352555779Z",
+  "model": "glm-5.3"
+}

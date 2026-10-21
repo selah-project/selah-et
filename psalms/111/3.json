@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub koopula; eesti nõuab selle ⟨on⟩ — sulud teksti pole vaja, sest 'on' kirjutatud loomulikult."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה hoitakse kõla järgi 'tsedek', mitte 'õigus', vastavalt keele distsipliinile."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פעלו",
+      "rationale": "ainsus 'tema tegu' vs mitmus 'tema teod' — heebrea on ainsuse passiivne tegu kui tervik."
+    }
+  ],
+  "translation": "Hiilgus ja au on tema tegu, ja tema tsedek püsib igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/111\/1-4.1792553924358.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Hiilgus"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ja au"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "tema tegu"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ja tema tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "püsib"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:44.358809596Z",
+  "model": "glm-5.3"
+}

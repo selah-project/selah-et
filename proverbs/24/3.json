@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "heebrea jätab objekti kordamata; eesti keel vajab asesõna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה\/תבונה",
+      "rationale": "tarkuse\/mõistuse paaris, mis kannab salmi paralleelsust"
+    }
+  ],
+  "translation": "Tarkusega ehitatakse maja ja mõistusega ⟨see⟩ kindlustatakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/24\/1-4.1792554912561.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "tarkusega"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ehitatakse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ja mõistusega"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "kindlustatakse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:12.563206183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרטמים",
+      "rationale": "'võlurid' — sõna tähistab ennustajaid, kes tõmbasid maagilisi jooni; ka 'nõiad', 'tekidlased'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לטיהם",
+      "rationale": "לט tähendab 'saladus, varjatud asi'; 'salajased kunstid' edastab pildi, mitte üks sõna."
+    }
+  ],
+  "translation": "Ja võlurid tegidsid nii oma salajaste kunstidega, et tuua välja ⟨את⟩ sääski, aga nad ei suutnud; ja sääsed olid inimesel ja kariloomadel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c13e0b64070dc2cc894ae9130a1c307a107a63743ee1a56dd00a4534bbbc3d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/8\/13-16.1792538418494.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tegidsid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "võlurid"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "oma salajaste kunstidega"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "et tuua välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sääski"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "sääski"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "suutnud"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja olid"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "sääsed"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "inimesel"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ja kariloomadel"
+    }
+  ],
+  "timestamp": "2026-10-20T23:20:18.496634423Z",
+  "model": "glm-5.3"
+}

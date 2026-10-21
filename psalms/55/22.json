@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kloseeritud",
+      "rationale": "קרב tähendab 'kokkupõrge, vaen', mitte lihtsalt 'sõda' — süda oli täis vaenu"
+    },
+    {
+      "kind": "crux",
+      "subject": "פתחות",
+      "rationale": "'avatu' → 'paljastatud (tuuletatud) mõõk'; sõna tuleneb juurest פתח 'avama'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחמאות\/חלקו",
+      "rationale": "sileduse ja salvitamise pilt — 'võid' määrib sujuvalt, nagu või"
+    }
+  ],
+  "translation": "Sujuvad olid ⟨on⟩ tema suu võided ja tema süda oli kloseeritud: pehmed olid tema sõnad õlist, aga need ⟨on⟩ paljastatud mõõgad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7e424be1bd8448f8000e8268b7d24e4e462424e29da8fc64133919f9d5224a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/22-23.1792558587397.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "sujuvad olid"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "võided"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "tema suu"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "aga kloseeritud"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tema süda"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "pehmed olid"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "tema sõnad"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "õlist"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "aga need"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "paljastatud mõõgad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:27.403361097Z",
+  "model": "glm-5.3"
+}

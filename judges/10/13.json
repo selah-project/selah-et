@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "enam",
+      "rationale": "אוסיף lit. 'lisama' — 'ei lisa (endale)' eesti keeles vajab täiendit 'enam'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Jahve kõneleb otse Jisraeli poole"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "aleph-tav'i lõppvormiga suffiksit ei märgita eraldi ⟨את⟩ glüfiga, sest marker on sulanud asesõna sisse"
+    }
+  ],
+  "translation": "Aga teie jätsite ⟨את⟩ minu maha ja teenite teisi jumalaid; seepärast ei lisa ma enam päästmast ⟨את⟩ teid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/10\/13-16.1792541949995.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "aga teie"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "jätsite maha"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ minu",
+      "marks": "minu"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "ja teenite"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalaid"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "teisi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "lisa ma enam"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "päästmast"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:19:09.996427249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koidik",
+      "rationale": "אעירה שחר — ootamatu kujund: kõnelejalar äratab koidiku, mitte ei tõuse vara; 'vara üles tõusma' (KJV) peidab kujundi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nevel ja kinnor",
+      "rationale": "muusikariistade nimed heebrea kõla järgi, mitte 'psalteer ja harf'"
+    }
+  ],
+  "translation": "ärka üles, mu au; ärka üles, nevel ja kinnor! mina äratan koidiku.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/9-12.1792553055768.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ärka üles"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "mu au"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ärka üles"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ja kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "mina äratan"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "koidiku"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.769280236Z",
+  "model": "glm-5.3"
+}

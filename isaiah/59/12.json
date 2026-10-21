@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jumalale",
+      "rationale": "נגדך — otse pöördumine Jumala poole, 'sinu näo ees'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשעינו",
+      "rationale": "sama sõna kordub kaheks korda ühes salmis — meie mässud, meie mässud — kajana"
+    }
+  ],
+  "translation": "Sest meie mässud on paljunevad sinu näo ees ja meie patud tunnistavad meie vastu; sest meie mässud on koos ⟨את⟩-meiega ja meie pahateod — me tunneme neid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/59\/9-12.1792547763420.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "on paljunevad"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "meie mässud"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sinu näo ees"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "ja meie patud"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "tunnistavad"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "meie vastu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "meie mässud"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "koos meiega"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "ja meie pahateod"
+    },
+    {
+      "surface": "ידענומ",
+      "gloss": "me tunneme neid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:03.422489062Z",
+  "model": "glm-5.3"
+}

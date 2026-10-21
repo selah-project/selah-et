@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Eessõna לו eeldab eesti keeles selget objekti, heebrea jätab selle kaudseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפיח לו",
+      "rationale": "'hinge tõmbab selle järele' (ahneb päästet) vs 'tema, kelle peale puhutakse' (põlgajad puhuvad üle) — KJV ja JPS lahku"
+    }
+  ],
+  "translation": "Vaeste rõhumise pärast, hädaliste kisendamise pärast — nüüd tõusan üles, ütleb Jahve; ma seadan ⟨tema⟩ päästesse, mille järele ta hinge tõmbab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/12\/5-8.1792552342818.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "rõhumise pärast"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "vaeste"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "kisendamise pärast"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "hädaliste"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "tõusan üles"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ma seadan"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "päästesse"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "hinge tõmbab"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mille järele ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:22.820313866Z",
+  "model": "glm-5.3"
+}

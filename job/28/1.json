@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub käänesõna יש likvideerub eesti olevikus, kopeeritud kaudsemalt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "puhastatakse",
+      "rationale": "יזקק tähendab sõeluda\/rafineerida; passiivne lmata subjekt lisatud, sest heebrea omab määramata kolmandat isikut"
+    }
+  ],
+  "translation": "Sest hõbedale ⟨on⟩ allikas ja kullale koht, kus seda puhastatakse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "52dae17b43d3f36ab5283c0c1e3c298701dda8eeb7cf35161e78385598fda6ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/28\/1-4.1792555491653.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "hõbedale"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "allikas"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ja koht"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "kullale"
+    },
+    {
+      "surface": "יזזקו",
+      "gloss": "puhastatakse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:51.653774497Z",
+  "model": "glm-5.3"
+}

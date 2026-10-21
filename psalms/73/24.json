@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "'au' vs hilisem tõlgendus 'kirkusesse (taevasse) vastu võta' — tekst ise ütleb ainult 'au'"
+    },
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "eesti keel vajab viitamiseks lisasõna"
+    }
+  ],
+  "translation": "Oma nõuga juhata sa mind ja pärast ⟨sedä⟩ võtad mind au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/21-24.1792553297978.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "oma nõuga"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "juhata mind"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ja pärast"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "võtad mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:17.980270914Z",
+  "model": "glm-5.3"
+}

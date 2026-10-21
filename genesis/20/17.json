@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hakkasid",
+      "rationale": "וילדו on lihtne jaatav minevik 'nad sünnitasid'; eesti keeles lisatud aspekt 'hakkasid', sest sulgunud ilu avanes alles nüüd"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tegi terveks",
+      "rationale": "וירפא tähendab otseselt 'parandas, ravis'; 'tegi terveks' annab meditsiinilise pildi tagasi"
+    }
+  ],
+  "translation": "Ja Avraham palus Elohimi palvet, ja Elohim tegi terveks ⟨את⟩ Avimeleki ja ⟨את⟩ ta naise ning ta orjatarid, ja nad hakkasid lapsi saama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ebc5c3d80dd8765d16dd74f8b1a42fea020ec3ae3785531958dae86e04273230",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/20\/17-18.1792537607890.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "palus palvet"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "tegi terveks"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ta naise"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ta naine"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ja ta orjatarid"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ja nad hakkasid lapsi saama"
+    }
+  ],
+  "timestamp": "2026-10-20T23:06:47.890589162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 42:20",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koppel; eesti keel nõuab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "רוחות",
+      "rationale": "Neli ruahhi = neli tuult\/nelja ilmakaart; 'neljal pool' (nagu enamikus tõlkeid) vs 'neljas tuules'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb sõnaks ruahh — tuul, suund, hingus ühes sõnas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mõõtmine",
+      "rationale": "Viissada pikkust ja viissada laiust — templimõõt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "Kordus 'ümber ja ümber' — täielik ümbritsemine, säilitatud"
+    }
+  ],
+  "translation": "Nelja ruahhi poole mööda mõõtis ta selle; sellel ⟨oli⟩ sein ümber ja ümber: pikkus viissada ja laius viissada — eraldamaks püha ja tavapärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7a4a02c94bceec2ea8a73b3f3f99fab4ed6c379fc5332b621a7d5599e201672a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/42\/20-20.1792558495312.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "nelja"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ruahhi"
+    },
+    {
+      "surface": "מדדו",
+      "gloss": "mõõtis ta"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "sein"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pikkus"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja laius"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "viis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "eraldamaks"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "tavapärane"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:55.320689104Z",
+  "model": "glm-5.3"
+}

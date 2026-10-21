@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ei ole⟩",
+      "rationale": "Heebreas puudub kopeeriv 'on'; eesti keeles vajalik, teises pooles kordatud"
+    }
+  ],
+  "translation": "Sest minu mõtted ⟨ei ole⟩ teie mõtted ja teie teed ⟨ei ole⟩ minu teed, ütleb Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "548386cd27fa79e6cd8810a45deef290cb37cabba9f67297abad98f98de84797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/55\/5-8.1792547766997.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "minu mõtted"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "teie mõtted"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "teie teed"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "minu teed"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:06.999585275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הirv",
+      "rationale": "איל on D4 tabeli järgi 'hirv' (jõuloom), tavaliselt 'voll\/pull'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ohverdas",
+      "rationale": "ויעל otse 'tõstis üles' — tõusis ohverdamiseks; eesti kasutab ohverdamise väljendit"
+    }
+  ],
+  "translation": "Ja Balak tegi, nii nagu Bileam oli rääkinud, ja Balak ja Bileam ohverdasid iga altari peal nuumvasika ja hirve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d07dc78fabb8a37462ee67a5fe488d82abfd59c21b14b4e3050f66ac7b6b19dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/23\/1-4.1792540261026.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli rääkinud"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ja ohverdas (tõstis üles)"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "ja Bileam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "nuumvasika"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ja hirve"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "altari peal"
+    }
+  ],
+  "timestamp": "2026-10-20T23:51:01.027263466Z",
+  "model": "glm-5.3"
+}

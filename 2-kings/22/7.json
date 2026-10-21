@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "rationale": "sõna-sõnalt 'nende käe peale', eesti 'nende kätte'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנתן \/ אמונה",
+      "rationale": "antud hõbe vs ustavus: 'andmine' ja 'kindlus\/truudus' samas loos, eesti keeles nõrgeneb"
+    }
+  ],
+  "translation": "Ainult ei pea nendega ⟨את⟩ hõbedat arvestama, mis on antud nende kätte, sest ustavalt nad toimivad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a7b31c510590939885653d7304a6775ab28d3297de1941ad67cc96b6ac108acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/22\/5-8.1792546409669.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "pea arvestama"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nendega"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hõbedat"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "mis on antud"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "nende kätte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ustavalt"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "toimivad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:33:29.674747017Z",
+  "model": "glm-5.3"
+}

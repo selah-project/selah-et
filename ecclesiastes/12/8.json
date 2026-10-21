@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeel 'kõik ⟨on⟩ tühis' jaoks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tühis tühisist",
+      "rationale": "heebrea ülimust väljendav kordus הבל הבלים — 1Ms 1:2 ja Koheleti raamistiil"
+    }
+  ],
+  "translation": "Tühis tühisist, ütles Kohelet, kõik ⟨on⟩ tühis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/12\/5-8.1792556166468.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Tühis"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tühisist"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tühis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:06.469226988Z",
+  "model": "glm-5.3"
+}

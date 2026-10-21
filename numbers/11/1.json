@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 11:1",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viha",
+      "rationale": "אפו on sõna-sõnalt 'tema nina\/ninamik' — viha kujund, eesti keeles 'viha'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבערה",
+      "rationale": "salm 1 ותבער ('põles') eelkajab salmi 3 paiganime Tavera — see sidumine jääb osaliselt nähtavale"
+    },
+    {
+      "kind": "elision",
+      "subject": "בם",
+      "rationale": "eespool 'nende sees' — heebrea lühike osastav kääne vajab eesti keeles täiendit"
+    }
+  ],
+  "translation": "Ja rahvas oli nagu nurisejad, kuri Jahve kõrvus, ja Jahve kuulis, ja ta viha süttis, ja Jahve tuli põles nende seas ja söötas ära laagri ääre.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd51f1e820ee315e840b1cf588ecb9b784e380197e5fd93f63b3716054f7fef0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/11\/1-4.1792539939215.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "כמתאננים",
+      "gloss": "nagui nurisejad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "kõrvus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ja süttis"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tema viha"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ja põles"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nende sees"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ja söötas ära"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ääres"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "laager"
+    }
+  ],
+  "timestamp": "2026-10-20T23:45:39.216296267Z",
+  "model": "glm-5.3"
+}

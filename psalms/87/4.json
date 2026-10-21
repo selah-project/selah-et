@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Rahab",
+      "rationale": "רהב 'hoopleja' on Egiptuse epiteet, mitte uskumusolend"
+    },
+    {
+      "kind": "crux",
+      "subject": "see on seal sündinud",
+      "rationale": "Kelle sünnist on juttu — rahvast või Tsiionist; 87:5 jätkab 'see ja see on temas sündinud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti öeldis, mida heebrea lühilauses ei ole"
+    },
+    {
+      "kind": "invitation",
+      "subject": "vaata",
+      "rationale": "הנה köidab kuulaja tähelepanu loetelu keskel"
+    }
+  ],
+  "translation": "Mainin Rahabit ja Babüeloni nendele, kes mind tunnevad; vaata, Plishtim ja Tsor koos Kuushiga: see ⟨on⟩ seal sündinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/87\/1-4.1792553583674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "mainin"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ja Babüelon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "nendele, kes mind tunnevad"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Plishtim"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ja Tsor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sündinud"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:03.676203699Z",
+  "model": "glm-5.3"
+}

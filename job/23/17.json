@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 23:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומפני",
+      "rationale": "'ja mu palge eest' vs 'ja tema palge eest' — kelle palek on kuumas, töövaideline koht; KJV\/JPS loevad Jumala, mina loen kõneleja"
+    },
+    {
+      "kind": "crux",
+      "subject": "כסה אופל",
+      "rationale": "kes kattis: heebrea subjekt puudub; 'tema (Eel)' lisatud nurksulgudesse, sest כסה on meessoost tegusõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pimedus \/ pimedus",
+      "rationale": "חשך ja אפל on kaks sõna: 'pimedus' ja 'pimendus' — kordus pehmendab heebrea kujundit, mida eesti keeles on raske eristada"
+    },
+    {
+      "kind": "mystery",
+      "subject": "pimedus",
+      "rationale": "Iiobi kõne sulgub pimeduse varjutusse, mida ei selgitata — kinnioletud, varjatud"
+    }
+  ],
+  "translation": "Sest mind ei hävitatud pimeduse eest, ja mu palge eest kattis ⟨tema⟩ pimeduse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3f888c8a961e6fb43e0866b6f5ac3bbb297d40a5fab46e185d9b3d6cab926d9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/23\/17-17.1792555414133.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נצמתי",
+      "gloss": "hävitatud mind"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pimeduse eest"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "pimedus"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ja mu palge eest"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "kattis"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "pimedus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:34.134029900Z",
+  "model": "glm-5.3"
+}

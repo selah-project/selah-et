@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel nõuab kopulat; heebrea והיה on 'ja tema on'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבטח\/מבטחו",
+      "rationale": "sama juur kordub: 'kes loodab' — 'tema lootus\/kindlus', rõhutab vastandust salmiga 5"
+    }
+  ],
+  "translation": "Õnnis on see mees, kes loodab Jahve peale, ja Jahve ⟨on⟩ tema kindlus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f224d892930df3fa442b429c708188c8c72b50d06bb0455152a52c5f6b733b25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/17\/5-8.1792548507295.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "see mees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "loodab"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve peale"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tema kindlus"
+    }
+  ],
+  "timestamp": "2026-10-21T02:08:27.296968226Z",
+  "model": "glm-5.3"
+}

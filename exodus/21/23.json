@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש on 'elujõud, hingus', mitte hinge kestlik mõiste; 'elu elu eest' oleks sõna-sõnalisem."
+    }
+  ],
+  "translation": "Ja kui õnnetus sünnib, siis annad hinge hinge eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/21-24.1792543600962.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "õnnetus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sünnib"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "siis annad"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hinge"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eest"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T00:46:40.965779334Z",
+  "model": "glm-5.3"
+}

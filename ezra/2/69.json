@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "ezra 2:69",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kuus kümnetuhanded ja üks tuhat drakmet kulda",
+      "rationale": "kuus ribo ja tuhat = 61 000; miine viis tuhandet; kittlid sada"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכמונים",
+      "rationale": "drakmad (pärsia darik) või 'mündid'; KJV 'drams', teised 'pieces'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "aardlas",
+      "rationale": "לאוצר on ladu-hoidla, 'varandus' on laiem"
+    }
+  ],
+  "translation": "Oma jõu kohaselt andsid nad töö aardlasesse kulda, drakmeid kuus kümnetuhanded ja üks tuhat, ja hõbedat, miine viis tuhat, ja preestrite kittlit sada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b0b1da89238b7c487b2491054103b08553bd4a6b9f535d4eac9a017af29ad97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/2\/69-70.1792556679246.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככחם",
+      "gloss": "oma jõu kohaselt"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "andsid nad"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "aardlasesse"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "töö"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "kulda"
+    },
+    {
+      "surface": "דרכמונים",
+      "gloss": "drakmeid"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "kümnetuhanded"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ja üks tuhat"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ja hõbedat"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "miine"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "viis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "וכתנת",
+      "gloss": "ja kittlit"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "preestrite"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sada"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:39.247347902Z",
+  "model": "glm-5.3"
+}

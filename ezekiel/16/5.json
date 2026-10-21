@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 16:5",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on kõri\/elujõud, mitte 'hing' traditsioonilises mõttes"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגעל נפשך",
+      "rationale": "'sinu nefeshi jäleduses' (KJV) vs 'sest sinu isik oli jäledatud' (ASV) — kontrukti või põhjuse tõlgendus"
+    },
+    {
+      "kind": "addition",
+      "subject": "ükski",
+      "rationale": "eesti keele eitus nõuab 'ükski silm' täiendi, heebrea 'ei halastanud silm'"
+    }
+  ],
+  "translation": "Ei halastanud ükski silm sinu üle, et teha sinule ühtegi neist, kaastunda sinu üle; ja sind visiti välja põllu paljale, sinu nefeshi jäleduses, päeval, mil ⟨את⟩ sind ilmale toodi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5f2c743630629212a8765fbd70db0e6e73ebf6930ac5cba5bdb2daaaf065710a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/16\/5-8.1792549922380.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חסה",
+      "gloss": "halastanud"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu üle"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ükski silm"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et teha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ühtegi"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "neist"
+    },
+    {
+      "surface": "לחמלה",
+      "gloss": "kaastunda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu üle"
+    },
+    {
+      "surface": "ותשלכי",
+      "gloss": "ja sind visiti välja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "välja"
+    },
+    {
+      "surface": "פני",
+      "gloss": "paljale"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "בגעל",
+      "gloss": "jäleduses"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sinu nefeshi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "mil ilmale toodi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sind"
+    }
+  ],
+  "timestamp": "2026-10-21T02:32:02.381990864Z",
+  "model": "glm-5.3"
+}

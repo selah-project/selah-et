@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuuldu",
+      "rationale": "משמועה on 'midagi kuuldut, teadet' — tõlgitud kui 'kuuldu', mitte 'sõnumid'"
+    }
+  ],
+  "translation": "Kurja kuuldu ta ei karda; kindel ⟨on⟩ tema süda, lootmas Jahvesse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/112\/5-8.1792553990309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "kuuldu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "karda"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kindel"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tema süda"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "lootmas"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahvesse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:50.310858393Z",
+  "model": "glm-5.3"
+}

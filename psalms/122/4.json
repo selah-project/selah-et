@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see on⟩",
+      "rationale": "עדות לישראל on nomenaalrühm ilma koopulata; tõlkijad lahendavad 'kui tunnistus' või 'kui seadus' (asv: 'ordenantsse')"
+    },
+    {
+      "kind": "crux",
+      "subject": "tunnistus Jisraelile",
+      "rationale": "'Jisraeli tunnistuseks' vs 'Jisraeli jaoks seadusena' — kummagi eessõna tähendus jääb avatuks"
+    }
+  ],
+  "translation": "Sinnagi tõusid hõimud, Jah hõimud, ⟨see on⟩ tunnistus Jisraelile, tänama Jahve nime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/122\/1-4.1792554212289.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Sinnagi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "tõusid"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "hõimud"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "hõimud"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tunnistus"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "tänama"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:32.290655446Z",
+  "model": "glm-5.3"
+}

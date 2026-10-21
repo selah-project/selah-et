@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד אין חקר \/ עד אין מספר",
+      "rationale": "Sõna-sõnalt 'kuni ei ole otsimist \/ kuni ei ole arvu' — paralleelne tarvitus, esitatud eesti sidesõnadega."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "paralleelsus",
+      "rationale": "Kaks sarnast rida (suured teod \/ imed; ilma otsimiseta \/ ilma arvuta) — heebrea paralleelsalm, eesti keeles osalt tasandatud."
+    },
+    {
+      "kind": "mystery",
+      "subject": "v. 10",
+      "rationale": "Jumala teod on läbiuurimatud ja loendamatud — tahtlikult varjatud suurus."
+    }
+  ],
+  "translation": "Kes teeb suuri tegu, mille otsa ei saa, ja imeid, mida ei saa loendada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/9-12.1792555201309.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Kes teeb"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "suuri tegu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei saa"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "otsa"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "ja imeid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei saa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "loendada"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:01.309808553Z",
+  "model": "glm-5.3"
+}

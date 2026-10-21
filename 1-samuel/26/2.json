@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolm tuhand meest",
+      "rationale": "Väekoondise arvuline suurus."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואתו",
+      "rationale": "Kõrvuti עם-glossiks 'temaga'; ⟨את⟩ hoitud meelega."
+    }
+  ],
+  "translation": "Ja Saul tõusis ja läks alla Siifi kõrbe, ja temaga ⟨את⟩ kolm tuhand meest, Jisraeli valituid, et otsida ⟨את⟩ Davidit Siifi kõrbes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/26\/1-4.1792544321569.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ja tõusis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja läks alla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kõrbe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "Siifi kõrbe"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siif"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ja temaga ⟨את⟩"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "meest"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "valitud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "et otsida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidit"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Siifi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:58:41.571804587Z",
+  "model": "glm-5.3"
+}

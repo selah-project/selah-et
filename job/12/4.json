@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שחק ... שחוק",
+      "rationale": "Salm raamib korduva sõnaga 'naer' — alguses ja lõpus, heebrea sõnastus on eesti keeles osaliselt kadunud"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרא לאלוה ויענהו",
+      "rationale": "Kes kutsub ja kes vastab: kas Iiob ise (Jumal vastab talle) või mahanalüüsiva lause mõtte 'tema, kes kuttab, ja Tema vastab talle' — KJV ja YLT lahenevad erinevalt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Eloah",
+      "rationale": "אלוה kohal seisab nimi Eloah, mitte üldnimetus 'jumal'"
+    }
+  ],
+  "translation": "Naer olen ma oma sõbrale — see, kes hüüab Eloahi poole, ja tema vastab talle; naer on õige, täiuslik.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/1-4.1792555232254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "naer"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "oma sõbrale"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "olen ma"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "hüüab"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "Eloahi poole"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "ja tema vastab talle"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "naer"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "täiuslik"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:32.255877245Z",
+  "model": "glm-5.3"
+}

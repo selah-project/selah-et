@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kroon",
+      "rationale": "נזרו on 'pühitsemist vastu pandu, pühenduskroon' — preestrit ja kuningat ühendav sõna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צוץ",
+      "rationale": "v.17 'tärkama' ja v.18 'õitsema' — mõlemad taimeverbid, võiduõitse looduslik"
+    }
+  ],
+  "translation": "Tema vaenlased riietan häbega, aga tema pähe õitseb tema kroon.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/17-18.1792554245974.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Tema vaenlased"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "riietan"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häbega"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "tema pähe"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "õitseb"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "tema kroon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:05.975138510Z",
+  "model": "glm-5.3"
+}

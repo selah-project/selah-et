@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ravimatu",
+      "rationale": "אנוש tähendab 'kaitsetult nõrk, hukkurile lähedal' — eesti 'ravimatu' kannab pildi edasi, kuid kaotab nõrkuse varjundi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אנוש",
+      "rationale": "Verbi אנשש kuju esineb Tanahhis üliharva; siin ja Jer 15:18 'kas sinu haav on ravimatu'."
+    }
+  ],
+  "translation": "Sest nii ütleb Jahve: ravimatu on sinu murrang, raske sinu löökhaav.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/30\/9-12.1792548718000.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ravimatu"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "on sinu murrang"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "raske"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "sinu löökhaav"
+    }
+  ],
+  "timestamp": "2026-10-21T02:11:58.005538959Z",
+  "model": "glm-5.3"
+}

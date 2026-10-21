@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "et",
+      "rationale": "Eesti kõrvuti lause nõuab sidesõna, heebrea ויהי kannab kogu ütlemise"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Nahash",
+      "rationale": "נחש on isikunimi, mitte 'madu' — sama tähekombinatsioon, teine sõna"
+    }
+  ],
+  "translation": "Ja pärast seda sündis, et Nahash, Ammoni poegade kuningas, suri, ja tema poeg sai kuningaks tema asemel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/19\/1-4.1792557443730.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seda"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "suri"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammoni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja sai kuningaks"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tema poeg"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "tema asemel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:37:23.731358956Z",
+  "model": "glm-5.3"
+}

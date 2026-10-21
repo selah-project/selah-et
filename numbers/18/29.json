@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 18:29",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rasv",
+      "rationale": "חלב tähendab nii sõna otseses mõttes rasva kui ka parimat, valitumat osa."
+    },
+    {
+      "kind": "addition",
+      "subject": "ära",
+      "rationale": "Eesti imperatiivi selguseks lisatud sõna, heebreas puudub."
+    }
+  ],
+  "translation": "Kõigist oma andidest tõstke üles ⟨את⟩ kogu Jahve tõstetohi, kogu selle rasvast ära ⟨את⟩ selle püha osa sellest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf564fbff3a1cd1ae4458c8717dfb905cc8c8bde246427e33ff68902b733b240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/18\/29-32.1792540134450.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "מתנתיכם",
+      "gloss": "oma andidest"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "tõstke üles"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu Jahve tõstetohi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "tõstetohi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "selle rasvast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle püha osa"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "selle püha osa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sellest"
+    }
+  ],
+  "timestamp": "2026-10-20T23:48:54.450765462Z",
+  "model": "glm-5.3"
+}

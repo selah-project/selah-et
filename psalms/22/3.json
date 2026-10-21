@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא דומיה לי",
+      "rationale": "Kaks võimalust: 'ei ole mulle vaikust' (mina ei saa rahu, KJV\/ASV) või 'sina ei vaikinud' (JPS 'ei ole lõpetust'); verbi puudumine jätab subjekti lahtiseks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם \/ ולילה",
+      "rationale": "Päev\/öö paar kordub vastanduses — kõik aja tungib jumalik vaikuse vastu."
+    }
+  ],
+  "translation": "Minu Elohim, ma hüüan päeval, aga sa ei vasta, ja öösel, ja mulle ei ole vaikust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/1-4.1792552560002.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Minu Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ma hüüan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga ei"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sa vasta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ja öösel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ole vaikust"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:00.004435306Z",
+  "model": "glm-5.3"
+}

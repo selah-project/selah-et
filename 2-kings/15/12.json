@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 15:12",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "koppula lisatud, heebrea lööb selle kokku pronoomeniga הוא"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל · על",
+      "rationale": "eeltpositsioonid sulanduvad eesti käänetesse, eraldi sõna ei anta"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני רביעים",
+      "rationale": "'su pojad kuni neljanda põlvini' vs 'neljanda põlve pojad'; YLT loeb litereelseina 'neljanda põlve pojad istuvad su asemele'"
+    }
+  ],
+  "translation": "See ⟨on⟩ see sõna, mis Jahve rääkis Jeehule, öeldes: Su poegadest neljanda põlveni istuvad nad Jisraeli troonil; ja nii sai sündinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f108304d1e7bfc981f5b1a1aee323a7a651ec9014b736040a583409c6dce1117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/15\/9-12.1792546238536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "See"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jeehule"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegadest"
+    },
+    {
+      "surface": "רביעים",
+      "gloss": "neljanda põlveni"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "istuvad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "su"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troonil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja sai sündinud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nii"
+    }
+  ],
+  "timestamp": "2026-10-21T01:30:38.538570940Z",
+  "model": "glm-5.3"
+}

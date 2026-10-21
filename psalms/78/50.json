@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "nefesh on 'kurk\/hingeamm\/elujõud', mitte immateriaalne 'hing'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "'nina\/nohud' idiomina 'viha'"
+    }
+  ],
+  "translation": "Tasandas tee oma vihale; ei säästnud nende hinge surmast, vaid andis nende elu katku kätte.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/49-52.1792553412499.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "tasandas"
+    },
+    {
+      "surface": "נתib",
+      "gloss": "tee"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "oma vihale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "säästnud"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "surmast"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nende hinge"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "vaid nende elu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "katku"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "andas kätte"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:12.500637575Z",
+  "model": "glm-5.3"
+}

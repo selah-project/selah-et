@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vihapõlemised",
+      "rationale": "חרוניך on mitmus 'põlemised' — 'viha' on role, mitte sõna kuju"
+    },
+    {
+      "kind": "substitution",
+      "subject": "juurinud välja",
+      "rationale": "צמת tähendab välja juurimist, hävitamist juurest"
+    }
+  ],
+  "translation": "Üle minu on läinud sinu vihapõlemised, sinu hirmutused on mind juurinud välja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/88\/17-19.1792553549431.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "üle minu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "on läinud"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "sinu vihapõlemised"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "sinu hirmutused"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "on mind juurinud välja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:29.432647609Z",
+  "model": "glm-5.3"
+}

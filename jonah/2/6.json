@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud, mitte paaratu 'hing'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "papüürroog",
+      "rationale": "סוף on papüruse_roog, mitte üldine 'rannikuroog' või 'merehein'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני\/יסבבני",
+      "rationale": "kaks ümbritsemise verbi ühes salmis, kordus rõhutab piiramist"
+    }
+  ],
+  "translation": "Veed ümbritsesid mind kuni hingeni, sügavus piiras mind ümber, papüürroog oli köidetud mu pähe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83c5c736b11b86e06aa1e4ec41bcb7d4ad4f3869de26dec6528ba92fa90d9227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jonah\/2\/6-7.1792558526894.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ümbritsesid mind"
+    },
+    {
+      "surface": "מים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "sügavus"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "piiras mind ümber"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "papüürroog"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "köidetud"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mu pähe"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:26.903980117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברכו\/יברכך",
+      "rationale": "Root ברך frames the psalm: the servants bless (vv.1–2), YHWH blesses back (v.3)."
+    },
+    {
+      "kind": "you",
+      "subject": "to the worshiper",
+      "rationale": "Priestly blessing answered directly to the congregation."
+    }
+  ],
+  "translation": "Jahve õnnistagu sind Siionist, taeva ja maa tegija!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/134\/1-3.1792554280637.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "õnnistagu sind"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siionist"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegija"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ja maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:40.638551180Z",
+  "model": "glm-5.3"
+}

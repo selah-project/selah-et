@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 26:8",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Eesliit אל sulandub eesti käände '-le'; eraldi sõnana ei renderdata"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "Infinitivus absolutus kordus: sõna-sõnalt 'surema pead sa surema'; 'kindlasti' edastab kindluse, aga mitte grammatilist kordust"
+    },
+    {
+      "kind": "you",
+      "subject": "kogukonna kõne Jeremijale",
+      "rationale": "Otsekõne süüdistus: sina-pööre, 'sina pead kindlasti surema'"
+    }
+  ],
+  "translation": "Ja sündis, kui Jeremija oli lõpetanud rääkida kõik, mida Jahve oli käskinud tal rääkida kogu rahvale, siis haarasid preestrid ja prohvetid ja kogu rahvas ta kinni ⟨את⟩, öeldes: sina pead kindlasti surema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/26\/5-8.1792548749688.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "kui ... oli lõpetanud"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremija"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rääkida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rääkida"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "ויתפשו",
+      "gloss": "siis haarasid ... kinni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "ja prohvetid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kindlasti surema"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "pead surema"
+    }
+  ],
+  "timestamp": "2026-10-21T02:12:29.691662734Z",
+  "model": "glm-5.3"
+}

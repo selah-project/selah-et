@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק jääb heebrea kõlal 'tsedek', mitte 'õige'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעיניו",
+      "rationale": "'oma silmis' — kas Iiob on õige enda silmis või nende silmis (nagu Vulgata\/Wycliffe luges)"
+    }
+  ],
+  "translation": "Ja need kolm meest lakkasid vastamast ⟨את⟩ Iiobile, sest tema on tsedek tema enda silmis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/32\/1-4.1792555565711.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ja lakkasid"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "meest"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "vastamast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iiobile"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiobile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tema enda silmis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:05.712489916Z",
+  "model": "glm-5.3"
+}

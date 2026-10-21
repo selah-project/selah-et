@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמר...שמר",
+      "rationale": "Kordus 'hoiab... hoiab': kes hoiab suud, hoiab end ise — eestis säilitatud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kitsused",
+      "rationale": "מצרות on otseselt 'kitsused' (juure צרר 'kitsas'), 'hädad' on kaudsemööduv tähendus — siin sõnasõnaline pilt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud, mitte hinge kunstiallik; 'elu' oleks samuti õigustatud."
+    }
+  ],
+  "translation": "Kes hoiab oma suud ja oma keelt, hoiab oma hinge kitsustest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/21-24.1792554862373.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Kes hoiab"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "oma suud"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ja oma keelt"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hoiab"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "kitsustest"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:22.374742330Z",
+  "model": "glm-5.3"
+}

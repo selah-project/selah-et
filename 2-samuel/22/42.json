@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨abi järele⟩",
+      "rationale": "שעה tähendab 'vaatama (abi otsides)' — eesti vajab objekti"
+    },
+    {
+      "kind": "crux",
+      "subject": "Jahve poole",
+      "rationale": "'אל יהוה — kas vaenlased karjuvad Jehoova poole (kes ei vasta) või rida tähendab 'isegi Jahve ei vastanud'"
+    }
+  ],
+  "translation": "Nad vaatasid ⟨abi järele⟩, aga ei ole päästjat; Jahve poole — ja tema ei vastanud neile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/22\/41-44.1792544966046.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "nad vaatasid"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aga ei ole"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "päästjat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "vastanud neile"
+    }
+  ],
+  "timestamp": "2026-10-21T01:09:26.047274166Z",
+  "model": "glm-5.3"
+}

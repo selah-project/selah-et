@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem elujõud, kõri, ihu — mitte eraldiseisev 'hing'"
+    },
+    {
+      "kind": "crux",
+      "subject": "באמונתו",
+      "rationale": "'oma ustavuses' (trsedek-juur: ustavus, truudus) vs 'usu kaudu' — hilisem traditsioon luges seda usust"
+    },
+    {
+      "kind": "you",
+      "subject": "lugeja",
+      "rationale": "'Vaata' (הנה) pöörab teksti kuulaja\/lugeja poole"
+    }
+  ],
+  "translation": "Vaata, tema hing on paisunud, see ei ole õige temas; aga õige elab oma ustavuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/habakkuk\/2\/1-4.1792551792139.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "on paisunud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ole õige"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "tema hing"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temas"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "aga õige"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "oma ustavuses"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "elab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:03:12.140992958Z",
+  "model": "glm-5.3"
+}

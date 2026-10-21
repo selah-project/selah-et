@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Joonatani pakkumine",
+      "rationale": "Joonatan kutsub Davidit soovi välja ütlema — avatud pakkumine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "'mida su hing ütleb' = mida sa soovid; נפש kui tahe\/isu"
+    }
+  ],
+  "translation": "Ja Joonatan ütles Davidile: mida su hing ütleb, seda ma teen sinule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/20\/1-4.1792544155973.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Joonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "su hing"
+    },
+    {
+      "surface": "ו אעשה",
+      "gloss": "seda ma teen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    }
+  ],
+  "timestamp": "2026-10-21T00:55:55.977996584Z",
+  "model": "glm-5.3"
+}

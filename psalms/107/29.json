@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lained",
+      "rationale": "גלים tähendab 'lained' (mida veeritatakse), mitte 'varemed' nagu Strongi põhiväljal"
+    },
+    {
+      "kind": "addition",
+      "subject": "nende",
+      "rationale": "heebrea possessoriid on küll lõpus -הם, kuid lause liik ja võrdlus eelmise salmiga eeldab selgitust"
+    }
+  ],
+  "translation": "Ta seab tormi vaikuseks, ja nende lained vaigistuvad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/29-32.1792553899330.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "seab"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "tormi"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "vaikuseks"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "ja vaigistuvad"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "nende lained"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:19.331044924Z",
+  "model": "glm-5.3"
+}

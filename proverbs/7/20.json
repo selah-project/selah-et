@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכסא",
+      "rationale": "כֵּסֵא tähendab põhimõtteliselt 'täius\/täiskuu': YLT 'kuuloomise päeval', KJV 'kindlaksmääratud päeval', ASV\/JPS 'täiskuul'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pung",
+      "rationale": "צְרוֹר on kokkusidetud pakike; 'pung' annab kuju, kuid mitte sidumise pildi"
+    }
+  ],
+  "translation": "Hõbepungi on ta võtnud oma kätte, täiskuu päeval tuleb ta koju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d3d23095c5c9abfb9fb97bc2f768a64465fa3c1f03dfa46a4615d3a0d992bf93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/7\/17-20.1792554553735.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "pung"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "hõbe-"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "on ta võtnud"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "oma kätte"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "täiskuu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ta koju"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:13.736841039Z",
+  "model": "glm-5.3"
+}

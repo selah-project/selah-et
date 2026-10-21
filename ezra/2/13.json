@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Returnees counted by ancestral house, with full number in words."
+    },
+    {
+      "kind": "crux",
+      "subject": "666",
+      "rationale": "Ezra 2:13 counts 666 for Adonikam, while Nehemiah 7:18 has 667."
+    }
+  ],
+  "translation": "Adonikami pojad: kuussada kuuskümmend kuus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/2\/13-16.1792556661248.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adonikami"
+    },
+    {
+      "surface": "שש",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sada"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "kuuskümmend"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ja kuus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:21.249325393Z",
+  "model": "glm-5.3"
+}

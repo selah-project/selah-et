@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨omad⟩",
+      "rationale": "Lamed prefix לִיחִזְקִיָּה marks belonging to Hiskijah's line; Estonian needs an added word."
+    },
+    {
+      "kind": "crux",
+      "subject": "Ater of Hezekiah",
+      "rationale": "Rendered as descendants of Ater belonging to Hiskijah's house; some take Ater and Hiskijah as one clan name."
+    }
+  ],
+  "translation": "Atri pojad, Hiskijahi ⟨omad⟩: üheksakümmend kaheksa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/2\/13-16.1792556661248.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Atri"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "Hiskijahi"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "üheksakümmend"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ja kaheksa"
+    }
+  ],
+  "timestamp": "2026-10-21T04:24:21.249685803Z",
+  "model": "glm-5.3"
+}

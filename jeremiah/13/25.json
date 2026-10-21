@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sina",
+      "rationale": "Kaalud rõhutamiseks lisatud asesõna, heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lootid valet",
+      "rationale": "בשקר 'shammua' kohal 'vale' — ka 'tühisesse' on võimalik"
+    }
+  ],
+  "translation": "See on sinu loos, sinu mõõdu osa minu käest, ⟨את⟩ minu käest, ütleb Jahve, sest sa unustasid ⟨את⟩ mind ja sina lootid valet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca8c1ed7db494c8d88084d6e18d5d07ac5ad522494543ce890fd9f6c7a65372c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/13\/25-27.1792548304930.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "sinu loos"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "osa"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "sinu mõõdu"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ minu käest"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "sa unustasid"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mind"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ja sina lootid"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "valet"
+    }
+  ],
+  "timestamp": "2026-10-21T02:05:04.930799867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 4:18",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli \/ olid",
+      "rationale": "Aramaic verbless clauses; Estonian requires copulas, bracketed"
+    },
+    {
+      "kind": "substitution",
+      "subject": "välja kariloomad",
+      "rationale": "חיות ברא lit. 'wild animals of the field'; rendered per D4 'kariloomad'"
+    }
+  ],
+  "translation": "ja selle võra ⟨oli⟩ ilus ja selle viljad ⟨olid⟩ rikkalikud, ja selles ⟨oli⟩ toit kõigele; selle all elavad välja kariloomad ja selle okstel elavad taeva linnud,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "87e8012489c80e7eea66c7cc2b46833c60c4422e60bcc08d04d7051e432f9ff8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/4\/18-19.1792558717010.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועפיה",
+      "gloss": "ja selle võra"
+    },
+    {
+      "surface": "שפיר",
+      "gloss": "ilus"
+    },
+    {
+      "surface": "ואנבה",
+      "gloss": "ja selle viljad"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "rikkalikud"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "ja toit"
+    },
+    {
+      "surface": "לכלא",
+      "gloss": "kõigele"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selles"
+    },
+    {
+      "surface": "תחתוהי",
+      "gloss": "selle all"
+    },
+    {
+      "surface": "תדור",
+      "gloss": "elavad"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "kariloomad"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "välja"
+    },
+    {
+      "surface": "ובענפוהי",
+      "gloss": "ja selle okstel"
+    },
+    {
+      "surface": "ישכנן",
+      "gloss": "elavad"
+    },
+    {
+      "surface": "צפרי",
+      "gloss": "linnud"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "taeva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:37.012161699Z",
+  "model": "glm-5.3"
+}

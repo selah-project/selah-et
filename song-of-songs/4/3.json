@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula lisatud, heebrea jätab selle ära"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומדבריך",
+      "rationale": "'su kõne' või 'su suu' — tõlkijad lähevad lahku"
+    }
+  ],
+  "translation": "Nagu punasest niidist on su huuled, ja su kõne ⟨on⟩ armas; nagu granaadiõuna viil on su oim su loori taga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/4\/1-4.1792555799811.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "nagu niidist"
+    },
+    {
+      "surface": "השני",
+      "gloss": "punasest"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "su huuled"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "ja su kõne"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "armas"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "nagu viil"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "granaadiõuna"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "su oim"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "taga"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "su loori"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:59.812000958Z",
+  "model": "glm-5.3"
+}

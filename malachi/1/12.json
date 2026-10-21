@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדני Jumala-kohaselt nimena Adonai, mitte 'Issand'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחללים\/מגאל",
+      "rationale": "rüvetamise kordus — teo ja teie enda sõna peegeldus, eesti keeles säilitatud samaga tüvega 'rüvetama'"
+    }
+  ],
+  "translation": "Aga te rüvetate ⟨את⟩ teda, öeldes: Adonai laud on rüvetatud, ja selle saak, selle toit ⟨on⟩ põlastusväärne.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "571b07a6603a6be3e41da1a3a98950a8662f0ff5c826b1cd086f78b8163c4957",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/malachi\/1\/12-12.1792558541926.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "aga te"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "rüvetate"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "teda (Adonai laua — kogu ohjri asja)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "laud"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "rüvetatud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ja selle saak"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "põlastusväärne"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "toit"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:41.931582593Z",
+  "model": "glm-5.3"
+}

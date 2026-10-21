@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingamine",
+      "rationale": "נשמת on elupuhang, eluväe hingus — mitte 'vaim' üksi."
+    },
+    {
+      "kind": "crux",
+      "subject": "נר יהוה",
+      "rationale": "Kumb on lampe omav: KJV 'inimese vaim on Jahve lamp', YLT 'Jahve lamp on inimese hingus' — heebrea konstrukt tunnistab mõlemat."
+    }
+  ],
+  "translation": "Inimese hingamine on Jahve lamp, see otsib läbi kõik kõhu ürastuse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/20\/25-28.1792554759386.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lamp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "hingamine"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "otsib läbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ürastuse"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kõhu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:39.387002889Z",
+  "model": "glm-5.3"
+}

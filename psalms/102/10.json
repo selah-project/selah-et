@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pisaratega",
+      "rationale": "בבכי on 'nutuga, nõristusega' — pilt jooki, mis on segatud pisaratega nagu maitsestatud vein."
+    }
+  ],
+  "translation": "Sest tuhka nagu leiba sõin ja oma joogi pisaratega segasin.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/9-12.1792553689776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tuhka"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "nagu leiba"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "sõin"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ja oma joogi"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "pisaratega"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "segasin"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:49.776907255Z",
+  "model": "glm-5.3"
+}

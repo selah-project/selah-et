@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקץ",
+      "rationale": "'ja ta tülgastus Jisraelist' vs traditsiooniline 'ja ta vihkas Jisraelit'; juur tähendab vastikust, mitte vihkamist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שטן",
+      "rationale": "Siin tähendab שטן lihtsalt 'vastane, takistaja' (Reson), mitte henkinimi Saatan."
+    }
+  ],
+  "translation": "Ja temast sai vastane Jisraelile kõik Shelomo päevad, peale ⟨את⟩ kurja, mida Hadad tegi; ja ta tülgastus Jisraelist ja valitses Arami üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/11\/25-28.1792545477140.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja temast sai"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "vastane"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "peale ⟨את⟩ kurja"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "ja ta tülgastus"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelist"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja valitses"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    }
+  ],
+  "timestamp": "2026-10-21T01:17:57.141318953Z",
+  "model": "glm-5.3"
+}

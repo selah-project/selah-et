@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "henna",
+      "rationale": "הכפר: KJV 'kamper' vs henna ( Lawsonia inermis ) — viinamägede kontekst toetab hennat"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אשכל הכפר",
+      "rationale": "Hennapõias — selles ühendis haruldane pilt"
+    }
+  ],
+  "translation": "Hennapõunda oma on mu armas mulle Eini-Gedi viinamägedel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/13-16.1792555760442.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "põunas"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "henna"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mu armas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "viinamägedel"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Eini-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:20.443081397Z",
+  "model": "glm-5.3"
+}

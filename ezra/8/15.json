@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 8:15",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolmeks päevaks",
+      "rationale": "Päevade lugemine nagu kogu teekonna kroonikas."
+    },
+    {
+      "kind": "substitution",
+      "subject": "voolab",
+      "rationale": "הבא on lihtsalt 'tulev\/tulema' — 'voolab' on jõe kontekstis sobiv, aga sõnasõnalt 'jõe, mis tuleb Ahavasse'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ühtegi",
+      "rationale": "'ei leidnud ma sealt' — heebrea ei ütle 'ühtegi', eesti eitustäiend lisatud."
+    }
+  ],
+  "translation": "Ja ma kogusin nad kokku jõe juurde, mis voolab Ahavasse, ja me jäime sinna laagrisse kolmeks päevaks; ja ma vaatasin rahva ja preestrite hulgas üle, ja Leevi poegadest ei leidnud ma sealt ühtegi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/8\/13-16.1792556752766.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקבצם",
+      "gloss": "ja ma kogusin nad kokku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "jõe"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "mis voolab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "אהוא",
+      "gloss": "Ahavasse"
+    },
+    {
+      "surface": "ונחנה",
+      "gloss": "ja me jäime laagrisse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevaks"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolmeks"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "ja ma vaatasin üle"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "rahva hulgas"
+    },
+    {
+      "surface": "ובכהנים",
+      "gloss": "ja preestrite"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "ja … poegadest"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leevi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "leidnud ma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sealt"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:52.767703950Z",
+  "model": "glm-5.3"
+}

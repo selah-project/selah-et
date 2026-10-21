@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 6:17",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teenijad",
+      "rationale": "משרתים on teensustegevus; 'laulus teenijad' tähistab laulavat teenistust miškani ees"
+    },
+    {
+      "kind": "substitution",
+      "subject": "koja",
+      "rationale": "בית את בית יהוה — 'Jahve koda', mitte 'templi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנות שלמה",
+      "rationale": "无限式 'ehitama' naissoo võrdlev; tõlgitud 'kuni Šelomo ehitas'"
+    }
+  ],
+  "translation": "Ja nad olid teenijad laulus miškani ees, kohtamise telgil, kuni Šelomo ehitas ⟨את⟩ Jahve koja Jerušalaimis; ja nad seadsid end oma õiguse järgi oma teenvuse peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cf498264b473fea56e91a3f498af208158f2c31d5790f1f493758e9d1c0ec15b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/17-20.1792557232871.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ja nad olid"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "teenijad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "miškan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "telk"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kohtamine"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "laulus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ehitas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve koja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ja nad seadsid end"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "oma õiguse järgi"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "עבודתם",
+      "gloss": "oma teenvuse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:33:52.872487958Z",
+  "model": "glm-5.3"
+}

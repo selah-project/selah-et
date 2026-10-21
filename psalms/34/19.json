@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti keeles vajab päästmise verb subjekti kordust, heebrea jätab selle ära"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לנשברי לב \/ דכאי רוח",
+      "rationale": "Kaasündiv paaris: 'lõhkenud-südamega \/ rusutud-ruahhiga'; hüüfndega kokku pandud pilt säilitab heebrea kaksikhäälestuse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kõla järgi 'ruahh', mitte 'vaim', kehtestatud reegli kohaselt"
+    }
+  ],
+  "translation": "Lähedal on Jahve südantmurdnutele ja ⟨את⟩ rusutud-ruahhisid päästab ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/34\/17-20.1792552625390.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "lähedal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "südantmurdnutele"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rusutud-ruahhisid"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "rusutud"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "päästab ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:05.391480960Z",
+  "model": "glm-5.3"
+}

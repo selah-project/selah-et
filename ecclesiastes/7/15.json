@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "röövlaneng",
+      "rationale": "רשע on sõna-sõnalt 'rumal\/õel tegelane', mitte tingimata röövlaneng."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מאריך",
+      "rationale": "Sõna-sõnalt 'pikendab (elu)' — kas 'elab pikalt' või 'pikendab enda põhjustatud kurja'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "õela heaolu",
+      "rationale": "Õige hukkub ja õel elab — heitlus varjutud mõistatusena."
+    }
+  ],
+  "translation": "⟨את⟩ Kõike olen ma näinud oma tühisuse päevadel: ⟨on⟩ tsedek, kes hukkub oma tsedekis, ja ⟨on⟩ röövlane, kes elab pikalt oma kurjuses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/13-16.1792556067116.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kõike"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Kõike"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen ma näinud"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "päevadel"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "oma tühisuse"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hukkub"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "oma tsedekis"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ja ⟨on⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "röövlaneng"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": " elab pikalt"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "oma kurjuses"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:27.117949740Z",
+  "model": "glm-5.3"
+}

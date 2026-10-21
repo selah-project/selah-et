@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kiskunud",
+      "rationale": "אכלתני on otseselt 'sõi mind ära'; 'kiskuma' pehmendab söömise pilti."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביתך",
+      "rationale": "Otsene on 'su kinnist kade armastus sinu koja pärast'; 'sinu pärast' teeb kokkuvõtlikult — kas lugeda 'kade armastus su koja (püha koha) pärast'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "rationale": "Sama juur חרף kaks korda: 'teotused teotajate' — kordus on eesti keeles säilitatud."
+    }
+  ],
+  "translation": "Sest pühas vimma sinu pärast ⟨on⟩ mind ära kiskunud, ja sinu teotajate teotused ⟨on⟩ langenud minu peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/9-12.1792553191359.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "pühas vimma"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sinu pärast"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "mind ära kiskunud"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ja teotused"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "sinu teotajate"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "langenud"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu peale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:31.360869638Z",
+  "model": "glm-5.3"
+}

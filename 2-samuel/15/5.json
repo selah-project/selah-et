@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 15:5",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "siis",
+      "rationale": "Eesti tekst vajab sidesõna, heebrea lauseehitus piirab selle ilma selleta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lähenes",
+      "rationale": "בקרב tähendab otseselt 'läheneda', mitte 'juurde tulla'"
+    }
+  ],
+  "translation": "Ja sündis, kui mõni mees lähenes tema juurde kummardamaks teda, siis sirutas ta välja ⟨את⟩ oma käe ja haaras teda ja suudles teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "606240368565fa1d9f3575bceb0650cd202ad6a9cd1e3aa5815ec2365ed34d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/15\/5-8.1792544740485.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja sündis"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "lähenes"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mõni mees"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "kummastamaks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema juurde"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "siis sirutas ta välja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oma käe"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ja haaras"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "ja suudles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:05:40.488560701Z",
+  "model": "glm-5.3"
+}

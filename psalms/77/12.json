@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אזכיר \/ אזכרה",
+      "rationale": "Sama juur זכר kordub kahes väljendis — meenutamine mahin\/mäletamine, kajastatud lähedaste sünonüümidega"
+    },
+    {
+      "kind": "addition",
+      "subject": "sinu",
+      "rationale": "Sufiks -ך teises isikus lisatud eesti keeles sõnaga ⟨sinu⟩"
+    }
+  ],
+  "translation": "Ma meenutan Jah tegusid, sest ma mäletan ammustest aegadest ⟨sinu⟩ imesid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/77\/9-12.1792553358724.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ma meenutan"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "tegusid"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ma mäletan"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ammustest aegadest"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "⟨sinu⟩ imesid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:18.725796472Z",
+  "model": "glm-5.3"
+}

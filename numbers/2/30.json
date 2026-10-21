@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeriv tegusõna, eesti keel vajab seda"
+    },
+    {
+      "kind": "measurement",
+      "subject": "53400",
+      "rationale": "Nuftali hõimu sõjaväe loendus: kolm ja viiskümmend tuhat neli saja"
+    }
+  ],
+  "translation": "ja tema vägi ja nende loendatuks tehtud ⟨on⟩ kolm ja viiskümmend tuhat ja neli saja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dec03c8a6d10058f64b1487bceab6221a994fa33ba85d6b3204f8abf35a6911f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/2\/30-32.1792543622654.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ja tema vägi"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ja nende loendatuks tehtud"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ja viiskümmend"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "saja"
+    }
+  ],
+  "timestamp": "2026-10-21T00:47:02.657284296Z",
+  "model": "glm-5.3"
+}

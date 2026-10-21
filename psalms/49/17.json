@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨keegi⟩",
+      "rationale": "Eesti keeles vajalik umbisikuline subjekt, heebreas puudub"
+    },
+    {
+      "kind": "you",
+      "subject": "lugejale\/kuulajale",
+      "rationale": "Käsk 'ära karda' pöördub otse kuulaja poole"
+    }
+  ],
+  "translation": "Ära karda, kui ⟨keegi⟩ rikastub, kui mehe kohta kasvab ta maja hiilgus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/17-20.1792553020175.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "karda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "rikastub"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "kasvab"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "hiilgus"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ta maja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:40.175581387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel nõuab omadussõna 'oma', mida heebrea omastavaline לאחיו ei kanna eraldi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבעו ... שבע",
+      "rationale": "'vanduma' jagab juure seitsmega (ševa) — seitsmekordne kinnitustõde, seostub Beer-ševa nimega j 33."
+    }
+  ],
+  "translation": "Ja nad tõusid vara hommikul ja vandusid, igaüks ⟨oma⟩ venna ees, ja Jitshak saatis nad ära, ja nad läksid ⟨את⟩ tema juurest rahus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10d6e7aa241884c11c370f83d78c57be6045a987b2605a4919a51b7795e5f248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/26\/29-32.1792537688811.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ja nad tõusid vara"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ja vandusid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "oma venna ees"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ja saatis nad ära"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitshak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja nad läksid"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ tema juurest",
+      "marks": "tema juurest"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "rahus"
+    }
+  ],
+  "timestamp": "2026-10-20T23:08:08.812408685Z",
+  "model": "glm-5.3"
+}

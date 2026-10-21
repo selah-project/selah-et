@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הואיל",
+      "rationale": "Tegusõna tähendab nii 'nõustus, leppis kokku' kui 'oli nõus\/tahtis'; tõlked jagunevad 'oli meelepärane' (KJV) ja 'on vandunud' (Wycliffe, samastades יעל\/אלה) vahel."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisrael",
+      "rationale": "Saamuel kõneleb otse rahvale — 'teid', 'endale rahvaks'."
+    }
+  ],
+  "translation": "Sest Jahve ei jäta hülga ⟨את⟩ oma rahvast oma suure nime pärast, sest Jahvele oli see meelepärane — teha ⟨את⟩ teid endale rahvaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/12\/21-24.1792544005569.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "jäta hülga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma rahvast"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oma rahvas"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "oma nime"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "oli meelepärane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "teha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "rahvaks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:25.572070461Z",
+  "model": "glm-5.3"
+}

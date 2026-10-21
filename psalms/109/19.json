@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מזח",
+      "rationale": "Sõna 'vöö' (liikuva vöö tähenduses) esineb Tanahhis ainult siin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעטה \/ יחגרה",
+      "rationale": "Riietumise ja vöötamise kaarikord: neetus katab nagu riietus ja tõmbub kinni nagu vöö — kogu värsi kujund."
+    }
+  ],
+  "translation": "See olgu temale nagu riietus, millega ta katab end, ja nagu vöö, millega ta on alati vöötatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/17-20.1792553899472.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "See olgu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "nagu riietus"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "millega ta katab end"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "ja nagu vöö"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alati"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "millega ta on vöötatud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:19.473859626Z",
+  "model": "glm-5.3"
+}

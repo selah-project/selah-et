@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Kas",
+      "rationale": "Heebrea puudub küsimüärk ja küsisõna; lause on retooriline küsimus, mida eesti süntaks nõuab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחה jääb Minha kohal eeskujulikuks ohvriterminiks, mitte 'kingitus'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nelikümmend aastat",
+      "rationale": "Kõrbeaja loendus retoorilise küsimuse sees"
+    }
+  ],
+  "translation": "Kas te tõite mulle ligi ohvreid ja minha kõrbes nelikümmend aastat, Jisraeli koda?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/5\/25-27.1792551250988.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "ohvreid"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ja minha"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "te tõite ligi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "nelikümmend"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T02:54:10.988731300Z",
+  "model": "glm-5.3"
+}

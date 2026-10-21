@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti keel vajab asesõnalise täiende jaoks köitvat verbi; heebrea jätab selle ära"
+    }
+  ],
+  "translation": "Ja filistlased kogusid ⟨את⟩ kõik oma väelaagrid kokku Afekisse, ja Jisrael ⟨oli⟩ leerinud allika juures, mis on Jisreelis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/29\/1-4.1792544359789.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ja kogusid kokku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistlased"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik oma väelaagrid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "oma väelaagrid"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeki"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ja Jisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "leerinud"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "allika juures"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "on Jisreelis"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:19.791140731Z",
+  "model": "glm-5.3"
+}

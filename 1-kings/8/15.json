@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koos",
+      "rationale": "Siin on את H854 (prepositsioon 'koos, juures'), mitte H853 olemärgis — seega ⟨את⟩-märki ei kasutata"
+    },
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Heebrea מלא objekt on lisamata; eesti 'täitis' viitab tagasi suuga räägitule"
+    }
+  ],
+  "translation": "Ja ütles: Õnnistatud olgu Jahve, Jisraeli Elohim, kes rääkis oma suuga ⟨את⟩ koos Davidi, mu isaga, ja täitis oma käega, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/8\/13-16.1792545316783.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "õnnistatud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "oma suuga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ koos"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isaga"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ja oma käega"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "täitis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-21T01:15:16.785817930Z",
+  "model": "glm-5.3"
+}

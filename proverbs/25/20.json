@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעדה בגד",
+      "rationale": "'riietuse-äravõtja' — passiivne kääne 'rõivast ilma jäänu' (Krüün) vs 'kuuma äravõtja' (KJV) — subjekt on laulja, mitte rõivastatu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נתר",
+      "rationale": "Natr — mineraalne sooda, mis äädikaga kahiseb; sõna esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "addition",
+      "subject": "nii on",
+      "rationale": "Võrdlus sidesõna lisatud eesti keele ladususe jaoks, heebrea paneb pildid lihtsalt kõrvuti"
+    }
+  ],
+  "translation": "Nagu see, kes võtab ära riietuse külmal päeval, ja nagu äädikas natril — nii ⟨on⟩ see, kes laulab laule kurvale südamele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/17-20.1792554947118.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "võtja-ära"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "riietuse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "külmal"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "äädikas"
+    },
+    {
+      "surface": "על",
+      "gloss": "natril"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "natrile"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ja laulab"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "laule"
+    },
+    {
+      "surface": "על",
+      "gloss": "kurvale"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südamele"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurvale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:47.119857504Z",
+  "model": "glm-5.3"
+}

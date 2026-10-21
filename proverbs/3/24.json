@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "magus",
+      "rationale": "ערב tähendab 'olema meeldiv, magus järele andma'; 'on su uni sulane' on võimalik."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשכב \/ ושכבת",
+      "rationale": "Lamama-heitmise kordus raamib salmi ja jätkab 3:23 jala- ja teekujundit."
+    }
+  ],
+  "translation": "Kui sa heidad lamama, ei sa karta, ja kui oled lamamanud, on su uni magus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cbd2feae047deb75fd33cbff78480b913b58e7ffbe45038204beb8b8b2b4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/21-24.1792554437893.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "sa heidad lamama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "sa karta"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ja oled lamamanud"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "on magus"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "su uni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:17.896016300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן",
+      "rationale": "Juure מנה 'välja mõõtma' poort (KJV 'prepare', ylt 'appoint') vs päikesetõusu 'מן 'kes' — siin järgitud teist, 'hesed ja tõd, kes teda hoiavad'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ei ole pelgalt 'arm'; hoitud kõla järgi sõna 'hesed'."
+    }
+  ],
+  "translation": "Ta istugu iialgu Elohimi palge ees; hesed ja tõd, need hoidku teda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/61\/5-8.1792553090799.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ta istugu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "iialgu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja tõd"
+    },
+    {
+      "surface": "מן",
+      "gloss": "need"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "hoidku teda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:50.801228284Z",
+  "model": "glm-5.3"
+}

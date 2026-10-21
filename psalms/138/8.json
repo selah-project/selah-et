@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "Heebrea nimilauses puudub verbi; eesti keel nõuab kopulat."
+    },
+    {
+      "kind": "crux",
+      "subject": "viib lõpule",
+      "rationale": "גמר: 'viib täielikult lõpule' või 'lõpetab\/heitab hülga' — verbi kahetine tähendus, tõlkijad valivad enamasti lõpetava võidu tähenduse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse heebrea sõnaks reegli D2 kohaselt, mitte 'halastus'."
+    }
+  ],
+  "translation": "Jahve viib minu jaoks lõpule; Jahve, su hesed ⟨kestab⟩ igavesti: su käte tegusid ära jäta maha!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0fb53a4c0816406b997513954b4bef8363d79444f5a48b652f43206218fed403",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/138\/7-8.1792558618953.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "viib lõpule"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "minu jaoks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "su hesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "teguid"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "su käe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "jäta maha"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:58.963946230Z",
+  "model": "glm-5.3"
+}

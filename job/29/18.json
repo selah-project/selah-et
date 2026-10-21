@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 29:18",
+  "book": "job",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחול",
+      "rationale": "'liiv' (arvult loendamatu) vs juutlik traditsioon ja JPS 'fööniks' (hoolb -> kulmi, meie päevil ümberloodud); enamus tõlgib 'liiv'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mu⟩",
+      "rationale": "heebrea ei ütle 'mu päevad' — eesti omadussõna nõuab seda"
+    }
+  ],
+  "translation": "Ja ma ütlesin: oma pesas jään ⟨ma⟩ hinge heitma, ja nagu liiv paljunevad ⟨mu⟩ päevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "67b55e43b46e5aea6489b3731ee9f09bc547a38e369050b8a5a71d68d6c0bfd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/29\/17-20.1792555501087.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ja ma ütlesin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "קני",
+      "gloss": "oma pesaga"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "jään hinge heitma"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "ja nagu liiv"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "paljunevad"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:01.088071674Z",
+  "model": "glm-5.3"
+}

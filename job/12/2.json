@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olete⟩",
+      "rationale": "Heebrea lauses puudub kopeeriv verbum; eesti keel nõuab seda"
+    },
+    {
+      "kind": "you",
+      "subject": "teie",
+      "rationale": "Iiob pöördub otse sõprade (Elifats, Bildad, Sofar) poole irooniliselt"
+    }
+  ],
+  "translation": "Tõesti, teie ⟨olete⟩ rahvas, ja teiega koos sureb tarkus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/1-4.1792555232254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "tõesti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "küll"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ja teiega koos"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sureb"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:32.255436792Z",
+  "model": "glm-5.3"
+}

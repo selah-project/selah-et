@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea keeles puudub koopula; nimetav lause loetleb omadused."
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "Tähendab 'iidne, aegunud' või 'väärt\/kestev': KJV 'durable riches', teised 'enduring' — 'vanust kandnud, seega hindamatu varandus'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה ei ole ainult 'õigus', vaid tervikmõiste õigsusest-vagadusest; jäetud kõlajärgi."
+    }
+  ],
+  "translation": "Rikkus ja au ⟨on⟩ minu juures ⟨את⟩, väärt varandus ja tsedek.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/8\/17-20.1792554580512.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Rikkus"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ja au"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ minu juures",
+      "marks": "Rikkus ja au"
+    },
+    {
+      "surface": "הון",
+      "gloss": "varandus"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "väärt"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ja tsedek"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:40.513535876Z",
+  "model": "glm-5.3"
+}

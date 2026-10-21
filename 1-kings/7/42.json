@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 7:42",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "neli sadat",
+      "rationale": "Täpne arv: 400 granaadõuna, kaks rida võrgu kohta"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab sidesõna, heebrea puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "palgedel",
+      "rationale": "פני tähendab sõna-sõnalt 'nägu\/palg' — mitte 'peal' nagu mujal"
+    }
+  ],
+  "translation": "ja ⟨את⟩ granaadõunad neli sadat kahe võrgu jaoks — granaadõunte read kaks ühe võrgu kohta — katma ⟨את⟩ kapiteelide kaks kera, mis on sammaste palgedel;",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/41-44.1792545367521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "granaadõunad"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "granaadõunad"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "neli"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sadata"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "kahe"
+    },
+    {
+      "surface": "השבכות",
+      "gloss": "võrgu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "rida"
+    },
+    {
+      "surface": "רמנים",
+      "gloss": "granaadõuntest"
+    },
+    {
+      "surface": "לשבכה",
+      "gloss": "võrgule"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ühele"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "katma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaks"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "kera"
+    },
+    {
+      "surface": "הכתרת",
+      "gloss": "kapiteelide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palgedel"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sammaste"
+    }
+  ],
+  "timestamp": "2026-10-21T01:16:07.525079520Z",
+  "model": "glm-5.3"
+}

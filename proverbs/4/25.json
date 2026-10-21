@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨otse⟩",
+      "rationale": "Eesti keel vajab suunda, heebrea יישרו 'sirguks' üksi ei ütle kuhu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõne",
+      "rationale": "Isikulised käsud poeg-kuulajale: silmad vaadaku, silmalaud sirgu"
+    }
+  ],
+  "translation": "Su silmad vaadaku otse ette, ja su silmalaud sirgu ⟨otse⟩ su ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9519dc05a644084567a95ef7ecfb0297cb8df22f19a195bb1f1f22d078918b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/4\/25-27.1792554523763.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "Su silmad"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "otse ette"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "vaadaku"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "ja su silmalaud"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "sirgu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "su ees"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:43.763637475Z",
+  "model": "glm-5.3"
+}

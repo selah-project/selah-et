@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרזיר מתנים",
+      "rationale": "'niudeid vöötav kiireloom' vs KJV 'vehmer (koer)'; tõlgin sõna-sõnalt 'tihedalt vöötatud niuded'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלקום עמו",
+      "rationale": "'temaga ei tõusta (üles)' vs BSB 'kuningas koos oma väega'; juur קום 'tõusma' annab 'vastupanu, mida ei ole'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אלקום",
+      "rationale": "ainus esinemine Tanahhis"
+    }
+  ],
+  "translation": "Niudevööd vöötatud sõnnik, ja täkk, ja kuningas, kelle vastu ei tõusta — ⟨on⟩ tema väes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "82c9688febfadef7e834a4b6436f2035da790c32aeda74d28568ab78124b6d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/29-32.1792555048133.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "vöötatud sõnnik"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "niudevööd"
+    },
+    {
+      "surface": "או",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "täkk"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "kelle vastu ei tõusta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tema väes"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:28.134755560Z",
+  "model": "glm-5.3"
+}

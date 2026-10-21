@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "להזכיר",
+      "rationale": "Heebrea infinitiiv 'märgistama, et mäletatakse' — eesti keeles üks nimisõna 'meenutamiseks'"
+    }
+  ],
+  "translation": "Pillilaul Davidile, meenutamiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/38\/1-4.1792552761569.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "pillilaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "meenutamiseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:21.570397090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raius",
+      "rationale": "גדע on sõna-sõnalt 'maha raiuma' (nagu puud), kujund vanglate palgidest"
+    }
+  ],
+  "translation": "Sest ta lõhkus vaskuksed ja raudpalgid ta raius ära.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/13-16.1792553873559.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ta lõhkus"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "uksed"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vask-"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ja palgid"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "raud-"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "ta raius ära"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:53.560773598Z",
+  "model": "glm-5.3"
+}

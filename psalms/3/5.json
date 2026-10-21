@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sela",
+      "rationale": "סלה on muusikaline pausimärk, edasi antud nimekujul, mitte tõlgituna"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Psalmist pöördub otse Jahve poole"
+    }
+  ],
+  "translation": "Minu häält Jahve poole hüüan, ja tema vastab mulle oma püha mäelt. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/3\/5-8.1792552146968.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "minu hääl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "poole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hüüan"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ja tema vastab mulle"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "mäelt"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "oma püha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:06.969008376Z",
+  "model": "glm-5.3"
+}

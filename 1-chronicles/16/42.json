@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 16:42",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olid⟩ · ⟨seisid⟩",
+      "rationale": "Eesti keel vajab könesõna, heebrea tekst seda ei sisalda"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חצצרות — pasunad",
+      "rationale": "Tavapäraselt 'trompetid\/pasunad' — tegemist on üldtunnustatud tähendusega, mitte tõlkeülusega; täheldus kolmandas isikus mitmekordses"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לשער",
+      "rationale": "KJV 'portes' ('väravate valvurid') võimaldab partitsipiivi 'valvama', kuid lihtne 'väravas' on heebrea lõppvormile truum"
+    }
+  ],
+  "translation": "Ja nendega ⟨olid⟩ Heeman ja Jidutun pasunate ja taldrikute (kinkide) najal häälest kuulutamaks ja Elohimi laulugarüütmaske, ja Jidutuni pojad ⟨seisid⟩ väravas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/41-43.1792557399652.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "ja nendega"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heeman"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "ja Jidutun"
+    },
+    {
+      "surface": "חצצרות",
+      "gloss": "pasunad"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "ja taldrikud (kinkid)"
+    },
+    {
+      "surface": "למשמיעים",
+      "gloss": "häälest kuulutamaks"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ja ... maske"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulugarüüt"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ja pojad"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jidutuni"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "väravas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:39.653301250Z",
+  "model": "glm-5.3"
+}

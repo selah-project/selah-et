@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 11:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הווה",
+      "rationale": "Tähendab nii 'ihalus' kui 'häving\/rappeline langus' — KJV 'naughtiness', JPS 'crafty device', BSB 'desires'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "Eesti keeles vajalik asesõna, heebreas verbivormis sees."
+    }
+  ],
+  "translation": "Õigete tsedek päästab nad, ja petiste hävingus võetakse nad kinni.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/5-8.1792554625441.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "õigete"
+    },
+    {
+      "surface": "תצילם",
+      "gloss": "päästab nad"
+    },
+    {
+      "surface": "ובהות",
+      "gloss": "ja hävingus"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "petiste"
+    },
+    {
+      "surface": "ילכדו",
+      "gloss": "võetakse kinni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:25.441741662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 5:9",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "keskkohast",
+      "rationale": "מקרב on 'sinu keskelt\/sinu seest', lähim osa, keskpunkt"
+    },
+    {
+      "kind": "crux",
+      "subject": "hobused ja sõjavankrid",
+      "rationale": "Lääne tõlked (KJV, BSB) panevad siia 5:9 'sinu käsi tõstetakse' — heebrea numbris on need salmid 10-13; heebrea tekst räägib hobustest ja vankritest"
+    }
+  ],
+  "translation": "Ja sünnib sel päeval — ütleb Jahve — et ma hävitan sinu hobused sinu keskkohast ja ma kaotan sinu sõjavankrid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "061f9eb75352d907fb4f3b7870342027448b4e79d5f0d882d110e2b5204329a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/5\/9-12.1792551548324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja sünnib"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "et ma hävitan"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "sinu hobused"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "sinu keskkohast"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "ja ma kaotan"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "sinu sõjavankrid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:59:08.325286028Z",
+  "model": "glm-5.3"
+}

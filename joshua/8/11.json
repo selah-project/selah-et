@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "heebrea ilma koppelverbita; eesti keel nõuab koplat 'org oli nende ja Aj vahel'"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "org",
+      "rationale": "הגי on haruldane sõna גַּי 'sälgustik\/org' — märgib maastiku lõhet, mis lahutab väed Aist, kajab 1Sm 17:3 ' org nende vahel'"
+    }
+  ],
+  "translation": "Ja kogu sõjarahvas, kes ⟨oli⟩ ⟨את⟩ temaga, tõusis üles ja lähenes ning tuli linna vastu, ja nad laagerusid põhja pool Aale; ja org ⟨oli⟩ nende ja Aj vahel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/8\/9-12.1792541447084.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sõja-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "tõusis üles"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ja lähenes"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ja nad laagerusid"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "põhja pool"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "Aale"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "ja org"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "nende vahel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ja"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aj"
+    }
+  ],
+  "timestamp": "2026-10-21T00:10:47.085951455Z",
+  "model": "glm-5.3"
+}

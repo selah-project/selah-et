@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בראש",
+      "rationale": "'esmalt' (KJV 'first') vs 'juhiks, ette' (Wycliffe 'made prince') — heebrea 'peas, alguses' lubab mõlemat."
+    },
+    {
+      "kind": "elision",
+      "subject": "psalm",
+      "rationale": "KJV lisab 'this psalm'; heebrea tekst ei maini laulu, ainutse käsuga tänada — eesti järgib lühemat."
+    }
+  ],
+  "translation": "Sel päeval siis andis David esmalt tänada Jahvet Asafi ja tema vendade käe kaudu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/5-8.1792557414285.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sel päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "esmalt"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "tänama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käe kaudu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafi"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ja tema vendade"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:54.286790398Z",
+  "model": "glm-5.3"
+}

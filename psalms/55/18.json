@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "keskpäeval",
+      "rationale": "צהרים on duaali 'kaksikvalgus' (keskpäev) — duaali arv kaob eesti ühesõnalisuses."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישמע",
+      "rationale": "Vajjiqtol 'ja ta kuulis' vs tõlgete 'kuuleb' (kjv) \/ 'on kuulnud' (jps) — ajaviht kuulaja silmis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm kellaega",
+      "rationale": "Päev jagatud kolmeks palveajaks: õhtu, hommik, keskpäev."
+    }
+  ],
+  "translation": "Õhtul ja hommikul ja keskpäeval mõtisklen ja ohkan, ja tema kuuleb mu häält.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/17-20.1792552978470.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Õhtul"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ja hommikul"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ja keskpäeval"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mõtisklen"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "ja ohkan"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja tema kuuleb"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mu häält"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:58.471503193Z",
+  "model": "glm-5.3"
+}

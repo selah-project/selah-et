@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saab ära söödud",
+      "rationale": "Heebrea אכל 'sööb' kujund: tuli 'sööb' ta ära; passiiv pehmendab kujundi."
+    },
+    {
+      "kind": "crux",
+      "subject": "יורשנה",
+      "rationale": "Jahve 'ajab ta välja \/ võtab pärandiks \/ jätab vaeseks' — JPS 'impoverish', KJV 'cast out'."
+    }
+  ],
+  "translation": "Vaata, Adonai võtab ta valduseks, ja lööb ta jõu merre, ja tema saab tule ära söödud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/9\/1-4.1792552050209.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "võtab ta valduseks"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ja lööb"
+    },
+    {
+      "surface": "בים",
+      "gloss": "merre"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "ta jõu"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "saab ära söödud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:07:30.211054003Z",
+  "model": "glm-5.3"
+}

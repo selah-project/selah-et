@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "heebrea keeles puudub koppula; eesti keel seda vajab"
+    }
+  ],
+  "translation": "Ja ta painutas taeva ja laskus ja pime pilv ⟨oli⟩ ta jalge all.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/9-12.1792552363211.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ja ta painutas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ja laskus"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ja pime pilv"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ta jalge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:43.212546154Z",
+  "model": "glm-5.3"
+}

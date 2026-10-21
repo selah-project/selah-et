@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום jäetakse kõla järgi 'šalom' — 'rahu' ahendaks tähendust (tervik, heaolu, turvalisus)."
+    },
+    {
+      "kind": "you",
+      "subject": "Mošele",
+      "rationale": "Jahve käsib Mošel Pinhasele kuulutada lepingu sõnu."
+    }
+  ],
+  "translation": "Seepärast ütle: Vaata, ma annan talle ⟨את⟩ oma lepingu — šalom.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/25\/9-12.1792540213990.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "seepärast"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "vaata, mina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma lepingu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "oma lepingu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    }
+  ],
+  "timestamp": "2026-10-20T23:50:13.991390266Z",
+  "model": "glm-5.3"
+}

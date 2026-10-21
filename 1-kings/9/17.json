@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alama",
+      "rationale": "תחתון on võrdlusaste 'kõige madalam\/alam', kahes Beit-Horoni linnas alama tähistus"
+    }
+  ],
+  "translation": "Ja Šelomo ehitas ⟨את⟩ Gezeri ja ⟨את⟩ Beit-Horoni, alama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/9\/17-20.1792545343295.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ja ehitas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Beit-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horoni"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "alama"
+    }
+  ],
+  "timestamp": "2026-10-21T01:15:43.296420844Z",
+  "model": "glm-5.3"
+}

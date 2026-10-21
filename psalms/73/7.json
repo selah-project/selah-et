@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא מחלב עינמו",
+      "rationale": "Sõna-sõnalt 'nende silm lähtub rasvast' – tõlgitsetud 'nende silmad paistavad rasvast' (rasu küllus, jõukus) või 'kogu nende silmavalmist väljub pahatahtlikusest'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משכיות",
+      "rationale": "Vormide mitmus, mida siin tõlgitsetakse 'kujutlusteks' – pahatahtlik mõistatus, mida tõlgitakse väga erinevalt."
+    }
+  ],
+  "translation": "Nende silm välgu rasvast, nad käivad üle südame kujutlused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/5-8.1792553330499.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "välgu"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "rasvast"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "nende silm"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nad käivad üle"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "kujutlused"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südame"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:50.500632744Z",
+  "model": "glm-5.3"
+}

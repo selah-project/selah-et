@@ -1,0 +1,176 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 6:11",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolm korda päevas",
+      "rationale": "fixed daily count of prayer times, kept explicit"
+    },
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Aramaic participial clause 'windows open' lacks copula, Estonian requires ⟨olid⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "langetas end oma põlvedele",
+      "rationale": "ברך על ברכוהי literally 'knelt upon his knees', Estonian needs full verb phrase"
+    },
+    {
+      "kind": "crux",
+      "subject": "ja tunnistas tänu",
+      "rationale": "ומודא = 'praised\/gave thanks\/confessed'; KJV 'gave thanks' vs 'praised' vs 'confessed'"
+    }
+  ],
+  "translation": "Ja Daniel, kui ta teadis, et kiri on alla kirjutatud, läks oma majja; ja tema aknad ⟨olid⟩ avatud tema ülemises toas, vastu Jerušalaimi; ja kolm korda päevas langetas ta end oma põlvedele, ja palvetas, ja tunnistas tänu oma Eloahi ees, kõik selle pärast, nagu ta varemast ajast seda tegi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be960648d1d6dea61b3925fc4db3caef6a024f5c42e3442d0df7b7debf45242b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/6\/10-11.1792558733902.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "Ja Daniel"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ta teadis"
+    },
+    {
+      "surface": "די",
+      "gloss": "et"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "on alla kirjutatud"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "kiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "läks"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "oma majja"
+    },
+    {
+      "surface": "וכוין",
+      "gloss": "ja aknad"
+    },
+    {
+      "surface": "פתיחן",
+      "gloss": "avatud"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tema jaoks"
+    },
+    {
+      "surface": "בעליתה",
+      "gloss": "ülemises toas"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "וזמנין",
+      "gloss": "ja kordi"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "kolm"
+    },
+    {
+      "surface": "ביומא",
+      "gloss": "päevas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "langetas end"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ברכוהי",
+      "gloss": "oma põlvedele"
+    },
+    {
+      "surface": "ומצלא",
+      "gloss": "ja palvetas"
+    },
+    {
+      "surface": "ומודא",
+      "gloss": "ja tunnistas tänu"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ees"
+    },
+    {
+      "surface": "אלהה",
+      "gloss": "Eloahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "selle pärast"
+    },
+    {
+      "surface": "די",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "alates"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "varemast ajast"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "sellest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:53.905397619Z",
+  "model": "glm-5.3"
+}

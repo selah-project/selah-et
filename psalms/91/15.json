@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨talle⟩ · ⟨teda⟩",
+      "rationale": "Heebrea sufiksisõna nõuab eesti keeles eraldi asesõna"
+    }
+  ],
+  "translation": "Ta hüüab mind appi ja mina vastan ⟨talle⟩; mina olen temaga hädas, ma TooTeda ja austan ⟨teda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/91\/13-16.1792553636807.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Ta hüüab mind appi"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ja mina vastan ⟨talle⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "hädas"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ma TooTeda"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ja austan ⟨teda⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:56.811012958Z",
+  "model": "glm-5.3"
+}

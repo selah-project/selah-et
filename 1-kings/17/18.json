@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea küünilausel 'mis minul ja sinuga' puudub köitesõna"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mis minul ja sinuga",
+      "rationale": "מה לי ולך — sõnasõnalt 'mis minule ja sinule', tavaühend 'mis sul minuga pistmist on'"
+    },
+    {
+      "kind": "you",
+      "subject": "lesk Eliale",
+      "rationale": "Päris tekst kõneleb otse Eliaga, kutsudes teda 'Jumala meheks'"
+    }
+  ],
+  "translation": "Ja ta ütles Elijale: mis ⟨on⟩ minul ja sinuga, Jumala mees? Kas sa oled tulnud minu juurde meenutama ⟨את⟩ mu süüd ja tapma ⟨את⟩ mu poega?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c9b0f1d0f88e5feb4a175ed1a89cf2272ec1c377db1388fb3d007d2c5520bf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/17\/18-19.1792558324576.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elialega"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minul"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ja sinuga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Jumala"
+    },
+    {
+      "surface": "באת",
+      "gloss": "oled tulnud"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "minu juurde"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "meenutama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu süüd"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "mu süü"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "ja tapma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu poega"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu poeg"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:04.577190062Z",
+  "model": "glm-5.3"
+}

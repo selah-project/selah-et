@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tuhat aastat \/ päev \/ öövalv",
+      "rationale": "aja mõõtmise võrdlus — Jumala aeg inimese aja vastu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "öövalv korra öösel",
+      "rationale": "või 'ja nagu valv öös' — heebrea kordab ööd, eesti 'korda' vältimiseks lisatud 'korra'"
+    }
+  ],
+  "translation": "Sest tuhat aastat on sinu silmis nagu eilne päev, kui see on möödunud, ja nagu öövalv korra öösel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/90\/1-4.1792553655589.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "aastat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sinu silmis"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "nagu päev"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "eilne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "on möödunud"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "ja öövalv"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "öösel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:15.591252905Z",
+  "model": "glm-5.3"
+}

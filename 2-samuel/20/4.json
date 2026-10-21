@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kutsu kokku",
+      "rationale": "הזעק tähendab sõna-sõnalt 'karjuma\/hüüdma' — rahva kokkukutsumise tähenduses kuulutajahüüd."
+    },
+    {
+      "kind": "addition",
+      "subject": "jooksul",
+      "rationale": "Eesti keeles vajalik ajamäärus; heebrea ütleb lihtsalt 'kolme päeva'."
+    }
+  ],
+  "translation": "Ja ütles kuningas Amasale: Kutsu mulle kokku ⟨את⟩ Juuda mehed kolme päeva jooksul, ja sina seisa siin.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ec9e1530f0c9d4c4bbc4949c5727a7b95be9f62f463b5e18aa2f0d3b3af7c953",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/20\/4-4.1792558284674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuni (Amasale)"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "kutsu kokku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juuda mehed"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kolme"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva jooksul"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "פה",
+      "gloss": "siin"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "seisa"
+    }
+  ],
+  "timestamp": "2026-10-21T04:51:24.675466373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Eesti kopelees lisatud, heebrea nimeline lause seda ei sisalda"
+    },
+    {
+      "kind": "crux",
+      "subject": "ümbernimetatud huultega",
+      "rationale": "ערל שפתים sõnasõnalt 'ümbernimetatud (nahaga kaetud) huuled'; käsitletud kõnejõuetusena, kujund ümberriitusest"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve palge ees",
+      "rationale": "Moše vastab otse Jahvele retoorilise küsimusega"
+    }
+  ],
+  "translation": "Ja Moše ütles Jahve palge ees: Enese, mina ⟨olen⟩ ümbernimetatud huultega — ja kuidas kuulab mind Paro?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e0490129c4d2c46171a2696c2cca643fd2a60b6699d4a5e89d19804cedf64237",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/6\/29-30.1792538285628.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Enese"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "ümbernimetatud"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "huultega"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ja kuidas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuulab"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mind"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-10-20T23:18:05.629500476Z",
+  "model": "glm-5.3"
+}

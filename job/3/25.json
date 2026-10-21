@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד \/ פחדתי",
+      "rationale": "Sama juur kordub: 'hirm — kartsin', kaja kaob eesti tõlkes osaliselt."
+    },
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Eesti keel vajab otsese kõne asemel korduvatel klauslitel viitavat asesõna."
+    }
+  ],
+  "translation": "Sest hirm, mida ma kartsin, tuli mu kallale, ja mida ma kartsin, see tuli mu üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/3\/25-26.1792555091313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "hirm"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "mida ma kartsin"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "tuli mu kallale"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja mida"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ma kartsin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "see tuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mu üle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:11.313712487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "välja",
+      "rationale": "Kohustuslik eesti partikkel eituse küsimuse lahendamiseks — ei ole heebreas."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ rahva käsuga öeldes: te läbite oma vendade, Eisavi poegade, piiri, kes elavad Seiris, ja nemad kardavad teid; olge <välja> väga ettevaatlikud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "42f8353fa702b891626b3395906b30779fa9bb32b9392bd0b91f3acd7b2ca392",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/2\/1-4.1792540574795.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rahva"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "צו",
+      "gloss": "käsuga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "te"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "läbite"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "piiri"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "oma vendade"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eisavi"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kes elavad"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seiris"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ja nemad kardavad"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teid"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "olge ettevaatlikud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:56:14.797127544Z",
+  "model": "glm-5.3"
+}

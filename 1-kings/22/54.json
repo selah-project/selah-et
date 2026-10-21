@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vihastatas",
+      "rationale": "heebrea כעס on 'pahandas, vihastas' — kausatiiv 'tegihäda tunne', sageli leebem kui 'vihastatas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "eesti imperfekti täisminevik nõuab abiverbi 'oli', mida heebrea ei oma."
+    }
+  ],
+  "translation": "Ja ta teenis ⟨את⟩ Baali ja kummardas teda ning vihastatas ⟨את⟩ Jahvet, Jisraeli Elohimit, kõige järgi, mida tema isa oli teinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f6236120ad3511a2f7dd8600c1f5cabff9b8c1ffb4a832263e9f618e87902e4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/22\/53-54.1792545743158.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Ja ta teenis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baali"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baali"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "ja kummardas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "ja vihastatas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Jisraeli Elohimit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kõige järgi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oli teinud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tema isa"
+    }
+  ],
+  "timestamp": "2026-10-21T01:22:23.161472304Z",
+  "model": "glm-5.3"
+}

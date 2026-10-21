@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Eesti keel nõuab kopolat 'olid'; heebrea lühiütlus on nimelt substantiivide loend."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pikad",
+      "rationale": "רבים on sõna-sõnalt 'paljud\/rohked' — päevade kohta 'pikad', kuju on mitmus jääb mitmuseks."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהי אמת",
+      "rationale": "'tõe Elohim' vs 'tõeline Elohim' — emetseda kõlbab mõlemale; siin säilitatud konstrukt."
+    }
+  ],
+  "translation": "Ja pikad ⟨olid⟩ päevad Jisraelile ilma tõe Elohimita ja ilma õpetava preestrita ja ilma Toorata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9059ddff500bc0f4dc7cf018806b30ef51d37eb8fce0f6494dfde09069cf70e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/15\/2-3.1792558760727.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "ja päevad"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "pikad"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Jisraelile"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõe"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "ja ilma"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "õpetava"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "ja ilma"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Toorata"
+    }
+  ],
+  "timestamp": "2026-10-21T04:59:20.729259392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oled⟩",
+      "rationale": "Eesti keeles nõutav öeldis, heebrea kaudkõne seda ei kanna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשובב",
+      "rationale": "Põhjast šuv (pöörduma) intensiivne vorm 'pöördu ikka tagasi' — palve kordus on eestis osaliselt kadunud"
+    }
+  ],
+  "translation": "Elohim, sina oled meid ära heitnud, meid lõhkenud, sina oled vihastanud — pöördu meie juurde tagasi!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/1-4.1792553125534.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "oled meid ära heitnud"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "meid lõhkenud"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "oled vihastanud"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "pöördu tagasi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meie juurde"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:25.537175464Z",
+  "model": "glm-5.3"
+}

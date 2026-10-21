@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 12:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koopula; eesti vajab seda"
+    },
+    {
+      "kind": "crux",
+      "subject": "בידו",
+      "rationale": "Kelle käsi — röövli või Eloah oma; ja mida toodi: 'rohkelt' (KJV) või lihtsalt 'oma kätte'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הביא אלוה בידו",
+      "rationale": "KJV lisab 'abundantly', mis heebreas ei seisna"
+    }
+  ],
+  "translation": "Rahul ⟨on⟩ röövlite telgid rüüstajate jaoks, ja kindel julgus neile, kes Elat ärritavad, kelle kätte Eloah on toonud ⟨oma käega⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/12\/5-8.1792555210426.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישליו",
+      "gloss": "Rahul"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "telgid"
+    },
+    {
+      "surface": "לשדדים",
+      "gloss": "rüüstajate jaoks"
+    },
+    {
+      "surface": "ובטחות",
+      "gloss": "ja kindel julgus"
+    },
+    {
+      "surface": "למרגיזי",
+      "gloss": "neile, kes ärritavad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "on toonud"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "oma käega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:10.427514655Z",
+  "model": "glm-5.3"
+}

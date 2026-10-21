@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Heebrea passiivijärgne subjekt puudub; eesti keel vajab seda"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נחשת",
+      "rationale": "sõna tähendab nii vaski kui pronksi; 'vasknõu' vs 'pronksnõu'"
+    }
+  ],
+  "translation": "Ja savist nõu, milles seda keedetakse, tuleb lõhkuda; ja kui ⟨see⟩ on keedetud vasknõus, siis see krihvitakse ja loputatakse veega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "791b5af4d2f12504b2eb949be4f1d56b7b9ba2f27ddfe0bc5ce4fde48dd86f54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/6\/21-23.1792539131447.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ja nõu"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "savist"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "milles"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "keedetakse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "selles"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "tuleb lõhkuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "nõus"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "vask-"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "keedeti"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "ja krihvitakse"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "loputatakse"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vees"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:11.448473342Z",
+  "model": "glm-5.3"
+}

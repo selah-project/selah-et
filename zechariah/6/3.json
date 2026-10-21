@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub koprula; eesti keel nõuab 'olid'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמצים",
+      "rationale": "Tõlkijad lahku: 'tugevad' (נמרצים-tuletis) vs 'punakad' vs 'kiiud'; 'tugevad' kui kõige sõnasõnalineem"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolmas ja neljas kaarik",
+      "rationale": "loendi jätk — järjestatud loendamine"
+    }
+  ],
+  "translation": "ja kolmandas kaarikus ⟨olid⟩valged hobused ja neljandas kaarikus ⟨olid⟩kirjud, tugevad hobused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c0011911d557cad0b3bfaa350815b4779d4725aa349c322fca125c3420690e0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/6\/2-3.1792558575428.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ja kolmandas kaarikus"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "kolmandas"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hobused"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "valged"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ja neljandas kaarikus"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "neljandas"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hobused"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "kirjud"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "tugevad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:15.450873951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse heebrea sõnaks 'hesed', mitte 'armastus' ega 'halastus' üksi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימושו\/ימוש ja תמוטנה\/תמוט",
+      "rationale": "Kaks korduvat verbipaari — mäed nihkuvad, hesed ei nihku; künkad kõiguvad, leping ei kõigu — kiasm, mis eesti keeles osaliselt säilib."
+    }
+  ],
+  "translation": "Sest mäed nihkuvad kõrvale ja künkad kõiguvad, aga minu hesed ei lahku sinu juurest ⟨את⟩ ja minu rahu leping ei kõigu, ütleb sind armastav Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b119c6431051b02e1ac2863b70b1d9a0e8f4dddb0bdfe5efd40691395e95d655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/54\/9-12.1792547640158.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "nihkuvad kõrvale"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ja künkad"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "kõiguvad"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "aga minu hesed"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "sinu juurest ⟨את⟩",
+      "marks": "sina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "lahku"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ja leping"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "minu rahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kõigu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "sind armastav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T01:54:00.159733879Z",
+  "model": "glm-5.3"
+}

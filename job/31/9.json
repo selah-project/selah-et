@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 31:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רעי",
+      "rationale": "'oma kaaslase' — paljud tõlked lisavad 'naine' (BSB 'neighbor's wife'), heebrea tekst seda ei ütle."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula, mida heebrea puudub, passiivi jaoks lisatud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "petetud",
+      "rationale": "נפתה on 'avardati\/meelitati', kujund painutatud tahtest."
+    }
+  ],
+  "translation": "Kui mu süda ⟨on⟩ petetud naise pärast ja ma olen varitsenud oma kaaslase ukseava juures,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/31\/9-12.1792555507905.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "נפתה",
+      "gloss": "⟨on⟩ petetud"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "על",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naise"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ukseava"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "oma kaaslase"
+    },
+    {
+      "surface": "ארבתי",
+      "gloss": "olen varitsenud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:07.906231077Z",
+  "model": "glm-5.3"
+}

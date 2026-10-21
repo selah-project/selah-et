@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלי ... עלי ... לי",
+      "rationale": "kolmekordne 'minu vastu \/ minule' kordus rõhutab piiramist; eesti keeles jääb osaliselt kaduma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחשבו",
+      "rationale": "חשב on 'kuduma\/punuma' — kavatsus kui kokku kootud plaan"
+    }
+  ],
+  "translation": "Üheskoos sosistavad kõik, kes mind vihkavad, minu vastu; minu vastu kavatsavad nad minule halba.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/5-8.1792552880507.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "sosistavad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kes mind vihkavad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "minu vastu"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "kavatsavad"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "halba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:20.508781371Z",
+  "model": "glm-5.3"
+}

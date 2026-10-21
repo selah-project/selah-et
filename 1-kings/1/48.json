@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 1:48",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Heebrea partitsiip 'mu silmad nähes\/näevad' vajab eesti keeles objekti ⟨seda⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישב",
+      "rationale": "Partitsiip 'istuv' isikulises tähenduses — 'istuja', mitte 'üks kes istub'"
+    }
+  ],
+  "translation": "Ja ka nõnda ütles kuningas: Kiidetud olgu Jahve, Jisraeli Elohim, kes andis täna minu troonile istuja, ja mu silmad näevad ⟨seda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "794fe20e6c03f52ef426720d46f3efcbf4c433d93e8f363f8f2434a63c925366",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/1\/45-48.1792545110713.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Kiidetud olgu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "andis"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istuja"
+    },
+    {
+      "surface": "על",
+      "gloss": "...le"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "minu troonile"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ja mu silmad"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "näevad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:11:50.717925071Z",
+  "model": "glm-5.3"
+}

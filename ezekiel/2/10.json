@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנים ואחור",
+      "rationale": "Sõn-sõnalt 'nägu ja tagumine' — 'esikülg ja tagakülg' (BSB, YLT) vs traditsiooniline 'seest ja väljast' (KJV, JPS)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "והגה",
+      "rationale": "hegeh — ainus esinemine Tanahhis, palmimise või ohkamise hääl."
+    }
+  ],
+  "translation": "Ja tema sirutas ⟨את⟩ selle välja mu palge ees, ja ⟨see⟩ oli kirjutatud esikülje ja tagakülje peale, ja sellele olid kirjutatud nutulaulud ja ohkamine ja hädahüüe.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/2\/9-10.1792549569637.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Ja tema sirutas välja"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "selle (kirjerulli)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "mu palge ees"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ja ⟨see⟩"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "oli kirjutatud"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "esikülje peale"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ja tagakülje peale"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ja olid kirjutatud"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "sellele"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "nutulaulud"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ja ohkamine"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ja hädahüüe"
+    }
+  ],
+  "timestamp": "2026-10-21T02:26:09.639160826Z",
+  "model": "glm-5.3"
+}

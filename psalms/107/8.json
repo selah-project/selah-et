@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jäetakse kõlaliselt hesed, mitte 'armastus' ega 'halastus' üksi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "kõneakt: kutsus tunnustama Jahvet — psalmi korduv refreng"
+    }
+  ],
+  "translation": "Tunnustagu nad Jahvele tema hesedit ja tema imetegu inimeste lastele!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/5-8.1792553891966.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Tunnustagu nad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "tema hesedit"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ja tema imetegu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lastele"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimeste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:11.967685183Z",
+  "model": "glm-5.3"
+}

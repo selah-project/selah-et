@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק jääb kõla järgi 'tsedek', mitte lihtsalt 'õigus'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kinni⟩",
+      "rationale": "ואקימה otsetõlge 'püsti panema' — vande täitma; lisasin 'kinni' selguseks"
+    }
+  ],
+  "translation": "Ma olen vandunud ja ma tõen seda ⟨kinni⟩: hoida sinu õiguse tsedek-i ⟨otsuseid⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/105-108.1792554010918.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ma olen vandunud"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "ja ma tõen seda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hoida"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "⟨otsuseid⟩"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sinu õiguse tsedek"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:10.918745057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "see",
+      "rationale": "Heebrea lause alus (need uksed \/ see öö) on lisatud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vaev",
+      "rationale": "עמל on nii keha kui meelevaatlus; 'kurbus' (KJV) on liiga kitsas"
+    }
+  ],
+  "translation": "Sest ⟨see⟩ ei sulgenud mu emaihu uksi ega varjanud vaevu mu silmade eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/3\/9-12.1792555056559.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "sulgenud"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "uksi"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mu emaihu"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ega varjanud"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaevu"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mu silmade eest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:36.560046141Z",
+  "model": "glm-5.3"
+}

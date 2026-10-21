@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nendesse",
+      "rationale": "Eesti keel vajab paik-netisõna, heebrea שבו ütleb lihtsalt 'istuge\/elage'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogu salm",
+      "rationale": "Hortatiivsed käskused pagendatud Jisraelile Baabelis"
+    }
+  ],
+  "translation": "Ehitage maju ja asuge ⟨nendesse⟩ elama, ning istutage aedu ja sööge ⟨את⟩ nende vilja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1af612c01df6bd153c36ede63f58f99bbb5d6e39210c23582630a0668df099a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/5-8.1792548738975.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Ehitage"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "maju"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ja asuge elama"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ja istutage"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "aedu"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ja sööge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende vilja"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "nende vilja"
+    }
+  ],
+  "timestamp": "2026-10-21T02:12:18.976791495Z",
+  "model": "glm-5.3"
+}

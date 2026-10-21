@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨omaks⟩",
+      "rationale": "heebrea omistus £לאהרן ולבניו§ eeldab eesti keeles omistava sõna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "püha-pühadest kordus — ülim intensiiv, 'kõige püham püha'"
+    }
+  ],
+  "translation": "Ja mis minhast alles jääb, on Aharoni ja tema poegade ⟨omaks⟩, kõige püham püha, Jahve tuleohvritest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/2\/9-12.1792539096869.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "ja mis alles jääb"
+    },
+    {
+      "surface": "מן",
+      "gloss": "minhast"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minhast"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ja tema poegade"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kõige püham"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "tuleohvritest"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T23:31:36.870695272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ראה",
+      "rationale": "heebrea ütleb 'nägi' ilma objektita — mida meri nägi, jäetakse saladusesse; mitmed tõlked lisavad 'seda'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "meri nägi",
+      "rationale": "loodus isikustatakse, nägemise objekt nimetamata"
+    }
+  ],
+  "translation": "Meri nägi ja põgenes, Jaarden pööras tagasi:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/114\/1-4.1792553985420.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nägi"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ja põgenes"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jaarden"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "pööras"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "tagasi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:45.421043437Z",
+  "model": "glm-5.3"
+}

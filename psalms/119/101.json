@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Estonian requires the subject pronoun; Hebrew leaves it in the verb form"
+    }
+  ],
+  "translation": "Igaist pahast teest olen ma oma jalad kinni pidanud, et ma saaksin pidada sinu sõna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/101-104.1792554081401.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "igaist"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "teest"
+    },
+    {
+      "surface": "רע",
+      "gloss": "pahast"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "olen ma kinni pidanud"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oma jalad"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "saaksin pidada"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sinu sõna"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:21.402217547Z",
+  "model": "glm-5.3"
+}

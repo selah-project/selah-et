@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואעידה בך",
+      "rationale": "tõesõna 'kellegi vastu' — heebrea עוד ב tähendab 'tunnistada kellegi kahjuks\/kasuks', eestis 'sinu vastu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע \/ תשמע",
+      "rationale": "sama juur kordub jääb kordusena ka eesti 'kuulda\/kuulata'"
+    }
+  ],
+  "translation": "Kuule, mu rahvas, ja ma tunnistan ⟨sinu vastu⟩, Jisrael, kui sa mind kuulad —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/81\/9-12.1792553482036.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Kuule"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ja ma tunnistan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨sinu vastu⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "sa kuulad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:31:22.036627516Z",
+  "model": "glm-5.3"
+}

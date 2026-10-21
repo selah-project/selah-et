@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keeles vajalik olemisverbi kaudne vorm, heebrea lühilauses puudub."
+    },
+    {
+      "kind": "addition",
+      "subject": "olles",
+      "rationale": "כוז 'kitsastes' on nominatiivkonstruktsioon; eesti keele jaoks lisatud kesksõna."
+    }
+  ],
+  "translation": "Elohim ⟨on⟩ meile varjupaik ja vägi, abi kitsastes ⟨olles⟩ väga leitud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/46\/1-4.1792552875785.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "varjupaik"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ja vägi"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "abi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "kitsastes"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "leitud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:15.787216480Z",
+  "model": "glm-5.3"
+}

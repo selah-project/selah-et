@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "istusime",
+      "rationale": "ונשב literally 'we sat\/dwelt'; 'puhkasime' (rested) is a role-guess, the shape kept."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kolm päeva",
+      "rationale": "Duration of the stay counted in days."
+    }
+  ],
+  "translation": "Ja me jõudsime Jerušalaimi ja istusime seal ⟨all⟩ kolm päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c203020fd18329c7ed015e1ee48c4172601422b72dd8fbbb01bb08ad12657531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/8\/29-32.1792556761486.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "Ja me jõudsime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "ja istusime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kolm"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:01.487282039Z",
+  "model": "glm-5.3"
+}

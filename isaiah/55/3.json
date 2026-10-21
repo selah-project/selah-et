@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 55:3",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואכרתה ברית",
+      "rationale": "Otsetõlge 'lõikama lepingut' — leping sõlmiti loomade tükeldamisel (1Ms 15), eesti tavas 'sõlmima'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד ei ole 'halastus' — hoian kõla 'hesed'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חסדי דוד",
+      "rationale": "'Davidi hesedid' kas kui lepingu sisu ('isegi Davidi ustavad hesedid') või eraldiseisev parallel — kuulsad tõlkijate lahkhelid."
+    },
+    {
+      "kind": "invitation",
+      "subject": "pöörake oma kõrv",
+      "rationale": "Käsk-saal kuulaja poole."
+    }
+  ],
+  "translation": "Pöörake oma kõrv ja tulge Minu juurde, kuulake, ja teie nefesh elab, ja Ma lõik ⟨Minu⟩ teiega igavese lepingu — Davidi ustavad hesedid!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0dff1247a620038f294ecde829d053027da2ac22031762306f805d09efe4cb5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/55\/1-4.1792547846371.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטו",
+      "gloss": "pöörake"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "oma kõrv"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ja tulge"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Minu juurde"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulake"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "ja elab"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "teie nefesh"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "ja Ma lõik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teiega"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavese"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesedid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הנאמנים",
+      "gloss": "ustavad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:26.379750301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 9:17",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid \/ oli",
+      "rationale": "Heebrea puudub kobra; nimistu nõuab öeldist"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחיהם שלום",
+      "rationale": "KJV 'ja nende vennad; Šallum oli pea' vs JPS 'ja nende vend Šallum pea'"
+    }
+  ],
+  "translation": "Ja väravahoidjad ⟨olid⟩ Šallum ja Akuv ja Talmon ja Ahiman ja nende vennad; Šallum ⟨oli⟩ pea.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "28bf7ba2a3a6ddfa8c29ba678c63cdd11e1d92bf64b421f5e8f516d5beb44179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/9\/17-20.1792557303686.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "ja väravahoidjad"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šallum"
+    },
+    {
+      "surface": "ועקוב",
+      "gloss": "ja Akuv"
+    },
+    {
+      "surface": "וטלמן",
+      "gloss": "ja Talmon"
+    },
+    {
+      "surface": "ואחימן",
+      "gloss": "ja Ahiman"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ja nende vennad"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šallum"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "pea"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:03.687193863Z",
+  "model": "glm-5.3"
+}

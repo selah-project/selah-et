@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Havilast Šuurini",
+      "rationale": "Geograafiline ulatus täpsustab löögi haarde."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני מצרים",
+      "rationale": "Sõnasõna 'Mitsraimi palge peal' = 'Mitsraimi ees\/eespool'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בואך שור",
+      "rationale": "'kui sa tuled Šuuri' — teine isik aadressina teele, mis jääb püsima; eesti 'kuni Šuurini' oleks sujuvam, kuid kaotab 'sa' kuju."
+    }
+  ],
+  "translation": "Ja Šaul lõi ⟨את⟩ Amalekit Havilalt, kui sa tuled Šuuri, mis on Mitsraimi palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/15\/5-8.1792543963748.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ja lõi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekit"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekit"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Havilalt"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kui sa tuled"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Šuuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "על",
+      "gloss": "on"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    }
+  ],
+  "timestamp": "2026-10-21T00:52:43.750668326Z",
+  "model": "glm-5.3"
+}

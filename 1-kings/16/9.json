@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Elah⟩",
+      "rationale": "Eesti keel vajab lauses subjekti; heebrea kasutab ainult asesõna והוא"
+    },
+    {
+      "kind": "substitution",
+      "subject": "majapidamise üle",
+      "rationale": "על הבית on 'kogu palee\/koja ülem' - hoone mõisteks 'koda' või 'maja'"
+    }
+  ],
+  "translation": "Ja tema sulane Zimri, poolte vankrite ülem, vandesõlmis tema vastu; tema ⟨Elah⟩ oli Tirtsas, juues purju Artsa majas, kes oli majapidamise üle Tirtsas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/16\/9-12.1792545616853.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "vandesõlmis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema vastu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "tema sulane"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "poolte"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vankrite"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsas"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "juues"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "purju"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "Artsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "majapidamise"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsas"
+    }
+  ],
+  "timestamp": "2026-10-21T01:20:16.856070218Z",
+  "model": "glm-5.3"
+}

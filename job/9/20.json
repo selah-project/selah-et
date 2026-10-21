@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ta näitab mind väärana",
+      "rationale": "KJV 'it shall prove me perverse' (mu enda suu) vs JPS 'He shall prove me perverse' (Elohim); subjekt on heebreas määramata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אצדק\/ירשיעני",
+      "rationale": "tsedek ja rasha' — õigeks- ja süüdimõistmine peegelduvad samas värsis"
+    }
+  ],
+  "translation": "Kui olen õige, mu suu mõistab mu süüdi; täiuslik olen mina, ja ta näitab mind väärana.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/17-20.1792555220425.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "olen õige"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mu suu"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "mõistab mu süüdi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "täiuslik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "olen mina"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "ja näitab mind väärana"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:20.426129893Z",
+  "model": "glm-5.3"
+}

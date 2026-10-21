@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "taalab",
+      "rationale": "jadaber: 'allutab\/mahutab alla' (nagu Piibel tavalt) või 'juhib' (ja-d-b-r põhitähendus 'kõnelema\/juhtima'); lause säärane üksnes kolme radikaaliga puudulik"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "eesti keel nõuab subjekti, heebrea laseb tegija eelmise salmi Jahve järel kaudselt"
+    }
+  ],
+  "translation": "Taalab ⟨tema⟩ rahvaid meie alla ja hõimusid meie jalge alla.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/47\/1-4.1792552853332.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "taalab"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaid"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "meie alla"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ja hõimusid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "alla"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "meie jalge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:53.334799194Z",
+  "model": "glm-5.3"
+}

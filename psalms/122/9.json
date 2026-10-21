@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "otsin head",
+      "rationale": "אבקשה טוב — 'otsin head' kohas seisab otsesõnu 'otsin head'; טוב nimivormena võib tähendada ka heaolu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaimile",
+      "rationale": "טוב לך 'sinule' pöördub otseselt linnale, mida luuletaja kõnetab"
+    }
+  ],
+  "translation": "Jahve meie Elohimi koja pärast otsin ⟨om sinu jaoks⟩ head sinule.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d1e3aadcf74eaea365fa585b1ed22047f7bc5a1a698b41f8f4f823d55d7dda26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/122\/9-9.1792554167413.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "otsin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "head"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:42:47.413572968Z",
+  "model": "glm-5.3"
+}

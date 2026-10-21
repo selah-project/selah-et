@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sääred",
+      "rationale": "הכרעים on kaksus — 'kaks sääreosa' (põlvest pahkluuni); eesti keeles kaksust ei ole."
+    },
+    {
+      "kind": "substitution",
+      "subject": "altaril",
+      "rationale": "המזבחה lõpulõpp ה- on suunaline: 'altarile poole'."
+    }
+  ],
+  "translation": "Ja ta pesi ⟨את⟩ siseelundid ja ⟨את⟩ sääred, ja lasi need suitseneda põletusohvri peal altaril.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/9\/13-16.1792539247988.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "ja ta pesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siseelundid"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "siseelundid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sääred"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "sääred"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ja lasi suitseneda"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "põletusohvri"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altaril"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:07.989710529Z",
+  "model": "glm-5.3"
+}

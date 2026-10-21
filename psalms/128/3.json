@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בירכתי",
+      "rationale": "Sõnatüveline tähendus on 'küljed\/külgmised ruumid'; 'sisemused' järgib kujundi loogikat, mitte sõna kuju."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Võrdluslause jaoks vajalik kopula, heebrea puudub."
+    }
+  ],
+  "translation": "Sinu naine ⟨on⟩ nagu viljakas viinapuu oma maja sisemustes; sinu pojad nagu oliiviistikud sinu laua ümber.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/128\/1-4.1792554239598.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "sinu naine"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "nagu viinapuu"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "viljakas"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "maja sisemustes"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "oma"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinu pojad"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "nagu istikud"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oliivi-"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "sinu laua"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:59.599825385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pilvi",
+      "rationale": "נשאים tähendab nii 'ülendatud\/pilvi' kui 'vürste'; pictura 'tõusvad aurud' taandati pilvedeks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kõlakujule ruahh — tuul\/vaim\/hingus ühes sõnas"
+    }
+  ],
+  "translation": "Kes tõstab pilvi maa äärtest, välgu vihmaks teeb, toob ruahhi oma varakambritest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/135\/5-8.1792554275328.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "tõstab"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "äärtest"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "välgu"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "vihmaks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "toob"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahhi"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "oma varakambritest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:35.328995584Z",
+  "model": "glm-5.3"
+}

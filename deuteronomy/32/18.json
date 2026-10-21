@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשי",
+      "rationale": "lemma שׁיסה\/esineb Tanahhis ainult siin — tähendus 'unustada, maha jätta' tuletatud paralleelist ותשכח"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחללך",
+      "rationale": "חול 'keerlema, viibama' — siin 'kunstiliselt vormima', nagu sünnitav pangutus"
+    }
+  ],
+  "translation": "Kalju, kes sind ilmale tõi, jätsid sa hoolimata maha, ja unustasid Ĩeli, kes sind valmistas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/32\/17-20.1792541282318.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Kalju"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "kes sind ilmale tõi"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "jätsid sa hoolimata maha"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "ja unustasid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ĩli"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "kes sind valmistas"
+    }
+  ],
+  "timestamp": "2026-10-21T00:08:02.319035494Z",
+  "model": "glm-5.3"
+}

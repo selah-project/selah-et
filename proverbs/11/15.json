@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רע ירוע",
+      "rationale": "Sama juur kaks korda: 'halb halvasti tabab' — kõla kaob tõlkes."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תקעים",
+      "rationale": "'Käelööjad' — käega löömine on käenduse sõlmimise žest; mitte 'käendust' sõnana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "Võib olla põhjuslik 'sest' — 'sest ta käendas võõra'."
+    }
+  ],
+  "translation": "Häda tabab seda, kes käendab võõra eest, aga see, kes vihkab käelööjaid, ⟨on⟩ kindel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/13-16.1792554641448.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "häda"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "tabab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "seda, kes"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "käendab"
+    },
+    {
+      "surface": "זר",
+      "gloss": "võõra eest"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "aga vihkab"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "käelööjaid"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "kindel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:41.449701740Z",
+  "model": "glm-5.3"
+}

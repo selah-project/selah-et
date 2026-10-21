@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עפלים",
+      "rationale": "'paisted\/kasvajad' vs hilisem juudi traditsioon 'pässid' (Targum); eesti valib sõnasõnalise 'paisted'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "raske",
+      "rationale": "כבד 'raske olema' — eesti 'raske' hoiab sõna kuju, mida 'karm' kaotaks."
+    }
+  ],
+  "translation": "Ja Jahve käsi oli raske ašdodlaste üle ja ta laastas nad ning lõi neid paisetega — ⟨את⟩ Ašdodi ja ⟨את⟩ tema piire.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/5-8.1792543766642.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "oli raske"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "üle"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "ašdodlaste"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "laastas"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ja lõi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "paisetega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašdodi"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ašdodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema piire"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "tema piire"
+    }
+  ],
+  "timestamp": "2026-10-21T00:49:26.645720335Z",
+  "model": "glm-5.3"
+}

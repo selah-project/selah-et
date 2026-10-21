@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 4:5",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניתי",
+      "rationale": "KJV loeb käsuna ('sa pead ostma'), JPS küsimusena ('kas sa oled ostnud?'), YLT väitest; heebrea puuduv kõneviit lubab mõlemat."
+    },
+    {
+      "kind": "you",
+      "subject": "Boasi kõne",
+      "rationale": "Boas pöördub otse lunastaja (goeli) poole nilve kaudu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחלה",
+      "rationale": "Pärand: ' pärand ' katab nii maa kui kogu päritud omandi."
+    }
+  ],
+  "translation": "Ja Boas ütles: päeval, mil sa ostad põllu Naomi käest, siis oled sa Moabi Ruudi, surnu naise ⟨ja⟩ ostnud, et tõsta surnu nimi tema pärandi peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/4\/5-8.1792555901873.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "קנותך",
+      "gloss": "sinu ostes"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "põllu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "käest"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ruudi"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Ruudi"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naine"
+    },
+    {
+      "surface": "המת",
+      "gloss": "surnu"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ostad"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "et tõsta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "המת",
+      "gloss": "surnu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "tema pärand"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:41.874390362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המן\/חמה",
+      "rationale": "Haman (המן) täitus raevust (חמה) — häälikuline kaja, mis eesti keeles kaduma jääb."
+    },
+    {
+      "kind": "substitution",
+      "subject": "raevust",
+      "rationale": "חמה tähendab sõna-sõnalt 'kuuma' — kuumus kui vihapõletus."
+    }
+  ],
+  "translation": "Ja Haman nägi, et Mordehai ei painuta põlvi ega heida talle kummardama, ja Haman täitus raevust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "482ed721e4b89ead203eccdee52a8dfb144cc254d2cb07e56adab0e09040e15b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/3\/5-8.1792556205340.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ja nägi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "painuta põlvi"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "ega heida kummardama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ja täitus"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "raevust"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:45.340758584Z",
+  "model": "glm-5.3"
+}

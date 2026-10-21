@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lasevad voolata",
+      "rationale": "נבע tähendab sõna-sõnalt voolama purskama; kujund: suu lausa purskab kiitust"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה jäeti heebrea kõlaga sõnaks 'tsedek' (õigus\/vanusõnalisuse juur), mitte 'õigus' üksi"
+    }
+  ],
+  "translation": "Suure helduse mälestust nad lasevad voolata ja sinu tsedekit nad laulavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/5-8.1792554375741.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "mälestust"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suure"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "helduse"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "nad lasevad voolata"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ja sinu tsedekit"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "nad laulavad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:15.742070842Z",
+  "model": "glm-5.3"
+}

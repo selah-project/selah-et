@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kõla järgi 'ruahh' — tuul\/vaim\/hingus üks sõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "כזרם קיר",
+      "rationale": "'nagu hoovihm müüri (vastu)' — tühipoolne fraas: torm müüri vastu (kõikide) või hoovihm, mis jääb müüri taha seisma"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזרם \/ כזרם",
+      "rationale": "Sama sõna זרם kordub võrdluses eneses ja võrreldavas — kaja läheb eesti tekstis kaotsi"
+    }
+  ],
+  "translation": "Sest sina olid vaesele kindlus, vaesele tema ahastuses varjupaik, hoovihm- palavikupagaskii: hoovihm-torm vastu müüri, sest kangeste ruahh ⟨on⟩ nagu hoovihm müüri ⟨vastu⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7bb95e0e15ceb423ac2a45287e22e54a883347c1052115c90f986c872004d217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/25\/1-4.1792547058285.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "היית",
+      "gloss": "sina olid"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kindlus"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "vaesele"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kindlus"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "vaesele"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ahastuses"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "varjupaik"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "hoovihma eest"
+    },
+    {
+      "surface": "צל",
+      "gloss": "vari"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "palaviku eest"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "kangeste"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "nagu hoovihm"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "müür"
+    }
+  ],
+  "timestamp": "2026-10-21T01:44:18.287109934Z",
+  "model": "glm-5.3"
+}

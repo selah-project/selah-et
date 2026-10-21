@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "השלום jääb heebrea sõnaks šalom, mitte 'rahu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואתנם לו מורא",
+      "rationale": "'ma andsin need talle kartuseks' — kas 'need' = elu ja šalom, või 'temale kartuse' (üksik, nagu KJV 'them to him for the fear')"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחת הוא",
+      "rationale": "hapax-põhine: 'ta oli langetatud\/kohkunud' (חתת), traditsiooniliselt 'ta kartis mu nime ees'"
+    }
+  ],
+  "translation": "Minu leping oli ⟨את⟩ temaga — elu ja šalom —, ja ma andsin need talle kartuseks, ja ta kartis mind ning mu nime pärast oli ta langetatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1957617f5cc802cd5a36ff3b4d3acfc5a6b91f3bc8668bdb1274c3ace15128d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/malachi\/2\/5-8.1792552191597.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "minu leping"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "oli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elu"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "ja šalom"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "ja ma andsin need"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "kartuseks"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "ja ta kartis mind"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ja ... pärast"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mu nime"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "oli langetatud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:51.598014450Z",
+  "model": "glm-5.3"
+}

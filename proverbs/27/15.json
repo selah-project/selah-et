@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keele koopula, heebrea נשתוה kannab võrdluse üksi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סגריר",
+      "rationale": "Sõna סגריר esineb Tanahhis vaid siin — hoovatud paduvihm"
+    }
+  ],
+  "translation": "Pidev tilkumine vihmasel päeval ja riidlev naise ⟨on⟩ võrdsed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/27\/13-16.1792554970697.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "tilkumine"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "pidev"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "vihmasel"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ja naise"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "riidlev"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "on võrdsed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:10.698657797Z",
+  "model": "glm-5.3"
+}

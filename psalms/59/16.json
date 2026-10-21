@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וילינו",
+      "rationale": "'veedavad öö' (KJV: 'nurisevad\/mõmisevad'); kaks juurt לין 'jääda ööseks' ja לון 'mõista hääletada' jagavad samu konsonante"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המה...ינועון",
+      "rationale": "rõhutav kordus 'nemad — nemad', heebrea emfaatiline asesõna"
+    }
+  ],
+  "translation": "Nemad — nemad ekslevad ringi toitu otsides, kui nad ei ole küllastunud, veedavad nad öö ⟨linnas⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/59\/13-16.1792553072263.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "nemad ekslevad ringi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sööma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "küllastunud"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "veedavad nad öö"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:32.264989834Z",
+  "model": "glm-5.3"
+}

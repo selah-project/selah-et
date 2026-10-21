@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ole⟩",
+      "rationale": "Eesti keel nõuab olemisverbi, heebrea laseb lause puududa."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרדף אמרים",
+      "rationale": "'Sõnu jälitama' — kas vaene taga sõnu (palveid) või sõnad on kadunud; KJV 'jälitab neid sõnadega' on teine lugem."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף כי",
+      "rationale": "Väike 'quantum-a-fortiori' sild 'veel enam: küllap' tugevdab katkestust vendadest sõpradeni."
+    }
+  ],
+  "translation": "Kõik vaese vennad vihkavad teda; veel enam: ka tema sõbrad kaugenevad temast. Ta jälitab sõnu — aga neid ei ⟨ole⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/19\/5-8.1792554783597.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kõik"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vennad"
+    },
+    {
+      "surface": "רש",
+      "gloss": "vaese"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "vihkavad teda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "veel enam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "tema sõbrad"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "kaugenevad"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "temast"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "jälitab"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sõnu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "neid ⟨ole⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:03.598033369Z",
+  "model": "glm-5.3"
+}

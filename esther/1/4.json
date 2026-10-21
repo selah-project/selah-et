@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaheksakümmend ja sada päeva",
+      "rationale": "peo pikkuse arv, heebrea sõnajärg säilitatud (180 päeva)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "rikkus-au · väärtus-hiilgus-suurus",
+      "rationale": "kaks asonantsset kõrvutatud ahelat — kumbki lõpeb suffiksi -וֹtüvega, eesti kaotab siseriimi"
+    }
+  ],
+  "translation": "kui ta näitas ⟨את⟩ oma kuningriigi au rikkust ja ⟨את⟩ oma suuruse hiilguse väärtust — palju päevi, kaheksakümmend ja sada päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/1-4.1792556198607.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "kui ta näitas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kuningriigi au rikkust"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rikkust"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "oma kuningriigi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oma suuruse hiilguse väärtust"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "väärtust"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "hiilguse"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "oma suuruse"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "päevi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "palju"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "kaheksakümmend"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ja sada"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:38.608403828Z",
+  "model": "glm-5.3"
+}

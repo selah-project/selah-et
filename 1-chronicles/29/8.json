@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'Käe peal \/ käe all' — eesti keeles 'kätte, juhtimise all' nagu eelmistes salmides 'käe läbi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kividega",
+      "rationale": "Eesti kord 'kelle juurest kive leiti' — heebrea sõna-sõnalt 'ja kelle juurest ⟨את⟩ nad olid, kive'."
+    }
+  ],
+  "translation": "Ja kelle juurest ⟨את⟩ kive leiti, andsid ⟨את⟩ need Jahve koja varakambrisse Jechieli, geršonlase, kätte.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/29\/5-8.1792557604715.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "Ja kelle juurest leiti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kive"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kive"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "andsid"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "varakambrisse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "יד",
+      "gloss": "juhtimise all"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechieli"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "geršonlase"
+    }
+  ],
+  "timestamp": "2026-10-21T04:40:04.717678140Z",
+  "model": "glm-5.3"
+}

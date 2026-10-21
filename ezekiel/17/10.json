@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 17:10",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תיבש יבש ... תיבש",
+      "rationale": "juur יבש kordub kolm korda salmi sees — korduslik kustumise rütm, eesti keeles osaliselt kadunud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jäetakse kõlalt — 'ruahh' kannab nii tuult kui hinge; 'idatuul' oleks poolik"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩\/⟨teda⟩",
+      "rationale": "heebrea jätab subjekti ja objekti asesõnadeta; eesti keeles vajalik selguseks"
+    },
+    {
+      "kind": "mystery",
+      "subject": "vaim",
+      "rationale": "väljakasvatamise mõistatus: salm vastab küsimusega küsimusele, vastus hoitakse tagasi kuni v12"
+    }
+  ],
+  "translation": "Ja vaata, kuigi ⟨see⟩ on istutatud — kas ⟨see⟩ õitseb? Ei, niipea kui ida ruahh puudutab ⟨teda⟩, närbub ⟨see⟩ täiesti: peenral, kus ⟨see⟩ tärkas, närbub ⟨see⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "321d7c05140d6896291433f39fe9e09a349264fe279f3d14293f23f7dff79a40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/17\/10-11.1792558465475.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "on istutatud"
+    },
+    {
+      "surface": "התצלח",
+      "gloss": "kas ⟨see⟩ õitseb"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "כגעת",
+      "gloss": "niipea kui puudutab"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨teda⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ida"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "närbub"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "täiesti"
+    },
+    {
+      "surface": "על",
+      "gloss": "peenral"
+    },
+    {
+      "surface": "ערגת",
+      "gloss": "peenral"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "kus ⟨see⟩ tärkas"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "närbub ⟨see⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:25.476961471Z",
+  "model": "glm-5.3"
+}

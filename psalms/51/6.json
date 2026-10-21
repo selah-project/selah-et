@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedekiks",
+      "rationale": "צדק jääb kõlakujule tsedek, mitte 'õigeks' üksi"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Psalmitõlkija pöördub otseselt Jumala poole"
+    }
+  ],
+  "translation": "Sulle, sulle üksinda ma patustasin, ja halba su silmade ees ma tegin, et sa osutuksid tsedekiks oma sõnades ja puhtaks oma kohtumõistmisel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/5-8.1792552950089.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Sulle"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sulle üksinda"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ma patustasin"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ja halba"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "su silmade ees"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ma tegin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "sa osutuksid tsedekiks"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "oma sõnades"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "puhtaks"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "oma kohtumõistmisel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:30.090270039Z",
+  "model": "glm-5.3"
+}

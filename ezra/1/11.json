@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kogusumma",
+      "rationale": "Kokkuvõttev arv 5400 ei lange kokku ülaltoodud üksiknumbrideta (2499) – tunnistatud arvuline lahknevus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העלה \/ העלות",
+      "rationale": "Sama juur עלה kordub: 'tõi üles' ja 'ülesminek' – paguluse tagasitulek kui ülesminek, eesti keeles osaliselt säilinud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pagulased",
+      "rationale": "הגולה on 'pagulus, väljasaadetud kogukond'; 'pagulased' annab kollektiivi üksikisikutena."
+    }
+  ],
+  "translation": "Kõik kulla ja hõbeda nõud – viis tuhat ja neli sadat. Kõik need tõi üles Šešbatsar koos pagulaste ülesminekuga Babelist Jerušalaimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/1\/9-11.1792556590324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "nõud"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "kulla"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "ja hõbeda"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "viis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tuhat"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ja neli"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sadat"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "kõik need"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tõi üles"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Šešbatsar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "ülesminekuga"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "pagulaste"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babelist"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:23:10.325109716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להטים",
+      "rationale": "juur 'lakkuma\/leegitsema': 'põlevad\/leegitsevad' (JPS, YLT) vs 'ahnetena sööjad' (KSV tõlgendus)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lõvid",
+      "rationale": "לבאים on emane lõvi (tulistav), tavapärase 'lõvi' asemel"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hambad-oda-nool-mõõk",
+      "rationale": "kõne-osade relvadeks muutmine, parallelism hambatest keeleni"
+    }
+  ],
+  "translation": "Minu hing on lõvide keskel, ma lasen end põlevate seas — inimlaste, kelle hambad on oda ja nooled, ja nende keel on terav mõõk.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/5-8.1792553094339.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "minu hing"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "lõvide"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ma lasen end"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "põlevate"
+    },
+    {
+      "surface": "בני",
+      "gloss": "inimlaste"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimesed"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "kelle hambad"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "oda"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ja nooled"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ja nende keel"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mõõk"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "terav"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:54.340905494Z",
+  "model": "glm-5.3"
+}

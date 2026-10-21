@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeel; eesti vajab seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "Infinitiiv-absoluut + täistegu: tugevdatud kordus 'ehitades ehitasin', eesti keeles kordusega säilitatud"
+    },
+    {
+      "kind": "alternative",
+      "subject": "zelbul",
+      "rationale": "זבול on haruldane sõna 'elamu, kõrg elupaik' — jäetud heebrea kõla järgi, mitte 'eluase'"
+    }
+  ],
+  "translation": "Ehitades ehitasin ⟨on⟩ maja, zelbul sulle, püsi-istumise-paik sinu istumiseks igavesest ajast igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/8\/13-16.1792545316783.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ehitades"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ehitasin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "eluase"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "püsi-istumise-paik"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "sinu istumiseks"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "igavesest ajast igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T01:15:16.784653158Z",
+  "model": "glm-5.3"
+}

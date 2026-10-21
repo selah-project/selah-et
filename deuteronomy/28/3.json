@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברוך…ברוך",
+      "rationale": "õnnistus-partitsiivri kordus paari sees — linn\/põld vastandus, parallelism"
+    }
+  ],
+  "translation": "Õnnistatud oled sa linnas, ja õnnistatud oled sa põllul.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/28\/1-4.1792541162718.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Õnnistatud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oled sa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "linnas"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ja õnnistatud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oled sa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "põllul"
+    }
+  ],
+  "timestamp": "2026-10-21T00:06:02.719060888Z",
+  "model": "glm-5.3"
+}

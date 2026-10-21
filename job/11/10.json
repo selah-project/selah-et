@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקהיל",
+      "rationale": "'kutsub kokku' — kohtu kogumine (BSB), kooskogumine või vangistamine; tegelik tähendus on lahtine"
+    },
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Asesõna sufiks -נו nõuab eesti keeles täiendavat asesõna"
+    }
+  ],
+  "translation": "Kui ta möödub ja suleb kokku ning kutsub kokku, kes saab ⟨tema⟩ tagasi pöörata?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/11\/9-12.1792555192745.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "möödub"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "ja suleb kokku"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "ning kutsub kokku"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "saab ⟨tema⟩ tagasi pöörata"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:52.745686183Z",
+  "model": "glm-5.3"
+}

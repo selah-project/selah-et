@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 57:20",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lainetest",
+      "rationale": "נגרש on passiivne 'pealetungiv, kihutatud' — loetavuseks lisatud mõiste 'lainetest'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגרש\/ויגרשו",
+      "rationale": "sama juur גרש kordub: meri 'kihutatakse' ja veed 'heidavad välja'"
+    }
+  ],
+  "translation": "Aga õelad on nagu meri, mida kihutab ⟨lainetest⟩, sest see ei saa rahu olla, ja selle veed heidavad välja muda ja mustust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4ea6d513f3e08da37aca3c846d55a885418a37f3eb838b416de2fd94e6a4f465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/57\/17-20.1792547813167.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרשעים",
+      "gloss": "aga õelad"
+    },
+    {
+      "surface": "כים",
+      "gloss": "nagu meri"
+    },
+    {
+      "surface": "נגרש",
+      "gloss": "mida kihutab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "saa"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "ja need heidavad välja"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "selle veed"
+    },
+    {
+      "surface": "רפש",
+      "gloss": "muda"
+    },
+    {
+      "surface": "וטיט",
+      "gloss": "ja mustust"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:53.169781173Z",
+  "model": "glm-5.3"
+}

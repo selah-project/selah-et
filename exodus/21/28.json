@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "סקול יסקל",
+      "rationale": "Infinitiivi-täiusliku kordus: 'kindlasti kividega surnuks raiutud' — heebrea intensiivne kinnitus, eesti 'kindlasti' edastab selle nõrgalt."
+    },
+    {
+      "kind": "addition",
+      "subject": "too",
+      "rationale": "Heebrea ומת kordab vaid 'ja ta suri'; eesti lisab eristava subjekti, sest lauses on kaks osalist."
+    },
+    {
+      "kind": "measurement",
+      "subject": "karakteeri maksed",
+      "rationale": "Salm sätestab mõõdu: elu elu eest, loomade ja omaniku vastutus — juriidiline mõõdupuu."
+    }
+  ],
+  "translation": "Ja kui härg puskub ⟨את⟩ mehe või ⟨את⟩ naise, ja too sureb, raiutakse härg kindlasti kividega surnuks, ja ⟨את⟩ tema liha ei tohi süüa, aga härja omanik on süütu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/25-28.1792538653511.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "puskub"
+    },
+    {
+      "surface": "šor",
+      "gloss": "härg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "או",
+      "gloss": "või"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naise"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "naise"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ja too sureb"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "kividega surnuks"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "rairutakse kindlasti"
+    },
+    {
+      "surface": "השור",
+      "gloss": "härg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "tohi süüa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema liha"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tema liha"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "aga omanik"
+    },
+    {
+      "surface": "השור",
+      "gloss": "härja"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "on süütu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:13.513249230Z",
+  "model": "glm-5.3"
+}

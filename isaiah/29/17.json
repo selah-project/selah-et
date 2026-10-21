@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aeg",
+      "rationale": "Heebrea ei ütle 'aega', vaid 'veel vähe, väga vähe' — eesti keeles lisatud 'aeg' lause sujuvuseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "כרמל",
+      "rationale": "'Kaarmel' kohana vs 'aiamaa \/ viljakas põld' üldnimena — enamik tõlkeid valib üldtähenduse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכרמל \/ ליער",
+      "rationale": "Pööre-motiiv: mets saab aiamaaks, aiamaa metsaks — peegelsuhe"
+    }
+  ],
+  "translation": "Eks ⟨see ole⟩ veel väga vähe aega, ja Liibanon pööratakse aiamaaks, ja aiamaad peetakse metsaks?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "040888d57d601ac67184603210ccfac979d0af3707afae0561ea52fa8887bffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/29\/17-20.1792547108402.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "eks"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vähe"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "väga"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "pööratakse"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Liibanon"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "aiamaaks"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ja aiamaad"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "metsaks"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "peetakse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:45:08.403235447Z",
+  "model": "glm-5.3"
+}

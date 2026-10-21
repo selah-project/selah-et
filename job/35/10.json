@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "keegi",
+      "rationale": "Heebrea ei nimeta tegijat: 'ja ei öeldud' — eesti keeles nõuab öeldise isiku."
+    },
+    {
+      "kind": "crux",
+      "subject": "laule",
+      "rationale": "זמרות tähendab nii 'laule' kui võimalikku 'kõrgusi\/kindlustusi' (sõnatüvi זמר); peaaegu kõik tõlkijad valivad 'laule'."
+    }
+  ],
+  "translation": "Ja keegi ei ütle: kus on Eloah, ⟨mu⟩ looja, kes annab ⟨את⟩ laule öösel?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/35\/9-12.1792555579218.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja keegi ei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kus on"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "⟨mu⟩ looja"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "laule"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "öösel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:19.219289022Z",
+  "model": "glm-5.3"
+}

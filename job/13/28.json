@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 13:28",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨laguneb⟩",
+      "rationale": "juutav והוא puudub tegusõna; eesti vajab predikaati"
+    },
+    {
+      "kind": "crux",
+      "subject": "רקב",
+      "rationale": "'mädanik' (KJV) vs 'veinipaun' (JPS 'wine-skin', võimalik tähenduse variandina)"
+    }
+  ],
+  "translation": "Ja tema ⟨laguneb⟩ nagu mädanev asi, nagu riiet, mille koi ära sööb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a19bf99b0ecbeada3beee6f96cdb5e47e2840b88ab5f001312090bbd3a3eb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/25-28.1792555336462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "כרקב",
+      "gloss": "nagu mädanev"
+    },
+    {
+      "surface": "יבלה",
+      "gloss": "laguneb"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "nagu riiet"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "עש",
+      "gloss": "koi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:16.463754013Z",
+  "model": "glm-5.3"
+}

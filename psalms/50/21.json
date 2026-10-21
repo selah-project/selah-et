@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והחרשתי",
+      "rationale": "'Ja mina vaikisin' (KJV, YLT) vs JPS küsimus 'kas ma pidin vaikima?' — indikatiiv või retooriline küsimus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היות אהיה",
+      "rationale": "infinitiiv + jahuuli 'mina olemas olemine'; renderdatud lihtsalt 'olen', eesti infinitiivikonstruktsioon jäi võimaldamata."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨su⟩",
+      "rationale": "sufiksita asesõna 'לעיניך' juba sisaldab 'su', kuid eesti sõnajärg nõuab sõltumatu daasi; siiski järgib sufiksit."
+    }
+  ],
+  "translation": "Seda sa tegid, ja mina vaikisin; sa arvasid, et mina olen sinu sarnane; mina noomin sind ja seadan selle ⟨su⟩ silmade ette.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/50\/21-23.1792552939200.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Seda"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sa tegid"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ja mina vaikisin"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "sa arvasid"
+    },
+    {
+      "surface": "היות",
+      "gloss": "et olen"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sinu sarnane"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "mina noomin sind"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ja seadan"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "silmade ette"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:19.201236037Z",
+  "model": "glm-5.3"
+}

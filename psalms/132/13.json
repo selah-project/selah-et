@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "istumiskoht",
+      "rationale": "מושב istumise, istme sõna — tõlkes 'elukoht' kaotaks istumise pildi"
+    },
+    {
+      "kind": "you",
+      "subject": "Siionile",
+      "rationale": "Jahve kõne Siioni üle kuulutatakse"
+    }
+  ],
+  "translation": "Sest Jahve on välja valinud ⟨את⟩ Siioni, ta ihaldas ⟨seda⟩ endale istumiskohaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/13-16.1792554262182.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "on välja valinud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "ta ihaldas"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "istumiskohaks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:22.183339433Z",
+  "model": "glm-5.3"
+}

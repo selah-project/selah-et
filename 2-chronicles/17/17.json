@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea puudub kopeeriv verbi, eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשקי",
+      "rationale": "נשק 'suudlema\/panema relvaks' — siin tõlgitud 'kandvat', kogu fraas 'vibu ja kilpi kandvad mehed' on tihendatud"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaks sada tuhat",
+      "rationale": " vägede loend, arv jääb täpselt nagu heebrea keeles"
+    }
+  ],
+  "translation": "Ja Binjaminist ⟨oli⟩ vägev sõjamees Eljada, ja temaga kaks`ה`sada tuhat vibu ja kilpi kandvat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/17\/17-19.1792557911339.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ja ... -ist"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sõjamees"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljada"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ja temaga"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "kandvat"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "vibu"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "ja kilpi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "kaks`ה`sada"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T04:45:11.340847305Z",
+  "model": "glm-5.3"
+}

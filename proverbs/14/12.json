@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tundub",
+      "rationale": "Heebrea ütleb sõnadeta 'õige inimese ees'; enamus tõlkeid lisavad 'tundub', märkisin ⟨…⟩-ga."
+    },
+    {
+      "kind": "alternative",
+      "subject": "õige inimese ees",
+      "rationale": "Otsetõlge 'tee — õige inimese ees': kas tee on iseenesest sirge või tundub inimesele õige? õieti mõlemad loetavad."
+    },
+    {
+      "kind": "mystery",
+      "subject": "selle lõpuks on surma teed",
+      "rationale": "Salajane tulevik: tee näib õige, aga selle lõpp on varjatud — kordub 16:25."
+    }
+  ],
+  "translation": "On tee, mis ⟨tundub⟩ õige inimese silmis, aga selle lõpuks on surma teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/9-12.1792554685340.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "On"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "õige"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "silmis"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "aga selle lõpuks"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "teed"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:25.341358826Z",
+  "model": "glm-5.3"
+}

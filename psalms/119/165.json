@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kõpoolat, heebrea keeles seda pole"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja Jahvele",
+      "rationale": "Psalm räägib Jahvele otseselt \"su\"-vormides"
+    }
+  ],
+  "translation": "Suur ⟨on⟩ rahu neil, kes armastavad su Toorat, ja neil ei ole mingit komistuskivi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/165-168.1792554173017.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "suur"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "neile, kes armastavad"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "su Toorat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "למו",
+      "gloss": "neil"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "komistuskivi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:42:53.018146326Z",
+  "model": "glm-5.3"
+}

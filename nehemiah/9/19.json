@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 9:19",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "syntax",
+      "subject": "שלש את",
+      "rationale": "kolm ואת\/את tähistavad kolm otsesõnaobjekti (pilve sammas, tule sammas, tee), mis heebreas seavad ette verbile לא עזבתם 'ei jätnud maha'; eesti kasutab sidesõna 'ega'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ega",
+      "rationale": "eesti keele sidesõna rida seab kolm eitust ühte lausesse, heebreas kordub לא"
+    }
+  ],
+  "translation": "Ja sina oma rohkete halastustega ei jätnud neid kõrbes maha: ⟨את⟩ pilve sammast ei pööranud sa ära nende pealt päeval, et neid teel juhatada, ega ⟨את⟩ tule sammast öösel, et neile valgust anda, ega ⟨את⟩ teed, mida mööda nad käivad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93c963f8fdd730b314ed295f944e07954c2c829dbaa28eed499b71163a50371a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/9\/17-20.1792557059603.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ja sina"
+    },
+    {
+      "surface": "ברחמיך",
+      "gloss": "oma halastustega"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "rohkete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "jätnud neid maha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "kõrbes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pilve sammast"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sammas"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "pilve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "סר",
+      "gloss": "pööranud ära"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "nende pealt"
+    },
+    {
+      "surface": "ביומם",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "להנחתם",
+      "gloss": "et neid juhatada"
+    },
+    {
+      "surface": "בהדרך",
+      "gloss": "teel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eega ⟨את⟩",
+      "marks": "tule sammast"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sammas"
+    },
+    {
+      "surface": "האש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "öösel"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "et valgust anda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "eega ⟨את⟩",
+      "marks": "teed"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "teed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida mööda"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nad käivad"
+    },
+    {
+      "surface": "בה",
+      "gloss": "seda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:30:59.604442473Z",
+  "model": "glm-5.3"
+}

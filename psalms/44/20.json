@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "'Šaakalid' vs 'lohud' (תנין mereelukas) — käänuks tähendab tõenäoliselt šaakaleid."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בצלמות",
+      "rationale": "'Surmavari' — sõna-sõnalt 'surma vari' (צל־מות), ühendsõna püsitakse koos."
+    }
+  ],
+  "translation": "Sest sina oled meid löönud puruks šaakalite koha peale ja katnud meid surmavarjuga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/44\/17-20.1792552831423.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "löönud puruks"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "koha peale"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "šaakalite"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ja katnud"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "meid"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "surmavarjuga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:31.425027599Z",
+  "model": "glm-5.3"
+}

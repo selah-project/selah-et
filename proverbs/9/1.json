@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeeriv verb, eesti nõuab seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמות",
+      "rationale": "Pluralis absoluutus 'tarkused' tähendab siiski üksikust 'Tarkus'; naissoost kuju kannab kogu peatüki pulmakujundi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seitse sammast",
+      "rationale": "Pühitsetud täisarv; arv jääb täpselt seitseks"
+    }
+  ],
+  "translation": "Tarkus on ehitanud ⟨oma⟩ koja, ta on välja raiunud ⟨oma⟩ seitse samast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2381893b98fd6be50dd58ce2817bdce99a32304759f48ab4b4543d752224f921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/9\/1-4.1792554655545.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Tarkus"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "on ehitanud"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨oma⟩ koja"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "ta on välja raiunud"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "⟨oma⟩ sammad"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "seitse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:55.545844343Z",
+  "model": "glm-5.3"
+}

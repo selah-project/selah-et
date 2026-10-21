@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 60:16",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "päästja",
+      "rationale": "מושיעך on 'see, kes teeb lahti\/annab pääsu' — 'päästja' on lähim Tanahh-register."
+    },
+    {
+      "kind": "addition",
+      "subject": "olen",
+      "rationale": "Koopula 'mina — Jahve' jaoks, heebreas puudub."
+    }
+  ],
+  "translation": "Ja sa imed rahvaste piima ja kuningate rinda sa imed, ja sa tead, et mina olen Jahve, su päästja ja su lunastaja, Jaakobi Vägev.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e27ae2e4541e16ee2ebfdbc67bd9b52d3a592179879c5d5f895798f87b184420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/60\/13-16.1792547785791.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקת",
+      "gloss": "ja sa imed"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "piima"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ja rinda"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningate"
+    },
+    {
+      "surface": "תינקי",
+      "gloss": "sa imed"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ja sa tead"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "su päästja"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ja su lunastaja"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Vägev"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:25.795617956Z",
+  "model": "glm-5.3"
+}

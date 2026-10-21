@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'elujõud, kõri, hingeõhk', mitte  \thing�� tervikmõttes"
+    },
+    {
+      "kind": "alternative",
+      "subject": "teeb pattu",
+      "rationale": "חטא põhitähendus on 'mööda minna, märki mööda laskma'"
+    }
+  ],
+  "translation": "Ka ⟨on⟩ hinge ilma teadmiseta mitte hea, ja kes jalgadega kiirustab, teeb pattu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/19\/1-4.1792554786556.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "teadmiseta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ja kiirustab"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "jalgadega"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "teeb pattu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:06.557040783Z",
+  "model": "glm-5.3"
+}

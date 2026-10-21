@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti nõuab sidesõna, heebrea puudub"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נרדם",
+      "rationale": "sõna tähendab rabatud\/sügavat uinu, mitte tavalist magamist; korduv kuulmine → kangeks jäämine"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול דבריו",
+      "rationale": "fraas kordub kahekordselt täpselt, rõhutades kuulmise hetke, kordus jääb ka tõlkes"
+    }
+  ],
+  "translation": "Ja ma kuulsin ⟨את⟩ häält tema sõnadest, ja kuuldes ⟨את⟩ häält tema sõnadest, jäin ma rabatud unne oma näo peal ja mu nägu ⟨oli⟩ suunatud maadiva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "587eabe128b1bd583d88dcf7b5ea24bd8595405efeb5594c1e293eb45fd001ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/10\/9-12.1792556559028.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Ja ma kuulsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "häält"
+    },
+    {
+      "surface": "קול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "tema sõnadest"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ja kuuldes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "häält"
+    },
+    {
+      "surface": "קול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "tema sõnadest"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ma"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jäin"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "rabatud unne"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oma näo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ja mu nägu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "suunatud maadiva"
+    }
+  ],
+  "timestamp": "2026-10-21T04:22:39.029135878Z",
+  "model": "glm-5.3"
+}

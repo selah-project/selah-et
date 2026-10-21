@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחולל אילות",
+      "rationale": "'paneb hirvedea viljitama' (kalkunid, nagu KJV\/JPS) vs 'väänab tammesid' (אילות kui איל üildem, nagu YLT); hirvede poegimine on pilt äikesekoormusest."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כבוד",
+      "rationale": "כבוד on sõna-sõnalt 'kaal, raskus, hiilgus'; 'au' on kitsendatud tõlge."
+    }
+  ],
+  "translation": "Jahve hääl paneb hirvedea viljitama ja paljastab metsad; ja Tema palees ütleb kõik ⟨tema ⟩: au.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/29\/9-11.1792552638537.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hääl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "paneb viljitama"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "hirvedead"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ja paljastab"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "metsad"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ja Tema palees"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:18.537865519Z",
+  "model": "glm-5.3"
+}

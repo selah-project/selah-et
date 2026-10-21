@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "möirgab",
+      "rationale": "שאג on lõvi möire — Jahve kõneleb kui rööviv loom, kujund, mis ette kuulutab kohtussalme"
+    },
+    {
+      "kind": "substitution",
+      "subject": "närbub",
+      "rationale": "יבש kannab nii 'kuivama' kui 'häbi tundma' tähendust; siin kuivab karjamaa lagendik"
+    }
+  ],
+  "translation": "Ja ta ütles: Jahve möirgab Tsijonist, ja Jerušalaimist annab ta oma hääle; ja karjaste karjamaad nutavad, ja Karmeli lagi närbub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "54c038a7b4c1abbb204cc2ecd8b57bbf152e024cd5b00ead6ae1c9291fbac80b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/1\/2-3.1792558543146.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ta ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsijonist"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "möirgab"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "ja Jerušalaimist"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "oma hääle"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "nutavad"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "karjamaad"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "karjaste"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "närbub"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmeli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:55:43.155412023Z",
+  "model": "glm-5.3"
+}

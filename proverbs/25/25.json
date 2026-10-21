@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kurgu\/hinge\/jõu mõiste, mitte hingeelu 'hing' sõna täies ulatuses"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "'kohal' — heebrea võrdlus on lünkd, võrdlussõna puudub"
+    }
+  ],
+  "translation": "Jahedad veed väsinud hingale, ja hea sõnum kaugelt maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/25\/25-28.1792554967049.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "veed"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "jahedad"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hingale"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "väsinud"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ja sõnum"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hea"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kaugelt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:07.050446415Z",
+  "model": "glm-5.3"
+}

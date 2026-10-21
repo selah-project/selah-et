@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עודני",
+      "rationale": "Poeetiline aoristi vorm: 'köied on mind ümber põiminud' (asv) vs ' röövisid mind' (kjv) vs 'ümber piiranud' (jps)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלי \/ עודני",
+      "rationale": "Köiete põimimise pilt — väänamisest keeratud köis (חבל) ja kokku põimitud (עוד); eesti keeles osaliselt alles."
+    }
+  ],
+  "translation": "Köied püüdsid mind ümber — kurjade mehed —, sinu Toorat ma ei unustanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/61-64.1792554152802.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "köied"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kurjade"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "püüdsid mind ümber"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sinu Toorat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ma unustanud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:42:32.803286230Z",
+  "model": "glm-5.3"
+}

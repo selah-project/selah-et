@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea יש eeldab olemasolu-verbi; eesti keel vajab 'on'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elifazi kõne Iiobile",
+      "rationale": "Pöördumine teises isikus — küsimused tabavad vastajat otse"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Hüüa nüüd",
+      "rationale": "Käsk+hüüd — tekst esitab väljakutse kutsuda vastajaid"
+    }
+  ],
+  "translation": "Hüüa nüüd — kas ⟨on⟩ keegi, kes sulle vastaks, ja kelle poole pühade seast sa pöördud?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/5\/1-4.1792555156093.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Hüüa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kas-⟨on⟩"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "sulle-vastaks"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja-kelle-poole"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "pühade-seast"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "pöördud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:16.093724909Z",
+  "model": "glm-5.3"
+}

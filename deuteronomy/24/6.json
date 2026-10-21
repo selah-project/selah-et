@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רכב",
+      "rationale": "kirjutatud 'jalgratas\/ ratsu', tähendab siin ülemist jahvatuskivi; Targum ja Rashi loevad 'ülemine kivi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on elujõud\/ elatusvahend — jahvatuskivi on tema elatis, mitte 'elu' abstraktselt"
+    }
+  ],
+  "translation": "Ei võeta pantiks jahvatuskive ega ülemist kivi, sest ⟨see⟩ on hinge, mida ta panti võtab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/24\/5-8.1792541059311.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "võeta panti"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "jahvatuskive"
+    },
+    {
+      "surface": "-ורכב",
+      "gloss": "ülemist kivi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "panti võtab"
+    }
+  ],
+  "timestamp": "2026-10-21T00:04:19.312432302Z",
+  "model": "glm-5.3"
+}

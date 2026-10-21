@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oleme⟩",
+      "rationale": "Heebrea puudub kopeeruv verbi; eesti nõuab selle"
+    },
+    {
+      "kind": "you",
+      "subject": "to David",
+      "rationale": "Jisraeli vanemad pöörduvad otse Davidi poole"
+    }
+  ],
+  "translation": "Ja kogunes kogu Jisrael Davidi juurde Hevronis, öeldes: Ennäe, sinu luu ja sinu liha ⟨oleme⟩ meie.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/1-4.1792557323141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Ja kogunes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hevronis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ennäe"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "sinu luu"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ja sinu liha"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "meie"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:23.142167246Z",
+  "model": "glm-5.3"
+}

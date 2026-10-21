@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ועשה",
+      "rationale": "Sõna-sõnalt 'ja teeb' — 'paneb tööle' on kontekstipõhine pööre."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ teie sulased ja ⟨את⟩ teie orjannad ja ⟨את⟩ teie noormehed — parimad — ja ⟨את⟩ teie eeslid ta võtab ja paneb oma tööle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/8\/13-16.1792543809158.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teie sulased"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "teie sulased"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teie orjannad"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "teie orjannad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teie noormehed"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "teie noormehed"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "parimad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "teie eeslid"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "teie eeslid"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ta võtab"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ja paneb"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "oma tööle"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:09.161556106Z",
+  "model": "glm-5.3"
+}

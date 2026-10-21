@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti imperfekt nõuab abitähesõna, heebrea partitsiip ilma selleta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "terafimid",
+      "rationale": "תרפים jäetakse kõla järgi, mitte 'ebajumalad' — sõna täpne tähendus on tundmatu"
+    }
+  ],
+  "translation": "Ja Laban oli läinud ⟨את⟩ oma karja pügama, ja Raachel varastas ⟨את⟩ terafimid, mis kuulusid tema isale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/17-20.1792537839924.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "Ja Laban"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oli läinud"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "pügama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma karja"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "oma karja"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "ja varastas"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimid"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "kuulusid tema isale"
+    }
+  ],
+  "timestamp": "2026-10-20T23:10:39.925305131Z",
+  "model": "glm-5.3"
+}

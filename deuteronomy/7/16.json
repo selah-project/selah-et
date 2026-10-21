@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואכלת",
+      "rationale": "sõna-sõnalt 'ja sa sööd' — tähendab rahvaste hävitamist; kujund jäetud eestis säilima"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "otse pöördumine teisesenus, Moše kõne rahvale"
+    }
+  ],
+  "translation": "Ja sa ära sööd ⟨את⟩ kõik rahvad, kelle Jahve, su Elohim, sulle annab; su silm ei pea neile armu andma, ja ära teeni ⟨את⟩ nende jumalaid, sest see on sulle lõks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/7\/13-16.1792540792129.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "ja sa ära sööd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik rahvad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "pea armu andma"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "su silm"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "teeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende jumalaid"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nende jumalaid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "lõks"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    }
+  ],
+  "timestamp": "2026-10-20T23:59:52.130506610Z",
+  "model": "glm-5.3"
+}

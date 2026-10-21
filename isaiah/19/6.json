@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tõrjutakse kõrvale",
+      "rationale": "והאזניחו: 'kõrvale heidetud\/taandatud' vs KJV 'kaugele pööratud' vs ASV 'muutuvad raisku'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Mitsraimi",
+      "rationale": "מצור loetakse Egiptuseks (Mitsraim), sõnasõnalt aga 'kindlustus\/piir'"
+    }
+  ],
+  "translation": "Ja jõed tõrjutakse kõrvale, Mitsraimi kanalid muutuvad õhemaks ja kuivavad; kõrkjas ja papirus närtsivad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d23145d290370af234e39ff744259cd2891968d0f8eae029b302d3f9c25810fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/5-8.1792546900877.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "tõrjutakse kõrvale"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "jõed"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "muutuvad õhemaks"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "ja kuivavad"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanalid"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kõrkjas"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "ja papirus"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "närtsivad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:41:40.877758738Z",
+  "model": "glm-5.3"
+}

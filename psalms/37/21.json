@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rövel",
+      "rationale": "רשע on 'julm, jumalatu' — 'rövel' tabab laenumõtte konteksti, kuid kitsendab sõna tähendust"
+    },
+    {
+      "kind": "crux",
+      "subject": "לוה",
+      "rationale": "'laenama' või 'ühinema (ühisuse pidajaks)' — enamik tõlkeid valib laenu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tasub ära",
+      "rationale": "ישלם ša-leimi põhjal: 'ja teeb tasa \/ ei maksa tagasi'"
+    }
+  ],
+  "translation": "Laenab rövel ja ei tasu, aga õiglane on heldelt lahke ja annab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/21-24.1792552721584.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "laenab"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rövel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "tasa"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "aga õiglane"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "on heldelt lahke"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ja annab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:41.584592559Z",
+  "model": "glm-5.3"
+}

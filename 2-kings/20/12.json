@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 20:12",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "eesti keel vajab kopeerivat tegusõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kingituse",
+      "rationale": "מנחah siin on lähetuskingitus, mitte ohvriand — D2 erand"
+    }
+  ],
+  "translation": "Sel ajal saatis Berodak-Baladan, Baladani poeg, Babüloni kuningas, kirju ja kingituse Hiskijahule, sest ta oli kuulnud, et Hiskijahu ⟨oli⟩ haige olnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5e808081671373cbe3491f84f3c5a9178e7c38085db217f5959b1dd1f700c80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/9-12.1792546393105.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Sel ajal"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saatis"
+    },
+    {
+      "surface": "בראדך",
+      "gloss": "Berodak"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "-Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladani"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babüloni"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kirju"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ja kingituse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Hiskijahule"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskijahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ta oli kuulnud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "haige olnud"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskijahu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:33:13.109425798Z",
+  "model": "glm-5.3"
+}

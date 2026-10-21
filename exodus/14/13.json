@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 14:13",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Eesti üle kantav 'rahvale' neelab suuna-mõiste, eraldi sõna pole vaja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרים",
+      "rationale": "Mitmus 'mitsritest' üksikute vaenlaste kohta; heebrea räägib rahvast üheüheliselt"
+    },
+    {
+      "kind": "you",
+      "subject": "rahvale",
+      "rationale": "Moše pöördub otseselt Jisraeli rahva poole"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ärge kartke, asetuge paigale ja vaadake",
+      "rationale": "Kolm imperatiivi kutsuvad kuulajat tegevusse"
+    }
+  ],
+  "translation": "Ja Moše ütles rahvale: ärge kartke, asetuge paigale ja vaadake ⟨את⟩ Jahve päästet, mida ta teile täna teeb; sest mitsritest, keda te täna nägite, ei pea te neid enam nägema iialgi igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "280da226a6c78ba4a7880abf89eef9febcf4d393baa7483d8272db05c9f22944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/14\/13-16.1792538508341.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärge"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kartke"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "asetuge paigale"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ja vaadake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve päästet"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "päästet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nägite"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitsritest"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsritest"
+    },
+    {
+      "surface": "היום",
+      "gloss": "täna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "תסיפו",
+      "gloss": "ei pea enam"
+    },
+    {
+      "surface": "לראתם",
+      "gloss": "neid nägema"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iialgi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesti"
+    }
+  ],
+  "timestamp": "2026-10-20T23:21:48.342020461Z",
+  "model": "glm-5.3"
+}

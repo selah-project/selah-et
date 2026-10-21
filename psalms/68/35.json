@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "andke vägi",
+      "rationale": "Käsk-kutse: omistage vägi Elohimile."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשחקים",
+      "rationale": "שחק on sõna-sõnalt 'peeniks löödud tolm', laiendatult pilved\/taevas; 'pilved' jätab tolmu pildi kaduma."
+    }
+  ],
+  "translation": "Andke vägi Elohimile; tema ülevus on Jisraeli kohal ja tema vägi pilvedes.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/33-36.1792553201919.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "tema ülevus"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ja tema vägi"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "pilvedes"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:41.920899416Z",
+  "model": "glm-5.3"
+}

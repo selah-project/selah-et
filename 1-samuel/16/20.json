@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "eesel leivaga",
+      "rationale": "KJV 'eesel koormatud leivaga' vs YLT 'eesel koos leivaga' — heebrea ei ütle, kas eesel on koormus või kingitus mõeldud loomaks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "veininahk",
+      "rationale": "נאד on nahast veiniandam, mitte 'pudel' ega 'kann'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "üks kitsetall",
+      "rationale": "אחד 'üks' täpne arv kingituses"
+    }
+  ],
+  "translation": "Ja Jeessa võttis eesli leivaga ja veininaha ja ühe kitsetalle ning saatis oma poja Davidi käe kaudu Šauli juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/16\/17-20.1792544089676.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ja võttis"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jeessa"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eesli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivaga"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "ja veininaha"
+    },
+    {
+      "surface": "יין",
+      "gloss": "veini"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "ja kitsetalle"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kitsede"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ja saatis"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käe kaudu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oma poja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šauli"
+    }
+  ],
+  "timestamp": "2026-10-21T00:54:49.679555044Z",
+  "model": "glm-5.3"
+}

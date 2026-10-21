@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kanna kaebelaulu",
+      "rationale": "ספוד tähendab riietestes haletsusavaldis: juukseid rebida, rinna peale lüüa; 'leinata' kaotab pildi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tantsida",
+      "rationale": "רקוד on 'hüpata, plaksutada jalga'; YLT 'skip' on sõnasõnasem"
+    }
+  ],
+  "translation": "Aeg nutta ja aeg naerda; aeg kanda kaebelaulu ja aeg tantsida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/3\/1-4.1792556027365.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "aeg"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "nutta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aeg"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "naerda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "aeg"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "kanna kaebelaulu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ja aeg"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "tantsida"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:47.366711897Z",
+  "model": "glm-5.3"
+}

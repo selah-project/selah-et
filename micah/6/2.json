@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti nõuab kopeelat — heebrea ei saa ' Jahvel on vaidlus' kopeelat"
+    },
+    {
+      "kind": "you",
+      "subject": "mäed ja maa alused",
+      "rationale": "Kohene pöördumine loodusjõudude poole kui tunnistajateks"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריב",
+      "rationale": "Sõna 'riiv' kordub kolm korda — kohtupilt jääb eestis osaliselt kaduma"
+    }
+  ],
+  "translation": "Kuulge, mäed, Jahve ⟨את⟩ kohtuvaidluse, ja ⟨te⟩ alused, kes kannate maad, sest Jahvel ⟨on⟩ vaidlus oma rahvaga, ja Jisraeliga ta vaidleb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/6\/1-4.1792551616296.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Kuulge"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mäed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve kohtuvaidluse"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kohtuvaidluse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "ja ⟨te⟩ alused"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "kannate"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "vaidlus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "with-oma"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "rahvaga"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja-with"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeliga"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "ta vaidleb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:00:16.297642421Z",
+  "model": "glm-5.3"
+}

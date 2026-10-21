@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "unustagu mu parem käsi",
+      "rationale": "Heebrea ütleb ainult 'unustagu mu parem käsi' — KJV\/JPS lisavad 'osavuse\/mänguosavuse'; ⟨osavuse⟩ on lisatud sulgudes"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשכחך \/ תשכח",
+      "rationale": "Juure שכח kordus: 'kui ma unustan … unustagu' — peeglikordus"
+    }
+  ],
+  "translation": "Kui ma unustan sind, Jerušalaim, unustagu mu parem käsi ⟨osavuse⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/137\/5-8.1792554327696.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ma unustan sind"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unustagu"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "mu parem käsi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:27.696735054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 30:17",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebreal puudub kopula; רבת on osastav fraas"
+    },
+    {
+      "kind": "addition",
+      "subject": "seisid",
+      "rationale": "על 'peal' eeldab eesti keeles tegusõna 'seisma kellegi peal'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesahid",
+      "rationale": "הפסחים mitmus — 'pesahi ohvrid', mitte lihtsalt üks püha"
+    },
+    {
+      "kind": "crux",
+      "subject": "להקדיש",
+      "rationale": "Kellele pühitsedatakse: pesahi ohvreid (BSB) või puhastamatuid inimesi (KJV\/JPS)"
+    }
+  ],
+  "translation": "Sest koguduses ⟨oli⟩ palju neid, kes ⟨ei⟩ olnud endid pühitsenud, ja leviidid ⟨seisid⟩ pealhaslagramist pesahide jaoks kõigi jaoks, kes ei olnud puhas, pühitsemiseks Jahvele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fad44f8a5d360335bf114b94f5a252b2905c33a0c9ad4300b1bf6de7e5f2baf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/30\/17-20.1792558128982.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "palju"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "koguduses"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "olid endid pühitsenud"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviidid"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שחיטת",
+      "gloss": "haslagramist"
+    },
+    {
+      "surface": "הפסחים",
+      "gloss": "pesahide"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigi jaoks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "להקדיש",
+      "gloss": "pühitsemiseks"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:48:48.983516912Z",
+  "model": "glm-5.3"
+}

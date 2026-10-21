@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "et",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "või",
+      "rationale": "חמאה on kalgendatud piim ehk kohupiim, mitte või"
+    },
+    {
+      "kind": "crux",
+      "subject": "נהרי נחלי",
+      "rationale": "kas luges 'jõgede loked' kui kaks eraldiseisvat või kui ühe liituva väljendiv ahela — mee ja või pilt õitsvast Kanuaanist"
+    }
+  ],
+  "translation": "Ärgu ta nägu sügavate ojade voogusid, jõgede looke, mee ja või.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef7b4c9907781c4ab63d798a9d8684c5fee8e078794e313c084374e5e96d3587",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/20\/17-20.1792555408262.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ta nägu"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "sügavate ojade voogusid"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "jõgede"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "lookesid"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "mee"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "ja või"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:28.262597029Z",
+  "model": "glm-5.3"
+}

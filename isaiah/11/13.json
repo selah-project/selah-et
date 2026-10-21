@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנאת\/יקנא ja צררי\/יצר",
+      "rationale": "Salm kordab samu juuri: kadedus\/kadestama ja ahistaja\/ahistama — vastandpaar Efrajim–Juuda peegeldab korduvat loogilist struktuuri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "raiuakse ära",
+      "rationale": "כרת on 'ära raiuma\/langetama' — hävitamise pilt, mitte abstraktne 'hävima'."
+    }
+  ],
+  "translation": "Ja Efrajimi kadedus pöördub ära ja Juuda ahistajad raiutakse ära: Efrajim ei kadesta ⟨את⟩ Juudat ja Juuda ei ahista ⟨את⟩ Efrajimit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/11\/13-16.1792546833162.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "pöördub ära"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kadedus"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimi"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ahistajad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "raiuakse ära"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "kadesta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juudat"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juudat"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ja Juuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ahista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajimit"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimit"
+    }
+  ],
+  "timestamp": "2026-10-21T01:40:33.163586439Z",
+  "model": "glm-5.3"
+}

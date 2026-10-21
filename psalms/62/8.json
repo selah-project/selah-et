@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨toetub⟩",
+      "rationale": "גוף puudub — küllALT 'Elohimis on mu pääste' (KJV) kui 'Elohimile toetub' (JPS)"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכבודי",
+      "rationale": "'mu kirkus' — kas Jumalale kuuluv au või psalmistile antud au"
+    }
+  ],
+  "translation": "Elohimi peal ⟨toetub⟩ mu pääste ja mu kirkus, mu jõu kalju, mu varjupaik on Elohimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/62\/5-8.1792553076595.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mu pääste"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ja mu kirkus"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kalju"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mu jõu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mu varjupaik"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:36.599174026Z",
+  "model": "glm-5.3"
+}

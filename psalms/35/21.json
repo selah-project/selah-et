@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וירחיבו פיהם",
+      "rationale": "Suu avamine laiali — piltlik väljend 'agitada\/ähvardada', eesti keeles 'avasid mu vastu oma suu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האח האח",
+      "rationale": "Kahekordne pilkenäidis 'Hea, hea!', kaja säilitatud"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Heebrea lause lõpeb nägemisverbiga; eesti keel vajab objekti"
+    }
+  ],
+  "translation": "Nad avasid mu vastu oma suu, nad ütlesid: Hea, hea! Meie silm on näinud ⟨seda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/21-24.1792552791624.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "nad avasid laiali"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mu vastu"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "oma suu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nad ütlesid"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hea!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "hea!"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "on näinud"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "meie silm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:51.625263586Z",
+  "model": "glm-5.3"
+}

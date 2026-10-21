@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "surelik",
+      "rationale": "אנוש on 'surelik inimene', nõrgem kui אדם — hoitud eraldi sõnana"
+    },
+    {
+      "kind": "crux",
+      "subject": "משמן",
+      "rationale": "'õlist' (midagi rohkem kui õli) või 'õli' — JPS 'heledamaks kui õli', KJV 'õli paistmaks nägu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבב אנוש",
+      "rationale": "kordus: 'sureliku süda' esineb salmis kaks korda, kordus jääb tõlkesse"
+    }
+  ],
+  "translation": "ja veini, rõõmustamaks sureliku südant, õli, paistmaks nägu, ja leiba, kandmaks sureliku süda püsti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/13-16.1792553809817.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ja veini"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "rõõmustamaks"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "süda"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sureliku"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "paistmaks"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "õli"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ja leiba"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südant"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sureliku"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "kandma püsti"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:49.817926278Z",
+  "model": "glm-5.3"
+}

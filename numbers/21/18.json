@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 21:18",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "liikusid nad",
+      "rationale": "Teekonna valem 'kõrbest Mattanasse' eeldab liikumisverbi, heebreas puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "במחקק",
+      "rationale": "'õiguseandjaga' (KJV) vs 'skeptriga' (ASV\/JPS) — kas kimbuti riigiombli või ürgseaduseandja juhatusel."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חפרוה \/ כרוה",
+      "rationale": "kaks sünonüümset kaevamisverbi rida moodi — eesti keelel säilub see vaid kahe erineva verbiga."
+    }
+  ],
+  "translation": "Kaevu, mille vürstid kaevandasid, kaevasid rahva ülikud õiguseandjaga, oma sauadega. Ja kõrbest ⟨liikusid nad⟩ Mattanasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "86c9edf33d2313b1e9115bd74dafbbfc5fb673ce6f9f081163730bee94b7bc9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/21\/17-20.1792540150474.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באר",
+      "gloss": "Kaevu"
+    },
+    {
+      "surface": "חפרוה",
+      "gloss": "kaevandasid"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "vürstid"
+    },
+    {
+      "surface": "כרוה",
+      "gloss": "kaevasid"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ülikud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "במחקק",
+      "gloss": "õiguseandjaga"
+    },
+    {
+      "surface": "במשענתם",
+      "gloss": "oma sauadega"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "Ja kõrbest"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "Mattanasse"
+    }
+  ],
+  "timestamp": "2026-10-20T23:49:10.475138519Z",
+  "model": "glm-5.3"
+}

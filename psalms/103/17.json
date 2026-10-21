@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab öeldistäit, heebrea tekstis seda ei ole"
+    },
+    {
+      "kind": "substitution",
+      "subject": "igavesest igavikuseni",
+      "rationale": "מעולם ועד עולם tähendab sõna-sõnalt 'peidetuolmast peidetuuni' — aja mõlemasse suunda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד\/צדקה",
+      "rationale": "Jumala kaks omadust paaris: hesed ja tsedek, parallelism v.17 sees"
+    }
+  ],
+  "translation": "Aga Jahve hesed ⟨on⟩ igavesest igavikuseni nende peal, kes teda kardavad, ja tema tsedek laste lastele,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/17-20.1792553770000.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Aga hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "igavikuseni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavikuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "nende peal"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kes teda kardavad"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ja tema tsedek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "laste"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "lastele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:10.001138316Z",
+  "model": "glm-5.3"
+}

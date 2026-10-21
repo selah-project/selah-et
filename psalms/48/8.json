@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח on tuul\/vaim\/hingus ühes sõnas; hoitud kujuna 'ruahh', tõlkes 'Idatuule ruahh'."
+    },
+    {
+      "kind": "crux",
+      "subject": "laevad Taršišist",
+      "rationale": "תרשיש on nii kohanimi kui kaubalaeva epiteet — 'Taršiši laevad' või 'mereilaevad'."
+    }
+  ],
+  "translation": "Idatuule ruahh lõhub Taršiši laevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/48\/5-8.1792552841177.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ruahhiga"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ida-"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "lõhub"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "laevad"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršiši"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:41.178752217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "זכר עשה",
+      "rationale": "sõna-sõnalt 'mälestuse tegi': 'jäi mälestusse' või 'pani mälestuseks' — otsustasimetaphoor 'mälestuseks tegi' säilitatakse."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "asesõna 'ta' lisatud — heebrea laseb subjekti viimses sõnas Jahve ootamatu viimist teha."
+    }
+  ],
+  "translation": "Mälestuseks tegi ta oma imeteod; armuline ja halastaja on Jahve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/111\/1-4.1792553924358.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mälestuseks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "oma imeteod"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "armuline"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ja halastaja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:44.358933784Z",
+  "model": "glm-5.3"
+}

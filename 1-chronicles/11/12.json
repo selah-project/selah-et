@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tuli \/ oli",
+      "rationale": "Heebreas puudub verb ja koppel; eesti keeles lisatud loetavuse jaoks."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דודו \/ דויד",
+      "rationale": "Dodo-nimi kõlab nagu Davidi nime kordus, eesti keeles ei jää kõla kuulda."
+    }
+  ],
+  "translation": "Ja tema järel ⟨tuli⟩ Elazar, Dodo poeg, ahohhiline; tema ⟨oli⟩ kolme vägilase hulgas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/11\/9-12.1792557316499.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחריו ואחריו",
+      "gloss": "ja tema järel"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Dodo"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ahohhiline"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "kolme hulgas"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vägilase"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:16.500898529Z",
+  "model": "glm-5.3"
+}

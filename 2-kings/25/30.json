@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר יום ביומו",
+      "rationale": "sõna-sõnalt 'päeva asi tema päeval' — iga päeva jagu samal päeval"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארחתו ארחת",
+      "rationale": "kordus: 'tema annus — annus' rõhub pidevat andmist"
+    }
+  ],
+  "translation": "Ja tema annus — pidev annus — anti temale kuninga ⟨את⟩ käest, päeva osa tema päeval, kõik tema elu päevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "50ad5b6cce8b5074cd83009c0e0f71fd29f1ac636c063eae98e4768d16e9a003",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/25\/29-30.1792546474826.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "Ja tema annus"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "annus"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "pidev"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "anti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ käest"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asi, osa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päeva"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "tema päeval"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "tema elu"
+    }
+  ],
+  "timestamp": "2026-10-21T01:34:34.827065273Z",
+  "model": "glm-5.3"
+}

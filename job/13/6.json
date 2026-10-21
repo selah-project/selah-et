@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 13:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשיבו",
+      "rationale": "Sõna-sõnalt 'torkige kõrvad püsti' — kuulake tähelepanelikult."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oma⟩",
+      "rationale": "Eesti keel nõuab omastavat pronoomeni, heebrea seda ei ütle."
+    },
+    {
+      "kind": "invitation",
+      "subject": "kutse kuulajatele",
+      "rationale": "Kaks imperatiivi pöörduvad otseselt sõprade poole."
+    }
+  ],
+  "translation": "Kuulge nüüd mu noomimist ja mu huulte vaidlust, torkige ⟨oma⟩ kõrvad püsti!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9453e0ce58502f6b4905bb723c0d53c66c8ba6ac61f4174513ce3790c919ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/5-8.1792555297016.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "kuulge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "mu noomimist"
+    },
+    {
+      "surface": "ורבות",
+      "gloss": "ja mu huulte vaidlust"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mu huulte"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "torkige kõrvad püsti"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:37.017122668Z",
+  "model": "glm-5.3"
+}

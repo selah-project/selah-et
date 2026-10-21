@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 35:1",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "päeval",
+      "rationale": "Heebrea tekst ütleb ainult 'neliteist esimesele kuule'; 'päev' on lisatud eesti selguse jaoks."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuupäev",
+      "rationale": "Salmitäpsus: neljateistkümnendal päeval esimesest kuust, 2Ms 12:6 kordus."
+    }
+  ],
+  "translation": "Ja Jošija tegi Jerušalaimis pesahi Jahvele, ja nad tapsid pesahi neljateistkümnendal esimese kuu ⟨päeval⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/35\/1-4.1792558215203.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošija"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesahi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ja nad tapsid"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesahi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "neljateistkümnendal"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "esimese"
+    }
+  ],
+  "timestamp": "2026-10-21T04:50:15.205039402Z",
+  "model": "glm-5.3"
+}

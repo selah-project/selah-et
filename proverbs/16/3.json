@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גל\/ויכנו",
+      "rationale": "verb גלל 'rullima' piltlik — 'kanna ette' jätab pildi kaduma"
+    },
+    {
+      "kind": "addition",
+      "subject": "saavad",
+      "rationale": "Kopeel lisatud, heebrea on passiivi partitsiip"
+    }
+  ],
+  "translation": "Rulli oma teod Jahve kätte, ja sinu mõtted ⟨saavad⟩ kinnitatuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/1-4.1792554711879.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rulli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "oma teod"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "saavad kinnitatuks"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "sinu mõtted"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:51.880232087Z",
+  "model": "glm-5.3"
+}

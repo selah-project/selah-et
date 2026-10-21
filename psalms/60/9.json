@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחקקי",
+      "rationale": "kirjutaja\/seadusandja vs 'skepter' (nagu kuningakubu) — KJV 'lawgiver', JPS 'sceptre'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעוז",
+      "rationale": "kaitsekindlus; BSB 'kiiver' on pildi vahetus."
+    }
+  ],
+  "translation": "Minu on Gilad ja minu on Menashe, ja Efrajim on mu pea kindlus, Jehuda on mu seadusandja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/9-12.1792553055915.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "minu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ja minu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ja Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kindlus"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu pea"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mu seadusandja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.915872136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nurjud",
+      "rationale": "ומרינו sõna otseses tähenduses 'oleme teinud kibedaks\/mõruks', kõnes 'olemme olnud trotsikad'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jumala poole",
+      "rationale": "listunnus — 'sina ei ole andestanud' pöördub otse Elohi poole."
+    }
+  ],
+  "translation": "Meie — me oleme üleastunud ja olnud nurjud, sina ei ole andestanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4fba566d6b5bd59f449d9992520aab66cb773f7233d713d8907c74f13ed09760",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/41-44.1792555880522.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Meie"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "oleme üleastunud"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "ja olnud nurjud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "andestanud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:20.522889253Z",
+  "model": "glm-5.3"
+}

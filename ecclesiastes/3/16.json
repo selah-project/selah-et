@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "seisab",
+      "rationale": "Öeldis puudub heebreas, eesti keel nõuab seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המשפט\/הצדק...הרשע",
+      "rationale": "Korduv parallelism: kaks kohta, mõlemas sama kurjus — kõlanemine hangub kordusele"
+    }
+  ],
+  "translation": "Ja veel nägin ma päikese all: kohtu kohas ⟨seisab⟩ seal kurjus, ja tsedeki kohas ⟨seisab⟩ seal kurjus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/3\/13-16.1792556047951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ja veel"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nägin ma"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikese"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kohas"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kohtu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kurjus"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ja koha"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "tsedeki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "seal"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "kurjus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:07.952403035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 8:17",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kariloomad",
+      "rationale": "צאן on kollektiivne kari — lambad ja kitsed; siin üldistatult „karja”"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea puudub tegija asesõna; järgneva jäägi kontekstist lisatud"
+    }
+  ],
+  "translation": "Teie karja teeb ta kümnendiks, ja teie olete temale orjadeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/8\/17-20.1792543809363.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאנכם",
+      "gloss": "teie karja"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "teeb ta kümnendiks"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja teie"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "oled"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "orjadeks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:09.364257843Z",
+  "model": "glm-5.3"
+}

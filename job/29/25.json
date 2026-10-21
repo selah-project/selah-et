@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 29:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nende⟩ · ⟨oma⟩",
+      "rationale": "Heebrea jätab omastavad asesõnad lisamata; eesti keel vajab neid selguseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "ינחם",
+      "rationale": "Kolmas isik 'tema lohutab' (nagu YLT) vs loetud kui kõneleja ise 'ma olin lohutaja' (KJV\/JPS); järgin viimast, sest kogu peatükk on minavormis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחם",
+      "rationale": "'lohutama' katab nii 'ohkama' kui 'kaastundlik olema'; heebrea juur kannab mõlemat"
+    }
+  ],
+  "translation": "Valisin nende tee ja istusin ⟨nende⟩ pea ning elasid ⟨oma⟩ kohal nagu kuningas väes, nagu see, kes leinajaid lohutab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "228e0541f8f1f0a02df662d41fa46af3a3ba36f0012bd0d2cbfbb7abc2f1b041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/29\/25-25.1792555485556.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבחר",
+      "gloss": "Valisin"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "nende tee"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ja istusin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pea"
+    },
+    {
+      "surface": "ואשכון",
+      "gloss": "ning elasid"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "nagu kuningas"
+    },
+    {
+      "surface": "בגדוד",
+      "gloss": "väes"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "leinajaid"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "lohutab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:04:45.557603230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "vanade vandevorm: 'nii tõesti kui Jahve elab'"
+    },
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "heebrea אם יומת ei ütle objekti; eesti vajab 'teda' (David)"
+    }
+  ],
+  "translation": "Ja Saaul kuulis Joonatani häält, ja Saaul vandus: nii tõesti kui Jahve elab, ei tohi teda tappa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/19\/5-8.1792544100054.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Joonatani"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ja vandus"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nii tõesti kui"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ei tohi tappa"
+    }
+  ],
+  "timestamp": "2026-10-21T00:55:00.055967171Z",
+  "model": "glm-5.3"
+}

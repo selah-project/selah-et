@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נקם\/נקמת",
+      "rationale": "Sama juur kordub kaks korda — käsud ja kättemaks on üks sõna; eesti keeles kordus osaliselt kadunud."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sind kogutakse oma rahva juurde",
+      "rationale": "Heebrea idiom surma kohta, otsetõlges säilitatud."
+    },
+    {
+      "kind": "invitation",
+      "subject": "נקם",
+      "rationale": "Mošelegi suunatud käsk-kutse, eessalmi kõne jätk."
+    }
+  ],
+  "translation": "Täida Jisraeli poegade kättemaks midjanite ⟨את⟩ vastu; pärast seda sind kogutakse oma rahva juurde.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e7c912896c21cacdddd03c4f8f40c4ef2b3087d4c364a8a49b59ff26ce1e1e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/31\/2-4.1792543662077.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "täida kättemaks"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "kättemaks"
+    },
+    {
+      "surface": "בני",
+      "gloss": "poegade"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ vastu",
+      "marks": "midjanid"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "midjanite"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "pärast seda"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sind kogutakse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "oma rahva"
+    }
+  ],
+  "timestamp": "2026-10-21T00:47:42.079629467Z",
+  "model": "glm-5.3"
+}

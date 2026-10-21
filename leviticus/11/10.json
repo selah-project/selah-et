@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 11:10",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olend",
+      "rationale": "נפש החיה on sõna-sõnalt 'elav hing' — elusolend, mitte 'hing' mõttes, mis eesti keeles kaasa tooks."
+    },
+    {
+      "kind": "addition",
+      "subject": "asi",
+      "rationale": "Eesti nimisõna nõuab täiendit — שקץ on üksnes 'vastik, roojane asi'."
+    }
+  ],
+  "translation": "Ja kõik, millel ei ole uimi ega soomuseid meredes ega jõgedes, kõigist, mis vees sagleb, ja kõigest elavast olendist, mis vees on — vastik asi nad on teile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/9-12.1792539231778.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tal"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "uimi"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ega soomuseid"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "meredes"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "ega jõgedes"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "mis sagleb"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vesi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ja kõigest"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "olendist"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "elavast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vees"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "vastik asi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    }
+  ],
+  "timestamp": "2026-10-20T23:33:51.779188321Z",
+  "model": "glm-5.3"
+}

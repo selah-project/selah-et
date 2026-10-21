@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "istu",
+      "rationale": "ישב 'istuma\/asustama' — enamus tõlkeid ütleb 'asustatud', heebrea kõneleb istumisest"
+    },
+    {
+      "kind": "crux",
+      "subject": "lase kariloomi lamama",
+      "rationale": "ירבצו öelda karjastest: otse 'lamavad (karjadena)' — kelle lamamine, karjased või kari"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨jäävalt⟩ · ⟨kariloomi⟩",
+      "rationale": "Heebrea lisab mõlemad mõistmisel vajalikud täpsustused, tekstis ei seisa"
+    }
+  ],
+  "translation": "Ta ei istu ⟨jäävalt⟩ igaveseks ega ela põlvkonnast põlvkonnani; araablane ei tõmba sinna telki ja karjased ei lase seal ⟨kariloomi⟩ lamama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07a3f296dd4fb37925dc80808acedeb7e22fe4917af3bacca703b6cb40c467bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/13\/20-20.1792558353302.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "istu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "ela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "דור",
+      "gloss": "põlvkonnast"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "põlvkonnani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "tõmba telki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "araablane"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "ja karjased"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "lase lamama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:33.302715789Z",
+  "model": "glm-5.3"
+}

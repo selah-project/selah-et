@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel vajab kopulat, heebrea puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פגול",
+      "rationale": "Sõna tähendab 'haisv, jõledav' — pühaduse rikkumist; 'jõledus' kandub tähenduse, mitte kõla järgi."
+    }
+  ],
+  "translation": "Ja kui seda üldse süüakse kolmandal päeval, ⟨on⟩ see jõledus, ei leia see meelepärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/5-8.1792539430484.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ja kui"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "üldse süüakse"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "süüakse"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kolmandal"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "jõledus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "leia meelepärast"
+    }
+  ],
+  "timestamp": "2026-10-20T23:37:10.485089005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koprulatsioon — ⟨on⟩ lisatud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedekat ajab taga",
+      "rationale": "צדקה jääb transliteratsioonina, sest 'õigus' üksi ei kanna sõna tervikut"
+    },
+    {
+      "kind": "addition",
+      "subject": "Jahve",
+      "rationale": "כי ja מרדף vahel puudub heebreas subjekt; ylt\/jps loevad subjektiks Jahve"
+    }
+  ],
+  "translation": "Jahvele ⟨on⟩ jäle õela tee, ja kes ajab taga tsedekat, teda armastab ⟨Jahve⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd3c3a8bf756aa82b3c35333be230c4b9ddceabda97912e5bb3cf5ccea08943b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/9-12.1792554706929.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "jäle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "õela"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ja ajab taga"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedekat"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "armastab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:46.929747701Z",
+  "model": "glm-5.3"
+}

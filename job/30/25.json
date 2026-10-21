@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "לקשה",
+      "rationale": "lemma l\/7186 'kange\/raske' esineb Tanahhis ainult siin; 'kelle päev on kange' = õnnetu, kellel raske päev"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on pigem 'kõri\/elujõud', mitte hinge mõistes"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kui ma ei ole",
+      "rationale": "võimalik ka idioomi tõlgendus vanne: 'Ei ma küll jätnud nutmata...'"
+    }
+  ],
+  "translation": "Kui ma ei ole nutnud tema pärast, kelle päev on kange, ja mu hing ei ole kurvastanud vaese pärast —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "03d2b1aec17e7cdb0335e4d0c4fbe586ff2633e3fae4e266daa8cb50815396de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/30\/25-28.1792555539720.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "olen nutnud"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "kange"
+    },
+    {
+      "surface": "יום",
+      "gloss": "päev"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "kurvastanud"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "vaese pärast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:39.721317186Z",
+  "model": "glm-5.3"
+}

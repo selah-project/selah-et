@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין פקד אפו",
+      "rationale": "KJV loeb 'ta on külastanud vihas', ASV\/JPS 'ei ole veel külastanud' — eitus jaguneb või mitte"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ülbust",
+      "rationale": "פש on jämedas rumalus, üleolev pahatahtlikkus"
+    }
+  ],
+  "translation": "Ja nüüd, et ta ei ole oma vihas külastanud ega tea ta suurt ülbust —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1221ddfa222e5314b2a02b62e9f928e1299f504ec6dc7518e19fe0c98ea7a099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/35\/13-16.1792555618432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ja nüüd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ei ole⟩"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "külastanud"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "oma vihas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tea"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "ülbust"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "suurt"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:58.433231534Z",
+  "model": "glm-5.3"
+}

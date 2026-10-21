@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma viha",
+      "rationale": "אף on sõna-sõnalt 'nina\/ninasõõr' — viha kehapilt, eesti keeles 'viha'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אספת",
+      "rationale": "'Kogusid kokku' (nagu teravilja) vs 'võtsid ära' — heebrea pilt on raevu kokkukorjamine, mitte lihtne eemaldamine."
+    }
+  ],
+  "translation": "Kogusid kokku kogu oma raevu, pöördusid tagasi oma viha palangust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/85\/1-4.1792553580407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "kogusid kokku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "oma raevu"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "pöördusid tagasi"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "palangust"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "oma viha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:00.408066542Z",
+  "model": "glm-5.3"
+}

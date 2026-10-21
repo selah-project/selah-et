@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 18:30",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מדי צאתם",
+      "rationale": "'nende väljaminekute äärel' — korduvuse idiom, eesti 'iga kord kui'"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "וייקר on verb 'raskendas\/kalliks muutus', eesti vajab kopeeri 'oli'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שכל",
+      "rationale": "'käitus tarkuslikult' (KJV) vs 'edukas\/prosperity' (JPS) — סכל hõlmab nii tarkust kui õnnestumist"
+    }
+  ],
+  "translation": "Ja välja läksid filistlaste ülemad, ja juhtus, iga kord kui nad välja läksid, käitus David targemalt kui kõik Sauli teenrid, ja tema nimi ⟨oli⟩ väga kallis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b730fc5cc880ad3008028311b1af05296bbae4e930523479319bceb199ecd97b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/18\/29-30.1792544027286.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ja läksid välja"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ülemad"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistlaste"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja juhtus"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "iga kord kui"
+    },
+    {
+      "surface": "צאתם",
+      "gloss": "nemad välja läksid"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "käitus targemalt"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kui kõik"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "teenrid"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ja ⟨oli⟩ kallis"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:47.287570356Z",
+  "model": "glm-5.3"
+}

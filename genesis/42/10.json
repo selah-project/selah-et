@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ostma",
+      "rationale": "לשבר on teraviljaga kaubitsema, teravilka ostma — sõna mängib 1Ms 41:57 'שבר' ga"
+    }
+  ],
+  "translation": "Aga nad ütlesid talle: ei, mu isand, vaid su sulased on tulnud toidu järele ostma.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "20893f1178f5edcecf90cc0f62f9e81309e79d3fd1d5b42dd0098e90cc1d52a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/42\/9-12.1792538062591.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "aga nad ütlesid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mu isand"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "vaid su sulased"
+    },
+    {
+      "surface": "באו",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ostma"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "toitu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:14:22.592673807Z",
+  "model": "glm-5.3"
+}

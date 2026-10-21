@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub seost verb; eesti keel vajab kopulat"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקלה",
+      "rationale": "kerge\/põlatud vs 'vaealne'; 'põlatu' kontekstipõhine valik"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ממתכבד",
+      "rationale": "sõna-sõnalt 'end raskaks tegev' — 'tähtsaks peab' on roll, mitte kuju"
+    }
+  ],
+  "translation": "Parem ⟨on⟩ põlatu, kellel on sulane, kui see, kes ennast tähtsaks peab ja kellel leivast puudu tuleb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/9-12.1792554604556.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "põlatu"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ja sulane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kellel on"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "kes ennast tähtsaks peab"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ja kellel puudu tuleb"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leivast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:04.557118107Z",
+  "model": "glm-5.3"
+}

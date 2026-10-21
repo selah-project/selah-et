@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדבר אשר זדו עליהם",
+      "rationale": "Kes on 'nemad': egiptlased ülbed Jisraeli vastu (KJV-lisand 'he was above them') vs jumalad ülbed — jätame vastusõna lahtiseks"
+    },
+    {
+      "kind": "elision",
+      "subject": "עליהם",
+      "rationale": "'Nende vastu' jääb esitatud lauses otsese öeldiseta; heebrea lühendus"
+    }
+  ],
+  "translation": "Nüüd tean ma, et Jahve on suurem kui kõik jumalad, sest asi, milles nad käitusid üleolevalt nende vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/18\/9-12.1792538570174.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "tean ma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suurem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kui kõik"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "jumalad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "asjas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "milles"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "käitusid nad üleolevalt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nende vastu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:22:50.175777152Z",
+  "model": "glm-5.3"
+}

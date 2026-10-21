@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 4:5",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meie vaenlased",
+      "rationale": "צַר tähendab sõna-sõnalt 'kitsas, ahtas koht, ahistaja'; 'vaenlane' on kontekstipõhine tähendus."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ידעו ולא יראו",
+      "rationale": "Korduv 'ei... ega...' paralleelism, vaenlaste varitsuskava retoorika."
+    }
+  ],
+  "translation": "Ja ütlesid meie vaenlased: Nad ei tea ega näe, enne kui me tuleme nende keskele ja tapame nad ning lõpetame ⟨את⟩ töö.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6781bd79e319c577f75d8fc65998cf5cbd79b8410d1c49e17104ff707be1073e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/4\/5-8.1792556887397.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja ütlesid"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "meie vaenlased"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nad teavad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nad näevad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ennem kui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "me tuleme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "תוכם",
+      "gloss": "nende keskele"
+    },
+    {
+      "surface": "והרגנומ",
+      "gloss": "ja tapame nad"
+    },
+    {
+      "surface": "והשבתנו",
+      "gloss": "ja lõpetame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "töö"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "töö"
+    }
+  ],
+  "timestamp": "2026-10-21T04:28:07.398251127Z",
+  "model": "glm-5.3"
+}

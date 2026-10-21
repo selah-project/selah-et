@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 13:30",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "heebrea ויהי kandes täisverbi tähendust, eesti vajab kopelet"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuuskümmend linna",
+      "rationale": "loendus Jairi asulate üle Bašanis"
+    },
+    {
+      "kind": "crux",
+      "subject": "חות",
+      "rationale": "'asulad\/külad' vs 'telgitud laager'; osad tõlked annavad 'small towns' (ylt), teised 'villages'"
+    }
+  ],
+  "translation": "Ja nende piir ⟨oli⟩ Mahhanaimist, kogu Bašan, kogu Oogi, Bašani kuninga, kuningriik, ja kogu Jairi asulad, mis Bašanis ⟨asuvad⟩, kuuskümmend linna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1534713c8fe7e1ddc8512f0df3acce64c7aa9d14e01f25e6152a993d2c0ee9ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/13\/29-32.1792541560514.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨oli⟩"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "nende piir"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "Mahhanaimist"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "kuningriik"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašani"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "חות",
+      "gloss": "asulad"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jairi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bašanis"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "kuuskümmend"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    }
+  ],
+  "timestamp": "2026-10-21T00:12:40.515038506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלח ידיו",
+      "rationale": "Tõlgitud 'ulatas oma käed' — sõna-sõnalt 'saatis oma käed', idiom rünnaku kohta."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בשלמיו",
+      "rationale": "Osa lugemist: 'tema rahu-osaliste vastu' — 'nendega, kes temaga rahu olid'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rüvetas",
+      "rationale": "חלל on 'lähendas püha, tühistas pühaduse' — 'rüvetas' hoiab tabamatu püha profaneerimise tähenduse."
+    }
+  ],
+  "translation": "Ulatas ta oma käed nende vastu, kes temaga rahul olid, rüvetas ta oma lepingu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/21-24.1792552987660.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ulatas"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "oma käed"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "nende vastu, kes temaga rahul olid"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "rüvetas"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "oma lepingu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:07.660952260Z",
+  "model": "glm-5.3"
+}

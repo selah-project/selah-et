@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אודה",
+      "rationale": "Juur ידה tähendab põhimõtteliselt 'heitma, viskama' — siin 'tunnistama, tänu heitma'; eestis 'tunnistan'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כצדקו",
+      "rationale": "'Tema tsedeki järgi' vs 'tema tsedeki pärast' — kas Jumala õigust mööda või tema õigluse eest."
+    }
+  ],
+  "translation": "Ma tunnistan Jahvet tema tsedeki järgi ja laulan Jahve Elijoni nime.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/17-18.1792552250022.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ma tunnistan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "tema tsedeki järgi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja laulan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nime"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-21T03:10:50.023511537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea הוא שם 'tema seal' puudtab olevikuvormi; eesti keel vajab kopolat"
+    },
+    {
+      "kind": "crux",
+      "subject": "שואף",
+      "rationale": "'ahmima\/hinget tõmbama' vs 'kiirustama' (KJV hasteth) — kujutab päikest Stoffu ahmivana oma ringrajal"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרח\/זורח",
+      "rationale": "Sama juur kordub alguses ja lõpus — päikese tõus rõhutatud ringina, eesti keeles osaliselt alles"
+    }
+  ],
+  "translation": "Ja päike tõusis, ja päike langes, ja ahmides pöördub see, kes seal kiirgab, tagasi oma kohale — tema ⟨on⟩ seal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/5-8.1792556035506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ja tõusis"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päike"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ja langes"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päike"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja tagasi"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "oma kohale"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ahmides"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "kiirgab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:55.507166841Z",
+  "model": "glm-5.3"
+}

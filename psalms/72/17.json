@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ינין",
+      "rationale": "Harva sõna juurest נון 'võsuda, kestma': 'tema nimi võsugu\/kestku' vs 'kordugu' (KJV continued) vs 'olgu igihaljas'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ינין",
+      "rationale": "Juurdumoodustis נין, mis esineb Tanahhis ainult siin selles vormis."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתברכו בו",
+      "rationale": "Reflektiivne 'õnnistagu end temaga' (JPS\/ylt) vs passiivne 'õnnistatud olgu temaga' (KJV\/BSB)."
+    }
+  ],
+  "translation": "Olgu tema nimi igaveseks, enne päikest püsigu tema nimi, ja õnnistatud olgu temaga kõik rahvad, kõik rahvad kiidagu teda õnnelikuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/72\/17-20.1792553333884.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "enne"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "päikest"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "püsigu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "ja õnnistatud olgu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temaga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "kiidagu teda õnnelikuks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:53.885391967Z",
+  "model": "glm-5.3"
+}

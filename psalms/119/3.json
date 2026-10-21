@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ja",
+      "rationale": "אף on 'ka, jah, tõesti' — eesti keeles 'ja\/jah' lähim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ülekohut",
+      "rationale": "עולה on moraalne pahategevus, 'vääritus, kõverus'"
+    }
+  ],
+  "translation": "Ja nad ei tee ülekohut, tema teedel nad käivad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/1-4.1792554008804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "tee"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ülekohut"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "tema teedel"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "käivad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:08.805596481Z",
+  "model": "glm-5.3"
+}

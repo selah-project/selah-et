@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kaheksa ja kaks küünart",
+      "rationale": "templi värava eeskoja mõõtmine küünrades"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהבית",
+      "rationale": "'templi poole' (nagu ASV\/BSB) vs 'seestpoolt\/esikust' (nagu KJV\/JPS 'inward')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אילים",
+      "rationale": "sõna tähendab 'tugev\/turi', siin arhitektuuriliselt piilar või eend; eesti 'piilar' on valitud tähendus"
+    }
+  ],
+  "translation": "Ja ta mõõtis ⟨את⟩ värava eeskoda, kaheksa küünart, ja selle piilarid kaks küünart; ja värava eeskoda oli pööratud templi poole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/40\/9-12.1792550635730.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ja ta mõõtis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "värava eeskoda"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "eeskoda"
+    },
+    {
+      "surface": "השער",
+      "gloss": "värava"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "kaheksa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ja selle piilarid"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "küünart"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "ja eeskoda"
+    },
+    {
+      "surface": "השער",
+      "gloss": "värava"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "templi poole"
+    }
+  ],
+  "timestamp": "2026-10-21T02:43:55.730757122Z",
+  "model": "glm-5.3"
+}

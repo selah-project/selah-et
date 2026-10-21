@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "kindel on mu süda",
+      "rationale": "kordus (נכון לבי ×2) — resolutsiooniks eelmise salmi rõhutud hingele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "keelpilliga",
+      "rationale": "זמר otse 'keelesid puudutama, keelpilli mängima', mitte üldine 'kiitma'"
+    }
+  ],
+  "translation": "Kindel on mu süda, Elohim, kindel on mu süda, ma laulan ja kiidan keelpilliga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/5-8.1792553094339.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "kindel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kindel"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mu süda"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ma laulan"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja kiidan keelpilliga"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:54.342659982Z",
+  "model": "glm-5.3"
+}

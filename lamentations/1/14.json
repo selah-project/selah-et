@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 1:14",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ישתרגו",
+      "rationale": "שרג 'põimima' esineb Tanahhis ainult siin"
+    },
+    {
+      "kind": "crux",
+      "subject": "בידו",
+      "rationale": "'Tema käe poolt' (Jahve kinnitab ike) vs 'nende kätte' (vaenlased); masoreetide tekst ütleg 'tema'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nendele",
+      "rationale": "Heebrea 'kätte' jääb objektita — kelle käe, lisatud lausungi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכשיל",
+      "rationale": "'pahkluust komistama' — jala nõrkuse pilt, tõlgitud 'vajuvaks'"
+    }
+  ],
+  "translation": "Mu ülestõusmiste ike on kinnitatud ta käe poolt, nad on põimitud, ronivad üles mu kaelale; ta muutis mu jõu vajuvaks; andis mu, Adonai, kätte ◄\n    kellega ma ei saa → kätte nendele, kellest ma ei suuda tõusta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/1\/13-16.1792555941725.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקד",
+      "gloss": "on kinnitatud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ike"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mu ülestõusmiste"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ta käe poolt"
+    },
+    {
+      "surface": "ישתרגו",
+      "gloss": "nad on põimitud"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ronivad üles"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "mu kaelale"
+    },
+    {
+      "surface": "הכשיל",
+      "gloss": "ta muutis vajuvaks"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mu jõu"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "andis mu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "kätte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "suuda"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tõusta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:21.726570980Z",
+  "model": "glm-5.3"
+}

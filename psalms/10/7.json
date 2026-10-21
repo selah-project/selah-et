@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "needus",
+      "rationale": "אלה tähendab vannet\/needust; KJV 'cursing', YLT 'oaths' — siin 'needus'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תך",
+      "rationale": "רוֹתֹ esineb Tanahhis ainult siin; tähendus 'raskus\/vägivald' on kontekstist järeldatud."
+    }
+  ],
+  "translation": "Tema suu on täis needust ja pettust ja vägivalda; tema keele all on vaev ja pahatus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3d0ec7f7f2ba534563dbe64b24ba7705488bea745822cf09aa16a41555ebb82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/5-8.1792552305714.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "needust"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "tema suu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "on täis"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ja pettust"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ja vägivalda"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "tema keele"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaev"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ja pahatus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:45.716185694Z",
+  "model": "glm-5.3"
+}

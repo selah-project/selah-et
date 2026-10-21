@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olnud⟩ ⟨veel⟩",
+      "rationale": "puali partitsiip nõuab eesti keeles koopulat; 'veel' lisatud konteksti järgi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tooma",
+      "rationale": "להעלות on sõna-sõnalt 'üles kaasma' — põletusohver tõuseb suitsuna üles"
+    }
+  ],
+  "translation": "Esimesest päevast seitsmendas kuus nad hakkasid tooma põletusohvreid Jahvele, aga Jahve templit ei ⟨olnud⟩ ⟨veel⟩ rajatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/3\/5-8.1792556726172.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "päevast"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esimesest"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuus"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "seitsmendas"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nad hakkasid"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "tooma"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "põletusohvreid"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "aga Jahve templit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "rajatud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:26.173965507Z",
+  "model": "glm-5.3"
+}

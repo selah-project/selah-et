@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebreas puudub kopeeriv verbi 'on', lisatud eesti keele nõudel."
+    },
+    {
+      "kind": "crux",
+      "subject": "תען",
+      "rationale": "ענה tähendab 'vastama' või (pt.) 'laulma': 'mu keel vastagu' vs 'mu keel laulku'."
+    }
+  ],
+  "translation": "Mu keel laulgu sinu sõnast, sest kõik su käsud ⟨on⟩ tsedek.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4bde22fbd19dac0a7ab8e8cf603b0923a5a602e1046e230f27de7ea05fe86548",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/169-172.1792554174134.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "laulku"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "mu keel"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sinu sõnast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "su käsud"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-21T03:42:54.135759901Z",
+  "model": "glm-5.3"
+}

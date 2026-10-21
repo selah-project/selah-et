@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ובכה",
+      "rationale": "Heebrea 'sinu sees\/sinule' tähendab siin 'sinu juurde\/sinule'; eeldab 7:28 'tõusevad üles'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kärnkonnad",
+      "rationale": "הצפרדעים on 'soo-hüppaja' — kärnkond, mitte konn"
+    }
+  ],
+  "translation": "Ja sinu juurde ja su rahva juurde ja kõigi su teenijate juurde tõusevad kärnkonnad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f1719b36a41393d28a3264b66c53ddf136d98ef0fd41258139ff985d29c652cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/7\/29-29.1792538361790.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "ja sinu juurde"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "ja su rahva juurde"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ja kõigi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "su teenijate"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "tõusevad"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "kärnkonnad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:19:21.790581843Z",
+  "model": "glm-5.3"
+}

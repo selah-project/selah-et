@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saak",
+      "rationale": "טרף on sõna-sõnalt 'kiskutud kütt (saak)' — söök, mis on hankitud"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחק",
+      "rationale": "'osa (toidust)' vs 'töömäär\/ükskindel kord' (ASV 'their task')"
+    }
+  ],
+  "translation": "Ja ta tõuseb, kui on veel öö, ja annab saagi oma majapidamisele ja osa oma teenijatüdrukutele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/31\/13-16.1792555023496.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Ja ta tõuseb"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "kui on veel"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "öö"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "ja annab"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "saagi"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "oma majapidamisele"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ja osa"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "oma teenijatüdrukutele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:03.498214729Z",
+  "model": "glm-5.3"
+}

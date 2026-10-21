@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 5:13",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ašeerad",
+      "rationale": "אשיריך on Ašera puidust pühapaigad; nimi hoitakse heebrea kõlana, mitte 'tammised' ega 'ebajumalad'"
+    },
+    {
+      "kind": "crux",
+      "subject": "su linnad",
+      "rationale": "עריך tähendab 'su linnad' (KJV\/ASV 'cities'); JPS\/ylt loevad 'su vaenlased' — heebrea sõna ise ütleb 'linnad'"
+    }
+  ],
+  "translation": "Ja ma kitkin välja su ašeerad su keskest, ja ma hävitan su linnad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/5\/13-14.1792551517033.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתשתי",
+      "gloss": "ja ma kitkin välja"
+    },
+    {
+      "surface": "אשיריך",
+      "gloss": "su ašeerad"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "su keskest"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "ja ma hävitan"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "su linnad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:58:37.033851676Z",
+  "model": "glm-5.3"
+}

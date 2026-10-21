@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab olla-verbi, heebrea puudub."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת נועצים",
+      "rationale": "את võib olla H854 'koos' ('koos nõupidajatega') või H853 objektimarker ('nõupidajaid karistatakse' — tüli kui objekt); enamus loeb 'koos'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רק\/בזדון",
+      "rationale": "רק tähendab põhimõtteliselt 'kõhnust' — 'kõhnusest ehk ülbusest': kõhnus ja ülbus kõlavad koos, sõnarmäng on raske edasi anda."
+    }
+  ],
+  "translation": "Ainult ülbusest sünnib tüli, aga nõu pidajatega ⟨את⟩ on tarkus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ac9f940229486522cf378e10e3e527be06efb7506be619db6b1d76bd3f0008f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/13\/9-12.1792554678606.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ülbusest"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "tüli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "aga ⟨את⟩"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "nõu pidajatega"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "tarkus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:18.606721774Z",
+  "model": "glm-5.3"
+}

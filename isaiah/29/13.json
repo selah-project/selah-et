@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 29:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראתם אתי",
+      "rationale": "אתי võib olla kas 'mind' (kaasasolev objekt) või aleph-tav + 'i' lõpp; enamus tõlkeid loevad 'nende kartus mind'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "cartus",
+      "rationale": "יראה hõlmab nii kartust kui aukartust; üks sõna, kaks varjundit."
+    }
+  ],
+  "translation": "Ja Adonai ütles: Seepärast, et see rahvas läheneb oma suuga ja oma huultega nad mind austavad, aga nende süda kaugenes minust, ja nende kartus mind ⟨את⟩ sai inimeste käsuks, selgeks õpetatuks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b9484dacf5b70c57a1111a4703991a42223f7f592193fbff0b141dc1a7e96c45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/29\/13-16.1792547157240.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja Adonai ütles"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Seepärast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "läheneb"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "oma suuga"
+    },
+    {
+      "surface": "ובשפתיו",
+      "gloss": "ja oma huultega"
+    },
+    {
+      "surface": "כבדוני",
+      "gloss": "nad mind austavad"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "aga nende süda"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "kaugenes"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "minust"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ja sai"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "nende kartus"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mind ⟨את⟩",
+      "marks": "inimeste käsuks"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "käsuks"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "inimeste"
+    },
+    {
+      "surface": "מלמדה",
+      "gloss": "selgeks õpetatuks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:45:57.241546754Z",
+  "model": "glm-5.3"
+}

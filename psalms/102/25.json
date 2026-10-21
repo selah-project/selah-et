@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub köitesõna; kõrvalseis asub sulgudes"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja palve Elile",
+      "rationale": "Salm on otsene pöördumine Jumala poole"
+    }
+  ],
+  "translation": "Ma ütlen: mu El, ära võta mind ära oma päevade keskel; põlvest põlvedeni ⟨on⟩ su aastad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/25-28.1792553713450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ma ütlen"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mu El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "või mind ära"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevade"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "põlvedeni"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "su aastad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.450904813Z",
+  "model": "glm-5.3"
+}

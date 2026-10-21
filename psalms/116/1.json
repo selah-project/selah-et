@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ma armastan",
+      "rationale": "אהבתי täisminevik (\"ma olen armastanud\") vs olevik; objekt puudub — keda armastatakse, jääb lause välja"
+    }
+  ],
+  "translation": "Ma armastan, sest Jahve kuuleb ⟨את⟩ mu häält, mu anumist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/116\/1-4.1792553987391.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ma armastan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuuleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu häält"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mu häält"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mu anumist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:47.392049451Z",
+  "model": "glm-5.3"
+}

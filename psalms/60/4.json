@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פצמתה",
+      "rationale": "Verbi פצם ainsas esinemine Tanahhis — 'lõhkuma (maavärinaga)'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוט → kõigub",
+      "rationale": "Sõna kannab libisemise ja varingu varjundit, 'kõigub' on ainult osa tähendusest"
+    }
+  ],
+  "translation": "Sina oled maad väristanud, selle lõhkunud; paranda ⟨sina⟩ selle murrud, sest see kõigub!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/1-4.1792553125534.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "oled väristanud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "lõhkunud"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "paranda"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "selle murrud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "see kõigub"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:25.537533919Z",
+  "model": "glm-5.3"
+}

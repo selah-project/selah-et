@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 11:8",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Siel on את prepositsioon 'koos\/juures' (H854), mitte otsese objekti marker — glossiks 'juures', mitte ⟨את⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "השדרות",
+      "rationale": "Sõna-sõnalt 'read\/riigid' — võrdlusalune: kas 'riede juurde astuja' (kaitseliin) või 'hoone read' (tempel)."
+    },
+    {
+      "kind": "you",
+      "subject": "sõduritele",
+      "rationale": "Jehojada käsk otse vahimeestele — imperatiivne kõneakt."
+    }
+  ],
+  "translation": "Ja teie ümbritsete kuningat igalt poolt, iga mees oma sõjariistaga käes, ja kes iganes tuleb ridade juurde, tapetugu; ja teie olete ⟨את⟩ kuninga ⟨את⟩ juures, kui ta läheb välja ja kui ta tuleb sisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/5-8.1792546130550.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקפתם",
+      "gloss": "Ja teie ümbritsete"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "igalt poolt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "iga mees"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "oma sõjariistaga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "käes"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "ja kes iganes tuleb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "השדרות",
+      "gloss": "ridadesse"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tapetugu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ja teie olete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ juures"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuninga"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "kui ta läheb välja"
+    },
+    {
+      "surface": "ובבאו",
+      "gloss": "ja kui ta tuleb sisse"
+    }
+  ],
+  "timestamp": "2026-10-21T01:28:50.554139177Z",
+  "model": "glm-5.3"
+}

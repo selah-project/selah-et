@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahvele suunatud küsimus",
+      "rationale": "rida pöördub varjatult Elohimini (vt salm 12), küsimus on palveks."
+    },
+    {
+      "kind": "crux",
+      "subject": "נחני",
+      "rationale": "vorm võib olla Imperfekt ('kes juhatab') või Perfekt ('kes on juhtinud', nagu YLT\/ASV)."
+    }
+  ],
+  "translation": "Kes viib mu kindlustatud linna? Kes juhatab mu Edomini?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/60\/9-12.1792553055915.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "viib mu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kindlustatud"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "juhatab mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomini"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.916310008Z",
+  "model": "glm-5.3"
+}

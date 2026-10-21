@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 1:10",
+  "book": "malachi",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kes teie hulgast",
+      "rationale": "Heebrea lause võib olla soov (ASV\/JPS: 'oleks ainult üks teie seast') või küsimus\/nõud (KJV: 'kes teie seast'); mina järgin soov-lugemist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hingamisohver",
+      "rationale": "מנחה on 'minha' — teravilja- ja veiniohver; eesti Piibli 'anni' asemel tuleks hoida ohvri liik."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on olemas⟩",
+      "rationale": "Eesti keel vajab olemasoluverbi, heebrea lause poleerib selle ära."
+    },
+    {
+      "kind": "you",
+      "subject": "preestritele",
+      "rationale": "Jahve pöördub otse preestrite poole, kes tema altarit pohlasid."
+    }
+  ],
+  "translation": "Kes teie hulgast ⟨on olemas⟩, kes tooks sulgema ukseväravad, et te ei süütaks mu altarit asjata! Pole mul teiest mingit tahtmist, ütleb Jahve Tsevaot, ega võta teie käest vastu hingamisohvrit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c70795607f778ab2a13a22e119ec53f2fe778c82c39ac279db9b3604bdd61d88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/malachi\/1\/10-11.1792558590873.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kes"
+    },
+    {
+      "surface": "גם",
+      "gloss": "üllaski"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teie hulgast"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "tooks sulgema"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ukseväravad"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "et ei"
+    },
+    {
+      "surface": "תאירו",
+      "gloss": "süütaks"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mu altarit"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "asjata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Pole"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tahtmist"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teiest"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ja hingamisohvrit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "võta meeleldi vastu"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "teie käest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:30.877172287Z",
+  "model": "glm-5.3"
+}

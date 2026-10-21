@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "käskis",
+      "rationale": "ויאמר on sõna-sõnalt 'ja ütles'; kontekst kannab käsu tähenduse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumalad",
+      "rationale": "אלהיהם on väikse algustähega 'nende jumalad' — võõrad jumalad, mitte Elohim"
+    }
+  ],
+  "translation": "Ja nad jätsid sinna maha ⟨את⟩ oma jumalad, ja David käskis, ja need põletati tulega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f5152e0182668c46a733286843579704ca1972295636f3d7003dc8295cca337a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/14\/9-12.1792557342519.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Ja nad jätsid maha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma jumalad"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oma jumalad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja käskis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ja põletati"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    }
+  ],
+  "timestamp": "2026-10-21T04:35:42.520506320Z",
+  "model": "glm-5.3"
+}

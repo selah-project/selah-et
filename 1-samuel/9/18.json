@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זה",
+      "rationale": "Demonstratiiv אי זה kuulub ühte fraasi 'kus', eraldi ei mahutu"
+    },
+    {
+      "kind": "you",
+      "subject": "to Šaul",
+      "rationale": "Šaul pöördub otse Šemuëli poole küsimisega"
+    }
+  ],
+  "translation": "Ja Šaul lähenes ⟨את⟩ Šemuëli juurde värava keskel ja ütles: Palun ütle mulle, kus on nägija maja?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/9\/17-20.1792543856353.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Ja lähenes"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šemuëli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuëli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "השער",
+      "gloss": "värava"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kus"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "nägija"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:56.354502098Z",
+  "model": "glm-5.3"
+}

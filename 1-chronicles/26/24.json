@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Kopeel lisatud; heebrea on nimeline lause ilma öeldiseta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ülem",
+      "rationale": "נגיד on 'eesseisja, vürst, juht' — kohandatud varahoidja tähenduses"
+    }
+  ],
+  "translation": "Ja Šebuel, Geršomi poeg, Moše poeg, ⟨oli⟩ ülem varanduste üle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/26\/21-24.1792557543586.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "Ja Šebuel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Geršomi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ülem"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "varanduste"
+    }
+  ],
+  "timestamp": "2026-10-21T04:39:03.588486612Z",
+  "model": "glm-5.3"
+}

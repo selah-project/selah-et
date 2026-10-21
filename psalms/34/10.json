@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the saints",
+      "rationale": "Pöördumine otse kõnelejapoole: kartke, tema pühad."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel vajab olema-verbi, heebrea puuduselis lause seda ei ütle."
+    }
+  ],
+  "translation": "Kartke ⟨את⟩ Jahvet, tema pühad, sest tema kartjatel ei ole puudust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/34\/9-12.1792552594506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Kartke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "tema pühad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "puudust"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "tema kartjatel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:34.507427159Z",
+  "model": "glm-5.3"
+}

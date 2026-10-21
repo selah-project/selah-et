@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נארתה",
+      "rationale": "lemma נאר esineb Tanahhis vaid kaks korda (siin ja Hb 1:12), haruldane 'tühistanud' verbi vorm"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maani",
+      "rationale": "לארץ sõnasõnaliselt 'maale\/põrmuks' — piltlikult 'maani, maha tallatud'"
+    }
+  ],
+  "translation": "Oled tühistanud oma teenri lepingu, oled tema krooni maha tallanud maani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/37-40.1792553608045.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "oled tühistanud"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "lepingu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "oma teenri"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "oled maha tallanud"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "maani"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "tema krooni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:28.047022351Z",
+  "model": "glm-5.3"
+}

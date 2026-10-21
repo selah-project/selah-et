@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Eesti keeles nõuab kõrvulause pöördemärk, mida heebrea kaudne lause ei kanna"
+    }
+  ],
+  "translation": "Ja kui kogu Jabees-Gilead kuulis ⟨את⟩ kõike, mida pelistlased olid Saulile teinud,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5e78696b2de13590eccb5d60b5a5ffcbed96bc6aad63f1c2ab9f0ca4c13162c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/10\/10-11.1792558705218.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ja nad kuulsid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jabees"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "olid teinud"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelistlased"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulile"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:25.226616927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "meid",
+      "rationale": "Eesti keel vajab objekti, heebrea laseb suffiksi kontekstis kõnelda"
+    },
+    {
+      "kind": "idiom",
+      "subject": "את פני יהוה",
+      "rationale": "sõna-sõnalt 'Jahve palge', mitte lihtsalt 'Jahve ees'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחתים \/ לשחתה",
+      "rationale": "juure שחת kordus: hävitajad on saadetud hävitama"
+    }
+  ],
+  "translation": "sest me hävitame ⟨את⟩ selle koha, sest nende kisendus on kasvanud suureks Jahve palge ees, ja Jahve on ⟨meid⟩ saatnud selle hävitama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "99189e1901fc68848fd525dfc9b1b98a0af3340c7b9c2f076acf22da63323fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/19\/13-16.1792537606712.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "hävitame"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "selle koha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "koha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "on kasvanud suureks"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "nende kisendus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve palge"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "on saatnud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "selle hävitama"
+    }
+  ],
+  "timestamp": "2026-10-20T23:06:46.713278615Z",
+  "model": "glm-5.3"
+}

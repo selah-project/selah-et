@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "läbid vett \/ käid tule keskel",
+      "rationale": "Exoduse läbimine vee ja tule läbi — ajalooline kujund, mitte üldine hüperbool"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "korduv 'sest\/kui' seob vee- ja tulepoole parallelismiks"
+    }
+  ],
+  "translation": "Sest kui sa läbid vett, ⟨את⟩ mina olen sinuga, ja jõgedes — need ei ujuta sind üle; kui sa käid tule keskel, ei põle sa, ja leek ei sütti sinus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/43\/1-4.1792547530732.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest kui"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "sa läbid"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sinuga",
+      "marks": "mina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "ja jõgedes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ujuta sind üle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sa käid"
+    },
+    {
+      "surface": "במו",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "põle sa"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "ja leek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sütti"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinus"
+    }
+  ],
+  "timestamp": "2026-10-21T01:52:10.733408212Z",
+  "model": "glm-5.3"
+}

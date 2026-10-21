@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Toora",
+      "rationale": "תורת יהוה jääb 'Jahve Tooraks', mitte 'Jahve seaduseks' (D2)"
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keel nõuab kopeeli, heebrea puudub"
+    }
+  ],
+  "translation": "Ja sündis, kui Rehabeami kuningriik ⟨oli⟩ kinnitatud ja kui ta ⟨oli⟩ tugevaks saanud, hülgas ta ⟨את⟩ Jahve Toora, ja kogu Jisrael ⟨oli⟩ temaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/12\/1-4.1792557864679.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "kui kinnitatud"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kuningriik"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeami"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "ja kui ta tugevaks saanud"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "hülgas ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Toora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "temaga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:44:24.681217325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נוקש",
+      "rationale": "נוקש tähendab 'noosiga püüdma'; eesti 'lõksu langema'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Higgajon",
+      "rationale": "Muusikamärge, tõlkimata jäänud nimekringis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נודע\/נוקש",
+      "rationale": "Alustavad n-tähega passiivivormid loovad kõlapäri, eesti keeles osaliselt kadunud"
+    }
+  ],
+  "translation": "Tuntuks on tehtud Jahve, kohuse on ta teinud; oma käte töös on pahuksel lõksu langenud. Higgajon. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/17-20.1792552296668.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Tuntuks on tehtud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohuse"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "on teinud"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "töös"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "oma käte"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "on lõksu langenud"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pahuksel"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:36.669176756Z",
+  "model": "glm-5.3"
+}

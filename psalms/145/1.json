@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Eloah",
+      "rationale": "אלוהי ainsus 'Eloah' hoitakse kõla järgi, mitte ei asendata sõnaga 'Jumal'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lõputu aeg",
+      "rationale": "לעולם ועד korduv_topelt väljend 'igavesti ja alatiseks'"
+    }
+  ],
+  "translation": "Kiitus. Davidi. Sind ülistan, mu Eloah, kuningas, ja õnnistan sinu nime igavesti ja alatiseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/145\/1-4.1792554403537.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Kiitus"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Sind ülistan"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "mu Eloah"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ja õnnistan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sinu nime"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ja alatiseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:43.538222495Z",
+  "model": "glm-5.3"
+}

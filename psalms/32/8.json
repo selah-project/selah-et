@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Kopeer puudub heebreas: 'ma annan nõu — sinu peal mu silm'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליך עיני",
+      "rationale": "'Mu silm sinu peal' (jälgiv pilk) vs 'mu silmaga juhin sind' (KJV-traditsioon); heebrea sõnajärg toetab esimest."
+    },
+    {
+      "kind": "you",
+      "subject": "psalmistile",
+      "rationale": "Jumala lubadus otsepsalmistile — kõne täiendab salmi 7 pöördumist."
+    }
+  ],
+  "translation": "Ma targutan sind ja juhitan sind teel, mida sa käid; ma annan nõu, mu silm ⟨on⟩ sinu peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/32\/5-8.1792552695912.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "targutan sind"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ja juhitan sind"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teel"
+    },
+    {
+      "surface": "זו",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "käid"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "annan nõu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu peal"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:15.914799069Z",
+  "model": "glm-5.3"
+}

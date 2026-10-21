@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Koppel lisatud; heebrea on nominaalilause 'Elohimi-lähedus — minule hea'."
+    },
+    {
+      "kind": "crux",
+      "subject": "קרבת אלהים",
+      "rationale": "'Elohimi lähedus minule on hea' vs 'mul on hea Elohimile läheneda' — niminalause vs infinitiiv-lugemine."
+    }
+  ],
+  "translation": "Aga minu jaoks ⟨on⟩ hea Elohimi-lähedus: ma olen pannud Adonai Jahve oma varjupaigaks, et jutustada kõiki su tegusid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/25-28.1792553339254.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "aga minu jaoks"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "lähedus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minu jaoks"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ma olen pannud"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "oma varjupaigaks"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "et jutustada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "su tegusid"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:59.255260234Z",
+  "model": "glm-5.3"
+}

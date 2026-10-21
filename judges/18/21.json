@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rasked varad",
+      "rationale": "הכבודה 'raske, kaalukas asi' — mitte 'käru' (KJV) ega lihtsalt 'varandus'; sõna vorm kannab kaalu-kujundi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הטף",
+      "rationale": "'väiksed \/ lapsed \/ pere' — kollektiivne pere-mõiste, siin otseselt pere lapsed ja kariloomad marssi ees"
+    }
+  ],
+  "translation": "Ja nad pöörasid ringi ja läksid; ja nad panid ⟨את⟩ väiksed ja ⟨את⟩ kariloomad ja ⟨את⟩ rasked varad enda ette.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6942a3e40b0169bc8eba13b2db582dd1f0670b2f9d4de45f9197d133864502e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/18\/21-24.1792542203218.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ja nad pöörasid ringi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ja läksid"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ja nad panid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "väiksed"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "väiksed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kariloomad"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "kariloomad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "rasked varad"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "rasked varad"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "enda ette"
+    }
+  ],
+  "timestamp": "2026-10-21T00:23:23.219475350Z",
+  "model": "glm-5.3"
+}

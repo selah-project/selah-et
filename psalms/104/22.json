@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "urg",
+      "rationale": "מעונות on 'elupaik, koopa-urg', lõvide puhul uru pilt"
+    },
+    {
+      "kind": "addition",
+      "subject": "need",
+      "rationale": "Kokkuvõtv sufiks -ון verbis יאספון eesti keeles asesõnaga"
+    }
+  ],
+  "translation": "Päikesel tõustes need kogunevad kokku ja lasevad end oma urgu maha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/21-24.1792553786389.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "tõustes"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikesel"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "need kogunevad kokku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "oma urgu"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "lasevad end maha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:26.390195096Z",
+  "model": "glm-5.3"
+}

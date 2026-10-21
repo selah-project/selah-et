@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea nimilauses puudub koppula; eesti keel lisab 'oli'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "elav olend",
+      "rationale": "נפש חיה on 'elav nefeš' — hingamine elusolend, mitte 'hing' lahus kehast."
+    },
+    {
+      "kind": "measurement",
+      "subject": "nimede andmine",
+      "rationale": "Salm on nimepanemise akt: iga loom saab oma nime, loend ja nimistu."
+    }
+  ],
+  "translation": "Ja Jahve Elohim moodustas pinnasest kõik välja loomad ja ⟨את⟩ kõik taeva linnud, ja tõi need inimese ette, et näha, mida ta neile kutsub; ja kõik, millele inimene pani elava olendi nime, see ⟨oli⟩ tema nimi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8e098bf6a68977770fea49f4cd8de16615b82b877d1143135adeee6cd7be4a65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/2\/17-20.1792537347036.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "ja moodustas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pinnasest"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "pinnas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "חית",
+      "gloss": "loomad"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "välja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kõik taeva linnud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "linnud"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja tõi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ette"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "et näha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ta kutsub"
+    },
+    {
+      "surface": "לו",
+      "gloss": "neile"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "millele"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "paneb nime"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "olendi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "elava"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "tema nimi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:02:27.037718298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחר",
+      "rationale": "Ahher eraldi isikunimena (KJV) vs 'teise (naise) pojad' (JPS, Viinamäe põhjal) — tekst on nimekiri, kus mõlemad võimalikud."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ puudub",
+      "rationale": "Eesti keeles kopeeritav sidesõna jäeti nimekirja tiheduse tõttu lisemata; heebrea kopeerat ka puudub."
+    },
+    {
+      "kind": "measurement",
+      "subject": "suguvõsa nimekiri",
+      "rationale": "Põlvest puust ja punasest nimede loend — sugupuu loendamine."
+    }
+  ],
+  "translation": "Ja Šuppim ja Huppim, Ir'i pojad; Hušim, Ahheri pojad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "586fe4b60d037fbb873f8b02a5fb2d90d70b3adb6716800d816fc0fbee049603",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/7\/12-12.1792558698380.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ja Šuppim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ja Huppim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir'i"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Hušim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ahheri"
+    }
+  ],
+  "timestamp": "2026-10-21T04:58:18.381819379Z",
+  "model": "glm-5.3"
+}

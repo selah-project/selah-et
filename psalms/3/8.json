@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Tõusa, Jahve",
+      "rationale": "Imperatiivne appihüüd Jahvele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחי\/שני",
+      "rationale": "põsu löömine ja hammaste purustamine on paralleelvärss, kehast karistuspilt"
+    }
+  ],
+  "translation": "Tõusa, Jahve, päästa mind, mu Elohim, sest sina lööd ⟨את⟩ kõik mu vaenlased põsele, kurjade hambad sina purustad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/3\/5-8.1792552146968.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tõusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "päästa mind"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "sina lööd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik mu vaenlased"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mu vaenlased"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "põsele"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hambad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kurjade"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sina purustad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:06.969545570Z",
+  "model": "glm-5.3"
+}

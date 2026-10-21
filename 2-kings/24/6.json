@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "heitis magama oma isadega",
+      "rationale": "עם אבתיו loeng: 'suri ja maeti oma isade juurde', otsetõlge 'magama isadega'"
+    },
+    {
+      "kind": "addition",
+      "subject": "koos",
+      "rationale": "eesti võrdlev kääne nõuab 'koos', heebrea עם kannab seda"
+    }
+  ],
+  "translation": "Ja Jehojakim heitis magama oma isadega, ja tema poja Jehojakini asemel sai kuningaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/24\/5-8.1792546543925.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ja heitis magama"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oma isadega"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ja sai kuningaks"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tema poeg"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "tema asemel"
+    }
+  ],
+  "timestamp": "2026-10-21T01:35:43.926014872Z",
+  "model": "glm-5.3"
+}

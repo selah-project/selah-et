@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "'Sinu troon, Elohim' (vulgaarne kõnetlus) või 'Elohimi (antud) troon' või 'Elohim on sinu troon'; JPS möödab selle: 'troon, mille Elohim on andnud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨kestab⟩",
+      "rationale": "heebreas puudub verbi; eesti keel nõuab öeldist 'sinu troon kestab'"
+    }
+  ],
+  "translation": "Sinu troon, Elohim, ⟨kestab⟩ igavesest igaveseni; õigluse kepp on sinu kuningriigi kepp.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/5-8.1792552870877.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "sinu troon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igavesest"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "igaveseni"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kepp"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "õigluse"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kepp"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sinu kuningriigi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:10.880261738Z",
+  "model": "glm-5.3"
+}

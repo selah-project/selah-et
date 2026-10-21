@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõtlus",
+      "rationale": "הגיון on pomisev, mumisev kõlamine — sisekõne, mitte formaalne 'meditatsioon'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kalju",
+      "rationale": "צור on järsu kaljupaljand, mitte üldine 'kivi' ega 'jõud'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "otsene pöördumine Nime poole: mu kalju ja mu lunastaja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמרי פי \/ הגיון לבי",
+      "rationale": "suu sõnad ja süda pomisev — väline ja sisene kõne üheparalleelselt paralleelselt"
+    }
+  ],
+  "translation": "Olgu meeldivaks su suu sõnad ja süda möirgev sinu ees, Jahve, mu kalju ja mu lunastaja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab223a6635e9dbb49aa4a0363b93f0cc301ce685932b0143bda6c6fac7b8865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/19\/13-15.1792552360246.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "meeldivaks"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sõnad"
+    },
+    {
+      "surface": "פי",
+      "gloss": "su suu"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ja möirgev"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "süda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sinu ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mu kalju"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ja mu lunastaja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:40.249010819Z",
+  "model": "glm-5.3"
+}

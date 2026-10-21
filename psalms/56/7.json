@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingeline",
+      "rationale": "נפש on kurgu\/hinge\/elujõud, mitte maineta hing"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Nad panevad end varjuma",
+      "rationale": "יגורו võib tähendada ka 'asuvad võõrana (kogunevad)' nagu varitsuseks laagrisse"
+    }
+  ],
+  "translation": "Nad hiilivad kokku, nad jäävad varju, nad varitsevad mu kannujälgi, nagu nad ootavad püüdja mu hingelist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/5-8.1792553015500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "hiilivad kokku"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "jäävad varju"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mu kannujälgi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "varitsevad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ootavad"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hingelist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:35.502260906Z",
+  "model": "glm-5.3"
+}

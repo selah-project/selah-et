@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "jaoskond",
+      "rationale": "בית on ka 'maja' — 'kuri ei lahku tema majast'; tõlkisin perekonna tähenduses"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעה … רעה",
+      "rationale": "sama sõna kordub salmi raamis: kes saadab kurja, saab kurja"
+    }
+  ],
+  "translation": "Kes tagasi annab kurja hea eest, ei lahku kuri tema jaoskonnast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/17\/13-16.1792554768432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "kes tagasi annab"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hea eest"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "hea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "lahku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kuri"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "tema jaoskonnast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:52:48.433421588Z",
+  "model": "glm-5.3"
+}

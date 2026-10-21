@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alandab",
+      "rationale": "מנבל juurest נבל 'halvaks käima, rumal olema'; tõlkijad: 'rivileb', 'alandab'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mehe vaenlased on ta koja mehed",
+      "rationale": "Sõnasõnaline 'mehe vaenlased on ta koja mehed'; 'oma koja' selgitab kuuluvust"
+    }
+  ],
+  "translation": "Sest poeg alandab isa, tütar tõuseb ema vastu, minia ämma vastu; mehe vaenlased on tema oma koja mehed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/7\/5-8.1792551605523.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "alandab"
+    },
+    {
+      "surface": "אב",
+      "gloss": "isa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "tõuseb"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ema vastu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "minia"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "ämma vastu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "vaenlased"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tema oma maja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:00:05.524868412Z",
+  "model": "glm-5.3"
+}

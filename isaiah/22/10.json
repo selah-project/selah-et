@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "loendasite majad",
+      "rationale": "ספרתם — majade üleloomulik loendus kaitse ettevalmistuseks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kindlustada",
+      "rationale": "לבצר tähendab otseselt 'kindluseks teha \/ müüriga ümbritseda', mitte lihtsalt 'tugevdada'."
+    }
+  ],
+  "translation": "Ja ⟨את⟩ Jerušalaimi majad te loendasite, ja maju rebisite maha, et kindlustada müüri.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0497aa7360279e328a0ffbd6456be3e5c86b5b3ef598f1374ce437ea4a47363c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/22\/10-11.1792558361638.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerušalaimi majad"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "majad"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "te loendasite"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "ja rebisite maha"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "maju"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "et kindlustada"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "müüri"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:41.639119924Z",
+  "model": "glm-5.3"
+}

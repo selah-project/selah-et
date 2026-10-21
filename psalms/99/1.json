@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeel; מלך on inktiivne 'tõusis troonile', mitte olek"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישב כרובים",
+      "rationale": "'istub keerubite (peal)' vs 'kerubide vahel' — tekst ei ütle 'peal' ega 'vahel', ainult 'istub keerubid'"
+    },
+    {
+      "kind": "you",
+      "subject": "rahvad \/ maa",
+      "rationale": "Jussiivne kutsung rahvastele ja maale"
+    }
+  ],
+  "translation": "Jahve ⟨on⟩ valitsema hakanud — rahvad vabisevad; ⟨ta, kes⟩ istub keerubite ⟨kohal⟩, maa väriseb.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/99\/1-4.1792553707727.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨on⟩ valitsema hakanud"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "vabisevad"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istub"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keerubite"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "väriseb"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:07.728468263Z",
+  "model": "glm-5.3"
+}

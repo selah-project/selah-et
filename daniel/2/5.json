@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 2:5",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ · ⟨lahkunud⟩",
+      "rationale": "Aramaic nominal clause 'sõna minult kindlalt' vajab eesti keeles kopeeld ja tegusõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "אזדא",
+      "rationale": "JPS: 'sõna on minu juures kindel' (kuninga kindlus) vs KJV: 'sõna on minult läinud' (kuning on unenäo unustanud)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הדמין",
+      "rationale": "'tükkideks rebitu' — same juur esineb Tanahhis vaid siin ja Jr 38:28 lähedastes kohtades"
+    },
+    {
+      "kind": "you",
+      "subject": "kaldealastele",
+      "rationale": "Kuningas pöördub otse kaldealaste poole ähvardusega"
+    }
+  ],
+  "translation": "Vastas kuningas ja ütles kaldealastele: Sõna ⟨on⟩ minult kindlalt ⟨lahkunud⟩; kui te ei tee mulle teatavaks ⟨את⟩ unenägu ja selle seletust, siis te muudetakse tükkideks ja teie majad pannakse sodimäeks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f20e130a4467a6cf9592437df0b42b74f867c1be3ab4cb81160cfee1acebdb4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/2\/5-8.1792556329858.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Vastas"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לכשדיא",
+      "gloss": "kaldealastele"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minult"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "kindlalt"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "תהודעונני",
+      "gloss": "te tee mulle teatavaks"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "unenägu"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "ja selle seletuse"
+    },
+    {
+      "surface": "הדמין",
+      "gloss": "tükkideks"
+    },
+    {
+      "surface": "תתעבדון",
+      "gloss": "te muudetakse"
+    },
+    {
+      "surface": "ובתיכון",
+      "gloss": "ja teie majad"
+    },
+    {
+      "surface": "נולי",
+      "gloss": "sodimäeks"
+    },
+    {
+      "surface": "יתשמון",
+      "gloss": "pannakse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:18:49.859111294Z",
+  "model": "glm-5.3"
+}

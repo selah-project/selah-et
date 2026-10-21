@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר יסרני",
+      "rationale": "sama verbi kordus (infinitiv + perfekt) — intensiiv: 'karistas mind karistusega'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kasvatas",
+      "rationale": "יסר hõlmab nii karistamist kui õpetamist; 'kasvatas' peab kokku mõlemaga"
+    }
+  ],
+  "translation": "Jahh kasvatas mind võimsasti, aga surmale ⟨ta⟩ mind ei andnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/17-20.1792553971677.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "kasvatas võimsasti"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "mind"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahh"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "aga surmale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "mind andnud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:31.678308387Z",
+  "model": "glm-5.3"
+}

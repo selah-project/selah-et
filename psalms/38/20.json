@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "alusetult",
+      "rationale": "שקר tähendab sõna-sõnalt 'vale'; 'need, kes mind vihkavad valges' — tõlkes tavaliselt 'alusetult vihkajad' (kjv 'wrongfully')"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "gloss": "on tugevad",
+      "rationale": "eesti keel vajab kopeerat, heebreas puudub"
+    }
+  ],
+  "translation": "Aga mu vaenlased elavad ja on tugevad, ja need, kes mind vihkavad ⟨alusetult⟩, on paljunenud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/38\/17-20.1792552746520.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Aga mu vaenlased"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elavad"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "on tugevad"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ja on paljunenud"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "need, kes mind vihkavad"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "alusetult"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:06.521604436Z",
+  "model": "glm-5.3"
+}

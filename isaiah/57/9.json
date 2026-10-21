@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "end",
+      "rationale": "Heebrea ותשפילי on tegusõna, kõrvale lisatud refleksiivipronoom eesti selguseks"
+    },
+    {
+      "kind": "crux",
+      "subject": "kuningas",
+      "rationale": "למלך: 'kuninga juurde' (kunagine kuningas, võib-olla Assuuria) vs BSB 'Mooleki juurde'; tekst ütleb lihtsalt 'kuningas'"
+    },
+    {
+      "kind": "crux",
+      "subject": "sõnumitoojad",
+      "rationale": "ציר: tähendab nii 'saadikut\/sõnumitoojat' kui 'valu, sünnitusevätke'; enamik tõlkeid valib 'saadikud'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול jääb heebrea kõlaga sõnaks šeol, mitte 'põrgu' ega 'surmariik'"
+    }
+  ],
+  "translation": "Ja sa rändasid kuninga juurde õliga ja paljundasid oma salve ning saatsid oma sõnumitoojad kaugele ja alandasid ⟨end⟩ šeolini.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/57\/9-12.1792547762843.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "ja sa rändasid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuninga juurde"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "õliga"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "ja paljundasid"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "oma salve"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "ja saatsid"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "oma sõnumitoojad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kaugele"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "ja alandasid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolini"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:02.844627042Z",
+  "model": "glm-5.3"
+}

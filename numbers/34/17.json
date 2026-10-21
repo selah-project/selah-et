@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "preester Elazar",
+      "rationale": "Eesti kasutab omastavat liitu, heebrea konstruktiivijärjekord on 'Elazar preester'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Need on nimed",
+      "rationale": "Ametlik nimekiri maa pärandamise eest vastutavatest meestest"
+    }
+  ],
+  "translation": "Need on nimed nendest meestest, kes pärivad teile ⟨את⟩ maa: preester Elazar ja Jehoošua, Nuni poeg.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e78331b8a888dc92960d970a9658d5e8bcae6be97d46aef5013f82f47a6a14ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/34\/17-20.1792540491481.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Need"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nimed"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "nendest meestest"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "pärivad"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ja Jehoošua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nuni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:54:51.481847985Z",
+  "model": "glm-5.3"
+}

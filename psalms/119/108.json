@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ohvrid⟩",
+      "rationale": "נדבות tähendab 'vabatahtlikkus \/ vabatahtlik kingitus'; 'ohvrid' lisatud tähenduse selguseks"
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve",
+      "rationale": "Käskiv palve koos נא pehmendusosakesega: 'võta vastu, palun'"
+    }
+  ],
+  "translation": "Minu suu vabatahtlikud ⟨ohvrid⟩ võta vastu, palun, Jahve, ja oma ⟨otsuseid⟩ õpeta mulle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/105-108.1792554010918.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "vabatahtlikud ⟨ohvrid⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "minu suu"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "võta vastu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "oma ⟨otsuseid⟩"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "õpeta mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:10.918998881Z",
+  "model": "glm-5.3"
+}

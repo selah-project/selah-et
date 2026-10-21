@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "panid aluse",
+      "rationale": "יסדת tähendab 'pajasid, panid aluse'; üks verbi kuju laiendatud eesti sõnadega"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "maa\/taevad",
+      "rationale": "Kiasm: maa rajamine — taevate kätetöö, peegeldatud järjekord"
+    }
+  ],
+  "translation": "Muistsel ajal panid sa maa aluse, ja taevad on su käte töö.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/25-28.1792553713450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "muistsel ajal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "panid sa aluse"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ja töö"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "su käte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevad"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.451068534Z",
+  "model": "glm-5.3"
+}

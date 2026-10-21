@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 14:39",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות ימות",
+      "rationale": "Infinitivus absolutus + sama verb: 'surema peab surema' — kordamine rõhutamiseks, eesti keeles 'kindlasti surema'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "Vandeformel 'kui küll' — tingimuslik või järeleandmatu: 'isegi kui see on Jonatan' vs 'kui see on Jonatan'"
+    }
+  ],
+  "translation": "Sest nii tõesti kui elab Jahve, kes päästab ⟨את⟩ Jisraeli: kui see on minu poja Jonatanis, siis ta peab kindlasti surema. Aga mitte keegi kogu rahva seast ei vastanud talle.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "04f74b327bb112abd6bfe82b0b2a80183f22db432c416ab665017e63e4c70fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/37-40.1792543983602.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המושיע",
+      "gloss": "kes päästab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "see on"
+    },
+    {
+      "surface": "ביונתן",
+      "gloss": "Jonatanis"
+    },
+    {
+      "surface": "בני",
+      "gloss": "minu pojale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siis"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surema"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "peab kindlasti surema"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "aga mitte keegi"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "vastanud talle"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva seast"
+    }
+  ],
+  "timestamp": "2026-10-21T00:53:03.605899466Z",
+  "model": "glm-5.3"
+}

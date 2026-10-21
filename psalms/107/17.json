@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "narrid",
+      "rationale": "אויל on 'narr\/kergemeelne', mitte 'rumal' intellekti mõttes"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea koolaufont puudub öeldise kui kõrvalekalle"
+    }
+  ],
+  "translation": "Narrid oma ülestusu tee tõttu ja oma pahede tõttu ⟨on⟩ piinatud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/17-20.1792553886674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "narrid"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tee"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "oma ülestusu"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "ja oma pahede tõttu"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "piinatud ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:06.674673854Z",
+  "model": "glm-5.3"
+}

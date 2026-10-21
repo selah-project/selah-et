@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oma",
+      "rationale": "Eesti keel nõuab omastavat asesõna, heebrea seda ei ütle"
+    },
+    {
+      "kind": "you",
+      "subject": "kõneleja",
+      "rationale": "Psalm räägib minavormis otseselt, kuulajaks jääb Jahve"
+    }
+  ],
+  "translation": "Elohimis kiidan tema sõna, Elohimis olen ma pannud oma lootuse; ma ei karda — mida liha mulle teeb?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/5-8.1792553015500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimis"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "kiidan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tema sõna"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimis"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "olen ma pannud oma lootuse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "karda ma"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mulle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:35.501112341Z",
+  "model": "glm-5.3"
+}

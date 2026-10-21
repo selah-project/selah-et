@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועצר במלין",
+      "rationale": "Kes keelduda rääkimast (KJV\/jps) vs kes suudab sõnu tagasi hoida, sundimatult vaikida (ylt) — heebrea äärmiselt lühike."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨keegi⟩",
+      "rationale": "Heebrea subjektita küselauses lisatud umbisikuline subjekt eesti keele jaoks."
+    },
+    {
+      "kind": "you",
+      "subject": "Iiobile",
+      "rationale": "Elifas pöördub otse Iiobi poole."
+    }
+  ],
+  "translation": "Kas ⟨keegi⟩ pannes sõna sinuga proovile teeb sinu väsinuks? Aga tagasi hoida sõnadest — kes suudab?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "36679d6eda4faac9cb3bc14fb9ac3a0f945961ebe142be20ebe7325e298cfca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/4\/1-4.1792555114951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "pannes proovile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sinuga"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "teeb väsinuks"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "tagasi hoida"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "sõnadest"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "suudab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:34.951819851Z",
+  "model": "glm-5.3"
+}

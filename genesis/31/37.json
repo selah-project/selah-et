@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 31:37",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kompasid läbi",
+      "rationale": "מששת tähendab sõnelist kompamist (pimedas katsuda), 'läbi otsima' on roll, mitte sõna kuju."
+    },
+    {
+      "kind": "crux",
+      "subject": "בין שנינו",
+      "rationale": "KJV 'betwixt us both' vs lihtsalt 'meie kahe vahel'; heebrea ütleb 'meie-kahe vahel' ilma 'mõlema' rõhuta."
+    }
+  ],
+  "translation": "Sest sa kompasid läbi ⟨את⟩ kõik mu nõud — mida sa leidsid kõigist oma maja nõudest? Pane see siia mu vendade ja oma vendade ette, ja nad otsustagu mehe kahe vahel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89cbf779b6fa314303680a5dcbcc667100bd052c7cb490bf29eb43c456eea18f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/37-40.1792537838156.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מששת",
+      "gloss": "kompasid läbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik mu nõud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mu nõud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mida"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "sa leidsid"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kõigist"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nõudest"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "oma maja"
+    },
+    {
+      "surface": "שים",
+      "gloss": "pane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "siia"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ette"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mu vendade"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ja oma vendade"
+    },
+    {
+      "surface": "ויוכיחו",
+      "gloss": "ja nad otsustagu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "mehe kahe"
+    }
+  ],
+  "timestamp": "2026-10-20T23:10:38.156587247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hävitatud lisa ⟨edaspidi⟩",
+      "rationale": "Eemaldasin tekstis puuduva lisa; ואקוה שמך tähendab 'ootan sinu nime' — truuks jäänuks: 'ja ma ootan sinu nime', ilma lisata."
+    },
+    {
+      "kind": "addition",
+      "subject": "seda",
+      "rationale": "Heebrea עשית on absoluutne 'sa tegid'; tõlkes 'oled seda teinud' viitabalm 52:7 tabamusele — võiks olla lihtsalt 'sa oled teinud'."
+    }
+  ],
+  "translation": "Ma tänan sind igavesti, sest sa oled seda teinud, ja ma ootan sinu nime ⟨edaspidi⟩, sest see on hea sinu pühade ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/52\/9-11.1792552939253.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ma tänan sind"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sa oled teinud"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ja ma ootan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sinu nime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sinu pühade"
+    }
+  ],
+  "timestamp": "2026-10-21T03:22:19.254203426Z",
+  "model": "glm-5.3"
+}

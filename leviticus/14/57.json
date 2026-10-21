@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "להורת",
+      "rationale": "juur ירה 'suunama, õpetama', mitte 'voolama nagu vesi', nagu lemmas vihjatakse"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsara'at",
+      "rationale": "הצרעת ei ole pelgalt 'pidalitõbi'; kõlakujuline tsara'at hoiab haiguse laiema tähenduse"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti keel nõuab kopeela, heebrea puudub"
+    }
+  ],
+  "translation": "õpetamiseks päeval, mil ⟨on⟩ rüvetatud, ja päeval, mil ⟨on⟩ puhastatud — see ⟨on⟩ tsara'ati Toora.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef6770ee25d78d1dd8ca9b2bae76dd0ea41f523b2618571d8169b5e6182dd7ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/14\/57-57.1792539301095.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "õpetamiseks"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval, mil"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "rüvetatud"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ja päeval, mil"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "puhastatud"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toora"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsara'ati"
+    }
+  ],
+  "timestamp": "2026-10-20T23:35:01.096797716Z",
+  "model": "glm-5.3"
+}

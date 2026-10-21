@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 3:1",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tõusis varahommikul",
+      "rationale": "וישכם tähendab sõna-sõnalt 'varsti varakorda' — koidikul teele asumist"
+    },
+    {
+      "kind": "addition",
+      "subject": "tema ja kõik",
+      "rationale": "Heebrea rõhutav asesõna הוא nõuab eesti keeles eraldamist"
+    }
+  ],
+  "translation": "Ja Joošua tõusis varahommikul, ja nad läksid teele Šittimist, ning jõudsid Jardenini, tema ja kõik Jisraeli pojad, ja nad ööbisid seal enne, kui nad üle läksid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b58ff96aa4d4e28db315986a8a884fa5805b72cda19685af79732fedef72288a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/3\/1-4.1792541372404.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "tõusis varahommikul"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Joošua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "hommikul"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "läksid teele"
+    },
+    {
+      "surface": "מהשטים",
+      "gloss": "Šittimist"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "jõudsid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jardenini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "וילנו",
+      "gloss": "ja nad ööbisid"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ennen"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "kui nad üle läksid"
+    }
+  ],
+  "timestamp": "2026-10-21T00:09:32.405423052Z",
+  "model": "glm-5.3"
+}

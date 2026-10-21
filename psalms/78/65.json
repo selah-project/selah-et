@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתרונן מיין",
+      "rationale": "'hõiskab veinist' vs 'vinna tulev \/ veinist taastuv' (JPS); ruumilist רנן on hõiskulaul, mitte põrgatamine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "unerohkes",
+      "rationale": "כישן tähendab sõna-sõnalt 'nagu magaja\/unine'; pilt öeldakse välja unenägu läbi"
+    }
+  ],
+  "translation": "Ja Adonai ärkas kui unerohkes, nagu vägev mees, kes hõiskab veinist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/65-68.1792553453817.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "Ja ärkas"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "kui unerohkes"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "nagu vägev mees"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "kes hõiskab"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "veinist"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:53.817533050Z",
+  "model": "glm-5.3"
+}

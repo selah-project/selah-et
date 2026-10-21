@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab olemasolu-verbi 'יש' jaoks, mis on partikkel, mitte tegusõna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זאת \/ עול",
+      "rationale": "Kaarjas kordus: kaks 'kui' kõrvuti — vannumise vormel, kus keegi tõestab oma süütust."
+    }
+  ],
+  "translation": "Jahve, mu Elohim, kui ma olen seda teinud, kui mu peopesal ⟨on⟩ vääradus,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/1-4.1792552300674.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ma olen teinud"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "seda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "vääradus"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "mu peopesal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:40.676141826Z",
+  "model": "glm-5.3"
+}

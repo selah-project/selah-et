@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koorijuhile",
+      "rationale": "lamnatseah on oletatavasti tempelimuusika ülemale viitav pealkirjasõna; 'koorijuht' on kokkuleppeline"
+    }
+  ],
+  "translation": "Koorijuhile, Korahi poegadele, psalm.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/47\/1-4.1792552853332.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "koorijuhile"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "poegadele"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:53.333567791Z",
+  "model": "glm-5.3"
+}

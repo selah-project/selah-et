@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Embuv sõna lisatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "כעס",
+      "rationale": "'Pahameel\/kurbus' vs 'vexation' — heebrea sõna tähendab nii viha kui kurbust; KJV 'sorrow', JPS 'vexation'"
+    }
+  ],
+  "translation": "Parem ⟨on⟩ pahameel kui naer, sest kurvasta näost saab süda heaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/7\/1-4.1792556080537.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "parem"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "pahameel"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kui naer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "kurvasta"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "näost"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "saab heaks"
+    },
+    {
+      "surface": "לב",
+      "gloss": "süda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:40.538661233Z",
+  "model": "glm-5.3"
+}

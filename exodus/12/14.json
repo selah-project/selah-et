@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav näitab otsesõna 'seda'; eestis on asesõna juba morfoloogiliselt olemas, marker jääb vaid ⟨את⟩-märkijaks."
+    },
+    {
+      "kind": "measurement",
+      "subject": "aeg",
+      "rationale": "Päev määratletakse mälestuspäevana põlvest põlve igavese määrusega — kalendri loomine."
+    }
+  ],
+  "translation": "Ja see päev olgu teile mälestuseks, ja pidage seda püha Jahvele, oma põlvedele igaveseks määruseks; pidage seda püha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d771f4f7cfc17c459b829d496b6ef16c26dc32bd0110da486313f39fedd425be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/12\/13-16.1792538510849.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ja olgu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "see päev"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "see"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "mälestuseks"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "ja pidage püha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sed"
+    },
+    {
+      "surface": "חג",
+      "gloss": "püha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "oma põlvedele"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "määruseks"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "pidage seda püha"
+    }
+  ],
+  "timestamp": "2026-10-20T23:21:50.850249462Z",
+  "model": "glm-5.3"
+}

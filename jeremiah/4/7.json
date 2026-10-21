@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 4:7",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאין יושב",
+      "rationale": "Otsetõlge 'ilma elanikuta \/ kellel pole elanikku'; eestis pakutakse 'elaniketa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשום ... לשמה",
+      "rationale": "Infinitiiv 'panna' (לשום) ja 'varemeteks' (לשמה) kõlavad peaaegu ühtemoodi — 'panna varemeteks', eesti keeles kaja kadunud."
+    },
+    {
+      "kind": "you",
+      "subject": "to Juuda",
+      "rationale": "Järgneb otsene pöördumine 'su maa, su linnad'."
+    }
+  ],
+  "translation": "Tõusis lõvi oma põõsastikust ja rahvaste hävitaja läks teele, väljus oma kohast, panna su maa varemeiks, su linnad saavad rüüstatuks, elaniketa.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81aed24731d4894fc44fb37367a53dea883b4d6850084fea59edc64b00e07e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/4\/6-7.1792558413965.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Tõusis"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lõvi"
+    },
+    {
+      "surface": "מסבכו",
+      "gloss": "oma põõsastikust"
+    },
+    {
+      "surface": "ומשחית",
+      "gloss": "ja hävitaja"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvaste"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "läks teele"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "väljus"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "oma kohast"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "panna"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "su maa"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "varemeiks"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "su linnad"
+    },
+    {
+      "surface": "תצינה",
+      "gloss": "saavad rüüstatuks"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "elaniketa"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:33.966606202Z",
+  "model": "glm-5.3"
+}

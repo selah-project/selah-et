@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "et mitte kedagi sisse lasta",
+      "rationale": "Heebrea מבוא ütleb vaid 'pääsust\/sisenemisest'; kogu eitus on tõlkija täiendus."
+    },
+    {
+      "kind": "crux",
+      "subject": "תהו",
+      "rationale": "Sama sõna nagu 1Ms 1:2 'tühjus ja korratus' — KJV 'confusion', JPS 'wasteness'."
+    }
+  ],
+  "translation": "Purustatud on tühisuse linn, suletud on iga maja, ⟨et mitte kedagi⟩ sisse lasta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/24\/9-12.1792546975731.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "purustatud on"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "linn"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tühisuse"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "suletud on"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sissepääsu eest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:42:55.731807335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כזאת וכזזאת",
+      "rationale": "'Nii ja nii' — heebrea kordusvalem kaudseks jutustuseks, edasi antud sõna-sõnalt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "isand",
+      "rationale": "אדני viitab siin inimesele (Naamani isandale, Süüria kuningale), mitte Jumalale, seisab 'isand' mitte 'Adonai'"
+    }
+  ],
+  "translation": "Ja ta läks sisse ja teatas oma isandale, öeldes: Nõnda ja nõnda rääkis neiu, kes on Jisraeli maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ce6764aac682eeda85a5edc8bfbcba23646c8b1c8b1d51b4546507e4c02daf68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/5\/4-4.1792558342642.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ja ta läks sisse"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja teatas"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "oma isandale"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Nõnda"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "ja nõnda"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "neiu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:22.643836092Z",
+  "model": "glm-5.3"
+}

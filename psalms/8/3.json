@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "väe",
+      "rationale": "MT reads עֹז 'strength'; LXX reads 'praise' (αἶνος), quoted in Matthew 21:16."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוללים וינקים",
+      "rationale": "Paired near-synonyms of infants, 'toddlers and sucklings' — rhythmic doubling lost in Estonian."
+    }
+  ],
+  "translation": "Väikelaste ja rinnalaste suust oled sa rajanud väe oma vastaste pärast, et vaigistada vaenlase ja kättemaksja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/8\/1-4.1792552321668.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "suust"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "väikelaste"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ja rinnalaste"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "oled sa rajanud"
+    },
+    {
+      "surface": "עז",
+      "gloss": "väe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "oma vastaste"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "et vaigistada"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vaenlase"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ja kättemaksja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:01.670147240Z",
+  "model": "glm-5.3"
+}

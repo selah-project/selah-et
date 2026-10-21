@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel; eesti keeles vajalik"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile kaudselt",
+      "rationale": "Põhimõtteline ütlus rahvale, kelle Jumal on Jahve — kogudusele suunatud õnnistussõna"
+    }
+  ],
+  "translation": "Õnnis ⟨on⟩ rahvas, kelle Elohim ⟨on⟩ Jahve, rahvas, kelle tema valis endale pärandiks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/33\/9-12.1792552585796.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "valis"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "pärandiks"
+    },
+    {
+      "surface": "לו",
+      "gloss": "endale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:25.797533822Z",
+  "model": "glm-5.3"
+}

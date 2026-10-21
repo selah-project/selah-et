@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koprulatsioon"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "Tähesõnalt ' ka ' — 'kui palju enam' kandvaks ütluseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול jääb nimena; 'põrgu' oleks karistuse tähenduse lisamine"
+    },
+    {
+      "kind": "mystery",
+      "subject": "südamed",
+      "rationale": "Salm vihjab varjatu paljastamisele: kui sügavaim on lahti Jahve ees, siis südamed veel enam"
+    }
+  ],
+  "translation": "Šeol ja Abaddon ⟨on⟩ Jahve ees — kui palju enam inimlaste südamed!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd3c3a8bf756aa82b3c35333be230c4b9ddceabda97912e5bb3cf5ccea08943b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/9-12.1792554706929.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "ja Abaddon"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kui palju enam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "veel"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "südamed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "-laste"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:46.930333439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "roojasus",
+      "rationale": "טמאה on kultuslik ebapuhtus, mitte lihtsalt 'moraalne rikkumine'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואסתר פני",
+      "rationale": "Kordub salmis 23 — varjatatud palge kordus seob õnnetuse põhjuse järeldusega."
+    }
+  ],
+  "translation": "Nende roojasuse ja nende ülestõusmiste järgi tegin ma nendega ⟨את nad⟩, ja ma varjatasin oma palge nende eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fe3bf555dcc733e178bc331397fbc4ecf6b31f8bbe3bbb837ae6cfddbfe48bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/39\/21-24.1792550631026.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "nende roojasuse järgi"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ja nende ülestõusmiste järgi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "tegin ma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את nad⟩",
+      "marks": "nendega"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ja ma varjatasin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oma palge"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "nende eest"
+    }
+  ],
+  "timestamp": "2026-10-21T02:43:51.027553447Z",
+  "model": "glm-5.3"
+}

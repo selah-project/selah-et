@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on \/ nad on",
+      "rationale": "Koppel ja asesõna lisatud, heebrea laseb partitsiibil üksi seista"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחדו",
+      "rationale": "'üheskoos' kõlab kokku nime יְהוָה-ga — kuulmine kaob eesti keeles"
+    }
+  ],
+  "translation": "Jahve kartus ⟨on⟩ puhasta, püsib igavesti; Jahve kohtumõistud ⟨on⟩ tõsi, nad on tsedek üheskoos.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/19\/9-12.1792552374341.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "kartus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "puhasta"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "püsib"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kohtumõistud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tõsi"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "üheskoos"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:54.342345051Z",
+  "model": "glm-5.3"
+}

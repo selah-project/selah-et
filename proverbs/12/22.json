@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Eesti omastav nõuab omaniku, heebrea רצונו kannab seda juba sufiksis."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ustavus",
+      "rationale": "אמונה on sõnalt 'kindlus, vankumatus' — siin tegutsev ustavus, mitte abstraktne 'usaldus'."
+    }
+  ],
+  "translation": "Jahve on vastikud valetavad huuled, aga need, kes teevad ustavust, on ⟨tema⟩ meele järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1a6647e4f6a0c7bd81ec8d4985205b95d09fbf9d90533ecf5d6aa8ece51a3cf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/12\/21-24.1792554615896.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "vastik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huuled"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valetavad"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "agha need, kes teevad"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ustavust"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "tema meele järgi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:15.898192605Z",
+  "model": "glm-5.3"
+}

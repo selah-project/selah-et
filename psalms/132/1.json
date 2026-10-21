@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jaoks⟩",
+      "rationale": "לדוד eessõna 'Davidi jaoks' nõuab eesti keeles esiletõstmist"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Psalm pöördub otse Jahve poolest palvega 'mäleta'"
+    }
+  ],
+  "translation": "Laul üleminekutest. Mäleta, Jahve, Davidi ⟨jaoks⟩ ⟨את⟩ kõiki tema vaevu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/132\/1-4.1792554239894.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "laul"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "üleminekutest"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "mäleta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi ⟨jaoks⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõiki tema vaevu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõiki"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "tema vaevu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:59.895363497Z",
+  "model": "glm-5.3"
+}

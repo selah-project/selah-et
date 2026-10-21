@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיקים jääb heebrea kõlaks sõna terviklikkuse huvides (õigete asemel)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "book of the living",
+      "rationale": "raamatusse kirjutamine ja kustutamine — nimede loendamine"
+    }
+  ],
+  "translation": "Püstkustutagu nad elavate raamatust ja koos tsedekiga ärgu nad kirjutatagu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/29-32.1792553226760.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "püstkustutagu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "raamatust"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elavate"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsedekiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "kirjutatagu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:27:06.760596128Z",
+  "model": "glm-5.3"
+}

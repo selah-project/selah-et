@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 37:23",
+  "book": "job",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יענה",
+      "rationale": "'ei rõhu\/ei vasta': KJV\/JPS 'ei rõhu', YLT 'ta ei vasta' — verbil ענה mõlemad võimalikud"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta on",
+      "rationale": "Kopeel lisatud; heebrea fraas שגיא כח on öeldiseta"
+    }
+  ],
+  "translation": "Šaddaid ei leia me üles — ⟨ta on⟩ väge täis — ja kohtus ning rohkes tsedekas ei rõhu ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "81d9625d85a0db5579533b0c0301a5775d9dd41ad51b038d83e146813a492fd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/37\/21-24.1792555691755.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "מצאנהו",
+      "gloss": "leia me teda"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "כח",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja kohtus"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ning rohkes"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedekas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "rõhu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:11.756435170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "vandujale",
+      "rationale": "Juhised Neljanda Moosese raamatu vande kohta pöörduvad otseselt kuulajale."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדר…תדר \/ לשלמו…שלם",
+      "rationale": "Vande tegemise ja täitmise sõnad korduvad teadlikult — נדר ja שלם mõlemad kaks korda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meelt",
+      "rationale": "חפץ on 'heaks kiitmine, soov, meele' — 'meelt ei ole' katab 'tema ei leia meelt' pöörde."
+    }
+  ],
+  "translation": "Kui teed lubaduse Elohimile, ära viivita seda täitmast, sest rumalates ei ole meelt; ⟨את⟩ mida oled lubanud, täida.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/5\/1-4.1792556104692.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "teed lubaduse"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lubaduse"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "viivita"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "seda täitmast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "meelt"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "rumalates"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mida oled lubanud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "oled lubanud"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "täida"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:04.693885957Z",
+  "model": "glm-5.3"
+}

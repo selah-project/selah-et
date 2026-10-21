@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "käib sirgelt",
+      "rationale": "יתהלך במישרים tähendab sõna-sõnalt 'käib sirges\/ühtlaselt' — kääritatud vein liigub karikas iseenesest; KJV 'moveth itself aright', ASV 'goeth down smoothly'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "punetab",
+      "rationale": "יתאדם juur אדם — 'näitab verd' ehk muutub punaseks; eesti 'punetab' kaotab vereseose"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oma värvi",
+      "rationale": "עינו on sõna-sõnalt 'silm' — vein 'annab karikas oma silma' ehk särava pilgu; hägune piir 'silm\/värivägi'"
+    }
+  ],
+  "translation": "Ära vaata veinile, kui see punetab, kui see annab karikas oma värvi, kui see käib ⟨ladusalt⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6773cbfce01579cb692429928fda17a025bbdc4d3da091d2af094e4ef39b914c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/23\/30-31.1792558675622.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "יין",
+      "gloss": "veinile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "punetab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "karikas"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "oma värvi"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "käib"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "⟨ladusalt⟩"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:55.627444150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 63:9",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא צר",
+      "rationale": "KJV 'tema oli ahastuses' vs YLT 'tema ei olnud vaenlane' — kaks täpselt vastupidist tõlget samale konsonandtekstile."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli ta⟩",
+      "rationale": "Heebrea puudub koppel; lause on nimeline."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרתם \/ צר",
+      "rationale": "Sama juur kordub: 'nende kitsikus \/ kitsas (vaenlane)' — sõnamäng, mis eesti keeles osaliselt säilib."
+    }
+  ],
+  "translation": "Kõigis nende ahastustes ⟨oli ta⟩ mitte-ahastaja, ja tema palge ingel päästis nad; oma armastuses ja oma halastuses lunastas tema nad; ja ta tõstis nad üles ja kandis neid kõik muistsed päevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/63\/9-12.1792547882304.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kõigis"
+    },
+    {
+      "surface": "צרתם",
+      "gloss": "nende ahastustes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ahastaja"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ja ... ingel"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tema palge"
+    },
+    {
+      "surface": "הושיעם",
+      "gloss": "päästis nad"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "oma armastuses"
+    },
+    {
+      "surface": "ובחמלתו",
+      "gloss": "ja oma halastuses"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "lunastas nad"
+    },
+    {
+      "surface": "וינטלם",
+      "gloss": "ja tõstis nad üles"
+    },
+    {
+      "surface": "וינשאם",
+      "gloss": "ja kandis neid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "päevad"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "muistsed"
+    }
+  ],
+  "timestamp": "2026-10-21T01:58:02.305908516Z",
+  "model": "glm-5.3"
+}

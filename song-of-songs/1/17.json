@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koopula; eesti keel nõuab selle"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רחיט",
+      "rationale": "Sõna rahit 'lauapalk, paneel' esineb Tanahhis äärmiselt harva; tähendus rekonstrueeritud vastavalt juurele 'tõugast meenutav'"
+    }
+  ],
+  "translation": "Meie koja palgid ⟨on⟩ seedrid, meie laudpalk ⟨on⟩ küpressid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b962f4b176a2c7c42b5c55bb0b73850add73fa6675c2ab6983b1cb36e1713a16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/1\/17-17.1792555737683.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "palgid"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "meie koja"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seedrid"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "meie laudpalk"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "küpressid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:08:57.684016537Z",
+  "model": "glm-5.3"
+}

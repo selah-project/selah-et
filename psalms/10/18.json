@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maainimene",
+      "rationale": "אנוש מן הארץ sõnasõnalt 'surlik maalt' — surev inimene, kes maa päralt on; 'maainimene' elab kujundi alles"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיווסיף ... לערץ",
+      "rationale": "Kes enam ei karda\/ahista: KJV lugeb rõhuja teemana ('may no more oppress'), ASV\/JPS kardetu teemana ('may be terrible no more')"
+    }
+  ],
+  "translation": "Kohut mõistma heightenedud ja rõhutu üle, et maainimene ei jätkaks enam hirmu nahutama maalt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/17-18.1792552253608.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "kohut mõistma"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "heightenedud"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ja rõhutu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "et ... ei"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "jätkaks"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "hirmu nahutama"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "inimest"
+    },
+    {
+      "surface": "מן",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:10:53.609025912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub koppel; eesti keel vajab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pealikud",
+      "rationale": "אלופי on 'pealikud\/hõimuülemad', mitte 'hertsogid' (KJV) ega 'sõbrad'"
+    }
+  ],
+  "translation": "ja Dišon ja Etser ja Dišan; need olid horiidi pealikud, Seiri pojad, Edomi maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "adc7b1adb15d27fa2bab279e2ca86a2146f94ceab12a72d383a8173a585ad331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/36\/21-24.1792537903546.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "ja Dišon"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "ja Etser"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ja Dišan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "pealikud"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "horiidi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seiri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:43.547486316Z",
+  "model": "glm-5.3"
+}

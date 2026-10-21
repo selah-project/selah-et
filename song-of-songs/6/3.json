@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨omaks⟩",
+      "rationale": "Heebrea leidev eessõna ל nõuab eesti keeles omastavat täiendit."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני לדודי ודודי לי",
+      "rationale": "Peeglikiasm — sama sõnade järjekord mõlemas suunas; eesti keeles taastatud sümmeetriana."
+    }
+  ],
+  "translation": "Mina olen mu armastatu ⟨omaks⟩ ja mu armastatu on minu ⟨omaks⟩ — see, kes karjatab liiliumite seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/6\/1-4.1792555834060.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "mu armastatu ⟨omaks⟩"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "ja mu armastatu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "on minu ⟨omaks⟩"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "see, kes karjatab"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "liiliumite seas"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:34.060961337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keel nõuab kopeelat, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבהו...גבהו",
+      "rationale": "Sama verbi kordus peegeldab taevaste ja teede võrdlust"
+    }
+  ],
+  "translation": "Sest nii kõrgel kui ⟨on⟩ taevad maast, nõnda kõrgel ⟨on⟩ minu teed teie teedest ja minu mõtted teie mõtetest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/55\/9-12.1792547786840.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kõrgel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevad"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kõrgel"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "minu teed"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "teie teedest"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ja minu mõtted"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "teie mõtetest"
+    }
+  ],
+  "timestamp": "2026-10-21T01:56:26.841717994Z",
+  "model": "glm-5.3"
+}

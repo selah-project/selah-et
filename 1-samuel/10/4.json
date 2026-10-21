@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tervitavad",
+      "rationale": "Heebrea ütleb sõna-sõnalt 'küsivad sinult shalomi kohta' — 'tervitama' on eesti idiomiks teisendatud seisundiküsimus."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaks leiba",
+      "rationale": "Arv jääb täpne: kaks, nagu heebrea tekstis."
+    }
+  ],
+  "translation": "Ja nad tervitavad sind ja annavad sulle kaks leiba, ja sa võtad nende käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "664bb81c04a5a4d4a0f452db9b626464bf5577547fb7e52cabd91925e8063c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/10\/1-4.1792543908321.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ja nad küsivad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinult"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tervituseks"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ja annavad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ja sa võtad"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nende käest"
+    }
+  ],
+  "timestamp": "2026-10-21T00:51:48.328781158Z",
+  "model": "glm-5.3"
+}

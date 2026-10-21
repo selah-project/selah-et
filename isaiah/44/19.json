@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 44:19",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on tal",
+      "rationale": "heebrea nimetatud puudub olemisverbi; eesti keel nõuab 'ei ole tal teadmist'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אסגוד",
+      "rationale": "küsimus või kindel kõne: 'kas ma kummardan?' (KJV küsiv) vs 'ma heitun pikali' (YLT indikatiivne)"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "",
+      "rationale": "eespond 'אל לבו' sulandub eesti täiendkäände 'oma südamesse'"
+    }
+  ],
+  "translation": "Ja ta ei pööra seda oma südamesse, ega ole tal teadmist ega taipu, et öelda: Poole sellest põletasin tule sees, ja küpsetasin veel selle sütel leiba, röstisin liha ja sõin; ja selle jäägist teen ma jäleduse, puidutüki ees ma kummardan?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/44\/17-20.1792547564303.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "pööra"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "לבו",
+      "gloss": "oma südamesse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "teadmist"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "taipu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "et öelda"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "poole sellest"
+    },
+    {
+      "surface": "שרפתי",
+      "gloss": "põletasin"
+    },
+    {
+      "surface": "במו",
+      "gloss": "sees"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja veel"
+    },
+    {
+      "surface": "אפיתי",
+      "gloss": "küpsetasin"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "גחליו",
+      "gloss": "selle sütel"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "röstisin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "liha"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ja sõin"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "ja selle jääk"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "jäleduseks"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "teen ma"
+    },
+    {
+      "surface": "לבול",
+      "gloss": "puidutüki"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "puust"
+    },
+    {
+      "surface": "אסגוד",
+      "gloss": "ma kummardan"
+    }
+  ],
+  "timestamp": "2026-10-21T01:52:44.304128967Z",
+  "model": "glm-5.3"
+}

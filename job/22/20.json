@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קימנו",
+      "rationale": "KJV loeb 'meie alus\/omand ei ole hävitatud'; ASV\/JPS loevad הקמינו 'meie vastu tõusjad' — järgitud teist, sest אם לא kinnitavas tähenduses toob hävingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם לא",
+      "rationale": "Kinnitav 'kindlasti!' heebrea väitevormel — küsimuse ja kinnituse kahesus"
+    }
+  ],
+  "translation": "Küllap on ära hävitatud need, kes meie vastu tõusid, ja nende jäägi on tule ära söönud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/22\/17-20.1792555438973.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kullap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "küllap"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "on ära hävitatud"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "need, kes meie vastu tõusid"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "ja nende jäägi"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "on ära söönud"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tule"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:58.974778038Z",
+  "model": "glm-5.3"
+}

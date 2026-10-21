@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלצלי שמע \/ תרועה",
+      "rationale": "Kaks kildude paari: 'kõlava kuma' vs 'hüüdmise (rõõmu-)kisa' kildudel — erinevad tõlked: tõmblevad\/hõiskevad kildud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצלצלי",
+      "rationale": "Ts-ts-l kordus (tsiltsel) imiteerib kildude kõminat, eesti keeles osalt kadunud"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kiitke teda",
+      "rationale": "Korduv käsk-kutse koguduslikule kõlarühmale"
+    }
+  ],
+  "translation": "Kiitke teda kõlavate kellukesedega, kiitke teda kellukeste hüüdega!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/150\/5-6.1792554430407.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "kiitke teda"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "kõlavate kellukestega"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kõlavate"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "kiitke teda"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "kellukeste hüüdega"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "hüüdega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:10.407979474Z",
+  "model": "glm-5.3"
+}

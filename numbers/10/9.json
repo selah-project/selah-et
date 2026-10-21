@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 10:9",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "häiresignaal",
+      "rationale": "והרעע tähendab sõna-sõnalt 'kõrvu lõhkuma' — valju sarveheli; tõlgitud 'häiresignaali puhkma'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הצר \/ הצרר",
+      "rationale": "samas konsonantjuure kordus 'kitsas vaenlane, kes kitsasse seab' — eesti keeles osaliselt kadunud"
+    },
+    {
+      "kind": "addition",
+      "subject": "käest",
+      "rationale": "מ eessõna 'pärit\/kaudult' tõlgitud vabamalt 'käest'"
+    }
+  ],
+  "translation": "Ja kui te lähte sõda oma maal ähvardava vaenlase vastu, kes teid kitsasse ahastab, puhuge sarvedel häiresignaali, ja teid tuletatakse meelde Jahve, teie Elohim'i ees, ja te päästete oma vaenlaste käest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9152fec1d34acf5463d5e34546881be49ed75b311e9cd7ba45889f20dbfabae1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/10\/9-12.1792539902287.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "te lähte"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sõda"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "oma maal"
+    },
+    {
+      "surface": "על",
+      "gloss": "vastu"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "ähvardava vaenlase"
+    },
+    {
+      "surface": "הצרר",
+      "gloss": "kes ahastab"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "הצרר"
+    },
+    {
+      "surface": "והרעתם",
+      "gloss": "puhute häiresignaali"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "sarvedel"
+    },
+    {
+      "surface": "ונזכרתם",
+      "gloss": "ja teid tuletatakse meelde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    },
+    {
+      "surface": "ונושעתם",
+      "gloss": "ja te päästete"
+    },
+    {
+      "surface": "מאיביכם",
+      "gloss": "oma vaenlaste käest"
+    }
+  ],
+  "timestamp": "2026-10-20T23:45:02.288341937Z",
+  "model": "glm-5.3"
+}

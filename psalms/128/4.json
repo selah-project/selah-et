@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי כן",
+      "rationale": "Kahe kinnitava sõna kõrvutus ('jahtumata nõnda-nõnda') annab heebrea rõhutuse, eesti keeles üks 'nõnda'."
+    },
+    {
+      "kind": "you",
+      "subject": "kogudus",
+      "rationale": "Kogu psalm on pööratud 'sina'-vormis õnnistuskuulutus Jahu kartvale."
+    }
+  ],
+  "translation": "Vaata, nõnda saab õnnistatud mees, kes Jahvet kardab.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/128\/1-4.1792554239598.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "saab õnnistatud"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mees"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kardab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:59.600019770Z",
+  "model": "glm-5.3"
+}

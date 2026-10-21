@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨selle⟩",
+      "rationale": "eesti keel vajab lause lõpus objekti asesõna, heebrea kannab selle verbi lõpus -נו"
+    }
+  ],
+  "translation": "Ja ma vihkasin, mina, ⟨את⟩ kogu oma vaeva, millega mina näen vaeva päikese all, et ma pean jätma ⟨selle⟩ inimesele, kes saab olema pärast mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/2\/17-20.1792556030102.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Ja ma vihkasin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kogu oma vaeva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "oma vaeva"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "mida mina"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "näen vaeva"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "all"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "päikese"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "et ma pean jätma selle"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "inimesele"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "kes saab olema"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pärast mind"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:50.103563670Z",
+  "model": "glm-5.3"
+}

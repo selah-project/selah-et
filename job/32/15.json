@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Koopula, mida heebrea ei väljenda."
+    },
+    {
+      "kind": "crux",
+      "subject": "העתיקו מהם מלים",
+      "rationale": "Kes eemaldas sõnad: 'nad ise vaikisid sõnad ära' (aktiiv) või 'sõnad lahkusid neist' (metonüümia)."
+    }
+  ],
+  "translation": "Nad löid häbistusse, nad ei vasta enam; sõnad ⟨on⟩ neilt ära läinud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "63590c2346f64a465b88e631266c6be14919feb59bb413133f67a56388e27aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/32\/13-16.1792555590255.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "löid häbistusse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "nad vasta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "läksid ära"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "neilt"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "sõnad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:30.256536941Z",
+  "model": "glm-5.3"
+}

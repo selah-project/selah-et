@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מֻרְדָּף",
+      "rationale": "passiiv 'taga aetud' (KJV 'is persecuted') vs väidetav 'ajas taga' (YLt, BSB) — kes keda jälitab"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בִּלְתִּי סָרָה",
+      "rationale": "otsetõlge 'löök, mis ei pöördu ära' = lakkamatu löök"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בְּלִי חָשָׂךְ",
+      "rationale": "täielik hukkamine 'ilma keegi, kes tagasi hoiaks' — parallel eelmise 'בִּלְתִּי' negatsiooniga"
+    }
+  ],
+  "translation": "kes lõi rahvaid raevus, löögina, mis ei raagu, kes tallas paganrahvaid vihas, ajas taga ilma pidurdamata.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/14\/5-8.1792546883603.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מַכֶּה",
+      "gloss": "kes lõi"
+    },
+    {
+      "surface": "עַמִּים",
+      "gloss": "rahvaid"
+    },
+    {
+      "surface": "בְּעֶבְרָה",
+      "gloss": "raevus"
+    },
+    {
+      "surface": "מַכַּת",
+      "gloss": "löögina"
+    },
+    {
+      "surface": "בִּלְתִּי",
+      "gloss": "mis ei"
+    },
+    {
+      "surface": "סָרָה",
+      "gloss": "raagu"
+    },
+    {
+      "surface": "רֹדֶה",
+      "gloss": "kes tallas"
+    },
+    {
+      "surface": "בָאַף",
+      "gloss": "vihas"
+    },
+    {
+      "surface": "גּוֹיִם",
+      "gloss": "paganrahvaid"
+    },
+    {
+      "surface": "מֻרְדָּף",
+      "gloss": "ajas taga"
+    },
+    {
+      "surface": "בְּלִי",
+      "gloss": "ilma"
+    },
+    {
+      "surface": "חָשָׂךְ",
+      "gloss": "pidurdamata"
+    }
+  ],
+  "timestamp": "2026-10-21T01:41:23.604603494Z",
+  "model": "glm-5.3"
+}

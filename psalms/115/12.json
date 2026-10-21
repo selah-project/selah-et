@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יברך ×3",
+      "rationale": "Kolmekordne 'ta õnnistab' kordusrefrään annab salmile löögi."
+    },
+    {
+      "kind": "crux",
+      "subject": "זכרנו",
+      "rationale": "'On meid meelde tuletanud' (täius olevik) vs 'mäletab meid' (kestev olevik); heebrea זכרנו on vokaalilt täius."
+    }
+  ],
+  "translation": "Jahve on meid meelde tuletanud, ta õnnistab: ta õnnistab ⟨את⟩ Jisraeli sugu, ta õnnistab ⟨את⟩ Aharoni sugu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/115\/9-12.1792553955604.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "on meid meelde tuletanud"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ta õnnistab"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ta õnnistab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraeli sugu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sugu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ta õnnistab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni sugu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sugu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:15.605612213Z",
+  "model": "glm-5.3"
+}

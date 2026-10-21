@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨need⟩",
+      "rationale": "Eesti keel nõuab objekti eest asesõna, mida heebrea ei kasuta"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפאר",
+      "rationale": "Eelistatud on jussiiv 'kaunistagu'; kontekst lubab ka kindla mineviku 'kaunistanud on ta'"
+    }
+  ],
+  "translation": "Sest Jahve on rahul oma rahvaga, kaunistanud on ta ⟨need⟩ alandlikud päästega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/149\/1-4.1792554417949.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "on rahul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "oma rahvaga"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "kaunistanud on ta"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "alandlikud"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "päästega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:57.950604578Z",
+  "model": "glm-5.3"
+}

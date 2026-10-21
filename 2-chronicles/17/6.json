@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "süda oli kõrgendatud",
+      "rationale": "ויגבה לבו tähendab tavalis uhkust, siin positiivselt 'kõrgendatud' — jääb sõna kuju, mitte 'rõõmustas' (bsb)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ašeerad",
+      "rationale": "האשרים on Ašera kultuslikud sammas- ja puukujud; 'hiied' (kjv groves) on vildi, 'ašeerad' hoiab nime"
+    }
+  ],
+  "translation": "Ja tema süda oli kõrgendatud Jahve teedel, ja veel eemaldas ta ⟨את⟩ kõrgkohad ja ⟨את⟩ ašeerad Juudast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a52d366876a78ef456d9b44a2639baa113a846f33faa3122ead21bab2ad393b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/17\/5-8.1792557889701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "ja oli kõrgendatud"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "tema süda"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "teedel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ja veel"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "eemaldas ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõrgkohad"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "kõrgkohad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ašeerad"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašeerad"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Juudast"
+    }
+  ],
+  "timestamp": "2026-10-21T04:44:49.703347051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨jaoks⟩",
+      "rationale": "eesti keel vajab kaassõna, heebrea konstruktilis ei väljenda seda sõna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kogunemise maja",
+      "rationale": "בית מועד sõna-sõnalt 'kokkulepitud aja\/kohtumise maja' — surma kohtumise maja"
+    }
+  ],
+  "translation": "Sest ma tean: sa viid mind surma, kogunemise majja, kõigi elavate ⟨jaoks⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/30\/21-24.1792555509899.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tean"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "sa viid mind"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kogunemise"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "elavate"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:09.900543933Z",
+  "model": "glm-5.3"
+}

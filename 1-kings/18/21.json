@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 18:21",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פסחים על שתי הסעפים",
+      "rationale": "'lonkate kahe haru vahel' vs 'hüppate kaeltelt' (YLТ) — פסח tähendab hüplemist\/lonkamist, סעיף on oksaharu või poolenisti meelt; eesti 'lonkate kahe haru vahel' hoiab pildi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on jumal⟩",
+      "rationale": "Teine אם-lause on heebreas pealtkuulamata (eliptiline); eesti keeles lisatud predikaat sulgudes."
+    },
+    {
+      "kind": "you",
+      "subject": "rahvale",
+      "rationale": "Elija pöördub otse Iisraeli rahva poole küsimusega — kõneakti otsene pöördumine."
+    },
+    {
+      "kind": "invitation",
+      "subject": "lõpetamatu küsimus",
+      "rationale": "'Kaua teie lonkate...' on käskküsimus, mis kutsub kuulajat valikut tegema."
+    }
+  ],
+  "translation": "Ja Elija lähenes kogu rahva juurde ja ütles: Kaua teie lonkate kahe haru vahel? Kui Jahve on Elohim, minge tema järele, ja kui Baal ⟨on jumal⟩, minge tema järele. Ja rahvas ei vastanud talle ⟨את⟩ sõnagi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89de9cf74c8d70d13359da6100c330ee6c813adf9b19db53b96309e4dbe54d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/18\/21-24.1792545715178.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "ja lähenes"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaua"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "milleni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "פסחים",
+      "gloss": "lonkate"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kahe"
+    },
+    {
+      "surface": "הסעפים",
+      "gloss": "haru"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "minge"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tema järele"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "minge"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "tema järele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "vastanud"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "sõnagi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    }
+  ],
+  "timestamp": "2026-10-21T01:21:55.181053318Z",
+  "model": "glm-5.3"
+}

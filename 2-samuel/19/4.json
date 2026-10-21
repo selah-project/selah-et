@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hiilis",
+      "rationale": "Hitpael ויתגנב sõnasõnaline 'varastas end' — 'hiilis salaja' edastab pildi, kuid vargusmetafoor kaob."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתגנב \/ יתגנב",
+      "rationale": "Sama verb kordub võrdluses: rahvas 'varastas end' linna nagu häbenemad 'varastavad end' — kaja eesti keeles osaliselt."
+    }
+  ],
+  "translation": "Ja rahvas hiilis sel päeval linna sisse nagu rahvas hiilib, kes on häbenemas, kui nad lahingus põgenevad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7d513da72c5397a4530d00c25306ee3f44094822f52953a061f0566f1fb22797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/19\/1-4.1792544849520.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "hiilis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "päeval"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sel"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sisse minema"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "hiilib"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "häbenemas"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "põgenevad"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "lahingus"
+    }
+  ],
+  "timestamp": "2026-10-21T01:07:29.522872464Z",
+  "model": "glm-5.3"
+}

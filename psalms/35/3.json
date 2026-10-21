@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefeš on pigem kõri\/elujõud, mitte eraldiseisev 'hing'; eestis 'mu hing' kui eluvägi."
+    },
+    {
+      "kind": "crux",
+      "subject": "וסגר",
+      "rationale": "'sulge\/loo kinni' — KJV 'stop the way against', JPS 'battle-axe' (teistsugune juur); siin 'sulge tee'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oled⟩",
+      "rationale": "Eesti kõnes järjekord nõuab kopulat; heebrea ütleb sõnajärjega 'sinu päästmine — mina'."
+    }
+  ],
+  "translation": "Ja siruta oda välja ja sulge tee minu tagaajajate ees; ütle mu hingele: Minu päästmine ⟨oled⟩ sinu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/35\/1-4.1792552666382.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "ja siruta välja"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "oda"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ja sulge"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tee ees"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "minu tagaajajate"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mu hingele"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "sinu päästmine"
+    },
+    {
+      "surface": "אני",
+      "gloss": "minu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:46.383617452Z",
+  "model": "glm-5.3"
+}

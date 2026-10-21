@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "surmavarju org",
+      "rationale": "צלמות võib olla 'süvaoru' (tsalmut \/ tsel-paar) või 'surmavari' — 'süvaorg' vs 'surmavarju org'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sina oled",
+      "rationale": "Eesti keeles nõuab koppel 'oled', heebreas on kaks sõna: אתה עמדי"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahvele",
+      "rationale": "Salm pöördub otseselt karjase — Jahve — poole"
+    }
+  ],
+  "translation": "Isegi kui ma käin surmavarju orus, ei karda ma kurja, sest sina oled minuga; sinu kepp ja sinu sau — need lohutavad mind.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/23\/1-4.1792552520879.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Isegi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ma käin"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "orus"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "surmavarju"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "karda ma"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "oled minuga"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "sinu kepp"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ja sinu sau"
+    },
+    {
+      "surface": "המה",
+      "gloss": "need"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "lohutavad mind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:20.880115991Z",
+  "model": "glm-5.3"
+}

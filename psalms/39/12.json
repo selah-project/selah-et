@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כעש",
+      "rationale": "'Nagu koi' või 'nagu koi teeb' — mõned loevad kohta tekstis kui jaatuspartiklit; hoidsin koi-pildi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tühisus",
+      "rationale": "הבל on 'õhk, hingus, kaduvus' — 'tühisus' ja 'kaduvus' on mõlemad võimalikud."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muusikaline pausimärk, jäetakse sõnana 'Sela' edasi tõlkimata."
+    }
+  ],
+  "translation": "Noomitustega karistad sa inimest süü eest ja kulutad nagu koi kõik, mis tal on armas; ainult tühisus on iga inimene. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/39\/9-12.1792552764764.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Noomitustega"
+    },
+    {
+      "surface": "על",
+      "gloss": "eest"
+    },
+    {
+      "surface": "עון",
+      "gloss": "süü"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "karistad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "inimest"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ja kulutad"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "nagu koi"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "mis tal on armas"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tühisus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:19:24.766223776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלך\/בא",
+      "rationale": "läheb\/tuleb — liikumisverbide antitees põlvede vahel, eesti keeles säilinud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "põlv",
+      "rationale": "דור on 'põlvkond'; 'põlv' hoiab lühiduse ja kõla"
+    }
+  ],
+  "translation": "Põlv läheb ja põlv tuleb, ja maa seisab igavesesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/1-4.1792556008787.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "põlv"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "läheb"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ja põlv"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ja maa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesesti"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "seisab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:28.788218413Z",
+  "model": "glm-5.3"
+}

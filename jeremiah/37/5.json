@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Parao",
+      "rationale": "פרעה on Eesti traditsioonis 'vaarao', kuid nimekõla järgi 'Parao'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויעלו",
+      "rationale": "'tõusid üles' pinnalt — eesti keeles 'tõusid ära ... pealt' jagab ühe tüve kahe sõnaga"
+    }
+  ],
+  "translation": "Ja Paradise vägi läks välja Mitsraimist, ja kaldealased, kes piirasid ümber Jerušalaimi, kuulsid ⟨את⟩ nende kuulduse, ja nad tõusid ära Jerušalaimi pealt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/37\/5-8.1792549011648.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "Ja vägi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "läks välja"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ja kuulsid"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "kaldealased"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "kes piirasid ümber"
+    },
+    {
+      "surface": "על",
+      "gloss": "ümber"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende kuulduse"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "nende kuulduse"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ja nad tõusid"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ära ... pealt"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    }
+  ],
+  "timestamp": "2026-10-21T02:16:51.648733914Z",
+  "model": "glm-5.3"
+}

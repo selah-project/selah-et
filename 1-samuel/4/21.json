@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אי כבוד \/ גלה כבוד",
+      "rationale": "Nimi I-Kaabod ('kus on au') mängib kokku sõnaga כבוד kaks korda salmis; eesti keeles jääb nime ja sõna side osaliselt nähtavale."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tal⟩ ⟨suri⟩",
+      "rationale": "Heebrea tekst ütleb vaid 'ja tema äi ja tema mees' — surm on kaudne, kontekstist lisatud."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל הלקח",
+      "rationale": "Crux: כי אל võib tähendada 'sest' või 'kuhu' ('kuhu viidi'); enamus loeb 'seest', mis viitab הלקח puudulikule lausele."
+    }
+  ],
+  "translation": "Ja ta pani poisile nime I-Kaabod, öeldes: Lahkus au Jisraelist, sest võeti Elohimi laegas ja sellepärast et ⟨tal⟩ ⟨suri⟩ tema äi ja tema mees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/4\/21-22.1792543689582.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Ja ta pani nime"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "poisile"
+    },
+    {
+      "surface": "אי",
+      "gloss": "I-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kaabod"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Lahkus"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "au"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Jisraelist"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "võeti"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "laegas"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja sellepärast et"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "tema äi"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "ja tema mees"
+    }
+  ],
+  "timestamp": "2026-10-21T00:48:09.584209853Z",
+  "model": "glm-5.3"
+}

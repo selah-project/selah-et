@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ruth 4:7",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koopula; eesti keel nõuab seda kaks korda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לקים כל דבר",
+      "rationale": "Otse 'iga asja tõstmiseks\/kehtestamiseks' — õiguslik kehtestamine, mitte füüsiline tõstmine."
+    },
+    {
+      "kind": "crux",
+      "subject": "התעודה",
+      "rationale": "'Kinnitus' vs 'tunnistus': teo õiguslik kehtivus vs tunnistaja roll."
+    }
+  ],
+  "translation": "Ja nii ⟨oli⟩ vanasti Jisraelis lunastamise ja vahetamise puhul: iga asja kinnitamiseks tõmbas mees ära oma sandaali ja andis selle oma kaaslasele; ja see ⟨oli⟩ tunnistuseks Jisraelis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/4\/5-8.1792555901873.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ja nii"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "vanasti"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "על",
+      "gloss": "puhul"
+    },
+    {
+      "surface": "הגאולה",
+      "gloss": "lunastamise"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "התמורה",
+      "gloss": "vahetamise"
+    },
+    {
+      "surface": "לקים",
+      "gloss": "kinnitamiseks"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asja"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "tõmbas ära"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "oma sandaali"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ja andis"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "oma kaaslasele"
+    },
+    {
+      "surface": "ווזאת",
+      "gloss": "ja see"
+    },
+    {
+      "surface": "התעודה",
+      "gloss": "tunnistus"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:11:41.874855053Z",
+  "model": "glm-5.3"
+}

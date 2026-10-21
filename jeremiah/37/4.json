@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teda",
+      "rationale": "אתו on siin isikuline asesõna 'teda', mitte aleph-tav'i osutimarker"
+    }
+  ],
+  "translation": "Ja Jeremija käis sisse ja välja rahva keskel, sest nad ei olnud ⟨את⟩ teda pannud vanglamajja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "90cd1fd9f263e60f20249b8fa04b94d8874537a741556ceab9eaa12ef9720f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/37\/1-4.1792549112972.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Ja Jeremija"
+    },
+    {
+      "surface": "בא",
+      "gloss": "käis sisse"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ja välja"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "keskel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "seest ei"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "olinud nad pannud"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "Jeremija (asesõna 'teda', mitte siin osuti-את)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "majja"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "vangla"
+    }
+  ],
+  "timestamp": "2026-10-21T02:18:32.973714813Z",
+  "model": "glm-5.3"
+}

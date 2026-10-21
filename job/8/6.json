@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 8:6",
+  "book": "job",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "D2: צדק jääb 'tsedek' — mitte üksi 'õigus'; säilitab juure, mida eesti 'õigus' ei kanna."
+    },
+    {
+      "kind": "crux",
+      "subject": "eluase",
+      "rationale": "נות võib tähendada nii 'eluaset, karjamaad' kui 'looduslikku saatust'; 'su tsedeki eluase' on kujund, mida tõlkijad lahtid mõtestavad."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea puudub subjekt; 'ta' viitab Elohimile\/Šaddaile kontekstist."
+    }
+  ],
+  "translation": "kui sa oled puhas ja õige — siis kohta ärgatab ta sinu heaks ja taastab su tsedeki eluaseme,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/8\/5-8.1792555192394.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "זך",
+      "gloss": "puhas"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ja õige"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "siis"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kohta"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ärgatab"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinu heaks"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ja taastab"
+    },
+    {
+      "surface": "נות",
+      "gloss": "eluase"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "su tsedek"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:52.395689527Z",
+  "model": "glm-5.3"
+}

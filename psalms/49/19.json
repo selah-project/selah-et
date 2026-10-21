@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinge",
+      "rationale": "נפש on kõri\/hingamine\/elujõud, mitte ebaminev 'hing'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨inimesed⟩",
+      "rationale": "ויודך on mitmus ilma subjektita; subjekt eesti keeles lisatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויודך",
+      "rationale": "Kelle kõne on 'ja kiidavad sind'? Kas tühja elu kiitja rahvahulk või ülemineulise pilk (Targum\/JPS loeb kui teist isikut)"
+    }
+  ],
+  "translation": "Sest oma eluajal õnnistab ta oma hinge, ja ⟨inimesed⟩ kiidavad sind, sest sa teed endale hästi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/49\/17-20.1792553020175.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oma hinge"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "oma eluajal"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "õnnistab ta"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ja kiidavad sind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "teed hästi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "endale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:40.176196669Z",
+  "model": "glm-5.3"
+}

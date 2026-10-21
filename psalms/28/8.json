@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Sidesõna puudub heebreas, verbiliit lisatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "'nende' — kas rahvale (Ps 28:9 järgi) või 'talle' (võituile); enamus tõlkeid loeb mitmus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "võituile",
+      "rationale": "משיח — 'Messias' tagasi lükatud; 'võitu' kuninga\/preestri kohta vastavalt D2"
+    }
+  ],
+  "translation": "Jahve ⟨on⟩ nende vägi, ja ta võituile kindlustus ⟨on⟩ tema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/28\/5-8.1792552554010.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "vägi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "nende"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "kindlustus"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "võituile"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ta võituile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tema"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:54.012772927Z",
+  "model": "glm-5.3"
+}

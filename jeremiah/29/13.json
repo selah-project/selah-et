@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "te otsite mind",
+      "rationale": "Jumala käivitaja-lubadus kogudusele: otsimisele järgneb leidmine."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקש\/דרש",
+      "rationale": "Kaks erinevat otsimise verbi (בקש ja דרש) ühes salmis; eesti keeles kaotub nüanss 'otsida' vs 'jalgu tallata\/pärida'."
+    }
+  ],
+  "translation": "Ja te otsite ⟨את⟩ mind ja leiate, sest te pärite mind kogu oma südamega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/13-16.1792548818726.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ja te otsite"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mind",
+      "marks": "mind"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ja leiate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "te pärite mind"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "oma südamega"
+    }
+  ],
+  "timestamp": "2026-10-21T02:13:38.727388713Z",
+  "model": "glm-5.3"
+}

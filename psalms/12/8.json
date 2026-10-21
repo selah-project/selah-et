@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "neid \/ meid",
+      "rationale": "Verbide suffiksid nõuavad eesti keeles eraldi asesõnad"
+    },
+    {
+      "kind": "crux",
+      "subject": "neid vs meid",
+      "rationale": "תשמרם on 'neid' (Jahve sõnu või vagusid), תצרנו võib olla 'meid' — JPS loeb 'hoiad neid, varjed meid'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Palvetaja pöördub otse Jahve poole"
+    }
+  ],
+  "translation": "Sina, Jahve, hoiad ⟨neid⟩, varjed ⟨meid⟩ sellest põlvest igaveseks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/12\/5-8.1792552342818.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "hoiad neid"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "varjed"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sellest"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "põlvest"
+    },
+    {
+      "surface": "זו",
+      "gloss": "selle"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igaveseks"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:22.821259944Z",
+  "model": "glm-5.3"
+}

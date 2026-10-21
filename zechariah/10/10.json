@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימצא להם",
+      "rationale": "Heebrea ütleb sõna-sõnalt 'ja ei leita neile' — kaudne objekt puudub; 'ruumi' on lisatud, nagu ka vanemates tõlgetes."
+    },
+    {
+      "kind": "measurement",
+      "subject": "place not found",
+      "rationale": "Ruumi vähesus rõhutab rahva suurt hulka tagasitulekul."
+    }
+  ],
+  "translation": "Ja ma toon nad tagasi Mitsraimi maalt ja Assurist ma kogun nad kokku, ja ma viin nad Giladi maale ja Liibanoni, ja ⟨ruumi⟩ ei leita neile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/10\/9-12.1792552011190.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "ja ma toon nad tagasi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraimi"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "ja Assurist"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ma kogun nad kokku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ma viin nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maale"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladi"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "ja Liibanoni"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "ma viin nad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "leita"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:06:51.191706552Z",
+  "model": "glm-5.3"
+}

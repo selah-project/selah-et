@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרה לו",
+      "rationale": "Sõnasõnalt 'temale põles (sisse)' = viha süttis; eestis otsene kujund jääb."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "געש",
+      "rationale": "Sama juur kordub alguses ja lõpus — kõikumine raamib salmi; eestis kaob kordus."
+    }
+  ],
+  "translation": "Siis kõikus ja värises maa, ja mägede alused vappusid ning raginesid, sest temas süttis viha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/5-8.1792552379985.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "kõikus"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ja värises"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ja alused"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägede"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "vappusid"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ja raginesid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "süttis"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:59.986822551Z",
+  "model": "glm-5.3"
+}

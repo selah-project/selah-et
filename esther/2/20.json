@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באמנה אתו",
+      "rationale": "'tema kasvatamisel tema juures' vs 'temaga üheskoos usalduses'; esile toodud kasvatamise tähendus"
+    },
+    {
+      "kind": "addition",
+      "subject": "tänini",
+      "gloss": "אין tähendab lihtsalt 'ei'; ajamarker lisatud konteksti järgi"
+    },
+    {
+      "kind": "secret",
+      "subject": "Estri päritolu",
+      "rationale": "salatud identiteet — motiiv, mis kannab edasi 2:10 käsku"
+    }
+  ],
+  "translation": "Ester ei olnud tänini teatanud oma sünnimaad ega ⟨את⟩ oma rahvast, nagu Mordehai oli talle käskinud; sest ⟨את⟩ Mordehai sõna täitis Ester, nii nagu ta oli kasvatamise all ⟨את⟩ tema juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/2\/17-20.1792556166042.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ei olnud tänini"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "teatanud"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "oma sünnimaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "oma rahvast"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "oma rahvast"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oli käskinud"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "Mordehai sõna"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordehai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "täitis"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ta oli"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "kasvatamise all"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tema juures"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:06.043345028Z",
+  "model": "glm-5.3"
+}

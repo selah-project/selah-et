@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קד",
+      "rationale": "'kold' (KJV\/JPS hearth) vs 'põlev süsi \/ tulekolle' (YLТ firebrand) — sõna tähendab süttivat kollet"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub koppel; eesti nõuab 'on' enne 'lõppenud'\/'kõrbenud'"
+    }
+  ],
+  "translation": "Sest mu päevad on nagu suits lõppenud, ja mu luud on nagu kold kõrbenud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/102\/1-4.1792553713475.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "on lõppenud"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "nagu suits"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mu päevad"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ja mu luud"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "קד",
+      "gloss": "kold"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "kõrbenud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:13.476401636Z",
+  "model": "glm-5.3"
+}

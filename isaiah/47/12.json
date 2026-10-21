@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 47:12",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תערוצי",
+      "rationale": "KJV\/JPS 'võimust võita' vs YLT\/BSB 'hirmu sisendada'; juur ערץ tähendab 'kohkuma\/kohutama', valitud terrori tähendus."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בחבריך",
+      "rationale": "Juur חבר tähendab 'ühendus\/ühing' ja ka 'nõidus' — 'nõidumiste keskel' jätab mitmuselise seltskonna-tähenduse varju."
+    },
+    {
+      "kind": "addition",
+      "subject": "kasu",
+      "rationale": "הועיל on pöördumatu 'kasu tooma' — otsene objekt puudub, eesti keeles läheb juurde ⟨kasu⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Babylonile",
+      "rationale": "Pilkuline otsene pöördumine Paabeli vastu, käsud teises pöördes (naissoost sufiks -יך)."
+    }
+  ],
+  "translation": "Seisa nüüd oma nõidumuste keskel ja oma nõiduste paljuses, millega sa oled end kurnanud noorusest peale; ehk suudad ⟨kasu⟩ tuua, ehk suudad hirmu sisendada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8bb0e2c0c95fe48b42a3b1df0723db6241c74157c353080af88f2edd018c1b61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/47\/12-12.1792558399855.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדי",
+      "gloss": "Seisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "בחבריך",
+      "gloss": "oma nõidumuste keskel"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ja … paljuses"
+    },
+    {
+      "surface": "כשפיך",
+      "gloss": "oma nõiduste"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "millega"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "oled end kurnanud"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "noorusest peale"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ehk"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "suudad"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "⟨kasu⟩ tuua"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ehk"
+    },
+    {
+      "surface": "תערוצי",
+      "gloss": "hirmu sisendada"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:19.856532394Z",
+  "model": "glm-5.3"
+}

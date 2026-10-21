@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab olema-verbi, heebrea ei ütle seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכמה\/שכם",
+      "rationale": "Paiganime kordus (Šekemisse — Šekemi) rõhutab kohanimest haaratust"
+    }
+  ],
+  "translation": "Ja Rechabam läks Šekemisse, sest Šekemi olid kogu Jisraeli ⟨on⟩ tulnud, et ⟨את⟩ teda kuningaks teha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/10\/1-4.1792557785472.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ja läks"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Šekemisse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "olid tulnud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kuningaks tegema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:43:05.474555711Z",
+  "model": "glm-5.3"
+}

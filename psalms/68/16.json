@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הר ... הר ... הר ... הר",
+      "rationale": "Neli korda korduv 'mägi' ümber 'Bašani' kaksikkõla — kajastatud eestis sõnasõnalise kordusega."
+    },
+    {
+      "kind": "hapax",
+      "subject": "גבננים",
+      "rationale": "גַּבְנֹן 'küür, mäetipp' esineb Tanahhis ainult siin; tõlgitud 'harjade' kaudu."
+    }
+  ],
+  "translation": "Elohimi mägi on Bašani mägi, harjade-mägi on Bašani mägi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/68\/13-16.1792553184313.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "mägi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mägi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašani"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mägi"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "harjade"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mägi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašani"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:24.314451556Z",
+  "model": "glm-5.3"
+}

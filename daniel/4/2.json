@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mõtted mu voodil",
+      "rationale": "Hebrew\/Aramaic 'thoughts upon my bed' — thoughts that come while lying in bed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וידחלנני \/ יבהלנני",
+      "rationale": "Two near-synonymous fear verbs in parallel, both with suffix -נני 'me', a doubled first-person refrain"
+    }
+  ],
+  "translation": "Unenägu nägin, ja see pani mind kartma, ja mõtted mu voodil ja nägemused mu peast ajasid mind hirmu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd60afccff17247915ce9450c25d1383108fcf3d652232b475ca5377265e2eb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/4\/1-4.1792556402752.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "Unenägu"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "nägin"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "ja see pani mind kartma"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "ja mõtted"
+    },
+    {
+      "surface": "על",
+      "gloss": "mu voodil"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mu voodil"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "ja nägemused"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mu peast"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "ajsid mind hirmu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:20:02.753170969Z",
+  "model": "glm-5.3"
+}

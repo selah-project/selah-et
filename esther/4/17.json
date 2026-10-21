@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעבר",
+      "rationale": "Sõna otseses tähenduses 'läks üle\/edasi'; tavatekstis 'läksi oma teed' — eesti keeles lihtsalt 'läksi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Eesti keel nõuab abiverbi 'oli', heebrea osastäv ei väljenda seda eraldi."
+    }
+  ],
+  "translation": "Ja Mordokai läksi ja tegi kõik, mida Ester teda oli käsutanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6e71a439607a10edb43fa75f54b34f901436b59a24a2304d00f5ce4c7fa47d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/4\/17-17.1792556189838.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "läksi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokai"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "tegi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "oli käsutanud"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teda"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-21T04:16:29.838466140Z",
+  "model": "glm-5.3"
+}

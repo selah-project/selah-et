@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 13:17",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on 'kõri\/elujõud', mitte immateriaalne hing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ודמע תדמע",
+      "rationale": "sama juure kordus (juure-infinitiiv + pöördevorm), 'ja nuttes ta nutab' — intensiiv kordub"
+    },
+    {
+      "kind": "you",
+      "subject": "Juudale",
+      "rationale": "Jeremija pöördub rahva poole tingimusega 'kui te seda ei kuula'"
+    }
+  ],
+  "translation": "Ja kui te seda ei kuula, peidikohtades nutab mu hing uhkuse pärast, ja nuttes ta nutab ja mu silmale langeb pisar, sest vangi viidud on Jahve kari.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "80e5b47075691074f4ecace86bc603c3b28c8848c517efaf656d5d11b92090ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/13\/17-20.1792548336715.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ja kui"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשמעוה",
+      "gloss": "kuula"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "peidikohtades"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "nutab"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "גוה",
+      "gloss": "uhkuse"
+    },
+    {
+      "surface": "ודמע",
+      "gloss": "ja nuttes"
+    },
+    {
+      "surface": "תדמע",
+      "gloss": "nutab"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ja langeb"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silmale"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "pisar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "vangi viidud"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "kari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T02:05:36.716718739Z",
+  "model": "glm-5.3"
+}

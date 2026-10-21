@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "sõna-sõnalt 'ninasõõrmed', idiom 'viha' — pilt kaob eesti keeles"
+    },
+    {
+      "kind": "crux",
+      "subject": "במשמניהם",
+      "rationale": "'nende rasvad\/rasvunud' — tõlkijad jagunevad: kirglikud\/staarimad\/kõige tugevamad"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכריע",
+      "rationale": "sõna-sõnalt 'põlvi painutama\/langetama', laiemas tähenduses 'langetama (tapma)'"
+    }
+  ],
+  "translation": "Ja Elohimi viha tõusis nende vastu, ja ta tappis nende rasvaid, ja Jisraeli noormehed langetas ta põlvili.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/29-32.1792553455932.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Ja viha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tõusis"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "nende vastu"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ja ta tappis"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "nende rasvaid"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "ja noormehed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "langetas ta põlvili"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:55.933276712Z",
+  "model": "glm-5.3"
+}

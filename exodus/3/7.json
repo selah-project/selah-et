@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראה ראיתי",
+      "rationale": "Infinitiiv-absoluut + perfekt: 'nähes olen näinud' — rõhutav kordus, eesti keeles 'kahtlemata näinud'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ma",
+      "rationale": "Rõhutav asesõna 'ma' lisatud 'tunnen' juurde selguseks"
+    }
+  ],
+  "translation": "Ja Jahve ütles: Olen kahtlemata näinud ⟨את⟩ mu rahva viletsust, kes on Mitsraimis, ja ⟨את⟩ nende karjet olen ma kuulnud nende ajajate pärast, sest ma tunnen nende valu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "12eb4d220d88825ec44d1648ef2d789940bdc971d62ccc8c4be888690469b1bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/3\/5-8.1792538266267.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kahtlemata"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "olen näinud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu rahva viletsust"
+    },
+    {
+      "surface": "עני",
+      "gloss": "viletsust"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsraimis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nende karjet"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "nende karje"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "olen kuulnud"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "nende ajajad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ma tunnen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende valu"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "nende valu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:17:46.269464584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונוע ינועו",
+      "rationale": "Infinitiivi absoluut + lõppvorm: 'hulkuma hulkugu' — täielik kordus, eesti keeles lühendatud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחרבותיהם",
+      "rationale": "Otseselt 'nende põued' \/ 'tühjaks lýödud paigad'; 'varemed' edasiannab hävinemise, kuid mitte kuivuse-pildi"
+    },
+    {
+      "kind": "elision",
+      "subject": "leib",
+      "rationale": "KJV\/lisavad 'nende leiba'; heebrea tekst seda sõna ei sisalda"
+    }
+  ],
+  "translation": "Ja hulkugu tema pojad ringi ja kerjaku nad ning otsigu nad ⟨leiba⟩ oma varemetest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/9-12.1792553866257.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ja hulkugu"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "ringi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "tema pojad"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ja kerjaku nad"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ning otsigu nad"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "oma varemetest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:46.257746813Z",
+  "model": "glm-5.3"
+}

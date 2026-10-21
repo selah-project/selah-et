@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כסום יכסמו",
+      "rationale": "infinitiiv absoluut + käänetav verb: 'lõikama nad lõikavad' — rõhutav kordus, eesti keeles 'ainult lõikavad'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ainult",
+      "rationale": "infinitiiv absoluut kannab siin piiravat rõhuasetust, eestindatud sõnaga 'ainult'"
+    }
+  ],
+  "translation": "Ja oma pead nad ei ajeräsi, ja juukseid pikaks nad ei lase kasvada; ⟨ainult⟩ lõikavad nad ⟨את⟩ oma pead.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "06c358cd774e2f9c911cb052df60b7d94f2af56b3c5dcc12f5c25485e31122aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/44\/17-20.1792550826214.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "ja oma pead"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "nad ajeräsi"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "ja juukseid pikaks"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "nad lasevad kasvada"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "ainult lõikavad"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "nad lõikavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma pead"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "oma pead"
+    }
+  ],
+  "timestamp": "2026-10-21T02:47:06.215665976Z",
+  "model": "glm-5.3"
+}

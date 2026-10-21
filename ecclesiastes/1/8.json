@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא תשבע \/ ולא תמלא",
+      "rationale": "Silm ja kõrv ei 'küllastu' ega 'täitu' — paralleelne eitus, mis peegeldab salmi 7 täitmatut merd"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא יוכל איש לדבר",
+      "rationale": "'Inimene ei suuda rääkida' — kas kõne on võimatu väsimusest või ei suuda keegi neid asju ära rääkida"
+    }
+  ],
+  "translation": "Kõik asjad on väsitavad — keegi ei jõua neid rääkida; silm ei saa nägemisest küllalt, ja kõrv ei täitu kuulmisest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/1\/5-8.1792556035506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "asjad"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "väsitavad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "jõua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "keegi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "neid rääkima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "saa küllalt"
+    },
+    {
+      "surface": "עין",
+      "gloss": "silm"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "nägemisest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "täitu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kõrv"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "kuulmisest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:55.507797768Z",
+  "model": "glm-5.3"
+}

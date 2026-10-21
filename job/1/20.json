@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "raius paljaks",
+      "rationale": "ויגז tähendab otseselt 'kärpis (nagu lammast)'; 'paljaks' täpsustab pea, mitte ei lisa uut sõna."
+    }
+  ],
+  "translation": "Siis tõusis Iiob ning rebestas ⟨את⟩ oma kuue ja raius ⟨את⟩ oma pea paljaks, ja langes maha peal maa ja kummardus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd6d8951f1538ad98551daea738b9056ecb2d7360d5930618c0ac843ec918a67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/1\/17-20.1792555079585.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "siis tõusis"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ja rebestas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma kuue"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "oma kuue"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ja raius paljaks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma pea"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "oma pea"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ja langes"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maa peale"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ja kummardus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:59.587318592Z",
+  "model": "glm-5.3"
+}

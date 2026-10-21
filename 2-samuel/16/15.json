@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on ⟨oli⟩",
+      "rationale": "Lause 'ja Ahitofel ⟨את⟩ temaga' on heebreas verbita; eesti kohustab lisama olema-verbi või jätma nagu siin."
+    }
+  ],
+  "translation": "Ja Avšalom ja kogu rahvas, Jisraeli mehed, tulid Jerušalaimi, ja Ahitofel ⟨את⟩ temaga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/16\/13-16.1792544788503.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ja Avšalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehed"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tulid"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ja Ahitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ temaga",
+      "marks": "temaga"
+    }
+  ],
+  "timestamp": "2026-10-21T01:06:28.510804176Z",
+  "model": "glm-5.3"
+}

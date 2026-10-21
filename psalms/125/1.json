@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩, ⟨ta⟩",
+      "rationale": "Heebrea puudub sidumissõna ja asesõna; eesti keel vajab neid"
+    },
+    {
+      "kind": "elision",
+      "subject": "שיר המעלות",
+      "rationale": "Pealkiri 'Laul astmetest' on osa salmi tekstist, mitte eraldi pealkiri"
+    }
+  ],
+  "translation": "Laul astmetest. Need, kes loovad varjupaika Jahves, ⟨on⟩ nagu Siioni mägi — ei libise ⟨ta⟩ välja, igavesti istub ⟨ta⟩ paigal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/125\/1-4.1792554242234.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laul"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "astmetest"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Need, kes loovad varjupaika"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "nagu mägi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siioni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "libise välja"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istub paigal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:02.235136361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaasa",
+      "rationale": "Partikkel 'kaasa' täpsustab liikumist, heebrea 'käima' seda ei ütle"
+    },
+    {
+      "kind": "you",
+      "subject": "Mooses Jumalale",
+      "rationale": "Otsene pöördumine, eitav palvekäsk"
+    }
+  ],
+  "translation": "Ja ta ütles temale: kui Su nägu ei käi ⟨kaasa⟩, ära vii meid üles siit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/33\/13-16.1792538959693.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Su nägu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "käi ⟨kaasa⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "vii meid üles"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "siit"
+    }
+  ],
+  "timestamp": "2026-10-20T23:29:19.694681995Z",
+  "model": "glm-5.3"
+}

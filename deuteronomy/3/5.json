@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebreal puudub kopeel; eesti keel nõuab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "riiv",
+      "rationale": "בריח on uksepulk\/riiv, puidust sulg väreval"
+    }
+  ],
+  "translation": "Kõik need olid linnad kindlustatud kõrge müüriga, väravatega ja riividega, peale väljaspool asuvate avatud külade linnu, väga palju.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7fdecd3e31d39c3a581d97a4227d29da53af390a76e2be05ab0fb479a279ce31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/3\/5-8.1792540559570.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "linnad"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "kindlustatud"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "müüriga"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "kõrge"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "väravatega"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ja riividega"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "peale"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "linnu"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "avatud külade"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "väga palju"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "väga"
+    }
+  ],
+  "timestamp": "2026-10-20T23:55:59.570782756Z",
+  "model": "glm-5.3"
+}

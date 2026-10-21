@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 7:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Davidi kodale",
+      "rationale": "Jesaja pöördub otseselt Ahaasi ja Taaveti soopoole."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלאות\/תלאו",
+      "rationale": "Sama juur לאה kordub kaks korda — 'kurnata inimesi \/ kurnate Elohimit' — kajaks, mis eesti keeles säilib."
+    }
+  ],
+  "translation": "Ja ta ütles: Kuulge nüüd, Davidi koda — kas on teile vähe inimesi kurnata, et te kurnate ka ⟨את⟩ mu Elohimi?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/7\/13-16.1792546696166.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kuulge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nüüd"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "kas on vähe"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "הלאות",
+      "gloss": "kurnata"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "inimesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "et"
+    },
+    {
+      "surface": "תלאו",
+      "gloss": "te kurnate"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mu Elohimi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohimi"
+    }
+  ],
+  "timestamp": "2026-10-21T01:38:16.167618067Z",
+  "model": "glm-5.3"
+}

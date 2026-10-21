@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "end",
+      "rationale": "תעלים on absoluutne — 'varjab', peegeli pronoomen 'end' on eesti keeles lisatud"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Psalmitõlgib pöördub otse Jahve poole küsimusega — kogu psalm on otsekõne Jumalale"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Miks",
+      "rationale": "Küsimus köidab kuulaja esimesest sõnast"
+    }
+  ],
+  "translation": "Miks, Jahve, seisad sa kaugel, varjad end ahastuse aegadel?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/10\/1-4.1792552321572.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Miks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "seisad"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kaugel"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "varjad end"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "aegadel"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ahastuse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:01.573499578Z",
+  "model": "glm-5.3"
+}

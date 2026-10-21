@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Heebrea jätab teise lause objekti ära (elision pärast 'seda verd'); eesti keel vajab objekti."
+    }
+  ],
+  "translation": "ja vastavad ja ütlevad: Meie käed ei valanud ⟨את⟩ seda verd ja meie silmad ei näinud ⟨seda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/21\/5-8.1792540985804.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ja vastavad"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ja ütlevad"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "meie käed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "valanud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda verd"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "seda verd"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "seda"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ja meie silmad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näinud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:03:05.805905360Z",
+  "model": "glm-5.3"
+}

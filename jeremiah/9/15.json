@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 9:15",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ei ... ega",
+      "rationale": "Eesti keele eituskordus nõuab 'ei nemad ega nende isad'; heebrea ütleb ühe eitusega 'keda nad, nad ja nende isad, ei tundnud'."
+    }
+  ],
+  "translation": "Ja mina pillutan neid rahvaste sekka, keda ei tundnud ei nemad ega nende isad, ja saadan neile järele ⟨את⟩ mõõga, kuni ma olen ⟨את⟩ nad ära lõpetanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/9\/13-16.1792548195251.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפצותים",
+      "gloss": "ja mina pillutan neid"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "rahvaste sekka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "keda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tundnud"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nemad"
+    },
+    {
+      "surface": "ואבותם",
+      "gloss": "ega nende isad"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ja mina saadan"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "neile järele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mõõga"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "mõõga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "כלותי",
+      "gloss": "ma olen lõpetanud"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nad",
+      "marks": "nemad"
+    }
+  ],
+  "timestamp": "2026-10-21T02:03:15.254693465Z",
+  "model": "glm-5.3"
+}

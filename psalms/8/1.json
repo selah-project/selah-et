@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגתית",
+      "rationale": "Gittith — likely a Gath-born instrument or tune; the referent is uncertain."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨pilli⟩",
+      "rationale": "Estonian needs a noun for the instrument the preposition 'upon' implies."
+    }
+  ],
+  "translation": "Koorijuhatajale, gitiidi ⟨pilli⟩ saatel, psalm Davile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/8\/1-4.1792552321668.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "על",
+      "gloss": "saatel"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitiidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:01.669626880Z",
+  "model": "glm-5.3"
+}

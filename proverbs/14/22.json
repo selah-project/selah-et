@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסed jääb häälikujärgi, sest 'halastus' üksi moonutab"
+    },
+    {
+      "kind": "addition",
+      "subject": "osaks saavad",
+      "rationale": "Heebrea fraas on lihtsalt 'ja hesed ja tõe — kavandajatele heale', kääne kandub eesti sõnale"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרשי\/חרשי",
+      "rationale": "Sama tegusõna kordus kontrastis: kurja vs hea kündjad\/kavandajad"
+    }
+  ],
+  "translation": "Eks eks ära need, kes kurja kavandavad? Aga hesedi ja tõe ⟨osaks saavad⟩ need, kes head kavandavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "37211ad3dd097ba621ba633be31649a272c3267e02c56b5124f98ff52f12a207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/14\/21-24.1792554683170.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "eks"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "eks ära"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "kes kavandavad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kurja"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "aga hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ja tõde"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "kes kavandavad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "head"
+    }
+  ],
+  "timestamp": "2026-10-21T03:51:23.171417368Z",
+  "model": "glm-5.3"
+}

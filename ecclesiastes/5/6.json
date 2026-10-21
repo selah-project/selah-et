@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sina",
+      "rationale": "Eesti keeles käsukõne kolmandalt isikult teisele nõuab esiletõstetud 'sina', heebrea verbalvorm kannab seda ise"
+    },
+    {
+      "kind": "alternative",
+      "subject": "rohkuses",
+      "rationale": "ברב võib tähendada ka põhjuslikult 'unenägude paljuse tõttu'; valitud kohamäärus"
+    }
+  ],
+  "translation": "Sest unenägude rohkuses ⟨on⟩ palju tühisust ja sõnade külluses; aga sina karda ⟨את⟩ Elohimit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/5\/5-8.1792556104536.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "rohkuses"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "unenäod"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ja tühisust"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ja sõnu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "külluses"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimit"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "karda"
+    }
+  ],
+  "timestamp": "2026-10-21T04:15:04.537028700Z",
+  "model": "glm-5.3"
+}

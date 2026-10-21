@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "selle",
+      "rationale": "Eesti keeles vajalik possessiivpronomen, heebreas puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוא...שוא",
+      "rationale": "Salm kordab sõna šav (asjata) kaks korda parallelismis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמר\/שומר",
+      "rationale": "Sama juur šamar kordub verbi ja nimisõna kujul"
+    }
+  ],
+  "translation": "Laul tõusudest; Šelomole. Kui Jahve ei ehita maja, asjata nägid selle ehitajad vaeva sellega; kui Jahve ei valva linna, asjata valvab valvur.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/127\/1-4.1792554242913.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Laul"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "tõusudest"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šelomole"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ehita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "maja"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "asjata"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "nägid vaeva"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "selle ehitajad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sellega"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "valva"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "linna"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "asjata"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "valvab (uneletult)"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "valvur"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:02.913782818Z",
+  "model": "glm-5.3"
+}

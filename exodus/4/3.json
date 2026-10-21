@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השליכהו ארצה \/ וישליכהו ארצה",
+      "rationale": "käsk ja täitmine kordavad täpselt samu sõnu — kajastav struktuur, eesti keeles säilitatud"
+    },
+    {
+      "kind": "you",
+      "subject": "käsk Mošele",
+      "rationale": "Jahve imperatiiv suunatud Mošele"
+    }
+  ],
+  "translation": "Ja ta ütles: Viska see maa peale! Ja ta viskas selle maa peale ja see sai maoks, ja Moše põgenes selle eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5b398b7c7d39fe4c6f93be38aab462308cb60fddd77a39b589623fe24e55484a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/4\/1-4.1792538324926.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ta ütles"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Viska see"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maa peale"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "ja ta viskas selle"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "maa peale"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja see sai"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "maoks"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ja põgenes"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "selle eest"
+    }
+  ],
+  "timestamp": "2026-10-20T23:18:44.927901790Z",
+  "model": "glm-5.3"
+}

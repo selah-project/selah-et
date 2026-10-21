@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "panid piiri",
+      "rationale": "התוו (תוה) tähendab otseselt 'märkima\/piiri panema'; KJV\/ASV 'piirasid' vs Genevapärane 'ahastasid' — eesti valib sõna-sõnalise 'panid piiri'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישובו ... וינסו",
+      "rationale": "kaks teineteise järel aheldatud wag-verbi kordus, 'pöördusid tagasi ja katsid kiusata' — heebrea rütm"
+    }
+  ],
+  "translation": "Ja nad pöördusid tagasi ning katsid kiusata Eeli, ja panid piiri Jisraeli pühale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/41-44.1792553454208.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ja nad pöördusid tagasi"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ning katsid kiusata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eeli"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "pühale"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "panid piiri"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:54.209064053Z",
+  "model": "glm-5.3"
+}

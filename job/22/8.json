@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 22:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebreas puudub koppel; eesti keel nõuab seda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "käsivarre-mees",
+      "rationale": "זרוע 'käsivars' tähendab kujundlikult jõudu — 'vägev mees'; sõna kuju on säilitatud"
+    },
+    {
+      "kind": "idiom",
+      "subject": "näo-tõstetu",
+      "rationale": "נשוא פנים 'tõstetud nägu' = see, kelle kasuks otsustatakse, soositu"
+    },
+    {
+      "kind": "crux",
+      "subject": "kelle kohta väide käib",
+      "rationale": "Pikalt vaidlustatud: väldeld Iiobi kohta või üldine ütlus, et maa kuulub vägevatele"
+    }
+  ],
+  "translation": "Ja käsivarre-mehele ⟨on⟩ maa, ja näo-tõstetu istub selles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/22\/5-8.1792555428357.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ja mees"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "käsivarre-"
+    },
+    {
+      "surface": "לו",
+      "gloss": "temale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ja näo-"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "-tõstetu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istub"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selles"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:48.358823697Z",
+  "model": "glm-5.3"
+}

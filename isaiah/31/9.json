@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab öeldisest kõrvalseisjat, heebrea puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "וסלעו",
+      "rationale": "'tema kalju\/kindlus' — KJV 'tema kindel koht', kalju võib olla Assüüria oma või tema jumal; lugei kalju kui varjupaika"
+    },
+    {
+      "kind": "crux",
+      "subject": "אור",
+      "rationale": "אור 'leek\/tuli' vs mõned loevad 'valgus' — tuli kui kohutav asi"
+    }
+  ],
+  "translation": "Ja tema kalju langeb hirmu pärast mööda ja tema vürstid ehmatavad lahenglippu näha, ütleb Jahve, kelle tuli on Siionis ja kelle ahi on Jerušalaimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/31\/9-9.1792547087616.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "ja tema kalju"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "hirmu pärast"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "möödub"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "ja ehmatavad"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "lahenglippu"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "tema vürstid"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "אור",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema (jaoks)"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siionis"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "ja ahi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema (jaoks)"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    }
+  ],
+  "timestamp": "2026-10-21T01:44:47.617350064Z",
+  "model": "glm-5.3"
+}

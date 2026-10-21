@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puuduv kopulatiivverbi kohustus eesti keeles"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb heebrea kõnakujuks, mitte 'vaim' või 'tuul' üksi"
+    }
+  ],
+  "translation": "Ja tõusid Juuda ja Bnejamini isade pead ning preestrid ja leviidid, igaüks, kelle ruahhi Elohim äratas, et minna üles ehitama ⟨את⟩ Jahve koja, mis ⟨on⟩ Jerušalaimis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/1\/5-8.1792556633755.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ja tõusid"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "pead"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "isade"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Juuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ja Bnejamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ning preestrid"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ja leviidid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "igaüks"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "äratas"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tema ruahhi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "kelle ruahhi"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "et minna üles"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ehitama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve koja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerušalaimis"
+    }
+  ],
+  "timestamp": "2026-10-21T04:23:53.756634672Z",
+  "model": "glm-5.3"
+}

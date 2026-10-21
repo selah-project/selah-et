@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 2:3",
+  "book": "joel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תלהט",
+      "rationale": "Sõna otseses mõttes 'lakub (nagu leek)' — kujutab tule levimist sääre kombel; hoitud piltlik tõlge."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפניו\/ואחריו",
+      "rationale": "Kahekordne 'tema ees \/ tema järel' kordus teeb salmist kliši: Eeden ees, kõrb järel."
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "Pronoomen viitab röhitud rahvale (midagi ei pääse temast) või maa\/ elanikele (kellegi pääsemist pole jäänud) — mõlemad loetavad."
+    }
+  ],
+  "translation": "Tema ees sööb tuli ja tema järel lakkub leek; tema ees on maa nagu Eedeni aed ja tema järel tühi kõrb — ja ka pääsemist pole talle ⟨olnud⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joel\/2\/1-4.1792551219152.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ja tema järel"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "lakkub"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "leek"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "nagu aed"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eedeni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tema ees"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ja tema järel"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kõrb"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tühi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja ka"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "pääsemist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "olnud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    }
+  ],
+  "timestamp": "2026-10-21T02:53:39.154278403Z",
+  "model": "glm-5.3"
+}

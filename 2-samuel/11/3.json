@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "Kõneleja puudub heebrea tekstis; lisatud asesõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "kõneleja",
+      "rationale": "Pole selge, kas vastus tuleb teenrilt või on see üldine teade; 'ja talle öeldi' on olnud alternatiiv"
+    }
+  ],
+  "translation": "Ja David saatas ja küsis naise järele, ja ⟨tema⟩ ütles: ega see ole Bat-Ševa, Eliami tütar, Uurija hitiidi naine?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/11\/1-4.1792544694271.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "saatas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "ja küsis"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "naise järele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "see"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Ševa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "tütar"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliami"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "naine"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uurija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitt"
+    }
+  ],
+  "timestamp": "2026-10-21T01:04:54.275063593Z",
+  "model": "glm-5.3"
+}

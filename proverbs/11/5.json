@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה ei ole ainult 'õigus', vaid kogu õigsus\/vanus; hoitud heebrea kõlana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ja tema kurjuses langeb rõve",
+      "rationale": "Kaanoniline kirjapilt on konsonantidega kaks korda 'ršʿ' (רשעתו\/רשע), teine pool võib olla 'tema kurjus langeb rõvele' — 'rõve' kui subjekt on tõlgendus."
+    }
+  ],
+  "translation": "Täiusliku tsedek sirgendab tema teed, ja tema kurjuses langeb rõve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/11\/5-8.1792554625441.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "täiusliku"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "sirgendab"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "teed"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "ja tema kurjuses"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "langeb"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rõve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:50:25.441523530Z",
+  "model": "glm-5.3"
+}

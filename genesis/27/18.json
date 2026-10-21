@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Estonian requires the copula; Hebrew has only מי אתה 'kes sina'"
+    }
+  ],
+  "translation": "Ja ta tuli oma isa juurde ja ütles: Mu isa! Ja tema ütles: Siin olen mina. Kes sina oled, mu poeg?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/27\/17-20.1792537796002.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja ta tuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "siin olen mina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mu poeg"
+    }
+  ],
+  "timestamp": "2026-10-20T23:09:56.002824987Z",
+  "model": "glm-5.3"
+}

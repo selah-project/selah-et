@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tühius",
+      "rationale": "תהו on 1Ms 1:2 kõrbetus-tühius, sama sõna — moodustumata tühjus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ülid",
+      "rationale": "נדיבim on 'helded\/vürstlikud', ülid edasiannab ainult ühe tahutluse"
+    }
+  ],
+  "translation": "Valades põlgu üleolekut ülidelt ja eksitades nad tühiusesse, kus pole teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/37-40.1792553853867.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "valades põlgu"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "üleolekut"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ülidelt"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "ja eksitades nad"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "tühiusesse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "teed"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:33.868943176Z",
+  "model": "glm-5.3"
+}

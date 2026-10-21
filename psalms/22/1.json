@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Hommiku hirv",
+      "rationale": "אילת השחר 'hommiku hirv' on viisi pealkiri; tähendus on tundmatu — kujutab kas koidu hirve või koidutähte."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אילת השחר",
+      "rationale": "See fraas esineb Tanahhis ainult siin."
+    }
+  ],
+  "translation": "Koorijuhatajale, viisiga „Hommiku hirv“, Davidi psalm.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/22\/1-4.1792552560002.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Koorijuhatajale"
+    },
+    {
+      "surface": "על",
+      "gloss": "viisiga"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "hirv"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "Hommiku"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:00.003664055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "heebrea puudub sidusõna: tema ⟨oli⟩ preester"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכי צדק",
+      "rationale": "nimi tähendab 'õiguse kuningas' — tsedek jääb nimesse, sõnamäng jääb märkamatuks"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלם",
+      "rationale": "Šalem kui paiganimi seostub Jerušalaimiga, aga tekst ise seda ei ütle"
+    }
+  ],
+  "translation": "Ja Malki-Tsedek, Šalemi kuningas, tõi välja leiba ja veini, ja tema oli preester El Elijonile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "55782f98672e34f12ed78adb37df45ab31634aaacdd170a11cdd72f6bad8e439",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/14\/17-20.1792537498451.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "ja Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Šalemi"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "tõi välja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "leiba"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ja veini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "preester"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elile"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-10-20T23:04:58.453613135Z",
+  "model": "glm-5.3"
+}

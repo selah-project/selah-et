@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "šeeol ei ole karistuspaik, vaid kõigi surnute ühine allilm"
+    }
+  ],
+  "translation": "Sest surmas ei ole su mälestust, šeolis — kes sind tunnistab?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/6\/5-8.1792552303542.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "במות",
+      "gloss": "surmas"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "su mälestust"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "šeolis"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "tunnistab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sind"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:43.544032355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני אלים",
+      "rationale": "'Eli pojad' — võimalik ka 'vägevate pojad' või 'jumalate pojad'; mitmus אלים jääb avatuks."
+    },
+    {
+      "kind": "invitation",
+      "subject": "küsiv parallelism",
+      "rationale": "Kaks retoorilist küsimust kutsuvad kuulaja tunnistama, et keegi ei võrdu Jahvega."
+    }
+  ],
+  "translation": "Sest kes pilvede seas on Jahvega võrreldav, kes Eli poegade seas on Jahve sarnane?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/5-8.1792553604950.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "pilvede seas"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "on võrreldav"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvega"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "on sarnane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "poegade seas"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:24.951956942Z",
+  "model": "glm-5.3"
+}

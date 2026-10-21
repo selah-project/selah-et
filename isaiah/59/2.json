@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "gloss-rationale": "כי אם toimib siin ühe tervikuna 'ainult\/vaid'; אם eraldi ei ole tõlgitud."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "Mitmus 'näod' (panim) ON eesti keeles üldises käändes 'näo' viitega Elohimile."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tema⟩",
+      "rationale": "Eesti lause vajab subjekti, heebrea infinitiivist eitusest järeldub see Jahvele."
+    }
+  ],
+  "translation": "Vaid teie süüteod on olnud lahutajad teie ja teie Elohimi vahel, ja teie patud on varjutanud näo teie eest, et ⟨tema⟩ ei kuuleks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/59\/1-4.1792547827284.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vaid"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "teie süüteod"
+    },
+    {
+      "surface": "היו",
+      "gloss": "on olnud"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "lahutajad"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "teie"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "vahel"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "teie Elohim"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "ja teie patud"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "on varjutanud"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "näo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "teie eest"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "et ⟨tema⟩ ei kuuleks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:57:07.285845006Z",
+  "model": "glm-5.3"
+}

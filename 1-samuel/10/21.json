@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võeti",
+      "rationale": "לכד tähendab sõna-sõnalt 'kinni püüdma (võrgus, lõksus)'; loosimise kontekstis 'võeti' ehk 'langetas (valik) juurde'"
+    },
+    {
+      "kind": "addition",
+      "subject": "teda",
+      "rationale": "eesti keel vajab objektipronoomi, heebreaConnectoric asesõna on verbitüves"
+    }
+  ],
+  "translation": "Ja ta viis lähemale ⟨את⟩ Benjamini suguharu tema perekondade kaupa, ja perekond Matri võeti, ja võeti Šaul, Kiši poeg; ja nad otsisid teda, aga teda ei leitud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/10\/21-24.1792543835705.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "viis lähemale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamini suguharu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "suguharu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "tema perekondade kaupa"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "ja võeti"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "perekond"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matri"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ja võeti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kiš"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ja nad otsisid teda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aga mitte"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ei leitud"
+    }
+  ],
+  "timestamp": "2026-10-21T00:50:35.708363351Z",
+  "model": "glm-5.3"
+}

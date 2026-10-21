@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tahtmise järgi",
+      "rationale": "בנפשו sõna-sõnalt 'oma hinge järgi' — נפש on elujõud\/mitte 'hing' hilisemas mõttes"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בנפשו",
+      "rationale": "Heebrea idiom 'tema hinges\/elu jõul' = täieliku meelevaldsusega; eesti 'oma tahtmise järgi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "siduma",
+      "rationale": "לאסר: kas 'siduma (ahelaisse)' või laiemalt 'allutama'; ürgne pilt on rakmete haakimine"
+    }
+  ],
+  "translation": "Siduma tema ülikud oma tahtmise järgi ja tema vanemaid tarkuseks õpetama.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/21-24.1792553788212.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "siduma"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "tema ülikud"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "oma tahtmise järgi"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ja tema vanemaid"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "tarkuseks õpetama"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:28.213292896Z",
+  "model": "glm-5.3"
+}

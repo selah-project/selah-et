@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea keeles puudub köitesõna; eesti keel nõuab seda."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרבות",
+      "rationale": "KJV 'destructions are come to an end' vs ASV\/JPS 'they are desolate' — varemed kui vaenlase lagunenud seisund."
+    }
+  ],
+  "translation": "Vaenlane ⟨on⟩ lõppenud, varemed igaveseks; ja linnad sina kisutasid välja — hävis nende mälestus koos nendega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/5-8.1792552274263.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "vaenlane"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "lõppenud"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "varemed"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igaveseks"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ja linnad"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "sina kisutasid välja"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "hävis"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "nende mälestus"
+    },
+    {
+      "surface": "המה",
+      "gloss": "koos nendega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:14.265411812Z",
+  "model": "glm-5.3"
+}

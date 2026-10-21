@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ja ütlesid",
+      "rationale": "Heebrea ei sisalda köneledmise verbi; kaudne kõne nõuab eesti keeles selle selgitamist"
+    },
+    {
+      "kind": "crux",
+      "subject": "בְּרוֹשִׁים",
+      "rationale": "puu on ebakindel: 'küpress' (JPS) vs 'kuusk' (KJV 'fir trees') vs 'seedermänd'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "personifikatsioon",
+      "rationale": "puud räägivad — mets rõõmustab, et türanni raiumine on lõppenud"
+    }
+  ],
+  "translation": "Ka küpressid rõõtsid sinu pärast, Liibanoni seedrid ⟨ja ütlesid⟩: sellest ajast, kui sa maha jäid, ei tõuse raiujat enam meie peale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/14\/5-8.1792546883603.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "בְּרוֹשִׁים",
+      "gloss": "küpressid"
+    },
+    {
+      "surface": "שָׂמְחוּ",
+      "gloss": "rõõtsid"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "sinu pärast"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "seedrid"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Liibanoni"
+    },
+    {
+      "surface": "מֵאָז",
+      "gloss": "sellest ajast"
+    },
+    {
+      "surface": "שָׁכַבְתָּ",
+      "gloss": "kui sa maha jäid"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יַעֲלֶה",
+      "gloss": "tõuse"
+    },
+    {
+      "surface": "הַכֹּרֵת",
+      "gloss": "raiajat"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "meie peale"
+    }
+  ],
+  "timestamp": "2026-10-21T01:41:23.604912636Z",
+  "model": "glm-5.3"
+}

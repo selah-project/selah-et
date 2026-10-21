@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 4:13",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "pärast",
+      "rationale": "Eesti kaasus nõuab 'pärast', heebrea מן-eesliide ei ole eraldi sõna"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerušalaim (naistegu)",
+      "rationale": "Lina on naissoost linn, kelle prohvetid ja preestrid tapsid õiged tema keskel"
+    }
+  ],
+  "translation": "Tema prohvetite pattude ja tema preestrite ülekohutuste pärast, kes valasid temas keskel õigete verd.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7815c1e5e26d9059fcdacec0d4ec5b5fbd7234af19a13fe0f1f4db6e74b00ca8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/4\/13-16.1792556005755.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחטאת",
+      "gloss": "pattude pärast"
+    },
+    {
+      "surface": "נביאיה",
+      "gloss": "tema prohvetite"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ülekohutuste"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "tema preestrite"
+    },
+    {
+      "surface": "השפכים",
+      "gloss": "kes valasid"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "temas keskel"
+    },
+    {
+      "surface": "דם",
+      "gloss": "verd"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "õigete"
+    }
+  ],
+  "timestamp": "2026-10-21T04:13:25.756435679Z",
+  "model": "glm-5.3"
+}

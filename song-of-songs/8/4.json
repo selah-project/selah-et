@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jerušalaimi tütred",
+      "rationale": "Pöördumine kohtunike lauses otseselt Jerušalaimi tütarde poole."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "Küsimõnda 'miks\/mida' tõlgitakse ka vannutuse-partiklina 'nii tõesti' (vt Js 2:7); siin küsimõnd 'miks üldse äratada'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעירו \/ תעררו",
+      "rationale": "Sama juur עור kahes辛aastmes — kordus 'äratada \/ üles äratada', eristus eesti keeles pehme."
+    }
+  ],
+  "translation": "Ma vannutan teid, ⟨את⟩ Jerušalaimi tütred: miks äratada ja miks üles äratada ⟨את⟩ armastust, enne kui see ise tahab!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/8\/1-4.1792555827980.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ma vannutan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teid",
+      "marks": "Jerušalaimi tütred"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "tütred"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "miks"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "äratada"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ja miks"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "üles äratada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armastust"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "armastust"
+    },
+    {
+      "surface": "עד",
+      "gloss": "enne kui"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "see ise tahab"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:27.981883159Z",
+  "model": "glm-5.3"
+}

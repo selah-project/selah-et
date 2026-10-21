@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sulab ära",
+      "rationale": "ונמס sõnasõnalt 'ja ta voolab sulana \/ laguneb' kogu hinge endasse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעים",
+      "rationale": "salm algab ja lõpeb samal juurel רשע — raam ümbert õela, eestis säilib 'õel\/õelate'"
+    }
+  ],
+  "translation": "Õel näeb ja vihastub, ta kiristab ⟨oma⟩ hambaid ja sulab ära; õelate iha hukkub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/112\/9-10.1792553921286.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "õel"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "näeb"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ja vihastub"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "⟨oma⟩ hambaid"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "kiristab"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ja sulab ära"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "iha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "hukkub"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:41.287025158Z",
+  "model": "glm-5.3"
+}

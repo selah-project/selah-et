@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "amos 5:24",
+  "book": "amos",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויגל ... כמים",
+      "rationale": "Tegusõna 'veerema' (גלל) ja 'veed' (מים) moodustavad kujundi: kohus veereb nagu vesi — pilti hoitakse sõna-sõnalt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה jääb vastavalt distsipliinidokumendile transliteratsioonina 'tsedek', mitte 'õigus' üksi."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגל kääne",
+      "rationale": "Jussiiv 'las veereb' (nagu KJV\/ASV) või jaatav 'veereb'; eesti kaudkõne 'veerekugu' jätab mõlemad võimalused."
+    }
+  ],
+  "translation": "ja kohus veerekugu nagu veed, ja tsedek nagu igavene oja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/5\/21-24.1792551249390.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ja veerekugu"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "nagu veed"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kohus"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ja tsedek"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "nagu ... oja"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "igavene"
+    }
+  ],
+  "timestamp": "2026-10-21T02:54:09.391993547Z",
+  "model": "glm-5.3"
+}

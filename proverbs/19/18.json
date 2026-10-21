@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea יש nõuab eesti keeles kopeeli."
+    },
+    {
+      "kind": "crux",
+      "subject": "ära tõsta oma hinge tema hukkamisele",
+      "rationale": "KJV 'ära säästa hinge tema nutu pärast' vs YLT\/JPS 'ära seo oma hinge tema hukkamisega'; järgitud otsesõnalist lugemit."
+    },
+    {
+      "kind": "you",
+      "subject": "vanemale",
+      "rationale": "Otsene pöördumine käsus: kasvata, ära tõsta."
+    }
+  ],
+  "translation": "Kasvata oma poega, sest ⟨on⟩ lootust, aga ära tõsta oma hinge tema hukkamisele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/19\/17-20.1792554800926.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "kasvata"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oma poega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "lootust"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "aga ... poole"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "tema hukkamisele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ära"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "tõsta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "oma hinge"
+    }
+  ],
+  "timestamp": "2026-10-21T03:53:20.926965386Z",
+  "model": "glm-5.3"
+}

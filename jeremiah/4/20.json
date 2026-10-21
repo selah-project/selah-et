@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea passiivil puudub eesti kõlasõna; sulgudes lisatud"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבר על שבר \/ שדדה \/ שדדו",
+      "rationale": "Kordus ja tüvemäng: 'õnnetus õnnetuse peale' ja פתאם\/רגע kiiruse kordus, osaliselt säilinud"
+    },
+    {
+      "kind": "substitution",
+      "subject": "silmapilgu jooksul",
+      "rationale": "רגע on sõna-sõnalt 'silmalöök', lühim ajamõõt"
+    }
+  ],
+  "translation": "Õnnetus õnnetuse peale ⟨on⟩ kuulutatud, sest kogu maa ⟨on⟩ rüüstatud; äkitselt ⟨on⟩ rüüstatud mu telgid, silmapilgu jooksul mu telgikatted.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e3760d7e262fc34c29205a8bc1b3e053dbb17790002b1225b26a9d72e0f2ab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/4\/20-20.1792558403370.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "õnnetus"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "õnnetuse"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "⟨on⟩ kuulutatud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "⟨on⟩ rüüstatud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "äkitselt"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "⟨on⟩ rüüstatud"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mu telgid"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "silmapilgu jooksul"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "mu telgikatted"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:23.371242919Z",
+  "model": "glm-5.3"
+}

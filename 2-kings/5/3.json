@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחלי",
+      "rationale": "Sõna-sõnaline 'oleks et' — eesti keeles edastatud kui soovivorm 'kas... oleks ainult'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "liigist haigus",
+      "rationale": "צרעת ei ole Hanseni tõbi; 'liigist haigus' hoiab tähenduse avatuna, võimalik ka 'nahahaigus'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "võtaks ära",
+      "rationale": "אסף sõna-sõnaline 'koguks kokku \/ eemaldaks' — traditsiooniline 'tervitaks' on tõlkeline valik."
+    }
+  ],
+  "translation": "Ja ta ütles oma prouale: Kas mu isand oleks ainult prohveti juures, kes on Šomronis, siis võtaks see ⟨את⟩ ta tema liigist haigusest ära!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "06a8805e662ab736e1e9aedebd7b7f06463780837d00d69025e08b6920d54c14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/5\/2-3.1792558374086.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ja ta ütles"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oma prouale"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "oma prouale"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Kas... oleks ainult"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mu isand"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "juures"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prohveti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "on Šomronis"
+    },
+    {
+      "surface": "אז",
+      "gloss": "siis"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "võtaks ära"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ta"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "tema liigist haigusest"
+    }
+  ],
+  "timestamp": "2026-10-21T04:52:54.087305230Z",
+  "model": "glm-5.3"
+}

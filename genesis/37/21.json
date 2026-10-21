@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכנו נפש",
+      "rationale": "'ärgem löögu nefeshi' — juba enne 37:21 lõppu; tõlkijad jagunevad: 'ärgem tapke teda' (KJV\/JPS) või otsesõnaline 'ärgem löögu elu' (YLT); heebrea sõna-sõna: lööma + nefesh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "nefesh on elujõud\/kõri\/hingamine, mitte tegelikult 'elu'; jään heebrea kõla juurde."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Eesti keel vajab kuulmise objekti; heebreas on objekt märkimata (viitab v. 20 kõnele)."
+    }
+  ],
+  "translation": "Ja Ruuben kuulis ⟨seda⟩ ja päästis tema nende käest, ja ütles: ärgem löögu me talle ⟨aha⟩ — ⟨tema⟩ nefeshi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/37\/21-24.1792537977571.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuulis"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Ruuben"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "ja päästis tema"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "nende käest"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärgem"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "löögu me"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshi"
+    }
+  ],
+  "timestamp": "2026-10-20T23:12:57.571881918Z",
+  "model": "glm-5.3"
+}

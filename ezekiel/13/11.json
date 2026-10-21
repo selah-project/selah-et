@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 13:11",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "נebijatele — valeprohvetitele",
+      "rationale": "Käsklus 'ütle nendele, kes määrivad' — otsekõne määrijatele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb 'ruahh' — tuul\/vaim\/hingus ühe sõnana; siin tormituul."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואתנה אבני אלגביש תפלנה",
+      "rationale": "Pöördumine raheterade endi poole ('ja teie, raheterad, langenegu'); teine lugemine: raheterad langevad neile peale."
+    }
+  ],
+  "translation": "Ütle nendele, kes määrivad rooskplaastriga: see langeb — tuleb upputav vihm, ja teie, raheterad, langenegu, ja tormi ruahh rebib selle lõhki.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b1032e6cacee0a182a3e7ddfc1d3d6e6c32a2786c1b4d6651b6387c274a3a959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/13\/10-11.1792558475770.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ütle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nendele"
+    },
+    {
+      "surface": "טחי",
+      "gloss": "kes määrivad"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "rooskplaastriga"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "see langeb"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ tuleb ⟩"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "vihm"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "upputav"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ja teie"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kivid"
+    },
+    {
+      "surface": "אלגביש",
+      "gloss": "raheterad"
+    },
+    {
+      "surface": "תפלנה",
+      "gloss": "langenegu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "סערות",
+      "gloss": "tormi"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "rebib lõhki"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:35.774026259Z",
+  "model": "glm-5.3"
+}

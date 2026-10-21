@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 29:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oli",
+      "rationale": "Heebrea ei ütle tegusõna; kõrvallause jaotus on tõlgija lisandus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Šaddai",
+      "rationale": "Nimekõla hoitud; tõlkesagedased 'Kõigeväeline' vältitud"
+    }
+  ],
+  "translation": "Kui Šaddai ⟨oli⟩ veel minuga, kui mu noorukid olid mu ümber;",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "742582796b05feb8b475dd433ff3c51c84dc5c98441d30b235ebdcd502c8ddce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/29\/5-8.1792555509321.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "kui ... veel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddai"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "minuga"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "mu ümber"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mu noorukid"
+    }
+  ],
+  "timestamp": "2026-10-21T04:05:09.321498077Z",
+  "model": "glm-5.3"
+}

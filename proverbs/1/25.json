@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "põlgasite",
+      "rationale": "ותפרעו sõna-sõnalt 'lahti lasite\/kyllastusite'; tähendus 'kõrvale heitsite'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ei tahtnud",
+      "rationale": "אביתם 'ei olnud nõus, ei ihaldanud'; KJV 'would none of' = ei tahtnud midagi teha"
+    }
+  ],
+  "translation": "Ja teie põlgasite kogu mu nõu, ja mu noomist te ei tahtnud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/25-28.1792554478636.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "ja teie põlgasite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mu nõu"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ja mu noomist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "te tahtnud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:47:58.637129689Z",
+  "model": "glm-5.3"
+}

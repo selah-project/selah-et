@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lõhkas kõõlustest",
+      "rationale": "עקר tähendab sõna-sõnalt 'juurima, kõõluseid lõhkus' — kujundlik täpne väljend"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea lubab kahe objektiga ühe subjektita lause; eesti keel vajab pronoomeni"
+    }
+  ],
+  "translation": "Ja Jehošua tegi nendega, nii nagu Jahve oli talle öelnud: ⟨את⟩ nende hobused lõhkas ta kõõlustest ja ⟨את⟩ nende kaarikud põletas ta tulega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/11\/9-12.1792541556737.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ja tegi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nendega"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii nagu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "oli öelnud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nende hobused"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "nende hobused"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lõhkas kõõlustest"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "nende kaarikud"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "nende kaarikud"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "põletas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tulega"
+    }
+  ],
+  "timestamp": "2026-10-21T00:12:36.738534247Z",
+  "model": "glm-5.3"
+}

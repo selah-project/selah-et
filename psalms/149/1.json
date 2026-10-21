@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olgu⟩",
+      "rationale": "Heebrea puudub kopeel; nimetus on soovituslik jussiiv, mida eesti keel täienda lõpuga nõuab"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Kiitke Jahh",
+      "rationale": "Käsud pöörduvad koguduse poole: hallelu-ja imperatiivid"
+    }
+  ],
+  "translation": "Kiitke Jahh, laulge Jahvele uut laulu, tema kiitus ⟨olgu⟩ pühade koguduses.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/149\/1-4.1792554417949.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Kiitke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jahh"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "laulge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "laulu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uut"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tema kiitus"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "koguduses"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "pühade"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:57.949869996Z",
+  "model": "glm-5.3"
+}

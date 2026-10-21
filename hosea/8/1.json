@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub koppel; šofar suus on nimetatav olukord, mitte lause"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל חכך",
+      "rationale": "Sõna-sõnalt 'ta suulaele — šofar': kas käsk 'pane šofar suule' või kirjeldus 'nagu šofar ta suus'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kotkas",
+      "rationale": "נשר on kotkas, mitte kull; JPS pakub 'raisatundi'"
+    }
+  ],
+  "translation": "Suule ⟨on⟩ šofar — nagu kotkas Jahve koja kohal, sest nad rikkusid mu lepingu ja mu Toora vastu nad mässasid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/8\/1-4.1792551009354.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "suule"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "suu-sisemusele"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "šofar"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "nagu kotkas"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "sest"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "rikkusid"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mu lepingu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja vastu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mu Toora"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "mässasid"
+    }
+  ],
+  "timestamp": "2026-10-21T02:50:09.354895904Z",
+  "model": "glm-5.3"
+}

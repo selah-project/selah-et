@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea jätab subjekti (surnud omaenese) mainimata; eesti vajab eset"
+    },
+    {
+      "kind": "crux",
+      "subject": "puhkust",
+      "rationale": "נחת: 'puhkus\/rahu' vs 'rahulolu' — vaiad heebrea järele"
+    },
+    {
+      "kind": "alternative",
+      "subject": "kui sellel",
+      "rationale": "מזה otse 'sellest' — vrdlus: surnud lootele rohkem rahu kui rahuldamata rikale"
+    }
+  ],
+  "translation": "Ka ⟨ta⟩ pole näinud päikest ega midagi tundnud; rohkem puhkust on sellel kui sellel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e25dd4707c12d39be825e519c7342db0a22f56572462426e3cdb4b54ed67138c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ecclesiastes\/6\/5-8.1792556082262.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "päikest"
+    },
+    {
+      "surface": "לא",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "näinud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tundnud"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "puhkust"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "sellel"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kui sellel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:14:42.263192192Z",
+  "model": "glm-5.3"
+}

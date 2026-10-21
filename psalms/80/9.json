@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viinapuu",
+      "rationale": "גפן on viinapuu kui ronitaim; Jisraeli võrdkuju"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "viinapuu",
+      "rationale": "Psalmi kogu võrdkuju: Jisrael viinapuuna, mis Jahve Mitsraimist üles tõi ja istutas"
+    }
+  ],
+  "translation": "Viinapuu tõid Sa välja Mitsraimist, ajasid välja rahvad ja istutasid ta.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/80\/9-12.1792553396450.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "viinapuu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraimist"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "tõid Sa välja"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "ajasid välja"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ja istutasid ta"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:56.450636295Z",
+  "model": "glm-5.3"
+}

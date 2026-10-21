@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nad",
+      "rationale": "םobjekt on heebreas lauses kaudselt, eesti keel nõuab otsese objekti asesõna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sest need vaigistusid",
+      "rationale": "ישתקו võib viidata lainetele (v29) või olla üldine 'sest see vaibus'"
+    }
+  ],
+  "translation": "Ja nad rõõmustavad, sest need vaigistusid, ja ta juhib ⟨nad⟩ nende soovi sadamasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/29-32.1792553899330.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ja nad rõõmutavad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "need vaigistusid"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ja ta juhib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sisse"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "sadamasse"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "nende soovi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:38:19.331323544Z",
+  "model": "glm-5.3"
+}

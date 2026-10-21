@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Hazael",
+      "rationale": "heebrea ütleb vaid 'kuni ta häbenes' — kes häbeneb, tuleb loost; lisatud sulgudes"
+    },
+    {
+      "kind": "crux",
+      "subject": "kuni ta häbenes",
+      "rationale": "kelle häbi — Eliša või Hazael; enamus loeb Hazaeli"
+    }
+  ],
+  "translation": "Ja ta seadis ⟨את⟩ oma näu paika ja hoidis seda, kuni ⟨Hazael⟩ häbenes; ja Elohimimees nuts.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/8\/9-12.1792546001114.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ja-seadis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma näo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "oma-näo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ja-hoidis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בש",
+      "gloss": "häbenes"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ja-nuts"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T01:26:41.116212937Z",
+  "model": "glm-5.3"
+}

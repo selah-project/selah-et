@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõõnuuder",
+      "rationale": "חבל tähendab otseselt väänatud nööri ehk mõõdunööri; üldtunnud 'loth\/osa' kaotab pildi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבל",
+      "rationale": "'mõõdunöör (mis jagab maa)' vs 'lasu\/osa' — mõlemad käänatud Vana Testamendi tõlkes"
+    }
+  ],
+  "translation": "öeldes: sinule annan Kanaani maa, mõõnuudrina teie päranduse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/17-20.1792557413483.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "annan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "mõõnuudrina"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "teie päranduse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:36:53.483753929Z",
+  "model": "glm-5.3"
+}

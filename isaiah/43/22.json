@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve Jaakobile ja Jisraelile",
+      "rationale": "Jumal pöördub vahetult rahva poole süüdistuses"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "אֹתִי võib olla asesõna 'mind' (H587) või aleph-tavi marker; siin on käsitletud markerina"
+    }
+  ],
+  "translation": "Ja ⟨את⟩ mind sina ei kutsunud, Jaakov, sest sina väsisid minust, Jisrael.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/43\/21-24.1792547517308.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mind (sina ei kutsunud)"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "sina kutsusid"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "sina väsisid"
+    },
+    {
+      "surface": "בי",
+      "gloss": "minust"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisrael"
+    }
+  ],
+  "timestamp": "2026-10-21T01:51:57.308855218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kuigiti",
+      "rationale": "וישמע בקולם otsekui 'kuuldi nende häält'; eesti impersonaal asetab kuulja heebrea lugeja kohale"
+    },
+    {
+      "kind": "crux",
+      "subject": "kellega kuuldi",
+      "rationale": "JPS lisab 'HaShemi' kui kuulja; heebrea tekst ütleb kuuljat nimetamata"
+    }
+  ],
+  "translation": "Ja tõusid preestrid, leviidid, ja õnnistasid ⟨את⟩ rahvast, ja nende hääl kuigiti, ja nende palve jõudis tema püha asupaika, taevasse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/30\/25-27.1792558094865.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ja tõusid"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "preestrid"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leviidid"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ja õnnistasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahvast"
+    },
+    {
+      "surface": "העם",
+      "gloss": "rahvast"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ja kuigiti"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "nende hääl"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ja jõudis"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "nende palve"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "tema asupaika"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tema püha"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "taevasse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:48:14.868226201Z",
+  "model": "glm-5.3"
+}

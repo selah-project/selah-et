@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תערוץ",
+      "rationale": "'kohutad\/ajad hirmuga' (ערץ) vs 'murdad' (רצץ, nagu KJV 'break' näitab); juurtähe vahe otsustab tähenduse"
+    },
+    {
+      "kind": "addition",
+      "subject": "tuul",
+      "rationale": "נדף tähendab 'tuule poolt laiali aetud'; eesti vajab tuule nimetamist"
+    }
+  ],
+  "translation": "Kas sa kiusad taga lehte, mida tuul ajab, ja ⟨את⟩ kuiva põhku jälitad?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a19bf99b0ecbeada3beee6f96cdb5e47e2840b88ab5f001312090bbd3a3eb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/25-28.1792555336462.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "lehte"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "mida tuul ajab"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "sa kiusad taga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "kuiva põhku"
+    },
+    {
+      "surface": "קש",
+      "gloss": "põhku"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "kuiva"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "jälitad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:16.463322430Z",
+  "model": "glm-5.3"
+}

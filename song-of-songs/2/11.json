@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלך לו",
+      "rationale": "sõna-sõnalt 'läks endale' — idiom 'läks minema \/ oma teed'"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti nõuab aegu-uid, heebrea puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר \/ חלף \/ הלך",
+      "rationale": "kolm möödumisverbi rida — möödumise kordus, osa jääb tõlkesse"
+    }
+  ],
+  "translation": "Sest vaata, talv ⟨on⟩ möödunud, vihm on läbi läinud, läinud ⟨on⟩ oma teed.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/2\/9-12.1792555768290.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "talv"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "möödunud"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "vihm"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "on läbi läinud"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "läinud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oma teed"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:28.291266736Z",
+  "model": "glm-5.3"
+}

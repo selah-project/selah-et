@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sind nimetavad",
+      "rationale": "יֹאמְרֻךָ 'nad ütlevad sind' — kas 'nad räägivad sinust kurjasti' (KJV) või 'nad mainivad su nime' (JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למזמה \/ לשוא",
+      "rationale": "kavala kava ja tühjus seistakse parallelismis; eesti keeles kaotas kõlavõrdluse"
+    }
+  ],
+  "translation": "kes sind nimetavad kurja kavatsusega, sinu vaenlased sind tühja tõstavad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/139\/17-20.1792554309432.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "sind nimetavad"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "kurja kavatsusega"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "tõstavad"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "tühja"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "sinu vaenlased"
+    }
+  ],
+  "timestamp": "2026-10-21T03:45:09.433816615Z",
+  "model": "glm-5.3"
+}

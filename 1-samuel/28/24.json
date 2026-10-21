@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "koopula, mida heebrea lausung ei sisalda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hapnemata leib",
+      "rationale": "מצה põhjenduses 'magusus' — kääritamata leib; juutlabi sõna tähendus on 'kääritamata'"
+    }
+  ],
+  "translation": "Ja naisel ⟨oli⟩ sealjas poolt vasikas majas, ja ta kiirustas ja teotas selle, ning võttis jahu ja sõtkus ning küpsetas selle hapnemata leivaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/28\/21-24.1792544262445.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "ja naisel"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "vasikas"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "lauda-"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "majas"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "ja ta kiirustas"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "teotas selle"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "võttis"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "jahu"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "ja sõtkus"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "küpsetas selle"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "hapnemata leivaks"
+    }
+  ],
+  "timestamp": "2026-10-21T00:57:42.447176191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keele kaudusõna, heebreas puudub"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kogu nende ihu",
+      "rationale": "לכל בשרו tähendab otseselt 'kogu nende liha', eesti keeles 'iho'"
+    }
+  ],
+  "translation": "Sest need on elu nendele, kes nad leiavad, ja kogu nende ihule ⟨on⟩ tervendus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/4\/21-24.1792554527161.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "elu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "need on"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "nendele, kes nad leiavad"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ja kogu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nende ihule"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "tervendus"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:47.162766092Z",
+  "model": "glm-5.3"
+}

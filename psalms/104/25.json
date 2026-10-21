@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub kopeel-verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "käte-laiuses",
+      "rationale": "רחב ידים on sõnasõnaliselt 'kätega lai' — idioom ääretust tähistamas"
+    },
+    {
+      "kind": "measurement",
+      "subject": "arvu ei ole",
+      "rationale": "Salm räägib loendamatust hulgast"
+    }
+  ],
+  "translation": "See on meri, suur ja käte-laiuses lai — seal ⟨on⟩ roomajad, kelle jaoks arvu ei ole, elusolendid, väikesed koos suurtega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/104\/25-28.1792553808857.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "meri"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "suur"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ja lai"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "käte-laiuses"
+    },
+    {
+      "surface": "שם",
+      "gloss": "seal"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "roomajad"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ja ei ole"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "arvu"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "elusolendid"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "väikesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "suurtega"
+    }
+  ],
+  "timestamp": "2026-10-21T03:36:48.858306132Z",
+  "model": "glm-5.3"
+}

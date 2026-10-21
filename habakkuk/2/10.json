@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "heebrea puudub koopula; eesti lause nõuab selle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפשך on hingeelu, elujõud — 'hing' või 'elu'; KJV 'soul' on laiem"
+    }
+  ],
+  "translation": "Sinu nõu ⟨oli⟩ häbi oma majale: sa oled langetanud palju rahvaid ja teinud pattu oma elu vastu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/habakkuk\/2\/9-12.1792551738947.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "sinu nõu"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "häbi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "oma majale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "langetanud"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "rahvaid"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "palju"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ja teinud pattu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "oma elu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:02:18.948801672Z",
+  "model": "glm-5.3"
+}

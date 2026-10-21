@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 10:13",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Heebrea puudub kopeer; eesti lause nõuab selle"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb kõla järgi 'ruahh', mitte 'tuul' ega 'vaim'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאים",
+      "rationale": "'tõusvad udupilved' (näsî'îm) vs 'vürstid' — sama sõna, kaks tähendust; pilgud sobivad konteksti"
+    }
+  ],
+  "translation": "Tema häälel ⟨on⟩ hulgaliselt vett taevastes, ja ta paneb pilved tõusma maa äärtest; vihma jaoks teeb ta välke, ja ruahhi toob ta välja oma tagavarahoidadest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/10\/13-16.1792548278795.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "tema häälel"
+    },
+    {
+      "surface": "תתו",
+      "gloss": "annab"
+    },
+    {
+      "surface": "המון",
+      "gloss": "hulga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vett"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevastes"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ja paneb tõusma"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "pilvi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "äärtest"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "välke"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "vihra jaoks"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "teeb"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ja toob välja"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahhi"
+    },
+    {
+      "surface": "מאצרתיו",
+      "gloss": "oma tagavarahoidadest"
+    }
+  ],
+  "timestamp": "2026-10-21T02:04:38.796288931Z",
+  "model": "glm-5.3"
+}

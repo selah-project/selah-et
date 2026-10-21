@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכיל",
+      "rationale": "'mõistusega \/ arusaamisega' vs 'osava lauluga' (maskili pealkirjasõna) — tõlkijad lähevad lahku"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "heebrea puudub koopula, eesti ⟨on⟩ lisatud"
+    }
+  ],
+  "translation": "Sest kogu maa kuningas on Elohim — pugege kitarri, mõistlikult!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/47\/5-8.1792552848942.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pugege kitarri"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mõistlikult"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:48.943945296Z",
+  "model": "glm-5.3"
+}

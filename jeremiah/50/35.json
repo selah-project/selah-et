@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mõõk",
+      "rationale": "חרב sõna-sõnalt 'mõõk';lauselõik 'mõõk ... kallal' on needmis, mitte täielik lause"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואל ... ואל ... ואל",
+      "rationale": "Kolmekordne kordus 'ja ... kallal', ülempinge kuhjamine"
+    }
+  ],
+  "translation": "Mõõk kaldaldealaste kallal, ütleb Jahve, ja Babüloni elanike kallal, ja tema ülemate kallal, ja tema tarkade kallal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "947d18e6784ac56f5d103f5fd2e8c66b02d1f1a62bb7d2efa262c8f3b3a3efee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/50\/33-36.1792549534195.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "mõõk"
+    },
+    {
+      "surface": "על",
+      "gloss": "kallal"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldaldealaste"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "elanike"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babüloni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "tema ülemate"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "tema tarkade"
+    }
+  ],
+  "timestamp": "2026-10-21T02:25:34.199144293Z",
+  "model": "glm-5.3"
+}

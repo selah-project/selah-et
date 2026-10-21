@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לא רחמה \/ ורחמתי",
+      "rationale": "Jahve armastab (verahhamti) just Lo-Ruhamah't ('mitte-armastatud') — nime ümberpööramine, mis eesti keeles kaduma kipub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא עמי \/ עמי אתה",
+      "rationale": "'Lo-Ammi' ('mitte-mu-rahvas') kuuleb 'sinna oled mu rahvas' — otse nimetaguräng"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרע",
+      "rationale": "'Külvatan tema endale' — külvamise kujund rahva paljunemisest vs maasse istutamisest; kumb rõhk jätta"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve → Lo-Ammi",
+      "rationale": "Otsene pöördumine: 'sina oled mu rahvas'"
+    }
+  ],
+  "translation": "Ja külvatan tema endale maasse ja armastan ⟨את⟩ Lo-Ruhamah't, ja ütlen Lo-Ammi'le: sina oled mu rahvas, ja tema ütleb: mu Elohim.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/hosea\/2\/25-25.1792550842324.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ja külvatan tema"
+    },
+    {
+      "surface": "לי",
+      "gloss": "endale"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maasse"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ja armastan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah't"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ja ütlen"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi'le"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mu rahvas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ja tema"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mu Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T02:47:22.325038229Z",
+  "model": "glm-5.3"
+}

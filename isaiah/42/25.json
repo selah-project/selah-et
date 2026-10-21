@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "oma nina purske",
+      "rationale": "אף tähendab sõna-sõnalt 'nina\/noorus'; viha metafoor nina purskena, enamik tõlkeid ütleb 'vimm'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨seda⟩",
+      "rationale": "Eesti keel vajab objekti, heebrea jätab selle ära"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותבער בו",
+      "rationale": "'see põles temas' vs 'see põletas tema' — heebrea dubitiivne; KJV 'it burned him', BSB 'it consumed them'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli kohta",
+      "rationale": "Salm räägib Jaakobist\/Jisraelist kolmandas isikus, kellel ei ole mõistmist"
+    }
+  ],
+  "translation": "Ja ta valas tema peale põletava viha, oma nina purske, ja sõja ägeduse; ja see leekis teda ümberringi, ja tema ei tundnud ⟨seda⟩; ja see põles temas, ja tema ei pannud ⟨seda⟩ südamele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "96a66b88b65ba79abb49d0e756e37209f44c525613043685b4f8e7aadd1c6d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/42\/25-25.1792547453943.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "ja ta valas"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "põletava viha"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "oma nina purske"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "ja ägeduse"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sõja"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "ja see leekis teda"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ümberringi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tundnud"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ja see põles"
+    },
+    {
+      "surface": "בו",
+      "gloss": "temas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "pannud"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südamele"
+    }
+  ],
+  "timestamp": "2026-10-21T01:50:53.943955956Z",
+  "model": "glm-5.3"
+}

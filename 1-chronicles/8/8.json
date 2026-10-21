@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מן שלחו אתם",
+      "rationale": "'pärast nende ärasaatmist' — אתם on here osa väljendist; kas Hušim ja Baara on ära saadetud naised (KJV) või alles jäänud (mõned loevad liitu erinevalt)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלח",
+      "rationale": "'saatma ära' katab lahutamise\/ärasaatmise; Heebrea ütleb lihtsalt 'saatis minema'"
+    }
+  ],
+  "translation": "Ja Šaharajim sai lapsi Moabi väljal, pärast seda kui ta ⟨oli⟩ nad ära saatnud — Hušimi ja Baara, oma naised.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/8\/5-8.1792557282873.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "ja Šaharajim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "sai lapsi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "Moabi väljal"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "tema saatmist ära"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨neid⟩"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hušim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "oma naised"
+    }
+  ],
+  "timestamp": "2026-10-21T04:34:42.874749359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "esineb Tanahhis ainult siin; tähendus 'vaikselt libisema \/ futitama' on tuletatud võrdluse põhjal"
+    },
+    {
+      "kind": "crux",
+      "subject": "ladusalt \/ sirges",
+      "rationale": "למישרים otsetõlge on 'sirges, lameda teed' — mõned loevad seda 'õigluses' kui kõlbelist vihjet"
+    },
+    {
+      "kind": "crux",
+      "subject": "magajate huuled",
+      "rationale": "ישנים kas 'magajad' või 'uimastatud \/ nõrgad'; kõik tõlked ei nõustu"
+    }
+  ],
+  "translation": "Ja su suulae nagu hea vein, mis voolab mu armsamale, sirgesuunal, libistades magajate huuli.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/7\/9-12.1792555807395.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "ja su suulae"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "nagu vein"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "hea"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "voolab"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "mu armsamale"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "sirgesuunal"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "libistades"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "huuli"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "magajate"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:07.396050514Z",
+  "model": "glm-5.3"
+}

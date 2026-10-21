@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "pöördumine — palve, et Jumal tõuseks kõrgemale"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "teises pooles puudub koppula; eesti keel vajab 'on' või hüüumärgi kaudu kinnitust"
+    }
+  ],
+  "translation": "Tõuse kõrgemale, Elohim, taevast ülemal; kogu maa kohal sinu au!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/57\/9-12.1792553055768.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "tõuse kõrgemale"
+    },
+    {
+      "surface": "על",
+      "gloss": "ülemal"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "taevast"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sinu au"
+    }
+  ],
+  "timestamp": "2026-10-21T03:24:15.769765882Z",
+  "model": "glm-5.3"
+}

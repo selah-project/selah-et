@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "higgajon",
+      "rationale": "הגיון haruldane sõna — 'kõmin, sumin' arvatavasti pillimängu viide; tõlkeid läinud laiali: 'solemn sound', 'meloodia'"
+    },
+    {
+      "kind": "crux",
+      "subject": "asor",
+      "rationale": "עשור 'kümme (keelt)' — kümnekeelne pill või lihtsalt 'kümme'; vana tõlkeid lahku"
+    }
+  ],
+  "translation": "kümnekeelelisel ja keelpillil, kõmiseval kannel kõlal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/1-4.1792553662056.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "kümnekeelelisel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kümnekeelelisel"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ja keelpillil"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "keelpillil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kõlaval"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "kõmiseval"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kannel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:22.058117462Z",
+  "model": "glm-5.3"
+}

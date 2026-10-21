@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sai",
+      "rationale": "eesti 'sai' heebrea ילד 'ileotas' kohal — suguvõsa nimistu standardvorm"
+    },
+    {
+      "kind": "measurement",
+      "subject": "esmasündinu",
+      "rationale": "sugupuu loend, järeltulijate nimistu"
+    }
+  ],
+  "translation": "Ja Kenaan sai ⟨את⟩ Tsidoni, oma esmasündinu, ja ⟨את⟩ Heti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "551b3f3755e0cd20e9d776d5d03b051ed9a7f32f782ca86fe570f499b8eb79ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/1\/13-16.1792557107454.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ja Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidoni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "oma esmasündinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Heti"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heti"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:47.455132130Z",
+  "model": "glm-5.3"
+}

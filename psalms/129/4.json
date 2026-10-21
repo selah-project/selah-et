@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti sidus- ja omadussõnalause nõuab coopulat, mis heebrea lausel puudub."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצץ",
+      "rationale": "'raius läbi' jätkab salmi 3 põllu-pilti: vaod lõigatakse katku nagu köied — kord ei ole juhuslik."
+    }
+  ],
+  "translation": "Jahve ⟨on⟩ õige, tema raius läbi õelate köied.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/129\/1-4.1792554212362.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õige"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "raius läbi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "köied"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "õelate"
+    }
+  ],
+  "timestamp": "2026-10-21T03:43:32.364036464Z",
+  "model": "glm-5.3"
+}

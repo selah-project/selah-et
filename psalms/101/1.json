@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb transliteratsioonina 'hesed', mitte 'armastus' ega 'halastus', sest üks sõna kannab liiga palju."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשירה\/אזמרה",
+      "rationale": "Laulu-mängu paralleelsus: kaks tegusõna ühes värsireas, peegeldav kordus."
+    }
+  ],
+  "translation": "Taaviti mišmor. Hesedist ja õigusest laulan ma, Sulle, Jahve, mängin kannel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/101\/1-4.1792553744505.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Taaviti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mišmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesedist"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ja õigusest"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "laulan ma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sulle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mängin kannel"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:44.506151074Z",
+  "model": "glm-5.3"
+}

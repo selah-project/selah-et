@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תחת אשר",
+      "rationale": "Otseses tähenduses 'all, selle asemel et'; siin põhjuslik side 'sellepärast et'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "teenima",
+      "rationale": "עבד hõlmab nii teenimist, töötamist kui orjust — sama sõna kordub j. 48 vastassuunas (sa teenid vaenlast)."
+    }
+  ],
+  "translation": "Sellepärast et sa ei teeninud ⟨את⟩ Jahvet, su Elohimit, rõõmus ja hea südamega, kõige külluse juures.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/28\/45-48.1792541152968.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "et"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "sa teeninud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "rõõmus"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "ja hea"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "südamega"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ülluse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõige"
+    }
+  ],
+  "timestamp": "2026-10-21T00:05:52.969162330Z",
+  "model": "glm-5.3"
+}

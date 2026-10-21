@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בער",
+      "rationale": "Sõna tähendab 'veise moodi, loomalik' — 'rumal' on nõrgendus, 'loll' liiga põlglik"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨üks⟩",
+      "rationale": "Heebrea כי… מאיש komparatiivi eesti keeles väljendab kaudselt"
+    }
+  ],
+  "translation": "Sest loomlikum olen mina kui ⟨üks⟩ mees, ja inimese mõistmist ei ole minul.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/30\/1-4.1792555064854.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בער",
+      "gloss": "loomlikum"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kui mees"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja ei"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "mõistmist"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minul"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:44.855079680Z",
+  "model": "glm-5.3"
+}

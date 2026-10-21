@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פלגי מים",
+      "rationale": "dual 'two channels' of irrigation water, rendered 'veekanalite'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Estonian needs copula where Hebrew uses והיה"
+    }
+  ],
+  "translation": "Ja ta ⟨on⟩ nagu puu, istutatud veekanalite äärde, mis annab oma vilja oma ajal, ja tema leht ei närbu, ja kõik, mida ta teeb, õnnestub.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/1\/1-4.1792552192640.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ja ta ⟨on⟩"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "nagu puu"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "istutatud"
+    },
+    {
+      "surface": "על",
+      "gloss": "äärde"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "kanalite"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "oma vilja"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "annab"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "oma ajal"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ja tema leht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "närbu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ta teeb"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "õnnestub"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:52.642152113Z",
+  "model": "glm-5.3"
+}

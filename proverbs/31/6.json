@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש on kurgu\/hingamine\/elujõud, mitte 'hing' platonslikus mõttes; kombineeritud kuju 'mõru-nefesh' hoiab seotud konstruktsiooni."
+    },
+    {
+      "kind": "crux",
+      "subject": "לאובד",
+      "rationale": "'hukkuvale' vs 'kadunule\/õnnetule' — kes täpselt on mõeldud, jääb avatuks."
+    }
+  ],
+  "translation": "Andke kange jook hukkuvale ja veini mõru-nefesh'ile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1bc39d6e3b1165464627322ae7705ffb4bb3c55c93f714709737976f13e7d83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/31\/5-8.1792555024720.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "andke"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kange jook"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "hukkuvale"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ja veini"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "mõru-"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh'ile"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:04.721414942Z",
+  "model": "glm-5.3"
+}

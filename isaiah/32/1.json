@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימלך מלך",
+      "rationale": "samasuguse juure kordus: 'kuningana hakkab kuningas valitsema' — mööda jääb eesti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק jäetakse kõla järgi 'tsedekiks', mitte 'õiguseks'"
+    }
+  ],
+  "translation": "Vaata, tsedeki pärast valitseb kuningas, ja ülemad valitsevad kohtu pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/32\/1-4.1792547209066.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Vaata"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "tsedeki pärast"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "valitseb"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ja ülemad"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kohtu pärast"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "valitsevad"
+    }
+  ],
+  "timestamp": "2026-10-21T01:46:49.067076070Z",
+  "model": "glm-5.3"
+}

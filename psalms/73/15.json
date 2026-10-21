@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sinu laste põlve",
+      "rationale": "בניך 'sinu lapsed' (Jumala ustavad) vs mõned tõlkijad loevad 'nende lapsed' (julmad) — sulg 'sinu' otsustab, kelle vastu rääkimine on reetmine"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨siis⟩",
+      "rationale": "Eesti keele jaoks lisatud sidesõna vastandliku tingimuse tähistamiseks"
+    }
+  ],
+  "translation": "Kui ma ütlesin: räägin nõnda — vaata, ⟨siis⟩ olin ma reetnud sinu laste põlve.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/73\/13-16.1792553344278.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ma ütlesin"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "räägin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nõnda"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "דור",
+      "gloss": "põlv"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinu laste"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "olin ma reetnud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:04.279082582Z",
+  "model": "glm-5.3"
+}

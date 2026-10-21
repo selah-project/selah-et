@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kurgujuurega elujõud, mitte hinge mõiste — 'mu elujõud' taastatakse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק",
+      "rationale": "Tsedek jääb translitereerituna; 'õiguse rajad' oleks asendus"
+    }
+  ],
+  "translation": "Mu hing pöörab ta tagasi, tsedeki radadel juhatab tema mind — oma nime pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/23\/1-4.1792552520879.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "mu hing"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "pöörab ta tagasi"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "juhatab tema mind"
+    },
+    {
+      "surface": "במעגלi",
+      "gloss": "radadel"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "oma nime"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:20.879941373Z",
+  "model": "glm-5.3"
+}

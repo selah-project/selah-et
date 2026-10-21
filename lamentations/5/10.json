@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kokku tõmbunud",
+      "rationale": "נכמרו tähendab 'kokku tõmbuma, kortsuma'; 'mustaks tõmbuma' (KJV) on tõlgendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "kuumus",
+      "rationale": "זלעפות on tuule- või vihapalavus; 'räige' (KJV) vs 'põletav kuumus' (ASV\/JPS)"
+    }
+  ],
+  "translation": "Meie nahk nagu ahi on kokku tõmbunud nälja kuumuse palge ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dad04d08ae50ed2f6dbdeef38a54c9b836a41977d4ed733eeddbd9d3e4a90712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/5\/9-12.1792555977199.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "meie nahk"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "nagu ahi"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "on kokku tõmbunud"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "palge ees"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "kuumuse"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nälja"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:57.200057973Z",
+  "model": "glm-5.3"
+}

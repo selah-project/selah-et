@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 7:9",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "päeval",
+      "rationale": "Eesti keeles nõuab kuupäev sõna 'päev'; heebrea ütleb lihtsalt 'ühes esimeses kuus'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Suundemosääne sulab kokku eesti kohakäändega 'Jerušalaimi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "käsile",
+      "rationale": "'כיד ... הטובה' sõnasõnalt 'käe järgi, mis hea'; 'tema Elohimi hea käsi' on sile fraas, 'käsi' = jõud ja arm"
+    }
+  ],
+  "translation": "Sest esimesel päeval esimesest kuust ⟨see⟩ ⟨oli⟩ ülesretke alus Babülonist, ja esimesel päeval viiendas kuistas jõudis ta Jerušalaimi, sest tema Elohimi hea käsi ⟨oli⟩ tema peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/7\/9-12.1792556743951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "esimesel päeval"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuust"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "esimesest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "alus"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ülesretke"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babülonist"
+    },
+    {
+      "surface": "ובאחד",
+      "gloss": "ja esimesel päeval"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "kuistas"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "viiendas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "jõudis ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaimi"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "sest ... käsi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "tema Elohimi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "hea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tema peal"
+    }
+  ],
+  "timestamp": "2026-10-21T04:25:43.952632425Z",
+  "model": "glm-5.3"
+}

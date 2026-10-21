@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "siis",
+      "rationale": "Eesti keel vajab tingimuse täiendust, heebrea on pelgalt vawi-ühend"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rahus",
+      "rationale": "שלום on terviklikkus\/heaolu, mitte ainult rahu"
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakovi palve",
+      "rationale": "Jaakob kõneleb otse JAHVEle tingimusliku tõotuse osana"
+    }
+  ],
+  "translation": "siis ma pöördun rahus tagasi oma isa koju, ja Jahve saab ⟨minule⟩ minu Elohimiks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/28\/21-22.1792537756023.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "siis ma pöördun tagasi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "rahus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "koju"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ja saab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minule"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "minu Elohimiks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:09:16.023975247Z",
+  "model": "glm-5.3"
+}

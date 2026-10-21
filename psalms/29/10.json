@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למבול ישב",
+      "rationale": "'istus üleujutuse ajal' (viiwolokesele viidates) vs 'istub üleujutuse kohal\/troonil'; eessõna ל võimaldab mõlemat."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨troonil⟩",
+      "rationale": "Heebrea ütleb lihtsalt 'istus'; eesti keeles lisatud trooni-motiiv istumise tähenduse selguseks."
+    }
+  ],
+  "translation": "Jahve istus ⟨troonil⟩ üleujutuse päevil, ja Jahve istub kuningana igavesti.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/29\/9-11.1792552638537.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "üleujutuse"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istus"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ja istub"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "igavesti"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:18.538065072Z",
+  "model": "glm-5.3"
+}

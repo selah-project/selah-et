@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ole⟩",
+      "rationale": "heebrea keeles puudub kopeeluu — nimetus 'ei ole see taevas'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשמים \/ השמימה",
+      "gloss": "taevas \/ taevasse",
+      "rationale": "sama sõna kordus — kaks korda taevas — ei ole võimalik kaotsi lasta, eesti keeles jääb terveks"
+    },
+    {
+      "kind": "invitation",
+      "subject": "küsiv kõne",
+      "rationale": "kujutletav küsimus 'kes tõuseks meile taevasse?' tõmbab kuulaja otseselt kaasa"
+    }
+  ],
+  "translation": "Ei ⟨ole⟩ see taevas, et öelda: kes tõuseks meile taevasse ja tooks selle meile ning kuulutaks meile ⟨את⟩ seda, et me seda teeksime?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/30\/9-12.1792541174970.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "taevas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "see"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "et öelda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "tõuseks"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "taevasse"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ja tooks"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ja kuulutaks meile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "seda"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "et me seda teeksime"
+    }
+  ],
+  "timestamp": "2026-10-21T00:06:14.971513094Z",
+  "model": "glm-5.3"
+}

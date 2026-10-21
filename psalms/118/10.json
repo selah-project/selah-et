@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמילם",
+      "rationale": "Juurest מול 'lühendada, ära raiuda' — tõlked jagunevad 'hävitama' ja 'ära raiuma' vahel; sõna on tekstis perfekti-vormiga 'ma raiun (kindlasti)'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jahve nimemas",
+      "rationale": "Heebrea בשם on 'Nime sees \/ Nime võimu all' — eesti omastav 'nimes' on ligikaudne."
+    }
+  ],
+  "translation": "Kõik rahvad ümbritsesid mind; Jahve nimemas raiun need ära, jah, ära raiun.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/118\/9-12.1792553961347.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ümbritsesid mind"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nimes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jah, tõesti"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "raijun need ära"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:21.348884985Z",
+  "model": "glm-5.3"
+}

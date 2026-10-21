@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see⟩",
+      "rationale": "Eesti keeles vajalik kollokatsioonis 'on saanud meile see: häving ja purustus'; heebreas puudub."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת",
+      "rationale": "Tähekaos: 'õudus' ja 'augud\/püünis' kõlavad peaaegu ühtemoodi, eesti keeles kaotsi läinud."
+    }
+  ],
+  "translation": "Õudus ja püünis on meile saanud ⟨see⟩: häving ja purustus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "bc3272500cc2d099ec1727de19608bdb913fbeb679742c6995389a35ebef79a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/3\/45-48.1792555970300.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "õudus"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ja püünis"
+    },
+    {
+      "surface": "היה",
+      "gloss": "on saanud"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "häving"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "ja purustus"
+    }
+  ],
+  "timestamp": "2026-10-21T04:12:50.300939095Z",
+  "model": "glm-5.3"
+}

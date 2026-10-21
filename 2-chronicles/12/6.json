@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Heebrea puudub koper; nimetatud lause 'tsedek Jahve' eeldab eestis koperat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "D2: צדק jääb 'tsedekiks', mitte 'õigeks' üksi."
+    }
+  ],
+  "translation": "Siis lasksid Jisraeli ülemad ja kuningas endid ⟨alandada⟩ ja ütlesid: Jahve ⟨on⟩ tsedek.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7737da1ed1038ad80d1eaad8df4d1e89ca0acd5d95fa6e1ea61ef3ada5d4a892",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/12\/5-8.1792557868201.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "lasksid endid alandada"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ülemad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ja kuningas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ja ütlesid"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T04:44:28.202585972Z",
+  "model": "glm-5.3"
+}

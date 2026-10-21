@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "aleph-tav märgib Mošet ja Aharoni kui kadestamise objekte; heebreas lahus, eesti keeles otsene objekt"
+    }
+  ],
+  "translation": "Ja kadestasid laagris ⟨את⟩ Mošet ja ⟨את⟩ Aharoni, Jahve püha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/106\/13-16.1792553831895.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Ja kadestasid"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošet",
+      "marks": "Moše"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "laagris"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharoni",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-21T03:37:11.896577332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mulle⟩",
+      "rationale": "Sufiks -ני kannab 'mind', eesti keeles vajalik ümberühendatud asesõna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ספרתי",
+      "rationale": "ספר tähendab täppena üles lugeda\/kokku arvata — 'teed üles lugeda' arvestuse pilt"
+    }
+  ],
+  "translation": "Mu teed olen üles lugenud, ja sina vastasid ⟨mulle⟩; õpeta ⟨mulle⟩ oma määrused.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f2437ca5471d849fd018ef3d09d157df70e1778b313c840a6add240c85a42e60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/25-28.1792554097492.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "mu teed"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "olen üles lugenud"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "ja sina vastasid ⟨mulle⟩"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "õpeta ⟨mulle⟩"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "oma määrused"
+    }
+  ],
+  "timestamp": "2026-10-21T03:41:37.492729130Z",
+  "model": "glm-5.3"
+}

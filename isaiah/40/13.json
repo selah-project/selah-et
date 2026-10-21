@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab abiverbi, heebrea puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kaalunud",
+      "rationale": "תכן tähendab 'mõõta, kaaluda' — jätkab salmi 12 mõõtmise sarja"
+    }
+  ],
+  "translation": "Kes on kaalunud ⟨את⟩ Jahve ruahhi, ja kes inimene tema nõust, kes teda teadjaks teeks?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/40\/13-16.1792547364093.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "on kaalunud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve ruahh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruahh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ja kes inimene"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "tema nõust"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "teda teadjaks teeks"
+    }
+  ],
+  "timestamp": "2026-10-21T01:49:24.093941340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 9:6",
+  "book": "2-kings",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võinud",
+      "rationale": "משח tähendab salvimist õliga — 'võima' on eesti vasteks, samast juurest tuleb 'mašiahh', võitu."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל ... אל",
+      "rationale": "Korduv eessõna אל enne 'Jahve rahva' ja 'Jisrael' on eesti kaudobjektiga liias ning jäetud märkimata."
+    }
+  ],
+  "translation": "Ja ta tõusis ja läks ⟩maja sisse ja valas õli tema pea peale ning ütles talle: Nii ütleb Jahve, Jisraeli Elohim: Ma olen sind võinud kuningaks Jahve rahvale, Jisraelile.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/9\/5-8.1792545996229.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ja ta tõusis"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ja läks"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "maja sisse"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ja valas"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "õli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "tema pea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Nii"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütleb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "olen sind võinud"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuningaks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עם",
+      "gloss": "rahvale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraelile"
+    }
+  ],
+  "timestamp": "2026-10-21T01:26:36.231013512Z",
+  "model": "glm-5.3"
+}

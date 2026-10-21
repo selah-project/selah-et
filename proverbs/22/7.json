@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula lisatud, heebrea nimilauses puudub"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לוה\/מלוה",
+      "rationale": "Sama verb לוה 'laenama' — võtja ja andja, üks juur, kaks rolli; eesti keeles kaks sõna"
+    }
+  ],
+  "translation": "Rikas valitseb vaeste üle, ja laenuvõtja ⟨on⟩ laenuandja ori.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/22\/5-8.1792554890065.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "rikas"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "vaeste"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "valitseb"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ja ori"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "laenuvõtja"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mehele"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "laenuandjale"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:50.067707371Z",
+  "model": "glm-5.3"
+}

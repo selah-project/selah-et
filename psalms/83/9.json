@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õlg",
+      "rationale": "זרוע on 'käsivars' kujulikult; 'õlg' = toetus, abi — 'käsivars lastele' on alternatiiv"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Muusikaline paus, jäetakse märkimata tähenduses"
+    }
+  ],
+  "translation": "Ka Assur on nendega ühinenud, nad on olnud õlg Loti lastele. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/83\/9-12.1792553526708.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "on ühinenud"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nendega"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nad on olnud"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "õlg"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "lastele"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:06.709275703Z",
+  "model": "glm-5.3"
+}

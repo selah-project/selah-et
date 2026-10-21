@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "teiste jumalate",
+      "rationale": "אלהים אחרים on väikese tähega 'teised jumalad', mitte Elohim — rahvaste jumalad, 2Ms 32:8 reegel"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "käsk otse kogudusele, 2. isiku mitmuses"
+    },
+    {
+      "kind": "elision",
+      "subject": "seda",
+      "rationale": "heebrea subjektita lause 'לא ישמע על פיך' nõuab eesti keeles objekti 'seda'"
+    }
+  ],
+  "translation": "Ja kõiges, mida ma olen teile öelnud, peakage te kinni; ja teiste jumalate nime ärgu mainigu, ärgu kuuldagu seda teie suu peal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/23\/13-16.1792538672404.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "ja kõiges"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ma olen öelnud"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "peakage te kinni"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ja nime"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalate"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "teiste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "mainigu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ärgu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "kuuldagu"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "teie suu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:32.404878504Z",
+  "model": "glm-5.3"
+}

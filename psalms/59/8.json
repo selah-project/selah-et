@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יביעון",
+      "rationale": "'Voolab välja' (nagu allikas) kõne kohta — pilt sõnade purskest, mitte oksendamisest nagu mõned tõlked."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבות",
+      "rationale": "חרב tähendab nii 'mõõk' kui 'põud' — huultel on teravad sõnad nagu mõõgad."
+    },
+    {
+      "kind": "invitation",
+      "subject": "lugejale",
+      "rationale": "Retsitatiivne küsimus 'kes kuuleb?' tõmbab kuulaja näidatud ülbusesse."
+    }
+  ],
+  "translation": "Vaata, nende suust voolab välja, nende huultel on mõõgad — sest kes kuuleb?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/59\/5-8.1792553104200.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "voolab välja"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "nende suust"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mõõgad"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "nende huultel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kes"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kuuleb"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:04.202421487Z",
+  "model": "glm-5.3"
+}

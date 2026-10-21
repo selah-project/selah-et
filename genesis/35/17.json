@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ämmaemand",
+      "rationale": "המילדת on külgnev kujund — 'see, kes sünnitab (teisi)', eesti keeles on sõna ajalooline ametlik vaste"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בהקשתה בלדתה",
+      "rationale": "kaks lõppu -תה tekitavad kõlavõrdelisuse, mis eesti keeles kaduma jääb"
+    }
+  ],
+  "translation": "Ja sündis, kui tema sünnitamine oli rasketeks tehtud, et ämmaemand ütles talle: Ära karda, sest ka see on sinule poeg.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6cd8e878af2df6832deba07b441bcee78f8fc312bff1d93a079b503c8462c15c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/35\/17-20.1792537935540.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "kui tema sünnitamine oli rasketeks tehtud"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "tema sünnitamine"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "לה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ämmaemand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ära"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "karda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    }
+  ],
+  "timestamp": "2026-10-20T23:12:15.541143620Z",
+  "model": "glm-5.3"
+}

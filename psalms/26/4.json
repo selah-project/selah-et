@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "õõnsate-inimeste",
+      "rationale": "מתי שוא on sõna-sõnalt 'tähtsusetute\/õõnsate inimesed' — 'valed inimesed' on tõlkelis kitsendus"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעלמים",
+      "rationale": "'varjatud\/peidetud inimesed' — tõlked pakuvad 'kelmid', 'silmakirjatsejad', 'teesklejad'; sõna juur tähendab varjata"
+    }
+  ],
+  "translation": "Ega ma ole istunud õõnsate-inimestega, ja varjatutega ma ei tule sisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/26\/1-4.1792552563236.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ma ole istunud"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "inimeste"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "õõnsate"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ja koos"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "varjatutega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tule sisse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:16:03.237981193Z",
+  "model": "glm-5.3"
+}

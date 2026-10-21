@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Asesõna Mošele lisatud, heebrea jätab subjekti vormist hääbunuks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "istus",
+      "rationale": "יושב 'istuma\/elanema' — 'elas' oleks roll, kujund on istuja"
+    }
+  ],
+  "translation": "Pärast seda, kui ta oli lükanud ⟨את⟩ Sihhoni, emorlaste kuningat, kes istus Heshbonis, ja ⟨את⟩ Oogi, Bašani kuningat, kes istus Aštarotis Edreis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/1-4.1792540581976.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Pärast seda, kui"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "oli lükanud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihhoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihhoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningat"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorlaste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "istus"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Oogi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningat"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "istus"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Aštarotis"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edreis"
+    }
+  ],
+  "timestamp": "2026-10-20T23:56:21.977639683Z",
+  "model": "glm-5.3"
+}

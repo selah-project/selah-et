@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "elision false — viga"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa",
+      "rationale": "Eesti küsimus nõuab isikulist asesõna, heebrea verbivorm kannab seda lõpuliites."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משוט",
+      "rationale": "'Ringi lendama' — haruldane sõna, mis esineb siin ja üksikutes kohtades Tanahhis."
+    }
+  ],
+  "translation": "Ja Jahve ütles ha-Satanile: kust sa tulid? Ja ha-Satan vastas ⟨את⟩ Jahvet ja ütles: maad ringi lendamast ja selles ringi käimast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b61aea21236c7caf7ce09edca0c4f7e0a2c7373347756c03600e975fba37f913",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/1\/5-8.1792555111956.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "käsk"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Satanile"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "kust"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "sa tulid"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Ja vastas"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "maad ringi lendamast"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maad"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ja selles ringi käimast"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:31.958110569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 1:16",
+  "book": "job",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "eesti eraldav kääne 'taevast' kannab 'min' tähenduse, eraldi sõna ei vajata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lambaid-kitsi",
+      "rationale": "צאן on kollektiivne 'kari' (lambs ja kitsed); lahti kirjutatud, sest eesti ei ole ühe sõnaga"
+    }
+  ],
+  "translation": "Kui see veel rääkis, tuli teine ja ütles: Elohimi tuli langes taevast ja põles lambaid-kitsi ja noorukeid ja söödas nad ära, ja pääsesin pääsenud — ainult mina üksi —, et sinule teatada.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/1\/13-16.1792555076012.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "זה",
+      "gloss": "see"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "rääkis"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ja teine"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "langes"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taevast"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "ja põles"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "lambaid-kitsi"
+    },
+    {
+      "surface": "ובנערים",
+      "gloss": "ja noorukeid"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ja söödas nad ära"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "ja pääsesin pääsenud"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "üksi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "teatama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinule"
+    }
+  ],
+  "timestamp": "2026-10-21T03:57:56.013877188Z",
+  "model": "glm-5.3"
+}

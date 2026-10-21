@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ol⟩",
+      "rationale": "Heebrea puudub koopula, eesti keel nõuab 'ol'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "kirjerull",
+      "rationale": "Suletud kiri avatakse alles järgmises salmis — tekst jäädavalt edasi lükatud."
+    }
+  ],
+  "translation": "Ja ma nägin, ja vaata, käsi oli mulle välja sirutatud, ja vaata, selles ⟨ol⟩ kirjerull.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/2\/9-10.1792549569637.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "Ja ma nägin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "יד",
+      "gloss": "käsi"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "välja sirutatud"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mulle"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ja vaata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "selles"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "kirjerull"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "raamatu"
+    }
+  ],
+  "timestamp": "2026-10-21T02:26:09.638551970Z",
+  "model": "glm-5.3"
+}

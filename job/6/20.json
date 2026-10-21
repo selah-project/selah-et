@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בשו \/ ויחפרו",
+      "rationale": "Kaks häbi-verbi ühes salmis — 'kahvatuks jääda' ja 'pettunud punastama' — heebrea kordus, eesti keeles kaks eri sõna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחפרו",
+      "rationale": "Tõlkes 'jäid häbisse'; sõna pilt on 'punastama\/pettuma' — vee lootus pettis."
+    }
+  ],
+  "translation": "Nad häbenesid, sest nad olid lootnud; nad tulid selle juurde ja jäid häbisse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cc637b8423d63b370b86aac4f5866ae281b04411f863c06cc05a73d2346bfbed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/6\/17-20.1792555130961.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "nad häbenesid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nad olid lootnud"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nad tulid"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "selle juurde"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ja jäid häbisse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:58:50.962260429Z",
+  "model": "glm-5.3"
+}

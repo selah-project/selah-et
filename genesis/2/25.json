@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערומים \/ ערום",
+      "rationale": "'paljad' kõlab kui 'aru' (kaval, 1Ms 3:1) — sõnamäng, mis eesti keeles kaduma jääb."
+    },
+    {
+      "kind": "hapax-form",
+      "subject": "יתבששו",
+      "rationale": "Hitpaeli-vorm verbist בושׁ; tavalisem tõlge 'ei häbenenud'."
+    }
+  ],
+  "translation": "Ja nad olid mõlemad paljad, inimene ja tema naine, ega häbene nad ⟨enda ees⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0818fae54973337d1740a68c6986017050363276d8b7333857d2d2d6a1ef99ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/2\/25-25.1792537296874.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ja nad olid"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mõlemad"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "paljad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "inimene"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ja tema naine"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ega"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "hägene nad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:01:36.876947056Z",
+  "model": "glm-5.3"
+}

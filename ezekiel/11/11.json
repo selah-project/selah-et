@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סיר (pott)",
+      "rationale": "Pot-and-flesh proverb of Ezek 11:3,7 — the city as pot, people as meat; JPS punctuates the negation differently, turning v.11b into an affirmation 'ye shall be the flesh in the midst thereof'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היא = 'see'",
+      "rationale": "Pronoun refers to the city without naming it; versions supply 'this city'."
+    }
+  ],
+  "translation": "See ei ole teile potiks, ja te ei ole tema sees lihaks — Jisraeli piiril mõistan ma ⟨את⟩ teile kohust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/11\/9-12.1792549710141.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "See"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ole"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "teile"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "potiks"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ja te"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "tema sees"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "lihaks"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "piiril"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "mõistan ma kohust"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ teile",
+      "marks": "teile"
+    }
+  ],
+  "timestamp": "2026-10-21T02:28:30.143384361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olgu⟩",
+      "rationale": "Eesti kõneviisi jaoks lisatud abiverb, heebreas puudub."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "חסד jääb 'hesediks' eesti teksti — 'armu' ei kata truuduse tähendust."
+    }
+  ],
+  "translation": "Kiidetud ⟨olgu⟩ Elohim, kes ei tõrjunud kõrvale minu palvet ega oma hesedi minult ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/66\/17-20.1792553173281.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Kiidetud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "tõrjunud kõrvale"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "minu palvet"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ega oma hesedi"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "minult ⟨את⟩",
+      "marks": "mina — keskmärgi punkt, kellest eemaldatud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:26:13.282729942Z",
+  "model": "glm-5.3"
+}

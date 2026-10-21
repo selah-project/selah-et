@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "Tõlkesõnastik ”kalluta kõrva” vs otsene ”kuula” — eesti keeles hoitud kõva tähendus, heebrea on pilt: kõrva laiaks teha"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Otsene pöördumine Jumala poole palves"
+    }
+  ],
+  "translation": "Kalluta kõrva, Elohim, mu palvele ja ära varja end mu anu eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/1-4.1792553019189.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Kalluta kõrva"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palvele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja ära"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "varja end"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "mu anu eest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:23:39.190495073Z",
+  "model": "glm-5.3"
+}

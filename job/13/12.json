@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 13:12",
+  "book": "job",
+  "lang": "et",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זכרניכם משלי אפר",
+      "rationale": "'teie mälestused on tuha kõnekäänud' (ASV) vs 'teie mälestused tuha sarnaseks' (KJV\/JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לגבי...גביכם",
+      "rationale": "sama juur גב kaks korda: 'kühmud... teie kühmud' — kordus peaks eesti tekstis säilima"
+    },
+    {
+      "kind": "alternative",
+      "subject": "גב",
+      "rationale": "ka 'kaitsekünkad\/kindlustused' — seljast\/kõrgusest laienenud tähendus"
+    }
+  ],
+  "translation": "Teie mälestuskõned on tuhamõtted, teie künkad savikünkad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/9-12.1792555274663.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרניכם",
+      "gloss": "teie mälestuskõned"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "mõtted"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "tuha"
+    },
+    {
+      "surface": "לגבי",
+      "gloss": "künkad"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "savi"
+    },
+    {
+      "surface": "גביכם",
+      "gloss": "teie künkad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:14.664851607Z",
+  "model": "glm-5.3"
+}

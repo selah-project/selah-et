@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 23:26",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "liigutada",
+      "rationale": "תניף on 'võbata, lehvitada' — sirpi võbata põllu kohal; eesti keeles 'liigutada\/kehvitada'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמת…קמת",
+      "rationale": "seisev vilja kordub raamis (A…A), sulgeb jääb eesti keeles alles kui kordus"
+    }
+  ],
+  "translation": "Kui sa tuled oma kaaslase seisvasse viljapõldu, siis võid käega katkida viljapead, aga sirpi ei tohi sa liigutada oma kaaslase seisva vilja kohal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/23\/25-26.1792541053972.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "sa tuled"
+    },
+    {
+      "surface": "בקמת",
+      "gloss": "seisvasse viljapõldu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "oma kaaslase"
+    },
+    {
+      "surface": "וקטפת",
+      "gloss": "siis katkid"
+    },
+    {
+      "surface": "מלילת",
+      "gloss": "viljapead"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "käega"
+    },
+    {
+      "surface": "וחרמש",
+      "gloss": "aga sirpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "sa liigutada"
+    },
+    {
+      "surface": "על",
+      "gloss": "kohal"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "seisva vilja"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "oma kaaslase"
+    }
+  ],
+  "timestamp": "2026-10-21T00:04:13.972804571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keeles puuduv kopeerimisverbi jaoks; heebreas nimelause"
+    },
+    {
+      "kind": "crux",
+      "subject": "בזמה",
+      "rationale": "'Kurja kavatsusega' (KJV) vs 'kurja teo viljaga' (JPS: ohver varastatuga) — זמה tähendab plaani, kavatsust"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף כי",
+      "rationale": "Tugevdatav 'kui palju enam'; otsesõna 'isegi kui' nõrgestab rhetorilist astmet"
+    }
+  ],
+  "translation": "Ülekohtuste ohver on jälg ⟨on⟩, isegi kui ta toob selle kurja kavatsemisega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "84f4548e8351d76146aa72aea0e2f8907670d4eb3da61c6c20aaaa98b26b10af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/21\/25-28.1792554857521.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ohver"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ülekohtuste"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "jälg ⟨on⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "isegi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kui"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "kurja kavatsemisega"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ta toob selle"
+    }
+  ],
+  "timestamp": "2026-10-21T03:54:17.522839568Z",
+  "model": "glm-5.3"
+}

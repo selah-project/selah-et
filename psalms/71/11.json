@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Eesti keeles nõuab eitus kopeela; heebrea אין hõlmab selle."
+    },
+    {
+      "kind": "you",
+      "subject": "vaenlaste kõne",
+      "rationale": "Vaenlaste ütlus tsitaadina; lisaja adressaat on palvetaja ise."
+    }
+  ],
+  "translation": "öeldes: Elohim on ta hüljanud; ajage taga ja püüdke ta kinni, sest ⟨on⟩ päästja.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/71\/9-12.1792553295026.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "on ta hüljanud"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ajage taga"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ja püüdke ta kinni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "päästja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:28:15.027413648Z",
+  "model": "glm-5.3"
+}

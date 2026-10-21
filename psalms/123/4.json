@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hing",
+      "rationale": "נפש on kõri\/elujõud\/elav olend, mitte immateriaalne 'hing'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לה",
+      "rationale": "Naissoo sufiks 'tema' — 'meie hing on rahulikelt saanud oma osa'; sufiks ripub ja tõlkijad ühendavad selle נפשנu või שבעה otsa"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שבעה לה נפשנו",
+      "rationale": "Võimalik ka 'meie hing on temast (põlgusest) kyllastunud' — 'tema' viitab eelmise salmi בוז'ile"
+    }
+  ],
+  "translation": "Ülemäära on kõht täis saanud meie hing rahulikuile kuuluvast naerust, ülbedest põlgusest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/123\/1-4.1792554250500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ülemäära"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "on kõht täis saanud"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "meie hing"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "rahulikuile kuuluvast naerust"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "rahulikuile"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "ülbedest põlgusest"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ülbedest"
+    }
+  ],
+  "timestamp": "2026-10-21T03:44:10.501697435Z",
+  "model": "glm-5.3"
+}

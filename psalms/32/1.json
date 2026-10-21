@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨see, kelle⟩",
+      "rationale": "Heebrea keskkonnavorm נשואי־פשע eeldab eesti keeles osutussõna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mäss",
+      "rationale": "פשע on mäss, ülestõusmine — mitte lihtsalt 'üleaste'"
+    }
+  ],
+  "translation": "Davidile, õpetussalm. Õnnis ⟨see, kelle⟩ mäss on ära kantud, kelle patt on kaetud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/32\/1-4.1792552656066.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidile"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "õpetussalm"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "õnnis"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "on ära kantud"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "mäss"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "kaetud"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "patt"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:36.067003472Z",
+  "model": "glm-5.3"
+}

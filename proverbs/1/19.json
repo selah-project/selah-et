@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצע\/בצע",
+      "rationale": "sama kolm tähte kaks korda: tegusõna 'röövima' ja nimisõna 'röövsaak\/kasu' — eesti keeles kordub 'kasu\/kasu' osaliselt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elu",
+      "rationale": "נפש on elujõud; 'hing' tooks vale varjundi"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעליו",
+      "rationale": "'selle omanikke' — kelle? kasu omanikke või teedel käijaile; mitmus 'omanikke' vs heebrea את נפש בעליו"
+    }
+  ],
+  "translation": "Niisugused on teed kõigil, kes kasu ahnitsevad: röövitav kasu võtab ⟨את⟩ oma omaniku elu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/1\/17-20.1792554484927.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "niisugused"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "teed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigil"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kes kasu ahnitsevad"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "röövitav kasu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma omaniku elu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "elu"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "oma omaniku"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "võtab"
+    }
+  ],
+  "timestamp": "2026-10-21T03:48:04.928717987Z",
+  "model": "glm-5.3"
+}

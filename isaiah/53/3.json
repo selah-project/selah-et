@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli ta⟩",
+      "rationale": "Heebrea puudub koprula; eesti keel vajab seda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבזה ... נבזה",
+      "rationale": "Sõna 'põlatud' kordub raamistuses, eesti keeles säilinud"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכמסתר פנים ממנו",
+      "rationale": "Kes varjab näo — tema varjab end või nemad varjavad näo tema eest; enamik: rahvas varjab"
+    }
+  ],
+  "translation": "Põlatud ja meeste hüljatud, valude mees ja haiguse tundja; ja nagu see, kelle eest nägu varjatakse, ⟨oli ta⟩ põlatud, ja me ei pidanud teda ⟨millegiks⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e54ea07485cbe6ac9611f3cd9cc7c2c89ac395d34bdcb26e35cecf8170b478ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/53\/1-4.1792547616870.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "põlatud"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ja hüljatud"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "meeste"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "valude"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "ja tundja"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "haiguse"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "ja nagu varjatud"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "nägu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kelle eest"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "põlatud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja me ei pidanud"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "teda"
+    }
+  ],
+  "timestamp": "2026-10-21T01:53:36.871824842Z",
+  "model": "glm-5.3"
+}

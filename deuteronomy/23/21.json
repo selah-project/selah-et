@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 23:21",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "intressi",
+      "rationale": "נשך tähendab sõna-sõnalt 'hammastama, (maona) nõelama' — siin kaudses tähenduses intressi võtma."
+    },
+    {
+      "kind": "crux",
+      "subject": "משלח ידך",
+      "rationale": "sõna-sõnalt 'su käe väljasaatmine' — 'kõiges, kuhu sa oma kää paiskad' vs. levinud 'kõiges, mida sa ette võtad'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraelile",
+      "rationale": "Salm adresseeritud otseselt kuulajale ('sa'), Seaduse kõne Jisraelile."
+    }
+  ],
+  "translation": "Võõrale võid sa küsida intressi, aga oma venda ei tohi sa intressi küsida, et Jahve, su Elohim, sind õnnistaks kõiges, kuhu sa oma kää paiskad, maal, kuhu sa saad seda pärineda.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "3515179111441dfa20f25aa020dff171656a1a1981a66aa74186436370e98879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/23\/21-24.1792541058786.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לנכרי",
+      "gloss": "võõrale"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "võid sa küsida intressi"
+    },
+    {
+      "surface": "ולאחיך",
+      "gloss": "aga oma venda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei tohi"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "küsida intressi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "et"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "sind õnnistaks"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "su Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kõiges"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kuhu sa paiskad"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "oma kää"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "saad"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "sinna"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "seda pärineda"
+    }
+  ],
+  "timestamp": "2026-10-21T00:04:18.787538073Z",
+  "model": "glm-5.3"
+}

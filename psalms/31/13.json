@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלב",
+      "rationale": "'südamest väljas' — heebrea idiom 'kui mälu pealt kadunud', eesti keeles südame-mälu"
+    },
+    {
+      "kind": "crux",
+      "subject": "כלי אבד",
+      "rationale": "'kadunud\/kaduv nõu' vs 'katkismurtud nõu' (KJV) vs 'kasutuskõlbmatu nõu' (JPS)"
+    }
+  ],
+  "translation": "Olen unustatud nagu surnud südamest ⟨väljas⟩, olen olnud nagu kaduv nõu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/31\/13-16.1792552620094.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "olen unustatud"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "nagu surnud"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "südamest"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "olen olnud"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "nagu nõu"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kaduv"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:00.094853991Z",
+  "model": "glm-5.3"
+}

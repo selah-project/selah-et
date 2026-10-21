@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 16:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "vaidleks mehe eest Eloahiga",
+      "rationale": "kas Jumal vaidleb mehe poolt (KJV: 'plead for a man with God') või keegi vaidleb Jumalaga mehe pärast (eeldatakse subjekti, mida heebrea tekst ei nimeta)."
+    },
+    {
+      "kind": "elision",
+      "subject": "לגבר עם אלוה",
+      "rationale": "heebrea ei ütle, kes vaidleb — subjekt lisatud nurga каalud ⟨keegi⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "Joobi soov",
+      "rationale": "kaudne pöördumine — Job soovib vahendajat Jumala ja enese vahel."
+    }
+  ],
+  "translation": "et ⟨keegi⟩ vaidleks mehe asja Eloahiga, ja inimese poeg — oma kaaslase asja ⟨eest⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e65b250617846323796a3211c8efede72f9618b05f9969b0d17a71fb713c7937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/16\/21-22.1792555265216.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוכח",
+      "gloss": "et ⟨keegi⟩ vaidleks"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahi"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ja poeg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inimese"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "oma kaaslase"
+    }
+  ],
+  "timestamp": "2026-10-21T04:01:05.217237549Z",
+  "model": "glm-5.3"
+}

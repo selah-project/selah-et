@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nagu⟩",
+      "rationale": "Võrdlust ei ole heebrea tekstis otseselt; paralleelism jätab võrdlussõna lisamise"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minha",
+      "rationale": "מנחת ערב on õhtune jahuohver; 'minha' jäetakse nimekujul, kuna see on ohver, mitte kingitus"
+    }
+  ],
+  "translation": "Seisku mu palve ⟨nagu⟩ suitsutus ⟨sinu⟩ näo ees, mu käte tõstmine ⟨nagu⟩ õhtune minha.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/141\/1-4.1792554402014.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "seisku"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mu palve"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "suitsutus"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "⟨sinu⟩ näo ees"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "tõstmine"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mu käte"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "õhtune"
+    }
+  ],
+  "timestamp": "2026-10-21T03:46:42.015602417Z",
+  "model": "glm-5.3"
+}

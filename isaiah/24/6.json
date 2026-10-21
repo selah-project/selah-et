@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "et",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאשמו",
+      "rationale": "KJV 'desolate' vs ASV\/JPS 'found guilty' — juur tähendab 'süüdi jääma', jääb süüdi"
+    },
+    {
+      "kind": "addition",
+      "subject": "ainult",
+      "rationale": "מזער 'ülivähesus' nõuab eesti keeles täpsustava sõna"
+    }
+  ],
+  "translation": "Sellepärast sööb needus maa ära ja selle elanikud jäävad süüdi; sellepärast kuivavad maa elanikud ja inimesi jääb järele ⟨ainult⟩ üksikuid.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1c403e2cd84d7ebd52de58084e75109544b1c2e7e18dbf3110537078f8ab4105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/24\/5-8.1792546990661.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sellepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "needus"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "sööb ära"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "ja jäävad süüdi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "elanikud"
+    },
+    {
+      "surface": "בה",
+      "gloss": "selle"
+    },
+    {
+      "surface": "על",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sellepärast"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "kuivavad"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "elanikud"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "ja jääb järele"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "inimesi"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "üksikuid"
+    }
+  ],
+  "timestamp": "2026-10-21T01:43:10.661996844Z",
+  "model": "glm-5.3"
+}

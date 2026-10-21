@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרש דמים",
+      "rationale": "'kes nõuab (kätte) verd' vs JPS 'verekostja' — passiivi tegija jääb Heebrea tekstis nimetuks"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "aleph-tavi mitmusevorm osutab ohvritele, keda Jahve meenutab"
+    }
+  ],
+  "translation": "Sest kes nõuab verd, on ⟨את⟩ neid meenutanud, ta ei ole unustanud vaeste hädakarjet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/9\/13-16.1792552284416.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nõuab"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "verd"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "neid"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "on meenutanud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ole unustanud"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "hädakarje"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "vaeste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:24.417329769Z",
+  "model": "glm-5.3"
+}

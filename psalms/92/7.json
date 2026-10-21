@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metsik",
+      "rationale": "בער pärineb 'karilooma' juurest — 'loomalik, karjane rumal', 'metsik' on lähim pilt"
+    },
+    {
+      "kind": "mystery",
+      "subject": "זאת",
+      "rationale": "'seda' viitab salmides 6–8 öeldule, mis rumalale jääb mõistmata — kaudne varjatud tarkus"
+    }
+  ],
+  "translation": "Metsik mees ei tea, ja tarkusetu ei mõista ⟨את⟩ seda —",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/92\/5-8.1792553670255.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "בער",
+      "gloss": "metsik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tea"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ja tarkusetu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mõista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "seda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:34:30.257271902Z",
+  "model": "glm-5.3"
+}

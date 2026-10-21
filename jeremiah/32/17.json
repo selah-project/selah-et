@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 32:17",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "käsi",
+      "rationale": "זרוע on sõna-mõttelt 'käsivars', kohandatud eesti kõlaga 'käsi' — 'käsivarred' on võimalik täiesti literaalne variant."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא יפלא ממך",
+      "rationale": "Sõna-sõnalt 'ei ole sinust eraldatud\/imenäoline sinu jaoks' → 'ei ole sulle imepärane'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפלא \/ פלא",
+      "rationale": "Juure פלא 'ime' kõlab kokku palve teema ja hilisema vasta (v 27)ga — eesti keeles kordub sõna 'imepärane' sarnaselt."
+    }
+  ],
+  "translation": "Ah, Adonai Jahve! Ennäe, sina tegid ⟨את⟩ taeva ja ⟨את⟩ maa oma suure jõuga ja oma väljasirutatud käega; mitte ükski asi ei ole sulle imepärane,",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5d39bda8c17839f3086f96cedce7844d9c37c61aa58600a0a74c36ec3f8e6a16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/32\/17-18.1792558416704.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ennäe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "tegid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taeva"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "maa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "oma jõuga"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "suure"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "ja oma käega"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "väljasirutatud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mitte"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "on imepärane"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sulle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ükski"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "asi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:53:36.705212368Z",
+  "model": "glm-5.3"
+}

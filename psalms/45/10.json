@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביקרותיך",
+      "rationale": "'Su väärtuslike seas' (järgijad, aupakutud) vs 'su auliste naiste seas' (KJV); sõna tähendus on lai."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Ofiri kuld",
+      "rationale": "Kulla päritolu nimetus tähistab kõige puhtamat kulda."
+    }
+  ],
+  "translation": "Kuningate tütarid on su väärtuslike seas; kuninganna seisab su paremal käel Ofiri kullas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/9-12.1792552826701.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "tütared"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kuningate"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "su väärtuslike seas"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "seisab"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "kuninganna"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "su paremal käel"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "kullas"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofiri"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:26.704021910Z",
+  "model": "glm-5.3"
+}

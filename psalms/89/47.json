@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מה",
+      "rationale": "Sõna-sõnalt 'kuni mida' — eesti idiom 'kui kaua'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "viha",
+      "rationale": "חמה on sõna-sõnalt 'kuumus\/palavus', kujundlikult viha"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kõneleja küsimus Jahvele",
+      "rationale": "Kaks otsest küsimust Jumalale tõmbavad kuulaja kaasa"
+    }
+  ],
+  "translation": "Kui kaua, Jahve, peidad sa end igavesti? Kas sinu viha põleb nagu tuli?",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f2361448b820e43538140bba91febbd67508c36144c0299ff41f8c16d53c905e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/45-48.1792553638090.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kui kaua"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "peidad sa end"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "igavesti"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "kas ... põleb"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nagu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tuli"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "sinu viha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:58.092739156Z",
+  "model": "glm-5.3"
+}

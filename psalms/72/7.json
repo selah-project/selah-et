@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד בלי ירח",
+      "rationale": "Otsetõlge 'kuni kuu puuduseni' ehk 'kuni pole enam kuud' — mõõdupuu on igavik, mitte astronoomiline lõpp."
+    },
+    {
+      "kind": "measurement",
+      "subject": "kuni pole enam kuud",
+      "rationale": "Aja mõõtmine kuu kaudu: rahu kestus mõõdetakse taevakeha elueaga."
+    }
+  ],
+  "translation": "Õitsgu tema päevil õiglane ja rikkalik rahu, kuni pole enam kuud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/72\/5-8.1792553371463.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "õitsgu"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "tema päevil"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "õiglane"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja rikkalik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "rahu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kuud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:31.464478363Z",
+  "model": "glm-5.3"
+}

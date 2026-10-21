@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דל",
+      "rationale": "sõna otseses tähenduses 'rippuv, nõrk' — 'tolpnik' edastab nõrkuse pildi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקימי\/ירים",
+      "rationale": "kaks tõstmise verbi (qum\/rum) paaris — tõus ja kõrgendamine, korduv tõstmise rütm"
+    }
+  ],
+  "translation": "Ta tõstab üles tolpniku tolmust, prügimäelt tõstab ta üles vaese.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b66ab65988add8a6d65d65d76d0feb34f02fdd6f45802f496aaf324e7f7f74ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/113\/5-8.1792553944910.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "tõstab üles"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "tolmust"
+    },
+    {
+      "surface": "דל",
+      "gloss": "tolpniku"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "prügimäelt"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "tõstab üles"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "vaese"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:04.911238452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti kõnesõna — heebreas puudub"
+    },
+    {
+      "kind": "substitution",
+      "subject": "miškanid",
+      "rationale": "משכנות jääb heebrea kõla järgi, mitte 'elamud'"
+    },
+    {
+      "kind": "crux",
+      "subject": "kes ei tunda Elist",
+      "rationale": "לא ידע אל: 'see, kes Ei tunda Eli' (enamik) vs 'koht, mida El ei tunne' (YLT); subjekt on kahest viimasest sõnast kahene"
+    }
+  ],
+  "translation": "Kindlasti need ⟨on⟩ üleastuja miškanid, ja see ⟨on⟩ koht sellele, kes ei tunda ⟨את⟩ Elist.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "924f3a2efc525b5d3e5b0f6af4a75bb198b929e33c229cacdd6e36ae489b88f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/18\/21-21.1792555348460.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kindlasti"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "miškanid"
+    },
+    {
+      "surface": "עול",
+      "gloss": "üleastuja"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ja see"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "koht"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elist"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:28.460560786Z",
+  "model": "glm-5.3"
+}

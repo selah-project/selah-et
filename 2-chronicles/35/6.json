@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 35:6",
+  "book": "2-chronicles",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "leviitidele",
+      "rationale": "Otsene käskiv kõne — Joosija käsib leviitidel pesah tappa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pesah",
+      "rationale": "הפסח on nii pidusõna kui ohver; jäetud nimega 'pesah', mitte 'pesah-lambad'."
+    }
+  ],
+  "translation": "Ja teie tapke ⟨את⟩ pesah ja pühitsege endid ja valmistage oma vendi, et teha Jahve sõna järgi Moše käe läbi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "222e660984a6101e96b5e5262be30bf4f613f811e6ae2ec49640c1f5e66453e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/35\/5-8.1792558239136.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטו",
+      "gloss": "ja tapke"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesah"
+    },
+    {
+      "surface": "והתקדשו",
+      "gloss": "ja pühitsege endid"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ja valmistage"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "oma vendi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "et teha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sõna järgi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "käe läbi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-10-21T04:50:39.136993111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the son",
+      "rationale": " isa kõneleb pojale imperatiiviga: 'Mu poeg, hoia…'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "eelitsiooniprepositsioon את + כ 'sinuga', tõlgitud 'endasse'."
+    }
+  ],
+  "translation": "Mu poeg, hoia mu sõnu ja mu käske peida ⟨endasse⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/7\/1-4.1792554566320.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mu poeg"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hoia"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mu sõnu"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ja mu käske"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "peida"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ endasse",
+      "marks": "mu sõnu ja mu käske"
+    }
+  ],
+  "timestamp": "2026-10-21T03:49:26.321231286Z",
+  "model": "glm-5.3"
+}

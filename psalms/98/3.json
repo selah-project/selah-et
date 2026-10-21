@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Koping lisatud — heebrea perfekti puuduv koping eesti vajab"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesed",
+      "rationale": "D2: 'halastus' üksi on tagasi lükatud — hesed jääb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "paralleel hesed \/ emunah",
+      "rationale": "Chiasmuse-laadne paar: heldus ja ustavus Jisraelile — pääste kogu maale"
+    }
+  ],
+  "translation": "Ta on meenutanud oma hesedi ja oma ustavust Jisraeli soole; näinud ⟨on⟩ kogu maa otsad ⟨את⟩ meie Elohimi päästet.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/98\/1-4.1792553738626.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "on meenutanud"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "oma hesedi"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ja oma ustavust"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "soole"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "näinud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "otsad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meie Elohimi päästet"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "päästet"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "meie Elohim"
+    }
+  ],
+  "timestamp": "2026-10-21T03:35:38.628085204Z",
+  "model": "glm-5.3"
+}

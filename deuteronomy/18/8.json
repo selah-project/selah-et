@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלק כחלק",
+      "rationale": "Kordus 'osa nagu osa' — võrdlus omaenda osaga, heebrea sõnade mäng jääb eestis sõna-sõnalises vastuses säilima"
+    },
+    {
+      "kind": "crux",
+      "subject": "על האבות",
+      "rationale": "'isade järgi \/ isadeksolemise peale' — kas lisasissetulek pärineb põlise varast (kodulinnas) või jaotusest isade perekondade kaupa (JPS)"
+    }
+  ],
+  "translation": "osa nagu osa nad söövad, peale selle, mis tuleb ta müügist isade järgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/18\/5-8.1792540967125.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "osa"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "nagu osa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "nad söövad"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "peale selle"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ta müügist"
+    },
+    {
+      "surface": "על",
+      "gloss": "järgi"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "isade"
+    }
+  ],
+  "timestamp": "2026-10-21T00:02:47.126464337Z",
+  "model": "glm-5.3"
+}

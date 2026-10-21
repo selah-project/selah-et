@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hasiidid",
+      "rationale": "חסיד on hesed-juurest: 'heldus, ustavus' — 'püha' või 'vaga' jätab rootsi lahkamata"
+    },
+    {
+      "kind": "invitation",
+      "subject": "kogudus",
+      "rationale": "Käskkõne: mängige ja tänake — psalm pöördub kõnetatava poole"
+    }
+  ],
+  "translation": "Pisige Jahvele, tema hasiidid, ja tänage tema püha mälestust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/30\/5-8.1792552644571.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pisige"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "tema hasiidid"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ja tänage"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "mälestust"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "tema püha"
+    }
+  ],
+  "timestamp": "2026-10-21T03:17:24.571605911Z",
+  "model": "glm-5.3"
+}

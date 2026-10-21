@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Heebrea puudub koopula; nimiväitus vajab eesti keeles 'oli'"
+    },
+    {
+      "kind": "you",
+      "subject": "kuningas → Tsiba",
+      "rationale": "Kuningas pöördub otseselt Tsiba poole küsimusega 'kas sina oled Tsiba'"
+    }
+  ],
+  "translation": "Ja Šauli soost ⟨oli⟩ ori, ja tema nimi oli Tsiba; ja nad kutsusid ta Davidi juurde, ja kuningas ütles talle: kas sina oled Tsiba? Ja ta ütles: sinu ori.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0c217938e14325f5325a284796e91a7b0780ca7e6b13ad5c2d823e880afc207a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/9\/1-4.1792544662615.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ja Šauli soost"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ori"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ja tema nimi"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ja nad kutsusid"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "juurde"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "kas sina"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "oled Tsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sinu ori"
+    }
+  ],
+  "timestamp": "2026-10-21T01:04:22.616544337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 11:4",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלמה\/שלם",
+      "rationale": "Šelomo nimi ja 'šalem' (terviklik) sama juur — kibed iroonia: Šelomo süda ei olnud šalem."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨oli⟩",
+      "rationale": "Eesti võrdluskond nõuab verbi, heebrea jätab selle ära."
+    },
+    {
+      "kind": "substitution",
+      "subject": "jumalad",
+      "rationale": "אלהים אחרים = teised jumalad, väikse tähega — mitte nimi Elohim."
+    }
+  ],
+  "translation": "Ja sündis Šelomo vanaduse ajal, et ta naised pöörasid ⟨את⟩ ta südame teiste jumalate järele; ja ta süda ei olnud terviklik Jahve, ta Elohimiga, nagu ta isa Davidi süda ⟨oli⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b241f353cc1a0426e58394d62b0e8045655584f8d89797b259e33eb2d05c323d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/11\/1-4.1792545503264.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ja sündis"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ajal"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "vanaduse"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ta naised"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "pöörasid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta süda"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ta süda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "järele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jumalate"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "teiste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ja mitte"
+    },
+    {
+      "surface": "היה",
+      "gloss": "olinud"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ta süda"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "terviklik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "koos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ta Elohim"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "nagu süda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ta isa"
+    }
+  ],
+  "timestamp": "2026-10-21T01:18:23.265997703Z",
+  "model": "glm-5.3"
+}

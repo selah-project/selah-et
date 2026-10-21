@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kolmkümmend tuhat",
+      "rationale": "Valitud meeste arv loetakse täpselt ära."
+    },
+    {
+      "kind": "substitution",
+      "subject": "väljavalitud mehed",
+      "rationale": "בחור on valitud (noor)meeste kiht, üks sõna jagatud eestisse kaheks."
+    }
+  ],
+  "translation": "Ja David kogus veel kokku ⟨את⟩ kõik väljavalitud mehed Jisraelis, kolmkümmend tuhat.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/6\/1-4.1792544533655.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ja kogus kokku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "veel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik väljavalitud mehed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "väljavalitud mehed"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Jisraelis"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kolmkümmend"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tuhat"
+    }
+  ],
+  "timestamp": "2026-10-21T01:02:13.657598191Z",
+  "model": "glm-5.3"
+}

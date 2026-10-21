@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab öeldisest sidesõna, heebrea keeles puudub"
+    },
+    {
+      "kind": "crux",
+      "subject": "רהטים",
+      "rationale": "Sõna tähendab sõna-sõnalt 'kanaleid\/niisutusrenne', siin ülekantult paralleelsed juustelokid; alternatiivsed tõlked: 'räästaste külge seotud'"
+    }
+  ],
+  "translation": "Su pea sinul ⟨on⟩ nagu Karmel, ja su pea lookus nagu purpur; kuningas ⟨on⟩ seotud juustepuntratesse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/song-of-songs\/7\/5-8.1792555817013.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשך",
+      "gloss": "su pea"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sinul"
+    },
+    {
+      "surface": "ככרמל",
+      "gloss": "nagu Karmel"
+    },
+    {
+      "surface": "ודלת",
+      "gloss": "ja lookus"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "su pea"
+    },
+    {
+      "surface": "כארגמן",
+      "gloss": "nagu purpur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuningas"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "seotud"
+    },
+    {
+      "surface": "ברהטים",
+      "gloss": "juustepuntratesse"
+    }
+  ],
+  "timestamp": "2026-10-21T04:10:17.013933727Z",
+  "model": "glm-5.3"
+}

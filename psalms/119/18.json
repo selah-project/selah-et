@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kata lahti",
+      "rationale": "גל tähendab sõna-sõnalt 'paljasta, võta kate'; 'ava' on tavapärane kuid nõrgem."
+    },
+    {
+      "kind": "invitation",
+      "subject": "palve Jumalale",
+      "rationale": "Salm on palve-kutse: palvetaja palub avatud silmi."
+    }
+  ],
+  "translation": "Kata lahti mu silmad, et ⟨ma⟩ vaataksin imesid sinu Toorast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/17-20.1792553996519.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Kata lahti"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mu silmad"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "et vaataksin"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "imesid"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "sinu Toorast"
+    }
+  ],
+  "timestamp": "2026-10-21T03:39:56.520147451Z",
+  "model": "glm-5.3"
+}

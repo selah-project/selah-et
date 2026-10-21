@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jakovale",
+      "rationale": "Poeg räägib otseselt isale — tingimuslik ähvardus jääda koju."
+    },
+    {
+      "kind": "idiom",
+      "subject": "näha nägu",
+      "rationale": "Heebrea ראה פנים tähendab 'audientsil olla, ette ilmuda', mitte lihtsalt vaatamist."
+    }
+  ],
+  "translation": "Aga kui sa teda ei saada, ei lasku me alla, sest mees ütles meile: Te ei näe mu nägu, ilma et teie vend on ⟨את⟩ teiega.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/43\/5-8.1792538124567.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "aga kui"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "sa ei"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "saada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "lasku me alla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ütles"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "te näe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mu nägu"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ilma et"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "teie vend"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "teiega"
+    }
+  ],
+  "timestamp": "2026-10-20T23:15:24.568555814Z",
+  "model": "glm-5.3"
+}

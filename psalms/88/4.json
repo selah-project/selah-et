@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש on hingamine, elujõud, kõri — mitte hinges mõttes; kõla järgi 'nefesh'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "šeol",
+      "rationale": "שאול ei ole karistuspaik, vaid surnute maailm; kõla järgi 'šeol'"
+    }
+  ],
+  "translation": "Sest kurjusest on küllastunud mu nefesh, ja mu elu on jõudnud šeolini.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/88\/1-4.1792553588776.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "on küllastunud"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "kurjusest"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mu nefesh"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ja mu elu"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "šeolini"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "on jõudnud"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:08.778376162Z",
+  "model": "glm-5.3"
+}

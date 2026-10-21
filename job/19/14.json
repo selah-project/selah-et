@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 19:14",
+  "book": "job",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopeel lisatud, heebrea parteitsipeeruv lause eeldab eestis kopeelit"
+    },
+    {
+      "kind": "crux",
+      "subject": "חדלו",
+      "rationale": "sõna otseses tähenduses ‘loobusid, jäid ära’ — ‘hüljasid’ vs ‘kadusid ära’"
+    }
+  ],
+  "translation": "Mu lähedased ⟨on⟩ hüljanud mind ja mu tuttavad ⟨on⟩ mind unustanud.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/19\/13-16.1792555375862.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "⟨on⟩ hüljanud"
+    },
+    {
+      "surface": "קרובי",
+      "gloss": "mu lähedased"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ja mu tuttavad"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "mind unustanud"
+    }
+  ],
+  "timestamp": "2026-10-21T04:02:55.863411743Z",
+  "model": "glm-5.3"
+}

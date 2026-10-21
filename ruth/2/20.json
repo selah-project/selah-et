@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 2:20",
+  "book": "ruth",
+  "lang": "et",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ליהוה",
+      "rationale": "'Jahvele' — lamed-prefiks Nime küljes ('Jahve juures \/ Jahve poolt'); Nimi jääb, tiitel ei asenda."
+    },
+    {
+      "kind": "crux",
+      "subject": "את החיים ואת המתים",
+      "rationale": "את H854 'koos\/juures': 'hesed elusate JA surnute juures' (YLT 'with') vs 'elusate ega surnute käest hülgamata' (KJV 'to the living and to the dead')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גואל",
+      "rationale": "'lunastaja' — lähisugulase kohus (3Ms 25), mitte üldine 'sugulane' ega hilisem lunastusmõiste."
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Eesti keel nõuab kopulat, heebrea nominalause seda ei sisalda."
+    }
+  ],
+  "translation": "Ja Naomi ütles oma miniale: õnnistatud olgu ta Jahvele, kes ei ole jätnud maha oma hesedit ⟨את⟩ elusate ega ⟨את⟩ surnute juurest. Ja Naomi ütles talle: mees on meile lähedane, ta ⟨on⟩ meie lunastajatest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "8afdea19469fdd6bb045e5b4657bd46d36a4eee327b4aa6e64a822261ee1deb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ruth\/2\/19-20.1792558671349.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "לכלתה",
+      "gloss": "oma miniale"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "õnnistatud"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "jätnud maha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "oma hesedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elusate"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "elusate"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ega ⟨את⟩"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "surnute"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "לה",
+      "gloss": "talle"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lähedane"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "meile"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "מגאלנו",
+      "gloss": "meie lunastajatest"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:51.355192893Z",
+  "model": "glm-5.3"
+}

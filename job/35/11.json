@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 35:11",
+  "book": "job",
+  "lang": "et",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "rohkem kui",
+      "rationale": "Võrdlev מִ ('kui \/ enam kui') on heebrea eessõna, eestis vajab see lahtiseletamist täiendavate sõnadega."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחכמנו",
+      "rationale": "Verbi aluseks on Eloah või linnud: 'tema teeb meid targaks' või 'nad teevad meid targaks'; tänases eeskujuga 'linnud' (mis on kummaline, sest targemaks teeb Eloah)."
+    }
+  ],
+  "translation": "kes õpetab meid rohkem kui maa kariloomad, ja taeva linnud teevad meid targaks — ⟨mitte⟩, vaid ⟨Eloah⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/35\/9-12.1792555579218.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפנו",
+      "gloss": "õpetab meid"
+    },
+    {
+      "surface": "מבהמות",
+      "gloss": "rohkem kui kariloomad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "ומעוף",
+      "gloss": "ja kui linnud"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "taeva"
+    },
+    {
+      "surface": "יחכמנו",
+      "gloss": "teevad meid targaks"
+    }
+  ],
+  "timestamp": "2026-10-21T04:06:19.219424595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש on pigem kõri \/ elujõud; 'hing' on traditsiooniline kohandus."
+    },
+    {
+      "kind": "hapax_kohandus",
+      "subject": "סלה",
+      "rationale": "Muusikaline pausimärk, tõlkimata jäetud: 'Sela'."
+    }
+  ],
+  "translation": "Paljud ütlevad minu hingele: Ei ole talle päästmist Elohimi juures. Sela.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/3\/1-4.1792552156400.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Paljud"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ütleavad"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "minu hingele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Ei ole"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "päästmist"
+    },
+    {
+      "surface": "לו",
+      "gloss": "talle"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimi juures"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-21T03:09:16.401437382Z",
+  "model": "glm-5.3"
+}

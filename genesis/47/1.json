@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 47:1",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lambad ja kitsed",
+      "rationale": "צאן on kollektiivne sõna nii lammaste kui kitsede karja kohta; eesti ei ole ühe sõnaga kaetud"
+    },
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "eesti nõuab sidesõna 'mis neil on' ja 'nad on', heebrea puudub"
+    }
+  ],
+  "translation": "Ja Joosep tuli ja teatas Paroile ning ütles: mu isa ja mu vennad ning nende lambad ja kitsed ning nende veised ja kõik, mis neil on, on tulnud Kenaani maalt, ja vaata, nad on Goseni maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2c70be1b322ab509baa662efa70d8a8a9c2cf79c9d77561740443081db47691a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/47\/1-4.1792538132893.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ja tuli"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosep"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ja teatas"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroile"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ütles"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mu isa"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "ja mu vennad"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "ja nende lambad ja kitsed"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "ja nende veised"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja kõik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "להם",
+      "gloss": "neil on"
+    },
+    {
+      "surface": "באו",
+      "gloss": "on tulnud"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "maalt"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ja vaata, nad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goseni"
+    }
+  ],
+  "timestamp": "2026-10-20T23:15:32.894531003Z",
+  "model": "glm-5.3"
+}

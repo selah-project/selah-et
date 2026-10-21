@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "et",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sinu",
+      "rationale": "Eesti omastav kääne nõuab possessiivi, mis heebrea lõpp juba kannab"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבור בגבור",
+      "rationale": "kordus 'vägev vägeva vastu' — kõlab ka eesti keeles"
+    },
+    {
+      "kind": "you",
+      "subject": "Egiptusele",
+      "rationale": "salm pöördub kaudselt Egiptuse (neitsi, tütre) poole"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמעו",
+      "rationale": "'on kuulnud' kuulutab kuulmise välja kui tunnistuse"
+    }
+  ],
+  "translation": "Rahvad on kuulnud ⟨sinu⟩ häbist ja sinu kisendus on täitnud maa, sest vägev on vägeva vastu komistanud, üheskoos nad langesid, mõlemad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c89a7ec6d96b62b6e4f3d48eae8791f0b105ad61fee5e46f038b995c09285a3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/46\/12-12.1792558443845.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "on kuulnud"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "rahvad"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "sinu häbi"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "ja sinu kisendus"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "on täitnud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "vägev"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "vägeva vastu"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "on komistanud"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "üheskoos"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nad langesid"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mõlemad"
+    }
+  ],
+  "timestamp": "2026-10-21T04:54:03.845787348Z",
+  "model": "glm-5.3"
+}

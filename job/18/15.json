@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 18:15",
+  "book": "job",
+  "lang": "et",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבלי לו",
+      "rationale": "'mis talle ei kuulu' (KJV) vs 'ilma tema loata' vs 'koletis, mis pole inimene' — heebrea üsnake"
+    },
+    {
+      "kind": "substitution",
+      "subject": "väävel",
+      "rationale": "גפרית sõnasõnalt 'küpressivaik', kõvavaid, nagu väävelgi"
+    }
+  ],
+  "translation": "Tema telgis elab see, mis talle ei kuulu; tema elupaigale puistetakse väävlit.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/18\/13-16.1792555387131.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשכון",
+      "gloss": "elab"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "tema telgis"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "millest ilma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tema"
+    },
+    {
+      "surface": "יזרה",
+      "gloss": "puistetakse"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "tema elupaigale"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "väävlit"
+    }
+  ],
+  "timestamp": "2026-10-21T04:03:07.131892569Z",
+  "model": "glm-5.3"
+}

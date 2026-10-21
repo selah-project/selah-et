@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "et",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "andsid käe",
+      "rationale": "Heebrea kinnituse, tõotuse andmise tavamääratlus: käe andmine lubaduse pitseriks."
+    },
+    {
+      "kind": "substitution",
+      "subject": "süüohvri talls",
+      "rationale": "איל צאן = 'karja tall'; צאן hõlmab lambaid ja kitsi, mitte ainult lambaid."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשמים\/אשמתם",
+      "rationale": "Sõnamäng: 'süüdi olles' (אשמים) ja 'oma süü' (אשמתם) — süü ja ohver lähevad läbi ühe juure."
+    }
+  ],
+  "translation": "Ja nad andsid ⟨oma⟩ käe oma naiste väljaajamiseks; ja süüdi olles andsid nad ⟨את⟩ karja tallama õndsusohvri nimega oma süü eest.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/10\/17-20.1792556787647.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "andsid"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "käe"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "väljaajamiseks"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "oma naised"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "süüdi olles"
+    },
+    {
+      "surface": "איל",
+      "gloss": "tallama"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karja"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "oma süü"
+    }
+  ],
+  "timestamp": "2026-10-21T04:26:27.648633004Z",
+  "model": "glm-5.3"
+}

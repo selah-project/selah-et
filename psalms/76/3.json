@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "on",
+      "rationale": "Kopula lisatud, heebrea ויהי on rõhutus 'ja ta oli\/tema on'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "onn",
+      "rationale": "סוכו tähendab okstest punutud onni; traditsiooniline 'telk' kaotab sõna kuju"
+    }
+  ],
+  "translation": "Ja Šalemis ⟨on⟩ ta onn ja ta eluase Siionis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/76\/1-4.1792553366816.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨on⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Šalemis"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ta onn"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ja ta eluase"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Siionis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:26.817536969Z",
+  "model": "glm-5.3"
+}

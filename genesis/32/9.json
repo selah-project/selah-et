@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ja ta ütles",
+      "rationale": "Kontekst paigutab selle mõttekõnena Jaakovi sisemusse: 'ja ta mõtles' — heebrea ויאמר jääb siiski 'ütlema'."
+    },
+    {
+      "kind": "elision",
+      "subject": "והכהו",
+      "rationale": "Heebrea otsesihitise lõpp- asesõna '-o' ('lööb seda') on eesti keeles lisatud asesõnaga, mis heebreas on sõnas sees."
+    }
+  ],
+  "translation": "Ja ta ütles: Kui Esav tuleb ühe laagri peale ja lööb seda, siis saab järelejäänud laager ⟨pääsemiseks⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a051a49a2e0a04c31e0fe5881ab1df3ea41e37ea7fdb45f9c75ce208c83c63b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/32\/9-12.1792537889896.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ja ta ütles"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tuleb"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "peale"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "laager"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "üks"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "ja lööb seda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "siis saab"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "laager"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "järelejäänud"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "pääsemiseks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:29.896908522Z",
+  "model": "glm-5.3"
+}

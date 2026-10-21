@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידרכון",
+      "rationale": "דרך tähendab nii 'astuma' kui 'vibu tallates vibutama' — pilt jalaga vibutallavast lasust, eesti keeles 'painutama'"
+    },
+    {
+      "kind": "elision",
+      "subject": "במו",
+      "rationale": "tugevdatud eessõna 'just ... sees' ilma eraldi vasteta"
+    }
+  ],
+  "translation": "Sest vaata, õelad painutavad vine, nad seavad oma noole nöörile, et lasta pimeduses sirge südamega lastele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/11\/1-4.1792552344549.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "vaata"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "õelad"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "painutavad"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "vine"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "seavad"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "oma noole"
+    },
+    {
+      "surface": "על",
+      "gloss": "nöörile"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "nöörile"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "et lasta"
+    },
+    {
+      "surface": "במו",
+      "gloss": ""
+    },
+    {
+      "surface": "אפל",
+      "gloss": "pimeduses"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sirge"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südamega lastele"
+    }
+  ],
+  "timestamp": "2026-10-21T03:12:24.551159567Z",
+  "model": "glm-5.3"
+}

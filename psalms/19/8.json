@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hingele",
+      "rationale": "נפש on elujõud\/hingamine, mitte surematu 'hing'."
+    },
+    {
+      "kind": "crux",
+      "subject": "toob hingele tagasipöörde",
+      "rationale": "משיבת נפש: 'tagasi pöörama', 'elustama', 'värskendama' — kõik tuntud variandid."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Kaks saatmilist rida: Toora\/tunnistus, täiuslik\/usaldatav, teeb\/teeb — salmi ehitus paralleelsusega, eesti keeles osaliselt kaotatud."
+    }
+  ],
+  "translation": "Jahve Toora on täiuslik, see toob hingele tagasipöörde; Jahve tunnistus on usaldatav, see teeb lihtsameelse targaks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/19\/5-8.1792552458058.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Toora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "täiuslik"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "toob tagasipöörde"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "hingele"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "tunnistus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "usaldatav"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "teeb targaks"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "lihtsameelse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:14:18.060979111Z",
+  "model": "glm-5.3"
+}

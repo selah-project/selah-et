@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר בליעל",
+      "rationale": "'Beliali sõna' — heebrea idiom 'asjatu\/kuri asi'; sõnasõnaline pilt hoitud."
+    },
+    {
+      "kind": "elision",
+      "subject": "בו",
+      "gloss": "eraldi; eeldatav kõne (nad ütlevad) jääb eesti tekstis märkimata."
+    }
+  ],
+  "translation": "Beliali sõna valatakse tema peale; ja kes lamab, ei tõuse enam üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/41\/9-12.1792552867183.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "sõna"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliali"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "valatakse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tema peale"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ja kes"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lamab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "enam"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "tõuse üles"
+    }
+  ],
+  "timestamp": "2026-10-21T03:21:07.183848287Z",
+  "model": "glm-5.3"
+}

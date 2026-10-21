@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "relatiiv",
+      "rationale": "Eesti relatiivlause nõuab sidesõnu, mida heebrea אשrer ei kanna üksikuid vastesõnu"
+    }
+  ],
+  "translation": "Ja ma teen sinus ⟨את⟩ seda, mida ma ei ole teinud, ja ⟨את⟩ seda, mille sarnast ma enam ei tee, kõigi sinu jäleduste pärast.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b2103074850ce3e2153964d7b9a979b1d4b5bd54863a55f02c32830b80b97062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/5\/9-12.1792549691912.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ja ma teen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sinus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seda, mida ma ei ole teinud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ma olen teinud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ja ⟨את⟩",
+      "marks": "seda, mille sarnast ma enam ei tee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ma teen"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "selle sarnast"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enam"
+    },
+    {
+      "surface": "יען",
+      "gloss": "pärast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigi"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "sinu jäleduste"
+    }
+  ],
+  "timestamp": "2026-10-21T02:28:11.913489268Z",
+  "model": "glm-5.3"
+}

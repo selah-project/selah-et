@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פסת",
+      "rationale": "Lemma פסה esineb Tanahhis ainult siin — „küllus\/rohkus” on tuletatud kontekstist."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעיר",
+      "rationale": "„Linnast” (KJV „they of the city”) või võimalik reeding „meestest” (מאיר?) — enamik loeb linna elanikke."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעש…לבנון",
+      "rationale": "Levanoni seedrite lainetamine põllul ja mäe võrdlus — רעש sama verbi kaja, eesti keeles „vannutab”."
+    }
+  ],
+  "translation": "Olgu teraviljaküllus maal, mägede tippudel; see vannutagu nagu Levanon oma vilja, ja nad õitsegu linnast nagu maa rohi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/72\/13-16.1792553367829.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "küllus"
+    },
+    {
+      "surface": "בר",
+      "gloss": "teravilja"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "maal"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "tippudel"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mägede"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "vannutagu"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "nagu Levanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "oma vilja"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ja nad õitsegu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "linnast"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "nagu rohi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maa"
+    }
+  ],
+  "timestamp": "2026-10-21T03:29:27.831208204Z",
+  "model": "glm-5.3"
+}

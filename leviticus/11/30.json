@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "והלטאה",
+      "rationale": "letaa — sõna esineb Tanahhis vaid siin."
+    },
+    {
+      "kind": "crux",
+      "subject": "koahh",
+      "rationale": "sõna tähendab 'vägev', kuid siin on liigi nimi — asv\/jps 'maisma krokodill', KJV 'tuhkur'."
+    }
+  ],
+  "translation": "ja geko ja koahh ja letaa ja liivasisalik ja kameeleon.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "0e1ef9d19747433d9529591c3d70b7823aafe512cf4a495f34251f2bbf4d30ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/29-32.1792539282823.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ja geko"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ja koahh"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ja letaa"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ja liivasisalik"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ja kameeleon"
+    }
+  ],
+  "timestamp": "2026-10-20T23:34:42.824264412Z",
+  "model": "glm-5.3"
+}

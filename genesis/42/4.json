@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אסון",
+      "rationale": "Sõna tähendab 'kahju, õnnetus' — tõlgitud 'õnnetus' või 'kahju'; 1Ms 44:29 seob selle surmaga."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אסון",
+      "rationale": "Sõna esineb Tanahhis vaid paaris kohas (1Ms 42:4, 38; 44:29) — haruldane."
+    }
+  ],
+  "translation": "Aga Binjaminsid, Joosevi venda, ei saatnud Jaakov ⟨את⟩ oma vendadega, sest ta ütles: et teda ei tabaks õnnetus.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/42\/1-4.1792538097374.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "aga ⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "vend"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosevi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "saadanud"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma vendi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "oma vendadega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ta ütles"
+    },
+    {
+      "surface": "פן",
+      "gloss": "et mitte"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "teda ei tabaks"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "õnnetus"
+    }
+  ],
+  "timestamp": "2026-10-20T23:14:57.375512444Z",
+  "model": "glm-5.3"
+}

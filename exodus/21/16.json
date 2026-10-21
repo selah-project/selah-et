@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Infinitiivi absoluudi kordus nagu v. 15: 'surema ta sureb'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בידו",
+      "rationale": "'tema käes' võib tähendada nii varga kui ostja käes olemist — kas müüja või ostja vastutus."
+    }
+  ],
+  "translation": "Ja kes varastab mehe ja müüb ta ära, ja ta leitakse tema käes, surma peab ta surema.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/21\/13-16.1792538667466.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "ja kes varastab"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mehe"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ja müüb ta ära"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ja ta leitakse"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tema käes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "surma"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "peab ta surema"
+    }
+  ],
+  "timestamp": "2026-10-20T23:24:27.467952149Z",
+  "model": "glm-5.3"
+}

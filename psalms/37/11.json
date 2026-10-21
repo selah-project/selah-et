@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šalom",
+      "rationale": "שלום jääb kui šalom, mitte 'rahu' üksi — see on terviklik heaolu"
+    }
+  ],
+  "translation": "Aga säärased pärandavad maa ja nad rõõmustavad rikkalikus šalomis.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/37\/9-12.1792552718354.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "aga säärased"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "pärandavad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "maa"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ja nad rõõmutsevad"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rikkalikus"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalomis"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:38.355028584Z",
+  "model": "glm-5.3"
+}

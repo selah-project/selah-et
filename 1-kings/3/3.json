@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nõnda et",
+      "rationale": "ללכת on eesmärk-täiend: 'armastas Jahvet, et käia' — sidesõna lisatud eesti loetavuseks"
+    },
+    {
+      "kind": "substitution",
+      "subject": "suitsu tõi üles",
+      "rationale": "מקטיר on 'teeb suitsuks \/ laseb (mündri)tõusta' — põletusohvri tõusvate lõhnade pilt"
+    }
+  ],
+  "translation": "Ja Šelomo armastas ⟨את⟩ Jahvet, nõnda et ta käis Daavid, oma isa, põhimääruste järgi; ainult kõrgkohtadel ohverdas ja suitsu tõi ta üles.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/3\/1-4.1792545174241.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "armastas"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvet"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "käima"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "põhimääruste järgi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daavid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "oma isa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ainult"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kõrgkohtadel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ohverdas"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ja suitsu tõi üles"
+    }
+  ],
+  "timestamp": "2026-10-21T01:12:54.242777453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "et",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "teie sõnade hääl",
+      "rationale": "Heebrea «קול דבריכם» sõnasõnaline hääluste kujund; tähendab «mida te ütlesite»."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Heebrea puudub korduv kaudne asesõna; eesti lause nõuab seda."
+    }
+  ],
+  "translation": "Ja Jahve kuulis teie sõnade ⟨את⟩ häält, ja ta vihastus, ja vannus, öeldes:",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/33-36.1792540574663.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ja kuulis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "häält"
+    },
+    {
+      "surface": "קול",
+      "gloss": "häält"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "teie sõnade"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ja vihastus"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ja vannus"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "öeldes"
+    }
+  ],
+  "timestamp": "2026-10-20T23:56:14.664932083Z",
+  "model": "glm-5.3"
+}

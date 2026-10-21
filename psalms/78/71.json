@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרעות",
+      "rationale": "'karjatama' (פועל רעי) vs 'valitsema' — sõna-sõnalt karjatamine, kujundis valitsemine."
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Eesti kaudne kääne nõuab otsese objekti pronoomeni, mida heebrea ei ütle."
+    }
+  ],
+  "translation": "Piimavadest lammastest tõi ta ta karjatama Jaakobi, oma rahvast, ja Jisraeli, oma pärandust.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "25a17ec22a3581843e01c64f78089144b19a6c6669c883c1d7c8d3140f0fea70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/78\/69-72.1792553415650.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "järelt"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "piimavatest lammastest"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "tõi ta ta"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "karjatama"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Jaakobi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oma rahvast"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "ja Jisraeli"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "oma pärandust"
+    }
+  ],
+  "timestamp": "2026-10-21T03:30:15.651068403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "varasem seisund",
+      "rationale": "שבות tähendab 'vangipõlv, pagulus'; idioom 'pöörama tagasi kellegi vangipõlve' = taastama varasema õnne — 'vangipõlv' vs 'varasem seisund\/õnn'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "topelt",
+      "rationale": "למשנה sõnasõnalt 'korduseks, kahendiks' — kõik, mis Iiobil oli, tuli kahekordselt tagasi"
+    }
+  ],
+  "translation": "Ja Jahve pööras tagasi ⟨את⟩ Iiobi varasema seisundi, kui ta palvetas oma sõbra eest; ja Jahve lisas kõigele, mis Iiobil oli, ⟨את⟩ topelt.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/42\/9-12.1792555774514.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ja Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "pööras tagasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iiobi varasema seisundi"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "varasema seisundi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiobi"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "kui ta palvetas"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "eest"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oma sõbra"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ja lisas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kõik, mis Iiobil oli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kõigele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Iiobil"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "topelt"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:34.515849941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Estonian requires a copula that the Hebrew יהיו carries as emphatic 'they shall be'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "the verse addresses the royal bridegroom directly in second person"
+    }
+  ],
+  "translation": "Sinu isade asemel ⟨on⟩ sinu pojad; sa määrad nad vürstideks kogu maal.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/45\/17-18.1792552812902.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "asemel"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "sinu isade"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sinu pojad"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "sa määrad nad"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "vürstideks"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "maal"
+    }
+  ],
+  "timestamp": "2026-10-21T03:20:12.902814257Z",
+  "model": "glm-5.3"
+}

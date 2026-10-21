@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחלי",
+      "rationale": "soovipartikkel 'ah et' — ihaav soov, mitte küsimus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חקיך",
+      "rationale": "חק on määrus\/käsk; 'käsk' kitsendab 'ettekirjutuse' tähendust"
+    }
+  ],
+  "translation": "Ah et mu teed saaksid kindlaks seatud ⟨את⟩ su käskude pidamiseks!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/5-8.1792554002200.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ah et"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "saaksid kindlaks seatud"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mu teed"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "pidamiseks"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "su käskude"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:02.200536718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאון...שאון",
+      "rationale": "kordus 'merede kohina \/ nende laineide kohina' — heebrea kajab, eesti kordab sama sõna"
+    },
+    {
+      "kind": "crux",
+      "subject": "משביח",
+      "rationale": "hifil שבח: 'vaigistab\/piirab' (nagu veel keisest) vs 'kiidab' — kontektis mere kohinast rääkides 'piirab, vaigistab'"
+    }
+  ],
+  "translation": "Vaigistab merede kohina, nende laineide kohina ja rahvaste halgava.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/65\/5-8.1792553124496.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "vaigistab"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kohina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "merede"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kohina"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "nende laineide"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ja halgava"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "rahvaste"
+    }
+  ],
+  "timestamp": "2026-10-21T03:25:24.497316096Z",
+  "model": "glm-5.3"
+}

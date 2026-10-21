@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "et",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨olen⟩",
+      "rationale": "Heebrea puudub kopeer; luuletusreale lisatud verbi eest"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefeshi",
+      "rationale": "נפש on kõri\/elujõud, mitte 'hing' klassikalses mõttes; kõla järgi säilitatud"
+    },
+    {
+      "kind": "crux",
+      "subject": "תם אני",
+      "rationale": "KJV 'Though I were perfect' tingiv vs YLT 'Perfect I am!' väitev"
+    }
+  ],
+  "translation": "Täiuslik ⟨olen⟩ mina — ma ei tunne ⟨oma⟩ nefeshi, oma elu tõugan mina eemale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/9\/21-24.1792555210722.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Täiuslik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tunne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "tõugan eemale"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "elu"
+    }
+  ],
+  "timestamp": "2026-10-21T04:00:10.722750406Z",
+  "model": "glm-5.3"
+}

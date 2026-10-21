@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "šeminit",
+      "rationale": "Tähendus lahtine: kaheksakeelne pill, kaheksas viis või oktavi register."
+    },
+    {
+      "kind": "hapax",
+      "subject": "השמינית",
+      "rationale": "Sõna esineb Tanahhis vaid siin ja Ps 6:1 pealkirjas."
+    }
+  ],
+  "translation": "Laulujuhatajale, šeminiti ⟨viisil⟩ — psalm, Davidi ⟨päralt⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/12\/1-4.1792552315500.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Laulujuhatajale"
+    },
+    {
+      "surface": "על",
+      "gloss": "peal"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "šeminiti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidi"
+    }
+  ],
+  "timestamp": "2026-10-21T03:11:55.501232526Z",
+  "model": "glm-5.3"
+}

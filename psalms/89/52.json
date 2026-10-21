@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "võitu",
+      "rationale": "משיחך on kuninga kohta 'võitu', mitte 'Messias'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפו...חרפו",
+      "rationale": "teotamise kordus rööpbitud lauses, eesti keeles säilitatud kordusena"
+    }
+  ],
+  "translation": "mida su vaenlased on teotanud, Jahve, mida nad on teotanud sinu võitu jälgi.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/49-52.1792553627898.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "on teotanud"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "su vaenlased"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mida"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "on teotanud"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "jälgi"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sinu võitu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:33:47.899529903Z",
+  "model": "glm-5.3"
+}

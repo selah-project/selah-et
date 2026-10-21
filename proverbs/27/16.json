@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקרא",
+      "rationale": "KJV 'ilmutab end' vs ASV 'kohtub õliga' — käänamine kipub alt välja libisema nagu õli"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צפניה\/צפן",
+      "rationale": "Sama verbi kordus osalise ja finiidi kujul — peeglikordus"
+    }
+  ],
+  "translation": "Kes teda varjab, varjab tuult, ja tema parema käe salv kutsub ⟨endale⟩ tähelepanu.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/27\/13-16.1792554970697.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "kes teda varjab"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "varjab"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "tuult"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ja salvi"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tema parema käe"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kutub välja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:56:10.698820052Z",
+  "model": "glm-5.3"
+}

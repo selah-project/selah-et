@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "et",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩",
+      "rationale": "Koopula lisatud; heebrea predikatiivadjektiiv lihtsalt ees"
+    },
+    {
+      "kind": "crux",
+      "subject": "רטב הוא",
+      "rationale": "'Ta ⟨on⟩ mahlakas' (taim, KJV\/JPS) vs Wycliffe 'kõrkjas märg' papüüruse kohta vs mõned 'kui päike paistab, on ta ( veel) märg'"
+    }
+  ],
+  "translation": "Mahlakas ⟨on⟩ ta päikese ees ja tema võsud lähevad välja tema aia kohale.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1fbb6e9064788810727e4e0f96ccd6f54c98634d3b252371107e7a33bc4756d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/8\/13-16.1792555178501.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "Mahlakas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "päikese"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja ... kohale"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "tema aia"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "tema võsud"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lähevad välja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:38.502821790Z",
+  "model": "glm-5.3"
+}

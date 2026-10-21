@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "Sõna-sõnalt 'pika-ninapojad' — viha põlemine ninas, 'pikaople' on eesti idiomiks teisendatud."
+    },
+    {
+      "kind": "elision",
+      "subject": "אפים",
+      "rationale": "Heebrea sõna 'ninapojad' idiomis 'pikaople' sees ei eraldu eesti tõlkes oma sõnana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "Hesed jääb heebrea sõnaks reegli järgi, mitte 'armastus' ega 'halastus'."
+    }
+  ],
+  "translation": "Halastav ja armuline on Jahve, pikaople ja suure hesediga.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "76953d7d3825784251d926e08dcf7de87c3b9a4cb1da4cb2f65ce253c0ca1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/8-8.1792558607514.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Halastav"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ja armuline"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "pikaople"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(ninapojad)"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ja suure"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesediga"
+    }
+  ],
+  "timestamp": "2026-10-21T04:56:47.515449337Z",
+  "model": "glm-5.3"
+}

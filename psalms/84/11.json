@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mujal⟩",
+      "rationale": "Heebrea ütleb lihtsalt 'kui tuhat' — võrdluskoht on lisatud."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הסתופף",
+      "rationale": "Verbi סופף hitpa'eli-vorm 'künnisel istuda\/oota' esineb Tanahhis ainult siin."
+    },
+    {
+      "kind": "crux",
+      "subject": "künnisel seista",
+      "rationale": "KJV 'ukseshoidja' vs JPS 'künnise juures seista' — heebrea sõna-sõnalt 'künnisel olla'."
+    }
+  ],
+  "translation": "Sest parem on üks päev su õuedes kui tuhat ⟨mujal⟩; olen valinud künnisel ⟨seista⟩ oma Elohimi kojas, kui elada telkides paheliste seas.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/84\/9-12.1792553544838.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sest"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "parem on"
+    },
+    {
+      "surface": "יום",
+      "gloss": "üks päev"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "su õuedes"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "kui tuhat"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "olen valinud"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "künnisel ⟨seista⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kojas"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "oma Elohimi"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "kui elada"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "telkides"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "paheliste seas"
+    }
+  ],
+  "timestamp": "2026-10-21T03:32:24.840043578Z",
+  "model": "glm-5.3"
+}

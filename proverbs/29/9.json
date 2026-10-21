@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "et",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשפט",
+      "rationale": "Kes mõistab kohut: tark (nitpael) või teda mõistetakse kohut (vt YLT) — passiivi loetus on vähemuslik."
+    },
+    {
+      "kind": "crux",
+      "subject": "ורגז ושחק",
+      "rationale": "Kumb raevub ja naerab — rumalane või tark; heebrea subjekt on jäetud mainimata."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rahu",
+      "rationale": "נחת on otseselt 'allakäik\/puhkus', siin 'rahulik tulemus', sõna esineb Tanahhis vaid üsna vähe."
+    }
+  ],
+  "translation": "Tark mees mõistab kohut ⟨את⟩ rumala mehe üle, ja see raevub ja naerab, ja rahu ei ole.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/29\/9-12.1792554948696.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "tark"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "mõistab kohut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumala mehe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mees"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "rumal"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "raevub"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "naerab"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ei ole"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rahu"
+    }
+  ],
+  "timestamp": "2026-10-21T03:55:48.696787279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "et",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צמים",
+      "rationale": "kas 'janused' (cbn צמא) või 'püünis' (צם) — enamik tõlkeid valib 'janused' või 'püünis', KJV 'röövel'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצנים",
+      "rationale": "kaktusehekk — esineb Tanahhis ainult siin."
+    }
+  ],
+  "translation": "Kelle lõikuse näljane sööb, ja okastelt see ära võetakse, ja janused ahmivad nende varanduse.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/5\/5-8.1792555152890.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kelle"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "lõikuse"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "näljane"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sööb"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ja okastelt"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "okastelt"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "see ära võetakse"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "ja ahmivad"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "janused"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "nende varanduse"
+    }
+  ],
+  "timestamp": "2026-10-21T03:59:12.890739649Z",
+  "model": "glm-5.3"
+}

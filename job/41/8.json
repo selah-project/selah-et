@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "et",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruahh",
+      "rationale": "רוח jääb ruahhiks — tuul\/hingus\/vaim, üks sõna, kolm asja; siin ilmselt õhk tuule tähenduses, kuid sõna kuju hoitakse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחד באחד",
+      "rationale": "kordus 'üks ühe kõrvale' — soomuste tiheduse kujund, kaja säilib eesti keeles"
+    }
+  ],
+  "translation": "Üks ühe kõrvale nad lähenevad, ja ruahh ei tule nende vahele.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "c0bc479a9ae92182ea333d6629bcf0cdfc9a3558c723087b82f09f9bd075ec1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/41\/8-8.1792558640626.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ühe kõrvale"
+    },
+    {
+      "surface": "יגששו",
+      "gloss": "nad lähenevad"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ja ruahh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "tule"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "nende vahele"
+    }
+  ],
+  "timestamp": "2026-10-21T04:57:20.635328782Z",
+  "model": "glm-5.3"
+}

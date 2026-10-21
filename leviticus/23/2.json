@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "määratud ajad",
+      "rationale": "מועד on 'kokkulepitud aeg', eesti words like 'pühad' või 'peod' kaotaksid sõna kuju"
+    },
+    {
+      "kind": "you",
+      "subject": "Jisraeli poegadele",
+      "rationale": "käsk Mošele rääkida Jisraeli poegadega"
+    }
+  ],
+  "translation": "Räägi Jisraeli poegadega ja ütle neile: Jahve määratud ajad, mille teie kuulutate, püha kokkukutsumised — need on mu määratud ajad.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/1-4.1792539541986.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Räägi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "pojad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ja ütle"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "määratud ajad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mille"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "teie kuulutate"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "püha kokkukutsumised"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "kokkukutsumised"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "püha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "need"
+    },
+    {
+      "surface": "הם",
+      "gloss": "on"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mu määratud ajad"
+    }
+  ],
+  "timestamp": "2026-10-20T23:39:01.987198067Z",
+  "model": "glm-5.3"
+}

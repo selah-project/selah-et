@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "et",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨keegi⟩",
+      "rationale": "heebrea verb on ainsuse 3. isik ilma teostajata — ohverdajata; lisatud subjekt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "teeb teiseks",
+      "rationale": "שחט on 'tapma, veritsema' — 'tapab mündiveise' on sõna-sõnline võimalus"
+    }
+  ],
+  "translation": "Ja koguduse vanemad toetavad ⟨את⟩ oma käed mündiveise pähe Jahve ees, ja ⟨keegi⟩ teeb mündiveise teiseks Jahve ees.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "ca35e64c611faff472765432311c5cc022d981e9b81e37d107e10da35f5cdd86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/4\/13-16.1792539155926.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "toetavad"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "vanemad"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "koguduse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma käed"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "käed"
+    },
+    {
+      "surface": "על",
+      "gloss": "peale"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pähe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mündiveise"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ja teeb teiseks"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mündiveise"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mündiveise"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-20T23:32:35.927019470Z",
+  "model": "glm-5.3"
+}

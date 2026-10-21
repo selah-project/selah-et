@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "et",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Esav räägib Jaakovile",
+      "rationale": "Kõne on pööratud vennale: 'mu vend', 'sinu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "oma on",
+      "rationale": "Eesti kõne vajab omistusstruktuuri täiendust; heebrea ütleb lihtsalt 'olgu sinule, mis sinule'."
+    }
+  ],
+  "translation": "Ja Esav ütles: Mul on palju, mu vend; olgu sinu see, mis sinu oma on.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/33\/9-12.1792537880628.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ja ütles"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "on"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mul"
+    },
+    {
+      "surface": "רב",
+      "gloss": "palju"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mu vend"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "olgu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sinu"
+    }
+  ],
+  "timestamp": "2026-10-20T23:11:20.628706270Z",
+  "model": "glm-5.3"
+}

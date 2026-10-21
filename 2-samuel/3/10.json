@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "et",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨on⟩ puudub",
+      "rationale": "Lausung jätkab eelmise salmi vannet; eesti nõuab infinitiividele raami, mis on seotud salmi 9 teoga"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Daanist kuni Beer-Šebani",
+      "rationale": "Geograafiline ulatusmääratlus kogu maale"
+    }
+  ],
+  "translation": "viia kuningriik üle Sauli soost ja püstitada ⟨את⟩ Davidi troon Jisraeli ja Juuda üle, Daanist kuni Beer-Šebani.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/3\/9-12.1792544397314.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "viia üle"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "kuningriik"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "soost"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauli"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ja püstitada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidi troon"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidi"
+    },
+    {
+      "surface": "על",
+      "gloss": "üle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ja Juuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "üle"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Daanist"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šebani"
+    }
+  ],
+  "timestamp": "2026-10-21T00:59:57.315702952Z",
+  "model": "glm-5.3"
+}

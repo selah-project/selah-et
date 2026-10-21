@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "olid",
+      "rationale": "Heebrea puudub koprula; lause on nimekiri, kus tegusõna puudub"
+    },
+    {
+      "kind": "alternative",
+      "subject": "valvekordades",
+      "rationale": "למשמרות tähendab nii valvet\/posti kui ametikohustust; 'teenistuskordades' on teine lugem"
+    },
+    {
+      "kind": "measurement",
+      "subject": "leitide loend",
+      "rationale": "Salm loendab levide nimede ja nende valvekorrade järgi"
+    }
+  ],
+  "translation": "ja Bakbukja ja Unni, nende vennad ⟨olid⟩ nende ees valvekordades.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/12\/9-12.1792557009083.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "ja Bakbukja"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "ja Unni"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "nende vennad"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "nende ees"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "valvekordades"
+    }
+  ],
+  "timestamp": "2026-10-21T04:30:09.084256135Z",
+  "model": "glm-5.3"
+}

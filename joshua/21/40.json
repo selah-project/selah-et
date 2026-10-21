@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 21:40",
+  "book": "joshua",
+  "lang": "et",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "saamis-osa",
+      "rationale": "גורל on sõna-sõnalt 'kivike' — loositamiseks kasutatud kivi; eesti 'saamis-osa' hoiab jakamise tähenduse, kivi pilt kaob"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kaks_teist linna",
+      "rationale": "Merari perekondadele antud linnade koguarv"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפחתם \/ משפחות",
+      "rationale": "suguvõsa-sõna kordus raamib salmi, eesti keeles jääb kordus osaliselt nähtavale"
+    }
+  ],
+  "translation": "Kõik need linnad kuulusid Merari poegadele nende suguvõsa-de kaupa — need, kes jäid järel leevi suguvõsadest — ja nende saamis-osa ⟨oli⟩ kaks_teist linna.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "eb8f822dead556476f59ef2c288b995b269a191a46c598b23198b0ca0383db01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/21\/37-40.1792541694256.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "need linnad"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kuulusid ... poegadele"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "nende suguvõsa-de kaupa"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "need, kes jäid järel"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "suguvõsadest"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "leevi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ja ⟨oli⟩"
+    },
+    {
+      "surface": "גורלם",
+      "gloss": "nende saamis-osa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "linna"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kaks"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "teist"
+    }
+  ],
+  "timestamp": "2026-10-21T00:14:54.257628210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "et",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hirv",
+      "rationale": "איל tähendab 'hirv\/pärs'; D4 tabelis hirv"
+    },
+    {
+      "kind": "idiom",
+      "subject": "karja poeg \/ aasta poeg",
+      "rationale": "Sõna-sõnaline 'בן בקר' ja 'בן שנתו' — heebrea fraas, eesti keeles tavaliselt 'noorkari' ja 'aastane'"
+    }
+  ],
+  "translation": "üks munn, karja poeg, üks hirv, üks tall, aasta poeg, põletusohvriks.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "fc9c3b44be14dafa07e8189698a99cf553e332ae990cf0cbe606cb179f43d84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/7\/25-28.1792539791812.json",
+    "code": "c0503ae6d-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "munn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "karja"
+    },
+    {
+      "surface": "איל",
+      "gloss": "hirv"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "tall"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "üks"
+    },
+    {
+      "surface": "בן",
+      "gloss": "poeg"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "aasta"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "põletusohvriks"
+    }
+  ],
+  "timestamp": "2026-10-20T23:43:11.813481738Z",
+  "model": "glm-5.3"
+}

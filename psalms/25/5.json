@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "oled",
+      "rationale": "Heebreas puudub kopula; eesti keel vajab seda"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותך",
+      "rationale": "את koos 2. p ainuse suffiksiga sulandus asesõnaga 'sind'"
+    }
+  ],
+  "translation": "Juhata mind oma tões ja õpeta mind, sest sina oled mu päästmise Elohim; ⟨את⟩ sind ⟨ootan⟩ kogu päeva.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/25\/5-8.1792552508908.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Juhata mind"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "oma tões"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ja õpeta mind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sest"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mu pääste"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ sind",
+      "marks": "sind — koos järgneva ootamisega"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ootan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "päeva"
+    }
+  ],
+  "timestamp": "2026-10-21T03:15:08.909159774Z",
+  "model": "glm-5.3"
+}

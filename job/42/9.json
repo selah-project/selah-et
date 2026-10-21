@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 42:9",
+  "book": "job",
+  "lang": "et",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tõstis palge",
+      "rationale": "נשא פנים on iidra 'palget üles tõstma' = soosinguga vastu võtma; sõnasõnaline pilt on eestis säilitatud"
+    },
+    {
+      "kind": "elision",
+      "subject": "palge",
+      "rationale": "פנים on mitmus ('palged'); eesti üldises kasutuses jääb ykskõik milline vorm"
+    }
+  ],
+  "translation": "Ja Elifas temaanlane ja Bildad suhhlane ja Sofar naamalane läksid ja tegid nii, nagu Jahve neile oli rääkinud; ja Jahve tõstis ⟨את⟩ Iiobi palge.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/42\/9-12.1792555774514.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ja läksid"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "temaanlane"
+    },
+    {
+      "surface": "ובלדד",
+      "gloss": "ja Bildad"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "suhhlane"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Sofar"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "naamalane"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ja tegid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nii, nagu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oli rääkinud"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "neile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ja tõstis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iiobi palge"
+    },
+    {
+      "surface": "פני",
+      "gloss": "palge"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iiobi"
+    }
+  ],
+  "timestamp": "2026-10-21T04:09:34.515643334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mu päästja",
+      "rationale": "תשועתי on nimisõna 'mu päästmine\/pääste', mitte isik — 'päästja' on kõige lähem loetav vaste."
+    },
+    {
+      "kind": "invitation",
+      "subject": "appell Adonai poole",
+      "rationale": "Käskiva köitega palve kiirest abist — psalmi lõpphuide."
+    }
+  ],
+  "translation": "Kiirusta mu abiks, Adonai, mu päästja!",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/38\/21-23.1792552726951.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "kiirusta"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mu abiks"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mu päästja"
+    }
+  ],
+  "timestamp": "2026-10-21T03:18:46.952565217Z",
+  "model": "glm-5.3"
+}

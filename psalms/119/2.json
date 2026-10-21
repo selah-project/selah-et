@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "et",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "järgivad",
+      "rationale": "נצר on 'valvata, hoida, kaitsta' — 'järgima' on rollipõhine"
+    },
+    {
+      "kind": "addition",
+      "subject": "tema",
+      "rationale": "sufiks -יו eesti possessiivpronoomeniga selgitamiseks; otseühenduses 'tema tunnistusi'"
+    }
+  ],
+  "translation": "Õnnelikud on need, kes järgivad ⟨tema⟩ tunnistusi, kogu südames nad otsivad ⟨teda⟩.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/1-4.1792554008804.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Õnnelikud"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "kes järgivad"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "tunnistusi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kogu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "südames"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "otsivad teda"
+    }
+  ],
+  "timestamp": "2026-10-21T03:40:08.805368640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "et",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "perekonnast",
+      "rationale": "Eesti keeles on vaja lisada 'perekonnast', sest heebrea käändeline lamed näitab kuuluvust patriarhide loendis"
+    },
+    {
+      "kind": "measurement",
+      "subject": "preestrite perekonnad",
+      "rationale": "Loend, nimistu — perepeade loetelu templiteenistuse jaoks"
+    }
+  ],
+  "translation": "Hilkija perekonnast Hasabja; Jedaja perekonnast Netanel.",
+  "provenance": {
+    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
+    "user-sha256": "2cc3f354f7477ca4fc8f704413aef9a6216d9219312c52c39dbdc42dfc03a820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/12\/21-24.1792557079506.json",
+    "code": "c5a8972d0-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Hilkija perekonnast"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hasabja"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Jedaja perekonnast"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    }
+  ],
+  "timestamp": "2026-10-21T04:31:19.506510536Z",
+  "model": "glm-5.3"
+}
