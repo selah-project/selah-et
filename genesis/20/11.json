@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על דבר אשתי",
-      "rationale": "Otsetõlge 'mu naise sõna pärast'; eesti keeles loomulikum 'mu naise pärast', דבר jäetakse idiomis sulama."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mõtlesin",
-      "rationale": "אמרתי on 'ma ütlesin (endale)' — kõne endale, antud kui 'mõtlesin'."
-    }
-  ],
-  "translation": "Ja Avraham ütles: Sest ma mõtlesin: ju ei ole Elohimi kartust selles paigas, ja nad tapavad mind mu nime pärast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9f150a9b87b306c0dcb03392a78b32bcd176e710d372ed3bb1e68d8c7588c750",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/20\/9-12.1792537622266.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Avraham ütles: Sest ma ütlesin ⟨endamisi⟩: ainult ei ole Elohimi kartust selles paigas, ja nad tapavad mind mu naise pärast.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "ma mõtlesin"
+      "gloss": "ma ütlesin"
     },
     {
       "surface": "רק",
-      "gloss": "ju"
+      "gloss": "ainult"
     },
     {
       "surface": "אין",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "selles"
+      "gloss": "see"
     },
     {
       "surface": "והרגוני",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": ""
+      "gloss": "asjus"
     },
     {
       "surface": "אשתי",
-      "gloss": "mu nime"
+      "gloss": "mu naise"
     }
   ],
-  "timestamp": "2026-10-20T23:07:02.268073432Z",
+  "timestamp": "2026-10-21T06:14:38.534145388Z",
   "model": "glm-5.3"
 }

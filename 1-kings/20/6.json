@@ -5,36 +5,19 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "homme sel samal ajal",
-      "rationale": "Ben-Hadad määrab täpse aja rüüste läbiviimiseks."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בידם",
-      "rationale": "'oma kätte panema' — irooniline: saaki hoitakse juba võtja käes."
-    }
-  ],
-  "translation": "vaid homme sel samal ajal läkitan ma ⟨את⟩ oma teenrid su juurde, ja nad otsivad läbi ⟨את⟩ su koja ja ⟨את⟩ su teenride ⟨את⟩ kojad; ja see sünnib: kõik, mida su silmad ihaldavad, selle panevad nad oma kätte ja viivad ära.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ad18bf81e856c659867c26b1555dc215594230598732fc839e89a2139ade54ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/20\/5-8.1792545705456.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaid Homme ligi sel ajal saadan ma ⟨את⟩ oma teenijad su juurde ja nad otsivad läbi ⟨את⟩ su maja ja ⟨את⟩ oma teenijate majad; ja ⟨see⟩ juhtub: kõik, mis su silmadele armas on, panevad nad oma kätte ja viivad ära.",
   "tokens": [
     {
-      "surface": "כי אם",
+      "surface": "כי",
       "gloss": "vaid"
     },
     {
+      "surface": "אם",
+      "gloss": "kui"
+    },
+    {
       "surface": "כעת",
-      "gloss": "sel samal ajal"
+      "gloss": "ligi sel ajal"
     },
     {
       "surface": "מחר",
@@ -42,16 +25,16 @@
     },
     {
       "surface": "אשלח",
-      "gloss": "läkitan ma"
+      "gloss": "saadan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma teenrid"
+      "marks": "oma teenijad"
     },
     {
       "surface": "עבדי",
-      "gloss": "⟨את⟩ oma teenrid"
+      "gloss": "oma teenijad"
     },
     {
       "surface": "אליך",
@@ -64,28 +47,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "su koja"
+      "marks": "su maja"
     },
     {
       "surface": "ביתך",
-      "gloss": "⟨את⟩ su koja"
+      "gloss": "su maja"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "su teenrite kojad"
+      "marks": "oma teenijate majad"
     },
     {
       "surface": "בתי",
-      "gloss": "⟨את⟩ kojad"
+      "gloss": "oma teenijate majad"
     },
     {
       "surface": "עבדיך",
-      "gloss": "su teenrite"
+      "gloss": "oma teenijate"
     },
     {
       "surface": "והיה",
-      "gloss": "ja see sünnib"
+      "gloss": "ja ⟨see⟩ juhtub"
     },
     {
       "surface": "כל",
@@ -93,15 +76,15 @@
     },
     {
       "surface": "מחמד",
-      "gloss": "mida ... ihaldavad"
+      "gloss": "mis … armas on"
     },
     {
       "surface": "עיניך",
-      "gloss": "su silmad"
+      "gloss": "su silmadele"
     },
     {
       "surface": "ישימו",
-      "gloss": "selle panevad nad"
+      "gloss": "panevad nad"
     },
     {
       "surface": "בידם",
@@ -112,6 +95,6 @@
       "gloss": "ja viivad ära"
     }
   ],
-  "timestamp": "2026-10-21T01:21:45.458904426Z",
+  "timestamp": "2026-10-21T05:51:37.172681744Z",
   "model": "glm-5.3"
 }

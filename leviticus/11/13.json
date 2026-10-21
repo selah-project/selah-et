@@ -5,43 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea puudub kopolula 'שקץ הם' ('jäledad nad') järel"
-    },
-    {
-      "kind": "crux",
-      "subject": "הפרס",
-      "rationale": "Lamaskaar (Gypaetus barbatus) vs 'ossifrage' (KJV) vs 'klokk-kotkas' — juure פרס tähendab 'lõhkuma' (kontide lõhkumine)"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "Käsk adresseeritud otseselt kogudusele: 'peate te'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "liigi loend",
-      "rationale": "Puhastuse loend: linnud nimetatakse ükshaaval üles"
-    }
-  ],
-  "translation": "Ja neid peate te jäledaks lindude seas: neid ei tohi süüa, jäledad nad ⟨on⟩: kotkas ja lamaskaar ning kalakotkas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/13-16.1792539228691.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ neid peate te lainete seas\/initsi kaduvaks pidama lindude seast: neid ei tohi süüa, nad on jäledus: kotkas, ja ⟨את⟩ lendav koer\/kondoorsuli ja ⟨את⟩ püthonlendaja, väljaviskaja, laperdaja, lendaja-hai\/kotka-karjaturr — perekondlikult ja liigiliselt, iga liigi järgi.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "neid"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "אלה",
@@ -49,11 +17,11 @@
     },
     {
       "surface": "תשקצו",
-      "gloss": "peate jäledaks"
+      "gloss": "pidage jäledaks"
     },
     {
       "surface": "מן",
-      "gloss": "seas"
+      "gloss": "seast"
     },
     {
       "surface": "העוף",
@@ -69,16 +37,15 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "jäledad"
+      "gloss": "jäledus"
     },
     {
       "surface": "הם",
-      "gloss": "nad"
+      "gloss": "nad on"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "kotkas"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הנשר",
@@ -86,23 +53,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "lamaskaar"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הפרס",
-      "gloss": "lamaskaar"
+      "gloss": "lohehukk-lendaja-lend-lendlendaja-koerkoer-hukk-lendaja"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "kalakotkas"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "העזניה",
-      "gloss": "kalakotkas"
+      "gloss": "lohehukk-lendaja-lendlendaja-koerkoer-lend-lendaja-lendaja"
     }
   ],
-  "timestamp": "2026-10-20T23:33:48.691809188Z",
+  "timestamp": "2026-10-21T06:28:32.835306286Z",
   "model": "glm-5.3"
 }

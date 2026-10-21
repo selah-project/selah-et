@@ -5,50 +5,33 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nad",
-      "rationale": "Jussiivi pika lause subjekt, heebreas kaudne"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויזבחו זבחי",
-      "rationale": "Tegusõna ja nimi on samast juurest — 'ohverdagu ohvreid', kordus säilitatud"
-    }
-  ],
-  "translation": "ja ohvergu nad tänuohvreid ja rääkigu tema tegudest hõiskamisega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "32b3bdf2ef70ff9323cc2b8bb60a56545d3f518e1d08e8a3fe1e66c14c6b3938",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/107\/21-24.1792553859593.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ohverdagu tänuohvreid ja jutustagu tema tegusid rõõmulauluga.",
   "tokens": [
     {
-      "surface": "ועשי",
-      "gloss": "Tunnistaku"
+      "surface": "ויזבחו",
+      "gloss": "ja ohverdagu"
     },
     {
       "surface": "זבחי",
-      "gloss": "ohvrid"
+      "gloss": "ohvreid"
     },
     {
       "surface": "תודה",
-      "gloss": "tänutööd"
+      "gloss": "tänu-"
     },
     {
-      "surface": "ומעשיו",
-      "gloss": "tema imelisi tegusid"
+      "surface": "ויספרו",
+      "gloss": "ja jutustagu"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "tema tegusid"
     },
     {
       "surface": "ברנה",
-      "gloss": "rõõmu hõiskedega"
+      "gloss": "rõõmulauluga"
     }
   ],
-  "timestamp": "2026-10-21T03:37:39.594271775Z",
+  "timestamp": "2026-10-21T06:37:32.430612951Z",
   "model": "glm-5.3"
 }

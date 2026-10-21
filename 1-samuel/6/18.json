@@ -5,42 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "suur Aabel",
-      "rationale": "אבל הגדולה: 'suur Aabel (paik)' vs 'Aabeli suur kivi' (KJV lisab 'kivi') vs 'suur rohumaa' (juure עבל)"
-    },
-    {
-      "kind": "hapax",
-      "subject": "seren",
-      "rationale": "סרן on filistlaste valitsejate erakordne nimetus, kasutatud peaaegu ainult filistlaste kohta"
-    },
-    {
-      "kind": "measurement",
-      "subject": "arv kõigi linnade järgi",
-      "rationale": "hiirte arv vastab linnade arvule"
-    },
-    {
-      "kind": "crux",
-      "subject": "peratslaste küla",
-      "rationale": "כפר הפרזי: 'peratslaste (küla)rase küla' vs 'maapiirkonna külad'"
-    }
-  ],
-  "translation": "ja kuldhiired kõigi filistlaste linnade arvu järgi viiele serenile, kindlustatud linnast kuni peratslaste külani, kuni suure Aabelini, kuhu nad panid ⟨את⟩ Jahve arku; ⟨see on⟩ selle päevani Jehošua, beet-šemšilase, põllul.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/17-20.1792543753532.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuldhiredid — kõigi plistlaste linnade arvu järgi, viie seraanile, kindlusest linnast kuni külani, isegi suure Avelini juurde, millele nad panid ⟨את⟩ Jahve laeka; see ⟨on⟩ seal tänapäevani Jehošua, beet-šemši mehe põllul.",
   "tokens": [
     {
       "surface": "ועכברי",
-      "gloss": "ja kuldhiired"
+      "gloss": "ja kuldhiredid"
     },
     {
       "surface": "הזהב",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "filistlaste"
+      "gloss": "plistlaste"
     },
     {
       "surface": "לחמשת",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "הסרנים",
-      "gloss": "serenile"
+      "gloss": "seraanile"
     },
     {
       "surface": "מעיר",
@@ -76,7 +45,7 @@
     },
     {
       "surface": "מבצר",
-      "gloss": "kindlustatud"
+      "gloss": "kindlusest"
     },
     {
       "surface": "ועד",
@@ -88,7 +57,7 @@
     },
     {
       "surface": "הפרזי",
-      "gloss": "peratslaste"
+      "gloss": "maapiirkondadeni"
     },
     {
       "surface": "ועד",
@@ -96,7 +65,7 @@
     },
     {
       "surface": "אבל",
-      "gloss": "Aabelini"
+      "gloss": "Avelinini"
     },
     {
       "surface": "הגדולה",
@@ -104,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuhu"
+      "gloss": "millele"
     },
     {
       "surface": "הניחו",
@@ -112,16 +81,16 @@
     },
     {
       "surface": "עליה",
-      "gloss": "selle peale"
+      "gloss": "sellele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve ark"
+      "marks": "Jahve laeka"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "laeka"
     },
     {
       "surface": "יהוה",
@@ -133,7 +102,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "selle päevani"
+      "gloss": "tänapäevani"
     },
     {
       "surface": "הזה",
@@ -148,10 +117,14 @@
       "gloss": "Jehošua"
     },
     {
-      "surface": "בית השמשי",
-      "gloss": "beet-šemšilase"
+      "surface": "בית",
+      "gloss": "beet-šemši"
+    },
+    {
+      "surface": "השמשי",
+      "gloss": "mehe"
     }
   ],
-  "timestamp": "2026-10-21T00:49:13.535595956Z",
+  "timestamp": "2026-10-21T05:53:55.982902957Z",
   "model": "glm-5.3"
 }

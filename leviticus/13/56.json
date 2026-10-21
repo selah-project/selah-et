@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "välja",
-      "rationale": "eesti möödusdünaamika nõuab 'välja' koos 'rebima'; heebreas ainult מן 'seest'"
-    }
-  ],
-  "translation": "Ja kui preester vaatab, ja vaata, lööve on tuhmunud pärast selle pesemist, siis ta rebib selle välja rõivast või nahast või pikklõimest või põhilõimest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "883507b5a91641848ebc7269dd3e8779f2a02f9c557d936a871d3211b19cd6e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/13\/53-56.1792539377826.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui preester vaatab ja vaata, haiguskohthalliks on jäänud pärast sellepesemist, siis rebib ta ⟨את⟩ selle välja rõivast või nahast või kudumi lõimest või kudumi põimest.",
   "tokens": [
     {
       "surface": "ואם",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "כהה",
-      "gloss": "on tuhmunud"
+      "gloss": "halliks on jäänud"
     },
     {
       "surface": "הנגע",
-      "gloss": "lööve"
+      "gloss": "haiguskoht"
     },
     {
       "surface": "אחרי",
@@ -57,17 +41,17 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "seda"
+      "gloss": "⟨את⟩",
+      "marks": "selle (haiguskoha)"
     },
     {
       "surface": "וקרע",
-      "gloss": "siis ta rebib"
+      "gloss": "siis rebib ta"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "seda"
+      "gloss": "⟨את⟩",
+      "marks": "selle (haiguskoha)"
     },
     {
       "surface": "מן",
@@ -99,7 +83,7 @@
     },
     {
       "surface": "השתי",
-      "gloss": "pikklõimest"
+      "gloss": "kudumi lõimest"
     },
     {
       "surface": "או",
@@ -111,9 +95,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "põhilõimest"
+      "gloss": "kudumi põimest"
     }
   ],
-  "timestamp": "2026-10-20T23:36:17.827830085Z",
+  "timestamp": "2026-10-21T06:28:22.214958605Z",
   "model": "glm-5.3"
 }

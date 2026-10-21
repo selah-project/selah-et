@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "על ירך המזבח",
-      "rationale": "kirjutuse järgi 'altari reiel' — 'külg' on tõlgendus; mõned loevad 'pikk külg'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "põhja pool",
-      "rationale": "tapmise koht täpselt määratletud altarile suhtes"
-    }
-  ],
-  "translation": "Ja ta tapab selle altari külje juures, põhja pool, Jahve ees; ja Aharoni pojad, preestrid, piserdavad ⟨את⟩ tema vere altarile ringi ümber.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/1\/9-12.1792539123318.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta teeb ⟨את⟩ talle maha altari küljele, põhja poole, Jahve ees; ja Aharoni pojad, preestrid, pritsivad ⟨את⟩ tema vere altarile ümber-poolt.",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "ja ta tapab"
+      "gloss": "ja ta teeb maha"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ seda",
-      "marks": "selle"
+      "gloss": "⟨את⟩",
+      "marks": "talle"
     },
     {
       "surface": "על",
-      "gloss": "juures"
+      "gloss": "peale"
     },
     {
       "surface": "ירך",
-      "gloss": "külje"
+      "gloss": "küljele"
     },
     {
       "surface": "המזבח",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "צפנה",
-      "gloss": "põhja pool"
+      "gloss": "põhja poole"
     },
     {
       "surface": "לפני",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "ja piserdavad"
+      "gloss": "ja nad pritsivad"
     },
     {
       "surface": "בני",
@@ -88,17 +67,17 @@
     },
     {
       "surface": "על",
-      "gloss": "altarile"
+      "gloss": "peale"
     },
     {
       "surface": "המזבח",
-      "gloss": "altarile"
+      "gloss": "altari"
     },
     {
       "surface": "סביב",
-      "gloss": "ringi ümber"
+      "gloss": "ümber-poolt"
     }
   ],
-  "timestamp": "2026-10-20T23:32:03.320616367Z",
+  "timestamp": "2026-10-21T06:27:43.655170896Z",
   "model": "glm-5.3"
 }

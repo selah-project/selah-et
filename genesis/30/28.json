@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נקבה",
-      "rationale": "Otseselt 'augu\/punktri panema', kaudselt 'täpselt nimetama' — eesti 'määra' kaotab teravma pildi"
-    },
-    {
-      "kind": "you",
-      "subject": "Jaakovile",
-      "rationale": "Laban pöördub otse Jaakovi poole: käskkirjega 'määra oma palk'"
-    }
-  ],
-  "translation": "Ja ta ütles: Määra mulle oma palk, ja mina annan selle.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fdeae71563bb4d03226ec2c41e6f593a56256a7d4d751b462b9828892a026c63",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/30\/25-28.1792537768253.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles: Määra ⟨mulle⟩ oma palk, ja ma annan ⟨selle⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ta ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "נקבה",
-      "gloss": "Määra"
+      "gloss": "määra"
     },
     {
       "surface": "שכרך",
@@ -42,13 +21,13 @@
     },
     {
       "surface": "עלי",
-      "gloss": "mulle"
+      "gloss": "⟨mulle⟩"
     },
     {
-      "surface": "and ואתנה",
-      "gloss": "ja mina annan selle"
+      "surface": "ואתנה",
+      "gloss": "ja ma annan ⟨selle⟩"
     }
   ],
-  "timestamp": "2026-10-20T23:09:28.254746479Z",
+  "timestamp": "2026-10-21T06:15:12.667128193Z",
   "model": "glm-5.3"
 }

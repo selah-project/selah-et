@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Koguge",
-      "rationale": "Moosese käsuvorm kutsub kuulajad kokku — päris kõnekäsk."
-    },
-    {
-      "kind": "you",
-      "subject": "to the Levites",
-      "rationale": "Jätkuva kõne otseaadress leevilastele, kes peavad vanemad kokku kutsuma."
-    }
-  ],
-  "translation": "Koguge minu juurde ⟨את⟩ kõik oma suguharude vanemad ja oma ametnikud, et ma räägiksin nende kõrvu neid sõnu ja kutsuksin nende vastu tunnistajaks ⟨את⟩ taeva ja ⟨את⟩ maa.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/31\/25-28.1792541284181.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Koguge minu juurde ⟨את⟩ kõik oma hõimude vanemad ja oma ametnikud, et ma räägiksin nende kõrvu neid ⟨את⟩ sõnu ja tooksin nende vastu tunnistajaks ⟨את⟩ taeva ja ⟨את⟩ maa.",
   "tokens": [
     {
       "surface": "הקהילו",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik vanemad ja ametnikud"
+      "marks": "kõik oma hõimude vanemad ja oma ametnikud"
     },
     {
       "surface": "כל",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "שבטיכם",
-      "gloss": "teie suguharude"
+      "gloss": "oma hõimude"
     },
     {
       "surface": "ושטריכם",
-      "gloss": "ja teie ametnikud"
+      "gloss": "ja oma ametnikud"
     },
     {
       "surface": "ואדברה",
@@ -68,19 +47,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "need sõnad"
+      "marks": "neid sõnu"
     },
     {
       "surface": "הדברים",
-      "gloss": "sõnad"
+      "gloss": "sõnu"
     },
     {
       "surface": "האלה",
-      "gloss": "need"
+      "gloss": "neid"
     },
     {
       "surface": "ואעידה",
-      "gloss": "ja kutsun tunnistajaks"
+      "gloss": "ja tooksin tunnistajaks"
     },
     {
       "surface": "בם",
@@ -105,6 +84,6 @@
       "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-21T00:08:04.182769479Z",
+  "timestamp": "2026-10-21T06:03:27.917817812Z",
   "model": "glm-5.3"
 }

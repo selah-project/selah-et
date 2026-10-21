@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "elu",
-      "rationale": "נפש on kurgus\/hingamine\/elujõud, mitte 'hing' üksi."
-    },
-    {
-      "kind": "you",
-      "subject": "kuningale",
-      "rationale": "Rekabi ja Baana otsene kõne Davidile Hevronis."
-    }
-  ],
-  "translation": "Ja nad tõid ⟨את⟩ Iš-Boseti pea Davidi juurde Hevroni ja ütlesid kuningale: Vaata, Iš-Boseti pea, Šauli poja, sinu vaenlase, kes otsis ⟨את⟩ sinu elu; ja Jahve andis mu isandale kuningale täna, sel päeval, kättemaksu Šaulist ja tema seemnest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0506f02985f44e8e153fc3c793421ce189219bfaf89e3cfac9fb461aa7a566b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/4\/5-8.1792544589116.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tõid ⟨את⟩ Iš-Bošeti pea Davidile Hevronis ja ütlesid kuningale: Vaata, Iš-Bošeti, Šauli poja pea, sinu vaenlane, kes otsis ⟨את⟩ sinu elu; ja Jahve andis tänapäeval mu isandale, kuningale, kättemaksud Šaulist ja tema soost.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Iš-Boseti pea"
+      "marks": "Iš-Bošeti pea"
     },
     {
       "surface": "ראש",
@@ -47,27 +26,27 @@
     },
     {
       "surface": "בשת",
-      "gloss": "Boseti"
+      "gloss": "Bošeti"
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
+      "gloss": "-ile"
     },
     {
       "surface": "דוד",
-      "gloss": "Davidi"
+      "gloss": "David"
     },
     {
       "surface": "חברון",
-      "gloss": "Hevroni"
+      "gloss": "Hevronis"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ja nad ütlesid"
+      "gloss": "ja ütlesid"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "-le"
     },
     {
       "surface": "המלך",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "בשת",
-      "gloss": "Boseti"
+      "gloss": "Bošeti"
     },
     {
       "surface": "בן",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "איבך",
-      "gloss": "sinu vaenlase"
+      "gloss": "sinu vaenlane"
     },
     {
       "surface": "אשר",
@@ -140,11 +119,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "täna"
+      "gloss": "tänapäeval"
     },
     {
       "surface": "הזה",
-      "gloss": "sel päeval"
+      "gloss": "sel"
     },
     {
       "surface": "משאול",
@@ -152,9 +131,9 @@
     },
     {
       "surface": "ומזרעו",
-      "gloss": "ja tema seemnest"
+      "gloss": "ja tema soost"
     }
   ],
-  "timestamp": "2026-10-21T01:03:09.123759487Z",
+  "timestamp": "2026-10-21T06:01:13.280942966Z",
   "model": "glm-5.3"
 }

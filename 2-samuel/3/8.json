@@ -5,46 +5,15 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "koera pea, mis on Jehuuda vastu",
-      "rationale": "הראש כלב אנכי אשר ליהודה: 'kas olen koera-pea, kes kuulub Jehuudale' vs 'kes on Jehuuda vastu' — tõlkijad lähevad lahku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "חסד jääb heebrea sõnaks, vt distsipliin D2"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ותפקד עלי עון",
-      "rationale": "otse 'et sind loetakse minu peale süüd' — 'langetad süüdistuse'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "איש בשת",
-      "rationale": "nimi tähendab 'häbimees'; pahe kadunud eesti vaste"
-    }
-  ],
-  "translation": "Ja Avnerile sai Jis-Bosheti sõnade pärast väga pahameeleks ja ta ütles: kas olen ma koera pea, mis on Jehuuda vastu? Teen ma täna hesedi Šauli maja, su isa, tema vendade ja tema sõbraga, ja anna sind Davidi kätte, et sa langetad täna minu peale selle naise süü?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e1b392a5a7285ac24cf02330a62137c448872bfc67e49c51806a005d72ca8293",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/3\/5-8.1792544405785.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Avner vihastus väga Ish-Bosheti sõnade pärast ja ütles: kas ma olen koera pea, kes kuulub Juudale? Teen ⟨täna⟩ hesedi Sauli, su isa kojaga, tema vendadele ja tema sõbrale, ja ei andnud sind Davidi kätte — ja sina käsid täna minu süü naise pärast minu kanda?",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "ja sai pahameeleks"
+      "gloss": "vihastus"
     },
     {
       "surface": "לאבנר",
-      "gloss": "Avnerile"
+      "gloss": "Avner"
     },
     {
       "surface": "מאד",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "Jis-"
+      "gloss": "Ish-"
     },
     {
       "surface": "בשת",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ta ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "הראש",
@@ -80,19 +49,19 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "kas olen ma"
+      "gloss": "ma"
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "kes"
     },
     {
       "surface": "ליהודה",
-      "gloss": "on Jehuuda"
+      "gloss": "Juudale"
     },
     {
       "surface": "היום",
-      "gloss": "vastu täna"
+      "gloss": "täna"
     },
     {
       "surface": "אעשה",
@@ -104,15 +73,15 @@
     },
     {
       "surface": "עם",
-      "gloss": ""
+      "gloss": "kojaga"
     },
     {
       "surface": "בית",
-      "gloss": "majaga"
+      "gloss": "kodu"
     },
     {
       "surface": "שאול",
-      "gloss": "Šauli"
+      "gloss": "Sauli"
     },
     {
       "surface": "אביך",
@@ -124,7 +93,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "tema vendade"
+      "gloss": "tema vendadele"
     },
     {
       "surface": "ואל",
@@ -132,7 +101,7 @@
     },
     {
       "surface": "מרעהו",
-      "gloss": "tema sõbraga"
+      "gloss": "tema sõbrale"
     },
     {
       "surface": "ולא",
@@ -140,7 +109,7 @@
     },
     {
       "surface": "המציתך",
-      "gloss": "annan sind"
+      "gloss": "andnud sind"
     },
     {
       "surface": "ביד",
@@ -152,11 +121,11 @@
     },
     {
       "surface": "ותפקד",
-      "gloss": "et sa langetad"
+      "gloss": "käsid minu kanda"
     },
     {
       "surface": "עלי",
-      "gloss": "minu peale"
+      "gloss": "minu"
     },
     {
       "surface": "עון",
@@ -164,13 +133,13 @@
     },
     {
       "surface": "האשה",
-      "gloss": "selle naise"
+      "gloss": "naise"
     },
     {
       "surface": "היום",
       "gloss": "täna"
     }
   ],
-  "timestamp": "2026-10-21T01:00:05.787378731Z",
+  "timestamp": "2026-10-21T06:00:46.306629474Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נצבים",
-      "rationale": "Mitmus: 'postid\/garnisonid' või 'valitsejad\/prefektid' — enamik tõlkeid valib garnisonid."
-    },
-    {
-      "kind": "substitution",
-      "subject": "andamit",
-      "rationale": "מנחה on siis andam\/tribuut, mitte ohvrikingimus 'minha'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "päästis",
-      "rationale": "וישע tähendab 'päästis\/andas võidu'; KJV 'preserved' vs ASV 'gave victory'."
-    }
-  ],
-  "translation": "Ja David pani Ari Da⟨mess〉 Damaskusesse sõjaväeposte, ja Aramist sai Davidile teenijaid, andamit kandvad, ja Jahve päästis Davidit kõiges, kuhu ta läks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/8\/5-8.1792544652954.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David pani ningatud garnisoni Arami Damaskusesse, ja Aramist sai Davidile teenijaid, kes tõid minhat, ja Jahve aitas ⟨את⟩ Davidit kõiges, kus ta käis.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "ja pani"
+      "gloss": "pani"
     },
     {
       "surface": "דוד",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "נצבים",
-      "gloss": "sõjaväeposte"
+      "gloss": "nejad garnisonid"
     },
     {
       "surface": "בארם",
-      "gloss": "Ari"
+      "gloss": "Arami"
     },
     {
       "surface": "דמשק",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "נושאי",
-      "gloss": "kandvad"
+      "gloss": "kes tõid"
     },
     {
       "surface": "מנחה",
-      "gloss": "andamit"
+      "gloss": "minhat"
     },
     {
       "surface": "וישע",
-      "gloss": "ja päästis"
+      "gloss": "ja aitas"
     },
     {
       "surface": "יהוה",
@@ -100,13 +74,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kuhu"
+      "gloss": "kus"
     },
     {
       "surface": "הלך",
-      "gloss": "ta läks"
+      "gloss": "käis"
     }
   ],
-  "timestamp": "2026-10-21T01:04:12.958911419Z",
+  "timestamp": "2026-10-21T06:01:01.494257390Z",
   "model": "glm-5.3"
 }

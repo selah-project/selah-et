@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "koja mõõt ja plaan",
-      "rationale": "Tempeli kuju, ehitus ja piirid tuleb mõõta ja kirja panna — mõõtmise käsud."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צורתו ... צורתי",
-      "rationale": "'Kõik selle kujud ... kõik selle kujud' kordub kaks korda; teine kord haruldasel kujul צורתי — kordus kadub osaliselt tõlkes."
-    }
-  ],
-  "translation": "Ja kui nad häbenevad kõike, mida nad on teinud, siis tee neile teatavaks koja kuju ja selle ehitus, selle väljapääsud ja sissepääsud, ja kõik selle kujud ja ⟨את⟩ kõik selle määrused ning kõik selle kujud ja kõik selle Toora; ja kirjuta see nende silme alla, et nad peaksid kõik selle kuju ja ⟨את⟩ kõik selle määrused, ja täidaksid ⟨את⟩ neid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "269d28a48addbe680ee8da00a3018da41435581ffe5761aa7ab1efed45e71e7d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/43\/9-12.1792550798482.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui nad häbeneavad kõike, mida nad on teinud, siis tee neile teatavaks koja kuju ja selle ehitusplaani ning selle väljakäigud ja sissekäigud, ja kõik selle kujud ja ⟨את⟩ kõik selle määrused ning kõik selle kujud ja kõik selle Toora; ja kirjuta see nende silme ees, et nad peaksid ⟨את⟩ kogu selle kuju ja ⟨את⟩ kõik selle määrused ja täidaksid neid.",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "נכלמו",
-      "gloss": "nad häbenevad"
+      "gloss": "nad häbeneavad"
     },
     {
       "surface": "מכל",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "ותכונתו",
-      "gloss": "ja selle ehitus"
+      "gloss": "ja selle ehitusplaani"
     },
     {
       "surface": "ומוצאיו",
-      "gloss": "selle väljapääsud"
+      "gloss": "ja selle väljakäigud"
     },
     {
       "surface": "ומובאיו",
-      "gloss": "ja sissepääsud"
+      "gloss": "ja sissekäigud"
     },
     {
       "surface": "וכל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kõik selle määrused"
     },
     {
@@ -111,7 +90,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neile"
     },
     {
       "surface": "וכתב",
@@ -119,7 +98,7 @@
     },
     {
       "surface": "לעיניהם",
-      "gloss": "nende silme alla"
+      "gloss": "nende silme ees"
     },
     {
       "surface": "וישמרו",
@@ -128,11 +107,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik selle kuju"
+      "marks": "kogu selle kuju"
     },
     {
       "surface": "כל",
-      "gloss": "kõik"
+      "gloss": "kogu"
     },
     {
       "surface": "צורתו",
@@ -140,7 +119,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "kõik selle määrused"
     },
     {
@@ -157,9 +136,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neid",
+      "marks": "neid"
     }
   ],
-  "timestamp": "2026-10-21T02:46:38.484232906Z",
+  "timestamp": "2026-10-21T06:12:07.219080601Z",
   "model": "glm-5.3"
 }

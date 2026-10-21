@@ -5,28 +5,7 @@
   "book": "zechariah",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "זרו (pillutasid)",
-      "rationale": "זרה tähendab 'tuulutama, laiali pillutama' — möödasõidud: 'pillutama' vs 'peletama'."
-    },
-    {
-      "kind": "you",
-      "subject": "prohvet küsib inglilt",
-      "rationale": "Otsene küsimus tõlkijale-nägijale nägemuses."
-    }
-  ],
-  "translation": "Ja ma ütlesin ingliga, kes minus rääkis: mis need on? Ja ta ütles mulle: need on sarved, kes pillutasid ⟨את⟩ Juuda, ⟨את⟩ Jisraeli ja Jerušalaimi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "87127273f0aad37dc18402250ecd967bed47e5bb104bb664187d7f6f2bfe4e81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/2\/1-4.1792551910967.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma ütlesin ingelile, kes minuga kõneles: mis need on? Ja ta ütles mulle: need on sarved, nad on külvatanud laiali ⟨את⟩ Jehuuda, ⟨את⟩ Jisraeli ja Jerušalaimi.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ingliga"
+      "gloss": "(kellele)"
     },
     {
       "surface": "המלאך",
-      "gloss": "ingliga, kes"
+      "gloss": "ingelile"
     },
     {
       "surface": "הדבר",
-      "gloss": "rääkis"
+      "gloss": "kes kõneles"
     },
     {
       "surface": "בי",
-      "gloss": "minus"
+      "gloss": "minuga"
     },
     {
       "surface": "מה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אלה",
-      "gloss": "need"
+      "gloss": "need on"
     },
     {
       "surface": "ויאמר",
@@ -66,28 +45,28 @@
     },
     {
       "surface": "אלה",
-      "gloss": "need"
+      "gloss": "need on"
     },
     {
       "surface": "הקרנות",
-      "gloss": "on sarved"
+      "gloss": "sarved"
     },
     {
       "surface": "אשר",
       "gloss": "kes"
     },
     {
-      "surface": "זרwu",
-      "gloss": "pillutasid"
+      "surface": "זרו",
+      "gloss": "külvatasid laiali"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Juuda"
+      "marks": "Jehuuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "Juuda"
+      "gloss": "Jehuuda"
     },
     {
       "surface": "את",
@@ -103,6 +82,6 @@
       "gloss": "ja Jerušalaimi"
     }
   ],
-  "timestamp": "2026-10-21T03:05:10.969352488Z",
+  "timestamp": "2026-10-21T06:38:54.250399656Z",
   "model": "glm-5.3"
 }

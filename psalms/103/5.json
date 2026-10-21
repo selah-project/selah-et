@@ -5,17 +5,33 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 103,
-  "translation": " kes küllastab sinu ehet good'iga — taeva andidega, sinu noorus uueneb nagu kotkal",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/103\/5-8.1792553733247.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-21T03:35:33.247932048Z",
+  "translation": "kes küllastab heaga su ihu, nii et su noorus uueneb nagu kotkal.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "kes küllastab"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "heaga"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "su ihu"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "uueneb"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "nagu kotkal"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "su noorus"
+    }
+  ],
+  "timestamp": "2026-10-21T06:37:39.370902204Z",
   "model": "glm-5.3"
 }

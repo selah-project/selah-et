@@ -5,46 +5,20 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "filistlaste vürstidele",
-      "rationale": "Ekronlaste nõue on suunatud vürstidele: saatke ära Jisraeli Elohimi ark"
-    },
-    {
-      "kind": "crux",
-      "subject": "סרני",
-      "rationale": "Serend on filistlaste eriti tiitel (vt 'türann', kreeka tyrannos): 'vürstid' vs 'valitsejad' vs lihtsalt 'serenid'"
-    },
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Kopa 'Elohimi käi oli seal' lisatud eesti keele nõudel"
-    }
-  ],
-  "translation": "Ja nad saatsid ja kogusid kokku ⟨את⟩ kõik filistlaste vürstid, ja nad ütlesid: Saatke ära ⟨את⟩ Jisraeli Elohimi ark, ja see pööraku tagasi oma kohale, et ta ei tapaks mind ja ⟨את⟩ mu rahvast, sest surma-segadus oli kogu linnas, väga raske; Elohimi käi ⟨oli⟩ seal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/9-12.1792543743370.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nad läkitasid ja kogusid kokku ⟨את⟩ kõik plistide ülemused, ja nad ütlesid: Saatke ära ⟨את⟩ Jisraeli Elohimi laegas, ja see pööraku tagasi oma kohale, et ta ei tapaks ⟨את⟩ mind ega ⟨את⟩ mu rahvast, sest kogu linnas oli olnud surma-pahandus, väga raske; Elohimi käsi ⟨oli⟩ seal.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "Ja nad saatsid"
+      "gloss": "läkitasid"
     },
     {
       "surface": "ויאספו",
-      "gloss": "ja kogusid kokku"
+      "gloss": "kogusid kokku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik filistlaste vürstid"
+      "marks": "kõik plistide ülemused"
     },
     {
       "surface": "כל",
@@ -52,32 +26,32 @@
     },
     {
       "surface": "סרני",
-      "gloss": "vürstid"
+      "gloss": "ülemused"
     },
     {
       "surface": "פלשתים",
-      "gloss": "filistlaste"
+      "gloss": "plistide"
     },
     {
-      "surface": "ויאמרu",
+      "surface": "ויאמרו",
       "gloss": "ja nad ütlesid"
     },
     {
       "surface": "שלחו",
-      "gloss": "Saatke ära"
+      "gloss": "saatke ära"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraeli Elohimi ark"
+      "marks": "Jisraeli Elohimi arkn"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "laegas"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohimi"
     },
     {
       "surface": "ישראל",
@@ -106,7 +80,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "ega ⟨את⟩",
       "marks": "mu rahvast"
     },
     {
@@ -119,15 +93,15 @@
     },
     {
       "surface": "היתה",
-      "gloss": "oli"
+      "gloss": "oli olnud"
     },
     {
       "surface": "מהומת",
-      "gloss": "segadus"
+      "gloss": "pahandus"
     },
     {
       "surface": "מות",
-      "gloss": "surma"
+      "gloss": "surma-"
     },
     {
       "surface": "בכל",
@@ -151,13 +125,13 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimi"
     },
     {
       "surface": "שם",
       "gloss": "seal"
     }
   ],
-  "timestamp": "2026-10-21T00:49:03.373915329Z",
+  "timestamp": "2026-10-21T05:54:05.957542240Z",
   "model": "glm-5.3"
 }

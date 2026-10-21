@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "במחליים רבים",
-      "rationale": "'paljudes haigustes' või 'raske haigena'; mõned loevad 'kui nad jätsid ta (hülgasid) paljude haiguste (kätte)'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זבד \/ יהוזבד",
-      "rationale": "les 26 salmis: mõrvar Zabad (zabad = 'andis') ja Jehozabad ('Jahve andis') — nimekõlalist irooniat."
-    }
-  ],
-  "translation": "Ja kui nad olid temast lahkunud — sest nad jätsid ta ⟨hülgasid ta⟩ haigustes raskete <s>…<\/s> paljude haigustega —, siis moodustasid tema teenrid tema vastu vandeseltsi Jehojada preestri poegade vere pärast ja tapsid ta ta voodil, ja ta suri; ja nad matsid ta Davidi linna, aga ei matnud ⟨את⟩ teda kuningate haudadesse.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4127430404ea05ffd1b7ab0ed0c6262157c5ec1508412f7dc49721b954f0c60e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/24\/25-27.1792557991187.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui nad lahkusid tema juurest (sest nad jätsid ta suurte haiguste kätte), siis leppisid ta teenrid tema vastu kokku Jehojada preestri poegade vere pärast ja tapsid ta ta voodil, ja ta suri; ja nad matsid ta Davidi linna, aga ei matnud teda kuningate haudadesse.",
   "tokens": [
     {
       "surface": "ובלכתם",
-      "gloss": "ja kui nad olid lahkunud"
+      "gloss": "ja kui nad lahkusid"
     },
     {
       "surface": "ממנו",
-      "gloss": "temast"
+      "gloss": "tema juurest"
     },
     {
       "surface": "כי",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "teda"
+      "gloss": "⟨את⟩",
+      "marks": "ta"
     },
     {
       "surface": "במחליים",
-      "gloss": "haigustes"
+      "gloss": "suurte haiguste kätte"
     },
     {
       "surface": "רבים",
-      "gloss": "paljudes"
+      "gloss": "suurte"
     },
     {
       "surface": "התקשרו",
-      "gloss": "moodustasid vandeseltsi"
+      "gloss": "leppisid kokku"
     },
     {
       "surface": "עליו",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "tema teenrid"
+      "gloss": "ta teenrid"
     },
     {
       "surface": "בדמי",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "יהוידע",
-      "gloss": "Jejojada"
+      "gloss": "Jehojada"
     },
     {
       "surface": "הכהן",
@@ -107,11 +86,11 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "linnas"
+      "gloss": "linna"
     },
     {
       "surface": "דויד",
-      "gloss": "David"
+      "gloss": "Davidi"
     },
     {
       "surface": "ולא",
@@ -123,13 +102,13 @@
     },
     {
       "surface": "בקברות",
-      "gloss": "haudades"
+      "gloss": "haudadesse"
     },
     {
       "surface": "המלכים",
       "gloss": "kuningate"
     }
   ],
-  "timestamp": "2026-10-21T04:46:31.188715402Z",
+  "timestamp": "2026-10-21T05:55:18.662471038Z",
   "model": "glm-5.3"
 }

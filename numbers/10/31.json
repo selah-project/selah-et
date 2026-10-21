@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "silmadeks",
-      "rationale": "לעינים on silma duaalne vorm — 'kaheks silmaks'; eesti duaali ei ole, 'silmadeks' jätab arvu märkamata."
-    },
-    {
-      "kind": "idiom",
-      "subject": "sa oled meile silmadeks",
-      "rationale": "Heebrea kujund 'meie silmadeks olla' = teejuht, tee näitaja."
-    }
-  ],
-  "translation": "Ja ta ütles: Ära palun jäta meid maha, sest sina tead, kuidas me kõrbesse laagrisse jääme, ja sa oled meile silmadeks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/10\/29-32.1792539917870.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles: Ära jäta meid ⟨את⟩ paljudesse jätma, sest sina tead, kus me kõrbis laagrisse jääme, ja sina oled meile silmadeks.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תעזב",
-      "gloss": "jäta maha"
+      "gloss": "jäta"
     },
     {
       "surface": "אתנו",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "על",
-      "gloss": "seetõttu"
+      "gloss": "sel põhjusel"
     },
     {
       "surface": "כן",
-      "gloss": "seetõttu"
+      "gloss": "nii"
     },
     {
       "surface": "ידעת",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "חנתנו",
-      "gloss": "meie laagrisse jäämine"
+      "gloss": "meie laagerdamise"
     },
     {
       "surface": "במדבר",
-      "gloss": "kõrbesse"
+      "gloss": "kõrbis"
     },
     {
       "surface": "והיית",
-      "gloss": "ja sa oled"
+      "gloss": "ja sina oled"
     },
     {
       "surface": "לנו",
@@ -86,6 +65,6 @@
       "gloss": "silmadeks"
     }
   ],
-  "timestamp": "2026-10-20T23:45:17.871227485Z",
+  "timestamp": "2026-10-21T06:31:43.922311066Z",
   "model": "glm-5.3"
 }

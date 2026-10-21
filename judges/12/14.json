@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Eesti nõuab olemasolu-verbi, heebrea ויהי לו on tavapärane omamis-vormel"
-    },
-    {
-      "kind": "measurement",
-      "subject": "arvud",
-      "rationale": "Nelikümmend poega, kolmkümmend pojapoega, seitsekümmend eeslit alle, kaheksa aastat — jõukuse loendus"
-    },
-    {
-      "kind": "crux",
-      "subject": "בני בנים",
-      "rationale": "KJV 'nephews' on viga; tegu on pojapoegade, s.o poegade poegadega"
-    }
-  ],
-  "translation": "Ja temal oli nelikümmend poega ja kolmkümmend pojapojast, kes sõitsid seitsekümmend eeslitalle; ja ta kohutas ⟨את⟩ Jisraeli üle kaheksa aastat.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "72a242087f79c2d9c0352148a5df37688015a455add37d30b06ebded01e1c7be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/12\/13-15.1792542024258.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tal oli nelikümmend poega ja kolmkümmend pojapoegi, kes ratsutasid seitsekümmel eesl varsal, ja ta kohus ⟨את⟩ Jisraeli kaheksa aastat.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ja temal oli"
+      "gloss": "ja tal oli"
     },
     {
       "surface": "לו",
-      "gloss": "temal"
+      "gloss": "tal"
     },
     {
       "surface": "ארבעים",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "pojapojast"
+      "gloss": "pojapoegi"
     },
     {
       "surface": "בנים",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "רכבים",
-      "gloss": "kes sõitsid"
+      "gloss": "kes ratsutasid"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "peal"
     },
     {
       "surface": "שבעים",
-      "gloss": "seitsekümmend"
+      "gloss": "seitsekümmel"
     },
     {
       "surface": "עירם",
-      "gloss": "eeslitalle"
+      "gloss": "eesl varsal"
     },
     {
       "surface": "וישפט",
-      "gloss": "ja ta kohutas"
+      "gloss": "ja ta kohus"
     },
     {
       "surface": "את",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Jisraeli"
     },
     {
       "surface": "שמנה",
@@ -99,6 +73,6 @@
       "gloss": "aastat"
     }
   ],
-  "timestamp": "2026-10-21T00:20:24.258872450Z",
+  "timestamp": "2026-10-21T06:26:26.080224925Z",
   "model": "glm-5.3"
 }

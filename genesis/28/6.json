@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "käsk",
-      "rationale": "Indirect speech contains Isaac's direct command to Jacob: ära võta"
-    },
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Estonian past perfect requires auxiliary; Hebrew wayyiqtol is simple past"
-    }
-  ],
-  "translation": "Ja Eesav nägi, et Jitshak oli õnnistanud ⟨את⟩ Jaakobit ja saatnud ta Paddan-Arami, et võtta sealt endale naine, ja et ta õnnistades teda andis talle käsu, öeldes: ära võta naist Kanaani tütarde seast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7ca369c9dbee31948ee48fbc0bf297dac8775f5999c67d7758fb1d66874e5d74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/28\/5-8.1792537784403.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Esav nägi, et Jitshak oli õnnistanud ⟨את⟩ Jaakovi ja saatnud ta Paddan-Arammi, et võtta sealt endale naine; ja õnnistades ⟨את⟩ teda andis ta temale käsu, öeldes: Ära võta naist Kenaani tütarde seast.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "nägi"
+      "gloss": "Ja nägi"
     },
     {
       "surface": "עשו",
-      "gloss": "Eesav"
+      "gloss": "Esav"
     },
     {
       "surface": "כי",
@@ -51,20 +30,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaakobit"
+      "marks": "Jaakovi"
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakobit"
+      "gloss": "Jaakovi"
     },
     {
       "surface": "ושלח",
-      "gloss": "saatnud"
+      "gloss": "ja saatnud"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ teda",
-      "marks": "tema"
+      "marks": "Paddan-Arammi"
     },
     {
       "surface": "פדנה",
@@ -92,20 +71,20 @@
     },
     {
       "surface": "בברכו",
-      "gloss": "õnnistades"
+      "gloss": "ja õnnistades"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ teda",
-      "marks": "tema"
+      "marks": "käsu"
     },
     {
       "surface": "ויצו",
-      "gloss": "andis käsu"
+      "gloss": "andis ta käsu"
     },
     {
       "surface": "עליו",
-      "gloss": "tema peale"
+      "gloss": "temale"
     },
     {
       "surface": "לאמר",
@@ -129,9 +108,9 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kanaani"
+      "gloss": "Kenaani"
     }
   ],
-  "timestamp": "2026-10-20T23:09:44.404172097Z",
+  "timestamp": "2026-10-21T06:15:11.707194227Z",
   "model": "glm-5.3"
 }

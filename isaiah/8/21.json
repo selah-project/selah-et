@@ -5,68 +5,43 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Elohim",
-      "rationale": "ובאלהיו mitmuses 'tema jumalad' või 'tema Elohim' — kogukonna oma Elohim, mitte 'Issand'"
-    },
-    {
-      "kind": "crux",
-      "subject": "raskelt aetud",
-      "rationale": "נקשה 'kõva\/raske' — JPS 'sore bestead', teised 'langemas kokku'; sõna-sõnalt 'raske'"
-    }
-  ],
-  "translation": "Ja nad lähevad sealt üle, raskelt aetud ja näljased; ja juhtub, et kui nad on näljased, puhkevad nad vihast ja needavad oma kuningat ja oma Elohimit, ja pööravad näo ülespoole.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/8\/21-23.1792546824984.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja rändab läbi selle ⟨kõrbub⟩ kitsikuses ja näljas, ja sündib: kui ta nälgib, tugineb ta vihast ja neab oma kuningat ja oma Elohimit, ja pöördub ülespoole",
   "tokens": [
     {
       "surface": "ועבר",
-      "gloss": "ja nad lähevad üle"
+      "gloss": "ja rändab läbi"
     },
     {
       "surface": "בה",
-      "gloss": "sealt"
+      "gloss": "selle"
     },
     {
       "surface": "נקשה",
-      "gloss": "raskelt aetud"
+      "gloss": "kitsikuses"
     },
     {
-      "surface": "ו",
-      "gloss": "ja"
-    },
-    {
-      "surface": "רעב",
-      "gloss": "näljased"
+      "surface": "ורעב",
+      "gloss": "ja näljas"
     },
     {
       "surface": "והיה",
-      "gloss": "ja juhtub"
+      "gloss": "ja sündib"
     },
     {
       "surface": "כי",
-      "gloss": "et"
+      "gloss": "kui"
     },
     {
       "surface": "ירעב",
-      "gloss": "kui nad on näljased"
+      "gloss": "ta nälgib"
     },
     {
       "surface": "והתקצף",
-      "gloss": "puhkevad nad vihast"
+      "gloss": "tugineb ta vihast"
     },
     {
       "surface": "וקלל",
-      "gloss": "needavad"
+      "gloss": "ja neab"
     },
     {
       "surface": "במלכו",
@@ -74,17 +49,17 @@
     },
     {
       "surface": "ובאלהיו",
-      "gloss": "ja oma Elohimit"
+      "gloss": "ja oma Elohimist"
     },
     {
       "surface": "ופנה",
-      "gloss": "ja pööravad näo"
+      "gloss": "ja pöördub"
     },
     {
       "surface": "למעלה",
       "gloss": "ülespoole"
     }
   ],
-  "timestamp": "2026-10-21T01:40:24.985631458Z",
+  "timestamp": "2026-10-21T06:18:40.358994058Z",
   "model": "glm-5.3"
 }

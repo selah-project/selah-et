@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eesliõige 'annab … kaaslasele' kannab suuna ise, eraldi 'kuni' ei lisata"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשבר\/נשבה",
-      "rationale": "Kaks sarnase kõlaga verbi 'on katki \/ on viidud' — eesti keeles kõla kadub"
-    },
-    {
-      "kind": "alternative",
-      "subject": "viiakse ära",
-      "rationale": "נשבה on sõjast laenatud 'vangi viidud'; looma kohta mööda 'viiakse ära'"
-    }
-  ],
-  "translation": "Kui annab mees oma kaaslasele eesli või härga või talli või mis tahes karilooma hoida, ja see sureb või saab vigastada või viiakse ära, ilma et keegi näeks —",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/22\/9-12.1792538637251.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui annab mees oma kaasemale eesli või härga või talli või ükskõik millise karilooma hoida, ja see sureb või saab katki või viiakse ära, kedagi ⟨pole⟩, kes näeks —",
   "tokens": [
     {
       "surface": "כי",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "oma kaasale →"
     },
     {
       "surface": "רעהו",
-      "gloss": "oma kaaslasele"
+      "gloss": "kaasale"
     },
     {
       "surface": "חמור",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "või mis tahes"
+      "gloss": "ja ükskõik millise"
     },
     {
       "surface": "בהמה",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "נשבר",
-      "gloss": "saab vigastada"
+      "gloss": "saab katki"
     },
     {
       "surface": "או",
@@ -107,13 +81,13 @@
     },
     {
       "surface": "אין",
-      "gloss": "ilma et"
+      "gloss": "kedagi ⟨pole⟩"
     },
     {
       "surface": "ראה",
-      "gloss": "keegi näeks"
+      "gloss": "kes näeks"
     }
   ],
-  "timestamp": "2026-10-20T23:23:57.252007968Z",
+  "timestamp": "2026-10-21T06:05:41.588954944Z",
   "model": "glm-5.3"
 }

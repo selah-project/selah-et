@@ -5,28 +5,7 @@
   "book": "job",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מן",
-      "rationale": "eesti eraldav kääne 'taevast' kannab 'min' tähenduse, eraldi sõna ei vajata"
-    },
-    {
-      "kind": "substitution",
-      "subject": "lambaid-kitsi",
-      "rationale": "צאן on kollektiivne 'kari' (lambs ja kitsed); lahti kirjutatud, sest eesti ei ole ühe sõnaga"
-    }
-  ],
-  "translation": "Kui see veel rääkis, tuli teine ja ütles: Elohimi tuli langes taevast ja põles lambaid-kitsi ja noorukeid ja söödas nad ära, ja pääsesin pääsenud — ainult mina üksi —, et sinule teatada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/1\/13-16.1792555076012.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Veel ⟨see⟩ rääkis, ja ⟨see⟩ teine tuli ning ütles: Elohimi tuli langes taevast ja põles lambaid-kitsi ning noorukeid ning õgis nad ära; ja mina pääsesin, üksinda ainult mina, sulle ⟩ et sul ⟨teatada⟩.",
   "tokens": [
     {
       "surface": "עוד",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "see"
+      "gloss": "⟨see⟩"
     },
     {
       "surface": "מדבר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "וזה",
-      "gloss": "ja teine"
+      "gloss": "ja ⟨see⟩ teine"
     },
     {
       "surface": "בא",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "…st"
     },
     {
       "surface": "השמים",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "ותאכלם",
-      "gloss": "ja söödas nad ära"
+      "gloss": "ja õgis nad ära"
     },
     {
       "surface": "ואמלטה",
-      "gloss": "ja pääsesin pääsenud"
+      "gloss": "ja mina pääsesin"
     },
     {
       "surface": "רק",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "לבדי",
-      "gloss": "üksi"
+      "gloss": "üksinda"
     },
     {
       "surface": "להגיד",
@@ -110,9 +89,9 @@
     },
     {
       "surface": "לך",
-      "gloss": "sinule"
+      "gloss": "sulle"
     }
   ],
-  "timestamp": "2026-10-21T03:57:56.013877188Z",
+  "timestamp": "2026-10-21T06:23:19.499343036Z",
   "model": "glm-5.3"
 }

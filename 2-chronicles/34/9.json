@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Heebrea puudub koppel; eesti keel nõuab selle passiivi jaoks"
-    },
-    {
-      "kind": "crux",
-      "subject": "וישבי ירושלם",
-      "rationale": "KJV\/JPS loevad 'ja nad pöörasid tagasi Jerušalaimi'; heebrea konsonandid võimaldavad nii 'elanikud' kui 'nad naasid'"
-    }
-  ],
-  "translation": "Ja nad tulid Hilkija juurde, preestri, suure juurde, ja nad andsid hõbeda, mis ⟨oli⟩ toodud Elohimi koju, mille leviidid, läve valvurid, olid kogunud Menasse ja Efraimi käest ja kogu Jisraeli jäänukist ning kogu Juuda ja Binjamiini ja Jerušalaimi elanike käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3d1c130c16232e7741391f7cd6bbd5b46b5c313b0f982ddea1fd3a9c82a8da52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/34\/9-12.1792558199722.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tulid preestri Hilkija juurde, ⟨suure⟩ preestri juurde, ja nad andsid ⟨את⟩ hõbeda, mis oli toodud Elohimi koju, mille leviidid, läve valvurid, olid kogunud Menasse ja Efrajimi käest ja kogu Jisraeli jäänuse käest ning kogu Juuda ja Bnjemini ja Jerušalaimi asukate käest.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "preester"
+      "gloss": "preestri"
     },
     {
       "surface": "הגדול",
-      "gloss": "suur"
+      "gloss": "suure"
     },
     {
       "surface": "ויתנו",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "hõbe"
+      "gloss": "hõbeda"
     },
     {
       "surface": "המובא",
-      "gloss": "mis toodud"
+      "gloss": "mis oli toodud"
     },
     {
       "surface": "בית",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimi"
     },
     {
       "surface": "אשר",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אספו",
-      "gloss": "olidsid kogunud"
+      "gloss": "olid kogunud"
     },
     {
       "surface": "הלוים",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "ואפרים",
-      "gloss": "ja Efraim"
+      "gloss": "ja Efrajimi"
     },
     {
       "surface": "ומכל",
@@ -111,15 +90,15 @@
     },
     {
       "surface": "שארית",
-      "gloss": "jäänuk"
+      "gloss": "jäänuse"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Jisraeli"
     },
     {
       "surface": "ומכל",
-      "gloss": "ja kogu"
+      "gloss": "ning kogu"
     },
     {
       "surface": "יהודה",
@@ -127,17 +106,17 @@
     },
     {
       "surface": "ובנימן",
-      "gloss": "ja Binjamiin"
+      "gloss": "ja Bnjemini"
     },
     {
       "surface": "וישבי",
-      "gloss": "ja elanikud"
+      "gloss": "ja asukad"
     },
     {
       "surface": "ירושלם",
       "gloss": "Jerušalaimi"
     }
   ],
-  "timestamp": "2026-10-21T04:49:59.723459576Z",
+  "timestamp": "2026-10-21T05:55:57.639254558Z",
   "model": "glm-5.3"
 }

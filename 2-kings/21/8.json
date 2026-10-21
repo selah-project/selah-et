@@ -5,40 +5,19 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "להניד רגל",
-      "rationale": "'jalgu kõigutama' — heebrea pilt püsivuse kaotamisest; 'kõiguma' hoiab keha idioomi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Toora",
-      "rationale": "תורה jääb Tooraks, mitte 'seadus'"
-    }
-  ],
-  "translation": "Ja ma ei lase enam Jisraeli jalga kõiguda sellelt maalt, mille ma andsin nende isadele — ainult seda, kui nad hoiavad teha kõige järgi, mis ma nad käskisin, ja kogu Toora järgi, mida mu sulane Moše nad käskis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "06eeda6d777e8259d446577f7e7410d59504cfcdf51490b8a08a994c833318cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/21\/5-8.1792546431493.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma ei lisa enam Jisraeli jalga nihutama sellelt maalt, mille ma andsin nende isadele — ainult see, kui nad hoiavad seda tegema kõik, mida ma neile olen käskinud, ja kogu selle Toora, mida mu teener Moše on käskinud ⟨את⟩ neid.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "ja ei"
     },
     {
       "surface": "אסיף",
-      "gloss": "ma lase enam"
+      "gloss": "lisa ma"
     },
     {
       "surface": "להניד",
-      "gloss": "kõiguda"
+      "gloss": "nihutama"
     },
     {
       "surface": "רגל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "רק",
-      "gloss": "ainult seda"
+      "gloss": "ainult"
     },
     {
       "surface": "אם",
@@ -82,23 +61,23 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "teha"
+      "gloss": "tegema"
     },
     {
       "surface": "ככל",
-      "gloss": "kõige järgi"
+      "gloss": "kõik"
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "mida"
     },
     {
       "surface": "צויתים",
-      "gloss": "ma nad käskisin"
+      "gloss": "ma neile olen käskinud"
     },
     {
       "surface": "ולכל",
-      "gloss": "ja kogu"
+      "gloss": "ja kogu selle"
     },
     {
       "surface": "התורה",
@@ -110,22 +89,22 @@
     },
     {
       "surface": "צוה",
-      "gloss": "käskis"
+      "gloss": "on käskinud"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "nad (objekt)"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "עבדי",
-      "gloss": "mu sulane"
+      "gloss": "mu teener"
     },
     {
       "surface": "משה",
       "gloss": "Moše"
     }
   ],
-  "timestamp": "2026-10-21T01:33:51.498838222Z",
+  "timestamp": "2026-10-21T05:58:24.538489172Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חללים",
-      "rationale": "otsemoone 'läbistatud\/langenud', eestis 'langenuina'"
-    },
-    {
-      "kind": "crux",
-      "subject": "תעקר",
-      "rationale": "'kannustama\/kõõluseid läbi lõikama' vs 'juurima' — hobuste talitlusvõime kägistamine"
-    },
-    {
-      "kind": "you",
-      "subject": "Jehoošuale",
-      "rationale": "Jahve pöördub otse Jehoošua poole"
-    }
-  ],
-  "translation": "Ja Jahve ütles Jehoošuale: Ära karda nende pärast, sest homme sellesama tunni ajal annan mina ⟨את⟩ nad kõik langenuina Jisraeli silme ette; ⟨את⟩ nende hobused pead sa kõõluste pihta lõikama ja ⟨את⟩ nende sõjavankrid tulega põletama.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/11\/5-8.1792541584021.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Jehošuale: Ära karda nende pärast, sest homme sellesamas ajas annan mina ⟨את⟩ nad kõik langetutena Jisraeli nägu ees; nende hobused kasuta jalgadelt ja nende sõjavankrid põlema põletada tulega.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "יהוה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jehošuale"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoošuale"
+      "gloss": "Jehošuale"
     },
     {
       "surface": "אל",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "כעת",
-      "gloss": "sellesama tunni ajal"
+      "gloss": "samas ajas"
     },
     {
       "surface": "הזאת",
-      "gloss": ""
+      "gloss": "selles"
     },
     {
       "surface": "אנכי",
@@ -88,19 +62,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "neid kõiki"
+      "marks": "nad kõik"
     },
     {
       "surface": "כלם",
-      "gloss": "nad kõik"
+      "gloss": "kõik"
     },
     {
-      "surface": "חלALים",
-      "gloss": "langenuina"
+      "surface": "חללים",
+      "gloss": "langetutena"
     },
     {
       "surface": "לפני",
-      "gloss": "silme ette"
+      "gloss": "nägu ees"
     },
     {
       "surface": "ישראל",
@@ -117,11 +91,11 @@
     },
     {
       "surface": "תעקר",
-      "gloss": "kõõluste pihta lõikama"
+      "gloss": "kasuta jalgadelest"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "nende sõjavankrid"
     },
     {
@@ -137,6 +111,6 @@
       "gloss": "tulega"
     }
   ],
-  "timestamp": "2026-10-21T00:13:04.022690458Z",
+  "timestamp": "2026-10-21T06:39:46.594865934Z",
   "model": "glm-5.3"
 }

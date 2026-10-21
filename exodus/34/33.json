@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מסוה",
-      "rationale": "Sõna esineb Tanahhis ainult selles lõigus (2Ms 34:33–35), tähendab näomaski\/katte."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "gloss": "H854 prepositsioon 'temaga\/nendega', mitte otsese objekti marker, kuid märgitud ⟨את⟩."
-    }
-  ],
-  "translation": "Ja Moše lõpetas nendega rääkimise ja pani oma näole masve-näomaski.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/34\/33-35.1792538916757.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše lakkas ⟨את⟩ nendega rääkimast ja pani oma näo peale loori.",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "ja lõpetas"
+      "gloss": "lakkas"
     },
     {
       "surface": "משה",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "rääkimise"
+      "gloss": "rääkimast"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "nendega"
+      "gloss": "⟨את⟩ nendega",
+      "marks": "nendega — siin on prepositsioon את H854 ('koos'), mitte otsese objekti marker"
     },
     {
       "surface": "ויתן",
-      "gloss": "ja pani"
+      "gloss": "pani"
     },
     {
       "surface": "על",
-      "gloss": "näole"
+      "gloss": "peale"
     },
     {
       "surface": "פניו",
@@ -59,9 +38,9 @@
     },
     {
       "surface": "מסוה",
-      "gloss": "masve-näomask"
+      "gloss": "loor"
     }
   ],
-  "timestamp": "2026-10-20T23:28:36.757890666Z",
+  "timestamp": "2026-10-21T06:06:12.239222777Z",
   "model": "glm-5.3"
 }

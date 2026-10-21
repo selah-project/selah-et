@@ -5,33 +5,7 @@
   "book": "job",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ברך \/ נקבל",
-      "rationale": "Eelmise salmi ברך ('õnnista') ja siinse נקבל ('vastu võtma') konsonantide kõla (ב-ר-ך \/ ק-ב-ל) loob kajamängu, mis eesti keeles kaob."
-    },
-    {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "מאת on eluti instrumentaal 'Elohimi käest'; 'käest' kannab selle, ⟨את⟩ marker jääb."
-    },
-    {
-      "kind": "you",
-      "subject": "Iiobi naine",
-      "rationale": "Iiob vastab naisele otse pöördumisega."
-    }
-  ],
-  "translation": "Ja ta ütles talle: Nagu räägib üks rumalatest naistest, nõnda räägid sina; kas me võtame Elohimi käest vastu ⟨את⟩ hea, aga ⟨את⟩ kurja ei võtaks vastu? Kõiges selles ei teinud Iiob oma huultega pattu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5f8f1a10775fe3c80875475fb5fa109b4e8355bb7580934029c869c434ddd4e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/2\/9-12.1792555086852.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles talle: nagu räägib üks narritaritest, nõnda räägid sina; kas ⟨את⟩ head võtame vastu ⟨את⟩ Eloimi käest ja ⟨את⟩ halba ei võta vastu? Kõiges selles ei teinud Ijov pattu oma huultega.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "הנבלות",
-      "gloss": "rumalatest naistest"
+      "gloss": "narritaritest"
     },
     {
       "surface": "תדברי",
@@ -64,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hea"
+      "marks": "head"
     },
     {
       "surface": "הטוב",
-      "gloss": "hea"
+      "gloss": "head"
     },
     {
       "surface": "נקבל",
@@ -76,20 +50,20 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ käest"
+      "gloss": "käest ⟨את⟩"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Eloimi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kurja"
+      "gloss": "ja ⟨את⟩",
+      "marks": "halba"
     },
     {
       "surface": "הרע",
-      "gloss": "kurja"
+      "gloss": "halba"
     },
     {
       "surface": "לא",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "נקבל",
-      "gloss": "võtaks vastu"
+      "gloss": "võta vastu"
     },
     {
       "surface": "בכל",
@@ -117,13 +91,13 @@
     },
     {
       "surface": "איוב",
-      "gloss": "Iiob"
+      "gloss": "Ijov"
     },
     {
       "surface": "בשפתיו",
       "gloss": "oma huultega"
     }
   ],
-  "timestamp": "2026-10-21T03:58:06.853772865Z",
+  "timestamp": "2026-10-21T06:23:19.667075977Z",
   "model": "glm-5.3"
 }

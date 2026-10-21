@@ -5,32 +5,16 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויעזב ... ויועץ",
-      "rationale": "jätma vs nõu pidama — vanemate nõu mahajätmine ja noortega nõupidamise terav vastandus"
-    }
-  ],
-  "translation": "Aga ta jättis maha nõu, mida vanemad talle andsid, ja pidas nõu ⟨את⟩ noortega, kes olid temaga üles kasvanud, nendega, kes seisid tema ees.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bec773b208767d994b14450efce18e9a908effb92f59607874bc9bb4fa523a44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/10\/5-8.1792557775513.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta jättis järele ⟨את⟩ vanemate nõu, mida nad talle olid andnud, ja pidas nõu ⟨את⟩ noortega, kes olid temaga üles kasvanud, kes seisid tema ees.",
   "tokens": [
     {
       "surface": "ויעזב",
-      "gloss": "Aga ta jättis maha"
+      "gloss": "ja ta jättis järele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nõu"
+      "marks": "vanemate nõu"
     },
     {
       "surface": "עצת",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "הזקנים",
-      "gloss": "vanemad"
+      "gloss": "vanemate"
     },
     {
       "surface": "אשר",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "יעצהו",
-      "gloss": "talle andsid"
+      "gloss": "nad talle olid andnud"
     },
     {
       "surface": "ויועץ",
@@ -82,6 +66,6 @@
       "gloss": "tema ees"
     }
   ],
-  "timestamp": "2026-10-21T04:42:55.516215829Z",
+  "timestamp": "2026-10-21T05:54:41.893079446Z",
   "model": "glm-5.3"
 }

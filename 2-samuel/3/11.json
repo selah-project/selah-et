@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ta",
-      "rationale": "Heebrea lause jätab teo subjekti (Iš-Boshet) nimetamata; eesti nõuab asesõna"
-    },
-    {
-      "kind": "elision",
-      "subject": "דבר",
-      "rationale": "'sõna' eesti ütlekside üksienes 'ühe sõna' — arv väljendatud fraasis 'ühtegi sõna'"
-    }
-  ],
-  "translation": "Ja ⟨ta⟩ ei suutnud enam vastata Avnerile ühtegi sõna, sest ⟨ta⟩ kardes ⟨teda⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/3\/9-12.1792544397314.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ei suutnud enam vastata Avnerile ⟨את⟩ sõna, sest ta kardis ⟨את⟩ teda.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Ja ei"
+      "gloss": "ja ei"
     },
     {
       "surface": "יכל",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avnerile"
+      "marks": "Avner"
     },
     {
       "surface": "אבנר",
@@ -67,6 +46,6 @@
       "marks": "teda"
     }
   ],
-  "timestamp": "2026-10-21T00:59:57.316226664Z",
+  "timestamp": "2026-10-21T06:00:12.611885520Z",
   "model": "glm-5.3"
 }

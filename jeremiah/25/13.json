@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "kõnetlus Jahve poolt",
-      "rationale": "Jahve kõne Jermjahule, kuigi verb on 1. pildiütlev 'ma toon'."
-    },
-    {
-      "kind": "elision",
-      "subject": "כל הכתוב",
-      "rationale": "heebrea pärisnimeta kõik-konstruktsioon; eesti keeles lisatud 'mis on' seostamiseks."
-    }
-  ],
-  "translation": "Ja ma toon sellele maale kõik oma sõnad, mis ma olen tema vastu kõnelnud, kõik, mis on sellesse raamatusse kirjutatud, mida Jermjahu on prohvetenud kõigi rahvaste kohta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/25\/13-16.1792548657952.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma toon sellele maale kõik oma sõnad, mida ma olen selle kohta rääkinud, ⟨את⟩ kõik, mis on kirjutatud sellesse raamatusse, mida Jeremija on prohvetenud kõigi rahvaste kohta.",
   "tokens": [
     {
       "surface": "והבאיתי",
-      "gloss": "ja ma toon"
+      "gloss": "Ja ma toon"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": "sellele"
     },
     {
       "surface": "הארץ",
-      "gloss": "sellele maale"
+      "gloss": "maale"
     },
     {
       "surface": "ההיא",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik"
+      "marks": "kõik (oma sõnad)"
     },
     {
       "surface": "כל",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "ma olen kõnelnud"
+      "gloss": "ma olen rääkinud"
     },
     {
       "surface": "עליה",
-      "gloss": "tema vastu"
+      "gloss": "selle kohta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik"
+      "marks": "kõik, mis on kirjutatud"
     },
     {
       "surface": "כל",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jermjahu"
+      "gloss": "Jeremija"
     },
     {
       "surface": "על",
-      "gloss": "kohta"
+      "gloss": "kõigi"
     },
     {
       "surface": "כל",
@@ -112,9 +91,9 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "rahvaste"
+      "gloss": "rahvaste kohta"
     }
   ],
-  "timestamp": "2026-10-21T02:10:57.953841438Z",
+  "timestamp": "2026-10-21T06:19:42.529696840Z",
   "model": "glm-5.3"
 }

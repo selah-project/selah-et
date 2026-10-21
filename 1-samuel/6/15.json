@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olid \/ nad",
-      "rationale": "Heebrea kõrvallause ei sisalda kopeeli ega objekt-sõna 'nad'; eesti keel nõuab neid."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר בו",
-      "rationale": "Kaks järjestikust suhtesõna אשר ('mis ... milles') sulanduvad eesti keeles üheks tarindeks."
-    },
-    {
-      "kind": "hapax",
-      "subject": "ארגז",
-      "rationale": "Sõna argaz ilmub Tanahhis vaid selles loos (1Sm 6 peatükk) — haruldane laen, tõlgitud 'kirst'."
-    }
-  ],
-  "translation": "Ja leviidid võtsid maha Jahve kirstu ja ⟨את⟩ kirsti, mis ⟨oli⟩ tema juures, milles ⟨olid⟩ kuldnõud, ja panidsid nad suurele kivile; ja Bet-Šemeshi mehed tõstsid üles põlendohvreid ja ohverdasid ohvreid sel päeval Jahvele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "76a294d8c4020896bdbb57c42fcdbe2cc4147c228b4a1444f31c97fc26a377c0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/14-15.1792558331888.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja leviidid võtsid maha ⟨את⟩ Jahve laeka ja ⟨את⟩ kirstu, mis oli tema juures, milles olid kuldnõud, ja panid nad suure kivi peale; ja Beet-Šemeši mehed tõusid üles ohvreid tooma, nad tapsid ohvreid sel päeval Jahvele.",
   "tokens": [
     {
       "surface": "והלוים",
@@ -44,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve kirstu"
+      "marks": "Jahve laeka"
     },
     {
       "surface": "ארון",
-      "gloss": "kirst"
+      "gloss": "laegas"
     },
     {
       "surface": "יהוה",
@@ -57,11 +31,11 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kirsti"
+      "marks": "kirstu"
     },
     {
       "surface": "הארגז",
-      "gloss": "kirsti"
+      "gloss": "kirst"
     },
     {
       "surface": "אשר",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "tema sees"
+      "gloss": "selles"
     },
     {
       "surface": "כלי",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "וישמו",
-      "gloss": "ja panidsid"
+      "gloss": "ja panid nad"
     },
     {
       "surface": "אל",
-      "gloss": "suurele kivile"
+      "gloss": "peale"
     },
     {
       "surface": "האבן",
@@ -109,23 +83,23 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet-Šemeshi"
+      "gloss": "Beet-"
     },
     {
       "surface": "שמש",
-      "gloss": "Bet-Šemeš"
+      "gloss": "Šemeši"
     },
     {
       "surface": "העלו",
-      "gloss": "tõstsid üles"
+      "gloss": "tõusid üles tooma"
     },
     {
       "surface": "עלות",
-      "gloss": "põlendohvreid"
+      "gloss": "põletusohvreid"
     },
     {
       "surface": "ויזבחו",
-      "gloss": "ja ohverdasid"
+      "gloss": "ja nad tapsid"
     },
     {
       "surface": "זבחים",
@@ -137,13 +111,13 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "sel"
+      "gloss": "samasel"
     },
     {
       "surface": "ליהוה",
       "gloss": "Jahvele"
     }
   ],
-  "timestamp": "2026-10-21T04:52:11.889365134Z",
+  "timestamp": "2026-10-21T05:53:52.822516422Z",
   "model": "glm-5.3"
 }

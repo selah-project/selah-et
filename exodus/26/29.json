@@ -5,50 +5,29 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בתים",
-      "rationale": "sõna-sõnalt 'maja(d)'; tähendab siin rõngaste sisse lõigatud hoidikuid, 'kohad' pingutustele"
-    },
-    {
-      "kind": "measurement",
-      "subject": "materjalid",
-      "rationale": "kulla kordumine kolm korda määrab miškani ehitusdetailid"
-    }
-  ],
-  "translation": "Ja ⟨את⟩ laudu kaet kuldaga, ja nende rõngaid tee kullast, kohad nende pingutustele, ja kaera nende pingutused kuldaga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/26\/29-32.1792538758750.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ laudu katted sa kullaga, ja ⟨את⟩ nende rõngaid tee sa kullast, kodadeks nende riistadele, ja katted sa ⟨את⟩ nende riisted kullaga.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "lauad"
+      "marks": "laudade"
     },
     {
       "surface": "הקרשים",
-      "gloss": "lauad"
+      "gloss": "laudu"
     },
     {
       "surface": "תצפה",
-      "gloss": "kaet"
+      "gloss": "katted sa"
     },
     {
       "surface": "זהב",
-      "gloss": "kuldaga"
+      "gloss": "kullaga"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "rõngad"
+      "gloss": "ja ⟨את⟩",
+      "marks": "rõngaid"
     },
     {
       "surface": "טבעתיהם",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "tee"
+      "gloss": "tee sa"
     },
     {
       "surface": "זהב",
@@ -64,30 +43,30 @@
     },
     {
       "surface": "בתים",
-      "gloss": "kohad"
+      "gloss": "kodadeks"
     },
     {
       "surface": "לבריחם",
-      "gloss": "nende pingutustele"
+      "gloss": "nende riistadele"
     },
     {
       "surface": "וצפית",
-      "gloss": "ja kaera"
+      "gloss": "ja katted sa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nende pingutused"
+      "marks": "riisted"
     },
     {
       "surface": "הבריחם",
-      "gloss": "nende pingutused"
+      "gloss": "nende riisted"
     },
     {
       "surface": "זהב",
-      "gloss": "kuldaga"
+      "gloss": "kullaga"
     }
   ],
-  "timestamp": "2026-10-20T23:25:58.751502015Z",
+  "timestamp": "2026-10-21T06:05:37.601476220Z",
   "model": "glm-5.3"
 }

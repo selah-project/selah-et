@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Kuule, Jisrael",
-      "rationale": "Käskiv pöördumine kogu Jisraeli poole, tekst kutsub kuulajat."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisrael",
-      "rationale": "Otsene pöördumine kogu Jisraeli poole Moše suust."
-    }
-  ],
-  "translation": "Ja Moše kutsus kogu Jisraeli ning ütles neile: Kuule, Jisrael, ⟨את⟩ määrused ja ⟨את⟩ otsused, mida mina räägin täna teie kõrvu, et te õpiksite neid ja hoiaksite neid, neid täitmaks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/5\/1-4.1792540682100.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše kutsus kogu Jisraeli ning ütles neile: Kuule, Jisrael, ⟨את⟩ hukud ja ⟨את⟩ kohtuotsused, mida ma täna teie kõrvu räägin, ja õppige need ⟨את⟩ ning pange tähele, et neid täita.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "כל",
@@ -67,20 +46,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "määrused"
+      "marks": "hukud"
     },
     {
       "surface": "החקים",
-      "gloss": "määrused"
+      "gloss": "hukud"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "otsused"
+      "marks": "kohtuotsused"
     },
     {
       "surface": "המשפטים",
-      "gloss": "otsused"
+      "gloss": "kohtuotsused"
     },
     {
       "surface": "אשר",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "mina"
+      "gloss": "ma"
     },
     {
       "surface": "דבר",
@@ -104,21 +83,22 @@
     },
     {
       "surface": "ולמדתם",
-      "gloss": "et te õpiksite"
+      "gloss": "ja õppige"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neid",
+      "marks": "hukud ja kohtuotsused"
     },
     {
       "surface": "ושמרתם",
-      "gloss": "ja hoiaksite neid"
+      "gloss": "ja pange tähele"
     },
     {
       "surface": "לעשתם",
-      "gloss": "neid täitmaks"
+      "gloss": "et neid täita"
     }
   ],
-  "timestamp": "2026-10-20T23:58:02.101555129Z",
+  "timestamp": "2026-10-21T06:03:42.673436486Z",
   "model": "glm-5.3"
 }

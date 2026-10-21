@@ -5,45 +5,19 @@
   "book": "ezra",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Aramaakeelne kõrvallause vajab eesti keeles siduvat verbi 'mis on su käes'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Toora järgi",
-      "rationale": "דת tähendab 'seadus\/käsk' — arameakeelses kontekstis kantud üle kui Toora."
-    },
-    {
-      "kind": "measurement",
-      "subject": "seitse nõuniku",
-      "rationale": "Nõunike arv on täpselt loetud — seitse."
-    }
-  ],
-  "translation": "Sest sina oled saadetud kuninga ja tema seitsme nõuniku poolt Jahuuda ja Jerušalaimi üle järele uurima oma Eloahi Toora järgi, mis ⟨on⟩ su käes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/7\/13-16.1792556742356.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Seepärast, et sina ⟨on⟩ saadetud kuninga ja tema seitsme nõuandja poolt, et uurida Juudat ja Jerušalaimi su Eloah Toora järgi, mis ⟨on⟩ sinu käes,",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "sest"
+      "gloss": "seepärast"
     },
     {
       "surface": "קבל",
-      "gloss": "seetõttu et"
+      "gloss": "et"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "מן",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "קדם",
-      "gloss": "ees"
+      "gloss": "eest"
     },
     {
       "surface": "מלכא",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "יעטהי",
-      "gloss": "nõuniku"
+      "gloss": "nõuandja"
     },
     {
       "surface": "שליח",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "לבקרא",
-      "gloss": "järele uurima"
+      "gloss": "et uurida"
     },
     {
       "surface": "על",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "יהוד",
-      "gloss": "Jahuuda"
+      "gloss": "Juudat"
     },
     {
       "surface": "ולירושלם",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "אלהך",
-      "gloss": "su Eloahi"
+      "gloss": "su Eloah"
     },
     {
       "surface": "די",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "בידך",
-      "gloss": "su käes"
+      "gloss": "sinu käes"
     }
   ],
-  "timestamp": "2026-10-21T04:25:42.357917813Z",
+  "timestamp": "2026-10-21T06:12:39.617988259Z",
   "model": "glm-5.3"
 }

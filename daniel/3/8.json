@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אכל קרץ 'ära närida'",
-      "rationale": "Otsene pilt 'kiskusid (nende liha) hammastega' tähendab laimu ajamist; 'kiskusid hammastega' jätab pildi nähtavale."
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "Sõnast 'pika' (די יהודיא — juutude pääl) eesti keeles eraldi sõnata, 'juute' kannab objekti."
-    }
-  ],
-  "translation": "Sellepärast tulid sel ajal lähedale kaldealaste mehed ja kiskusid hammastega juute.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0c2d861dc09834698150ca6c0722c90defe73c889d1f681646dd10456f69a0e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/3\/5-8.1792556370168.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kõige selle tõttu tulid sel ajal lähedale mehed, kaldealased, ja õgisesid juute, neid, kes olid Jisraeli ⟨ei — Jisraeli ei ole; vaata märkust⟩.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "sellepärast"
+      "gloss": "kõige"
     },
     {
       "surface": "קבל",
-      "gloss": "sellepärast"
+      "gloss": "selle tõttu"
     },
     {
       "surface": "דנה",
@@ -58,25 +37,25 @@
     },
     {
       "surface": "כשדאין",
-      "gloss": "kaldealaste"
+      "gloss": "kaldealased"
     },
     {
       "surface": "ואכלו",
-      "gloss": "ja kiskusid"
+      "gloss": "ja õgisesid"
     },
     {
       "surface": "קרציהון",
-      "gloss": "hammastega"
+      "gloss": "nende kallal"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "neid, kes olid"
     },
     {
       "surface": "יהודיא",
-      "gloss": "juute"
+      "gloss": "juudid"
     }
   ],
-  "timestamp": "2026-10-21T04:19:30.169373715Z",
+  "timestamp": "2026-10-21T06:01:33.071463425Z",
   "model": "glm-5.3"
 }

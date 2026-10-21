@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פני",
-      "rationale": "otsetõlge 'peal \/ näo ees' = 'üle, ees' — eesõigus vihatud poja ees."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הבכר kui tegusõna",
-      "rationale": "לבכר on tegusõna 'esmasündinuks tegema\/kuulutama', eesti keeles vajab see kaks sõna."
-    }
-  ],
-  "translation": "siis juhtub, päeval mil ta annab oma poegadele pärandiks ⟨את⟩ kõik, mis tal on, ei tohi ta kuulutada esmasündunuks ⟨את⟩ armastatud naise poega vihatud naise poja, esmasündinu, üle.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/21\/13-16.1792541019905.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨see juhtub⟩ päeval, mil ta lasetab ⟨את⟩ oma poegi pärima ⟨את⟩ seda, mis tal on, ei tohi ta esmasündinuks teha ⟨את⟩ armastatud naise poega vihatud naise poja — esmasündinu — ees.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "siis juhtub"
+      "gloss": "ja ⟨see juhtub⟩"
     },
     {
       "surface": "ביום",
@@ -38,25 +17,25 @@
     },
     {
       "surface": "הנחילו",
-      "gloss": "annab pärandiks"
+      "gloss": "ta lasetab pärima"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik, mis tal on"
+      "marks": "oma poegi"
     },
     {
       "surface": "בניו",
-      "gloss": "oma poegadele"
+      "gloss": "oma poegi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik, mis tal on"
+      "marks": "seda, mis tal on"
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "seda, mis"
     },
     {
       "surface": "יהיה",
@@ -76,16 +55,16 @@
     },
     {
       "surface": "לבכר",
-      "gloss": "kuulutada esmasündunuks"
+      "gloss": "esmasündinuks teha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "armastatud naise poeg"
+      "marks": "armastatud naise poega"
     },
     {
       "surface": "בן",
-      "gloss": "poeg"
+      "gloss": "poega"
     },
     {
       "surface": "האהובה",
@@ -93,11 +72,11 @@
     },
     {
       "surface": "על",
-      "gloss": "üle"
+      "gloss": "ees"
     },
     {
       "surface": "פני",
-      "gloss": "ees"
+      "gloss": "näo"
     },
     {
       "surface": "בן",
@@ -112,6 +91,6 @@
       "gloss": "esmasündinu"
     }
   ],
-  "timestamp": "2026-10-21T00:03:39.906526222Z",
+  "timestamp": "2026-10-21T06:03:05.706877156Z",
   "model": "glm-5.3"
 }

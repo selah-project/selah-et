@@ -5,68 +5,42 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בלעם",
-      "rationale": "Siin on paikanimi Bilam (Joo 21:25 'Bileam'), mitte prohvet Bil'am — ühed tõlkijad kirjutavad Bileam, teised Bilam"
-    },
-    {
-      "kind": "substitution",
-      "subject": "poolrõhm",
-      "rationale": "מחצית מטה on sõnasõnalt 'rõhma pool' — Menasse poolrõhm üle Jordani"
-    },
-    {
-      "kind": "measurement",
-      "subject": "linnade loend",
-      "rationale": "Keati järelejäänud perekondade linnade loendamine"
-    }
-  ],
-  "translation": "ja Menasse poolrõhma suguvõsast ⟨את⟩ Aaneri koos selle karjamaadega ja ⟨את⟩ Bilami koos selle karjamaadega — Keati poegadele, kes ⟨jäid⟩ järele jäänuteks",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3318a7c8a9b65949d1784607e4149e30e3af811be872ef5b4adaa35e6ca0bcb4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/53-56.1792557267956.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Menashhe hõimu poolt: ⟨את⟩ Aneri koos tema karjamaadega ja ⟨את⟩ Bilami koos tema karjamaadega, järgi jäänud Kehati poegade perekonnale.",
   "tokens": [
     {
       "surface": "וממחצית",
-      "gloss": "ja poolrõhmast"
+      "gloss": "ja poolt"
     },
     {
       "surface": "מטה",
-      "gloss": "rõhm"
+      "gloss": "hõimu"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menasse"
+      "gloss": "Menashhe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aaner"
+      "marks": "Aneri"
     },
     {
       "surface": "ענר",
-      "gloss": "Aaner"
+      "gloss": "Aner"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "karjamaad"
+      "marks": "tema karjamaadega"
     },
     {
-      "surface": "מגרשים",
-      "gloss": "karjamaad"
+      "surface": "מגרשיה",
+      "gloss": "tema karjamaad"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Bilam"
+      "marks": "Bilami"
     },
     {
       "surface": "בלעם",
@@ -75,29 +49,29 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "karjamaad"
+      "marks": "tema karjamaadega"
     },
     {
-      "surface": "מגרשים",
-      "gloss": "karjamaad"
+      "surface": "מגרשיה",
+      "gloss": "tema karjamaad"
     },
     {
       "surface": "למשפחת",
-      "gloss": "suguvõsale"
+      "gloss": "perekonnale"
     },
     {
       "surface": "לבני",
-      "gloss": "Keati poegadele"
+      "gloss": "poegadele"
     },
     {
       "surface": "קהת",
-      "gloss": "Keati"
+      "gloss": "Kehati"
     },
     {
       "surface": "הנותרים",
-      "gloss": "järelejäänutele"
+      "gloss": "järgi jäänud"
     }
   ],
-  "timestamp": "2026-10-21T04:34:27.958037587Z",
+  "timestamp": "2026-10-21T05:50:08.258828964Z",
   "model": "glm-5.3"
 }

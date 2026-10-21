@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "sa",
-      "rationale": "Heebrea on kahesus ('te olete lõiganud'), eesti säilitab passiivse või 2. pöörde; pronoomen lisatud selguseks."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ומלתה",
-      "rationale": "Sõna-sõnalt 'lõika ära' = ümberlõikamine; verb kasutatakse vaid siin ja Jošua 5:3."
-    }
-  ],
-  "translation": "aga iga ori, mehe ost, hõbeda ⟨ost⟩, kui sa oled ta ümber lõiganud, siis võib ta sellest süüa.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/12\/41-44.1792538449853.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja iga mehe ori, hõbedaga ostetu — ja sa oled ta ümber lõiganud ⟨את⟩ teda, siis sööb ta sellest.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "aga iga"
+      "gloss": "ja iga"
     },
     {
       "surface": "עבד",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "מקנת",
-      "gloss": "ost"
+      "gloss": "ostetu"
     },
     {
       "surface": "כסף",
-      "gloss": "hõbeda"
+      "gloss": "hõbedaga"
     },
     {
       "surface": "ומלתה",
-      "gloss": "kui sa oled ümber lõiganud"
+      "gloss": "ja sa oled lõiganud"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ta"
+      "marks": "teda"
     },
     {
       "surface": "אז",
@@ -63,13 +42,13 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "võib ta süüa"
+      "gloss": "sööb ta"
     },
     {
       "surface": "בו",
       "gloss": "sellest"
     }
   ],
-  "timestamp": "2026-10-20T23:20:49.855005943Z",
+  "timestamp": "2026-10-21T06:05:07.658661604Z",
   "model": "glm-5.3"
 }

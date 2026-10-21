@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ביהודיים",
-      "rationale": "'juutide peale (nende hävitamiseks)' vs 'juutide arvel' — tekst on kaudne, kes kelle arvelt maksab"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לשקול",
-      "rationale": "'kaaluma' — Pärsia ametlikes dokumentides kaaluti hõbeda koguseid; verb hoitakse sõna-sõnalt"
-    }
-  ],
-  "translation": "Ja Mordekai rääkis talle kõigest, mis teda oli tabanud, ja ⟨את⟩ hõbeda täpse summa, mille Haman oli öelnud kaaluda kuninga varanduste arvelt juutide ⟨kohal⟩, et nad hävitada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/4\/5-8.1792556264568.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Mordehai teatas talle ⟨את⟩ kõik, mis teda oli tabanud, ja ⟨את⟩ hõbeda summa, mille Haman oli öelnud kaaluda kuninga tagavarade vastu juutide ⟨hävimiseks⟩, et nad hävitada.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "ja rääkis"
+      "gloss": "Ja Mordehai teatas"
     },
     {
       "surface": "לו",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordekai"
+      "gloss": "Mordehai"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hõbeda täpse summa"
+      "marks": "kõik, mis teda oli tabanud"
     },
     {
       "surface": "כל",
-      "gloss": "kõigest"
+      "gloss": "kõik"
     },
     {
       "surface": "אשר",
@@ -60,11 +39,11 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "hõbeda täpse summa"
+      "marks": "hõbeda summa"
     },
     {
       "surface": "פרשת",
-      "gloss": "täpne summa"
+      "gloss": "summa"
     },
     {
       "surface": "הכסף",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "על",
-      "gloss": "arvelt"
+      "gloss": "vastu"
     },
     {
       "surface": "גנזי",
-      "gloss": "varanduste"
+      "gloss": "tagavarade"
     },
     {
       "surface": "המלך",
@@ -100,13 +79,13 @@
     },
     {
       "surface": "ביהודיים",
-      "gloss": "juutide ⟨kohal⟩"
+      "gloss": "juutide"
     },
     {
       "surface": "לאבדם",
       "gloss": "et nad hävitada"
     }
   ],
-  "timestamp": "2026-10-21T04:17:44.569753328Z",
+  "timestamp": "2026-10-21T06:04:18.473229446Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,23 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "kelle juurde see läheb üles",
-      "rationale": "יעלה on meessoost (ark): 'tema läheb üles'; JPS laseb arul endal minna"
-    },
-    {
-      "kind": "you",
-      "subject": "rühmadevaheline küsimus",
-      "rationale": "Beit Šemeshi meeste hirmuküsimus, esitatud rahva enda nimel"
-    }
-  ],
-  "translation": "Ja Beit Šemeshi mehed ütlesid: Kes võib seista selle püha Jahve, Elohimi ees? ja kelle juurde see läheb üles meie juurest?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/17-20.1792543753532.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Bet-Šemeši mehed ütlesid: Kes suudab seista Jahve, selle püha Elohimi ees, ja kelle juurde ⟨see⟩ tõuseb meist ära?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ja nad ütlesid"
+      "gloss": "ja ütlesid"
     },
     {
       "surface": "אנשי",
       "gloss": "mehed"
     },
     {
-      "surface": "בית שמש",
-      "gloss": "Beit Šemeshi"
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Šemeši"
     },
     {
       "surface": "מי",
@@ -46,7 +29,7 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "võib"
+      "gloss": "suudab"
     },
     {
       "surface": "לעמד",
@@ -70,7 +53,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "selle"
+      "gloss": "see"
     },
     {
       "surface": "ואל",
@@ -82,13 +65,13 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "läheb üles"
+      "gloss": "tõuseb"
     },
     {
       "surface": "מעלינו",
-      "gloss": "meie juurest"
+      "gloss": "meist ära"
     }
   ],
-  "timestamp": "2026-10-21T00:49:13.536959648Z",
+  "timestamp": "2026-10-21T05:53:49.960620345Z",
   "model": "glm-5.3"
 }

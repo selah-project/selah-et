@@ -5,36 +5,15 @@
   "book": "haggai",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "והפכתי kordus",
-      "rationale": "Kolmekordne 'kukutan ümber' \/ 'langevad' ahel loob kokkulangemise rütmi."
-    },
-    {
-      "kind": "idiom",
-      "subject": "איש בחרב אחיו",
-      "rationale": "'Igaüks oma venna mõõga läbi' — korduv Tanahhi väljend (ehitised tapavad omavahel), eestis jäetud sõna-sõnalt."
-    }
-  ],
-  "translation": "Ja ma kukutan ümber kuningriikide troonid ja hävitan rahvaste kuningriikide väe; ja ma kukutan ümber sõjavankrid ja nende sõitjad, ja hobused ja nende ratsanikud langevad maha, igaüks oma venna mõõga läbi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7fd44ed36bb2c6169f99a8a547f2574a263a757160a6b83a554e301403437171",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/haggai\/2\/21-23.1792551876388.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Ma ümberpööran ⟨את⟩ kuningriikide trooni, ja Ma hävitan ⟨את⟩ rahvaste kuningriikide väe, ja Ma pööran ümber ⟨את⟩ kaariku ja ⟨את⟩ tema sõitjad, ja alla langevad hobused ja nende sõitjad, igaüks oma venna mõõga läbi.",
   "tokens": [
     {
       "surface": "והפכתי",
-      "gloss": "ja ma kukutan ümber"
+      "gloss": "Ja Ma ümberpööran"
     },
     {
       "surface": "כסא",
-      "gloss": "troonid"
+      "gloss": "trooni"
     },
     {
       "surface": "ממלכות",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "והשמדתי",
-      "gloss": "ja hävitan"
+      "gloss": "ja Ma hävitan"
     },
     {
       "surface": "חזק",
@@ -58,15 +37,19 @@
     },
     {
       "surface": "והפכתי",
-      "gloss": "ja ma kukutan ümber"
+      "gloss": "ja Ma pööran ümber"
     },
     {
       "surface": "מרכבה",
-      "gloss": "sõjavankrid"
+      "gloss": "kaariku"
+    },
+    {
+      "surface": "ורכביה",
+      "gloss": "ja tema sõitjad"
     },
     {
       "surface": "וירדו",
-      "gloss": "langevad maha"
+      "gloss": "ja alla langevad"
     },
     {
       "surface": "סוסים",
@@ -74,7 +57,7 @@
     },
     {
       "surface": "ורכביהם",
-      "gloss": "ja nende ratsanikud"
+      "gloss": "ja nende sõitjad"
     },
     {
       "surface": "איש",
@@ -89,6 +72,6 @@
       "gloss": "oma venna"
     }
   ],
-  "timestamp": "2026-10-21T03:04:36.389263065Z",
+  "timestamp": "2026-10-21T06:17:20.366441123Z",
   "model": "glm-5.3"
 }

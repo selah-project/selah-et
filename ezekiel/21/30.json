@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חלל",
-      "rationale": "'Läbistatud\/määratud hävitamisele' — passiivi või tulevase saatusena; JPS 'kes tapetud oled', teised loevad osana v. 29 jätkust."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli vürstile",
-      "rationale": "Kõne adressaat on järgnev salm; hukkunud kujuteldav kuulaja."
-    }
-  ],
-  "translation": "Ja sina, hävitatud õel, Jisraeli vürst, kelle päev on tulnud, süü lõpu ajal —",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "409af7bc075c8df7e67ac6154ad66135427013f443dd0b8a50fec089d4ea7c5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/21\/29-32.1792550178468.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sina, sa läbistatud pahategija, Jisraeli vürst, kelle päev on tulnud, ajal, mil ⟨on⟩ süü lõpp!",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "ja sina"
+      "gloss": "Ja sina"
     },
     {
-      "surface": "חלал",
-      "gloss": "hävitatud"
+      "surface": "חלל",
+      "gloss": "läbistatud"
     },
     {
       "surface": "רשע",
-      "gloss": "õel"
+      "gloss": "pahategija"
     },
     {
       "surface": "נשיא",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "ajal"
+      "gloss": "ajal, mil"
     },
     {
       "surface": "עון",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "קץ",
-      "gloss": "lõpu"
+      "gloss": "lõpp"
     }
   ],
-  "timestamp": "2026-10-21T02:36:18.468884192Z",
+  "timestamp": "2026-10-21T06:08:36.911421277Z",
   "model": "glm-5.3"
 }

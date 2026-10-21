@@ -5,35 +5,14 @@
   "book": "job",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בלעדי אחזה",
-      "rationale": "'peale selle, mida ma näen' — kas 'mida ma ei näe, seda õpeta sina' (KJV, eitus lisatud) või 'peale nähtu näita mulle veel' (YLT)."
-    },
-    {
-      "kind": "you",
-      "subject": "Jumal",
-      "rationale": "otsene pöördumine: 'sina õpeta mind' — patuja palve jätk Jumalale."
-    }
-  ],
-  "translation": "Peale selle, mida ma näen — sina õpeta mind; kui ma olen teinud väära, ma ei tee enam.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/34\/29-32.1792555641125.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mida ma ei näe, seda õpeta sina ⟨mulle⟩; kui ma olen teinud vääritust, ei tee ma seda enam.",
   "tokens": [
     {
       "surface": "בלעדי",
-      "gloss": "peale selle"
+      "gloss": "mida ma ei näe, seda"
     },
     {
-      "surface": "אחזeh",
+      "surface": "אחזה",
       "gloss": "ma näen"
     },
     {
@@ -42,7 +21,7 @@
     },
     {
       "surface": "הרני",
-      "gloss": "õpeta mind"
+      "gloss": "õpeta ⟨mulle⟩"
     },
     {
       "surface": "אם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "עול",
-      "gloss": "väära"
+      "gloss": "vääritust"
     },
     {
       "surface": "פעלתי",
@@ -62,9 +41,9 @@
     },
     {
       "surface": "אסיף",
-      "gloss": "tee enam"
+      "gloss": "tee seda enam"
     }
   ],
-  "timestamp": "2026-10-21T04:07:21.126652670Z",
+  "timestamp": "2026-10-21T06:23:41.316471196Z",
   "model": "glm-5.3"
 }

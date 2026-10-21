@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתך",
-      "rationale": "אִתָּךְ 'sinuga juures' (eelisting 'with thee') vs אֵת DOM-märgis — täishäälikud näitavad, et siin on lähedusprepositsioon, mitte aleph-tav; gloss kannab siiski ⟨את⟩ konventsiooni järgi"
-    },
-    {
-      "kind": "addition",
-      "subject": "see",
-      "rationale": "heebreas puudub viidatud objekt, eesti keel vajab ⟨seda\/see⟩ lause selguseks"
-    }
-  ],
-  "translation": "Ära ütle oma sõbrale: Mine ja tule tagasi, homme annan — kui sul ⟨see⟩ on juures.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/3\/25-28.1792554493770.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ära ütle oma kaaslasele: Mine ja tule tagasi, ja homme annan, kuigi ⟨see⟩ on ⟨את⟩ sinu juures.",
   "tokens": [
     {
       "surface": "אל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לרעיך",
-      "gloss": "oma sõbrale"
+      "gloss": "oma kaaslasele"
     },
     {
       "surface": "לך",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ומחר",
-      "gloss": "homme"
+      "gloss": "ja homme"
     },
     {
       "surface": "אתן",
@@ -58,13 +37,13 @@
     },
     {
       "surface": "ויש",
-      "gloss": "kui on"
+      "gloss": "on"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ sinu juures"
     }
   ],
-  "timestamp": "2026-10-21T03:48:13.771493410Z",
+  "timestamp": "2026-10-21T06:36:47.997316345Z",
   "model": "glm-5.3"
 }

@@ -5,51 +5,25 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tema isa",
-      "rationale": "אביו: 'tema isa' (nagu 2Aj 4:16 kirjapilt ütleb), 'isa' kui austav tiitel meistri kohta, või 'tema meister' (vrd Hiram-abi)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tahutud",
-      "rationale": "מרוק on ' poleeritud\/läikiv' vask"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kühveld",
-      "rationale": "יעים on ' kühveld\/ labidad', templitöö riistad"
-    }
-  ],
-  "translation": "ja ⟨את⟩ pannid ja ⟨את]] kühveld ning ⟨את]] kahvlid ja ⟨את]] kõik nende riistad tegi Huram, tema isa, kuningas Shelomole, Jahve majale, tahutud värvilisest vasest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/4\/13-16.1792557658683.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ pajad ja ⟨את⟩ labidad ja ⟨את⟩ kahvlid ja ⟨את⟩ kõik nende riistad tegi Huuram, tema ⟨isandale⟩ — kuningas Šelomole — Jahve koja jaoks, läikivast vasest.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "pannid"
+      "marks": "pajad"
     },
     {
       "surface": "הסירות",
-      "gloss": "pannid"
+      "gloss": "pajad"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kühveld"
+      "marks": "labidad"
     },
     {
       "surface": "היעים",
-      "gloss": "kühveld"
+      "gloss": "labidad"
     },
     {
       "surface": "ואת",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "חורם",
-      "gloss": "Huram"
+      "gloss": "Huuram"
     },
     {
       "surface": "אביו",
-      "gloss": "tema isa"
+      "gloss": "tema ⟨isandale⟩"
     },
     {
       "surface": "למלך",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Šelomo"
     },
     {
       "surface": "לבית",
-      "gloss": "majale"
+      "gloss": "koja jaoks"
     },
     {
       "surface": "יהוה",
@@ -107,9 +81,9 @@
     },
     {
       "surface": "מרוק",
-      "gloss": "tahutud"
+      "gloss": "läikivast"
     }
   ],
-  "timestamp": "2026-10-21T04:40:58.685947278Z",
+  "timestamp": "2026-10-21T05:56:11.934302125Z",
   "model": "glm-5.3"
 }

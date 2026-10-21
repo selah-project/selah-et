@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "see",
-      "rationale": "eesti keel vajab osutavat sõna enne 'kuulutan teile'"
-    },
-    {
-      "kind": "you",
-      "subject": "neile",
-      "rationale": "Jirmja vastab otse rahva ja ülemate palvele"
-    }
-  ],
-  "translation": "Ja prohvet Jirmja ütles neile: Ma olen kuulnud; ennäe, ma palvetan Jahve, teie Elohimi poole teie sõnade järgi; ja sündigu: kogu sõna, millega Jahve teile vastab, selle kuulutan teile — ma ei pea teilt tagasi ühtegi sõna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1ab2e5d55995c91bef78ead7b2cae9bd1a445b01859aa9230bdaf98773aadc50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/42\/1-4.1792549245054.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ütles neile Jermjahu prohvet: Ma olen kuulnud; vaata, ma palun Jahvet, teie Elohimit, nagu teie sõnad ütlevad; ja juhtub, iga sõna, mille Jahve vastab ⟨את⟩ teile, kuulutan ma teile; ma ei hoia teiltä ühtegi sõna tagasi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ütles"
     },
     {
       "surface": "אליהם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmja"
+      "gloss": "Jermjahu"
     },
     {
       "surface": "הנביא",
@@ -46,39 +25,39 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "ma olen kuulnud"
+      "gloss": "Ma olen kuulnud"
     },
     {
       "surface": "הנני",
-      "gloss": "ennäe, ma"
+      "gloss": "vaata, mina"
     },
     {
       "surface": "מתפלל",
-      "gloss": "palvetan"
+      "gloss": "palun"
     },
     {
       "surface": "אל",
-      "gloss": "poole"
+      "gloss": ""
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvet"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "teie Elohim"
+      "gloss": "teie Elohimit"
     },
     {
       "surface": "כדבריכם",
-      "gloss": "teie sõnade järgi"
+      "gloss": "nagu teie sõnad ütlevad"
     },
     {
       "surface": "והיה",
-      "gloss": "ja sündigu"
+      "gloss": "ja juhtub"
     },
     {
       "surface": "כל",
-      "gloss": "kogu"
+      "gloss": "iga"
     },
     {
       "surface": "הדבר",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "millega"
+      "gloss": "mille"
     },
     {
       "surface": "יענה",
@@ -98,7 +77,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teile"
+      "gloss": "⟨את⟩ teile",
+      "marks": "teile"
     },
     {
       "surface": "אגיד",
@@ -106,25 +86,25 @@
     },
     {
       "surface": "לכם",
-      "gloss": "teile"
+      "gloss": "ma teile"
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "mit"
     },
     {
       "surface": "אמנע",
-      "gloss": "pea tagasi"
+      "gloss": "hoia tagasi"
     },
     {
       "surface": "מכם",
-      "gloss": "teilt"
+      "gloss": "teiltä"
     },
     {
       "surface": "דבר",
       "gloss": "ühtegi sõna"
     }
   ],
-  "timestamp": "2026-10-21T02:20:45.058289224Z",
+  "timestamp": "2026-10-21T06:21:41.352988254Z",
   "model": "glm-5.3"
 }

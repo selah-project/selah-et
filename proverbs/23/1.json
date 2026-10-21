@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בין תבין",
-      "rationale": "Infinitivus absolutus koos finiitverbiga — 'mõistma mõista' — intensiiv, eesti keeles_renderdatud 'mõista hoolega'."
-    },
-    {
-      "kind": "you",
-      "subject": "lugejale",
-      "rationale": "Õpetussalm pöördub otse kuulaja poole: 'sinu ees'."
-    }
-  ],
-  "translation": "Kui sa istud valitsejaga sööma, mõista hoolega ⟨את⟩ see, mis sinu ees on.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/23\/1-4.1792554916136.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui sa istud sööma ⟨את⟩ valitsejaga, mõista hoolega, mõista ⟨את⟩ see, mis sinu näo ees ⟨on⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Kui"
+      "gloss": "kui"
     },
     {
       "surface": "תשב",
@@ -47,30 +26,30 @@
     },
     {
       "surface": "מושל",
-      "gloss": "valitseja"
+      "gloss": "valitsejaga"
     },
     {
       "surface": "בין",
-      "gloss": "mõistma"
+      "gloss": "mõista"
     },
     {
       "surface": "תבין",
-      "gloss": "mõista hoolega"
+      "gloss": "hoolega mõista"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "see, mis sinu ees on"
+      "marks": "see, mis sinu näo ees on"
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "see, mis"
     },
     {
       "surface": "לפניך",
-      "gloss": "sinu ees"
+      "gloss": "sinu näo ees"
     }
   ],
-  "timestamp": "2026-10-21T03:55:16.137659933Z",
+  "timestamp": "2026-10-21T06:36:48.812261419Z",
   "model": "glm-5.3"
 }

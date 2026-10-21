@@ -5,31 +5,16 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "nende näo häbi",
-      "rationale": "Heebrea 'nende näo häbi' — häbi, mis näkki tuleb; eesti keeles lähimalt 'oma näo häbigi'."
-    }
-  ],
-  "translation": "Kas mind nemad vihastavad — ütleb Jahve — ja mitte ennast, oma näo häbigi?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "67571e89e36ec6b60b9bda0bd289bb39e36de480779ef58360bfa440dee776da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/7\/17-20.1792548217317.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kas nad vihastavad ⟨את⟩ mind, ütleb Jahve? Kas mitte ⟨את⟩ neid ise, nende näo häbi pärast?",
   "tokens": [
     {
       "surface": "האתי",
-      "gloss": "⟨את⟩ mind"
+      "gloss": "⟨את⟩ mind",
+      "marks": "mind — küsimuse osis, millele הם viitab"
     },
     {
       "surface": "הם",
-      "gloss": "nemad"
+      "gloss": "nad"
     },
     {
       "surface": "מכעסים",
@@ -50,11 +35,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ennast"
+      "marks": "neid ise"
     },
     {
       "surface": "למען",
-      "gloss": "jaoks"
+      "gloss": "pärast"
     },
     {
       "surface": "בשת",
@@ -65,6 +50,6 @@
       "gloss": "nende näo"
     }
   ],
-  "timestamp": "2026-10-21T02:03:37.318819293Z",
+  "timestamp": "2026-10-21T06:22:24.784108747Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "hapax-lite",
-      "subject": "ואבאה",
-      "gloss": "",
-      "rationale": ""
-    },
-    {
-      "kind": "crux",
-      "subject": "ואבאה",
-      "rationale": "ebatavaline hifili-vorm 'ma tõin sisse' — mõned loevad koos 24:6 ahelana 'viisin sisse', mitte 'tõin maale'."
-    }
-  ],
-  "translation": "Ja ma tõin ⟨את⟩ teid emorite maale, kes elasid Jaardani taga; ja nad võitlesid ⟨את⟩ teiega, ja ma andsin nad teie kätte, ja te võtsite nende maa pärisosaks, ja ma hävitasin nad teie palge eest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/5-8.1792541797012.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tõin teid ⟨את⟩ emorlaste maale, kes elasid Jaardeni teisel kaldal, ja nad võitlesid ⟨את⟩ teiega, ja andsin nad teie kätte, ja te võtsite ⟨את⟩ nende maa omaks, ja hävitasingi nad teie eest.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "ja ma tõin"
+      "gloss": "ja tõin"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid (emorlaste maale viimine)"
     },
     {
       "surface": "אל",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "emorite"
+      "gloss": "emorlaste"
     },
     {
       "surface": "היושב",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "taga"
+      "gloss": "teisel kaldal"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jaardani"
+      "gloss": "Jaardeni"
     },
     {
       "surface": "וילחמו",
@@ -71,11 +50,12 @@
     },
     {
       "surface": "ואתן",
-      "gloss": "ja ma andsin"
+      "gloss": "ja andsin"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ nad"
+      "gloss": "⟨את⟩ nad",
+      "marks": "nad"
     },
     {
       "surface": "בידכם",
@@ -83,7 +63,7 @@
     },
     {
       "surface": "ותירשו",
-      "gloss": "ja te võtsite pärisosaks"
+      "gloss": "ja te võtsite omaks"
     },
     {
       "surface": "את",
@@ -96,13 +76,13 @@
     },
     {
       "surface": "ואשמידם",
-      "gloss": "ja ma hävitasin nad"
+      "gloss": "ja hävitasingi nad"
     },
     {
       "surface": "מפניכם",
-      "gloss": "teie palge eest"
+      "gloss": "teie eest"
     }
   ],
-  "timestamp": "2026-10-21T00:16:37.013561084Z",
+  "timestamp": "2026-10-21T06:24:59.990599173Z",
   "model": "glm-5.3"
 }

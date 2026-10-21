@@ -5,38 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on \/ ole",
-      "rationale": "Eesti kopeelad, heebrea איננו ja nimivorm ei vaja neid"
-    },
-    {
-      "kind": "substitution",
-      "subject": "lapsist jätnud",
-      "rationale": "שכל on 'kaotama (lapse)', 'kaotlema'; 'lapsist jätnud' püüab sõna kuju hoida"
-    },
-    {
-      "kind": "crux",
-      "subject": "עלי היו כלנה",
-      "rationale": "'kõik see on minu peale langenud' vs 'kõik see on minu vastu' — heebrea על lubab mõlemat"
-    },
-    {
-      "kind": "you",
-      "subject": "Jaakov vendadele",
-      "rationale": "Otsene kõne, süüdistav address"
-    }
-  ],
-  "translation": "Ja nende isa Jaakov ütles neile: Mind te ⟨on⟩ lapsist jätnud — Joosef ei ⟨ole⟩ enam, ja Šimon ei ⟨ole⟩ enam, ja ⟨את⟩ Binjmini te võtate ära; minu peale on see kõik langenud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4deb58143dfaaff4897b85f5c243bc3a16cf6885e5cc94ebe7a46af55638d15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/42\/33-36.1792538077705.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jaakov, nende isa, ütles neile: Minult olete ⟨את⟩ lapsest-ilma teinud — Joosep ei ole enam, ja Shim'on ei ole enam, ja ⟨את⟩ Binjaminski võtate minult ära; kõik see on langenud minu peale.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -56,15 +25,16 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mind"
+      "gloss": "⟨את⟩",
+      "marks": "minult (esimene isik: mind)"
     },
     {
       "surface": "שכלתם",
-      "gloss": "te lapsist jätnud"
+      "gloss": "lapsest-ilma teinud"
     },
     {
       "surface": "יוסף",
-      "gloss": "Joosef"
+      "gloss": "Joosep"
     },
     {
       "surface": "איננו",
@@ -72,7 +42,7 @@
     },
     {
       "surface": "ושמעון",
-      "gloss": "ja Šimon"
+      "gloss": "ja Shim'on"
     },
     {
       "surface": "איננו",
@@ -80,8 +50,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "Binjmini"
+      "gloss": "⟨את⟩",
+      "marks": "Binjaminski"
     },
     {
       "surface": "בנימן",
@@ -89,7 +59,7 @@
     },
     {
       "surface": "תקחו",
-      "gloss": "te võtate ära"
+      "gloss": "võtate ära"
     },
     {
       "surface": "עלי",
@@ -101,9 +71,9 @@
     },
     {
       "surface": "כלנה",
-      "gloss": "see kõik"
+      "gloss": "kõik see"
     }
   ],
-  "timestamp": "2026-10-20T23:14:37.707373579Z",
+  "timestamp": "2026-10-21T06:16:09.779915125Z",
   "model": "glm-5.3"
 }

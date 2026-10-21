@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "seitse korda",
-      "rationale": "Korduste loendamine — seitsmekordne tagasisaatmine."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שב \/ שבע",
-      "rationale": "'Pöördu tagasi' (šuv) ja 'seitse' (ševa) kõlavad kokku; eesti keeles see kaob."
-    }
-  ],
-  "translation": "Ja ütles oma noorukile: Tõuse nüüd, vaata mere suunas. Ja ta tõusis ja vaatas ning ütles: Ei ole mitte midagi. Ja ta ütles: Mine tagasi, seitse korda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "dbd41c5c72a768861a3cc1174c8b345fa2cc43914be8d4ba89775ebe02b1ab9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/18\/41-44.1792545642363.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles oma noorukile: Tule nüüd üles, vaata mere poole. Ja ta läks üles ja vaatas ning ütles: ⟨EI⟩ ole mitte midagi. Ja ta ütles: Pöördu tagasi — seitse korda.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "אל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "Tõuse"
+      "gloss": "tule üles"
     },
     {
       "surface": "נא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "suunas"
+      "gloss": "poole"
     },
     {
       "surface": "ים",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "Ja ta tõusis"
+      "gloss": "ja ta läks üles"
     },
     {
       "surface": "ויבט",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "Ei ole"
+      "gloss": "⟨EI⟩ ole"
     },
     {
       "surface": "מאומה",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "Ja ta ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "שב",
-      "gloss": "Mine tagasi"
+      "gloss": "pöördu tagasi"
     },
     {
       "surface": "שבע",
@@ -97,6 +76,6 @@
       "gloss": "korda"
     }
   ],
-  "timestamp": "2026-10-21T01:20:42.366510399Z",
+  "timestamp": "2026-10-21T05:51:05.419917553Z",
   "model": "glm-5.3"
 }

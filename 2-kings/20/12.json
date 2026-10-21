@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "eesti keel vajab kopeerivat tegusõna"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kingituse",
-      "rationale": "מנחah siin on lähetuskingitus, mitte ohvriand — D2 erand"
-    }
-  ],
-  "translation": "Sel ajal saatis Berodak-Baladan, Baladani poeg, Babüloni kuningas, kirju ja kingituse Hiskijahule, sest ta oli kuulnud, et Hiskijahu ⟨oli⟩ haige olnud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f5e808081671373cbe3491f84f3c5a9178e7c38085db217f5959b1dd1f700c80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/9-12.1792546393105.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sel ajal saatis Berodak-Baladan, Baladani poeg, Babüloni kuningas, kirjad ja andami Hiskijale, sest ta oli kuulnud, et Hiskija ⟨oli⟩ haige olnud.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "Sel ajal"
+      "gloss": "sel ajal"
     },
     {
       "surface": "ההיא",
-      "gloss": ""
+      "gloss": "sel"
     },
     {
       "surface": "שלח",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "בראדך",
-      "gloss": "Berodak"
+      "gloss": "Berodak-"
     },
     {
       "surface": "בלאדן",
-      "gloss": "-Baladan"
+      "gloss": "Baladan"
     },
     {
       "surface": "בן",
@@ -66,19 +45,19 @@
     },
     {
       "surface": "ספרים",
-      "gloss": "kirju"
+      "gloss": "kirjad"
     },
     {
       "surface": "ומנחה",
-      "gloss": "ja kingituse"
+      "gloss": "ja andami"
     },
     {
       "surface": "אל",
-      "gloss": "Hiskijahule"
+      "gloss": "Hiskijale"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hiskijahu"
+      "gloss": "Hiskija"
     },
     {
       "surface": "כי",
@@ -98,9 +77,9 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hiskijahu"
+      "gloss": "Hiskija"
     }
   ],
-  "timestamp": "2026-10-21T01:33:13.109425798Z",
+  "timestamp": "2026-10-21T05:56:57.822522022Z",
   "model": "glm-5.3"
 }

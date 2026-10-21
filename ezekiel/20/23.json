@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "käe tõstmine",
-      "rationale": "נשא את יד on vandumise žest; jäetud kujundlikult 'käe tõstsin', mitte 'vandusin'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זרה",
-      "rationale": "'laiali puhuma' kannab tuulamise pilti (tuule puhumine viljast), nagu tuulaminesõna Jes 30:24"
-    }
-  ],
-  "translation": "Ka mina tõstsin ⟨את⟩ mu käe nende vastu kõrbes, et neid rahvaste hulka pillata ja neid maades laiali puhuda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/20\/21-24.1792549987576.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka mina tõstsin ⟨את⟩ oma käe nende vastu kõrbes, et pillutada ⟨את⟩ neid rahvaste hulka ja ära pühkida ⟨את⟩ neid maade õhku",
   "tokens": [
     {
       "surface": "גם",
@@ -43,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mu käe"
+      "marks": "oma käe"
     },
     {
       "surface": "ידי",
-      "gloss": "mu käe"
+      "gloss": "oma käe"
     },
     {
       "surface": "להם",
@@ -59,11 +38,12 @@
     },
     {
       "surface": "להפיץ",
-      "gloss": "pillata"
+      "gloss": "et pillutada"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "בגוים",
@@ -71,17 +51,18 @@
     },
     {
       "surface": "ולזרות",
-      "gloss": "ja laiali puhuma"
+      "gloss": "ja ära pühkida"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "בארצות",
-      "gloss": "maades"
+      "gloss": "maade"
     }
   ],
-  "timestamp": "2026-10-21T02:33:07.578336708Z",
+  "timestamp": "2026-10-21T06:08:58.901687642Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "kohus Šaulile",
-      "rationale": "Sõnumitooja pöördub otseselt Šauli poole imperatiividega."
-    },
-    {
-      "kind": "substitution",
-      "subject": "filistlased",
-      "rationale": "Tõlkija tekstis oli viga 'selistid'; õige eestikeelne vorm on filistlased."
-    }
-  ],
-  "translation": "Ja sõnumitooja tuli Šauli juurde öeldes: Kiirusta ja tule, sestlistid on tunginud maale!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "11b8e561d1a53e79f8fc439cbd8755035ae39d76e8ea6fb557ef844475f6d8a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/23\/25-28.1792544151782.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sõnumitooja tuli Šauli juurde öelda: Kiirusta ja tule, sest filistlased ⟨on⟩ maale kallale kiskunud!",
   "tokens": [
     {
-      "surface": "ו מלאך",
-      "gloss": "ja sõnumitooja"
+      "surface": "ומלאך",
+      "gloss": "Ja sõnumitooja"
     },
     {
       "surface": "בא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "öeldes"
+      "gloss": "öelda"
     },
     {
       "surface": "מהרה",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "פשטו",
-      "gloss": "on tunginud"
+      "gloss": "kallale kiskunud"
     },
     {
       "surface": "פלשתים",
@@ -70,13 +49,13 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "peale"
     },
     {
       "surface": "הארץ",
-      "gloss": "maale"
+      "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-21T00:55:51.784377327Z",
+  "timestamp": "2026-10-21T05:53:15.042936818Z",
   "model": "glm-5.3"
 }

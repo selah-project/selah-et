@@ -5,42 +5,11 @@
   "book": "nehemiah",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "eesti suhtelause nõuab öeldist, heebrea jätab selle sisaldamata"
-    },
-    {
-      "kind": "hapax",
-      "subject": "פַּרְדֵּס",
-      "rationale": "laen irani päritoluga sõna, esineb Tanahhis veel kaks korda (Ül 4:13; Ül 8:11) — 'kuninga puistu' mitte 'mets' ega 'paradiis'"
-    },
-    {
-      "kind": "crux",
-      "subject": "אֲשֶׁר לַבָּיִת",
-      "rationale": "'mis kuulub koju' — ebaselge, millele בִּירָה (kindlus\/palee) viitab: templile, paleele või laohoonele; KJV 'which appertained to the house' on oletus"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כְּיַד אֱלֹהַי הַטּוֹבָה",
-      "rationale": "'mu Elohim hea käe järgi' — käe-idiiom kordub kogu Nechemja raamatus (2:8, 18; 7:9) kui tunnuslause, eesti 'käsi' säilitab pildi"
-    }
-  ],
-  "translation": "ja kirja Asafile, kuninga puistu valvurile, et ta annaks mulle puid kindluse väravate taladeks, mis kuuluvad koju, ja linna müürile, ja majale, kuhu ma lähen sisse. Ja kuningas andis mulle — mu Elohim hea käe järgi, mis ⟨on⟩ minu peal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2784d643033be86d5492969d579d6efefed8fc218155a0296243b073685de904",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/2\/5-8.1792556899348.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja kirja Asafile, kuninga pardesi hoidjale, et ta annaks mulle puid palkideks linnuse ⟨את⟩ väravatele, mis ⟨on⟩ koja jaoks, ja linna müürile, ja kojale, kuhu ma lähen. Ja kuningas andis mulle — mu Elohimi hea käe järgi, mis ⟨oli⟩ minu peal.",
   "tokens": [
     {
       "surface": "ואגרת",
-      "gloss": "ja kiri"
+      "gloss": "ja kirja"
     },
     {
       "surface": "אל",
@@ -48,23 +17,23 @@
     },
     {
       "surface": "אסף",
-      "gloss": "Asafile"
+      "gloss": "Asaf"
     },
     {
       "surface": "שמר",
-      "gloss": "valvurile"
+      "gloss": "hoidjale"
     },
     {
       "surface": "הפרדס",
-      "gloss": "puistu"
+      "gloss": "pardes"
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "kes"
     },
     {
       "surface": "למלך",
-      "gloss": "kuningale"
+      "gloss": "kuninga"
     },
     {
       "surface": "אשר",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "יתן",
-      "gloss": "ta annaks"
+      "gloss": "annaks"
     },
     {
       "surface": "לי",
@@ -84,20 +53,20 @@
     },
     {
       "surface": "לקרות",
-      "gloss": "taladeks"
+      "gloss": "palkideks"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kindluse väravaid"
+      "marks": "linnuse väravad"
     },
     {
       "surface": "שערי",
-      "gloss": "väravaid"
+      "gloss": "väravatele"
     },
     {
       "surface": "הבירה",
-      "gloss": "kindluse"
+      "gloss": "linnuse"
     },
     {
       "surface": "אשר",
@@ -105,7 +74,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "koju"
+      "gloss": "koja jaoks"
     },
     {
       "surface": "ולחומת",
@@ -117,7 +86,7 @@
     },
     {
       "surface": "ולבית",
-      "gloss": "ja majale"
+      "gloss": "ja kojale"
     },
     {
       "surface": "אשר",
@@ -129,7 +98,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "sisse"
+      "gloss": "sellesse"
     },
     {
       "surface": "ויתן",
@@ -149,7 +118,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "mu Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "הטובה",
@@ -160,6 +129,6 @@
       "gloss": "minu peal"
     }
   ],
-  "timestamp": "2026-10-21T04:28:19.350214162Z",
+  "timestamp": "2026-10-21T06:31:41.060846686Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "loe kokku tähed",
-      "rationale": "käsk tähti kokku lugeda — loendamine kui lubaduse mõõt"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ספור\/לספור",
-      "rationale": "sama verbi kordus — 'loe kokku' ja 'üle lugeda' — keelenähe, mis eesti keeles säilib"
-    }
-  ],
-  "translation": "Ja tema viis ⟨את⟩ ta välja ning ütles: Vaata nüüd taeva poole ja loe kokku tähed, kui suudad neid üles lugeda. Ja ta ütles talle: Nõnda saab sinu seema.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/15\/5-8.1792537466193.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta viis ⟨את⟩ teda välja ja ütles: Vaata nüüd taeva poole ja loe kokku tähed, kui sa suudad neid ⟨את⟩ kokku lugeda; ja ta ütles talle: Nõnda saab sinu seem.",
   "tokens": [
     {
       "surface": "ויוצא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
+      "gloss": "⟨את⟩",
       "marks": "teda"
     },
     {
@@ -59,7 +38,7 @@
     },
     {
       "surface": "וספר",
-      "gloss": "ja loe kokku"
+      "gloss": "loe kokku"
     },
     {
       "surface": "הכוכבים",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "לספר",
-      "gloss": "üles lugeda"
+      "gloss": "kokku lugeda"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid",
-      "marks": "tähed"
+      "gloss": "⟨את⟩",
+      "marks": "neid (tähed)"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ta ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "לו",
@@ -100,9 +79,9 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "sinu seema"
+      "gloss": "sinu seem"
     }
   ],
-  "timestamp": "2026-10-20T23:04:26.194145223Z",
+  "timestamp": "2026-10-21T06:13:06.944934824Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אולי הארץ",
-      "rationale": "sõna-sõnalt 'maa võimulised' ehk 'maa tugevad'; mõned tõlgitsevad 'valitsevad mehed'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "סריסיו",
-      "rationale": "'euunuhhid' — sõna võib tähendada ka kõrgemaid õukondlasi"
-    }
-  ],
-  "translation": "Ja ta viis pagulusse ⟨את⟩ Jehojakini Babyloni ja ⟨את⟩ kuninga ema ja ⟨את⟩ kuninga naised ja ⟨את⟩ tema euunuhhid ja ⟨את⟩ maa vägevad — nad viis ta pagulusse Jerušalaimist Babyloni.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1020c0378af9c8aef3281dfc2dce0df678513a663b4f20f11722a8292cf75ccd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/24\/13-16.1792546538891.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta viis ⟨את⟩ Jehojakini Babüloni, ja ⟨את⟩ kuninga ema, ja ⟨את⟩ kuninga naised, ja ⟨את⟩ tema käsilased, ja ⟨את⟩ maagoole — viidi pagulusse Jerušalaimist Babüloni.",
   "tokens": [
     {
       "surface": "ויגל",
@@ -39,11 +18,11 @@
     },
     {
       "surface": "יהויכין",
-      "gloss": "Jehojakini"
+      "gloss": "Jehojakin"
     },
     {
       "surface": "בבלה",
-      "gloss": "Babyloni"
+      "gloss": "Babüloni"
     },
     {
       "surface": "ואת",
@@ -74,20 +53,20 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "tema euunuhhid"
+      "marks": "tema käsilased"
     },
     {
       "surface": "סריסיו",
-      "gloss": "tema euunuhhid"
+      "gloss": "tema käsilased"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "maa vägevad"
+      "marks": "maagoole"
     },
     {
       "surface": "אולי",
-      "gloss": "vägevad"
+      "gloss": "maagod"
     },
     {
       "surface": "הארץ",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "הוליך",
-      "gloss": "viis"
+      "gloss": "viidi"
     },
     {
       "surface": "גולה",
@@ -107,9 +86,9 @@
     },
     {
       "surface": "בבלה",
-      "gloss": "Babyloni"
+      "gloss": "Babüloni"
     }
   ],
-  "timestamp": "2026-10-21T01:35:38.893290793Z",
+  "timestamp": "2026-10-21T05:58:00.391962476Z",
   "model": "glm-5.3"
 }

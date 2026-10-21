@@ -5,40 +5,19 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פסים",
-      "rationale": "kirju (KJV 'mitmevärviline') vs 'pikk ja käistega tuunikas' — kirjeldus rõivakujust, mitte värvidest"
-    },
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "heebreal puudub kaassõna 'temal oli seljas'"
-    }
-  ],
-  "translation": "Ja temal ⟨oli⟩ seljas käistega tuunikas, sest nii riietusid kuninga tütred, kes ⟨olid⟩ neitsid, ülikondadesse; ja ta teenija viis ta välja ja pani ukse tema järele kinni.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "982c3a6b8c872c1125c0df883629ee3b6124045fec9952a8b33ab21ef1e8e2d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/13\/17-20.1792544740861.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tema seljas oli kirju-särk, sest nõnda riietasid end kuninga tütaradikud, kes olid veel neiud, ülikutega; ja tema teener viis ta ⟨את⟩ välja ja sulges ukse tema järele.",
   "tokens": [
     {
       "surface": "ועליה",
-      "gloss": "ja temal seljas"
+      "gloss": "ja tema seljas"
     },
     {
       "surface": "כתנת",
-      "gloss": "tuunikas"
+      "gloss": "särk"
     },
     {
       "surface": "פסים",
-      "gloss": "käistega (pikk)"
+      "gloss": "kirju"
     },
     {
       "surface": "כי",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "כן",
-      "gloss": "nii"
+      "gloss": "nõnda"
     },
     {
       "surface": "תלבשן",
-      "gloss": "riietusid"
+      "gloss": "riietasid end"
     },
     {
       "surface": "בנות",
-      "gloss": "tütred"
+      "gloss": "tütaradikud"
     },
     {
       "surface": "המלך",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "הבתולת",
-      "gloss": "kes ⟨olid⟩ neitsid"
+      "gloss": "kes olid veel neiud"
     },
     {
       "surface": "מעילים",
-      "gloss": "ülikondadesse"
+      "gloss": "ülikutega"
     },
     {
       "surface": "ויצא",
@@ -74,11 +53,12 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ ta"
+      "gloss": "⟨את⟩",
+      "marks": "ta (Tamar)"
     },
     {
       "surface": "משרתו",
-      "gloss": "ta teenija"
+      "gloss": "tema teenri poolt"
     },
     {
       "surface": "החוץ",
@@ -86,17 +66,17 @@
     },
     {
       "surface": "ונעל",
-      "gloss": "ja pani kinni"
+      "gloss": "ja sulges"
     },
     {
       "surface": "הדלת",
-      "gloss": "uks"
+      "gloss": "ukse"
     },
     {
       "surface": "אחריה",
       "gloss": "tema järele"
     }
   ],
-  "timestamp": "2026-10-21T01:05:40.865039936Z",
+  "timestamp": "2026-10-21T05:59:22.019670749Z",
   "model": "glm-5.3"
 }

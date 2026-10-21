@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Juuda rahvale Jerušalaimi müüride peal",
-      "rationale": "Rabšake kõne on otseselt pööratud kuulajate poole."
-    },
-    {
-      "kind": "crux",
-      "subject": "מידו",
-      "rationale": "'tema käest' (Assüüria kuninga käest) vs 'minu käest' — kõneleja räägib kuninga nimel kolmandas isikus."
-    }
-  ],
-  "translation": "Nii ütleb kuningas: ärgu petku Hiskija teid, sest ta ei saa teid päästa tema käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/18\/29-32.1792546445819.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nii ütleb kuningas: Ärgu petku Hiskijahu teid, sest ta ei suuda teid ⟨את⟩ tema käest päästa.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Nii"
+      "gloss": "nii"
     },
     {
       "surface": "אמר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hiskija"
+      "gloss": "Hiskijahu"
     },
     {
       "surface": "כי",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "יוכל",
-      "gloss": " saa"
+      "gloss": "suuda"
     },
     {
       "surface": "להציל",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
+      "gloss": "⟨את⟩",
       "marks": "teid"
     },
     {
@@ -82,6 +61,6 @@
       "gloss": "tema käest"
     }
   ],
-  "timestamp": "2026-10-21T01:34:05.821127013Z",
+  "timestamp": "2026-10-21T05:57:11.751744237Z",
   "model": "glm-5.3"
 }

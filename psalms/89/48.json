@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 89,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebrea puuduv kopolaa 'on' eesti lauses"
-    },
-    {
-      "kind": "crux",
-      "subject": "חלד",
-      "rationale": "'mööduv elu' vs 'maailm' vs 'eluiga' — sõna kannab mööduvuse tähendust"
-    },
-    {
-      "kind": "elision",
-      "subject": "אני ja על",
-      "rationale": "Pronoomen ja prepositsioon sulanduvad eesti omastavkonstrutsiooni 'mu elu'"
-    }
-  ],
-  "translation": "Mäleta, et mööduv ⟨on⟩ mu elu; miks oled sa asjatult loonud kõik inimlapsed?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f2361448b820e43538140bba91febbd67508c36144c0299ff41f8c16d53c905e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/89\/45-48.1792553638090.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mäleta, et mina ⟨olen⟩ mööduv-elu; milleks lõid ⟨את⟩ kõik inimese pojad ⟨nii⟩ kõledaks-tühjaks?",
   "tokens": [
     {
       "surface": "זכר",
@@ -39,31 +13,31 @@
     },
     {
       "surface": "אני",
-      "gloss": ""
+      "gloss": "mina"
     },
     {
       "surface": "מה",
-      "gloss": "et"
+      "gloss": "mispärast"
     },
     {
       "surface": "חלד",
-      "gloss": "mööduv ... elu"
+      "gloss": "mööduv-elu"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "milleks"
     },
     {
       "surface": "מה",
-      "gloss": "miks"
+      "gloss": "mis"
     },
     {
       "surface": "שוא",
-      "gloss": "asjatult"
+      "gloss": "kõledas-tühjuses"
     },
     {
       "surface": "בראת",
-      "gloss": "oled sa loonud"
+      "gloss": "lõid"
     },
     {
       "surface": "כל",
@@ -71,13 +45,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "lapsed"
+      "gloss": "pojad"
     },
     {
       "surface": "אדם",
-      "gloss": "inim-"
+      "gloss": "inimese"
     }
   ],
-  "timestamp": "2026-10-21T03:33:58.093342286Z",
+  "timestamp": "2026-10-21T06:38:30.133361307Z",
   "model": "glm-5.3"
 }

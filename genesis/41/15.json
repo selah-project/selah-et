@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ופתר אין אתו",
-      "rationale": "'seletajat ei ole' vs 'ei saa seletada' — פתר kui nimisõna või tegusõna"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חלום\/חלמתי\/פתר",
-      "rationale": "unenäo juure kordus koos seletamise juurega, tõlkes osaliselt kadunud"
-    }
-  ],
-  "translation": "Ja Paroh ütles Joosefile: Unenägu olen ma näinud ja selle seletajat ei ole; aga mina olen sinust kuulnud, öeldes: sa kuulad unenäo, et seda seletada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/41\/13-16.1792537981187.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Paroh ütles Joosepile: Ma olen unenägu näinud ja seletajat ei ⟨on⟩ ⟨את⟩ sellele, aga mina olen sinu kohta kuulnud, öeldes: sa kuulad unenäku, et seletada ⟨את⟩ seda.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "פרעה",
@@ -38,32 +17,32 @@
     },
     {
       "surface": "אל",
-      "gloss": "Joosefile"
+      "gloss": "pidi"
     },
     {
       "surface": "יוסף",
-      "gloss": "Joosef"
+      "gloss": "Joosep"
     },
     {
       "surface": "חלום",
-      "gloss": "Unenägu"
+      "gloss": "unenägu"
     },
     {
       "surface": "חלמתי",
-      "gloss": "olen ma näinud"
+      "gloss": "ma olen näinud"
     },
     {
       "surface": "ופתר",
-      "gloss": "ja selle seletajat"
+      "gloss": "ja seletajat"
     },
     {
       "surface": "אין",
-      "gloss": "ei ole"
+      "gloss": "ei"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "selle"
+      "marks": "seletajat"
     },
     {
       "surface": "ואני",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "sinust"
+      "gloss": "sinu kohta"
     },
     {
       "surface": "לאמר",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "חלום",
-      "gloss": "unenäo"
+      "gloss": "unenäku"
     },
     {
       "surface": "לפתר",
-      "gloss": "et seletada"
+      "gloss": "seletama"
     },
     {
       "surface": "אתו",
@@ -99,6 +78,6 @@
       "marks": "seda"
     }
   ],
-  "timestamp": "2026-10-20T23:13:01.188068375Z",
+  "timestamp": "2026-10-21T06:16:15.269561243Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לדוד",
-      "rationale": "Estonian genitive 'Davidi palm' repeats 'palm', which the Hebrew prefix ל expresses only once"
-    },
-    {
-      "kind": "invitation",
-      "subject": "מי יגור \/ מי ישכן",
-      "rationale": "The double 'who?' question summons the worshipper to examine himself before the tent"
-    }
-  ],
-  "translation": "Palm. Davidi ⟨palm⟩. Jahve, kes ⟨võib⟩ majaleda sinu telgis, kes ⟨võib⟩ elada sinu pühal mäel?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/15\/1-4.1792552442857.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Psalter Davidist. Jahve, kes võib võõrana elada su telgis, kes võib asuda elama sinu pühal mäel?",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "Palm"
+      "gloss": "Psalter"
     },
     {
       "surface": "לדוד",
-      "gloss": "Davidi"
+      "gloss": "Davidist"
     },
     {
       "surface": "יהוה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "יגור",
-      "gloss": "majaleda"
+      "gloss": "voib võõrana elada"
     },
     {
       "surface": "באהלך",
-      "gloss": "sinu telgis"
+      "gloss": "su telgis"
     },
     {
       "surface": "מי",
@@ -58,13 +37,17 @@
     },
     {
       "surface": "ישכן",
-      "gloss": "elada"
+      "gloss": "voib asuda elama"
     },
     {
       "surface": "בהר",
       "gloss": "sinu pühal mäel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "pühal"
     }
   ],
-  "timestamp": "2026-10-21T03:14:02.857589394Z",
+  "timestamp": "2026-10-21T06:37:58.197729443Z",
   "model": "glm-5.3"
 }

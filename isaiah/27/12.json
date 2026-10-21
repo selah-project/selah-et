@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "jõe kärestikust kuni Mitsraimi ojani",
-      "rationale": "Geograafiline piir – Eufratist Egiptuse ojani – ja ükshaaval kokkukorjamine."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli poegadele",
-      "rationale": "Otsene pöördumine: 'ja teid korjatakse... Jisraeli pojad'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "lööb väl",
-      "rationale": "יחבט treeksimise pilt – nagu viljapead lüüakse varrest välja."
-    }
-  ],
-  "translation": "Ja see sünnib sel päeval: Jahve lööb väl jõe kärestikust kuni Mitsraimi ojani, ja teid korjatakse kokku ükshaaval, Jisraeli pojad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "64a6912029f9f3bbd43f331a711847a88a1c457bb78c1ae24883f44ca3edb592",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/27\/9-12.1792547130917.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja see saabub sel päeval: Jahve lüüb välja vili joest kuni Mitsraimi ojani, ja teie korjate kokku, ükshaaval, Jisraeli pojad.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ja see sünnib"
+      "gloss": "Ja see saabub"
     },
     {
       "surface": "ביום",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יחבט",
-      "gloss": "lööb väl"
+      "gloss": "lüüb välja"
     },
     {
       "surface": "יהוה",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "משבלת",
-      "gloss": "kärestikust"
+      "gloss": "vili"
     },
     {
       "surface": "הנהר",
-      "gloss": "jõe"
+      "gloss": "joest"
     },
     {
       "surface": "עד",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "ואתם",
-      "gloss": "ja teid"
+      "gloss": "ja teie"
     },
     {
-      "surface": "תלקטu",
-      "gloss": "korjatakse kokku"
+      "surface": "תלקטו",
+      "gloss": "korjate kokku"
     },
     {
       "surface": "לאחד",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "üks üks"
+      "gloss": "ükshaaval"
     },
     {
       "surface": "בני",
@@ -98,6 +72,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T01:45:30.918575802Z",
+  "timestamp": "2026-10-21T06:17:23.792305852Z",
   "model": "glm-5.3"
 }

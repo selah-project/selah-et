@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti keeles puuduv olevikuvorm, heebrea kõneviisis on persoon protsessiga kaasas."
-    },
-    {
-      "kind": "measurement",
-      "subject": "sugupuu loendus",
-      "rationale": "Kõne loendab põlvkondi: Avraham — Jitshak — Jaakov, struktuurne põlvkondade ahel."
-    }
-  ],
-  "translation": "Ja ma võtsin teie isa ⟨את⟩ Avrahami teiselt poolt jõest ja ma viisin ⟨את⟩ teda kogu Kenaani maal ja ma paljundasin ⟨את⟩ tema soo, ja andsin talle ⟨את⟩ Jitshaki.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e3d9ff1efbd5f28d725eab50719fd25482f0db45813c596f84c9a8d7b072f801",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/1-4.1792541799286.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma võtsin ⟨את⟩ teie isa ⟨את⟩ Avrahami üle jõe poolt ja ma juhtisin ⟨את⟩ teda kogu Kenaani maal ning ma paljundasin ⟨את⟩ tema seemet ja andsin talle ⟨את⟩ Jitshaki.",
   "tokens": [
     {
       "surface": "ואקח",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "teie isa Avraham"
+      "marks": "teie isa"
     },
     {
       "surface": "אביכם",
@@ -44,28 +23,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avraham"
+      "marks": "Avrahami"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avraham"
+      "gloss": "Avrahami"
     },
     {
       "surface": "מעבר",
-      "gloss": "teiselt poolt"
+      "gloss": "üle jõe poolt"
     },
     {
       "surface": "הנהר",
-      "gloss": "jõest"
+      "gloss": "jõe"
     },
     {
       "surface": "ואולך",
-      "gloss": "ja ma viisin"
+      "gloss": "ja ma juhtisin"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "teda (Avraham)"
+      "gloss": "⟨את⟩ teda"
     },
     {
       "surface": "בכל",
@@ -73,7 +51,7 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "maa"
+      "gloss": "maal"
     },
     {
       "surface": "כנען",
@@ -86,11 +64,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema sugu"
+      "marks": "tema seemet"
     },
     {
       "surface": "זרעו",
-      "gloss": "tema sugu"
+      "gloss": "tema seemet"
     },
     {
       "surface": "ואתן",
@@ -110,6 +88,6 @@
       "gloss": "Jitshaki"
     }
   ],
-  "timestamp": "2026-10-21T00:16:39.287298365Z",
+  "timestamp": "2026-10-21T06:25:19.703404104Z",
   "model": "glm-5.3"
 }

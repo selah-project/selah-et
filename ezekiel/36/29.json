@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jisraeli kojale",
-      "rationale": "Jahve kõneleb otseselt oma rahvale."
-    }
-  ],
-  "translation": "Ja ma päästan teid ⟨את⟩ kõigist teie rüvedustest, ja ma kutsun teravilja ja teen ta rikkalikuks, ega pane teile nälga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/36\/29-32.1792550564541.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma päästan teid ⟨את⟩ kõigist teie ebapuhtustest, ja ma kutsun vilja ja ma paljundan ⟨את⟩ teda, ja ma ei anna teile peale nälga.",
   "tokens": [
     {
       "surface": "והושעתי",
@@ -29,8 +13,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
-      "marks": "teie, kõigist teie rüvedustest"
+      "gloss": "⟨את⟩",
+      "marks": "teid — kõigist teie ebapuhtustest"
     },
     {
       "surface": "מכל",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "טמאותיכם",
-      "gloss": "teie rüvedustest"
+      "gloss": "teie ebapuhtustest"
     },
     {
       "surface": "וקראתי",
@@ -50,34 +34,34 @@
     },
     {
       "surface": "הדגן",
-      "gloss": "teravilja"
+      "gloss": "vilja"
     },
     {
       "surface": "והרביתי",
-      "gloss": "ja teen ta rikkalikuks"
+      "gloss": "ja ma paljundan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "teravilja"
+      "gloss": "⟨את⟩",
+      "marks": "teda — vilja"
     },
     {
       "surface": "ולא",
-      "gloss": "ega"
+      "gloss": "ja mitte"
     },
     {
       "surface": "אתן",
-      "gloss": "ma pane"
+      "gloss": "ma anna"
     },
     {
       "surface": "עליכם",
-      "gloss": "teile"
+      "gloss": "teile peale"
     },
     {
       "surface": "רעב",
       "gloss": "nälga"
     }
   ],
-  "timestamp": "2026-10-21T02:42:44.541741308Z",
+  "timestamp": "2026-10-21T06:09:43.261335100Z",
   "model": "glm-5.3"
 }

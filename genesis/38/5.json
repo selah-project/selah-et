@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "והיה בכזיב",
-      "rationale": "Heebrea öeldisviis pole nimeline: 'ja ta oli Ketsibis' — teised lugevad Jeedal, tekst ise ütleb vaid 'ta'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "Šela",
-      "rationale": "Kolmanda poja nimepanek jätkab suguvõsa loendit."
-    }
-  ],
-  "translation": "Ja ta lisas veel ja tõi ilmale poja, ja ta kutsus ⟨את⟩ tema nime Šela; ja ta oli Ketsibis, kui ta tema ilmale tõi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/38\/5-8.1792537999872.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta lisas veel ja tõi ilmale poja, ja ta pani ⟨את⟩ tema nimeks Šela; ja Juuda oli Ketshibis, kui ta ta ilmale tõi ⟨את⟩.",
   "tokens": [
     {
       "surface": "ותסף",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ותקרא",
-      "gloss": "ja ta kutsus"
+      "gloss": "ja ta pani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema nime"
+      "marks": "tema nimeks"
     },
     {
       "surface": "שמו",
-      "gloss": "tema nimi"
+      "gloss": "tema nimeks"
     },
     {
       "surface": "שלה",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "ja ta oli"
+      "gloss": "ja ⟨Juuda⟩ oli"
     },
     {
       "surface": "בכזיב",
-      "gloss": "Ketsibis"
+      "gloss": "Ketshibis"
     },
     {
       "surface": "בלדתה",
@@ -75,9 +54,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda"
+      "gloss": "⟨את⟩",
+      "marks": "ta"
     }
   ],
-  "timestamp": "2026-10-20T23:13:19.873546260Z",
+  "timestamp": "2026-10-21T06:15:27.692897519Z",
   "model": "glm-5.3"
 }

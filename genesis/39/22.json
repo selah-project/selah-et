@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olid",
-      "rationale": "Heebrea tekst ei kasuta siin tegusõna — eesti keel vajab kõrvalsein"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vangla",
-      "rationale": "הסהר tähendab sõna-sõnalt 'ümbert müüritud kaev\/auge'; 'vangla' on rollipõhine lihtsustus"
-    }
-  ],
-  "translation": "Ja vangla ülem andis Joosepi kätte kõik vangid, kes vanglas olid, ja kõik, mida seal tehti, seda tegi tema.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bad0cd945a208bdd15119fd79f7a3c406648135d2397b0ddf75be9fe2620ef0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/39\/22-23.1792543585321.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja vangla ülem andis Joosepi kätte ⟨את⟩ kõik vangid, kes olid vanglas, ja ⟨את⟩ kõik, mida seal tehti, seda tema tegi.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "הסהר",
-      "gloss": "kohta"
+      "gloss": "vangla"
     },
     {
       "surface": "ביד",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "הסהר",
-      "gloss": "olid"
+      "gloss": "vanglas"
     },
     {
       "surface": "ואת",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "tegija"
+      "gloss": "tegev"
     }
   ],
-  "timestamp": "2026-10-21T00:46:25.323018854Z",
+  "timestamp": "2026-10-21T06:16:11.316127657Z",
   "model": "glm-5.3"
 }

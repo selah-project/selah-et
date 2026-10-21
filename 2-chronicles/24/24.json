@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חיל\/חיל",
-      "rationale": "sama sõna 'vägi' kordub: Araami väike vägi sai suure väe — iroonia, mis eestikeeles 'sõjavägi\/vägi' paarina osaliselt säilib"
-    },
-    {
-      "kind": "crux",
-      "subject": "ואת יואש",
-      "rationale": "'ja Joašiga' — tehtud kellega? Vaenlased täitsid kohused Joaši üle; hoopis kui lihtsalt 'Joaši üle'"
-    }
-  ],
-  "translation": "Sest vähese meeste arvuga tuli Araami sõjavägi, ja Jahve andis nende kätte väge, hulga ülisuure, sest nad olid hüljanud ⟨את⟩ Jahve, oma isade Elohimi; ja Joašiga teostasid nad kohused.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f38cff1b63a2d4526584c94d8f336a35bacaa1f4f93b0c6e8c992f03c262d9c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/24\/21-24.1792558063972.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest väikese meestearmuga tuli Arami vägi, ja Jahve andis nende kätte suure hulga väga — väe, sest nad jätsid maha ⟨את⟩ Jahve, oma isade Elohimi; ja ⟨את⟩ Joaši kohaldasid nad kohtuotsused.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "במצער",
-      "gloss": "vähese arvuga"
+      "gloss": "väikese arvuga"
     },
     {
       "surface": "אנשים",
-      "gloss": "mehi"
+      "gloss": "meestega"
     },
     {
       "surface": "באו",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "sõjavägi"
+      "gloss": "vägi"
     },
     {
       "surface": "ארם",
-      "gloss": "Araami"
+      "gloss": "Arami"
     },
     {
       "surface": "ויהוה",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "חיל",
-      "gloss": "väge"
+      "gloss": "väe"
     },
     {
       "surface": "לרב",
-      "gloss": "hulga"
+      "gloss": "suure hulga"
     },
     {
       "surface": "מאד",
-      "gloss": "ülisuure"
+      "gloss": "väga"
     },
     {
       "surface": "כי",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "עזבו",
-      "gloss": "nad olid hüljanud"
+      "gloss": "jätsid maha"
     },
     {
       "surface": "את",
@@ -99,12 +78,12 @@
     },
     {
       "surface": "אבותיהם",
-      "gloss": "nende isade"
+      "gloss": "oma isade"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "Joašiga"
+      "marks": "Joaši"
     },
     {
       "surface": "יואש",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "עשו",
-      "gloss": "teostasid nad"
+      "gloss": "nad kohaldasid"
     },
     {
       "surface": "שפטים",
-      "gloss": "kohused"
+      "gloss": "kohtuotsused"
     }
   ],
-  "timestamp": "2026-10-21T04:47:43.975052435Z",
+  "timestamp": "2026-10-21T05:55:37.567313692Z",
   "model": "glm-5.3"
 }

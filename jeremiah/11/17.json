@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "suitsutamaks",
-      "rationale": "לקטר on ohvrisuitsu tegemine, tõlgitud 'suitsutama', mitte 'ohverdama'"
-    },
-    {
-      "kind": "you",
-      "subject": "sind",
-      "rationale": "Jahve kõneleb otse Jeremijale (või Juudale) — 'sind istutas', 'sinu kohta'"
-    }
-  ],
-  "translation": "Ja Jahve Tsevaot, kes sind istutas, rääkis sinu kohta kurja: Jaakobi — mitmuse eest — Jisraeli ja Juuda paha pärast, mida nad tegid endale, mind vihastama, suitsutamaks Baalile.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "890b04e897cbc46d2a1b6f2d94160063d9662159f2bc995aa9d3cd7473a5d86c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/11\/17-20.1792548402497.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve Tsevaot, kes ⟨את⟩ sind istutas, on kõnelnud sinu vastu kurja, seepärast et Jisraeli koja ja Juuda koja kurjuse pärast, mida nad oma endi heaks tegid, mind ärritades, suitsutades Baalile.",
   "tokens": [
     {
       "surface": "ויהוה",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "הנוטע",
-      "gloss": "kes istutab"
+      "gloss": "kes istutas"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
-      "marks": "sind"
+      "gloss": "⟨את⟩ sind",
+      "marks": "sind — istutamise otsene objekt"
     },
     {
       "surface": "דבר",
-      "gloss": "rääkis"
+      "gloss": "on kõnelnud"
     },
     {
       "surface": "עליך",
-      "gloss": "sinu kohta"
+      "gloss": "sinu vastu"
     },
     {
       "surface": "רעה",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "בגלל",
-      "gloss": "pärast"
+      "gloss": "seepärast et"
     },
     {
       "surface": "רעת",
-      "gloss": "paha"
+      "gloss": "kurjuse pärast"
     },
     {
       "surface": "בית",
-      "gloss": "maja"
+      "gloss": "koja"
     },
     {
       "surface": "ישראל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ובית",
-      "gloss": "ja maja"
+      "gloss": "ja koja"
     },
     {
       "surface": "יהודה",
@@ -91,21 +70,21 @@
     },
     {
       "surface": "להם",
-      "gloss": "endale"
+      "gloss": "oma endi heaks"
     },
     {
       "surface": "להכעסני",
-      "gloss": "mind vihastama"
+      "gloss": "mind ärritades"
     },
     {
       "surface": "לקטר",
-      "gloss": "suitsutamaks"
+      "gloss": "suitsutades"
     },
     {
       "surface": "לבעל",
       "gloss": "Baalile"
     }
   ],
-  "timestamp": "2026-10-21T02:06:42.498377484Z",
+  "timestamp": "2026-10-21T06:19:08.636929861Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל מול",
-      "rationale": "Lühike korduv fraas 'ael muul' renderdati ühe sõnaga 'ees'; teine pool eesti tekstis kokku võetud"
-    },
-    {
-      "kind": "measurement",
-      "subject": "poolne jaotus",
-      "rationale": "Rahvas jagatud pooleks kahe mäe vahel — loenduslik kord"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גרזים \/ עיבל",
-      "rationale": "Kahe mäe paigutus õnnistuse ja needuse jaoks (5Ms 27), struktuur säilitatud"
-    }
-  ],
-  "translation": "Ja kogu Jisrael, tema vanemad, ametnikud ja tema kohtumehed seisid sellelt ja sellelt poolt laeka ees, preestrite, leevilaste, Jahve lepingu laeka kandjate vastas — nii muulane kui põlisest — pool neist Geriisimi mäe ees ja pool Evali mäe ees, nagu Moše, Jahve sulane, oli käskinud, õnnistada esimest korda ⟨את⟩ Jisraeli rahvast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "72a236c80121ed401e1c6c1f34c527f1060d41422e1d25e3400a6ee62b8ec6d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/8\/33-35.1792541444151.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kogu Jisrael, tema vanemad, ametnikud ja tema kohtumõistjad seisid laeka ühel ja teisel küljel, preestrite, leevide, Jahve lepingulaeka kandjate ees, nii võõras kui põliselanik — pool neist Geriizimi mäe ees ja pool Eiivali mäe ees, nii nagu Moše, Jahve sulane, oli käskinud ⟨esimesena⟩ õnnistada ⟨את⟩ Jisraeli rahvast.",
   "tokens": [
     {
       "surface": "וכל",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ושפטיו",
-      "gloss": "tema kohtumehed"
+      "gloss": "tema kohtumõistjad"
     },
     {
       "surface": "עמדים",
@@ -59,35 +33,35 @@
     },
     {
       "surface": "מזה",
-      "gloss": "sellelt poolt"
+      "gloss": "sellest küljest"
     },
     {
       "surface": "ומזה",
-      "gloss": "ja sellelt poolt"
+      "gloss": "ja sellest küljest"
     },
     {
       "surface": "לארון",
-      "gloss": "laeka ees"
+      "gloss": "laeka"
     },
     {
       "surface": "נגד",
-      "gloss": "vastas"
+      "gloss": "ees"
     },
     {
       "surface": "הכהנים",
-      "gloss": "preestrid"
+      "gloss": "preestrite"
     },
     {
       "surface": "הלוים",
-      "gloss": "leevilased"
+      "gloss": "leevide"
     },
     {
       "surface": "נשאי",
-      "gloss": "kandjad"
+      "gloss": "kandjate"
     },
     {
       "surface": "ארון",
-      "gloss": "laegas"
+      "gloss": "laeka"
     },
     {
       "surface": "ברית",
@@ -99,11 +73,11 @@
     },
     {
       "surface": "כגר",
-      "gloss": "nii muulane"
+      "gloss": "nii võõras"
     },
     {
       "surface": "כאזרח",
-      "gloss": "kui põlisest"
+      "gloss": "kui põliselanik"
     },
     {
       "surface": "חציו",
@@ -111,19 +85,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "מול",
       "gloss": "ees"
     },
     {
+      "surface": "מול",
+      "gloss": "vastas"
+    },
+    {
       "surface": "הר",
-      "gloss": "mägi"
+      "gloss": "mäe"
     },
     {
       "surface": "גרזים",
-      "gloss": "Geriisim"
+      "gloss": "Geriizimi"
     },
     {
       "surface": "והחציו",
@@ -131,23 +105,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "מול",
       "gloss": "ees"
     },
     {
+      "surface": "מול",
+      "gloss": "vastas"
+    },
+    {
       "surface": "הר",
-      "gloss": "mägi"
+      "gloss": "mäe"
     },
     {
       "surface": "עיבל",
-      "gloss": "Eval"
+      "gloss": "Eiivali"
     },
     {
       "surface": "כאשר",
-      "gloss": "nagu"
+      "gloss": "nii nagu"
     },
     {
       "surface": "צוה",
@@ -167,7 +141,7 @@
     },
     {
       "surface": "לברך",
-      "gloss": "õnnistada"
+      "gloss": "õnnistama"
     },
     {
       "surface": "את",
@@ -184,9 +158,9 @@
     },
     {
       "surface": "בראשנה",
-      "gloss": "esimest korda"
+      "gloss": "esimesena"
     }
   ],
-  "timestamp": "2026-10-21T00:10:44.152540420Z",
+  "timestamp": "2026-10-21T06:26:08.748677143Z",
   "model": "glm-5.3"
 }

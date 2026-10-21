@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ilmalik",
-      "rationale": "חל tähendab 'ilmalik\/profanne, mitte-püha' — mitte 'rõve', vaid lihtsalt püha mitte-olemine"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨osa⟩",
-      "rationale": "Eesti keel vajab nimisõna, heebrea ütleb lihtsalt 'ilmalik ⟨on⟩ linnale'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "viis tuhat",
-      "rationale": "Linna ilmaliku ala mõõt 5000 kakskümne viie tuhande peal"
-    }
-  ],
-  "translation": "Ja viis tuhat, mis jääb üle laiuses kakskümne viie tuhande esiküljele, on ilmalik ⟨osa⟩ linnale elamiseks ja karjamaaks; ja linn olgu selle keskel.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "50ab0ce3e44692fbb883a81808004f033f33e684399275df9ca34d212703607e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/48\/13-16.1792550924016.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja viis tuhat, mis jääb üle laiusesse viie ja kahekümne tuhande näo ette, ⟨on⟩ ilmalik — see ⟨sünnib⟩ linnale asukohaks ja karjamaaks; ja linn saab olema selle keskel.",
   "tokens": [
     {
       "surface": "וחמשת",
-      "gloss": "Ja viis"
+      "gloss": "ja viis tuhat"
     },
     {
       "surface": "אלפים",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ברחב",
-      "gloss": "laiuses"
+      "gloss": "laiusesse"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "üle"
     },
     {
       "surface": "פני",
-      "gloss": "esiküljele"
+      "gloss": "näo ette"
     },
     {
       "surface": "חמשה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ועשרים",
-      "gloss": "ja kakskümne"
+      "gloss": "ja kahekümne"
     },
     {
       "surface": "אלף",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "on"
+      "gloss": "see"
     },
     {
       "surface": "לעיר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "למושב",
-      "gloss": "elamiseks"
+      "gloss": "asukohaks"
     },
     {
       "surface": "ולמגרש",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "ja olgu"
+      "gloss": "ja saab olema"
     },
     {
       "surface": "העיר",
@@ -102,6 +76,6 @@
       "gloss": "selle keskel"
     }
   ],
-  "timestamp": "2026-10-21T02:48:44.017850255Z",
+  "timestamp": "2026-10-21T06:12:21.799393855Z",
   "model": "glm-5.3"
 }

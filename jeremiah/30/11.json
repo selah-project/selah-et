@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "למשפט",
-      "rationale": "'kohtu\/mõõdu järgi' — KJV 'in measure', teised 'õiguse järgi'; mõlemad loengud on võimalikud."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כלה … כלה",
-      "rationale": "Sama sõna 'lõpp' kordub: rahvastele täielik lõpp, Jisraelile mitte — vastandus jääb eesti keeles alles."
-    }
-  ],
-  "translation": "Sest mina olen ⟨את⟩ sinuga, ütleb Jahve, et sind päästa; sest ma teen lõpu kõigile rahvastele, kelle hulka ma sind paisanud olen; ainult sind ma ei tee lõppu, vaid taunin sind kohtumõistmisega ja ei jäa sind täiesti karistuseta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/30\/9-12.1792548718000.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest mina olen ⟨את⟩ sinuga, ütleb Jahve, et sind päästa; sest ma teen täieliku lõpu kõigile rahvastele, kelle hulka ma sind sinna laiali pillutasin; aga ⟨את⟩ sind ma ei hävita täielikult, ja ma ohjan sind kohtu mööda, aga täiesti karistuseta ma sind ei jäta.",
   "tokens": [
     {
       "surface": "כי",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "כלה",
-      "gloss": "lõpu"
+      "gloss": "täieliku lõpu"
     },
     {
       "surface": "בכל",
@@ -74,23 +53,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kelle"
+      "gloss": "kelle hulka"
     },
     {
       "surface": "הפצותיך",
-      "gloss": "hulka ma sind paisanud"
+      "gloss": "ma sind laiali pillutasin"
     },
     {
       "surface": "שם",
-      "gloss": "oled"
+      "gloss": "sinna"
     },
     {
       "surface": "אך",
-      "gloss": "ainult"
+      "gloss": "aga"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sind"
+      "gloss": "⟨את⟩ sind",
+      "marks": "sind"
     },
     {
       "surface": "לא",
@@ -98,33 +78,33 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "ma tee"
+      "gloss": "ma hävita"
     },
     {
       "surface": "כלה",
-      "gloss": "lõppu"
+      "gloss": "täielikult"
     },
     {
       "surface": "ויסרתיך",
-      "gloss": "vaid taunin sind"
+      "gloss": "ja ma ohjan sind"
     },
     {
       "surface": "למשפט",
-      "gloss": "kohtumõistmisega"
+      "gloss": "kohtu mööda"
     },
     {
       "surface": "ונקה",
-      "gloss": "ja ei jäa"
+      "gloss": "aga karistuseta"
     },
     {
       "surface": "לא",
-      "gloss": "täiesti mitte"
+      "gloss": "ei"
     },
     {
       "surface": "אנקך",
-      "gloss": "sind karistuseta"
+      "gloss": "ma sind jäta"
     }
   ],
-  "timestamp": "2026-10-21T02:11:58.005231283Z",
+  "timestamp": "2026-10-21T06:20:39.389940728Z",
   "model": "glm-5.3"
 }

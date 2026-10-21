@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "karmiinpunane ussvärv",
-      "rationale": "שני התולעת on üks mõiste: košenill-täist putukast saadud punane värvaine."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "השחטה",
-      "rationale": "Passiiviline osasõna 'tapetud' kajab 14:5 verbi שחט — kordus sidub salmid."
-    }
-  ],
-  "translation": "⟨את⟩ Elava linnu ta võtab koos ⟨את⟩ seedripuuga ja ⟨את⟩ karmiinpunase ussvärviga ning ⟨את⟩ iisopiga, ja kastetab need ning ⟨את⟩ elava linnu tapetud linnu verre, elva vee kohal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/14\/5-8.1792539333489.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ eluslinnu võtab tema ja ⟨את⟩ seedripuu ning ⟨את⟩ karmiinpunase kedra ja ⟨את⟩ iisopi, ja kastab nad ning ⟨את⟩ eluslinnu tapetud linnu verese üle eluvee.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elav lind"
+      "marks": "eluslind"
     },
     {
       "surface": "הצפר",
@@ -39,19 +18,20 @@
     },
     {
       "surface": "החיה",
-      "gloss": "elav"
+      "gloss": "elus-"
     },
     {
       "surface": "יקח",
-      "gloss": "ta võtab"
+      "gloss": "võtab"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨tema⟩"
+      "gloss": "⟨את⟩ teda",
+      "marks": "tema (eluslind)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "seedripuu"
     },
     {
@@ -60,12 +40,12 @@
     },
     {
       "surface": "הארז",
-      "gloss": "seedar"
+      "gloss": "seeder"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "karmiinpunane ussvärv"
+      "gloss": "ja ⟨את⟩",
+      "marks": "karmiinpunane keder"
     },
     {
       "surface": "שני",
@@ -73,11 +53,11 @@
     },
     {
       "surface": "התולעת",
-      "gloss": "ussvärv"
+      "gloss": "keder (ussist)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "iisop"
     },
     {
@@ -86,16 +66,17 @@
     },
     {
       "surface": "וטבל",
-      "gloss": "ja kastetab"
+      "gloss": "ja kastab"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neid",
+      "marks": "nemad (puu, keder, iisop)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "elav lind"
+      "gloss": "ja ⟨את⟩",
+      "marks": "eluslind"
     },
     {
       "surface": "הצפר",
@@ -103,11 +84,11 @@
     },
     {
       "surface": "החיה",
-      "gloss": "elava"
+      "gloss": "elus-"
     },
     {
       "surface": "בדם",
-      "gloss": "verre"
+      "gloss": "veres"
     },
     {
       "surface": "הצפר",
@@ -119,7 +100,7 @@
     },
     {
       "surface": "על",
-      "gloss": "kohal"
+      "gloss": "üle"
     },
     {
       "surface": "המים",
@@ -127,9 +108,9 @@
     },
     {
       "surface": "החיים",
-      "gloss": "elva"
+      "gloss": "elu-"
     }
   ],
-  "timestamp": "2026-10-20T23:35:33.490686501Z",
+  "timestamp": "2026-10-21T06:41:19.536515191Z",
   "model": "glm-5.3"
 }

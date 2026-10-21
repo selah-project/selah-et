@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "seitsekümmend meest, viiskümmend tuhat meest",
-      "rationale": "שבעים איש חמשים אלף: tõenäoliselt 'seitsekümmend meest, viiskümmend (juhti) tuhandest' (YLT: 'fifty chief men'); KJV-lt 50 070, BSB-lt ainult 70"
-    },
-    {
-      "kind": "measurement",
-      "subject": "arvud",
-      "rationale": "löödute arv, tekst ise loendab"
-    }
-  ],
-  "translation": "Ja ta lõi Beit Šemeshi mehi, sest nad vaatasid Jahve arku, ja ta lõi rahva seast seitsekümmend meest – viiskümmend tuhat meest – ja rahvas leinas, sest Jahve oli löönud rahvast suure löögi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/17-20.1792543753532.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta lõi Beet-Šemeši mehi, sest nad olid vaadanud Jahve laekasse; ja ta lõi rahva seast seitsekümmend meest — viiskümmend tuhat ⟨meest⟩ — ja rahvas leinas, sest Jahve oli löönud rahvast suure löögiga.",
   "tokens": [
     {
       "surface": "ויך",
@@ -34,11 +13,15 @@
     },
     {
       "surface": "באנשי",
-      "gloss": "mehi"
+      "gloss": "meid"
     },
     {
-      "surface": "בית שמש",
-      "gloss": "Beit Šemeshi"
+      "surface": "בית",
+      "gloss": "Beet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Šemeši"
     },
     {
       "surface": "כי",
@@ -46,11 +29,11 @@
     },
     {
       "surface": "ראו",
-      "gloss": "nad vaatasid"
+      "gloss": "nad olid vaadanud"
     },
     {
       "surface": "בארון",
-      "gloss": "arku"
+      "gloss": "laekasse"
     },
     {
       "surface": "יהוה",
@@ -82,11 +65,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "meest"
+      "gloss": "⟨meest⟩"
     },
     {
       "surface": "ויתאבלו",
-      "gloss": "ja ... leinas"
+      "gloss": "leinas"
     },
     {
       "surface": "העם",
@@ -110,13 +93,13 @@
     },
     {
       "surface": "מכה",
-      "gloss": "löögi"
+      "gloss": "löögiga"
     },
     {
       "surface": "גדולה",
       "gloss": "suure"
     }
   ],
-  "timestamp": "2026-10-21T00:49:13.536322993Z",
+  "timestamp": "2026-10-21T05:53:59.714525893Z",
   "model": "glm-5.3"
 }

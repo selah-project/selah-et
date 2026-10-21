@@ -5,33 +5,7 @@
   "book": "ezra",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oled",
-      "rationale": "heebrea puudub kopeeriva verb; eesti 'sina oled õige' nõuab selle."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לעמוד לפניך",
-      "rationale": "'seista sinu ees' = vastu pidada sinu kohusotsusele, mitte füüsiline seismine."
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvele",
-      "rationale": "otse palve Jumalale — kogu patrusepalve lõpp."
-    }
-  ],
-  "translation": "Jahve, Jisraeli Elohim, sina oled õige, sest meile jäi pääsenud jäänuk nagu tänapäevalgi; ennäe, me oleme sinu ees oma süüs, sest ei saa keegi seista sinu ees selle pärast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a889e84c06f88f367b634d32b9846642d8d206b7cdc118be7e529970ed922b61",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/9\/13-15.1792556738197.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve, Jisraeli Elohim, sina oled tsedek, sest meile jäi pääsenud jäänus nagu tänapäevalgi — ennäe, me oleme sinu ees oma süüosades, sest ei ole ⟨kellegi⟩, kes saaks seista sinu ees selle pärast.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Jisraeli Elohim"
     },
     {
       "surface": "ישראל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "õige"
+      "gloss": "tsedek"
     },
     {
       "surface": "אתה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "פליטה",
-      "gloss": "pääsenud jäänuk"
+      "gloss": "pääsenud jäänus"
     },
     {
       "surface": "כהיום",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "see"
     },
     {
       "surface": "הננו",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "באשמתינו",
-      "gloss": "oma süüs"
+      "gloss": "oma süüosades"
     },
     {
       "surface": "כי",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "ei saa keegi"
+      "gloss": "ei ole"
     },
     {
       "surface": "לעמוד",
-      "gloss": "seista"
+      "gloss": "kes saaks seista"
     },
     {
       "surface": "לפניך",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "על",
-      "gloss": "selle pärast"
+      "gloss": "pärast"
     },
     {
       "surface": "זאת",
-      "gloss": "seda"
+      "gloss": "selle"
     }
   ],
-  "timestamp": "2026-10-21T04:25:38.198523267Z",
+  "timestamp": "2026-10-21T06:12:36.369763440Z",
   "model": "glm-5.3"
 }

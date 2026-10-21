@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "רב את ריב חרפתי",
-      "rationale": "otsetähendus 'pidas minu teotamise vaidluse' — kas Jahve vaidleb Davidi teotuse pärast või kätkeb Davidi häbi Nabali käest"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ריב ... רעת ... השיב בראשו",
-      "rationale": "vaidlus- ja tagasipööramise kordus peegeldab verbaalset kordusstruktuuri: kurjus pööratakse tagasi tegija enese pähe"
-    }
-  ],
-  "translation": "Ja David kuulis, et Nabal on surnud, ja ütles: Kiidetud olgu Jahve, kes pidas ⟨את⟩ minu teotamise vaidluse Nabali käest, ja pidas oma sulase tagasi kurjast, ja Nabali kurjuse pööras Jahve tagasi tema enese peale; ja David saatis ja laski Abigailiga kõnelda, et võtta ta endale naiseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a6fea93560bc84aa5a3671cff17ac336f52fcbc290904f6648846503a75f2b7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/25\/37-40.1792544292336.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David kuulis, et Nabal ⟨oli⟩ surnud, ja ta ütles: Kiidetud olgu Jahve, kes käsitles ⟨את⟩ mina häbistamise õiguseasja Nabali käest, ja ⟨את⟩ oma sulast hoidis ta tagasi kurjast, ja Nabali kurjuse pööras Jahve tagasi tema pea peale. Ja David saatis ⟨sõnumeid⟩ ja rääkis Abigailiga, et ta võtaks ta endale naiseks.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Ja kuulis"
+      "gloss": "ja kuulis"
     },
     {
       "surface": "דוד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מת",
-      "gloss": "on surnud"
+      "gloss": "surnud"
     },
     {
       "surface": "נבל",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "ברוך",
-      "gloss": "Kiidetud olgu"
+      "gloss": "kiitetud olgu"
     },
     {
       "surface": "יהוה",
@@ -66,20 +45,20 @@
     },
     {
       "surface": "רב",
-      "gloss": "pidas vaidlust"
+      "gloss": "käsitles õiguseasja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minu teotamise vaidlus"
+      "marks": "mina häbistamise õiguseasja"
     },
     {
       "surface": "ריב",
-      "gloss": "vaidluse"
+      "gloss": "õiguseasja"
     },
     {
       "surface": "חרפתי",
-      "gloss": "minu teotamise"
+      "gloss": "mina häbistamise"
     },
     {
       "surface": "מיד",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "oma sulast"
     },
     {
@@ -100,7 +79,7 @@
     },
     {
       "surface": "חשך",
-      "gloss": "pidas tagasi"
+      "gloss": "hoidis tagasi"
     },
     {
       "surface": "מרעה",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "Nabali kurjuse"
     },
     {
@@ -129,11 +108,11 @@
     },
     {
       "surface": "בראשו",
-      "gloss": "tema enese peale"
+      "gloss": "tema pea peale"
     },
     {
       "surface": "וישלח",
-      "gloss": "saatis"
+      "gloss": "ja saatas"
     },
     {
       "surface": "דוד",
@@ -141,7 +120,7 @@
     },
     {
       "surface": "וידבר",
-      "gloss": "laski kõnelda"
+      "gloss": "ja rääkis"
     },
     {
       "surface": "באביגיל",
@@ -149,7 +128,7 @@
     },
     {
       "surface": "לקחתה",
-      "gloss": "et võtta ta"
+      "gloss": "et võtaks ta"
     },
     {
       "surface": "לו",
@@ -160,6 +139,6 @@
       "gloss": "naiseks"
     }
   ],
-  "timestamp": "2026-10-21T00:58:12.337783173Z",
+  "timestamp": "2026-10-21T05:54:22.308771810Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nuhtlen",
-      "rationale": "פקד tähendab sõnasõnalt 'külastama' — nii hea kui kurja eesmärgiga; siin vaenulik külastus"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "eesendumärksõna liidetakse eesti käänetega, eraldi sõnana ei tasu"
-    }
-  ],
-  "translation": "Seepärast ütleb nõnda Jahve Tsevaot, Jisraeli Elohim: Vaata, ma nuhtlen Babüloni kuningat ja tema maad, nõnda nagu ma nuhtlesin Aššuri kuningat.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/50\/17-20.1792549532251.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sellepärast ütleb nõnda Jahve Tsevaot, Jisraeli Elohim: Vaata, ma külastan Baabeli kuningat ja tema maad, nõnda nagu ma külastasin Assüüria kuningat.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Seepärast"
+      "gloss": "Sellepärast"
     },
     {
       "surface": "כה",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Vaata, mina"
+      "gloss": "Vaata"
     },
     {
       "surface": "פקד",
-      "gloss": "nuhtlen"
+      "gloss": "külastan"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "מלך",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babüloni"
+      "gloss": "Baabeli"
     },
     {
       "surface": "ואל",
@@ -90,11 +69,11 @@
     },
     {
       "surface": "פקדתי",
-      "gloss": "ma nuhtlesin"
+      "gloss": "külastasin"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "מלך",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Aššuri"
+      "gloss": "Assüüria"
     }
   ],
-  "timestamp": "2026-10-21T02:25:32.253788465Z",
+  "timestamp": "2026-10-21T06:22:27.712950365Z",
   "model": "glm-5.3"
 }

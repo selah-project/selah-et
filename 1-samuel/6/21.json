@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "רדו העלו",
-      "rationale": "'Tulge alla ja viige üles' — Kirjat-Jearim asus kõrgemal; liikumise suund säilitatud otsesõnaliselt."
-    }
-  ],
-  "translation": "Ja nad saatsid sõnumitoojad Kirjat-Jearimi elanike juurde, öeldes: Filistlased on tagasi toonud ⟨את⟩ Jahve ark; tulge alla ja viige see üles enese juurde.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "08dba26a50f67057be7dcaadc19933c8ae9ecda71018204eae345de4b0f1186b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/6\/21-21.1792543683259.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad saatsid sõnumitoojad Kirjat-Jaarimi elanike juurde, öeldes: Filistlased on tagasi toonud ⟨את⟩ Jahve laeka; tulge alla ja viige see ⟨את⟩ endi juurde üles.",
   "tokens": [
     {
       "surface": "וישלחו",
-      "gloss": "saatsid"
+      "gloss": "ja nad saatsid"
     },
     {
       "surface": "מלאכים",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "יערים",
-      "gloss": "Jearimi"
+      "gloss": "Jaarimi"
     },
     {
       "surface": "לאמר",
@@ -62,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve ark"
+      "marks": "Jahve laeka"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "laeka"
     },
     {
       "surface": "יהוה",
@@ -82,14 +66,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "see"
+      "gloss": "⟨את⟩ teda",
+      "marks": "endi juurde"
     },
     {
       "surface": "אליכם",
-      "gloss": "enese juurde"
+      "gloss": "endi juurde"
     }
   ],
-  "timestamp": "2026-10-21T00:48:03.260990686Z",
+  "timestamp": "2026-10-21T05:53:52.256468875Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "nehemiah",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נדחכם",
-      "rationale": "passiivist kaudne kääne — 'teie äraajatuid', heebrea lit. 'teie minema ajetud'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "pöördute",
-      "rationale": "ו from ktiv\/perush context — tulevik vs käsk 'pöörduge'; Moosese tsitaadi jätkuna on järelvorm loomulikum"
-    }
-  ],
-  "translation": "Ja te pöördute minu poole ja hoiate mu käske ja teete ⟨את⟩ neid; kui teie äraajatuid on taeva äärtes, sealt ma nad kokku kogun ja toon nad selle paiga juurde, mille ma olen valinud, et minu nimi seal asuks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6d34e6a78b05d8de492daa01869b77e74e0f2505da7609f04f48acebb35fb679",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/1\/9-11.1792556837562.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja pöördute minu juurde tagasi ja hoiate mu käske ja teete neid ⟨את⟩ — kui teie hüljatuid on taevaäärel, siis sealt ma nad kokku kogun ja toon nad selle paiga juurde, mille ma valisin, et mu nimi seal elaks, ⟨את⟩ mu nime sinna.",
   "tokens": [
     {
       "surface": "ושבתם",
-      "gloss": "Ja te pöördute"
+      "gloss": "ja pöördute tagasi"
     },
     {
       "surface": "אלי",
-      "gloss": "minu poole"
+      "gloss": "minu juurde"
     },
     {
       "surface": "ושמרתם",
@@ -51,7 +30,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "neid"
+      "marks": "neid (mu käske)"
     },
     {
       "surface": "אם",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "נדחכם",
-      "gloss": "teie äraajatuid"
+      "gloss": "teie hüljatuid"
     },
     {
       "surface": "בקצה",
-      "gloss": "taeva äärtes"
+      "gloss": "taevaäärel"
     },
     {
       "surface": "השמים",
-      "gloss": "taeva äärtes"
+      "gloss": "taeva (kaksiktähe — 'taevasid')"
     },
     {
       "surface": "משם",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "selle paiga"
+      "gloss": "paiga"
     },
     {
       "surface": "אשר",
@@ -99,26 +78,26 @@
     },
     {
       "surface": "בחרתי",
-      "gloss": "ma olen valinud"
+      "gloss": "ma valisin"
     },
     {
       "surface": "לשכן",
-      "gloss": "et asuks"
+      "gloss": "et elaks"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minu nimi"
+      "marks": "mu nime"
     },
     {
       "surface": "שמי",
-      "gloss": "minu nimi"
+      "gloss": "mu nimi"
     },
     {
       "surface": "שם",
       "gloss": "seal"
     }
   ],
-  "timestamp": "2026-10-21T04:27:17.563681351Z",
+  "timestamp": "2026-10-21T06:30:33.265947986Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שם שם — korduv 'nimi'",
-      "rationale": "Kordus: 'kutsutakse nimi, nimi Jahve Tsevaoti' — tõlkijad lagundavad selle üheks fraasiks või jätavad korduse sisse."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שם ... משם",
-      "rationale": "šem (nimi) ja miššam (sealt) kõlavad kõrvuti; kõlapilt eestis osaliselt kadunud."
-    },
-    {
-      "kind": "crux",
-      "subject": "אשר אתו",
-      "rationale": "Prepositsioon את ('koos temaga'), mitte aleph-tav'i objektimarker — kuid konsonandid on ühesugused."
-    }
-  ],
-  "translation": "Ja David tõusis ja läks ning kogu rahvas, kes ⟨temaga⟩ oli, Baale-Jehuuda kohalt, et tuua sealt üles ⟨את⟩ Elohimi laegas, mille kohale kutsutakse nimi — nimi Jahve Tsevaoti, kes istub kruubide kohal selle peal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/6\/1-4.1792544533655.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David tõusis ja läks ning kogu rahvas, kes temaga ⟨את⟩ oli, Baale-Juudast, et tuua sealt üles ⟨את⟩ Elohimi laeka, mille kohale on kutsutud nimi — Jahve Tsevaoti, kruubide peal istuja, nimi.",
   "tokens": [
     {
       "surface": "ויקם",
@@ -59,8 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨temaga⟩ ⟨את⟩",
-      "marks": "köide temaga"
+      "gloss": "temaga ⟨את⟩"
     },
     {
       "surface": "מבעלי",
@@ -68,7 +41,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuuda"
+      "gloss": "Juudast"
     },
     {
       "surface": "להעלות",
@@ -81,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohimi laegas"
+      "marks": "Elohimi laeka"
     },
     {
       "surface": "ארון",
-      "gloss": "laegas"
+      "gloss": "laeka"
     },
     {
       "surface": "האלהים",
@@ -97,7 +70,7 @@
     },
     {
       "surface": "נקרא",
-      "gloss": "kutsutakse"
+      "gloss": "on kutsutud"
     },
     {
       "surface": "שם",
@@ -113,21 +86,21 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Tsevaoti"
     },
     {
       "surface": "ישב",
-      "gloss": "kes istub"
+      "gloss": "istuja"
     },
     {
       "surface": "הכרבים",
-      "gloss": "kruubide kohal"
+      "gloss": "kruubide peal"
     },
     {
       "surface": "עליו",
-      "gloss": "selle peal"
+      "gloss": "selle kohale"
     }
   ],
-  "timestamp": "2026-10-21T01:02:13.659395074Z",
+  "timestamp": "2026-10-21T06:01:05.632374382Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nende elu",
-      "rationale": "נפש on kõri\/elujõud, mitte 'hing' kristlikus mõttes"
-    },
-    {
-      "kind": "idiom",
-      "subject": "mu viha põlemine",
-      "rationale": "חרון אפי sõnasõnalt 'mu nina (ninamiste) põlemine', viha kujund"
-    },
-    {
-      "kind": "crux",
-      "subject": "naristan",
-      "rationale": "והחתתי 'jan närin, löön hirmu\/pulpi' — 'teen hirmu täis' vs 'purustan'"
-    }
-  ],
-  "translation": "Ja ma naristan ⟨את⟩ Eelami nende vaenlaste ees ja nende elu otsijate ees, ja ma toon nende peale halva, ⟨את⟩ mu viha põlemise, ütleb Jahve, ja ma saadan neile järele mõõga, kuni ma olen nad ära kulutanud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "54a81a7ed1c7544df1b56dacf6301df35e4a31d03f531e7b1a9ee0739ec9fc5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/49\/37-38.1792558459905.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma lõhuban ⟨את⟩ Eelami nende vaenlaste ees ja nende ⟨elu⟩ otsijate ees, ja ma toon nende kohale halva, ⟨את⟩ mu viha põlemise — ütleb Jahve —, ja ma saadan neile järele ⟨את⟩ mõõga, kuni ma nad olen lõpetanud.",
   "tokens": [
     {
       "surface": "והחתתי",
-      "gloss": "ja ma naristan"
+      "gloss": "ja ma lõhuban"
     },
     {
       "surface": "את",
@@ -44,7 +18,7 @@
     },
     {
       "surface": "עילם",
-      "gloss": "Eelami"
+      "gloss": "Eelam"
     },
     {
       "surface": "לפני",
@@ -52,15 +26,15 @@
     },
     {
       "surface": "איביהם",
-      "gloss": "nende vaenlaste"
+      "gloss": "nende vaenlased"
     },
     {
       "surface": "ולפני",
-      "gloss": "ja ... ees"
+      "gloss": "ja ees"
     },
     {
       "surface": "מבקשי",
-      "gloss": "otsijate"
+      "gloss": "otsijad"
     },
     {
       "surface": "נפשם",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "nende peale"
+      "gloss": "nende kohale"
     },
     {
       "surface": "רעה",
-      "gloss": "halva"
+      "gloss": "halb"
     },
     {
       "surface": "את",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "חרון",
-      "gloss": "põlemise"
+      "gloss": "põlemine"
     },
     {
       "surface": "אפי",
@@ -114,7 +88,7 @@
     },
     {
       "surface": "החרב",
-      "gloss": "mõõga"
+      "gloss": "mõõk"
     },
     {
       "surface": "עד",
@@ -122,13 +96,14 @@
     },
     {
       "surface": "כלותי",
-      "gloss": "ma olen ... ära kulutanud"
+      "gloss": "ma olen lõpetanud"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neid",
+      "marks": "neid (Eelami)"
     }
   ],
-  "timestamp": "2026-10-21T04:54:19.906911293Z",
+  "timestamp": "2026-10-21T06:22:17.066790632Z",
   "model": "glm-5.3"
 }

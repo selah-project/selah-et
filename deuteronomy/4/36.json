@@ -5,31 +5,15 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ליסרך",
-      "rationale": "'Sind tsiplineks\/õpetamaks' — juur tähendab nii karistust kui õpetust; valitud 'õpetamaks'"
-    }
-  ],
-  "translation": "Taevalast laskis ta sul kuulda ⟨את⟩ oma häält, sind õpetamaks, ja maa peal näitas sulle ⟨את⟩ oma suurt tuld, ja tema sõnu kuulsid sa tule keskkohast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7d9cace550444cffe17f1a56ed4d985540731b9e5d49f803055d74cc2411ab53",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/4\/34-36.1792543631232.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taeust laskis ta sul kuulda ⟨את⟩ oma häält, sind õpetama, ja maal näitas sulle ⟨את⟩ ta suurt tuld, ja ta sõnu kuulgid sa tule keskelt.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "taeust"
     },
     {
       "surface": "השמים",
-      "gloss": "taevalast"
+      "gloss": "taeust"
     },
     {
       "surface": "השמיעך",
@@ -38,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma häält"
+      "marks": "oma hääl"
     },
     {
       "surface": "קלו",
@@ -46,15 +30,15 @@
     },
     {
       "surface": "ליסרך",
-      "gloss": "sind õpetamaks"
+      "gloss": "sind õpetama"
     },
     {
       "surface": "ועל",
-      "gloss": "ja maa peal"
+      "gloss": "ja maal"
     },
     {
       "surface": "הארץ",
-      "gloss": ""
+      "gloss": "maal"
     },
     {
       "surface": "הראך",
@@ -63,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma suurt tuld"
+      "marks": "ta suurt tuld"
     },
     {
       "surface": "אשו",
-      "gloss": "oma tuld"
+      "gloss": "ta tuld"
     },
     {
       "surface": "הגדולה",
@@ -75,21 +59,21 @@
     },
     {
       "surface": "ודבריו",
-      "gloss": "ja tema sõnu"
+      "gloss": "ja ta sõnu"
     },
     {
       "surface": "שמעת",
-      "gloss": "kuulsid sa"
+      "gloss": "kuulgid sa"
     },
     {
       "surface": "מתוך",
-      "gloss": "keskkohast"
+      "gloss": "keskelt"
     },
     {
       "surface": "האש",
       "gloss": "tule"
     }
   ],
-  "timestamp": "2026-10-21T00:47:11.246357616Z",
+  "timestamp": "2026-10-21T06:03:52.774637611Z",
   "model": "glm-5.3"
 }

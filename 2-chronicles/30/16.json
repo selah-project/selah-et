@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eessõna on sulanud kokku 'oma kohal' väljendisse ja eraldi ei ilmu."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויעמדו … עמדם",
-      "rationale": "Tegu- ja nimisõna sama juurega ('seisma \/ seiseukoht') — kõlav kordus, eesti keeles ainult osaliselt."
-    }
-  ],
-  "translation": "Ja nad seisid oma kohal nende kombe kohaselt, Moše, Elohim'i mehe Toora järgi; preestrid puistavad ⟨את⟩ verd leviitide käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/30\/13-16.1792558108557.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad seisisid oma kohal, oma õiguse kohaselt, Toora järgi, Moše, Elohimi mehe ⟨toora⟩; preestrid pritssid ⟨את⟩ verd leevide käest.",
   "tokens": [
     {
       "surface": "ויעמדו",
-      "gloss": "ja seisid"
+      "gloss": "ja nad seisisid"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "üle"
     },
     {
       "surface": "עמדם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כמשפטם",
-      "gloss": "nende kombe kohaselt"
+      "gloss": "oma õiguse kohaselt"
     },
     {
       "surface": "כתורת",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "mehe"
+      "gloss": "mees"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim'i"
+      "gloss": "Elohim"
     },
     {
       "surface": "הכהנים",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "זרקים",
-      "gloss": "puistavad"
+      "gloss": "pritsisid"
     },
     {
       "surface": "את",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "leviitide"
+      "gloss": "leevide"
     }
   ],
-  "timestamp": "2026-10-21T04:48:28.559705509Z",
+  "timestamp": "2026-10-21T05:55:22.674259450Z",
   "model": "glm-5.3"
 }

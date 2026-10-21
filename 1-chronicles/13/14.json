@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebrea käsitleb 'kõik, mis temale' omastuslikult ilma tegelasõnata; eesti keel vajab ⟨on⟩"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolmeks kuuks",
-      "rationale": "aja mõõtmine — kolm kuud"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בית",
-      "rationale": "sõna 'koja\/perе' kordub kolm korda: Obed-Edomi pere, tema koda, Obed-Edomi koda"
-    }
-  ],
-  "translation": "Ja Elohimi ark jäi Obed-Edomi pere juurde tema koju kolmeks kuuks; ja Jahve õnnistas Obed-Edomi ⟨את⟩ koja ja ⟨את⟩ kõik, mis tal ⟨on⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/13\/13-14.1792557334762.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Elohimi laegas jäi Oved-Edomi kõrvale tema koju kolmeks kuuks; ja Jahve õnnistas ⟨את⟩ Oved-Edomi koja ja ⟨את⟩ kõik, mis temal oli.",
   "tokens": [
     {
       "surface": "וישב",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "laegas"
     },
     {
       "surface": "האלהים",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "עם",
-      "gloss": "juurde"
+      "gloss": "kõrvale"
     },
     {
       "surface": "בית",
-      "gloss": "pere"
+      "gloss": "Oved-Edomi"
     },
     {
       "surface": "עבד",
-      "gloss": "Obed-"
+      "gloss": "Oved-"
     },
     {
       "surface": "אדם",
-      "gloss": "Edomi"
+      "gloss": "-Edomi"
     },
     {
       "surface": "בביתו",
@@ -84,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Obed-Edomi koja"
+      "marks": "Oved-Edomi koja"
     },
     {
       "surface": "בית",
@@ -92,16 +66,16 @@
     },
     {
       "surface": "עבד",
-      "gloss": "Obed-"
+      "gloss": "Oved-"
     },
     {
       "surface": "אדם",
-      "gloss": "Edomi"
+      "gloss": "-Edomi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kõik, mis tal on"
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõik, mis temal oli"
     },
     {
       "surface": "כל",
@@ -113,9 +87,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "tal"
+      "gloss": "temal oli"
     }
   ],
-  "timestamp": "2026-10-21T04:35:34.763776736Z",
+  "timestamp": "2026-10-21T06:58:26.693948372Z",
   "model": "glm-5.3"
 }

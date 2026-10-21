@@ -5,41 +5,15 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "ולשטט",
-      "rationale": "Väga haruldane sõna, tõenäoliselt 'piits', 'ajavits' — erinevad tõlkijad pakuvad 'nui' või 'aas'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מלפניכם",
-      "rationale": "Tõlgi 'teie palge eest' eesti keeles 'teie silmist' loomulikuma kõla jaoks."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "Joosua kõneleb otse Iisraelile, hoiatusrikas ettekuulutus."
-    }
-  ],
-  "translation": "Täielikult te teate, et Jahve, teie Elohim, ei aja enam ⟨את⟩ neid rahvaid teie silmist ära; ja nad saavad teile lõksuks ja püüniseks ning ajavitsaks teie kylgedel ja okasteks teie silmades, kuni te hukkute sellelt healt maalt, mille Jahve, teie Elohim, teile on andnud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "993bb73692a49117fd80f4e3eaa593096e801a0883966c36e9411b7df3120cfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/23\/13-16.1792541831275.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Täpselt teada saate, et Jahve, teie Elohim, ei hakka neid ⟨את⟩ rahvaid enam teie eest ära ajama, vaid nad saavad teile püüniseks ja lõksu ning piitsaks teie külgedel ja okasteks teie silmades, kuni te hävitate sellelt heal maalt, mille Jahve, teie Elohim, teile on andnud.",
   "tokens": [
     {
       "surface": "ידוע",
-      "gloss": "täielikult"
+      "gloss": "täpselt"
     },
     {
       "surface": "תדעו",
-      "gloss": "te teate"
+      "gloss": "teada saate"
     },
     {
       "surface": "כי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "יוסיף",
-      "gloss": "enam"
+      "gloss": "hakka enam"
     },
     {
       "surface": "יהוה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "להוריש",
-      "gloss": "aja ära"
+      "gloss": "ära ajama"
     },
     {
       "surface": "את",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "מלפניכם",
-      "gloss": "teie silmist"
+      "gloss": "teie eest"
     },
     {
       "surface": "והיו",
-      "gloss": "ja nad saavad"
+      "gloss": "vaid nad saavad"
     },
     {
       "surface": "לכם",
@@ -92,15 +66,15 @@
     },
     {
       "surface": "לפח",
-      "gloss": "lõksuks"
+      "gloss": "püüniseks"
     },
     {
       "surface": "ולמוקש",
-      "gloss": "ja püüniseks"
+      "gloss": "ja lõksu"
     },
     {
       "surface": "ולשטט",
-      "gloss": "ning ajavitsaks"
+      "gloss": "ja piitsaks"
     },
     {
       "surface": "בצדיכם",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "אבדכם",
-      "gloss": "te hukkute"
+      "gloss": "te hävitate"
     },
     {
       "surface": "מעל",
@@ -132,11 +106,11 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "healt"
+      "gloss": "heal"
     },
     {
       "surface": "הזאת",
-      "gloss": "sellelt"
+      "gloss": "sel"
     },
     {
       "surface": "אשר",
@@ -159,6 +133,6 @@
       "gloss": "teie Elohim"
     }
   ],
-  "timestamp": "2026-10-21T00:17:11.276081944Z",
+  "timestamp": "2026-10-21T06:25:15.008413124Z",
   "model": "glm-5.3"
 }

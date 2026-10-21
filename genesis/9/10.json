@@ -5,47 +5,32 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hing",
-      "rationale": "נפש on 'hingav olend, elujõud', mitte hing eraldatud kehas tähenduses."
-    }
-  ],
-  "translation": "Ja ⟨את⟩ iga elava hinge, mis on teiega, lindude, kariloomade ja iga maa eluka seas, mis on teiega, kõigist, kes läksid välja laevast, iga maa eluka jaoks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/9\/9-12.1792537389578.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja ⟨את⟩ kõigi hingavate olenditega, kes ⟨on⟩ teie juures — lindude, kariloomade ja kogu maa loomade seas, kes ⟨on⟩ teie juures — kõigist, kes läksid välja laevast, kogu maa iga loomani.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Ja ⟨את⟩"
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõigi hingavate olenditega"
     },
     {
       "surface": "כל",
-      "gloss": "iga"
+      "gloss": "kõigi"
     },
     {
       "surface": "נפש",
-      "gloss": "hinge"
+      "gloss": "hingavate olendite"
     },
     {
       "surface": "החיה",
-      "gloss": "elava"
+      "gloss": "elus"
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "kes"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teiega"
+      "gloss": "⟨את⟩ teie juures"
     },
     {
       "surface": "בעוף",
@@ -57,11 +42,11 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "ja iga"
+      "gloss": "ja kogu"
     },
     {
       "surface": "חית",
-      "gloss": "eluka"
+      "gloss": "loomade"
     },
     {
       "surface": "הארץ",
@@ -69,7 +54,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teiega"
+      "gloss": "⟨את⟩ teie juures"
     },
     {
       "surface": "מכל",
@@ -85,17 +70,17 @@
     },
     {
       "surface": "לכל",
-      "gloss": "iga"
+      "gloss": "kogu"
     },
     {
       "surface": "חית",
-      "gloss": "eluka"
+      "gloss": "iga loomani"
     },
     {
       "surface": "הארץ",
       "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-20T23:03:09.580086347Z",
+  "timestamp": "2026-10-21T06:17:22.751248232Z",
   "model": "glm-5.3"
 }

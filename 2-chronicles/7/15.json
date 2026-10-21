@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "suhtes",
-      "rationale": "eesti vajab liitriimi 'palve suhtes', heebrea piisab lekviiisist"
-    },
-    {
-      "kind": "substitution",
-      "subject": "לתפלת המקום הזה",
-      "rationale": "sõna-sõnalt 'selle paiga palveks'; mitmed tõlked loevad 'palveks, mida siin paigas tehakse'"
-    }
-  ],
-  "translation": "Nüüd on mu silmad avatud ja mu kõrvad tähelepanelikud selle paiga palve suhtes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/7\/13-16.1792557771626.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nüüd on mu silmad avatud ja mu kõrvad püstitatud ⟨selle⟩ koha palvele, see koht.",
   "tokens": [
     {
       "surface": "עתה",
@@ -50,21 +29,21 @@
     },
     {
       "surface": "קשבות",
-      "gloss": "tähelepanelikud"
+      "gloss": "püstitatud"
     },
     {
       "surface": "לתפלת",
-      "gloss": "palve suhtes"
+      "gloss": "palvele"
     },
     {
       "surface": "המקום",
-      "gloss": "selle paiga"
+      "gloss": "koha"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "see koht"
     }
   ],
-  "timestamp": "2026-10-21T04:42:51.627949398Z",
+  "timestamp": "2026-10-21T05:56:23.577451Z",
   "model": "glm-5.3"
 }

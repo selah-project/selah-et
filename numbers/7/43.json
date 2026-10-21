@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kaalud",
-      "rationale": "130 seeklit, 70 seeklit, mõõdetuna püha seekli järgi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "minhaks",
-      "rationale": "מנחah on jahuohver, mitte 'lihaohver'; D2 järgi jääb see minhaks"
-    }
-  ],
-  "translation": "Tema kārbān: üks hõbedane kauss, kolmkümmend ja sada seeklit tema kaal, üks hõbedane kastekann, seitsekümmend seeklit püha seekli järgi, mõlemad täis jahvatud jahu, õliga segatud, minhaks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b4644a036d9948916696976707a36e46b79d471545a943e8c98c2ea1074af058",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/7\/41-44.1792539810653.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tema ohver ⟨oli⟩ üks hõbenõu kauss, selle kaal ⟨oli⟩ kolmkümmend ja sada seeklit, üks hõbepiirsta-nõu, seitsekümmend seeklit püha seekli järgi; mõlemad olid täis jahu, õliga segatud, minhaks.",
   "tokens": [
     {
       "surface": "קרבנו",
-      "gloss": "tema kārbān"
+      "gloss": "tema ohver"
     },
     {
       "surface": "קערת",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "hõbe"
+      "gloss": "hõbe-"
     },
     {
       "surface": "אחת",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "משקלה",
-      "gloss": "tema kaal"
+      "gloss": "selle kaal"
     },
     {
       "surface": "מזרק",
-      "gloss": "kastekann"
+      "gloss": "piirsta-nõu"
     },
     {
       "surface": "אחד",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "hõbe"
+      "gloss": "hõbe-"
     },
     {
       "surface": "שבעים",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "שקל",
-      "gloss": "seekel"
+      "gloss": "seeklit"
     },
     {
       "surface": "בשקל",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "סלת",
-      "gloss": "jahvatud jahu"
+      "gloss": "jahu"
     },
     {
       "surface": "בלולה",
@@ -109,6 +88,6 @@
       "gloss": "minhaks"
     }
   ],
-  "timestamp": "2026-10-20T23:43:30.654744834Z",
+  "timestamp": "2026-10-21T06:36:54.476386079Z",
   "model": "glm-5.3"
 }

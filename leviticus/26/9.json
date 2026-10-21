@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ישן\/נושן (26:10)",
-      "rationale": "roots ישן 'vana' ja נושן 'ammul seisnud' kordavad üht tüve, järgmises salmis"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "pöördumine teie-vormis, lepingukõne Jisraeli poole"
-    }
-  ],
-  "translation": "Ja ma pööran teie poole ja ma teen teid viljakaks ning paljundan ⟨את⟩ teid, ja ma seisan püsti ⟨את⟩ oma lepingu ⟨את⟩ teiega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/9-12.1792539622527.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Ma pööran teie poole ja Ma teen teid viljakaks ning Ma teid suurendan ja Ma püstitan ⟨את⟩ oma lepingu ⟨את⟩ teiega.",
   "tokens": [
     {
       "surface": "ופניתי",
-      "gloss": "ma pööran"
+      "gloss": "Ja Ma pööran"
     },
     {
       "surface": "אליכם",
@@ -38,23 +17,25 @@
     },
     {
       "surface": "והפריתי",
-      "gloss": "ma teen viljakaks"
+      "gloss": "ja Ma teen viljakaks"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid (viljakaks tegemise objekt)"
     },
     {
       "surface": "והרביתי",
-      "gloss": "ja paljundan"
+      "gloss": "ja Ma suurendan"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid (suurendamise objekt)"
     },
     {
       "surface": "והקימתי",
-      "gloss": "ja ma seisan püsti"
+      "gloss": "ja Ma püstitan"
     },
     {
       "surface": "את",
@@ -70,6 +51,6 @@
       "gloss": "⟨את⟩ teiega"
     }
   ],
-  "timestamp": "2026-10-20T23:40:22.528576403Z",
+  "timestamp": "2026-10-21T06:29:42.075363484Z",
   "model": "glm-5.3"
 }

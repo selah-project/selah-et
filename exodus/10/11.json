@@ -5,36 +5,15 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הגברים",
-      "rationale": "'Mehed' (vägevad mehed) vs 'ainult täiskasvanud' — Faraon piirab püha pidu ainult meestele."
-    },
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Pehmendav partikkel 'palun\/nüüd' ei leia üht eesti sõna; 'nüüd' kannab osa selle toonist."
-    }
-  ],
-  "translation": "Mitte nõnda! Minge nüüd, teie mehed, ja teenige ⟨את⟩ Jahvet, sest seda teie otsite. Ja ta ajas nad minema Parao palge eest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/10\/9-12.1792538421755.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ei nii; minge nüüd, teie, mehed, ja teenige ⟨את⟩ Jahvet, sest just seda te otsite; ja ta ajas nad minema Parao näo eest.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "mitte"
+      "gloss": "Ei"
     },
     {
       "surface": "כן",
-      "gloss": "nõnda"
+      "gloss": "nii"
     },
     {
       "surface": "לכו",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הגברים",
-      "gloss": "teie mehed"
+      "gloss": "teie, mehed"
     },
     {
       "surface": "ועבדו",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "teie"
+      "gloss": "te"
     },
     {
       "surface": "מבקשים",
@@ -80,26 +59,26 @@
     },
     {
       "surface": "ויגרש",
-      "gloss": "ja ajas minema"
+      "gloss": "ja ta ajas minema"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "nad"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ eest"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "פני",
-      "gloss": "palge"
+      "gloss": "näo eest"
     },
     {
       "surface": "פרעה",
       "gloss": "Parao"
     }
   ],
-  "timestamp": "2026-10-20T23:20:21.756752107Z",
+  "timestamp": "2026-10-21T06:04:49.865750653Z",
   "model": "glm-5.3"
 }

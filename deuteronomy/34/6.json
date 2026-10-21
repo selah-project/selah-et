@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ja ⟨tema⟩ mattis",
-      "rationale": "Heebrea puudub tegija: kes mattis Moše — Jahve ise (puudub nimisõna) või järgmine jutt; tõlked lähevad lahku."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tema⟩",
-      "rationale": "Eesti keel nõuab tegevussõna jaoks subjekti; heebrea jätab selle nimetamata."
-    }
-  ],
-  "translation": "Ja ⟨tema⟩ mattis ⟨את⟩ ta orusse Moabi maal, Beit-Peori ees, ja ükski inimene ei tea tema haua kohta ⟨asukohta⟩ kuni tänapäevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/34\/5-8.1792541299085.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨tema⟩ mattis ⟨את⟩ teda oru ⟨sse⟩ Moabi maal, Beit-Peori ees, ja ükski inimene ei tea ⟨את⟩ tema hauda kuni tänapäevani.",
   "tokens": [
     {
       "surface": "ויקבר",
-      "gloss": "ja mattis"
+      "gloss": "Ja mattis"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "ta"
+      "gloss": "⟨את⟩ teda",
+      "marks": "tema (Moše)"
     },
     {
       "surface": "בגי",
-      "gloss": "orusse"
+      "gloss": "orus"
     },
     {
       "surface": "בארץ",
@@ -76,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema haua kohta"
+      "marks": "tema hauda"
     },
     {
       "surface": "קברתו",
-      "gloss": "tema haua kohta"
+      "gloss": "tema hauda"
     },
     {
       "surface": "עד",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "seda"
+      "gloss": "selle"
     }
   ],
-  "timestamp": "2026-10-21T00:08:19.085931384Z",
+  "timestamp": "2026-10-21T06:03:29.916482992Z",
   "model": "glm-5.3"
 }

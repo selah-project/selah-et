@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea ei ütle kopulat 'on' - לי 'minu jaoks' nõuab eesti keeles sõna 'on'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "suundeline eessõna 'poole\/alla' sulandub eesti 'alla' sisse"
-    }
-  ],
-  "translation": "Ja kuningas ütles neile: Võtke enesega kaasa ⟨את⟩ oma isanda teenrid ja istutage minu poeg Šelomo minu muulile, ja viige ⟨את⟩ teda alla Gihhoni.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/1\/33-36.1792545122278.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas ütles neile: Võtke endaga kaasa ⟨את⟩ oma isanda teenrid ja istutage ⟨את⟩ Šelomo, mu poeg, mu muulile ning viige ta alla Gihhoni.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "המלך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "enesega kaasa"
+      "gloss": "endaga kaasa"
     },
     {
       "surface": "את",
@@ -63,12 +42,12 @@
     },
     {
       "surface": "והרכבתם",
-      "gloss": "ja pange istuma (ratsutama)"
+      "gloss": "istutage"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minu poeg Šelomo"
+      "marks": "Šelomo, mu poeg"
     },
     {
       "surface": "שלמה",
@@ -76,19 +55,19 @@
     },
     {
       "surface": "בני",
-      "gloss": "minu poeg"
+      "gloss": "mu poeg"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": "…-peale"
     },
     {
       "surface": "הפרדה",
-      "gloss": "muuli"
+      "gloss": "muulile"
     },
     {
       "surface": "אשר",
-      "gloss": "kes"
+      "gloss": "mis"
     },
     {
       "surface": "לי",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "והורדתם",
-      "gloss": "ja viige alla"
+      "gloss": "viige alla"
     },
     {
       "surface": "אתו",
@@ -105,13 +84,13 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kuni"
     },
     {
       "surface": "גחון",
-      "gloss": "Gihhon"
+      "gloss": "Gihhoni"
     }
   ],
-  "timestamp": "2026-10-21T01:12:02.281727461Z",
+  "timestamp": "2026-10-21T05:50:19.877758472Z",
   "model": "glm-5.3"
 }

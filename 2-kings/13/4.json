@@ -5,45 +5,24 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לחץ",
-      "rationale": "Sama juur κordub: nimisõna 'ahastus' ja tegusõna 'suruma' — sõnamäng, eestis kaks erinevat sõna"
-    },
-    {
-      "kind": "substitution",
-      "subject": "lepis palega",
-      "rationale": "חלל פני otsetähendus 'hõõrus pale' — armu palumise idiom"
-    }
-  ],
-  "translation": "Ja Jehoahas lepis Jahve palega, ja Jahve kuulis teda, sest ta nägi ⟨את⟩ Iisraeli ahastust, sest Arami kuningas surus neid kokku.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/13\/1-4.1792546202126.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jooahas palus ⟨את⟩ Jahve nägu, ja Jahve kuulis teda, sest ta nägi ⟨את⟩ Jisraeli ahastust, sest ahastas ⟨את⟩ neid Arami kuningas.",
   "tokens": [
     {
       "surface": "ויחל",
-      "gloss": "ja lepis"
+      "gloss": "palus"
     },
     {
       "surface": "יהואחז",
-      "gloss": "Jehoahas"
+      "gloss": "Jooahas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "palega"
+      "marks": "Jahve nägu"
     },
     {
       "surface": "פני",
-      "gloss": "pale"
+      "gloss": "nägu"
     },
     {
       "surface": "יהוה",
@@ -66,13 +45,13 @@
       "gloss": "sest"
     },
     {
-      "surface": "raאה",
-      "gloss": " nägi"
+      "surface": "ראה",
+      "gloss": "nägi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ahastust"
+      "marks": "Jisraeli ahastust"
     },
     {
       "surface": "לחץ",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Iisraeli"
+      "gloss": "Jisraeli"
     },
     {
       "surface": "כי",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "לחץ",
-      "gloss": "surus kokku"
+      "gloss": "ahastas"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid",
+      "gloss": "⟨את⟩",
       "marks": "neid"
     },
     {
@@ -104,6 +83,6 @@
       "gloss": "Arami"
     }
   ],
-  "timestamp": "2026-10-21T01:30:02.129531718Z",
+  "timestamp": "2026-10-21T05:56:39.120425054Z",
   "model": "glm-5.3"
 }

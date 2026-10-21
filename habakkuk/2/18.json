@@ -5,50 +5,19 @@
   "book": "habakkuk",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פסל\/פסלו · יצר\/יצרו\/יצרו",
-      "rationale": "Kolm korduvat juurt: 'nikerdama\/nikerdatud kuju' ja 'kujundama\/kujund\/kujundis' — sõnamäng, mis eesti keeles ainult osaliselt säilib."
-    },
-    {
-      "kind": "crux",
-      "subject": "ומורה שקר",
-      "rationale": "'vale õpetaja' — žargoonis kas idoli kohta või kujundaja kohta; enamik lugemisi seostab ebanõudlike unistuste õpetajaga (Jer 14:14)."
-    },
-    {
-      "kind": "elision",
-      "subject": "עליו",
-      "rationale": "Eessõna 'tema peal' sulandus eesti vältefraasi 'oma kujundise peal' — eraldi sõnana jäi üle."
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti keel nõuab küsimelauses kopeleti, heebreas seda pole."
-    }
-  ],
-  "translation": "Mis kasu ⟨on⟩ nikerdatud kujul, et tema nikerdaja seda nikerdas — valatud kuju ja vale õpetaja? Sest tema kujundaja loodab oma kujundise peal, tehes jumalusi, kes ei saa rääkida.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "83223080a0d5f7a3a524481ff19b1866cadb68d1e4f865f85b2f6e6c33d8828f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/habakkuk\/2\/17-20.1792551800576.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mida kasu ⟨annab⟩ kuju, et selle raiuja seda raius — valatud pilt ja valetuse õpetaja — et selle kujundaja loodab oma kujutise peale, et teha ebajumalaid, kes ⟨ei saa⟩ rääkida?",
   "tokens": [
     {
       "surface": "מה",
-      "gloss": "mis"
+      "gloss": "mida"
     },
     {
       "surface": "הועיל",
-      "gloss": "kasu ⟨on⟩"
+      "gloss": "kasu"
     },
     {
       "surface": "פסל",
-      "gloss": "nikerdatud kujul"
+      "gloss": "kuju"
     },
     {
       "surface": "כי",
@@ -56,15 +25,15 @@
     },
     {
       "surface": "פסלו",
-      "gloss": "tema nikerdaja"
+      "gloss": "raijus"
     },
     {
       "surface": "יצרו",
-      "gloss": "seda nikerdas"
+      "gloss": "selle"
     },
     {
       "surface": "מסכה",
-      "gloss": "valatud kuju"
+      "gloss": "valatud pilt"
     },
     {
       "surface": "ומורה",
@@ -72,11 +41,11 @@
     },
     {
       "surface": "שקר",
-      "gloss": "vale"
+      "gloss": "valetuse"
     },
     {
       "surface": "כי",
-      "gloss": "sest"
+      "gloss": "et"
     },
     {
       "surface": "בטח",
@@ -84,29 +53,29 @@
     },
     {
       "surface": "יצר",
-      "gloss": "tema kujundaja"
+      "gloss": "kujundaja"
     },
     {
       "surface": "יצרו",
-      "gloss": "oma kujundise peal"
+      "gloss": "oma kujutise peale"
     },
     {
       "surface": "עליו",
-      "gloss": ""
+      "gloss": "selle peale"
     },
     {
       "surface": "לעשות",
-      "gloss": "tehes"
+      "gloss": "et teha"
     },
     {
       "surface": "אלילים",
-      "gloss": "jumalusi"
+      "gloss": "ebajumalaid"
     },
     {
       "surface": "אלמים",
       "gloss": "kes ei saa rääkida"
     }
   ],
-  "timestamp": "2026-10-21T03:03:20.578422322Z",
+  "timestamp": "2026-10-21T06:17:40.613300494Z",
   "model": "glm-5.3"
 }

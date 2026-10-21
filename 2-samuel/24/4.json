@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויחזק",
-      "rationale": "otsetähendus 'tugevnes' — 'kuninga sõna jäi kindlaks' ehk võitis Joabi vastuseisu"
-    },
-    {
-      "kind": "measurement",
-      "subject": "loendama",
-      "rationale": "rahvaloenduse teostumine — loendamise köide"
-    }
-  ],
-  "translation": "Aga kuninga sõna jäi kindlaks Joabi ja väe ülemate suhtes, ja Joab ja väe ülemad läksid välja kuninga palgest loendama ⟨את⟩ rahvast, ⟨את⟩ Jisraeli.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/24\/1-4.1792545037924.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga kuninga sõna sai võimaks Joabi ja väepealike üle, ja Joab läks välja koos väepealikega kuninga palge eest, üles lugema ⟨את⟩ rahvast, ⟨את⟩ Jisraeli.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "jäi kindlaks"
+      "gloss": "sai võimaks"
     },
     {
       "surface": "דבר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ü"
     },
     {
       "surface": "יואב",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ja ... suhtes"
+      "gloss": "ja üle"
     },
     {
       "surface": "שרי",
-      "gloss": "ülemate"
+      "gloss": "pealike"
     },
     {
       "surface": "החיל",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "ja läksid välja"
+      "gloss": "ja läks välja"
     },
     {
       "surface": "יואב",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "ja ülemad"
+      "gloss": "ja pealikud"
     },
     {
       "surface": "החיל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "palgest"
+      "gloss": "palge eest"
     },
     {
       "surface": "המלך",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "לפקד",
-      "gloss": "loendama"
+      "gloss": "üles lugema"
     },
     {
       "surface": "את",
@@ -107,6 +86,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T01:10:37.927825061Z",
+  "timestamp": "2026-10-21T06:00:16.913890765Z",
   "model": "glm-5.3"
 }

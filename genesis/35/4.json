@@ -5,50 +5,24 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tamm",
-      "rationale": "האלה: 'tamm' vs 'terebint' – KJV tamm, JPS terebint; sõna katab mõlemad tugevad puud."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ninasõrmused",
-      "rationale": "נזם on sõna-sõnalt nina-rõngas, kuigi siin kantakse neid kõrvades – heebrea sõna kuju säilitatud."
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "עם שכם tähendab sõna-sõnalt 'koos Šekemiga'; eestis loomulikum 'Šekemi juures' – releeritud prepositsioon."
-    }
-  ],
-  "translation": "Ja nad andsid Jaakobile ⟨את⟩ kõik võõra rahva jumalad, kes olid nende käes, ja ⟨את⟩ ninasõrmused, mis olid nende kõrvades; ja Jaakob varjas nad tamme alla, mis on Šekemi juures.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/35\/1-4.1792537953170.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad andsid Jaakovile ⟨את⟩ kõik võõra jumalad, kes nende käes olid, ja ⟨את⟩ kõrvaehted, mis nende kõrvades olid; ja Jaakov mattis nad võra tamme alla, mis on Shekemi juures.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "ja andsid"
+      "gloss": "ja nad andsid"
     },
     {
       "surface": "אל",
-      "gloss": "Jaakobile"
+      "gloss": "Jaakovile"
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakob"
+      "gloss": "Jaakovile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik võõra rahva jumalad"
+      "marks": "kõik võõra jumalad"
     },
     {
       "surface": "כל",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "הנכר",
-      "gloss": "võõra rahva"
+      "gloss": "võõra"
     },
     {
       "surface": "אשר",
@@ -68,16 +42,16 @@
     },
     {
       "surface": "בידם",
-      "gloss": "olid nende käes"
+      "gloss": "nende käes"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "ninasõrmused"
+      "marks": "kõrvaehted"
     },
     {
       "surface": "הנזמים",
-      "gloss": "ninasõrmused"
+      "gloss": "kõrvaehted"
     },
     {
       "surface": "אשר",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "באזניהם",
-      "gloss": "olid nende kõrvades"
+      "gloss": "nende kõrvades"
     },
     {
       "surface": "ויטמן",
-      "gloss": "ja varjas"
+      "gloss": "ja mattis"
     },
     {
       "surface": "אתם",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakob"
+      "gloss": "Jaakov"
     },
     {
       "surface": "תחת",
@@ -113,13 +87,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "on"
+      "gloss": "on ... juures"
     },
     {
       "surface": "שכם",
-      "gloss": "Šekemi juures"
+      "gloss": "Shekem"
     }
   ],
-  "timestamp": "2026-10-20T23:12:33.172866232Z",
+  "timestamp": "2026-10-21T06:15:56.407050457Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "öeldes",
-      "rationale": "לאמר on tavaConnector; eesti keeles käändeline 'Mošele' kannab eessõna אל enda sees"
-    }
-  ],
-  "translation": "Ja Jahve rääkis Mošele, öeldes:",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/9-12.1792539530335.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve rääkis Mošega, öeldes:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Ja rääkis"
+      "gloss": "ja rääkis"
     },
     {
       "surface": "יהוה",
@@ -33,17 +17,17 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "koos"
     },
     {
       "surface": "משה",
-      "gloss": "Mošele"
+      "gloss": "Mošega"
     },
     {
       "surface": "לאמר",
       "gloss": "öeldes"
     }
   ],
-  "timestamp": "2026-10-20T23:38:50.336361218Z",
+  "timestamp": "2026-10-21T06:28:40.758649135Z",
   "model": "glm-5.3"
 }

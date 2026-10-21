@@ -5,36 +5,10 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "במגרה ובחרצי הברזל",
-      "rationale": "KJV asemele: hukkamine sae ja rõskastega; 1Aj 20:3 paralleeltext ('lõikas nendega') ja BSB toetavad sunnitööle panemist — heebrea ל S hitpaeli küsimus jääb avatuks."
-    },
-    {
-      "kind": "crux",
-      "subject": "במלכן",
-      "rationale": "'tellisahjast \/ tellisteljandist läbi' — hukkamisviis vs telliste kandmine või tellistel köökides töötamine."
-    },
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "'rahva, kes selles' — eesti keele sujuvuseks lisatud verbiase."
-    }
-  ],
-  "translation": "Ja ⟨את⟩ rahva, kes seal oli, viis ta välja ja pani nad sae alla ja rauast rõskaste alla ja rauast kirveste alla ja laskis nad läbi tellisahju; ja nõnda ta tegi kõigi Ammoni poegade linnadega. Ja David ning kogu rahva pöördusid tagasi Jerušalaimi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "936d153ee2b2f78b34c4651dd78800f3303730400f4a93745dea4a8f2079fe3f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/12\/29-31.1792544658848.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ rahva, kes seal ⟨oli⟩, tõi ta välja ja pani nad sae alla, ja rauast lõikusharjade alla, ja rauast kirveste alla, ja lasi nad läbida telliseahju; ja nõnda tegi ta kõigi Ammoni poegade linnadega. Ja David tuli tagasi ja kogu rahvas Jerušalaimi.",
   "tokens": [
     {
-      "surface": "וית",
+      "surface": "ואת",
       "gloss": "⟨את⟩",
       "marks": "rahva"
     },
@@ -52,7 +26,7 @@
     },
     {
       "surface": "הוציא",
-      "gloss": "viis välja"
+      "gloss": "tõi ta välja"
     },
     {
       "surface": "וישם",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "במגרה",
-      "gloss": "sae"
+      "gloss": "sae alla"
     },
     {
       "surface": "ובחרצי",
-      "gloss": "ja rauast rõskaste"
+      "gloss": "ja lõikusharjade alla"
     },
     {
       "surface": "הברזל",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "ובמגזרת",
-      "gloss": "ja rauast kirveste"
+      "gloss": "ja kirveste alla"
     },
     {
       "surface": "הברזל",
@@ -80,15 +54,16 @@
     },
     {
       "surface": "והעביר",
-      "gloss": "ja laskis nad läbi"
+      "gloss": "ja lasi läbida"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ nad",
+      "marks": "telliseahju"
     },
     {
       "surface": "במלכן",
-      "gloss": "tellisahjust"
+      "gloss": "telliseahju"
     },
     {
       "surface": "וכן",
@@ -96,15 +71,15 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "ta tegi"
+      "gloss": "tegi ta"
     },
     {
       "surface": "לכל",
-      "gloss": "kõigile"
+      "gloss": "kõigi"
     },
     {
       "surface": "ערי",
-      "gloss": "linnadele"
+      "gloss": "linnadega"
     },
     {
       "surface": "בני",
@@ -116,7 +91,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "ja pöördus tagasi"
+      "gloss": "ja tuli tagasi"
     },
     {
       "surface": "דוד",
@@ -128,13 +103,13 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahva"
+      "gloss": "rahvas"
     },
     {
       "surface": "ירושלם",
       "gloss": "Jerušalaimi"
     }
   ],
-  "timestamp": "2026-10-21T01:04:18.850668222Z",
+  "timestamp": "2026-10-21T05:59:26.902004504Z",
   "model": "glm-5.3"
 }

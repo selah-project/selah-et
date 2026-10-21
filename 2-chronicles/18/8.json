@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨tooma⟩",
-      "rationale": "heebrea ütleb üksnes 'kiirusta Mikja'; eesti keeles vajab tegevusverbi"
-    },
-    {
-      "kind": "crux",
-      "subject": "סריס",
-      "rationale": "sõna tähendab nii 'eunuhh' kui 'õukondlane, kammerteener'; KJV 'officer' pehmendab"
-    }
-  ],
-  "translation": "Ja Jisraeli kuningas kutsus ühe eunuhhi ja ütles: kiiruta ⟨tooma⟩ Miikja, Jimla poeg.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/18\/5-8.1792557954599.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jisraeli kuningas kutsus ühe õukondlase ja ütles: Too kiiresti Mikahu, Jimla poeg.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "kutsus"
+      "gloss": "ja kutsus"
     },
     {
       "surface": "מלך",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ühe"
     },
     {
       "surface": "סריס",
-      "gloss": "eunuhhi"
+      "gloss": "õukondlase"
     },
     {
       "surface": "אחד",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "מהר",
-      "gloss": "kiiruta"
+      "gloss": "kiiresti"
     },
     {
       "surface": "מיכהו",
-      "gloss": "Miikja"
+      "gloss": "Mikahu"
     },
     {
       "surface": "בן",
@@ -73,6 +52,6 @@
       "gloss": "Jimla"
     }
   ],
-  "timestamp": "2026-10-21T04:45:54.600784536Z",
+  "timestamp": "2026-10-21T05:54:29.235915932Z",
   "model": "glm-5.3"
 }

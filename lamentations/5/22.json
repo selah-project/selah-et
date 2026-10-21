@@ -5,67 +5,41 @@
   "book": "lamentations",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אם",
-      "rationale": "Lahtimõtestatud: 'sest sina oled...' tõdesena (KJV, ASV) vs küsivana 'Kas sa oled...?' (YLt, JPS) — nutulaulu lõpp jätab vastuse lahtiseks."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מאס מאסתנו",
-      "rationale": "Sama juur kaks korda: 'põlguse põlgasid sa meid' — täielik intensiiv, eesti keeles 'täielikult ära põlanud'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם tervikuna tähistab tugevat eitust\/küsimust; eraldi sõnana ei leia eesti vaste."
-    }
-  ],
-  "translation": "Sest sina oled meid täielikult ära põlanud, sina oled väga vihastanud meie vastu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0c3c4822f3af333e0bc3f5c911d84cce07cdbdee7a52c3d135584c4936959580",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/5\/21-22.1792555970084.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest kas Sa oled meid täiesti ära põlanud, oled vihastanud meie peale väga?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sest"
+      "gloss": "sest"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kas"
     },
     {
       "surface": "מאס",
-      "gloss": "täielikult"
+      "gloss": "täiesti ära"
     },
     {
       "surface": "מאסתנו",
-      "gloss": "oled meid ära põlanud"
+      "gloss": "põlanud meid"
     },
     {
       "surface": "קצפת",
-      "gloss": "sina oled vihastanud"
+      "gloss": "oled vihastanud"
     },
     {
       "surface": "עלינו",
-      "gloss": "meie vastu"
+      "gloss": "meie peale"
     },
     {
       "surface": "עד",
-      "gloss": "kuni"
+      "gloss": "väga"
     },
     {
       "surface": "מאד",
-      "gloss": "väga"
+      "gloss": "(väga)"
     }
   ],
-  "timestamp": "2026-10-21T04:12:50.084964679Z",
+  "timestamp": "2026-10-21T06:27:08.882972570Z",
   "model": "glm-5.3"
 }

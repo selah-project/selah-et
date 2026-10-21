@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי יהוה",
-      "rationale": "Sõna-sõnalt 'Jahve suu peal' — idiom 'käsu järgi'; eesti keeles 'Jahve suu sõna järgi' hoiab pildi osaliselt alles."
-    },
-    {
-      "kind": "substitution",
-      "subject": "פקד",
-      "rationale": "Juure פקד tähendab nii 'loendama' kui 'määrama\/kohustama' — siin mõlemad tähendused korraga."
-    },
-    {
-      "kind": "measurement",
-      "subject": "loendus",
-      "rationale": "Levite loendamise kord: igaüks tema teenistuse ja koorma järgi."
-    }
-  ],
-  "translation": "Jahve suu sõna järgi loeti nad Moše käe läbi kokku, igaüks tema teenistuse ja tema koorma peale; ja nende loenduse, mille Jahve käskis ⟨את⟩ Mošet.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ad0be53cd011fd1b25b3646785532cc2247fa5f3978d21de7e063553b9c1a3e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/49-49.1792539768851.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve suu järgi loeti nad Moše käe läbi kokku, igaüks oma teenistuse ja oma koorma jaoks; ja nende loetud ⟨on⟩ ⟨את⟩ Mošele, nagu Jahve oli käskinud ⟨את⟩ Mošet.",
   "tokens": [
     {
       "surface": "על",
@@ -52,7 +26,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "nend"
+      "marks": "neid"
     },
     {
       "surface": "ביד",
@@ -68,35 +42,35 @@
     },
     {
       "surface": "איש",
-      "gloss": "(oma) kohal"
+      "gloss": "igaüks"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": "jaoks"
     },
     {
       "surface": "עבדתו",
-      "gloss": "teenistuse"
+      "gloss": "oma teenistuse"
     },
     {
       "surface": "ועל",
-      "gloss": "ja peale"
+      "gloss": "ja jaoks"
     },
     {
       "surface": "משאו",
-      "gloss": "koorma"
+      "gloss": "oma koorma"
     },
     {
       "surface": "ופקדיו",
-      "gloss": "ja nende loenduse"
+      "gloss": "ja nende loetud"
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "nagu"
     },
     {
       "surface": "צוה",
-      "gloss": "käskis"
+      "gloss": "oli käskinud"
     },
     {
       "surface": "יהוה",
@@ -109,9 +83,9 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moše"
+      "gloss": "Mošet"
     }
   ],
-  "timestamp": "2026-10-20T23:42:48.852313665Z",
+  "timestamp": "2026-10-21T06:35:46.105288156Z",
   "model": "glm-5.3"
 }

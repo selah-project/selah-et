@@ -5,32 +5,11 @@
   "book": "daniel",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Aramaic lacks a verb 'to be'; the copula is added in brackets"
-    },
-    {
-      "kind": "substitution",
-      "subject": "väravas",
-      "rationale": "בתרע is literally 'door\/palace gate'; 'sitting at the gate' means serving at the royal court"
-    }
-  ],
-  "translation": "Ja Danijel palus kuningalt, ja ta määras Šadrakí, Meišakí ja Aved-Nego Babilooni provintsi asjade üle; ja Daniyel ⟨oli⟩ kuninga väravas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5abacca2851db1c1188a9882e7e090bff95f942a7bdb6fbbe80f7f73d5999781",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/2\/49-49.1792556297201.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Daniël palus kuningalt, ja tema määras üle Babüloni provintsi asjad Šadrakile, Mešakile ja Abed-Negole; aga Daniël ⟨oli⟩ kuninga väravas.",
   "tokens": [
     {
       "surface": "ודניאל",
-      "gloss": "Ja Danijel"
+      "gloss": "Ja Daniël"
     },
     {
       "surface": "בעא",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "עבידתא",
-      "gloss": "asjade"
+      "gloss": "asjad"
     },
     {
       "surface": "די",
@@ -66,27 +45,27 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babiloonia"
+      "gloss": "Babüloni"
     },
     {
       "surface": "לשדרך",
-      "gloss": "Šadrakí"
+      "gloss": "Šadrakile"
     },
     {
       "surface": "מישך",
-      "gloss": "Meišakí"
+      "gloss": "Mešakile"
     },
     {
       "surface": "ועבד",
-      "gloss": "ja Aved-"
+      "gloss": "ja Abed-"
     },
     {
       "surface": "נגו",
-      "gloss": "Nego"
+      "gloss": "Negole"
     },
     {
       "surface": "ודניאל",
-      "gloss": "ja Danijel"
+      "gloss": "aga Daniël"
     },
     {
       "surface": "בתרע",
@@ -97,6 +76,6 @@
       "gloss": "kuninga"
     }
   ],
-  "timestamp": "2026-10-21T04:18:17.202015647Z",
+  "timestamp": "2026-10-21T06:01:58.198521755Z",
   "model": "glm-5.3"
 }

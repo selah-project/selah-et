@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "למשעי",
-      "rationale": "hapax-lemma tähendus 'vaatamiseks\/hooldamiseks' — KJV 'to supple thee', JPS 'for cleansing'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jerušalaimile",
-      "rationale": "kogu salm otsene pöördumine linnastunud Jerušalaimi 'sina' kujundi kaudu"
-    }
-  ],
-  "translation": "Ja sinu sündimist — päeval, kui sind sünnitati, ei lõigatud su nabanööri, ega pestud sind veega ilmuseks, ega hõõrutud sind soolaga, ega mähitud sind mähkmetesse.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/16\/1-4.1792549843914.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sinu sündimises, päeval mil sind ilmale toodi, ei lõigatud ära sinu nabanööri, ja veega ei pestud sind puhastamiseks, ja soolaga ei hõõrutud sind, ja mähkmetesse ei mähitud sind.",
   "tokens": [
     {
       "surface": "ומולדותיך",
-      "gloss": "ja sinu sündimist"
+      "gloss": "ja sinu sündimises"
     },
     {
       "surface": "ביום",
@@ -38,32 +17,32 @@
     },
     {
       "surface": "הולדת",
-      "gloss": "sünnitati"
+      "gloss": "mil ilmale toodi"
     },
     {
       "surface": "אתך",
       "gloss": "⟨את⟩ sind",
-      "marks": "sind"
+      "marks": "sind (naissoost adressaat, Jerušalaim)"
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "mitte"
     },
     {
       "surface": "כרת",
-      "gloss": "lõigatud"
+      "gloss": "lõigatud ära"
     },
     {
       "surface": "שרך",
-      "gloss": "su nabanööri"
+      "gloss": "sinu nabanöör"
     },
     {
       "surface": "ובמים",
-      "gloss": "ega veega"
+      "gloss": "ja veega"
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "mitte"
     },
     {
       "surface": "רחצת",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "למשעי",
-      "gloss": "ilmuseks"
+      "gloss": "puhastamiseks"
     },
     {
       "surface": "והמלח",
-      "gloss": "ega soolaga"
+      "gloss": "ja soolaga"
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "mitte"
     },
     {
       "surface": "המלחת",
@@ -87,17 +66,17 @@
     },
     {
       "surface": "והחתל",
-      "gloss": "ega mähkmetesse"
+      "gloss": "ja mähkmetesse"
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "mitte"
     },
     {
       "surface": "חתלת",
       "gloss": "mähitud"
     }
   ],
-  "timestamp": "2026-10-21T02:30:43.915497062Z",
+  "timestamp": "2026-10-21T06:08:33.804684251Z",
   "model": "glm-5.3"
 }

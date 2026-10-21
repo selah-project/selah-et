@@ -5,28 +5,7 @@
   "book": "jonah",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "liisku heitmine",
-      "rationale": "liisk — lugemise ja määramise akt: kivi või kett, mis langetab otsuse"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויפלו \/ ויפל הגורל",
-      "rationale": "kolmekordne 'langemine' (נפל) salmis rõhutab liisku langemist — eesti keeles jääb kordus osaliselt"
-    }
-  ],
-  "translation": "Ja nad ütlesid igaüks oma kaaslasele: Tulge, heitkem liisku, et teaksime, kelle pärast see õnnetus meile tabanud on. Ja nad heitsid liisku, ja liisk langes Joonale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a0c7e3fbcf2dbf189bfe1c9d1a1a548e78aaf482f16ee971671b8ba9c0e34ccb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jonah\/1\/5-8.1792551486731.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad ütlesid igaüks oma kaaslasele: Tulge, heitkem liisku, et teada saaksime, kelle pärast see halb ⟨on⟩ meie kallal. Ja nad heitsid liisku, ja liisk langes Joona peale.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "oma kaaslasele"
     },
     {
       "surface": "רעהו",
-      "gloss": "oma kaaslasele"
+      "gloss": "kaaslane"
     },
     {
       "surface": "לכו",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "ונפילה",
-      "gloss": "heitkem"
+      "gloss": "heitkem liisku"
     },
     {
       "surface": "גורלות",
-      "gloss": "liisku"
+      "gloss": "liisk"
     },
     {
       "surface": "ונדעה",
-      "gloss": "et teaksime"
+      "gloss": "et teada saaksime"
     },
     {
       "surface": "בשלמי",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "see õnnetus"
+      "gloss": "see halb"
     },
     {
       "surface": "הזאת",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "meile"
+      "gloss": "meie kallal"
     },
     {
       "surface": "ויפלו",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "גורלות",
-      "gloss": "liisku"
+      "gloss": "liisk"
     },
     {
       "surface": "ויפל",
@@ -94,13 +73,13 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "peale"
     },
     {
       "surface": "יונה",
-      "gloss": "Joonale"
+      "gloss": "Joona"
     }
   ],
-  "timestamp": "2026-10-21T02:58:06.732679178Z",
+  "timestamp": "2026-10-21T06:23:44.537971849Z",
   "model": "glm-5.3"
 }

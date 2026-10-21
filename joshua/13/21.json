@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vürstid",
-      "rationale": "נשיאי ja נסיכי kaks erinevat sõna, mõlemad 'vürstid'; heebrea erinevus eesti keeles sumbub"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ja⟩",
-      "rationale": "Eesti jaatav sidesõna, mida heebrea ואת ei ütle"
-    }
-  ],
-  "translation": "ja kõik tasandiku linnad ja kogu Sihhoni, emorlaste kuninga, kuningriik, kes valitses Hhešbonis; tema lõi Moše, ⟨ja⟩ ka Midiani vürstid ⟨את⟩: ⟨את⟩ Evi ja ⟨את⟩ Rekemi ja ⟨את⟩ Tsuri ja ⟨את⟩ Huri ja ⟨את⟩ Reba, Sihhoni vürstid, maa asukad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1e40b2b2ecabc68850feffe9029de7d0556398db8a4973938d2d009a0f203185",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/13\/21-24.1792541538794.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja kõik tasandiku linnad ja kogu Sihoni kuningriik, emorlaste kuningas, kes valitses Heshbonis, kelle Moše lõi ⟨את⟩ ta ja ⟨את⟩ Midjani vürstid: ⟨את⟩ Evi ja ⟨את⟩ Rekemi ja ⟨את⟩ Tsuri ja ⟨את⟩ Huri ja ⟨את⟩ Reba, Sihoni ülikud, kes elasid maal.",
   "tokens": [
     {
       "surface": "וכל",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "סיחון",
-      "gloss": "Sihhoni"
+      "gloss": "Sihoni"
     },
     {
       "surface": "מלך",
-      "gloss": "kuninga"
+      "gloss": "kuningas"
     },
     {
       "surface": "האמרי",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "בחשבון",
-      "gloss": "Hhešbonis"
+      "gloss": "Heshbonis"
     },
     {
       "surface": "אשר",
-      "gloss": "keda"
+      "gloss": "kelle"
     },
     {
       "surface": "הכה",
-      "gloss": "löi"
+      "gloss": "lõi"
     },
     {
       "surface": "משה",
@@ -87,12 +66,12 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "tema"
+      "marks": "ta (Sihoni)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ka Midiani vürstid"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Midjani vürstid"
     },
     {
       "surface": "נשיאי",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "מדין",
-      "gloss": "Midiani"
+      "gloss": "Midjani"
     },
     {
       "surface": "את",
@@ -113,8 +92,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Rekemi"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Rekem"
     },
     {
       "surface": "רקם",
@@ -122,8 +101,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Tsuri"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Tsur"
     },
     {
       "surface": "צור",
@@ -131,8 +110,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Huri"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Hur"
     },
     {
       "surface": "חור",
@@ -140,7 +119,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "Reba"
     },
     {
@@ -149,21 +128,21 @@
     },
     {
       "surface": "נסיכי",
-      "gloss": "vürstid"
+      "gloss": "ülikud"
     },
     {
       "surface": "סיחון",
-      "gloss": "Sihhoni"
+      "gloss": "Sihoni"
     },
     {
       "surface": "ישבי",
-      "gloss": "asukad"
+      "gloss": "kes elasid"
     },
     {
       "surface": "הארץ",
-      "gloss": "maa"
+      "gloss": "maal"
     }
   ],
-  "timestamp": "2026-10-21T00:12:18.795547893Z",
+  "timestamp": "2026-10-21T06:24:05.724850192Z",
   "model": "glm-5.3"
 }

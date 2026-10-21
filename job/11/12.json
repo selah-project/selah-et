@@ -5,37 +5,11 @@
   "book": "job",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נבוב \/ ילבב",
-      "rationale": "Tüvi-mäng 'õõnes' ja 'süda' — õõnes inimene omandaks südame sama vähem kui seažoori varss sünniks inimesena"
-    },
-    {
-      "kind": "crux",
-      "subject": "פרא",
-      "rationale": "Seažoor (metsiste eeslite liik) — tõlkes mets-eesel vs seažoor; loomatabel lubab ühe kirjapildi"
-    },
-    {
-      "kind": "hapax",
-      "subject": "נבוב",
-      "rationale": "'õõnes' — haruldane sõna, esineb Tanahhis väga vähe"
-    }
-  ],
-  "translation": "Ja õõnes mees saab südame, kui seažoori varss sünnib inimeseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/11\/9-12.1792555192745.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja õõnes inimene saab südame, ja eesli-varsi, inimese-poeg, sünnib mets-eeslist.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ja mees"
+      "gloss": "ja inimene"
     },
     {
       "surface": "נבוב",
@@ -47,21 +21,21 @@
     },
     {
       "surface": "ועיר",
-      "gloss": "kui varss"
+      "gloss": "ja eesli-vars"
     },
     {
       "surface": "פרא",
-      "gloss": "seažoori"
+      "gloss": "mets-eesel"
     },
     {
       "surface": "אדם",
-      "gloss": "inimeseks"
+      "gloss": "inimese-poeg"
     },
     {
       "surface": "יולד",
-      "gloss": "syntib"
+      "gloss": "sünnib"
     }
   ],
-  "timestamp": "2026-10-21T03:59:52.745957816Z",
+  "timestamp": "2026-10-21T06:22:59.589747203Z",
   "model": "glm-5.3"
 }

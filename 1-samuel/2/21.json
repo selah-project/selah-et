@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "sideühendus lause alguses, eesti keeles ei vaja eraldi sõna"
-    },
-    {
-      "kind": "crux",
-      "subject": "פקד",
-      "rationale": "'külastas\/pööras tähelepanu' vs 'puudutas meelde' — JPS 'remembered', KJV 'visited'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "עם יהוה",
-      "rationale": "'Jahve juures' vs 'koos Jahvega' — YLT võtab 'with Jehovah' sõna-sõnalt"
-    }
-  ],
-  "translation": "Jahve pööras tähelepanu ⟨את⟩ Hannale, ja ta sai lapseootusele ja sünnitas kolm poega ja kaks tütart, ja nooruk Šemuël kasvas Jahve juures.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "db67b48edf7b2cadffeb84492376b0055ecaff90a0424ad8bde9f7cae53c8f04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/2\/21-24.1792543736265.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve külastas ⟨את⟩ Hannat, ja tema hakkas last ootama ja sünnitas kolm poega ja kaks tütart; ja nooruk Šmuel kasvas Jehve juures.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "פקד",
-      "gloss": "pööras tähelepanu"
+      "gloss": "külastas"
     },
     {
       "surface": "יהוה",
@@ -48,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hanna"
+      "marks": "Hannat"
     },
     {
       "surface": "חנה",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "ותהר",
-      "gloss": "ja sai lapseootusele"
+      "gloss": "hakkas last ootama"
     },
     {
       "surface": "ותלד",
-      "gloss": "ja sünnitas"
+      "gloss": "sünnitas"
     },
     {
       "surface": "שלשה",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "ושתי",
-      "gloss": "ja kaks"
+      "gloss": "kaks"
     },
     {
       "surface": "בנות",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "ויגדל",
-      "gloss": "ja kasvas"
+      "gloss": "kasvas"
     },
     {
       "surface": "הנער",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuël"
+      "gloss": "Šmuel"
     },
     {
       "surface": "עם",
@@ -99,6 +73,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T00:48:56.267646702Z",
+  "timestamp": "2026-10-21T05:53:15.167067486Z",
   "model": "glm-5.3"
 }

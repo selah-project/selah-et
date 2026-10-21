@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "valguse maadel",
-      "rationale": "באורים: 'leegid' (KJV 'tules'), 'idamaa' (ASV), 'valguse piirkonnad' (JPS)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨austage⟩",
-      "rationale": "teine tegusõna kordub heebreas ainult nimena 'šem' kaudu; eesti keeles lisatud kord"
-    },
-    {
-      "kind": "invitation",
-      "subject": "austage Jahvet",
-      "rationale": "käsitud hüüd kogudusele — kutsuv imperatiiv"
-    }
-  ],
-  "translation": "Seepärast austage Jahvet valguse maadel, mere saartel ⟨austage⟩ JAHVE, Jisraeli Elohimi nime.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cf400095f14c75b00c66a18167791ba0c9ed07a6c063a192fb001a2e3b3d17fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/24\/13-16.1792547004801.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Seepärast austage Jahvet valguse paikades, meresaadikel Jahvet, Jisraeli Elohimi nime.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Seepärast"
+      "gloss": "seepärast"
     },
     {
       "surface": "כן",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "בארים",
-      "gloss": "valguse maadel"
+      "gloss": "valguse paikades"
     },
     {
       "surface": "כבדו",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "באיי",
-      "gloss": "saartel"
+      "gloss": "meresaadikel"
     },
     {
       "surface": "הים",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "JAHVE"
+      "gloss": "Jahvet"
     },
     {
       "surface": "אלהי",
@@ -78,6 +52,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T01:43:24.802930100Z",
+  "timestamp": "2026-10-21T06:17:37.804035476Z",
   "model": "glm-5.3"
 }

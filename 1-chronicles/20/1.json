@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "aasta pöörde aeg",
-      "rationale": "תשובת השנה — aasta 'pöördumine', s.t. kevad, kuningaste sõjakäikude aeg"
-    },
-    {
-      "kind": "substitution",
-      "subject": "istus",
-      "rationale": "ישב 'istus' — 'viibis'; eesti kõla jätab istumise pildi"
-    }
-  ],
-  "translation": "Ja sündis aasta pöörde ajal, kuningate väljamineku ajal, et Joab viis välja sõjaväe väe ja laastas ⟨את⟩ Ammoni poegade maa, ja tuli ning piiras sisse ⟨את⟩ Rabbat; aga David istus Jerušalaimis. Ja Joab lõi ⟨את⟩ Rabbat ja lamas ta maha.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "166339903ef4d3dca5fe8bf8701053c1c4e8b4e368a6010bea850e3aea65c5cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/20\/1-4.1792557456958.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis aasta pöörde ajal, ajal, mil kuningad välja lähevad, et Joab viis välja ⟨את⟩ väe sõjaväest ja laastas ⟨את⟩ Ammoni poegade maa, ning tuli ja piiras ümber ⟨את⟩ Rabba; aga David istus Jerušalaimis; ja Joab lõi ⟨את⟩ Rabba ja hävitas ⟨selle⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "לעת",
-      "gloss": "ajal"
+      "gloss": "ajal, mil"
     },
     {
       "surface": "צאת",
-      "gloss": "väljamineku"
+      "gloss": "välja lähevad"
     },
     {
       "surface": "המלכים",
-      "gloss": "kuningate"
+      "gloss": "kuningad"
     },
     {
       "surface": "וינהג",
@@ -67,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sõjaväe väe"
+      "marks": "väe"
     },
     {
       "surface": "חיל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "הצבא",
-      "gloss": "sõjaväe"
+      "gloss": "sõjaväest"
     },
     {
       "surface": "וישחת",
@@ -84,7 +63,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ammoni poegade maa"
+      "marks": "maa"
     },
     {
       "surface": "ארץ",
@@ -104,16 +83,16 @@
     },
     {
       "surface": "ויצר",
-      "gloss": "ja piiras sisse"
+      "gloss": "ja piiras ümber"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rabbat"
+      "marks": "Rabba"
     },
     {
       "surface": "רבה",
-      "gloss": "Rabbat"
+      "gloss": "Rabba"
     },
     {
       "surface": "ודויד",
@@ -138,17 +117,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Rabbat"
+      "marks": "Rabba"
     },
     {
       "surface": "רבה",
-      "gloss": "Rabbat"
+      "gloss": "Rabba"
     },
     {
       "surface": "ויהרסה",
-      "gloss": "ja lamas ta maha"
+      "gloss": "ja hävitas ⟨selle⟩"
     }
   ],
-  "timestamp": "2026-10-21T04:37:36.959416843Z",
+  "timestamp": "2026-10-21T05:49:43.479808525Z",
   "model": "glm-5.3"
 }

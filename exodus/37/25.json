@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Heebrea puudub kopeer, eesti nõuab seda mõõduväljendi jaoks"
-    },
-    {
-      "kind": "measurement",
-      "subject": "altari mõõdud",
-      "rationale": "küünar mõõtudes: pikkus, laius, kõrgus"
-    }
-  ],
-  "translation": "Ja ta tegi suitsuohvrialtari šitimi puidust: üks küünar ⟨oli⟩ selle pikkus ja üks küünar selle laius — nelinurkne — ja kaks küünart selle kõrgus; selle sarved olid sellest ⟨enesest⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bd2c810335aca2d2e5f8427997d993fb929ade3d899797facc64565fc01a8f1b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/37\/25-28.1792539010740.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tegi ⟨את⟩ suitsutusaltari, akatsiapuidust: üks küünar ⟨oli⟩ tema pikkus ja üks küünar tema laius, nelinurkne, ja kaks küünart ⟨oli⟩ tema kõrgus; temast iseest olid tema sarved.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -35,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suitsuohvrialtari"
+      "marks": "suitsutusaltari"
     },
     {
       "surface": "מזבח",
-      "gloss": "altari"
+      "gloss": "suitsutusaltari"
     },
     {
       "surface": "הקטרת",
-      "gloss": "suitsuohvri"
+      "gloss": "suitsutus-"
     },
     {
       "surface": "עצי",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "שטים",
-      "gloss": "šitimi"
+      "gloss": "akatsia-"
     },
     {
       "surface": "אמה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "ארכו",
-      "gloss": "selle pikkus"
+      "gloss": "tema pikkus"
     },
     {
       "surface": "ואמה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "רחבו",
-      "gloss": "selle laius"
+      "gloss": "tema laius"
     },
     {
       "surface": "רבוע",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "קמתו",
-      "gloss": "selle kõrgus"
+      "gloss": "tema kõrgus"
     },
     {
       "surface": "ממנו",
-      "gloss": "sellest"
+      "gloss": "temast iseest"
     },
     {
       "surface": "היו",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "קרנתיו",
-      "gloss": "selle sarved"
+      "gloss": "tema sarved"
     }
   ],
-  "timestamp": "2026-10-20T23:30:10.741564365Z",
+  "timestamp": "2026-10-21T06:07:00.796022181Z",
   "model": "glm-5.3"
 }

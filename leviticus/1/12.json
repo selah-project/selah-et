@@ -5,40 +5,24 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ונתח \/ לנתחיו",
-      "rationale": "sama juur 'tükk' kaks korda: 'ta tükkideks-tükkideks', tegusõna ja nimisõna kõlasid"
-    }
-  ],
-  "translation": "Ja ta tükeldab selle oma tükkideks, ja ⟨את⟩ tema pea ja ⟨את⟩ tema rasva; ja preester seab nad puudele, mis on tulel, mis on altaril.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9bd2b52cafa60a50ad3b405c210a2b603f0498b7401045f1b4d9a7b74a1ec319",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/1\/9-12.1792539123318.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tükeldab ⟨את⟩ selle tükkideks ja ⟨את⟩ tema pea ning ⟨את⟩ tema rasva, ja preester seob need puudele, mis on tulel, mis on altaril.",
   "tokens": [
     {
       "surface": "ונתח",
-      "gloss": "ja ta tükeldab"
+      "gloss": "ja tükeldab"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ seda",
-      "marks": "selle"
+      "gloss": "⟨את⟩",
+      "marks": "selle (tükeldamise objekt)"
     },
     {
       "surface": "לנתחיו",
-      "gloss": "oma tükkideks"
+      "gloss": "tükkideks"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tema pea"
     },
     {
@@ -47,7 +31,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "tema rasva"
     },
     {
@@ -64,12 +48,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "nad"
+      "gloss": "⟨את⟩",
+      "marks": "need (tükkide, pea ja rasva)"
     },
     {
       "surface": "על",
-      "gloss": "puudele"
+      "gloss": "puudele — peale"
     },
     {
       "surface": "העצים",
@@ -81,7 +65,7 @@
     },
     {
       "surface": "על",
-      "gloss": "on"
+      "gloss": "peal"
     },
     {
       "surface": "האש",
@@ -93,13 +77,13 @@
     },
     {
       "surface": "על",
-      "gloss": "on"
+      "gloss": "peal"
     },
     {
       "surface": "המזבח",
       "gloss": "altaril"
     }
   ],
-  "timestamp": "2026-10-20T23:32:03.320969164Z",
+  "timestamp": "2026-10-21T06:28:13.436948426Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "amos",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השמיד אשמיד",
-      "rationale": "infinitiiv-absoluut + käänamine: 'hävitan hävitades' — täielik kordus, eesti peegeldab seda kahe samast tüvest sõnaga"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "kaasord 'sest\/sellepärast et' sulandub eestis sidesõnasse 'ainult et'"
-    },
-    {
-      "kind": "crux",
-      "subject": "אפס כי",
-      "rationale": "'ainult et \/ kui just mitte \/ välja arvatud' — piiritleb täieliku hävitungi jäägi"
-    }
-  ],
-  "translation": "Vaata, Adonai Jahve silmad on patustel kuningriigil, ja ma hävitan ⟨את⟩ selle maapinnalt; ainult et ma ei hävita hävitades ⟨את⟩ Jaakobi koja, ütleb Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "73c4d7db895e93b610bbd53c491839efecd9eb2329b73559cd8ea7ee468abb50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/9\/5-8.1792551484159.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, Adonai Jahve silmad on pööratud pattu tegeva kuningriigi poole, ja ma hävitan ⟨את⟩ selle maa pinnalt; ainult et ma ei hävita täielikult Jaakobi ehk hävitamata ei hävita ma Jaakobi maja — ütleb Jahve.",
   "tokens": [
     {
       "surface": "הנה",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "בממלכה",
-      "gloss": "kuningriigil"
+      "gloss": "kuningriigi"
     },
     {
       "surface": "החטאה",
-      "gloss": "patustel"
+      "gloss": "pattu tegeva"
     },
     {
       "surface": "והשמדתי",
@@ -63,15 +37,16 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ selle"
+      "gloss": "⟨את⟩",
+      "marks": "selle"
     },
     {
       "surface": "מעל",
-      "gloss": "maapinnalt"
+      "gloss": "pinnalt"
     },
     {
       "surface": "פני",
-      "gloss": "pinnalt"
+      "gloss": "pinna"
     },
     {
       "surface": "האדמה",
@@ -83,7 +58,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "לא",
@@ -91,20 +66,20 @@
     },
     {
       "surface": "השמיד",
-      "gloss": "hävita"
+      "gloss": "hävita täielikult"
     },
     {
       "surface": "אשמיד",
-      "gloss": "hävitudes"
+      "gloss": "hävitamata ei hävita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaakobi koda"
+      "marks": "Jaakobi maja"
     },
     {
       "surface": "בית",
-      "gloss": "koja"
+      "gloss": "maja"
     },
     {
       "surface": "יעקב",
@@ -119,6 +94,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:58:04.160838712Z",
+  "timestamp": "2026-10-21T06:01:54.737806661Z",
   "model": "glm-5.3"
 }

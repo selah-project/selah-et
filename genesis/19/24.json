@@ -5,59 +5,44 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "יהוה ... יהוה",
-      "rationale": "Nimi Jahve kordub salmis kaks korda — kord saatja, kord allika; kordus rõhutab, et häving tuleb otseselt Jähvalt."
-    }
-  ],
-  "translation": "Ja Jahve laskis sadada Sedomile ja Amorale väävlit ja tuld Jahve ⟨את⟩ käest, taevast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1b9c393f0642792d16d44d3439edc797b2e9bf6c9bea95040bc345850880ab16",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/19\/21-24.1792537579034.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve lasi sadada Sedomile ja Amorale väävlit ja tuld — Jahvelt ⟨את⟩ taevast.",
   "tokens": [
     {
       "surface": "ויהוה",
-      "gloss": "ja Jahve"
+      "gloss": "Ja Jahve"
     },
     {
       "surface": "המטיר",
-      "gloss": "laskis sadada"
+      "gloss": "lasi sadada"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "...-ile"
     },
     {
       "surface": "סדם",
-      "gloss": "Sedomile"
+      "gloss": "Sedom"
     },
     {
       "surface": "ועל",
-      "gloss": "ja"
+      "gloss": "ja ...-ile"
     },
     {
       "surface": "עמרה",
-      "gloss": "Amorale"
+      "gloss": "Amora"
     },
     {
       "surface": "גפרית",
-      "gloss": "väävlit"
+      "gloss": "väävel"
     },
     {
       "surface": "ואש",
-      "gloss": "ja tuld"
+      "gloss": "ja tuli"
     },
     {
       "surface": "מאת",
-      "gloss": "Jahve ⟨את⟩ käest"
+      "gloss": "⟨את⟩",
+      "marks": "Jahvelt"
     },
     {
       "surface": "יהוה",
@@ -65,13 +50,13 @@
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "...-st"
     },
     {
       "surface": "השמים",
       "gloss": "taevast"
     }
   ],
-  "timestamp": "2026-10-20T23:06:19.036026901Z",
+  "timestamp": "2026-10-21T06:14:13.100833749Z",
   "model": "glm-5.3"
 }

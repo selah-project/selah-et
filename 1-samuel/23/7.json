@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נכר",
-      "rationale": "nāḵar: 'on ära antud \/ antud teada' vs 'tehtud teatavaks' — enamik tõlkeid: 'ära antud mu kätte'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דלתים ובריח",
-      "rationale": "uksed ja pulgid — topelt sulgemise pilt, Šauli kinnitus, et David on lõksus"
-    }
-  ],
-  "translation": "Ja Šaulile teatati, et David oli tulnud Keilasse. Ja Šaul ütles: Elohim ⟨on⟩ ta ära andnud mu kätte, sest ta ⟨on⟩ sulgunud, tulles linna, millel on uksed ja pulgid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/23\/5-8.1792544128280.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Saulile anti teada, et David oli tulnud Keilasse; ja Saul ütles: Elohim on ⟨את⟩ ta ära andnud minu kätte, sest ta on suletud — tulles linna, millel on uksed ja riivid.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "teatati"
+      "gloss": "ja anti teada"
     },
     {
       "surface": "לשאול",
-      "gloss": "Šaulile"
+      "gloss": "Saulile"
     },
     {
       "surface": "כי",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaul"
+      "gloss": "Saul"
     },
     {
       "surface": "נכר",
-      "gloss": "ära andnud"
+      "gloss": "on ära andnud"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "Elohim"
+      "gloss": "⟨את⟩",
+      "marks": "Elohim — tema, keda ära antakse"
     },
     {
       "surface": "אלהים",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "בידי",
-      "gloss": "mu kätte"
+      "gloss": "minu kätte"
     },
     {
       "surface": "כי",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "נסגר",
-      "gloss": "sulgunud"
+      "gloss": "on suletud"
     },
     {
       "surface": "לבוא",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "ובריח",
-      "gloss": "ja pulgid"
+      "gloss": "ja riivid"
     }
   ],
-  "timestamp": "2026-10-21T00:55:28.284085744Z",
+  "timestamp": "2026-10-21T05:53:22.619029879Z",
   "model": "glm-5.3"
 }

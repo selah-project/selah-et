@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Jahve",
-      "rationale": "יהוה on Nimi; mitte Issand"
-    },
-    {
-      "kind": "idiom",
-      "subject": "mattes ta",
-      "rationale": "וקברו אתו sõna-sõnalt 'ja mattes teda'; eesti keeles täislause"
-    }
-  ],
-  "translation": "Ja kogu Jisrael leinab ⟨את⟩ teda ja mattes ta, sest see üksi tuleb Jerobeamile hauale, sest temas leiti hea asi Jehoova, Jisraeli Elohimi ees, Jerobeami soos.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/14\/13-16.1792545548615.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kogu Jisrael leinab teda ja matsed ⟨את⟩ ta, sest tema, üksi Jerobeami omadest, jääb hauani; sest temast leiti midagi head, Jahve, Jisraeli Elohimi silmis, Jerobeami soos.",
   "tokens": [
     {
       "surface": "וספדו",
@@ -46,11 +25,12 @@
     },
     {
       "surface": "וקברו",
-      "gloss": "ja matnud"
+      "gloss": "ja matsed"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda"
+      "gloss": "⟨את⟩",
+      "marks": "ta"
     },
     {
       "surface": "כי",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "see"
+      "gloss": "tema"
     },
     {
       "surface": "לבדו",
@@ -66,19 +46,19 @@
     },
     {
       "surface": "יבא",
-      "gloss": "tuleb"
+      "gloss": "jääb hauani"
     },
     {
       "surface": "לירבעם",
-      "gloss": "Jerobeamile"
+      "gloss": "Jerobeami omadest"
     },
     {
       "surface": "אל",
-      "gloss": "-le"
+      "gloss": "hauani"
     },
     {
       "surface": "קבר",
-      "gloss": "hauale"
+      "gloss": "hauta"
     },
     {
       "surface": "יען",
@@ -90,19 +70,19 @@
     },
     {
       "surface": "בו",
-      "gloss": "temas"
+      "gloss": "temast"
     },
     {
       "surface": "דבר",
-      "gloss": "asi"
+      "gloss": "midagi"
     },
     {
       "surface": "טוב",
-      "gloss": "hea"
+      "gloss": "head"
     },
     {
       "surface": "אל",
-      "gloss": "ees"
+      "gloss": "silmis"
     },
     {
       "surface": "יהוה",
@@ -125,6 +105,6 @@
       "gloss": "Jerobeami"
     }
   ],
-  "timestamp": "2026-10-21T01:19:08.616458080Z",
+  "timestamp": "2026-10-21T05:50:33.442639762Z",
   "model": "glm-5.3"
 }

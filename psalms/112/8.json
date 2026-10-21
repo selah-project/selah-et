@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 112,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Relatiivpartikkel sulandub eesti 'kuni' konstruktsiooni"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vastaseid",
-      "rationale": "בצריw on sõna-sõnalt 'oma kitsakohti', kitsustesse ahendajaid — paljud tõlked ütlevad 'vaenlased'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יירא \/ יראה",
-      "rationale": "'ei karda' ja 'näeb' on heebreas peaaegu homonüümsed tüved, kõlav kordus läheb kaotsi"
-    }
-  ],
-  "translation": "Toetatud ⟨on⟩ tema süda, ta ei karda, kuni ta näeb oma vastaseid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/112\/5-8.1792553990309.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨On⟩ toetatud ⟨on⟩ tema süda, ta ei karda, kuni ta näeb ⟨oma⟩ vaenlasi.",
   "tokens": [
     {
       "surface": "סמוך",
-      "gloss": "Toetatud"
+      "gloss": "toetatud"
     },
     {
       "surface": "לבו",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨et⟩"
     },
     {
       "surface": "יראה",
@@ -63,9 +37,9 @@
     },
     {
       "surface": "בצריו",
-      "gloss": "oma vastaseid"
+      "gloss": "vaenlasi"
     }
   ],
-  "timestamp": "2026-10-21T03:39:50.311042091Z",
+  "timestamp": "2026-10-21T06:37:25.288937759Z",
   "model": "glm-5.3"
 }

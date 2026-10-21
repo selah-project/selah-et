@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי אני אם",
-      "rationale": "Heebrea vanuse: 'kui ma elan (siis...)' — eitusega vannumine, tõlgitud 'nii tõesti kui ma elan, ma ei...'"
-    },
-    {
-      "kind": "you",
-      "subject": "inimesepoeg",
-      "rationale": "Jumala pöördumine Hesekieli poole: 'inimesepoeg', ben adam."
-    }
-  ],
-  "translation": "Inimesepoeg, räägi Jisraeli vanematega ja ütle neile: nõnda ütleb Adonai Jahve: kas te tulete ⟨את⟩ mind nõu küsima? Nii tõesti kui ma elan, ma ei anna teile nõu — Adonai Jahve kõne.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/20\/1-4.1792550030920.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Inimesepoeg, räägi ⟨את⟩ Jisraeli vanematega ja ütle neile: nõnda ütleb Adonai Jahve: kas te tulete ⟨את⟩ mind otsima? Nii tõesti kui ma elan — ma ei lase end teilt otsida, ütleb Adonai Jahve.",
   "tokens": [
     {
       "surface": "בן",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "inimese"
+      "gloss": "inimene"
     },
     {
       "surface": "דבר",
@@ -43,18 +22,18 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraeli vanemad"
+      "marks": "Jisraeli vanematega"
     },
     {
       "surface": "זקני",
-      "gloss": "vanemad"
+      "gloss": "vanemate"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraeli"
+      "gloss": "Jisrael"
     },
     {
-      "surface": "ויאמרת",
+      "surface": "ואמרת",
       "gloss": "ja ütle"
     },
     {
@@ -79,16 +58,16 @@
     },
     {
       "surface": "הלדרש",
-      "gloss": "kas nõu küsima"
+      "gloss": "kas otsima"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mind",
-      "marks": "teie"
+      "gloss": "⟨את⟩",
+      "marks": "mind"
     },
     {
       "surface": "אתם",
-      "gloss": "teie"
+      "gloss": "te"
     },
     {
       "surface": "באים",
@@ -96,27 +75,27 @@
     },
     {
       "surface": "חי",
-      "gloss": "elu"
+      "gloss": "elan"
     },
     {
       "surface": "אני",
-      "gloss": "mina elan"
+      "gloss": "ma"
     },
     {
       "surface": "אם",
-      "gloss": "kui"
+      "gloss": "⟨nii tõesti kui⟩"
     },
     {
       "surface": "אדרש",
-      "gloss": "ma ei anna nõu"
+      "gloss": "ma ei lase end otsida"
     },
     {
       "surface": "לכם",
-      "gloss": "teile"
+      "gloss": "teilt"
     },
     {
       "surface": "נאם",
-      "gloss": "kõne"
+      "gloss": "ütleb"
     },
     {
       "surface": "אדני",
@@ -127,6 +106,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:33:50.922684867Z",
+  "timestamp": "2026-10-21T06:08:56.750542059Z",
   "model": "glm-5.3"
 }

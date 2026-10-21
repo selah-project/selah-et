@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 101,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "פעלי און",
-      "rationale": "Otseselt 'äkkinimetuse tegijad'; 'pahateod' on kooseis tähenduse, mitte kuju tasandil."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אצמית ... להכרית",
-      "rationale": "Kaks väljajuurimise tüüpi (צמת, כרת) kordavad salmi 5 hävitamise, nüüd kogu maad haaravas mõõdus."
-    },
-    {
-      "kind": "alternative",
-      "subject": "לבקרים",
-      "rationale": "Mituikuses 'hommi hommiku' (ASV 'morning by morning') samuti võimalik."
-    }
-  ],
-  "translation": "Homme varsti hävitan ma kõik maa õelad, et ära raiuda Jahve linnast kõik pahateod.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/101\/5-8.1792553744179.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hommikust hommikku hävitan ma kõik maa pahased, et ära raiuda Jahve linnast kõik kurjuse tegijad.",
   "tokens": [
     {
       "surface": "לבקרים",
-      "gloss": "homme varsti"
+      "gloss": "hommikust hommikku"
     },
     {
       "surface": "אצמית",
-      "gloss": "hävitan ma"
+      "gloss": "hävitan"
     },
     {
       "surface": "כל",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "רשעי",
-      "gloss": "õelad"
+      "gloss": "pahased"
     },
     {
       "surface": "ארץ",
@@ -71,13 +45,13 @@
     },
     {
       "surface": "פעלי",
-      "gloss": "pahateod"
+      "gloss": "tegijad"
     },
     {
       "surface": "און",
-      "gloss": ""
+      "gloss": "kurjuse"
     }
   ],
-  "timestamp": "2026-10-21T03:35:44.180889341Z",
+  "timestamp": "2026-10-21T06:37:41.571278179Z",
   "model": "glm-5.3"
 }

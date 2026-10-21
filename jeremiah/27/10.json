@@ -5,39 +5,23 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pinnas",
-      "rationale": "אדמה on punakas muld, pinnas — mitte poliitiline „maa“."
-    }
-  ],
-  "translation": "Sest nad prohveteivad teile valet, et teid teie pinnaselt kaugele ajada; ja ma ajan teid välja ja te hukkute.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/27\/9-12.1792548756001.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest nad prohveteerivad teile vale, et teid teie pinnaselt kaugele ära viia, ja mina ajan ⟨את⟩ teid välja ja te hukkute.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sest"
+      "gloss": "Sest"
     },
     {
       "surface": "שקר",
-      "gloss": "valet"
+      "gloss": "vale"
     },
     {
       "surface": "הם",
-      "gloss": "nemad"
+      "gloss": "nad"
     },
     {
       "surface": "נבאים",
-      "gloss": "prohveteivad"
+      "gloss": "prohveteerivad"
     },
     {
       "surface": "לכם",
@@ -49,15 +33,16 @@
     },
     {
       "surface": "הרחיק",
-      "gloss": "kaugele ajada"
+      "gloss": "kaugele ära viia"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid"
     },
     {
       "surface": "מעל",
-      "gloss": "ültä"
+      "gloss": "ält"
     },
     {
       "surface": "אדמתכם",
@@ -65,17 +50,18 @@
     },
     {
       "surface": "והדחתי",
-      "gloss": "ja ma ajan välja"
+      "gloss": "ja mina ajan välja"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid"
     },
     {
       "surface": "ואבדתם",
       "gloss": "ja te hukkute"
     }
   ],
-  "timestamp": "2026-10-21T02:12:36.003044095Z",
+  "timestamp": "2026-10-21T06:20:24.300528310Z",
   "model": "glm-5.3"
 }

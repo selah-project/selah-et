@@ -5,40 +5,24 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ülesannete loetelu",
-      "rationale": "Salm loetleb leevi lastele antud hoolduskohust üks täpselt: riistad, valvepost, teenistus"
-    }
-  ],
-  "translation": "ja nad peavad ⟨את⟩ kõik kohtumistelgi riistad ning Jisraeli poegade valveposti, et teha ⟨את⟩ miškani teenistust:",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/3\/5-8.1792539732203.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad peavad valvama ⟨את⟩ kõiki kokkupandud tarbeid — telgi, kus määratud kohtumine toimub — ja ⟨את⟩ Jisraeli poegade valvekorda, et teha ⟨את⟩ miškani teenistust.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "ja nad peavad"
+      "gloss": "ja nad peavad valvama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik riistad"
+      "marks": "kõiki tarbeid"
     },
     {
       "surface": "כל",
-      "gloss": "kõik"
+      "gloss": "kõiki"
     },
     {
       "surface": "כלי",
-      "gloss": "riistad"
+      "gloss": "tarbeid"
     },
     {
       "surface": "אהל",
@@ -46,16 +30,16 @@
     },
     {
       "surface": "מועד",
-      "gloss": "kohtumise"
+      "gloss": "kohtumine (määratud aeg)"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "Jisraeli poegade valvepost"
+      "marks": "valvekorda"
     },
     {
       "surface": "משמרת",
-      "gloss": "valvepost"
+      "gloss": "valvekorda"
     },
     {
       "surface": "בני",
@@ -67,22 +51,22 @@
     },
     {
       "surface": "לעבד",
-      "gloss": "et teha"
+      "gloss": "et teenida"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miškani teenistus"
+      "marks": "teenistust"
     },
     {
       "surface": "עבדת",
-      "gloss": "teenistus"
+      "gloss": "teenistust"
     },
     {
       "surface": "המשכן",
-      "gloss": "miškani"
+      "gloss": "miškan"
     }
   ],
-  "timestamp": "2026-10-20T23:42:12.204343051Z",
+  "timestamp": "2026-10-21T06:33:52.372852145Z",
   "model": "glm-5.3"
 }

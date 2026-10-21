@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ühe korra \/ kuus päeva",
-      "rationale": "täpne arvutus: üks ringsõit päevas, kuus päeva"
-    },
-    {
-      "kind": "crux",
-      "subject": "תעשה",
-      "rationale": "2. ainsuse 'tee' mitmuse 'teie' keskel — Müllerid pehmendavad; heebrea jätab üksiku käsu muutmata"
-    }
-  ],
-  "translation": "Ja teie teete linna ümber käigu, kõik sõjamehed — ümber tulevate linna ühe korra; nõnda tee kuus päeva.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/6\/1-4.1792541408310.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te ümbritsete ⟨את⟩ linna, kõik sõjamehed, käies linna ümber üks kord; nõnda teete kuus päeva.",
   "tokens": [
     {
       "surface": "וסבתם",
-      "gloss": "Ja teie teete ümber käigu"
+      "gloss": "ja te ümbritsete"
     },
     {
       "surface": "את",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "mehed"
+      "gloss": "sõjamehed — mehed"
     },
     {
       "surface": "המלחמה",
-      "gloss": "sõja"
+      "gloss": "sõjast"
     },
     {
       "surface": "הקיף",
-      "gloss": "ümber tulevate"
+      "gloss": "käies ümber"
     },
     {
       "surface": "את",
@@ -68,11 +47,11 @@
     },
     {
       "surface": "פעם",
-      "gloss": "korra"
+      "gloss": "kord"
     },
     {
       "surface": "אחת",
-      "gloss": "ühe"
+      "gloss": "üks"
     },
     {
       "surface": "כה",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "tee"
+      "gloss": "teete"
     },
     {
       "surface": "ששת",
@@ -91,6 +70,6 @@
       "gloss": "päeva"
     }
   ],
-  "timestamp": "2026-10-21T00:10:08.311492428Z",
+  "timestamp": "2026-10-21T06:25:42.118511071Z",
   "model": "glm-5.3"
 }

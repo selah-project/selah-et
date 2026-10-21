@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ההבל\/ויהבלו",
-      "rationale": "sama juur kordub: nad järgisid tühisust (hebel) ja said ise tühjaks — eesti keeles 'tühisus\/tühjaks' säilitab sõnamängu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sõlmis",
-      "rationale": "כרת tähendab sõna-sõnalt 'lõikas' — lepingut 'lõigati', eesti idiom 'sõlmima'"
-    }
-  ],
-  "translation": "Ja nad põlgasid ⟨את⟩ tema põhimõtted ja ⟨את⟩ tema lepingu, mille ta sõlmis nende isadega, ja ⟨את⟩ tema tunnistused, millega ta tunnistas nende vastu; ja nad läksid järgima tühisust ja said tühjaks, ja rahvaste järele, kes neid ümbritsesid, kelle kohta Jahve oli neile ⟨את⟩ käskinud, et nad ei tohiks teha nagu nemad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/17\/13-16.1792546340230.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad põlgasid ⟨את⟩ tema määrusi ja ⟨את⟩ tema lepingu, mille ta rajas ⟨את⟩ nende isadega, ja ⟨את⟩ tema tunnistusi, mille ta nende vastu tunnistamas oli; ja nad läksid tühisuse järele ja muutusid tühiseks, ning rahvaste järele, kes olid nende ümber, kelle kohta Jahve oli neile käskinud ⟨את⟩ ⟨neid⟩, et nad ei tohiks teha nagu nemad.",
   "tokens": [
     {
       "surface": "וימאסו",
-      "gloss": "Ja nad põlgasid"
+      "gloss": "ja nad põlgasid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema põhimõtted"
+      "marks": "tema määrusi"
     },
     {
       "surface": "חקיו",
-      "gloss": "tema põhimõtted"
+      "gloss": "tema määrusi"
     },
     {
       "surface": "ואת",
@@ -56,7 +35,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "ta sõlmis"
+      "gloss": "rajas"
     },
     {
       "surface": "את",
@@ -70,19 +49,19 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "tema tunnistused"
+      "marks": "tema tunnistusi"
     },
     {
       "surface": "עדותיו",
-      "gloss": "tema tunnistused"
+      "gloss": "tema tunnistusi"
     },
     {
       "surface": "אשר",
-      "gloss": "millega"
+      "gloss": "mille"
     },
     {
       "surface": "העיד",
-      "gloss": "ta tunnistas"
+      "gloss": "tunnistamas oli"
     },
     {
       "surface": "בם",
@@ -94,19 +73,19 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "järgima"
+      "gloss": "järele"
     },
     {
       "surface": "ההבל",
-      "gloss": "tühisust"
+      "gloss": "tühisuse"
     },
     {
       "surface": "ויהבלו",
-      "gloss": "ja said tühjaks"
+      "gloss": "ja muutusid tühiseks"
     },
     {
       "surface": "ואחרי",
-      "gloss": "ja järgima"
+      "gloss": "ning järele"
     },
     {
       "surface": "הגוים",
@@ -118,7 +97,7 @@
     },
     {
       "surface": "סביבתם",
-      "gloss": "neid ümbritsesid"
+      "gloss": "olid nende ümber"
     },
     {
       "surface": "אשר",
@@ -134,8 +113,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "rahvaid"
+      "gloss": "⟨את⟩ ⟨neid⟩",
+      "marks": "kelle kohta käsk kehtis"
     },
     {
       "surface": "לבלתי",
@@ -150,6 +129,6 @@
       "gloss": "nagu nemad"
     }
   ],
-  "timestamp": "2026-10-21T01:32:20.234773293Z",
+  "timestamp": "2026-10-21T05:57:16.844963254Z",
   "model": "glm-5.3"
 }

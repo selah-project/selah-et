@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לא תראה את פני",
-      "rationale": "'sa ei näe mu nägu' — heebrea idiom 'näo nägemine' tähendab juurdepääsu\/audientsi; sõnasõnaline pilt on hoitud."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאל \/ שאול",
-      "rationale": "verbi 'nõudma' (שאל) kõla riimub nimega Šaul (שאול) järgmises salmis; eesti keeles see kaob."
-    },
-    {
-      "kind": "you",
-      "subject": "David kõneleb Avnerile",
-      "rationale": "otsene pöördumine lepingu tingimusega."
-    }
-  ],
-  "translation": "Ja ta ütles: Hea, ma teen ⟨את⟩ sinuga lepingu; ainult üht asja ma nõuan sinult: sa ei näe mu nägu, enne kui sa tood mu ette Miikali, Šauli tütre, kui sa tuled nägema mu nägu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/3\/13-16.1792544518375.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles: Hea, ma lõikan ⟨את⟩ sinuga lepingu, ainult ühte asja ma nõuan sinult, öeldes: sa ei näe mu nägu, vaid enne, kui sa tood ⟨את⟩ Mikali, Šauli tütre, sinu tulekul mind nägema ⟨את⟩ mu nägu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אכרת",
-      "gloss": "teen"
+      "gloss": "lõikan"
     },
     {
       "surface": "אתך",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "ühe"
+      "gloss": "ühte"
     },
     {
       "surface": "אנכי",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "ütlusega"
+      "gloss": "öeldes"
     },
     {
       "surface": "לא",
@@ -104,15 +78,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "kui"
+      "gloss": "vaid"
     },
     {
       "surface": "אם",
-      "gloss": "kits"
+      "gloss": "ennem"
     },
     {
       "surface": "לפני",
-      "gloss": "enne"
+      "gloss": "kui"
     },
     {
       "surface": "הביאך",
@@ -121,11 +95,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Miikali"
+      "marks": "Mikali"
     },
     {
       "surface": "מיכל",
-      "gloss": "Miikali"
+      "gloss": "Mikali"
     },
     {
       "surface": "בת",
@@ -137,7 +111,7 @@
     },
     {
       "surface": "בבאך",
-      "gloss": "kui sa tuleb"
+      "gloss": "sinu tulekul"
     },
     {
       "surface": "לראות",
@@ -153,6 +127,6 @@
       "gloss": "mu nägu"
     }
   ],
-  "timestamp": "2026-10-21T01:01:58.377992318Z",
+  "timestamp": "2026-10-21T06:00:26.848964386Z",
   "model": "glm-5.3"
 }

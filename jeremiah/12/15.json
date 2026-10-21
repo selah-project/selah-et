@@ -5,48 +5,32 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אשוב\/והשבתים",
-      "rationale": "Juur שוב kordub: Jahve 'pöördub' ja 'toob tagasi' — pöördumise ja tagasitoomise sidu."
-    }
-  ],
-  "translation": "Ja see saab: pärast seda, kui ma olen nad välja kiskunud, pöördun ma tagasi ja halastan neile, ja toon nad tagasi, igaüks oma pärandisse ja igaüks oma maale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3fc4f534b4d305adb8964613d2acaff60e2d42f7daa22d12c36b789094add8cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/12\/13-16.1792548417155.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja pärast seda, kui ma nad ära kistan, pöördun ma tagasi ja halastan nende peale ning toon nad tagasi, igaühe tema päranduse juurde ja igaühe tema maale.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ja see saab"
+      "gloss": "Ja sündib"
     },
     {
       "surface": "אחרי",
-      "gloss": "pärast"
+      "gloss": "pärast seda, kui"
     },
     {
       "surface": "נתשי",
-      "gloss": "ma olen nad välja kiskunud"
+      "gloss": "ma ära kistan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "nad (nemad)"
+      "gloss": "⟨את⟩ neid",
+      "marks": "need, keda ma kistan"
     },
     {
       "surface": "אשוב",
-      "gloss": "ma pöördun tagasi"
+      "gloss": "pöördun tagasi"
     },
     {
       "surface": "ורחמתים",
-      "gloss": "ja halastan neile"
+      "gloss": "ja halastan nende peale"
     },
     {
       "surface": "והשבתים",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "לנחלתו",
-      "gloss": "oma pärandisse"
+      "gloss": "tema päranduse juurde"
     },
     {
       "surface": "ואיש",
@@ -66,9 +50,9 @@
     },
     {
       "surface": "לארצו",
-      "gloss": "oma maale"
+      "gloss": "tema maale"
     }
   ],
-  "timestamp": "2026-10-21T02:06:57.157697817Z",
+  "timestamp": "2026-10-21T06:18:57.336283645Z",
   "model": "glm-5.3"
 }

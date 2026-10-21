@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ei olnud",
-      "rationale": "Eesti eituskonstruktsioon nõuab verbi, heebreas ⟨אין⟩ üksi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "arv",
-      "rationale": "Salm mängib lugemise ja arvuta hulgaga — mõõtmine lakkab olemast võimalik"
-    }
-  ],
-  "translation": "Ja Joosef kogus vilja nagu mere liiva, ülimalt palju, kuni ta lakkas lugemast, sest sellel ⟨ei olnud⟩ arvu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "679e1d34b3f96c87934810b12fed48b5eca8b2df02bdbad91fc79e07f17dea11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/41\/49-52.1792538061468.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Joosep kogus vilja nagu mere liiva, väga palju, kuni ⟨ta⟩ lakkas seda lugemast, sest ⟨sellel⟩ polnud arvu.",
   "tokens": [
     {
       "surface": "ויצבר",
-      "gloss": "Ja Joosef kogus"
+      "gloss": "kogus"
     },
     {
       "surface": "יוסף",
-      "gloss": "Joosef"
+      "gloss": "Joosep"
     },
     {
       "surface": "בר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "כחול",
-      "gloss": "nagu liiva"
+      "gloss": "liiva"
     },
     {
       "surface": "הים",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "ülimalt"
+      "gloss": "väga"
     },
     {
       "surface": "עד",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "sest"
     },
     {
       "surface": "חדל",
-      "gloss": "ta lakkas"
+      "gloss": "lakkas"
     },
     {
       "surface": "לספר",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "אין",
-      "gloss": "⟨ei olnud⟩"
+      "gloss": "polnud"
     },
     {
       "surface": "מספר",
-      "gloss": "arvu"
+      "gloss": "aru"
     }
   ],
-  "timestamp": "2026-10-20T23:14:21.468759455Z",
+  "timestamp": "2026-10-21T06:16:18.542908718Z",
   "model": "glm-5.3"
 }

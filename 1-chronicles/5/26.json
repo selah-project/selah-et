@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruahh",
-      "rationale": "ruahh säilitatakse D2 kohaselt — 'wind\/ruum\/vaim' üks sõna, ei tõlgita üheks eestikeelseks sõnaks"
-    },
-    {
-      "kind": "addition",
-      "subject": "assumisele",
-      "rationale": "ויגלם tähendab sõna-sõnalt 'paljastas\/eksis' — eestikeelne 'viis asumisele' lisab selguse"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פול \/ תלגת פלנסר",
-      "rationale": "kaks nime, üks ja sama Assüüria kuningas (või kaks) — tekst peab neid kummaski rollis"
-    }
-  ],
-  "translation": "Ja Jisraeli Elohim äratas ⟨את⟩ ruahh Pulist, Aššuri kuningast, ja ⟨את⟩ ruahh Tilgat-Pilneserist, Aššuri kuningast, ja ta viis nad asumisele — rubenlased, gaadlased ja pool Manasse sugukonnast — ja tõi nad Halahi, Habori ja Hara ning Gozani jõe äärde, kuni tänapäevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ce93ec6aad8cb122f665ee3a4d7668fbd661af3052938f22cc2120b1849a9913",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/5\/25-28.1792557226089.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Elohim Jisraeli äratas ⟨את⟩ ruahhi Puuli, Assuri kuninga, ja ⟨את⟩ ruahhi Tilgat-Pilneseri, Assuri kuninga, ja viis nad asumaele — Reubenile, Gaadile ja poolle Menasse suguharule — ja tõi nad Halahhi, Habouri ja Haara ning Gozani jõe äärde, kuni tänapäevani.",
   "tokens": [
     {
       "surface": "ויער",
-      "gloss": "Ja äratas"
+      "gloss": "äratas"
     },
     {
       "surface": "אלהי",
@@ -48,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruahh Pulist"
+      "marks": "ruahhi Puuli"
     },
     {
       "surface": "רוח",
@@ -56,21 +30,20 @@
     },
     {
       "surface": "פול",
-      "gloss": "Pul"
+      "gloss": "Puul"
     },
     {
       "surface": "מלך",
-      "gloss": "kunинга — kuningas",
-      "marks": ""
+      "gloss": "kuningas"
     },
     {
       "surface": "אשור",
-      "gloss": "Aššuri"
+      "gloss": "Assur"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ruahh Tilgat-Pilneserist"
+      "marks": "ruahhi Tilgat-Pilneseri"
     },
     {
       "surface": "רוח",
@@ -78,7 +51,7 @@
     },
     {
       "surface": "תלגת",
-      "gloss": "Tilgat-"
+      "gloss": "Tilgat"
     },
     {
       "surface": "פלנסר",
@@ -86,35 +59,35 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kuninga"
+      "gloss": "kuningas"
     },
     {
       "surface": "אשור",
-      "gloss": "Aššuri"
+      "gloss": "Assur"
     },
     {
       "surface": "ויגלם",
-      "gloss": "ja ta viis nad asumisele"
+      "gloss": "viis nad asumaele"
     },
     {
       "surface": "לראובני",
-      "gloss": "rubenlased"
+      "gloss": "Reubenile"
     },
     {
       "surface": "ולגדי",
-      "gloss": "gaadlased"
+      "gloss": "Gaadile"
     },
     {
       "surface": "ולחצי",
-      "gloss": "ja pool"
+      "gloss": "ja poolle"
     },
     {
       "surface": "שבט",
-      "gloss": "sugukonnast"
+      "gloss": "suguharu"
     },
     {
       "surface": "מנשה",
-      "gloss": "Manasse"
+      "gloss": "Menasse"
     },
     {
       "surface": "ויביאם",
@@ -122,23 +95,23 @@
     },
     {
       "surface": "לחלח",
-      "gloss": "Halahi"
+      "gloss": "Halahhi"
     },
     {
       "surface": "וחבור",
-      "gloss": "Habori"
+      "gloss": "Habouri"
     },
     {
       "surface": "והרא",
-      "gloss": "ja Hara"
+      "gloss": "Haara"
     },
     {
       "surface": "ונהר",
-      "gloss": "ning jõe"
+      "gloss": "jõe"
     },
     {
       "surface": "גוזן",
-      "gloss": "Gozani"
+      "gloss": "Gozan"
     },
     {
       "surface": "עד",
@@ -153,6 +126,6 @@
       "gloss": "selle"
     }
   ],
-  "timestamp": "2026-10-21T04:33:46.090062272Z",
+  "timestamp": "2026-10-21T06:39:56.071235798Z",
   "model": "glm-5.3"
 }

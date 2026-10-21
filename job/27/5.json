@@ -5,41 +5,15 @@
   "book": "job",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חלילה",
-      "rationale": "Tõusis tähendusest 'pööratud asi' interjektsiooniks 'kaugem olgu'; tõlgitud 'Kauge olgu see', mitte 'Jumal hoidku'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti keeles puudub heebrea kaudne kõneviis kujul, lisatud olevik."
-    },
-    {
-      "kind": "crux",
-      "subject": "עד אגוע",
-      "rationale": "Polemiseb teistsuguse tõlkega 'surmani' (ימות) — heebrea 'nii kaua kui ma hinge heidan'."
-    }
-  ],
-  "translation": "Kauge olgu see minust, et ma teid õigeks tunnistaksin; surmani ⟨on⟩ ma ei võta oma süütust minema.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/27\/5-8.1792555460705.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jumala hoidku — mul ei ole seda, et ma teeks teid õigeks; ei ega mina eemalda oma süütust minust, kuni ma välja hingan.",
   "tokens": [
     {
       "surface": "חלילה",
-      "gloss": "Kauge olgu see"
+      "gloss": "jumala hoidku"
     },
     {
       "surface": "לי",
-      "gloss": "minust"
+      "gloss": "mul"
     },
     {
       "surface": "אם",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אצדיק",
-      "gloss": "ma õigeks tunnistaksin"
+      "gloss": "ma teen õigeks"
     },
     {
       "surface": "אתכם",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "surmani"
+      "gloss": "kuni"
     },
     {
       "surface": "אגוע",
-      "gloss": "ma hinge heidan"
+      "gloss": "ma välja hingan"
     },
     {
       "surface": "לא",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "אסיר",
-      "gloss": "võta"
+      "gloss": "ma eemalda"
     },
     {
       "surface": "תמתי",
@@ -76,9 +50,9 @@
     },
     {
       "surface": "ממני",
-      "gloss": "minema"
+      "gloss": "minust"
     }
   ],
-  "timestamp": "2026-10-21T04:04:20.706254424Z",
+  "timestamp": "2026-10-21T06:23:04.832837850Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ומתו",
-      "rationale": "Heebrea 'ja nad surevad' tähistab eesmärki ('et nad ei sureks'); otsetõlge oleks eksitav."
-    },
-    {
-      "kind": "measurement",
-      "subject": "koormad",
-      "rationale": "Salm loetleb Kehati poegade kandekohustused — ametiline ülesannete jaotus."
-    }
-  ],
-  "translation": "Ja kui Aharon ja tema pojad on lõpetanud püha katmise ning ⟨את⟩ kõigi pühade riistade katmise, laagri teeleasumise ajal, siis pärast seda tulevad Kehati pojad kandma; aga nad ei puutu püha asjasse, et nad ei sureks. Need on Kehati poegade koormad kohtumise telgis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fe5c7f7481da833583e29f8cfa2baac698d92a1f0405d78c2f7eb3d486bc9263",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/14-16.1792543667639.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui Aharon ja tema poegad on lõpetanud ⟨את⟩ püha katmise ja ⟨את⟩ kõikide pühade riistade, kui laager asub teele, siis tulevad pärast seda Kehati poegad kandma, aga nad ei tohi puutuda püha juurde, et nad ei sureks. Need ⟨on⟩ Kehati poegade koormus kohtumise telgis.",
   "tokens": [
     {
       "surface": "וכלה",
-      "gloss": "ja kui ... on lõpetanud"
+      "gloss": "on lõpetanud"
     },
     {
       "surface": "אהרן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "ja tema pojad"
+      "gloss": "ja tema poegad"
     },
     {
       "surface": "לכסת",
@@ -56,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kõigi pühade riistade"
+      "marks": "kõikide pühade riistade"
     },
     {
       "surface": "כל",
-      "gloss": "kõigi"
+      "gloss": "kõikide"
     },
     {
       "surface": "כלי",
@@ -72,15 +51,15 @@
     },
     {
       "surface": "בנסע",
-      "gloss": "teeleasumise ajal"
+      "gloss": "kui laager asub teele"
     },
     {
       "surface": "המחנה",
-      "gloss": "laagri"
+      "gloss": "laager"
     },
     {
       "surface": "ואחרי",
-      "gloss": "ja pärast"
+      "gloss": "pärast"
     },
     {
       "surface": "כן",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "pojad"
+      "gloss": "poegad"
     },
     {
       "surface": "קהת",
@@ -104,15 +83,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "aga ei"
+      "gloss": "aga mitte"
     },
     {
       "surface": "יגעו",
-      "gloss": "nad puutu"
+      "gloss": "puutuma"
     },
     {
       "surface": "אל",
-      "gloss": "asjasse"
+      "gloss": "juurde"
     },
     {
       "surface": "הקדש",
@@ -128,7 +107,7 @@
     },
     {
       "surface": "משא",
-      "gloss": "koormad"
+      "gloss": "koormus"
     },
     {
       "surface": "בני",
@@ -147,6 +126,6 @@
       "gloss": "kohtumise"
     }
   ],
-  "timestamp": "2026-10-21T00:47:47.649916180Z",
+  "timestamp": "2026-10-21T06:36:08.432030761Z",
   "model": "glm-5.3"
 }

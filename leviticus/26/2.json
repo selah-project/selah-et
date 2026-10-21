@@ -5,49 +5,28 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olen",
-      "rationale": "Heebrea puudub kopolula 'mina Jahve' järel"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kardate",
-      "rationale": "ירא hõlmab nii kartust kui aukartust; 'auäratusega' oleks liiga kitsas"
-    }
-  ],
-  "translation": "Minu šabateid te peate ja minu pühamu ees te olge auäratusega: mina ⟨olen⟩ Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "38972aee43b457c8e8b5c4ec8590fdf8d503e7b18003912411a509e5692bc367",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/2-4.1792543618989.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ mu šabatid peate te hoidma ja mu pühamit peate te kartma: mina olen Jahve.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minu šabateid"
+      "marks": "mu šabatid"
     },
     {
       "surface": "שבתתי",
-      "gloss": "minu šabateid"
+      "gloss": "mu šabatid"
     },
     {
       "surface": "תשמרו",
-      "gloss": "te peate"
+      "gloss": "peate te hoidma"
     },
     {
       "surface": "ומקדשי",
-      "gloss": "ja minu pühamu"
+      "gloss": "ja mu pühamit"
     },
     {
       "surface": "תיראו",
-      "gloss": "te kardate"
+      "gloss": "peate te kartma"
     },
     {
       "surface": "אני",
@@ -58,6 +37,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T00:46:58.993618732Z",
+  "timestamp": "2026-10-21T06:29:30.710865135Z",
   "model": "glm-5.3"
 }

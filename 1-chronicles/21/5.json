@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "loendus",
-      "rationale": "Rahvaloenduse arvud: Jisrael miljon sada tuhat, Juuda neli sada seitsekümmend tuhat mõõgameest."
-    },
-    {
-      "kind": "crux",
-      "subject": "arvud",
-      "rationale": "1Aj 21:5 arvud ei ühti 2Sm 24:9 arvudega (Juuda viis sada tuhat vs siin neli sada seitsekümmend tuhat)."
-    }
-  ],
-  "translation": "Ja Joab andis Davidile ⟨את⟩ rahva loendamise arvu; ja kogu Jisrael ⟨oli⟩ tuhat tuhat ja sada tuhat meest, kes tõmbab mõõka; ja Juuda ⟨oli⟩ neli sada ja seitsekümmend tuhat meest, kes tõmbab mõõka.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/21\/5-8.1792557490123.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Joab andis üle ⟨את⟩ rahvaloenduse arvu Davidile; ja kogu Jisrael oli tuhat tuhandeid ja sada tuhat meest, mõõka tõmbavat, ja Jehuda neli sada ja seitsekümmend tuhat meest, mõõka tõmbavat.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "ja andis"
+      "gloss": "ja andis üle"
     },
     {
       "surface": "יואב",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rahva loendamise arvu"
+      "marks": "arvu"
     },
     {
       "surface": "מספר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "מפקד",
-      "gloss": "loendamise"
+      "gloss": "rahvaloenduse"
     },
     {
       "surface": "העם",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Davidile"
     },
     {
       "surface": "דויד",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אלפים",
-      "gloss": "tuhat"
+      "gloss": "tuhandeid"
     },
     {
       "surface": "ומאה",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "שלף",
-      "gloss": "kes tõmbab"
+      "gloss": "tõmbavat"
     },
     {
       "surface": "חרב",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "ויהודה",
-      "gloss": "ja Juuda"
+      "gloss": "ja Jehuda"
     },
     {
       "surface": "ארבע",
@@ -127,13 +106,13 @@
     },
     {
       "surface": "שלף",
-      "gloss": "kes tõmbab"
+      "gloss": "tõmbavat"
     },
     {
       "surface": "חרב",
       "gloss": "mõõka"
     }
   ],
-  "timestamp": "2026-10-21T04:38:10.124012095Z",
+  "timestamp": "2026-10-21T05:49:40.142703704Z",
   "model": "glm-5.3"
 }

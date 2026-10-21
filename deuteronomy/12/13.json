@@ -5,53 +5,27 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "endale",
-      "rationale": "לך on rõhutav反映si, eesti keeles vajab käänet"
-    },
-    {
-      "kind": "idiom",
-      "subject": "hoia end",
-      "rationale": "השמר לך otseselt 'kaitse ennast', tähendab 'kaetu olul, ole tähelepanelik'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "käsk suunatud kuulajale — kultuse keskestamise seadus"
-    }
-  ],
-  "translation": "Hoia end, et sa ei viiks ⟨את⟩ oma tõusohvreid üles igas paigas, mida sa näed,",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/12\/13-16.1792540898525.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hoia end kõrvale, et sa ei viiks oma põletusohvreid üles igas paigas, mida sa näed,",
   "tokens": [
     {
       "surface": "השמר",
-      "gloss": "hoia end"
+      "gloss": "hoia end kõrvale"
     },
     {
       "surface": "לך",
-      "gloss": "⟨endale⟩"
+      "gloss": "endale"
     },
     {
       "surface": "פן",
-      "gloss": "et mitte"
+      "gloss": "et sa ei"
     },
     {
       "surface": "תעלה",
-      "gloss": "sa viiksid üles"
+      "gloss": "viiks üles"
     },
     {
       "surface": "עלתיך",
-      "gloss": "⟨את⟩ oma tõusohvreid"
+      "gloss": "oma põletusohvreid"
     },
     {
       "surface": "בכל",
@@ -70,6 +44,6 @@
       "gloss": "sa näed"
     }
   ],
-  "timestamp": "2026-10-21T00:01:38.525827639Z",
+  "timestamp": "2026-10-21T06:02:15.590269568Z",
   "model": "glm-5.3"
 }

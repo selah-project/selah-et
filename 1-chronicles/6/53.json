@@ -5,38 +5,12 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "karjamaad",
-      "rationale": "מגרשיה 'selle karjamaad' — LXX-lõikes puudub see salm heebrea tekstis, kuid Masora tekst säilitab selle"
-    },
-    {
-      "kind": "substitution",
-      "subject": "karjamaad",
-      "rationale": "מגרש on tühi maa linnade ümber, kus kariloomi peeti — 'eelinn' või 'ääremaa' on vaid üks külg"
-    },
-    {
-      "kind": "measurement",
-      "subject": "linnade loend",
-      "rationale": "Levi lastele antud linnade ja karjamaade loendamine"
-    }
-  ],
-  "translation": "ja ⟨את⟩ Jokmeami koos selle karjamaadega, ja ⟨את⟩ Beet-Horoni koos selle karjamaadega",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3318a7c8a9b65949d1784607e4149e30e3af811be872ef5b4adaa35e6ca0bcb4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/53-56.1792557267956.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja ⟨את⟩ Jokmeami ning ⟨את⟩ selle karjamaad, ja ⟨את⟩ Beet-Horoni ning ⟨את⟩ selle karjamaad",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Jokmeam"
+      "marks": "Jokmeami"
     },
     {
       "surface": "יקמעם",
@@ -49,20 +23,20 @@
     },
     {
       "surface": "מגרשיה",
-      "gloss": "karjamaad"
+      "gloss": "selle karjamaad"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Beet-Horon"
+      "marks": "Beet-Horoni"
     },
     {
       "surface": "בית",
-      "gloss": "Beet-"
+      "gloss": "Beet"
     },
     {
       "surface": "חורון",
-      "gloss": "-Horon"
+      "gloss": "Horon"
     },
     {
       "surface": "ואת",
@@ -71,9 +45,9 @@
     },
     {
       "surface": "מגרשיה",
-      "gloss": "karjamaad"
+      "gloss": "selle karjamaad"
     }
   ],
-  "timestamp": "2026-10-21T04:34:27.957589167Z",
+  "timestamp": "2026-10-21T05:50:00.004461423Z",
   "model": "glm-5.3"
 }

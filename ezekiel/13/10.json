@@ -5,45 +5,19 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "יען וביען",
-      "rationale": "Topelt põhjus: 'sest, jah seepärast' — rõhutatud kordus, eesti keeles hoitud kahekordsena."
-    },
-    {
-      "kind": "crux",
-      "subject": "תפל",
-      "rationale": "Otseselt 'roosk plaaster\/määre' — viitab lubjamäärile ilma liivata; KJV 'untempered mortar', JPS 'whited plaster'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שלום \/ ואין שלום",
-      "rationale": "Sõna 'rahu' kordub jaatuses: kuulutatud rahu vs tegelik puudujääk."
-    }
-  ],
-  "translation": "Sest, jah seepärast, et nad ajavad ⟨את⟩ mu rahva eksiteele, öeldes: rahu! ja rahu ei ole — ja tema ehitab seina, ja vaata, nad määrivad seda rooskplaastriga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b1032e6cacee0a182a3e7ddfc1d3d6e6c32a2786c1b4d6651b6387c274a3a959",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/13\/10-11.1792558475770.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Seepärast, jah, just seepärast ajasid nad eksiteele ⟨את⟩ mu rahva, öeldes: rahu!, ja rahu ei ole; ja tema ehitab müüri, ja vaata, nad määritsevad ⟨אתו⟩ toormördu.",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "sest"
+      "gloss": "seepärast"
     },
     {
       "surface": "וביען",
-      "gloss": "jah seepärast, et"
+      "gloss": "jah, just seepärast"
     },
     {
       "surface": "הטעו",
-      "gloss": "ajavad eksiteele"
+      "gloss": "ajasid eksiteele"
     },
     {
       "surface": "את",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "ja rahu ei ole"
+      "gloss": "ja ei ole"
     },
     {
       "surface": "שלום",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "חיץ",
-      "gloss": "seina"
+      "gloss": "müüri"
     },
     {
       "surface": "והנם",
@@ -88,18 +62,18 @@
     },
     {
       "surface": "טחים",
-      "gloss": "nad määrivad"
+      "gloss": "nad määritsevad"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "seda (sein)"
+      "gloss": "⟨אתו⟩",
+      "marks": "toormördu"
     },
     {
       "surface": "תפל",
-      "gloss": "rooskplaastriga"
+      "gloss": "toormördu"
     }
   ],
-  "timestamp": "2026-10-21T04:54:35.772972057Z",
+  "timestamp": "2026-10-21T06:07:41.323015732Z",
   "model": "glm-5.3"
 }

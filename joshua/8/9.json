@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mere poolt",
-      "rationale": "מים tähendab sõna-sõnalt 'merest' — lääne suund on määratud Vahemere poolt (komm. tava, mitte kirjutatud 'lääs')"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לעי \/ העי",
-      "rationale": "korduv kõla 'Aj \/ Aale' — linnanimi jääb muutumatuks, eesti kääne lisatakse"
-    }
-  ],
-  "translation": "Ja Jehošua saatis nad ära, ja nad läksid varitsusele ning jäid Beit-Eli ja Aj vahele istuma, mere poolt Aale; ja Jehošua veetis selle öö rahva keskel.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/8\/9-12.1792541447084.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jehošua saatis nad ära, ja nad läksid varitsusele ning jäid istuma Beet-Elile ja Ai vahele, mere pool Ai, ja Jehošua ööbis sel ööl rahva keskel.",
   "tokens": [
     {
       "surface": "וישלחם",
-      "gloss": "ja saatas nad ära"
+      "gloss": "saatis nad ära"
     },
     {
       "surface": "יהושע",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "ja nad läksid"
+      "gloss": "läksid"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "המארב",
       "gloss": "varitsusele"
     },
     {
+      "surface": "המארב",
+      "gloss": "varitsus"
+    },
+    {
       "surface": "וישבו",
-      "gloss": "ja jäid istuma"
+      "gloss": "jäid istuma"
     },
     {
       "surface": "בין",
@@ -58,31 +37,31 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beit-Eli"
+      "gloss": "Beet-Elile"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "El"
     },
     {
       "surface": "ובין",
-      "gloss": "ja"
+      "gloss": "ja vahele"
     },
     {
       "surface": "העי",
-      "gloss": "Aj"
+      "gloss": "Ai"
     },
     {
       "surface": "מים",
-      "gloss": "mere poolt"
+      "gloss": "mere pool"
     },
     {
       "surface": "לעי",
-      "gloss": "Aale"
+      "gloss": "Ai"
     },
     {
       "surface": "וילן",
-      "gloss": "ja veetis öö"
+      "gloss": "ööbis"
     },
     {
       "surface": "יהושע",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "samas"
+      "gloss": "sellel"
     },
     {
       "surface": "בתוך",
@@ -105,6 +84,6 @@
       "gloss": "rahva"
     }
   ],
-  "timestamp": "2026-10-21T00:10:47.085516448Z",
+  "timestamp": "2026-10-21T06:25:46.027834025Z",
   "model": "glm-5.3"
 }

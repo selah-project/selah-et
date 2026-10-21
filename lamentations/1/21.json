@@ -5,37 +5,11 @@
   "book": "lamentations",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הבאת יום קראת",
-      "rationale": "kas sina tõid päeva, mida sina kutsusid (minevik) või sina tood päeva, mille sa kuulutasid (jussiiv\/prospektiiv, nagu KJV 'wilt bring')"
-    },
-    {
-      "kind": "you",
-      "subject": "kõne Jahvele",
-      "rationale": "kõneleja pöördub otse Elohimi poole — sina tõid, sina kutsusid"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נאנחה \/ אנחתי",
-      "rationale": "ohkamine kordub ka järgmises salmis (אנחתי), nutu tüvi moodustab piibli ja korduse"
-    }
-  ],
-  "translation": "Nad kuulsid, et mina ohkan; ei ole mul lohutajat; kõik mu vaenlased kuulsid mu õnnetust — nad rõõmutsad, sest sina oled selle teinud; sina tõid ⟨את⟩ päeva, sina kutsusid, ja nad saavad minu sarnaseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c2b80fac926c5eb96fbc8b3a9bab9972ff4da01577434f25f4d5a5c1c4473632",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/lamentations\/1\/21-22.1792555889720.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nad kuulsid, et mina ohkan, ei ole mulle ⟨on⟩ lohutajat; kõik mu vaenlased kuulsid mu hädast, nad rõõmustavad, sest sina tegid selle; sina tõid päeva, sina kutsusid ⟨selle⟩, ja nad saavad olema nagu mina.",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "nad kuulsid"
+      "gloss": "kuulsid"
     },
     {
       "surface": "כי",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "mul"
+      "gloss": "mulle"
     },
     {
       "surface": "כל",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "רעתי",
-      "gloss": "mu õnnetust"
+      "gloss": "mu hädast"
     },
     {
       "surface": "ששו",
-      "gloss": "rõõmutsad"
+      "gloss": "rõõmustavad"
     },
     {
       "surface": "כי",
@@ -91,16 +65,11 @@
     },
     {
       "surface": "עשית",
-      "gloss": "oled teinud"
+      "gloss": "tegid"
     },
     {
       "surface": "הבאת",
       "gloss": "tõid"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "päeva"
     },
     {
       "surface": "יום",
@@ -112,13 +81,13 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "ja nad saavad"
+      "gloss": "nad saavad olema"
     },
     {
       "surface": "כמוני",
-      "gloss": "minu sarnaseks"
+      "gloss": "nagu mina"
     }
   ],
-  "timestamp": "2026-10-21T04:11:29.721487293Z",
+  "timestamp": "2026-10-21T06:27:12.439172046Z",
   "model": "glm-5.3"
 }

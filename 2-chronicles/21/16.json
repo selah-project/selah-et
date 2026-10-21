@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruahh",
-      "rationale": "רוח 'ruahh' jäetakse kõlajärgi, nagu tava kohane — 'hoovus\/meelsus' ühe sõnaga."
-    },
-    {
-      "kind": "elision",
-      "subject": "על יד",
-      "rationale": "Otsetõlge 'käe peal' tähendab 'kõrval\/ligi'; eesti keeles antud ühe sidesõnaga."
-    },
-    {
-      "kind": "crux",
-      "subject": "הערבים",
-      "rationale": "'araablased' või 'segapära rahvahulk' — sama tähejärg võimaldab mõlemat."
-    }
-  ],
-  "translation": "Ja Jahve äratas Jehoorami vastu ⟨את⟩ filistlaste ruahhi ja araablaste, kes olid kušlaste kõrval.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/21\/13-16.1792557994937.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve äratas Jehoorami vastu ⟨את⟩ ruahhi filistlaste ja arablaste, kes ⟨olid⟩ kuušlaste kõrval.",
   "tokens": [
     {
       "surface": "ויער",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "filistlaste ruahhi"
+      "marks": "ruahhi filistlaste ja arablaste"
     },
     {
       "surface": "רוח",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "והערבים",
-      "gloss": "ja araablaste"
+      "gloss": "ja arablaste"
     },
     {
       "surface": "אשר",
@@ -76,13 +50,13 @@
     },
     {
       "surface": "יד",
-      "gloss": ""
+      "gloss": "käe — kõrval"
     },
     {
       "surface": "כושים",
-      "gloss": "kušlaste"
+      "gloss": "kuušlaste"
     }
   ],
-  "timestamp": "2026-10-21T04:46:34.938767376Z",
+  "timestamp": "2026-10-21T05:55:29.041673697Z",
   "model": "glm-5.3"
 }

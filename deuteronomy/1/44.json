@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הדברים",
-      "rationale": "'Mesilased' (dber) kõlab nagu דבר 'sõna' — rahvas ei kuulanud sõna ja mesilased ajasid taga; kõne exportimisel kadunud."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויכתו",
-      "rationale": "'purustasid teid' (KJV 'destroyed') on tugevam kui 'lõid'; juur 3807 on vägivaldne löök."
-    }
-  ],
-  "translation": "Ja emorlane, kes elas sel mäel, tuli välja teile vastu, ja nad ajasid teid taga nagu mesilased teevad, ja nad lõid teid Seiris kuni Hormani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "44f53345cdaabfbc8209d279cd2e4fb1382db032652a05e1db828a68791e358e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/41-44.1792540559116.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja emorlane, kes elas sel mäel, tuli välja teile vastu, ja nad ajasid teid taga, nii nagu teevad mesilised, ja lõid teid ⟨את⟩ Seiris kuni Hormani.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Ja tuli välja"
+      "gloss": "ja tuli välja"
     },
     {
       "surface": "האמרי",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "sellel"
+      "gloss": "sel"
     },
     {
       "surface": "לקראתכם",
@@ -58,11 +37,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid"
     },
     {
       "surface": "כאשר",
-      "gloss": "nagu"
+      "gloss": "nii nagu"
     },
     {
       "surface": "תעשינה",
@@ -70,15 +50,16 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "mesilased"
+      "gloss": "mesilised"
     },
     {
       "surface": "ויכתו",
-      "gloss": "ja nad lõid"
+      "gloss": "ja lõid"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid"
     },
     {
       "surface": "בשעיר",
@@ -93,6 +74,6 @@
       "gloss": "Hormani"
     }
   ],
-  "timestamp": "2026-10-20T23:55:59.118301118Z",
+  "timestamp": "2026-10-21T06:02:09.399238304Z",
   "model": "glm-5.3"
 }

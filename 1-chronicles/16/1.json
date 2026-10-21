@@ -5,54 +5,33 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויקריבו",
-      "rationale": "'tõid lähedale' hoiab heebrea kujundi 'lähenema\/ette tooma'; tavapärane 'ohverdasid' on roll, mitte sõna kuju."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שלמים",
-      "rationale": "'tänuohvrid' — sõna tähendab 'tasu, terviklikkust'; üksnes 'rahiohvrid' oleks poolik."
-    }
-  ],
-  "translation": "Ja nad tõidsid sisse ⟨את⟩ Elohimi arku ja asetasid selle telgi keskele, mille David oli talle püstitanud, ja nad tõidsid lähedale põletusohvreid ja tänuohvreid Elohimu näo ees.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9a9e5ed4dcd96bd925e2d4cc0c38c23b8ef320c4b7d1d81d44e99f001296a5cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/16\/1-4.1792557424802.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tõid ⟨את⟩ Elohimi laeka ja panid ⟨את⟩ selle telgi keskele, mille David oli talle üles püstitanud; ja nad ohverdasid põletusohvreid ja tänuohvreid Elohimi palge ees.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "ja nad tõidsid sisse"
+      "gloss": "ja nad tõid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elohimi arku"
+      "marks": "Elohimi laeka"
     },
     {
       "surface": "ארון",
-      "gloss": "arku"
+      "gloss": "laeka"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohimi"
+      "gloss": "Elohim"
     },
     {
       "surface": "ויציגו",
-      "gloss": "ja asetasid"
+      "gloss": "ja panidsid"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "ark (läbi telgi keskele asetamise)"
+      "gloss": "⟨את⟩",
+      "marks": "selle"
     },
     {
       "surface": "בתוך",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "oli püstitanud"
+      "gloss": "oli üles püstitanud"
     },
     {
       "surface": "לו",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "ויקריבו",
-      "gloss": "ja nad tõidsid lähedale"
+      "gloss": "ja nad ohverdasid"
     },
     {
       "surface": "עלות",
@@ -92,13 +71,13 @@
     },
     {
       "surface": "לפני",
-      "gloss": "näo ees"
+      "gloss": "palge ees"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohimu"
+      "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-10-21T04:37:04.802898510Z",
+  "timestamp": "2026-10-21T06:58:21.200929946Z",
   "model": "glm-5.3"
 }

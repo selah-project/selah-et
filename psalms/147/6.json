@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 147,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "aiad",
-      "rationale": "Heebrea partitsiip jätab subjekti kahepoolseks; Jahve kui subjekt on eesti lauses selgesõnaline, kuid heebrea ei ütle seda siin"
-    },
-    {
-      "kind": "crux",
-      "subject": "מעודד",
-      "rationale": "juur עוד 'toetama\/üles tõstma' vs 'tunnistama' — enamik: 'toetab, hoiab püsti'"
-    }
-  ],
-  "translation": "Jahve püstitab ⟨aiad⟩ alandlikud, ta langetab ülbelt maa ‹巾› pinnale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/147\/5-8.1792554382091.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve toetab ⟨את⟩ vaeseid, ta alandab kurje kuni maa ⟨piirini⟩.",
   "tokens": [
     {
       "surface": "מעודד",
-      "gloss": "püstitab"
+      "gloss": "toetab"
     },
     {
       "surface": "ענוים",
-      "gloss": "alandlikud"
+      "gloss": "vaeseid"
     },
     {
       "surface": "יהוה",
@@ -42,21 +21,21 @@
     },
     {
       "surface": "משפיל",
-      "gloss": "langetab"
+      "gloss": "alandab"
     },
     {
       "surface": "רשעים",
-      "gloss": "ülbed"
+      "gloss": "kurje"
     },
     {
       "surface": "עדי",
-      "gloss": "maa pinnale"
+      "gloss": "kuni"
     },
     {
       "surface": "ארץ",
       "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-21T03:46:22.091786202Z",
+  "timestamp": "2026-10-21T06:41:14.032644847Z",
   "model": "glm-5.3"
 }

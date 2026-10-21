@@ -5,44 +5,23 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יצג",
-      "rationale": "'jätku paigale' vs passiiv 'jäägu järele' — heebrea põhivorm on 'pangu paigale'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "טפכם",
-      "rationale": "'teie lapsed' (KJV 'little ones') — טף on kollektiivne 'perekond, väikesed'"
-    }
-  ],
-  "translation": "Ja Parao kutsus Moše ja ütles: Minge, teenige ⟨את⟩ Jahvet; ainult teie lambad ja kitsed ning veised jätku kohta, ka teie lapsed ärgu minku teiega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4afe2dc940b2d1c652d6ac864512f759a948c80af82daf006aaff879d85716ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/10\/21-24.1792538395328.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Paroh kutsus Moše ja ütles: Minge, teenige ⟨את⟩ Jahvet; ainult teie lambad ja kitsed ja teie veised jätku ⟨seisma⟩; ka teie väiksed ärku teiega kaasa.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Ja kutsus"
+      "gloss": "ja kutsus"
     },
     {
       "surface": "פרעה",
-      "gloss": "Parao"
+      "gloss": "Paroh"
     },
     {
       "surface": "אל",
-      "gloss": "Mošet"
+      "gloss": "juurde"
     },
     {
       "surface": "משה",
-      "gloss": ""
+      "gloss": "Moše"
     },
     {
       "surface": "ויאמר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "לכו",
-      "gloss": "Minge"
+      "gloss": "minge"
     },
     {
       "surface": "עבדו",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "ובקרכם",
-      "gloss": "ning veised"
+      "gloss": "ja teie veised"
     },
     {
       "surface": "יצג",
-      "gloss": "jätku kohta"
+      "gloss": "jätku ⟨seisma⟩"
     },
     {
       "surface": "גם",
@@ -87,17 +66,17 @@
     },
     {
       "surface": "טפכם",
-      "gloss": "teie lapsed"
+      "gloss": "teie väiksed"
     },
     {
       "surface": "ילך",
-      "gloss": "ärgu minku"
+      "gloss": "ärku"
     },
     {
       "surface": "עמכם",
-      "gloss": "teiega"
+      "gloss": "teiega kaasa"
     }
   ],
-  "timestamp": "2026-10-20T23:19:55.329305550Z",
+  "timestamp": "2026-10-21T06:04:50.426859599Z",
   "model": "glm-5.3"
 }

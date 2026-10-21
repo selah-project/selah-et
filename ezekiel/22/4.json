@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ma",
-      "rationale": "Kaalukas kõneleja selgitamiseks lisatud asesõna, heebreas puudub"
-    },
-    {
-      "kind": "idiom",
-      "subject": "אשמת",
-      "rationale": "Heebrea 'oled sa süüdi' väljendab olemisoleku, mitte teokohta nagu 'oled süüd teinud'"
-    }
-  ],
-  "translation": "Sinu veres, mille sa oled valanud, oled sa süüdi, ja oma ebajumalatega, mida sa oled teinud, oled sa rüvetatud; ja sa oled oma päevad ligi toonud ja jõudnud oma aastateni; seepärast andsin ma sind rahvaste pilkeks ja naeruvääristuseks kõigile maadele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "caaeceabb955c9fd16874b382a560f69e7f318886fa409e44eb99f4d03df040c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/22\/1-4.1792550208863.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Oma veres, mille oled valanud, oled sa süüdi, ja oma ebajumalates, mida oled teinud, oled sa ebapuhas; sa oled lasknud oma päevadel läheneda ja oled jõudnud ⟨oma⟩ aastateni; seepärast andsin ma sind rahvaste pilkeks ja naeruks kõigile maadele.",
   "tokens": [
     {
       "surface": "בדמך",
-      "gloss": "sinu veres"
+      "gloss": "oma veres"
     },
     {
       "surface": "אשר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "שפכת",
-      "gloss": "sa oled valanud"
+      "gloss": "oled valanud"
     },
     {
       "surface": "אשמת",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ובגלוליך",
-      "gloss": "ja oma ebajumalatega"
+      "gloss": "ja oma ebajumalates"
     },
     {
       "surface": "אשר",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "עשית",
-      "gloss": "sa oled teinud"
+      "gloss": "oled teinud"
     },
     {
       "surface": "טמאת",
-      "gloss": "oled sa rüvetatud"
+      "gloss": "oled sa ebapuhas"
     },
     {
       "surface": "ותקריבי",
-      "gloss": "ja sa oled ligi toonud"
+      "gloss": "sa oled lasknud läheneda"
     },
     {
       "surface": "ימיך",
-      "gloss": "oma päevad"
+      "gloss": "oma päevadel"
     },
     {
       "surface": "ותבוא",
-      "gloss": "ja jõudnud"
+      "gloss": "ja oled jõudnud"
     },
     {
       "surface": "עד",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "על",
-      "gloss": "seepärast"
+      "gloss": "seepärast —"
     },
     {
       "surface": "כן",
-      "gloss": ""
+      "gloss": "— sellepärast"
     },
     {
       "surface": "נתתיך",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "וקלסה",
-      "gloss": "ja naeruvääristuseks"
+      "gloss": "ja naeruks"
     },
     {
       "surface": "לכל",
@@ -113,6 +92,6 @@
       "gloss": "maadele"
     }
   ],
-  "timestamp": "2026-10-21T02:36:48.864080015Z",
+  "timestamp": "2026-10-21T06:09:25.682791577Z",
   "model": "glm-5.3"
 }

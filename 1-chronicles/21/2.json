@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "loetke",
-      "rationale": "Loenduskäsk Be'er-Ševast Danini — kogu maa haarav rahvaloensus."
-    },
-    {
-      "kind": "addition",
-      "subject": "et ma teaks",
-      "rationale": "ספרו 'märkida, teha arve' on loendussidumatus; eesti 'loetke' katab nii lugemise kui üleskirjutamise."
-    }
-  ],
-  "translation": "Ja David ütles Joabi ja rahva ülematele: Minge, loetke ⟨את⟩ Jisrael Be'er-Ševast kuni Danini, ja tooke mulle, et ma teaks ⟨את⟩ nende arvu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/21\/1-4.1792557499694.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David ütles Joabile ja rahva ülemustele: minge, loendage ⟨את⟩ Jisrael Beer-Ševast kuni Danini, ja tooge ⟨see⟩ minule, et ma teaks ⟨את⟩ nende arvu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "(kellele)"
-    },
-    {
-      "surface": "יואב",
       "gloss": "Joabile"
     },
     {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
       "surface": "ואל",
-      "gloss": "ja"
+      "gloss": "ja ... ülemustele"
     },
     {
       "surface": "שרי",
-      "gloss": "ülematele"
+      "gloss": "ülemustele"
     },
     {
       "surface": "העם",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ספרו",
-      "gloss": "loetke"
+      "gloss": "loendage"
     },
     {
       "surface": "את",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "מבאר",
-      "gloss": "Be'er-Ševast"
+      "gloss": "Beer-Ševast"
     },
     {
       "surface": "שבע",
-      "gloss": ""
+      "gloss": "Beer-Ševa"
     },
     {
       "surface": "ועד",
@@ -91,11 +70,11 @@
     },
     {
       "surface": "והביאו",
-      "gloss": "ja tooke"
+      "gloss": "ja tooge"
     },
     {
       "surface": "אלי",
-      "gloss": "mulle"
+      "gloss": "minule"
     },
     {
       "surface": "ואדעה",
@@ -111,6 +90,6 @@
       "gloss": "nende arvu"
     }
   ],
-  "timestamp": "2026-10-21T04:38:19.695190407Z",
+  "timestamp": "2026-10-21T05:49:46.498622115Z",
   "model": "glm-5.3"
 }

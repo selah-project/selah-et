@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eesti kääne 'Joošuale' kannab suuna, eraldi prepositsioon jääb tõlkes märkimata"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גלותי \/ גלגל",
-      "rationale": "'Veeretanut' ja paiganimi Gilgal on sama juur גלל — sõnamäng, mis eesti keeles osaliselt säilib"
-    }
-  ],
-  "translation": "Ja Jahve ütles Joošuale: Täna olen ma veeretanut ⟨את⟩ Mitsraimi häbi teie küljest ära. Ja ta kutsus selle paiga nimeks Gilgal, tänapäevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/5\/9-12.1792541347313.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Jehoošuale: Täna olen mina ⟨את⟩ häbi Mitsraimist teie küljest ära veerenud. Ja selle paiga nime kutsuti Gilgal kuni tänapäevani.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jehoošuale"
     },
     {
       "surface": "יהושע",
-      "gloss": "Joošuale"
+      "gloss": "Jehoošuale"
     },
     {
       "surface": "היום",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "גלותי",
-      "gloss": "olen veeretanut"
+      "gloss": "olen mina ära veerenud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mitsraimi häbi"
+      "marks": "häbi Mitsraimist"
     },
     {
       "surface": "חרפת",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsraimi"
+      "gloss": "Mitsraimist"
     },
     {
       "surface": "מעליכם",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "ויקרא",
-      "gloss": "ja ta kutsus"
+      "gloss": "ja kutsuti"
     },
     {
       "surface": "שם",
-      "gloss": "nimeks"
+      "gloss": "nime"
     },
     {
       "surface": "המקום",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "selle päevani"
+      "gloss": "tänapäevani"
     }
   ],
-  "timestamp": "2026-10-21T00:09:07.314765648Z",
+  "timestamp": "2026-10-21T06:25:13.189663442Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "לשכני",
-      "rationale": "'Et elada' kordab salmi 45 juurt שכן ja viitab miškanile, kellega järgmine salm algab."
-    }
-  ],
-  "translation": "Ja nad teavad, et mina olen Jahve, nende Elohim, kes tõin nad välja Mitsraimi maalt, et elada nende keskel; mina olen Jahve, nende Elohim.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f8580e6f315854448daddb113835a796f3edbc61938de5d885a444e067aca3fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/29\/45-46.1792538792219.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tundsid, et mina olen Jahve, nende Elohim, kes tõin nad ⟨את⟩ välja Mitsraimi maalt, et ma saaksin nende keskel elada; mina olen Jahve, nende Elohim.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "Ja nad teavad"
+      "gloss": "ja nad tundsid"
     },
     {
       "surface": "כי",
@@ -54,7 +38,7 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nad"
+      "marks": "nemad"
     },
     {
       "surface": "מארץ",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "לשכני",
-      "gloss": "et elada"
+      "gloss": "et ma saaksin elada"
     },
     {
       "surface": "בתוכם",
@@ -85,6 +69,6 @@
       "gloss": "nende Elohim"
     }
   ],
-  "timestamp": "2026-10-20T23:26:32.220348531Z",
+  "timestamp": "2026-10-21T06:06:11.280966852Z",
   "model": "glm-5.3"
 }

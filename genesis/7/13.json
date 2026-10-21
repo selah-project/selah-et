@@ -5,41 +5,15 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בעצם היום הזה",
-      "rationale": "sõna-sõnalt 'selle päeva luus', eesti 'just sel päeval'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolm naist",
-      "rationale": "loendus: kolm poja naist"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בעצם \/ עצם",
-      "rationale": "'luu\/substants' tugevusvorm 'just ise', eesti keeles kajab 'just'"
-    }
-  ],
-  "translation": "Just sel päeval läks Noa ja Šeem ja Ham ja Jaafet, Noa pojad, ja Noa naine ja kolm tema poegade naist koos nendega laeva.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7779818b5ecbfb020768820301cd4e596c3596d641f848a8e98d699cd97dd60e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/7\/13-16.1792537408511.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Selsamal päeval läks Nooah ja Šeem ja Haam ja Jaafet, Nooa pojad, ja Nooa naine ja kolm naiseks poegadele nendega ⟨את⟩ laeva.",
   "tokens": [
     {
       "surface": "בעצם",
-      "gloss": "just"
+      "gloss": "selsamal — otse: selle luu-päeval"
     },
     {
       "surface": "היום",
-      "gloss": "sel päeval"
+      "gloss": "päeval"
     },
     {
       "surface": "הזה",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "בא",
-      "gloss": "läks"
+      "gloss": "läks sisse"
     },
     {
       "surface": "נח",
-      "gloss": "Noa"
+      "gloss": "Nooah"
     },
     {
       "surface": "ושם",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "וחם",
-      "gloss": "ja Ham"
+      "gloss": "ja Haam"
     },
     {
       "surface": "ויפת",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "נח",
-      "gloss": "Noa"
+      "gloss": "Nooa"
     },
     {
       "surface": "ואשת",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "נח",
-      "gloss": "Noa"
+      "gloss": "Nooa"
     },
     {
       "surface": "ושלשת",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "נשי",
-      "gloss": "naist"
+      "gloss": "naised"
     },
     {
       "surface": "בניו",
@@ -95,18 +69,17 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "koos nendega"
+      "gloss": "⟨את⟩ nendega"
     },
     {
       "surface": "אל",
-      "gloss": "koos nendega"
+      "gloss": "sisse"
     },
     {
       "surface": "התבה",
       "gloss": "laeva"
     }
   ],
-  "timestamp": "2026-10-20T23:03:28.512812754Z",
+  "timestamp": "2026-10-21T06:17:04.169019112Z",
   "model": "glm-5.3"
 }

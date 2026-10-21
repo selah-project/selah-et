@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עפלים",
-      "rationale": "'paisted\/kasvajad' vs hilisem juudi traditsioon 'pässid' (Targum); eesti valib sõnasõnalise 'paisted'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "raske",
-      "rationale": "כבד 'raske olema' — eesti 'raske' hoiab sõna kuju, mida 'karm' kaotaks."
-    }
-  ],
-  "translation": "Ja Jahve käsi oli raske ašdodlaste üle ja ta laastas nad ning lõi neid paisetega — ⟨את⟩ Ašdodi ja ⟨את⟩ tema piire.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d9183267ed3debf1aeb5b8f14e2e801ffb0a52b1deabeddd7fb69936a15bfbdd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/5\/5-8.1792543766642.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve kätuoli raske Ashdodi elanike kohal, ja ta laastas nad, ja ta lõi neid paistetustega — ⟨את⟩ Ashdodi ja ⟨את⟩ selle piire.",
   "tokens": [
     {
       "surface": "ותכבד",
-      "gloss": "oli raske"
+      "gloss": "ja oli raske"
     },
     {
       "surface": "יד",
@@ -42,48 +21,48 @@
     },
     {
       "surface": "אל",
-      "gloss": "üle"
+      "gloss": "kohal"
     },
     {
       "surface": "האשדודים",
-      "gloss": "ašdodlaste"
+      "gloss": "Ashdodi elanike"
     },
     {
       "surface": "וישמם",
-      "gloss": "laastas"
+      "gloss": "ja ta laastas nad"
     },
     {
       "surface": "ויך",
-      "gloss": "ja lõi"
+      "gloss": "ja ta lõi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "neid"
+      "marks": "neid (Ashdodi elanikud)"
     },
     {
       "surface": "בעפלים",
-      "gloss": "paisetega"
+      "gloss": "paistetustega"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ašdodi"
+      "marks": "Ashdod"
     },
     {
       "surface": "אשדוד",
-      "gloss": "Ašdodi"
+      "gloss": "Ashdod"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "tema piire"
+      "marks": "selle piire"
     },
     {
       "surface": "גבוליה",
-      "gloss": "tema piire"
+      "gloss": "selle piire"
     }
   ],
-  "timestamp": "2026-10-21T00:49:26.645720335Z",
+  "timestamp": "2026-10-21T05:54:03.758435268Z",
   "model": "glm-5.3"
 }

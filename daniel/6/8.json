@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kolmkümmend päeva",
-      "rationale": "Määruse ajaline piir täpselt arvus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jumalalt",
-      "rationale": "כל אלה 'igalt jumalalt' — üldine väljend, mitte Nimi; väike täht on õige"
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "rationale": "Aramea suhteline די kaob eesti sidesõnas 'et' ja kaob enne 'igaüks'"
-    }
-  ],
-  "translation": "Nõupidasid kokku kõik kuningriigi pealikud, asevalitsejad ja asehaldurid, nõunikud ja maakonnaülemad, et kuningasLooks_kind kirjutaks kehtiva määruse ja tugevaks tehtud keelu: igaüks, kes palub palve üheltki jumalalt või inimeselt kuni kolmekümne päevani, välja arvatud sinult, kuningas, heidetakse lõvide kaevu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9e3173850f06657441f0037510d87059bdc210fb6d2033ed1e6a7d4b734a516b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/6\/5-8.1792556453778.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nõu pidasid kõik kuningriigi ülemad, sepanid ja ahsadarpennid, nõunikud ja paigid, et kuningas kinnitaks seadluse ja kindlustaks keelu, et igaüks, kes palub mõne jumala või inimese käest midagi kuni kolmekümne päevani — välja arvatud sinult, oh kuningas — heidetakse lõvide kaevu.",
   "tokens": [
     {
       "surface": "אתיעטו",
-      "gloss": "nõupidasid kokku"
+      "gloss": "nõu pidasid"
     },
     {
       "surface": "כל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "סרכי",
-      "gloss": "pealikud"
+      "gloss": "ülemad"
     },
     {
       "surface": "מלכותא",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "סגניא",
-      "gloss": "asevalitsejad"
+      "gloss": "sepanid"
     },
     {
       "surface": "ואחשדרפניא",
-      "gloss": "ja asehaldurid"
+      "gloss": "ja ahsadarpennid"
     },
     {
       "surface": "הדבריא",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "ופחותא",
-      "gloss": "ja maakonnaülemad"
+      "gloss": "ja paigid"
     },
     {
       "surface": "לקימה",
-      "gloss": "kehtima panema"
+      "gloss": "et kinnitaks"
     },
     {
       "surface": "קים",
-      "gloss": "määruse"
+      "gloss": "seadluse"
     },
     {
       "surface": "מלכא",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "ולתקפה",
-      "gloss": "ja tugevaks tegema"
+      "gloss": "ja kindlustaks"
     },
     {
       "surface": "אסר",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "כל",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "kes"
     },
     {
       "surface": "יבעה",
@@ -103,23 +77,23 @@
     },
     {
       "surface": "בעו",
-      "gloss": "palve"
+      "gloss": "midagi"
     },
     {
       "surface": "מן",
-      "gloss": "ült"
+      "gloss": "käest"
     },
     {
       "surface": "כל",
-      "gloss": "üheletki"
+      "gloss": "mõne"
     },
     {
       "surface": "אלה",
-      "gloss": "jumalalt"
+      "gloss": "jumala"
     },
     {
       "surface": "ואנש",
-      "gloss": "või inimeselt"
+      "gloss": "või inimese"
     },
     {
       "surface": "עד",
@@ -143,7 +117,7 @@
     },
     {
       "surface": "מלכא",
-      "gloss": "kuningas"
+      "gloss": "oh kuningas"
     },
     {
       "surface": "יתרמא",
@@ -158,6 +132,6 @@
       "gloss": "lõvide"
     }
   ],
-  "timestamp": "2026-10-21T04:20:53.779836344Z",
+  "timestamp": "2026-10-21T06:01:59.468816712Z",
   "model": "glm-5.3"
 }

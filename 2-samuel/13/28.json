@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "טוב לב ביין",
-      "rationale": "Sõna-sõnalt 'hea südames veinist' — heebrea rõõmu idiom, eestis 'süda on veinist rõõmus'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "vahvateks meesteks",
-      "rationale": "בני חיל sõna-sõnalt 'väe pojad' — tugevuse\/vaprust omav mees; 'vahvad mehed' kannab pildi."
-    }
-  ],
-  "translation": "Ja Avšalom käskis ⟨את⟩ oma noormehed, öeldes: vaadake palun, kui Amnoni süda on veinist rõõmus, ja ma ütlen teile: lööge ⟨את⟩ Amnon ja tappke ⟨את⟩ ta ära; ärge kartke; eks mina olen ⟨את⟩ teid käskinud? Olge kindlad ja olge vahvateks meesteks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/13\/25-28.1792544739014.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Avšalom käskis ⟨את⟩ oma noorukitel, öeldes: Vaadake nüüd, kui Avnoni süda on hea veinist, ja ma ütlen teile: Lööge ⟨את⟩ Avnon, ja tapke ⟨את⟩ ta ära; ärgem kartke — ega ole ju mina, kes teile käsu andis? Olge tugevad ja olge väärikad söamehed.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "Ja käskis"
+      "gloss": "ja käskis"
     },
     {
       "surface": "אבשלום",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma noormehed"
+      "marks": "oma noorukitel"
     },
     {
       "surface": "נעריו",
-      "gloss": "oma noormehed"
+      "gloss": "oma noorukitel"
     },
     {
       "surface": "לאמר",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "נא",
-      "gloss": "palun"
+      "gloss": "nüüd"
     },
     {
       "surface": "כטוב",
-      "gloss": "kui rõõmus"
+      "gloss": "kui ... on hea"
     },
     {
       "surface": "לב",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnoni"
+      "gloss": "Avnoni"
     },
     {
       "surface": "ביין",
@@ -88,24 +67,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Amnon"
+      "marks": "Avnon"
     },
     {
       "surface": "אמנון",
-      "gloss": "Amnon"
+      "gloss": "Avnon"
     },
     {
       "surface": "והמתם",
-      "gloss": "ja tappke"
+      "gloss": "ja tapke"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ta ära",
-      "marks": "ta (Amnoni)"
+      "gloss": "⟨את⟩",
+      "marks": "ta"
     },
     {
       "surface": "אל",
-      "gloss": "ärge"
+      "gloss": "ärgem"
     },
     {
       "surface": "תיראו",
@@ -113,11 +92,11 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "eks"
+      "gloss": "ega pole"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ju"
     },
     {
       "surface": "אנכי",
@@ -125,16 +104,15 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "olen käskinud"
+      "gloss": "käsu andsin"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
-      "marks": "noormehed, kellele käsitus käib"
+      "gloss": "⟨את⟩ teile"
     },
     {
       "surface": "חזקו",
-      "gloss": "olge kindlad"
+      "gloss": "olge tugevad"
     },
     {
       "surface": "והיו",
@@ -142,13 +120,13 @@
     },
     {
       "surface": "לבני",
-      "gloss": "meesteks"
+      "gloss": "söamehed"
     },
     {
       "surface": "חיל",
-      "gloss": "vahvateks"
+      "gloss": "söamehed"
     }
   ],
-  "timestamp": "2026-10-21T01:05:39.021679133Z",
+  "timestamp": "2026-10-21T05:59:42.436328361Z",
   "model": "glm-5.3"
 }

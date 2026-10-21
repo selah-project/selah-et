@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "שובך",
-      "rationale": "okstepõimik — see sõna esineb Tanahhis ainult selles salmis."
-    },
-    {
-      "kind": "substitution",
-      "subject": "rippuma",
-      "rationale": "ויתן 'ja ta pandi' — otseütles 'anti\/loodi', eesti kõne nõuab öeldist 'ripub', <rippuma> tähistab lisatud sõna."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויחזק ראשו",
-      "rationale": "sõna-sõnalt 'tema pea sai tugevaks tammes' — kas pea jäi okste vahele kinni või juuksepats (vrd 14:26) haaras puu otsa."
-    }
-  ],
-  "translation": "Ja Avšalom sattus kokku Davidi teenritega, ja Avšalom ratsutas muulal, ja muul tuli alla suure tamme okstepõimikusse, ja tema pea kinnitus tammes <rippuma>, ja ta pandi taeva ja maa vahele, ja muul, kes tema all oli, läks edasi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "97089caf189c1052d268500a7a1033c44b03908a25321c6a47753e31d56617c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/18\/9-12.1792544939922.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Avšalom sattus kokku Davidi sulastega, ja Avšalom ratsutas muulal, ja muul läks suure tamme tihnikute alla, ja tema pea jäi tamme külge kinni, ja ⟨tema⟩ pandi taeva ja maa vahele, ja muul, kes tema all ⟨oli⟩, läks edasi.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "teenrite"
+      "gloss": "sulased"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Davidi"
     },
     {
       "surface": "ואבשלום",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "ja tuli"
+      "gloss": "ja läks"
     },
     {
       "surface": "הפרד",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "שובך",
-      "gloss": "okstepõimikusse"
+      "gloss": "tihnikute"
     },
     {
       "surface": "האלה",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "ויחזק",
-      "gloss": "ja kinnitus"
+      "gloss": "ja jäi kinni"
     },
     {
       "surface": "ראשו",
@@ -103,15 +77,15 @@
     },
     {
       "surface": "באלה",
-      "gloss": "tammes"
+      "gloss": "tamme külge"
     },
     {
       "surface": "ויתן",
-      "gloss": "ja ta pandi"
+      "gloss": "ja pandi"
     },
     {
       "surface": "בין",
-      "gloss": "vahel"
+      "gloss": "vahele"
     },
     {
       "surface": "השמים",
@@ -119,7 +93,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "ja vahel"
+      "gloss": "ja"
     },
     {
       "surface": "הארץ",
@@ -142,6 +116,6 @@
       "gloss": "läks edasi"
     }
   ],
-  "timestamp": "2026-10-21T01:08:59.924283450Z",
+  "timestamp": "2026-10-21T06:00:18.240654291Z",
   "model": "glm-5.3"
 }

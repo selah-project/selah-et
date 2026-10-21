@@ -5,36 +5,20 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "יהוא",
-      "rationale": "Nimi kuulub lauses kokku tegusõnaga 'Ja Jeehu lõi'; eraldi glossi ei vaja."
-    }
-  ],
-  "translation": "Ja Jeehu lõi ⟨את⟩ kõik, kes Ahavi soost Jisreelis alles jäid, ja kõik tema suured mehed ning tema tuttavad ja tema preestrid, nii et ei jätnud talle ühtegi ellujäänut.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b180fdfdd8d108379f4744b103dbfee88ea5cb7433427e93e4420117d032d337",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/10\/9-12.1792546159630.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jeihu lõi ⟨את⟩ kõik, kes jäid alles Ahabi soost Jisreelis, ja kõik tema suurmehed ja tema tuttavad ja tema preestrid, nii et temale ei jäetud ⟨temale⟩ ühtegi jäänust.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "Ja Jeehu lõi"
+      "gloss": "ja lõi"
     },
     {
       "surface": "יהוא",
-      "gloss": ""
+      "gloss": "Jeihu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik, kes Ahavi soost alles jäid"
+      "marks": "kõik, kes jäid alles"
     },
     {
       "surface": "כל",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "kes alles jäid"
+      "gloss": "kes jäid alles"
     },
     {
       "surface": "לבית",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahavi"
+      "gloss": "Ahabi"
     },
     {
       "surface": "ביזרעאל",
@@ -62,11 +46,11 @@
     },
     {
       "surface": "גדליו",
-      "gloss": "tema suured mehed"
+      "gloss": "tema suurmehed"
     },
     {
       "surface": "ומידעיו",
-      "gloss": "tema tuttavad"
+      "gloss": "ja tema tuttavad"
     },
     {
       "surface": "וכהניו",
@@ -82,17 +66,17 @@
     },
     {
       "surface": "השאיר",
-      "gloss": "jätnud"
+      "gloss": "jäetud"
     },
     {
       "surface": "לו",
-      "gloss": "talle"
+      "gloss": "temale"
     },
     {
       "surface": "שריד",
-      "gloss": "ühtegi ellujäänut"
+      "gloss": "jäänust"
     }
   ],
-  "timestamp": "2026-10-21T01:29:19.632778887Z",
+  "timestamp": "2026-10-21T05:56:36.170380178Z",
   "model": "glm-5.3"
 }

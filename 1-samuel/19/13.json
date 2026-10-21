@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "כביר",
-      "rationale": "Sõna כביר esineb Tanahhis ainult siin ja 19:16 — kootud voodipadi või katte matt."
-    },
-    {
-      "kind": "crux",
-      "subject": "terafimid",
-      "rationale": "התרפים: kodune kultuskuju; tõlkijad pakuvad 'kuju', 'pilt', 'teraafim'."
-    }
-  ],
-  "translation": "Ja Mikal võttis ⟨את⟩ terafimid ja pani voodile, ning kitsede karvast voodipatja pani tema päitsi kohale ja kattis selle riidega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/19\/13-16.1792544053013.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Mikal võttis ⟨את⟩ teraafimid ja pani voodile, ja ⟨את⟩ kitsede karvast võru pani ta tema päitsenõukese kohale, ja kattis ta riietega.",
   "tokens": [
     {
       "surface": "ותקח",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "terafimid"
+      "marks": "teraafimid"
     },
     {
       "surface": "התרפים",
-      "gloss": "terafimid"
+      "gloss": "teraafimid"
     },
     {
       "surface": "ותשם",
@@ -60,23 +39,23 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kitsede karvast voodipadi"
+      "marks": "kitsede karvast võru"
     },
     {
       "surface": "כביר",
-      "gloss": "voodipadi"
+      "gloss": "kitsede karvast võrk-võru"
     },
     {
       "surface": "העזים",
-      "gloss": "kitsede karvast"
+      "gloss": "kitsede"
     },
     {
       "surface": "שמה",
-      "gloss": "pani"
+      "gloss": "pani ta"
     },
     {
       "surface": "מראשתיו",
-      "gloss": "tema päitsi kohale"
+      "gloss": "tema päitsenõukese kohale"
     },
     {
       "surface": "ותכס",
@@ -84,9 +63,9 @@
     },
     {
       "surface": "בבגד",
-      "gloss": "riidega"
+      "gloss": "riietega"
     }
   ],
-  "timestamp": "2026-10-21T00:54:13.015980710Z",
+  "timestamp": "2026-10-21T05:53:16.394232090Z",
   "model": "glm-5.3"
 }

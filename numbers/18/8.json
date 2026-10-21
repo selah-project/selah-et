@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eessõna אelahkub eesti 'Aaronile' käänetäpiga; eraldi sõnata jäänud."
-    },
-    {
-      "kind": "crux",
-      "subject": "למשחה",
-      "rationale": "'võitmise (salv) pärast' vs 'pühitsetud osaks' — KJV 'anointing', JPS 'consecrated portion'."
-    }
-  ],
-  "translation": "Ja Jahve rääkis Aaronile: Ja mina, vaata, olen andnud sinule hoolt ⟨את⟩ oma tõuskingituste üle, kõigi Jisraeli laste püha-asjade — sinule annan need võitmise eest ja sinu poegadele igaveseks seaduseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "41e449fae83bf3008b62ecd12719ffd04901d52e4a220a19d6c6c531a19fc611",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/18\/5-8.1792540137507.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve rääkis Aharonile: Ja mina, vaata, annan sinule ⟨את⟩ minu tõusohvlite hoidmise — kõik püha Jisraeli poegadest; sinule annan need võitluseks ja sinu poegadele igaveseks määruseks.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "...ile"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aaronile"
+      "gloss": "Aharon"
     },
     {
       "surface": "ואני",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "olen andnud"
+      "gloss": "annan"
     },
     {
       "surface": "לך",
@@ -63,31 +42,31 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hoole"
+      "marks": "hoidmine"
     },
     {
       "surface": "משמרת",
-      "gloss": "hoolt"
+      "gloss": "hoidmise"
     },
     {
       "surface": "תרומתי",
-      "gloss": "mu tõuskingituste"
+      "gloss": "minu tõusohvlite"
     },
     {
       "surface": "לכל",
-      "gloss": "kõigi"
+      "gloss": "kõik"
     },
     {
       "surface": "קדשי",
-      "gloss": "püha-asjade"
+      "gloss": "püha"
     },
     {
       "surface": "בני",
-      "gloss": "lapsed"
+      "gloss": "poegadest"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraeli"
+      "gloss": "Jisrael"
     },
     {
       "surface": "לך",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "למשחה",
-      "gloss": "võitmise eest"
+      "gloss": "võitluseks"
     },
     {
       "surface": "ולבניך",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "לחק",
-      "gloss": "seaduseks"
+      "gloss": "määruseks"
     },
     {
       "surface": "עולם",
       "gloss": "igaveseks"
     }
   ],
-  "timestamp": "2026-10-20T23:48:57.509254778Z",
+  "timestamp": "2026-10-21T06:32:19.894990429Z",
   "model": "glm-5.3"
 }

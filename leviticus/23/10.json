@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קצרתם\/קצירה\/קצירכם",
-      "rationale": "juur קצר kordub kolm kord — 'lõikate\/saagi\/saagi' hoiab kõlad kokku"
-    },
-    {
-      "kind": "crux",
-      "subject": "עמר",
-      "rationale": "omer nii ihu kui kuivmõõt; siin ihu tähenduses, jäetud kõlakujule 'omer-ihu'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli lastele",
-      "rationale": "otsekõne kogudusele läbi Moše"
-    }
-  ],
-  "translation": "Räägi Jisraeli lastega ja ütle neile: kui te tulette maale, mida mina teile annan, ja lõikate ⟨את⟩ selle saagi, siis tooge oma saagi algvili, ⟨את⟩ omer-ihu, preestrile.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/9-12.1792539530335.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Räägi Jisraeli lastega ja ütle neile: Kui te tulete ⟨maale⟩, mida mina teile annan, ja lõikate selle lõikuse, siis tooge preestrile ⟨את⟩ oomer, teie lõikuse esimene-vili.",
   "tokens": [
     {
       "surface": "דבר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "koos"
     },
     {
       "surface": "בני",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "kui"
+      "gloss": "Kui"
     },
     {
       "surface": "תבאו",
-      "gloss": "te tulette"
+      "gloss": "te tulete"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨maale⟩"
     },
     {
       "surface": "הארץ",
@@ -96,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle saagi"
+      "marks": "selle lõikuse"
     },
     {
       "surface": "קצירה",
-      "gloss": "selle saagi"
+      "gloss": "selle lõikuse"
     },
     {
       "surface": "והבאתם",
@@ -109,29 +83,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "omer-ihu"
+      "marks": "oomeri"
     },
     {
       "surface": "עמר",
-      "gloss": "omer-ihu"
+      "gloss": "oomeri"
     },
     {
       "surface": "ראשית",
-      "gloss": "algvili"
+      "gloss": "esimene-vili"
     },
     {
       "surface": "קצירכם",
-      "gloss": "oma saagi"
+      "gloss": "teie lõikuse"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "preestrile"
     },
     {
       "surface": "הכהן",
       "gloss": "preestrile"
     }
   ],
-  "timestamp": "2026-10-20T23:38:50.336730289Z",
+  "timestamp": "2026-10-21T06:41:17.236560606Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,20 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "pärandiks",
-      "rationale": "ינחיל hifili 'pärandiks andma' — eesti vajab täiendit konstruktsiooni selguseks"
-    }
-  ],
-  "translation": "Ja käsi Jehošuat ja tugevda teda ja kinnita teda, sest tema läheb üle selle rahva ees ja tema annab neile pärandiks ⟨את⟩ maa, mida sina näed.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4c334c266f804d03ce129578f1c4f25b4cf520c207c9c93ea5ac78d355d559d5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/3\/25-28.1792540624247.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja käsi Jehoošual ning tugevda ⟨teda⟩ ja kangesta ⟨teda⟩, sest tema läheb üle selle rahva ees, ja tema annab ⟨את⟩ neile pärilikku maad ⟨את⟩, mida sa näed.",
   "tokens": [
     {
       "surface": "וצו",
-      "gloss": "ja käsi"
+      "gloss": "Ja käsi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehošuat"
+      "marks": "Jehoošua"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehošuat"
+      "gloss": "Jehoošua"
     },
     {
       "surface": "וחזקהו",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "ואמצהו",
-      "gloss": "ja kinnita teda"
+      "gloss": "ja kangesta teda"
     },
     {
       "surface": "כי",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "ees"
+      "gloss": "eees"
     },
     {
       "surface": "העם",
@@ -74,21 +58,19 @@
     },
     {
       "surface": "ינחיל",
-      "gloss": "annab pärandiks"
+      "gloss": "annab pärilikku maad"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid",
-      "marks": "nemad"
+      "gloss": "⟨את⟩ neile"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "maa"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הארץ",
-      "gloss": "maa"
+      "gloss": "maad"
     },
     {
       "surface": "אשר",
@@ -96,9 +78,9 @@
     },
     {
       "surface": "תראה",
-      "gloss": "sina näed"
+      "gloss": "sa näed"
     }
   ],
-  "timestamp": "2026-10-20T23:57:04.248616630Z",
+  "timestamp": "2026-10-21T06:03:05.896346765Z",
   "model": "glm-5.3"
 }

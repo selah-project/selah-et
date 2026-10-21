@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "'vaid \/ vaid ainult' — heebrea piirav konstruktsioon"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "משל",
-      "rationale": "vanasõna tegu ja ütlemine sama juurega, vastus 22. salmi tsitaadile"
-    },
-    {
-      "kind": "you",
-      "subject": "Hesekiel",
-      "rationale": "käsuõigusviis 'ütle neile'"
-    }
-  ],
-  "translation": "Seepärast ütle neile: nõnda ütleb Adonai Jahve: Ma panen lõppele ⟨את⟩ selle vanasõna ega öelda seda enam Jisraelis; vaid räägi neile: Lähedale on tulnud päevad ja iga nägemuse sõna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/12\/21-24.1792549826079.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Seepärast ütle neile: nõnda ütleb Adonai Jahve: ma olen lõpetanud ⟨את⟩ selle masali ja nad ei lausu seda ⟨את⟩ enam masalina Jisraelis, vaid räägi neile: lähedal on päevad ja sõna igast nägemisest.",
   "tokens": [
     {
       "surface": "לכן",
@@ -63,16 +37,16 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "Ma panen lõppele"
+      "gloss": "ma olen lõpetanud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle vanasõna"
+      "marks": "selle masali"
     },
     {
       "surface": "המשל",
-      "gloss": "vanasõna"
+      "gloss": "masali"
     },
     {
       "surface": "הזה",
@@ -84,12 +58,12 @@
     },
     {
       "surface": "ימשלו",
-      "gloss": "öelda"
+      "gloss": "nad ei lausu"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "seda"
+      "marks": "seda (seda masali)"
     },
     {
       "surface": "עוד",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "⟨ainult⟩"
+      "gloss": ""
     },
     {
       "surface": "דבר",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "Lähedale on tulnud"
+      "gloss": "lähedal on"
     },
     {
       "surface": "הימים",
@@ -129,13 +103,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "iga"
+      "gloss": "igast"
     },
     {
       "surface": "חזון",
-      "gloss": "nägemuse"
+      "gloss": "nägemisest"
     }
   ],
-  "timestamp": "2026-10-21T02:30:26.080480663Z",
+  "timestamp": "2026-10-21T06:08:18.949526289Z",
   "model": "glm-5.3"
 }

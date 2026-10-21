@@ -5,61 +5,35 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 69,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אז אשיב",
-      "rationale": "'siis pean tagasi andma' (KJV\/BSB) vs küsimus 'kas peaksin tagasi andma?' (JPS) — אז võimaldab mõlemat"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עצמו \/ מצמיתי",
-      "rationale": "kahe korduva juurega tegusõna ('vägevad \/ hävitajad') jääb eesti keeles lõdvaks"
-    },
-    {
-      "kind": "elision",
-      "subject": "חנם",
-      "rationale": "'tasuta, ilma põhjuseta' on lisatud nurksulgudesse, sest eesti lause selgus nõuab seda"
-    }
-  ],
-  "translation": "Rohkem on neid, kes mind vihkavad, kui juukseid mu peal; kärsa-vägevad on need, kes mind hävitavad, mu vaenlased ‹valetades›, ‹see›, mida ma ei röövinud — siis pean tagasi andma.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/5-8.1792553168242.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rohkemad kui mu pea karvad on need, kes mind vihkavad ilma põhjuseta; tugevaks muutunud on need, kes mind hävitavad, mu vaenlased valel teel — see, mida ma ei röövinud, siis ma tagasi annan.",
   "tokens": [
     {
       "surface": "רבו",
-      "gloss": "rohkem on"
+      "gloss": "rohkemad on"
     },
     {
       "surface": "משערות",
-      "gloss": "juukseid"
+      "gloss": "karvad"
     },
     {
       "surface": "ראשי",
-      "gloss": "mu peal"
+      "gloss": "mu pea"
     },
     {
       "surface": "שנאי",
-      "gloss": "kes mind vihkavad"
+      "gloss": "need, kes mind vihkavad"
     },
     {
       "surface": "חנם",
-      "gloss": "‹ilma põhjuseta›"
+      "gloss": "ilma põhjuseta"
     },
     {
       "surface": "עצמו",
-      "gloss": "kärsa-vägevad"
+      "gloss": "tugevaks muutunud"
     },
     {
       "surface": "מצמיתי",
-      "gloss": "kes mind hävitavad"
+      "gloss": "need, kes mind hävitavad"
     },
     {
       "surface": "איבי",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "שקר",
-      "gloss": "valetades"
+      "gloss": "valel teel"
     },
     {
       "surface": "אשר",
-      "gloss": "‹see›, mida"
+      "gloss": "see, mis"
     },
     {
       "surface": "לא",
@@ -87,9 +61,9 @@
     },
     {
       "surface": "אשיב",
-      "gloss": "pean tagasi andma"
+      "gloss": "tagasi annan"
     }
   ],
-  "timestamp": "2026-10-21T03:26:08.243466751Z",
+  "timestamp": "2026-10-21T06:38:19.502190346Z",
   "model": "glm-5.3"
 }

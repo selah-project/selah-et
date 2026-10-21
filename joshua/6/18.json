@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תחרימו",
-      "rationale": "'et te ei pühendaks (ennud) hävitamisele' — keda? Eneseid (ylt) või asja; heebrea objekt on jäetud lahtiseks."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרם",
-      "rationale": "Salm kordab juurt חרם neli korda; eesti 'herem' hoiab kõlapildi, kuid korduse tihedus kaheneb."
-    }
-  ],
-  "translation": "A vaid teie hoiduge heremist, et te ei pühendaks end hävitamisele ega võtaks midagi heremist, ja et te ei teeks Jisraeli laagrit heremiks ega looks ⟨את⟩ sellele häda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "90cf5ed6a4d43879268cff8920eadb61ce06e401d579b5570233c3da01ace064",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/6\/17-20.1792541415271.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga teie — vaid hoiduge hävitusandest, et te ei teeks end hävitusandiks ega võtaks midagi hävitusandest, ja te ei teeks ⟨את⟩ Jisraeli laagrist hävitusand ega ei ajaks seda segadusse.",
   "tokens": [
     {
       "surface": "ורק",
-      "gloss": "a vaid"
+      "gloss": "aga vaid"
     },
     {
       "surface": "אתם",
@@ -42,44 +21,44 @@
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "-st"
     },
     {
       "surface": "החרם",
-      "gloss": "heremist"
+      "gloss": "hävitusandest"
     },
     {
       "surface": "פן",
-      "gloss": "et mitte"
+      "gloss": "et (ettevaatuseks)"
     },
     {
       "surface": "תחרימו",
-      "gloss": "pühendaksite hävitamisele"
+      "gloss": "te teeksite end hävitusandiks"
     },
     {
       "surface": "ולקחתם",
-      "gloss": "ja võtaksite"
+      "gloss": "ja ei võtaks"
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "-st"
     },
     {
       "surface": "החרם",
-      "gloss": "heremist"
+      "gloss": "hävitusandest"
     },
     {
       "surface": "ושמתם",
-      "gloss": "ja teeksite"
+      "gloss": "ja te ei teeks"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraeli laagri"
+      "marks": "Jisraeli laager"
     },
     {
       "surface": "מחנה",
-      "gloss": "laagri"
+      "gloss": "laager"
     },
     {
       "surface": "ישראל",
@@ -87,17 +66,18 @@
     },
     {
       "surface": "לחרם",
-      "gloss": "heremiks"
+      "gloss": "hävitusandiks"
     },
     {
       "surface": "ועכרתם",
-      "gloss": "ja looksite häda"
+      "gloss": "ja ajaksite segadusse"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ sellele"
+      "gloss": "⟨את⟩ teda",
+      "marks": "Jisraeli laager"
     }
   ],
-  "timestamp": "2026-10-21T00:10:15.272778804Z",
+  "timestamp": "2026-10-21T06:25:56.519272036Z",
   "model": "glm-5.3"
 }

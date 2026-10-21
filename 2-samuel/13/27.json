@@ -5,31 +5,15 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "surus",
-      "rationale": "ויפרץ sõna-sõnalt 'purskas\/lamahtas tema kallal'; eestis 'surus tema peale'."
-    }
-  ],
-  "translation": "Ja Avšalom surus tema peale, ja ta saatis ⟨את⟩ temaga ⟨את⟩ Amnoni ja ⟨את⟩ kõik kuninga pojad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/13\/25-28.1792544739014.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga Avšalom surus ⟨teda⟩, ja ta saatis ⟨את⟩ temaga ⟨את⟩ Amnoni ja ⟨את⟩ kõik kuninga pojad.",
   "tokens": [
     {
       "surface": "ויפרץ",
-      "gloss": "ja surus"
+      "gloss": "surus"
     },
     {
       "surface": "בו",
-      "gloss": ""
+      "gloss": "⟨teda⟩"
     },
     {
       "surface": "אבשלום",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ temaga"
+      "gloss": "temaga ⟨את⟩"
     },
     {
       "surface": "את",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "kõik kuninga pojad"
     },
     {
@@ -70,6 +54,6 @@
       "gloss": "kuninga"
     }
   ],
-  "timestamp": "2026-10-21T01:05:39.019941480Z",
+  "timestamp": "2026-10-21T05:59:22.298224115Z",
   "model": "glm-5.3"
 }

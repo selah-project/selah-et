@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "נשיתי אתכם נשא",
-      "rationale": "Verb נשה 'unustama' koos infinitiiviga נָשֹא (juur נשא 'kandma\/petma'): 'unustan teid ära, nii et viin teid minema' — KJV 'will utterly forget you', JPS 'tear you out'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשיתי\/נשא",
-      "rationale": "Kaks samakõlalist juurt נשה\/נשא ühes lauses — sõnamäng, mida eesti keeles ei saa täielikult edasi anda."
-    }
-  ],
-  "translation": "Seepärast, vaata, mina unustan teid täiesti ja heidan teid minema, teid ja ⟨את⟩ linna, mille andsin teile ja teie isadele, oma palge eest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b1953ae5e5b461c25149f3fb84f090c833c3186fc98f33f5586d2bb99316c304",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/23\/37-40.1792548641800.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Seepärast, vaata, mina unustan teid täiesti ⟨את⟩ ja tõstan teid ära ja hüljan ⟨את⟩ teid ja ⟨את⟩ linna, mille ma andsin teile ja teie isadele, oma palge eest.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "seepärast"
+      "gloss": "Seepärast"
     },
     {
       "surface": "הנני",
@@ -38,27 +17,29 @@
     },
     {
       "surface": "ונשיתי",
-      "gloss": "unustan täiesti"
+      "gloss": "unustan"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
     },
     {
       "surface": "נשא",
-      "gloss": "täiesti (unustan)"
+      "gloss": "tõstan ära"
     },
     {
       "surface": "ונטשתי",
-      "gloss": "ja heidan minema"
+      "gloss": "ja hüljan"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "linna"
     },
     {
@@ -71,7 +52,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "andsin"
+      "gloss": "ma andsin"
     },
     {
       "surface": "לכם",
@@ -90,6 +71,6 @@
       "gloss": "oma palge"
     }
   ],
-  "timestamp": "2026-10-21T02:10:41.802450044Z",
+  "timestamp": "2026-10-21T06:19:53.489303129Z",
   "model": "glm-5.3"
 }

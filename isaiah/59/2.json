@@ -5,53 +5,27 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 59,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "gloss-rationale": "כי אם toimib siin ühe tervikuna 'ainult\/vaid'; אם eraldi ei ole tõlgitud."
-    },
-    {
-      "kind": "substitution",
-      "subject": "פנים",
-      "rationale": "Mitmus 'näod' (panim) ON eesti keeles üldises käändes 'näo' viitega Elohimile."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨tema⟩",
-      "rationale": "Eesti lause vajab subjekti, heebrea infinitiivist eitusest järeldub see Jahvele."
-    }
-  ],
-  "translation": "Vaid teie süüteod on olnud lahutajad teie ja teie Elohimi vahel, ja teie patud on varjutanud näo teie eest, et ⟨tema⟩ ei kuuleks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/59\/1-4.1792547827284.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaid teie pahateod olid eraldajad teie ja teie Elohimi vahel, ja teie patud peitsid ⟨tema⟩ näo teie eest, et ta ei kuule.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Vaid"
+      "gloss": "sest"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "vaid"
     },
     {
       "surface": "עונתיכם",
-      "gloss": "teie süüteod"
+      "gloss": "teie pahateod"
     },
     {
       "surface": "היו",
-      "gloss": "on olnud"
+      "gloss": "olid"
     },
     {
       "surface": "מבדלים",
-      "gloss": "lahutajad"
+      "gloss": "eraldajad"
     },
     {
       "surface": "בינכם",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לבין",
-      "gloss": "vahel"
+      "gloss": "ja"
     },
     {
       "surface": "אלהיכם",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "וחטאותיכם",
-      "gloss": "ja teie patud"
+      "gloss": "teie patud"
     },
     {
       "surface": "הסתירו",
-      "gloss": "on varjutanud"
+      "gloss": "peitsid"
     },
     {
       "surface": "פנים",
@@ -83,9 +57,9 @@
     },
     {
       "surface": "משמוע",
-      "gloss": "et ⟨tema⟩ ei kuuleks"
+      "gloss": "et ta ei kuule"
     }
   ],
-  "timestamp": "2026-10-21T01:57:07.285845006Z",
+  "timestamp": "2026-10-21T06:19:14.531938299Z",
   "model": "glm-5.3"
 }

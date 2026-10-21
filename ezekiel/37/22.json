@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עוד ×3",
-      "rationale": "sõna 'enam' kordub salmi lõpus kolm korda, rõhutas kadu eesti keeles kaotatud"
-    }
-  ],
-  "translation": "Ja ma teen nad üheks rahvaks maal, Jisraeli mägedel, ja üks kuningas on neile kõigile kuningaks, ning nad ei ole enam kaheks rahvaks ega jagune enam kaheks kuningriigiks enam iialgi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/37\/21-24.1792550595743.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma teen nad ⟨את⟩ üheks rahvaks maal, Jisraeli mägedel, ja üks kuningas on neile kõigile kuningaks, ja nad ei ole enam kaheks rahvaks ega lõhutaks enam kaheks kuningriigiks enam iialgi.",
   "tokens": [
     {
       "surface": "ועשיתי",
@@ -29,8 +13,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "üheks rahvaks"
+      "gloss": "⟨את⟩",
+      "marks": "nad → üheks rahvaks"
     },
     {
       "surface": "לגוי",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "ומלך",
-      "gloss": "ja kuningas"
+      "gloss": "ja üks kuningas"
     },
     {
       "surface": "אחד",
@@ -74,11 +58,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "ja ei"
     },
     {
       "surface": "יהיה",
-      "gloss": "pei"
+      "gloss": "ole"
     },
     {
       "surface": "עוד",
@@ -94,11 +78,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "ega"
     },
     {
-      "surface": "יחצu",
-      "gloss": "jagune"
+      "surface": "יחצו",
+      "gloss": "lõhutaks"
     },
     {
       "surface": "עוד",
@@ -117,6 +101,6 @@
       "gloss": "enam iialgi"
     }
   ],
-  "timestamp": "2026-10-21T02:43:15.744606245Z",
+  "timestamp": "2026-10-21T06:09:54.374460746Z",
   "model": "glm-5.3"
 }

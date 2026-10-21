@@ -5,27 +5,11 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sellepärast",
-      "rationale": "Heebrea הוציאנו eessõnaline konstruktsioon väljendab põhjust; 'sellepärast' on lisatud selguseks"
-    }
-  ],
-  "translation": "Ja te nuriseti oma telkides ja ütlesite: Jahve vihkab meid, sellepärast tõi ta meid välja Mitsraimi maalt, et anda meid emorlaste kätte, meid hävitama.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/1\/25-28.1792540598206.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te nurisetes oma telkides ja ütlesite: Jahve vihkab meid, sellepärast tõi ta meid välja Mitsraimi maalt, et anda ⟨את⟩ meid emorlaste kätte, et meid hävitada.",
   "tokens": [
     {
       "surface": "ותרגנו",
-      "gloss": "ja te nuriseti"
+      "gloss": "ja te nurisetes"
     },
     {
       "surface": "באהליכם",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "הוציאנו",
-      "gloss": "tõi ta meid välja"
+      "gloss": "toi ta meid välja"
     },
     {
       "surface": "מארץ",
@@ -79,9 +63,9 @@
     },
     {
       "surface": "להשמידנו",
-      "gloss": "meid hävitama"
+      "gloss": "et meid hävitada"
     }
   ],
-  "timestamp": "2026-10-20T23:56:38.207196656Z",
+  "timestamp": "2026-10-21T06:02:11.009573878Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "deviir",
-      "rationale": "דביר on kõlaliselt laenatud 'tagumine ruum'; 'pühakoda' või 'oraakel' asendaks kuju."
-    },
-    {
-      "kind": "addition",
-      "subject": "ta",
-      "rationale": "Eesti nõuab subjekti; heebrea verb on paljas."
-    },
-    {
-      "kind": "measurement",
-      "subject": "arhitektuur",
-      "rationale": "Kõige püha paiga asukoha ja otstarbe kirjeldus: arku hoidmise kohaks."
-    }
-  ],
-  "translation": "Ja deviiri — maja sees, kõige sise pool — valmistas ta, et panna sinna ⟨את⟩ Jahve lepingu arku.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cf2c1c2c7e3ea5947a2604a85f97f2f7257280b62205a2e65e1880001991ef4c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/6\/18-19.1792558311507.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja deviri valmistas ta keset maja, seestpoolt, et panna sinna ⟨את⟩ Jahve lepingulaeka.",
   "tokens": [
     {
       "surface": "ודביר",
-      "gloss": "ja deviir"
+      "gloss": "ja devir"
     },
     {
       "surface": "בתוך",
-      "gloss": "— sees"
+      "gloss": "keskel"
     },
     {
       "surface": "הבית",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "מפנימה",
-      "gloss": "kõige sise pool"
+      "gloss": "seestpoolt"
     },
     {
       "surface": "הכין",
-      "gloss": "valmistas ta"
+      "gloss": "ta valmistas"
     },
     {
       "surface": "לתתן",
@@ -64,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve lepingu ark"
+      "marks": "Jahve lepingu kirst"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "laegas"
     },
     {
       "surface": "ברית",
@@ -79,6 +53,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T04:51:51.508769438Z",
+  "timestamp": "2026-10-21T06:58:47.637398539Z",
   "model": "glm-5.3"
 }

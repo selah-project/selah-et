@@ -5,50 +5,24 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kanna",
-      "rationale": "נשא tähendab sõna-sõnalt 'tõstma\/kandma' — 'võtma' (nagu eesti traditsioon) jätab pildi kaotsi."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ei jäta õiguseks",
-      "rationale": "לא ינקה — sõna-sõnalt 'ei puhasta', idiom 'ei jäta karistuseta'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישא\/לשוא",
-      "rationale": "Kordus: תשא...לשוא \/ ישא...לשוא — hiilgav kõlapaar, eesti keeles osaliselt alles."
-    }
-  ],
-  "translation": "Ära kanna ⟨את⟩ Jahve, sinu Elohimi, nime tühjuseks, sest Jahve ei jäta õiguseks sellele, kes kannab ⟨את⟩ tema nime tühjuseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/5\/9-12.1792540666256.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ära tõsta ⟨את⟩ Jahve, sinu Elohimi, Nime asjata, sest Jahve ei jäta karistamata ⟨את⟩ seda, kes tõstab ⟨את⟩ tema Nime asjata.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Ära"
+      "gloss": "ära"
     },
     {
       "surface": "תשא",
-      "gloss": "kanna"
+      "gloss": "tõsta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nime"
+      "marks": "Nime"
     },
     {
       "surface": "שם",
-      "gloss": "nime"
+      "gloss": "Nime"
     },
     {
       "surface": "יהוה",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "לשוא",
-      "gloss": "tühjuseks"
+      "gloss": "asjata"
     },
     {
       "surface": "כי",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "ינקה",
-      "gloss": "jäta õiguseks"
+      "gloss": "jäta karistamata"
     },
     {
       "surface": "יהוה",
@@ -81,30 +55,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sellele, kes"
+      "marks": "sedä, kes"
     },
     {
       "surface": "אשר",
-      "gloss": "kes"
+      "gloss": "sedä, kes"
     },
     {
       "surface": "ישא",
-      "gloss": "kannab"
+      "gloss": "tõstab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema nime"
+      "marks": "tema Nime"
     },
     {
       "surface": "שמו",
-      "gloss": "tema nime"
+      "gloss": "tema Nime"
     },
     {
       "surface": "לשוא",
-      "gloss": "tühjuseks"
+      "gloss": "asjata"
     }
   ],
-  "timestamp": "2026-10-20T23:57:46.257584031Z",
+  "timestamp": "2026-10-21T06:03:49.711299438Z",
   "model": "glm-5.3"
 }

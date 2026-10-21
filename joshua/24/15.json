@@ -5,45 +5,19 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "valiku ettepanek",
-      "rationale": "Joošua asetab kuulajate ette teadliku valiku: 'valige endale täna, keda te teenite'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli rahvale",
-      "rationale": "Kogu värss on otsene pöördumine teises mitmuses: 'teie silmides', 'valige endale'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "kurja teie silmides",
-      "rationale": "Heebrea idiom 'טוב\/רע בעיני — hea\/kuri silmides' tähendab 'meeldima\/mitte meeldima'"
-    }
-  ],
-  "translation": "Ja kui see on kurja teie silmides teenida ⟨את⟩ Jahvet, siis valige endale täna, keda te teenite: kas jumalaid, kellele teie isiad teenisid teisel pool jõe, või emorlaste jumalaid, kelle maal te elate; aga mina ja mu koda — meie teenime ⟨את⟩ Jahvet.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/13-16.1792541790538.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga kui see on halb teie silmis teenida ⟨את⟩ Jahvet, siis valige endale täna, keda te teenite: kas ⟨את⟩ need jumalad, keda teie isad teenisid, kes olid teisel pool jõge, või ⟨את⟩ emorlaste jumalad, kelle maal te elate; aga mina ja mu pere — meie teenime ⟨את⟩ Jahvet.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ja kui"
+      "gloss": "aga kui"
     },
     {
       "surface": "רע",
-      "gloss": "kurja"
+      "gloss": "halb"
     },
     {
       "surface": "בעיניכם",
-      "gloss": "teie silmides"
+      "gloss": "teie silmis"
     },
     {
       "surface": "לעבד",
@@ -90,15 +64,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jumalaid"
+      "marks": "need jumalad"
     },
     {
       "surface": "אלהים",
-      "gloss": "jumalaid"
+      "gloss": "jumalad"
     },
     {
       "surface": "אשר",
-      "gloss": "kellele"
+      "gloss": "keda"
     },
     {
       "surface": "עבדו",
@@ -106,7 +80,7 @@
     },
     {
       "surface": "אבותיכם",
-      "gloss": "teie isiad"
+      "gloss": "teie isad"
     },
     {
       "surface": "אשר",
@@ -118,7 +92,7 @@
     },
     {
       "surface": "הנהר",
-      "gloss": "jõe"
+      "gloss": "jõge"
     },
     {
       "surface": "ואם",
@@ -127,11 +101,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "emorlaste jumalaid"
+      "marks": "emorlaste jumalad"
     },
     {
       "surface": "אלהי",
-      "gloss": "jumalaid"
+      "gloss": "jumalad"
     },
     {
       "surface": "האמרי",
@@ -143,7 +117,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "teie"
+      "gloss": "te"
     },
     {
       "surface": "ישבים",
@@ -159,7 +133,7 @@
     },
     {
       "surface": "וביתי",
-      "gloss": "ja mu koda"
+      "gloss": "ja mu pere"
     },
     {
       "surface": "נעבד",
@@ -175,6 +149,6 @@
       "gloss": "Jahvet"
     }
   ],
-  "timestamp": "2026-10-21T00:16:30.540213735Z",
+  "timestamp": "2026-10-21T06:25:26.100788212Z",
   "model": "glm-5.3"
 }

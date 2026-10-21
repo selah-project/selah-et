@@ -5,53 +5,27 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "Heebrea lisandlause puuduv verbi, eesti keel nõuab seda"
-    },
-    {
-      "kind": "idiom",
-      "subject": "katma oma jalgu",
-      "rationale": "להסך את רגליו on pehme väljend kehvaeoks puhkamiseks, sõna-sõnalt 'jalgu katma'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sügavustes",
-      "rationale": "בירכתי on sõna-sõnalt 'külgede' ehk sisemiste nurkade koha peal, 'külg' mitte 'sügavus'"
-    }
-  ],
-  "translation": "Ja ta tuli tee äärde lambaaedadeni, ja seal ⟨oli⟩ koobas; ja Saul läks sisse katma ⟨את⟩ oma jalgu, aga David ja tema mehed istusid koopa sügavustes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/24\/1-4.1792544212503.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tuli lambakarjade tarandate juurde tee äärde, ja seal ⟨oli⟩ koobas; ja Šaul tuli sisse katma ⟨את⟩ oma jalgu; ja David ja tema mehed istusid koopa sügavustes.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "tuli"
+      "gloss": "ja ta tuli"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "גדרות",
-      "gloss": "lambaaedadeni"
+      "gloss": "tarandate"
     },
     {
       "surface": "הצאן",
-      "gloss": "lamba-"
+      "gloss": "lambakarjade"
     },
     {
       "surface": "על",
-      "gloss": "äärsse"
+      "gloss": "äärel"
     },
     {
       "surface": "הדרך",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "läks sisse"
+      "gloss": "ja tuli sisse"
     },
     {
       "surface": "שאול",
-      "gloss": "Saul"
+      "gloss": "Šaul"
     },
     {
       "surface": "להסך",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ודוד",
-      "gloss": "aga David"
+      "gloss": "ja David"
     },
     {
       "surface": "ואנשיו",
@@ -107,6 +81,6 @@
       "gloss": "istusid"
     }
   ],
-  "timestamp": "2026-10-21T00:56:52.504854858Z",
+  "timestamp": "2026-10-21T05:53:15.641214362Z",
   "model": "glm-5.3"
 }

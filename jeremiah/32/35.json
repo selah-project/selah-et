@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "למלך",
-      "rationale": "Kas 'Molekile' (jumala nimi, vokaalidega מֹלֶךְ) või 'kuningale' (מֶלֶךְ) — tõlkijad lahku läinud."
-    },
-    {
-      "kind": "crux",
-      "subject": "viia läbi",
-      "rationale": "להעביר 'lasta läbi minna' — kas tuli kaudu (vrd 7Ms 18:10) või pühendamine; heebrea tekst ei ütle siin 'tuld'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Teine אשר (järjekorranumber 15) jääb eesti sujuvuse nimel tõlkimata, relative lauseühendus neelab selle."
-    }
-  ],
-  "translation": "Ja nad ehitasid ⟨את⟩ Baali kõrgendikud, mis on Ben-Hinnomi orus, et viia läbi oma poegi ja oma tütreid Molekile — mida ma ei olen neile käskinud, ega ole see tõusnud mu südamesse, teha seda jäledust, et panna Juuda patustama.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cdb464c6ee91109fd18a116a063519d3c242de03ab1e86b1c9a3cf5c9b22451d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/32\/33-36.1792548913554.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad ehitasid ⟨את⟩ Baali kõrgpaigad, mis on Ben-Hinnomi orus, et viia läbi ⟨את⟩ oma pojad ja ⟨את⟩ oma tütred Molekile, mida mina neile ei käskinud ja mis ei tõusnud mu südamele — teha seda jäledust, et Juudat pattu viia.",
   "tokens": [
     {
       "surface": "ויבנו",
@@ -40,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Baali kõrgendikud"
+      "marks": "Baali kõrgpaigad"
     },
     {
       "surface": "במות",
-      "gloss": "kõrgendikud"
+      "gloss": "kõrgpaigad"
     },
     {
       "surface": "הבעל",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "poeg"
+      "gloss": "Ben-"
     },
     {
       "surface": "הנם",
@@ -73,20 +47,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma poegi"
+      "marks": "oma pojad"
     },
     {
       "surface": "בניהם",
-      "gloss": "oma poegi"
+      "gloss": "oma pojad"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "oma tütreid"
+      "marks": "oma tütred"
     },
     {
       "surface": "בנותיהם",
-      "gloss": "oma tütreid"
+      "gloss": "oma tütred"
     },
     {
       "surface": "למלך",
@@ -94,7 +68,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "mida"
     },
     {
       "surface": "לא",
@@ -102,27 +76,27 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "ma olen käskinud"
+      "gloss": "käskinud"
     },
     {
       "surface": "ולא",
-      "gloss": "ega"
+      "gloss": "ja mitte"
     },
     {
       "surface": "עלתה",
-      "gloss": "on tõusnud"
+      "gloss": "tõusnud"
     },
     {
       "surface": "על",
-      "gloss": "sisse"
+      "gloss": "peale"
     },
     {
       "surface": "לבי",
-      "gloss": "mu südamesse"
+      "gloss": "mu südamele"
     },
     {
       "surface": "לעשות",
-      "gloss": "tegema"
+      "gloss": "teha"
     },
     {
       "surface": "התועבה",
@@ -138,18 +112,18 @@
     },
     {
       "surface": "החטי",
-      "gloss": "panna patustama"
+      "gloss": "pattu viia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Juuda"
+      "marks": "Juudat"
     },
     {
       "surface": "יהודה",
-      "gloss": "Juuda"
+      "gloss": "Juudat"
     }
   ],
-  "timestamp": "2026-10-21T02:15:13.561997551Z",
+  "timestamp": "2026-10-21T06:21:04.671299293Z",
   "model": "glm-5.3"
 }

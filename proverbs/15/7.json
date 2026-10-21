@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ei tee",
-      "rationale": "Heebrea לא כן 'mitte nii'; eesti keeles nõuab verbi"
-    },
-    {
-      "kind": "idiom",
-      "subject": "יזרו",
-      "rationale": "Otseselt 'põllutama, sõeluma' — teravilja kujund, eestis 'külvama laiali'"
-    }
-  ],
-  "translation": "Tarkade huuled külvavad teadmist laiali, aga rumalate süda ⟨ei tee⟩ nii.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/15\/5-8.1792554682343.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tarkade huuled puistavad teadmist, aga narrite süda ⟨on⟩ nii ⟨ei ole⟩.",
   "tokens": [
     {
       "surface": "שפתי",
@@ -37,8 +16,8 @@
       "gloss": "tarkade"
     },
     {
-      "surface": "יזרu",
-      "gloss": "külvavad laiali"
+      "surface": "יזרו",
+      "gloss": "puistavad"
     },
     {
       "surface": "דעת",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "כסילים",
-      "gloss": "rumalate"
+      "gloss": "narrite"
     },
     {
       "surface": "לא",
@@ -61,6 +40,6 @@
       "gloss": "nii"
     }
   ],
-  "timestamp": "2026-10-21T03:51:22.343964107Z",
+  "timestamp": "2026-10-21T06:36:45.359554577Z",
   "model": "glm-5.3"
 }

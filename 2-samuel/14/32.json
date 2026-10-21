@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "והמתני",
-      "rationale": "Kes tapku: heebrea loojav-vorm jätab tegija ähemaks — kuningas (nagu enamik tõlkeid) või Joab (YLT: 'sina oled mind surnuks teinud')."
-    },
-    {
-      "kind": "substitution",
-      "subject": "פני המלך",
-      "rationale": "Sõnasõnalt 'kuninga pale\/nägu' — pale nägemine on õukonnas armu märk."
-    }
-  ],
-  "translation": "Ja Avšalom ütles Joabile: Envoi, ma saatsin sinu juurde öeldes: Tule siia, et ma saaksin saata ⟨את⟩ sind kuninga juurde öeldes: Miks ma tulin Gušurist? Oleks mulle olnud parem ⟨ olla ⟩ veel seal. Ja nüüd olgu mulle näha kuninga pale, ja kui minu sees on süü, siis tapku ta mind.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "710448d17b8d4717ee44cbda0634c000e92969ac307d487380ea63124f1db1a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/14\/29-32.1792544793527.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Avšalom ütles Joabile: Vaata, ma saatsin sinu juurde öelda: Tule siia, ja ma saadan ⟨את⟩ sinu kuninga juurde öelda: Miks ma tulin Gešurist? Parem oleks mul olnud veel olla seal. Ja nüüd olgu mul luba näha kuninga nägu, ja kui minus on süü, siis surma mind.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "יואב",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "ennäe"
+      "gloss": "vaata"
     },
     {
       "surface": "שלחתי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "öeldes"
+      "gloss": "öelda"
     },
     {
       "surface": "בא",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "ואשלחה",
-      "gloss": "et ma saaksin saata"
+      "gloss": "ja ma saadan"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sind",
-      "marks": "sind"
+      "gloss": "⟨את⟩",
+      "marks": "sind (kuniga juurde saatmise objekt)"
     },
     {
       "surface": "אל",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "öeldes"
+      "gloss": "öelda"
     },
     {
       "surface": "למה",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "מגשור",
-      "gloss": "Gušurist"
+      "gloss": "Gešurist"
     },
     {
       "surface": "טוב",
@@ -107,15 +86,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "mulle"
+      "gloss": "mul"
     },
     {
-      "surface": "עוד",
+      "surface": "עד",
       "gloss": "veel"
     },
     {
       "surface": "אני",
-      "gloss": "ma"
+      "gloss": "mina"
     },
     {
       "surface": "שם",
@@ -127,18 +106,18 @@
     },
     {
       "surface": "אראה",
-      "gloss": "näha"
+      "gloss": "olgu mul luba näha"
     },
     {
       "surface": "פני",
-      "gloss": "pale"
+      "gloss": "nägu"
     },
     {
       "surface": "המלך",
       "gloss": "kuninga"
     },
     {
-      "surface": "ו אם",
+      "surface": "ואם",
       "gloss": "ja kui"
     },
     {
@@ -147,7 +126,7 @@
     },
     {
       "surface": "בי",
-      "gloss": "minu sees"
+      "gloss": "minus"
     },
     {
       "surface": "עון",
@@ -155,9 +134,9 @@
     },
     {
       "surface": "והמתני",
-      "gloss": "tapku ta mind"
+      "gloss": "siis surma mind"
     }
   ],
-  "timestamp": "2026-10-21T01:06:33.532973776Z",
+  "timestamp": "2026-10-21T05:59:43.900299936Z",
   "model": "glm-5.3"
 }

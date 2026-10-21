@@ -5,46 +5,15 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בעצם היום הזה",
-      "rationale": "Otse: 'selle päeva luus\/eneses' — eesti idiom 'just sel päeval'; עצם on luu, siin 'päev eneses', rõhutatud samasus."
-    },
-    {
-      "kind": "crux",
-      "subject": "סמך",
-      "rationale": "'toetus\/lähenes' — tõlkijad: 'asetus vastu' (piiras) vs 'tõmbus lähedale' vs 'suundus'; heebrea kujund on linnale toetuv või lähenenev kuningas."
-    },
-    {
-      "kind": "you",
-      "subject": "inimesepoeg",
-      "rationale": "Otsene pöördumine Hesekieli poole."
-    },
-    {
-      "kind": "measurement",
-      "subject": "date",
-      "rationale": "Päev pannakse kirja nimepidi — mälestamise akt."
-    }
-  ],
-  "translation": "Inimesepoeg, kirjuta endale ⟨את⟩ selle päeva nime, selle päeva — selle enese päeva —: Baveli kuningas asetus Jerušalaimi vastu just sel päeval.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b2ad2b74004ff8f2759e183d0361c5c1e23ce2a469c7dbae615c031d5c892093",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/24\/1-4.1792550196463.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Inimene, kirjuta endale ⟨את⟩ selle päeva nime, ⟨את⟩ ise sellesamas päevas; sellesamas selles päevas toetas end Baabeli kuningas Jerušalaimi vastu.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Inimesepoeg"
+      "gloss": "poeg"
     },
     {
       "surface": "אדם",
-      "gloss": ""
+      "gloss": "inimene"
     },
     {
       "surface": "כתוב",
@@ -65,28 +34,28 @@
     },
     {
       "surface": "היום",
-      "gloss": "päeva"
+      "gloss": "selle päeva"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle enese päeva"
+      "marks": "ise sellesamas päevas"
     },
     {
       "surface": "עצם",
-      "gloss": "enese"
+      "gloss": "ise"
     },
     {
       "surface": "היום",
-      "gloss": "päeva"
+      "gloss": "sellesamas päevas"
     },
     {
       "surface": "הזה",
-      "gloss": "selle"
+      "gloss": "sellesamas"
     },
     {
       "surface": "סמך",
-      "gloss": "asetus"
+      "gloss": "toetas end"
     },
     {
       "surface": "מלך",
@@ -94,7 +63,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Baveli"
+      "gloss": "Baabeli"
     },
     {
       "surface": "אל",
@@ -106,17 +75,17 @@
     },
     {
       "surface": "בעצם",
-      "gloss": "just sel"
+      "gloss": "sellesamas"
     },
     {
       "surface": "היום",
-      "gloss": "päeval"
+      "gloss": "selles päevas"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "sellesamas"
     }
   ],
-  "timestamp": "2026-10-21T02:36:36.464480205Z",
+  "timestamp": "2026-10-21T06:09:30.076814818Z",
   "model": "glm-5.3"
 }

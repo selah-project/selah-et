@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קדש הקדשים",
-      "rationale": "Heebrea pärisvorm 'püha pühadest' ('kõige püham' on lõdvem vabas tõlkes sama tähendusega)"
-    },
-    {
-      "kind": "hapax",
-      "subject": "צעצעים",
-      "rationale": "Sõna 'nikerdus' ilmub Tanahhis vaid selles kohas"
-    }
-  ],
-  "translation": "Ja ta tegi kõige pühamas kaks kerubit, nikerdatud töö, ja nad katsid need kullaga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/3\/9-12.1792557629448.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tegi kõige-pühamas paigas kaks kruvimit — nikerdatud-töö — ja nad kattsid ⟨את⟩ neid kullaga.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "ja ta tegi"
+      "gloss": "Ja ta tegi"
     },
     {
       "surface": "בבית",
-      "gloss": "majas"
+      "gloss": "paigas"
     },
     {
       "surface": "קדש",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "kõige pühamas"
+      "gloss": "kõige-pühamas"
     },
     {
       "surface": "כרובים",
-      "gloss": "kerubit"
+      "gloss": "kruvimid"
     },
     {
       "surface": "שנים",
@@ -62,18 +41,18 @@
     },
     {
       "surface": "ויצפו",
-      "gloss": "ja nad katsid"
+      "gloss": "ja nad kattsid"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "need (kerubit)"
+      "marks": "neid (kruvimid)"
     },
     {
       "surface": "זהב",
-      "gloss": "kullaga"
+      "gloss": "kulda"
     }
   ],
-  "timestamp": "2026-10-21T04:40:29.449772002Z",
+  "timestamp": "2026-10-21T05:55:39.031123176Z",
   "model": "glm-5.3"
 }

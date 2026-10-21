@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העביר באש",
-      "rationale": "Oma poja tulest läbiviimine: täpne tähendus (ohverdamine Molekile vs. puhastusriitus) on tuntu vaieldav."
-    }
-  ],
-  "translation": "Ja ta käis Jisraeli kuningate teed ja viis ka ⟨את⟩ oma poja tulest läbi, nagu rahvaste jäledused, kelle Jahve kihutas Jisraeli poegade palge eest minema.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "70b7894f776396b111e608730403b00eeab34480c8bcb7a3159642fa03c263bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/16\/1-4.1792546279975.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta käis Jisraeli kuningate teed, ja isegi ⟨את⟩ oma poja laskis ta tulest läbi minna, nagu rahvaste jäledused, kelle Jahve ajas välja Jisraeli poegade eest.",
   "tokens": [
     {
       "surface": "וילך",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "ja ka"
+      "gloss": "ja isegi"
     },
     {
       "surface": "את",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "העביר",
-      "gloss": "viis läbi"
+      "gloss": "laskis minna"
     },
     {
       "surface": "באש",
-      "gloss": "tulest"
+      "gloss": "tulest läbi"
     },
     {
       "surface": "כתעבות",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "הוריש",
-      "gloss": "kihutas minema"
+      "gloss": "ajas välja"
     },
     {
       "surface": "יהוה",
@@ -82,11 +66,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad"
+      "gloss": "⟨את⟩",
+      "marks": "neid (rahvaid)"
     },
     {
       "surface": "מפני",
-      "gloss": "palge eest"
+      "gloss": "eel"
     },
     {
       "surface": "בני",
@@ -97,6 +82,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T01:31:20.000564022Z",
+  "timestamp": "2026-10-21T05:57:08.117945432Z",
   "model": "glm-5.3"
 }

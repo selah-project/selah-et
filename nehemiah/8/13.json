@@ -5,32 +5,11 @@
   "book": "nehemiah",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הספר",
-      "rationale": "sõn-sõnalt 'kirjutaja\/sekretär'; 'õpetaja' edastab tema rolli, mitte sõna kuju"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "teine אל ('mõista suhtes sõnadesse') jäeti eesti sujuvuse huvides lõimimata"
-    }
-  ],
-  "translation": "Ja teisel päeval kogunesid kõigi rahva isade pead, preestrid ja leviidid õpetaja Eesra juurde, et mõista Toora sõnu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "598078de3bb197b7caf65978d66b3fddd0c4d09c3bb5cbb7dbd817544d1f88c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/nehemiah\/8\/13-14.1792558690016.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja teisel päeval kogunesid kõigi rahva isade pealikud, preestrid ja leviidid Eesra kirjutaja juurde, et mõista Toora sõnu.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "Ja teisel päeval"
+      "gloss": "Ja päeval"
     },
     {
       "surface": "השני",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ראשי",
-      "gloss": "pead"
+      "gloss": "pealikud"
     },
     {
       "surface": "האבות",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "הספר",
-      "gloss": "õpetaja"
+      "gloss": "kirjutaja"
     },
     {
       "surface": "ולהשכיל",
@@ -93,6 +72,6 @@
       "gloss": "Toora"
     }
   ],
-  "timestamp": "2026-10-21T04:58:10.019433760Z",
+  "timestamp": "2026-10-21T06:31:23.789645200Z",
   "model": "glm-5.3"
 }

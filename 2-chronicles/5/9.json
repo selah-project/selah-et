@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pühamu",
-      "rationale": "הדביר on Debir, kõige püham — tekstiline 'pühamu' varjab pärisnime\/eraldatud ruumi"
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea puudub kaudne kõneviis; eesti keel vajab ⟨on⟩"
-    }
-  ],
-  "translation": "Ja kandepulgad pikkustasid, ja kandepulkade otsad olid näha arki poolt pühamu ees, aga välja neid ei nähtud; ja need ⟨on⟩ seal kuni selle päevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9aa70dd20b0b1dd4f1b8af9e804409546115661b11745f43ca68522b6ccaf07b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/5\/9-12.1792557685832.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kandlatõiked olid pikad, ja kandlatõmmete otsad olid näha arongi eest pühamu eesruumis, aga välja ei olnud neid näha; ja nad on seal kuni tänase päevani.",
   "tokens": [
     {
       "surface": "ויאריכו",
-      "gloss": "pikkustasid"
+      "gloss": "olid pikad"
     },
     {
       "surface": "הבדים",
-      "gloss": "kandepulgad"
+      "gloss": "kandlatõiked"
     },
     {
       "surface": "ויראו",
@@ -46,35 +25,35 @@
     },
     {
       "surface": "הבדים",
-      "gloss": "kandepulkade"
+      "gloss": "kandlatõmmete"
     },
     {
       "surface": "מן",
-      "gloss": "ärka"
+      "gloss": "eest"
     },
     {
       "surface": "הארון",
-      "gloss": "ark"
+      "gloss": "arongi"
     },
     {
       "surface": "על",
-      "gloss": "üle"
-    },
-    {
-      "surface": "פני",
       "gloss": "ees"
     },
     {
+      "surface": "פני",
+      "gloss": "...i eesruumis"
+    },
+    {
       "surface": "הדביר",
-      "gloss": "pühamu"
+      "gloss": "pühamu eesruumis"
     },
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "aga mitte"
     },
     {
       "surface": "יראו",
-      "gloss": "nähtud"
+      "gloss": "oli neid näha"
     },
     {
       "surface": "החוצה",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "ja ⟨on⟩"
+      "gloss": "ja nad on"
     },
     {
       "surface": "שם",
@@ -94,13 +73,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "selle päevani"
+      "gloss": "tänase päevani"
     },
     {
       "surface": "הזה",
-      "gloss": "see"
+      "gloss": "selle"
     }
   ],
-  "timestamp": "2026-10-21T04:41:25.833978844Z",
+  "timestamp": "2026-10-21T06:58:32.167344Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tõstis tema pea",
-      "rationale": "נשא את ראש idiom 'pead tõstma' = armu andma, vabastama; sõna-sõnalt 'tõstis pea'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dateering",
-      "rationale": "kolm täpset ajamääret: aasta, kuu, kuu päev"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הכליא",
-      "rationale": "vangla-sõna selles kuulis esineb Tanahhis väga harva"
-    }
-  ],
-  "translation": "Ja sündis Jeojakini, Juuda kuninga, pagenduse kolmekümne seitsmendal aastal, kaheteistkümnendal kuul, kuu kaheteistkümnendal-kahelkümnel-viiendal päeval, et Evil-Merodak, Babüloni kuningas, oma valitsemise aastal tõstis ⟨את⟩ Jeojakini, Juuda kuninga, pea ja tõi ⟨את⟩ ta välja vangimajast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/52\/29-32.1792549547249.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis kolmekümne seitsmendal aastal Jehojakinile, Juuda kuningale, pagenduses, kaheteistkümnendal kuul, kuu二十五endal päeval tõstis Evil-Merodak, Babüloni kuningas, oma valitsusaasta ⟨esimesel⟩ aastal ⟨את⟩ Jehojakini, Juuda kuninga, pea ja tõi ⟨את⟩ ta välja vanglast.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "לגלות",
-      "gloss": "pagenduse"
+      "gloss": "pagenduses"
     },
     {
       "surface": "יהויכן",
-      "gloss": "Jeojakini"
+      "gloss": "Jehojakinile"
     },
     {
       "surface": "מלך",
-      "gloss": "kuninga"
+      "gloss": "kuniga"
     },
     {
       "surface": "יהודה",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "בעשרים",
-      "gloss": "kahelkümnel"
+      "gloss": "kakskümmend"
     },
     {
       "surface": "וחמשה",
-      "gloss": "viiendal"
+      "gloss": "viis"
     },
     {
       "surface": "לחדש",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אויל",
-      "gloss": "Evil"
+      "gloss": "Evil-"
     },
     {
       "surface": "מרדך",
@@ -103,7 +77,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kuningas"
+      "gloss": "kuniga"
     },
     {
       "surface": "בבל",
@@ -115,12 +89,12 @@
     },
     {
       "surface": "מלכתו",
-      "gloss": "oma valitsemise"
+      "gloss": "oma valitsuse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jeojakini, Juuda kuninga pea"
+      "marks": "Jehojakini, Juuda kuninga pea"
     },
     {
       "surface": "ראש",
@@ -128,11 +102,11 @@
     },
     {
       "surface": "יהויכין",
-      "gloss": "Jeojakini"
+      "gloss": "Jehojakini"
     },
     {
       "surface": "מלך",
-      "gloss": "kuninga"
+      "gloss": "kuniga"
     },
     {
       "surface": "יהודה",
@@ -140,17 +114,22 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "ja tõi välja"
+      "gloss": "ja tõi"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ta"
+      "gloss": "⟨את⟩",
+      "marks": "ta (välja vanglast)"
     },
     {
       "surface": "מבית",
-      "gloss": "vangimajast"
+      "gloss": "välja"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "vanglast"
     }
   ],
-  "timestamp": "2026-10-21T02:25:47.252488355Z",
+  "timestamp": "2026-10-21T06:22:35.315447523Z",
   "model": "glm-5.3"
 }

@@ -5,31 +5,15 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לו",
-      "rationale": "'nad ütlesid talle' — üksik rääkija (nagu KJV 'ja üks ütles') või mitmus kui kollektiiv; heebrea verb on nagu 'tema\/see', lause loeb loomulikult mitmusena"
-    }
-  ],
-  "translation": "Ja Jehuu tuli välja oma isanda teenrite juurde, ja nad ütlesid talle: Kas kõik on rahus? Miks tuli see hull sinu juurde? Ja ta ütles neile: Teie tunte ⟨את⟩ seda meest ja tema kõnet.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/9\/9-12.1792546014710.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jehu läks välja oma isandra teenrite juurde, ja üks ütles talle: Kas kõik on šalom? Miks tuli see hull sinu juurde? Ja ta ütles neile: Teie teate ⟨את⟩ seda meest ja ⟨את⟩ tema juttu.",
   "tokens": [
     {
       "surface": "ויהוא",
-      "gloss": "Ja Jehuu"
+      "gloss": "Ja Jehu"
     },
     {
       "surface": "יצא",
-      "gloss": "tuli välja"
+      "gloss": "läks välja"
     },
     {
       "surface": "אל",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "teenrid"
+      "gloss": "teenrite"
     },
     {
       "surface": "אדניו",
-      "gloss": "tema isanda"
+      "gloss": "oma isandra"
     },
     {
       "surface": "ויאמר",
@@ -49,15 +33,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "temale"
+      "gloss": "talle"
     },
     {
       "surface": "השלום",
-      "gloss": "Kas rahu"
+      "gloss": "kas kõik on šalom"
     },
     {
       "surface": "מדוע",
-      "gloss": "Miks"
+      "gloss": "miks"
     },
     {
       "surface": "בא",
@@ -65,7 +49,7 @@
     },
     {
       "surface": "המשגע",
-      "gloss": "hull"
+      "gloss": "see hull"
     },
     {
       "surface": "הזה",
@@ -77,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "אליהם",
@@ -85,31 +69,31 @@
     },
     {
       "surface": "אתם",
-      "gloss": "Teie"
+      "gloss": "teie"
     },
     {
       "surface": "ידעתם",
-      "gloss": "tunte"
+      "gloss": "teate"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seda meest"
+      "marks": "sedä meest"
     },
     {
       "surface": "האיש",
-      "gloss": "seda meest"
+      "gloss": "meest"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ ja",
-      "marks": "tema kõne"
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema juttu"
     },
     {
       "surface": "שיחו",
-      "gloss": "tema kõne"
+      "gloss": "tema juttu"
     }
   ],
-  "timestamp": "2026-10-21T01:26:54.713122087Z",
+  "timestamp": "2026-10-21T05:58:48.830332482Z",
   "model": "glm-5.3"
 }

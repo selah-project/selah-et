@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Šim'i",
-      "rationale": "Kuninga kõne pöördub otseselt Šim'i poole"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידעת \/ ידע",
-      "rationale": "Juure ידע kordus: sina tead, mida su süda teab"
-    },
-    {
-      "kind": "idiom",
-      "subject": "sinu pähe",
-      "rationale": "Heebrea בְּרֹאשֶׁךָ 'su pähe' — kuri tuleb tagasi tegija peale; eesti otsene 'pähe' töötab"
-    }
-  ],
-  "translation": "Ja kuningas ütles Šim'ile: sina tead ⟨את⟩ kogu kurja, mida su süda teab, mida sa tegid mu isale Davidile; ja Jahve pöörab ⟨את⟩ sinu kurja sinu pähe.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d37254abe441847c829956ba9785e712efa6f9698a49fe962f3ef438b8dfa8c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/2\/41-44.1792545140745.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas ütles Šimeile: sina tead ⟨את⟩ kogu kurja, mille sinu süda teab, mida sa tegid mu isale Davidile, ja Jahve pöörab ⟨את⟩ sinu kurja sinu peasse.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ütles"
     },
     {
       "surface": "המלך",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Šimeile"
     },
     {
       "surface": "שמעי",
-      "gloss": "Šim'ile"
+      "gloss": "Šimei"
     },
     {
       "surface": "אתה",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kogu kuri"
+      "marks": "kogu kurja"
     },
     {
       "surface": "כל",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mille"
     },
     {
       "surface": "ידע",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "su süda"
+      "gloss": "sinu süda"
     },
     {
       "surface": "אשר",
@@ -109,7 +83,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu kuri"
+      "marks": "sinu kurja"
     },
     {
       "surface": "רעתך",
@@ -117,9 +91,9 @@
     },
     {
       "surface": "בראשך",
-      "gloss": "sinu pähe"
+      "gloss": "sinu peasse"
     }
   ],
-  "timestamp": "2026-10-21T01:12:20.748930015Z",
+  "timestamp": "2026-10-21T05:51:13.858723060Z",
   "model": "glm-5.3"
 }

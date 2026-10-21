@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "en",
-      "rationale": "Estonian requires a verb 'annan' to render הנני + participle construction"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vürst",
-      "rationale": "נגיד rendered 'vürst' (leader\/prince), not 'kapten'"
-    },
-    {
-      "kind": "you",
-      "subject": "Hiskijale",
-      "rationale": "Jahve's message addresses Hiskija directly through Jesaja"
-    }
-  ],
-  "translation": "Pöördu tagasi ja ütle Hiskijale, mu rahva vürstile: nii ütleb Jahve, Davidi, su isa Elohim: ma kuulsin ⟨את⟩ su palvet, ma nägin ⟨את⟩ su pisaraid; ennast annan ma sulle ravimiseks — kolmandal päeval tõused üles Jahve templisse.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3eae1c460f6e6b72680ed04a18185fc3887462980c27ba63c3501742e5ccf956",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/5-8.1792546379996.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Pöördu tagasi ja ütle Hiskijale, mu rahva vürstile: nii ütleb Jahve, Davidi, su isa Elohim: kuulsin ⟨את⟩ su palvet, nägin ⟨את⟩ su pisaraid; vaata, mina tervendan sind — kolmandal päeval tõused sa üles Jahve kojja.",
   "tokens": [
     {
       "surface": "שוב",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "חזקיהו",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "ma kuulsin"
+      "gloss": "kuulsin"
     },
     {
       "surface": "את",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "ma nägin"
+      "gloss": "nägin"
     },
     {
       "surface": "את",
@@ -109,15 +83,15 @@
     },
     {
       "surface": "הנני",
-      "gloss": "ennet annan ma"
+      "gloss": "vaata, mina"
     },
     {
       "surface": "רפא",
-      "gloss": "ravimiseks"
+      "gloss": "tervendan"
     },
     {
       "surface": "לך",
-      "gloss": "sulle"
+      "gloss": "sind"
     },
     {
       "surface": "ביום",
@@ -129,17 +103,17 @@
     },
     {
       "surface": "תעלה",
-      "gloss": "tõused üles"
+      "gloss": "tõused sa üles"
     },
     {
       "surface": "בית",
-      "gloss": "templisse"
+      "gloss": "kojja"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T01:32:59.996923800Z",
+  "timestamp": "2026-10-21T05:58:02.632601879Z",
   "model": "glm-5.3"
 }

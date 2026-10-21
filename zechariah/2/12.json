@@ -5,42 +5,11 @@
   "book": "zechariah",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אחר כבוד",
-      "rationale": "'Au järel' — kas 'au (järeljanamiseks)' või 'au (kätte saamiseks)'; tähendus jääb läbimata."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ta⟩",
-      "rationale": "Kõneleja ('saatis mind') vajab eesti keeles subjekti; heebrea puudub ja see jääb kaheks mõistmiseks."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הנגע ... נגע",
-      "rationale": "Kordus 'kes puudutab ... puudutab' — juur נגע kaks korda, eesti keeles säilitatud."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בבבת עינו",
-      "rationale": "Tähistab 'silma pupilli' — 'oma silma aes', kallis asi; sõnasõnaline 'silmaauk' hoitud."
-    }
-  ],
-  "translation": "Sest nõnda ütleb Jahve Tsevaot: Au järel saatis ⟨ta⟩ mind nende rahvaste juurde, kes teid röövisid — sest kes teid puudutab, puudutab ta oma silma pupilli.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5697078252c90e8e6b1e7bc1307d4aa05e8a3fe91688b5d3671dfda8632a74c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/2\/12-12.1792558500848.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest nõnda ütleb Jahve Tsevaot: pärast ausa saatis ta mind rahvaste juurde, kes teid röövivasid ⟨את⟩ teid; sest kes teid puudutab, puudutab ta silma ornäo.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sest"
+      "gloss": "sest"
     },
     {
       "surface": "כה",
@@ -60,15 +29,15 @@
     },
     {
       "surface": "אחר",
-      "gloss": "järel"
+      "gloss": "pärast"
     },
     {
       "surface": "כבוד",
-      "gloss": "Au"
+      "gloss": "ausa"
     },
     {
       "surface": "שלחני",
-      "gloss": "saatis ⟨ta⟩ mind"
+      "gloss": "saatas ta mind"
     },
     {
       "surface": "אל",
@@ -80,11 +49,12 @@
     },
     {
       "surface": "השללים",
-      "gloss": "kes röövisid"
+      "gloss": "kes röövivasid"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid"
     },
     {
       "surface": "כי",
@@ -104,13 +74,13 @@
     },
     {
       "surface": "בבבת",
-      "gloss": "silma pupilli"
+      "gloss": "silma ornäo"
     },
     {
       "surface": "עינו",
-      "gloss": "oma silma"
+      "gloss": "ta silma"
     }
   ],
-  "timestamp": "2026-10-21T04:55:00.855880502Z",
+  "timestamp": "2026-10-21T06:39:05.482018891Z",
   "model": "glm-5.3"
 }

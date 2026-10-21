@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨siis⟩",
-      "rationale": "heebrea tingiv vav ei kannab eesti tingimuslause jaoks sõna; 'siis' on lisatud"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ויבקשו פני",
-      "rationale": "sõna-sõnalt 'otsivad mu nägu' — idiom 'ootama kellegi ligandust', jäetud sõnasõnaliseks"
-    },
-    {
-      "kind": "elision",
-      "subject": "מן",
-      "rationale": "mina-prepositsioon sulandub eraldiseisvasse 'taevast'"
-    }
-  ],
-  "translation": "ja alistab ennast mu rahvas, kelle peal mu nimi on kutsutud, ja nad paluvad ning otsivad mu nägu ja pöörduvad tagasi oma kurjadelt teedelt, ⟨siis⟩ ma kuulan taevast ja annan andeks nende patu ja ravin ⟨את⟩ nende maad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/7\/13-16.1792557771626.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja ⟨kui⟩ mu rahvas, kelle peal ⟨on⟩ kutsutud mu nimi, langetab end, ja palub, ning otsib mu nägu, ja pöördub tagasi oma kurjadelt teedelt, siis mina kuulen taevast, ja annan andeks nende patu, ja tervendan ⟨את⟩ nende maad.",
   "tokens": [
     {
       "surface": "ויכנעו",
-      "gloss": "ja alistavad ennast"
+      "gloss": "langetab end"
     },
     {
       "surface": "עמי",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kelle"
+      "gloss": "kelle peal"
     },
     {
       "surface": "נקרא",
-      "gloss": "on kutsutud"
+      "gloss": "kutsutud"
     },
     {
       "surface": "שמי",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "ויתפללו",
-      "gloss": "ja nad paluvad"
+      "gloss": "ja palub"
     },
     {
       "surface": "ויבקשו",
-      "gloss": "ja otsivad"
+      "gloss": "ning otsib"
     },
     {
       "surface": "פני",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ja pöörduvad tagasi"
+      "gloss": "ja pöördub tagasi"
     },
     {
       "surface": "מדרכיהם",
@@ -83,19 +57,19 @@
     },
     {
       "surface": "ואני",
-      "gloss": "ma"
+      "gloss": "siis mina"
     },
     {
       "surface": "אשמע",
-      "gloss": "kuulan"
+      "gloss": "kuulen"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "-st"
     },
     {
       "surface": "השמים",
-      "gloss": "taevast"
+      "gloss": "taeva"
     },
     {
       "surface": "ואסלח",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "וארפא",
-      "gloss": "ja ravin"
+      "gloss": "ja tervendan"
     },
     {
       "surface": "את",
@@ -119,6 +93,6 @@
       "gloss": "nende maad"
     }
   ],
-  "timestamp": "2026-10-21T04:42:51.627639346Z",
+  "timestamp": "2026-10-21T05:56:29.714803904Z",
   "model": "glm-5.3"
 }

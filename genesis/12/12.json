@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Sarale",
-      "rationale": "Avram pöördub otse oma naise poole hirmu kõnes"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "והרגו\/יחיו",
-      "rationale": "Tapavad ja elavaks jätavad seisavad teravas vastanduses klahmemiluses"
-    }
-  ],
-  "translation": "Ja sündub, kui mitsritest näevad sind, et nad ütlevad: See on tema naine; ja nad tapavad ⟨את⟩ mind, aga ⟨את⟩ sind nad jäetakse elama.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/12\/9-12.1792537493510.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tuleb ette, kui mitsritlased näevad ⟨את⟩ sind ja ütlevad: see on tema naine, siis nad tapavad ⟨את⟩ minu, aga ⟨את⟩ sind nad jätavad ellu.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "ja sündub"
+      "gloss": "Ja tuleb ette"
     },
     {
       "surface": "כי",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sind",
+      "gloss": "⟨את⟩",
       "marks": "sind"
     },
     {
       "surface": "המצרים",
-      "gloss": "mitsritest"
+      "gloss": "mitsritlased"
     },
     {
       "surface": "ואמרו",
-      "gloss": "ja nad ütlevad"
+      "gloss": "ja ütlevad"
     },
     {
       "surface": "אשתו",
@@ -59,27 +38,27 @@
     },
     {
       "surface": "זאת",
-      "gloss": "see"
+      "gloss": "see on"
     },
     {
       "surface": "והרגו",
-      "gloss": "ja nad tapavad"
+      "gloss": "siis nad tapavad"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mind",
-      "marks": "mind"
+      "gloss": "⟨את⟩",
+      "marks": "minu"
     },
     {
       "surface": "ואתך",
-      "gloss": "⟨את⟩ sind",
+      "gloss": "aga ⟨את⟩",
       "marks": "sind"
     },
     {
       "surface": "יחיו",
-      "gloss": "jäetakse elama"
+      "gloss": "nad jätavad ellu"
     }
   ],
-  "timestamp": "2026-10-20T23:04:53.511994201Z",
+  "timestamp": "2026-10-21T06:13:01.291883149Z",
   "model": "glm-5.3"
 }

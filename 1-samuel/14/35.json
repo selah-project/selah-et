@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Eesti kõneside nõuab kopulat, mida heebrea ei oma"
-    },
-    {
-      "kind": "crux",
-      "subject": "esimene altar",
-      "rationale": "החל 'ta alustas': kas 'see oli esimene altar, mis ta ehitas' (KJV\/JPS) või 'sellega ta alustas altareid ehitama' (YLT) — järgin viimast, sõnasõnalist"
-    }
-  ],
-  "translation": "Ja Šaul ehitas Jahvele altari; sellega ⟨oli⟩ see, mida ta alustas — Jahvele altari ehitamisega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/33-36.1792543983840.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šaul ehitas Jahvele altari; ⟨את⟩ seda ⟨oli⟩ ta ⟨esimest korda⟩ hakates ehitama altarit Jahvele.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "Ja ehitas"
+      "gloss": "ja ehitas"
     },
     {
       "surface": "שאול",
@@ -47,11 +26,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "seda (altari ehitamist)"
+      "marks": "seda — altari, millest jutt"
     },
     {
       "surface": "החל",
-      "gloss": "ta alustas"
+      "gloss": "hakates"
     },
     {
       "surface": "לבנות",
@@ -59,13 +38,13 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "altari"
+      "gloss": "altarit"
     },
     {
       "surface": "ליהוה",
       "gloss": "Jahvele"
     }
   ],
-  "timestamp": "2026-10-21T00:53:03.842668448Z",
+  "timestamp": "2026-10-21T05:52:40.413338143Z",
   "model": "glm-5.3"
 }

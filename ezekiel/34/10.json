@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הנני אל",
-      "rationale": "'Minä olen karjaste vastu' — sõnasõnaline 'vaata, mina (astun) karjaste poole' viitab vaenulikule seisukohale."
-    },
-    {
-      "kind": "substitution",
-      "subject": "צאן",
-      "gloss": "kari — kollektiivne 'lambad ja kitsed', eesti kasutab üht sõna."
-    }
-  ],
-  "translation": "Nõnda ütleb Adonai Jahve: Vaata, mina astun karjaste vastu ja nõuan oma karja nende käest, ja ma lõpetan nende karjatamise — karjased ei karjata ⟨את⟩ neid enam — ja ma päästan oma karja nende suust, et nad ei oleks neile enam söögiks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "255dda2b567d391e8099640cf67001a99c45b9bee5d43e3c0a2058449c236c43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/34\/9-12.1792550541677.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nõnda ütleb Adonai Jahve: Vaata, mina ⟨olen⟩ karjastide vastu, ja ma nõuan ⟨את⟩ oma karja nende käest, ja ma lõpetan nad karja karjatamast, ja karjastid ei karjata enam ⟨את⟩ neid, ja ma päästan oma karja nende suust, ja nad ei ole neile enam söögiks.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "nõnda"
+      "gloss": "Nõnda"
     },
     {
       "surface": "אמר",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "הנני",
-      "gloss": "vaata, mina"
+      "gloss": "Vaata, mina"
     },
     {
       "surface": "אל",
-      "gloss": "vastu"
+      "gloss": "karjastide vastu"
     },
     {
       "surface": "הרעים",
-      "gloss": "karjaste"
+      "gloss": "karjastide"
     },
     {
       "surface": "ודרשתי",
-      "gloss": "ja nõuan"
+      "gloss": "ja ma nõuan"
     },
     {
       "surface": "את",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "צאן",
-      "gloss": "kari"
+      "gloss": "karja"
     },
     {
       "surface": "ולא",
@@ -99,11 +78,12 @@
     },
     {
       "surface": "הרעים",
-      "gloss": "karjased"
+      "gloss": "karjastid"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid (kari)"
     },
     {
       "surface": "והצלתי",
@@ -119,11 +99,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "et ei"
+      "gloss": "ja ei"
     },
     {
       "surface": "תהיין",
-      "gloss": "oleks nad"
+      "gloss": "ole"
     },
     {
       "surface": "להם",
@@ -134,6 +114,6 @@
       "gloss": "söögiks"
     }
   ],
-  "timestamp": "2026-10-21T02:42:21.678675199Z",
+  "timestamp": "2026-10-21T06:10:14.735321084Z",
   "model": "glm-5.3"
 }

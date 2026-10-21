@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכין",
-      "rationale": "Hebrea perfekt tähendab 'oleks nüüd kinnitanud' (kahetsev tingimusi, nagu KJV 'would have established') versus lihtne 'kinnitas nüüd'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אל ישראל",
-      "rationale": "Konstruktsioon 'kuningriik Jisraeli peale\/üle' tõlgitud eesti kooslusega 'Jisraeli üle'."
-    }
-  ],
-  "translation": "Ja Šemuel ütles Šaulile: Sa oled rumalalt käitunud, sa ei pidanud ⟨את⟩ Jahve, su Elohimi käsku, mille ta sulle käsis, sest nüüd oleks Jahve kinnitanud ⟨את⟩ sinu kuningriigi Jisraeli üle igaveseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7f41e70fa1fcee670f56647ebedd8fc5293f14d40b7a36177e24643f0d40ec42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/13\/13-16.1792543957028.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šemuuel ütles Šaulile: sa tegid rumalalt — sa ei pidanud ⟨את⟩ Jahve, su Elohimi käsku, mille ta sulle käsis, sest nüüdsama oleks Jahve kinnitanud ⟨את⟩ su kuningriigi Jisraeli ⟨peal⟩ igavesti.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuel"
+      "gloss": "Šemuuel"
     },
     {
       "surface": "אל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "נסכלת",
-      "gloss": "oled rumalalt käitunud"
+      "gloss": "tegid rumalalt"
     },
     {
       "surface": "לא",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "עתה",
-      "gloss": "nüüd"
+      "gloss": "nüüdsama"
     },
     {
       "surface": "הכין",
@@ -100,15 +79,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu kuningriigi"
+      "marks": "su kuningriigi"
     },
     {
       "surface": "ממלכתך",
-      "gloss": "sinu kuningriigi"
+      "gloss": "su kuningriigi"
     },
     {
       "surface": "אל",
-      "gloss": "üle"
+      "gloss": "⟨peal⟩"
     },
     {
       "surface": "ישראל",
@@ -116,13 +95,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "igaveseks"
+      "gloss": "igavesti"
     },
     {
       "surface": "עולם",
-      "gloss": "igaveseks"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-21T00:52:37.031742085Z",
+  "timestamp": "2026-10-21T05:53:07.238821792Z",
   "model": "glm-5.3"
 }

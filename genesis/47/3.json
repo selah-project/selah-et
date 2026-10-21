@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Paro vendadele",
-      "rationale": "otsene küsimus vahetult vastajaile: 'mis on teie tegevus?'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "sõnale 'ütles + kellele' lisatakse eesti käändele, eraldi sõnana jäi ära"
-    }
-  ],
-  "translation": "Ja Paro ütles tema vendadele: mis on teie tegevus? Ja nad ütlesid Paroile: su teenijad on karjased, nii meie kui ka meie isad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2c70be1b322ab509baa662efa70d8a8a9c2cf79c9d77561740443081db47691a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/47\/1-4.1792538132893.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Paroh ütles tema vendadele: Mis on teie tegu? Ja nad ütlesid Paroh'le: Su sulased ⟨on⟩ karjased, nii meie kui ka meie isad.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Paroh"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…le"
     },
     {
       "surface": "אחיו",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "מעשיכם",
-      "gloss": "on teie tegevus"
+      "gloss": "on teie tegu"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ja ütlesid"
+      "gloss": "ja nad ütlesid"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…le"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroile"
+      "gloss": "Paroh"
     },
     {
       "surface": "רעה",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "עבדיך",
-      "gloss": "su teenijad"
+      "gloss": "su sulased"
     },
     {
       "surface": "גם",
@@ -93,6 +72,6 @@
       "gloss": "meie isad"
     }
   ],
-  "timestamp": "2026-10-20T23:15:32.894873183Z",
+  "timestamp": "2026-10-21T06:16:43.092132861Z",
   "model": "glm-5.3"
 }

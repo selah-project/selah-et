@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "kohtumõistjatele",
-      "rationale": "Jehošafati kõne otseselt kohtumõistjatele."
-    },
-    {
-      "kind": "invitation",
-      "subject": "ראו",
-      "rationale": "Käskiv pöördumine 'Pange tähele' köidab kuulaja."
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea ועמכם ('ja teiega') eeldab eesti keeles kopulat ⟨on⟩-tüüpi sidet; kontekst lisab 'tema'."
-    }
-  ],
-  "translation": "ja ütles kohtumõistjatele: Pange tähele, mida te teete, sest mitte inimesele ei teie mõistate kohust, vaid Jahvele; ja tema on teiega kohtu asjus.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cd5a5d0e3309ad29c1c0effdb197405a85184848df204458e9c5cefbd1983a44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/19\/5-8.1792557966361.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles kohtumõistjatele: Vaadake, mida te teete, sest mitte inimese eest te ei mõista kohust, vaid Jahve eest, ja tema ⟨on⟩ teiega kohtu asjas.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ta ütles"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kohtumõistjatele"
     },
     {
       "surface": "השפטים",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ראו",
-      "gloss": "Pange tähele"
+      "gloss": "Vaadake"
     },
     {
       "surface": "מה",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "לאדם",
-      "gloss": "inimesele"
+      "gloss": "inimese eest"
     },
     {
       "surface": "תשפטו",
-      "gloss": "te mõistate kohust"
+      "gloss": "te ei mõista kohust"
     },
     {
       "surface": "כי",
@@ -83,21 +57,21 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahvele"
+      "gloss": "Jahve eest"
     },
     {
       "surface": "ועמכם",
-      "gloss": "ja tema on teiega"
+      "gloss": "ja tema ⟨on⟩ teiega"
     },
     {
       "surface": "בדבר",
-      "gloss": "asjus"
+      "gloss": "kohtu asjas"
     },
     {
       "surface": "משפט",
-      "gloss": "kohut"
+      "gloss": "kohus"
     }
   ],
-  "timestamp": "2026-10-21T04:46:06.362529333Z",
+  "timestamp": "2026-10-21T06:40:54.840772694Z",
   "model": "glm-5.3"
 }

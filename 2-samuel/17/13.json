@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "klibukivi",
-      "rationale": "צרור: 'kimp\/kivike' — KJV 'small stone', eesti 'klibukivi' valib väikseima kivi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "להשיאו",
-      "rationale": "sõna-sõnalt 'tõstma' — siis 'kandma\/kohale tooma', kogu rahvas kannab köied."
-    }
-  ],
-  "translation": "Ja kui ta koguneb mingisse linna, siis kannavad kõik Jisraeli mehed köied sellesse linna, ja me lohistame ⟨את⟩ selle alla ojani, kuni sealt ei leita isegi mitte üht klibukivi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/17\/13-16.1792544922926.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui ta koguneb mingisse linna, siis kannab kogu Jisrael sellele linnale köied ja me kisume selle ⟨את⟩ alla ojani, kuni seal ei leita isegi mitte klibukakest.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ja kui"
+      "gloss": "Ja kui"
     },
     {
       "surface": "אל",
@@ -46,27 +25,27 @@
     },
     {
       "surface": "והשיאו",
-      "gloss": "siis kantakse"
+      "gloss": "siis kannab"
     },
     {
       "surface": "כל",
-      "gloss": "kõik"
+      "gloss": "kogu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraeli"
+      "gloss": "Jisrael"
     },
     {
       "surface": "אל",
-      "gloss": "sellesse"
+      "gloss": "sellele"
     },
     {
       "surface": "העיר",
-      "gloss": "linna"
+      "gloss": "linnale"
     },
     {
       "surface": "ההיא",
-      "gloss": "sellesse"
+      "gloss": "sellele"
     },
     {
       "surface": "חבלים",
@@ -74,16 +53,16 @@
     },
     {
       "surface": "וסחבנו",
-      "gloss": "ja me lohistame"
+      "gloss": "ja me kisume"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ selle",
-      "marks": "linna"
+      "gloss": "⟨את⟩",
+      "marks": "selle (linna)"
     },
     {
       "surface": "עד",
-      "gloss": "alla"
+      "gloss": "alla ojani"
     },
     {
       "surface": "הנחל",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "לא",
-      "gloss": "mitte"
+      "gloss": "ei"
     },
     {
       "surface": "נמצא",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "sealt"
+      "gloss": "seal"
     },
     {
       "surface": "גם",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "צרור",
-      "gloss": "üht klibukivi"
+      "gloss": "mitte klibukakest"
     }
   ],
-  "timestamp": "2026-10-21T01:08:42.927872881Z",
+  "timestamp": "2026-10-21T05:59:32.733346873Z",
   "model": "glm-5.3"
 }

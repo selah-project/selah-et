@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "keda Jošija vastu läks",
-      "rationale": "Häälitustähed ei ütle, kelle poole Jošija läks — Paroh-Nehho või Assuri kuninga poole; Euroopa tõlked valivad erinevalt."
-    },
-    {
-      "kind": "alternative",
-      "subject": "עלה ... על",
-      "rationale": "'läks üles ... vastu' — mõne tõlke järgi tähendab see Abüdosse või Assuri kuningat aitama, mitte ründama."
-    }
-  ],
-  "translation": "Tema päevil läks üles Paroh-Nehho, Mitsraimi kuningas, Assuri kuninga vastu Eufrati jõe juurde; ja kuningas Jošija läks talle vastu, ja ta tappis ta Megidos, kui ta nägi teda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/23\/29-32.1792546526769.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Oma päevil tõusis Paroh-Necho, Mitsraimi kuningas, Aššuri kuninga vastu Eufrati jõe juurde; ja kuningas Jošija läks talle vastu, ja too tappis ta Megiddos, kui ta nägi ⟨את⟩ teda.",
   "tokens": [
     {
       "surface": "בימיו",
-      "gloss": "tema päevil"
+      "gloss": "oma päevil"
     },
     {
       "surface": "עלה",
-      "gloss": "läks üles"
+      "gloss": "tõusis"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh-"
+      "gloss": "Paroh"
     },
     {
       "surface": "נכה",
-      "gloss": "Nehho"
+      "gloss": "Necho"
     },
     {
       "surface": "מלך",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assuri"
+      "gloss": "Aššuri"
     },
     {
       "surface": "על",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "וימיתהו",
-      "gloss": "ja tappis ta"
+      "gloss": "ja too tappis ta"
     },
     {
       "surface": "במגדו",
-      "gloss": "Megidos"
+      "gloss": "Megiddos"
     },
     {
       "surface": "כראתו",
@@ -110,6 +89,6 @@
       "marks": "teda"
     }
   ],
-  "timestamp": "2026-10-21T01:35:26.770874836Z",
+  "timestamp": "2026-10-21T05:58:20.950521937Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פי שנים",
-      "rationale": "Kaksikosa ruahhist: pärimuslikult esmasündinu pärandi kaks osa (5Ms 21:17), mitte 'kaks korda rohkem väge'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruahh",
-      "rationale": "רוח jääb 'ruahhiks' — tuul\/hingamine\/vaim ühes sõnas, eesti 'vaim' kitsendaks."
-    },
-    {
-      "kind": "you",
-      "subject": "Elia räägib Elišaga",
-      "rationale": "Otsene pöördumine: 'Küsi, mida ma teen sulle'."
-    }
-  ],
-  "translation": "Ja sündis, kui nad olid üle läinud, et Elia ütles Elišale: Küsi, mida ma teen sulle, enne kui ma sinu juurest ära võetakse. Ja Eliša ütles: Olgu, palun, su ruahhist minul kaks osa.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a05c6ffb361fe34523065e6da1e240bb80a93c7bfc7000a5e1736c0ac1ac953c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/2\/9-12.1792545893831.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui nad olid üle läinud, ütles Elija Elišale: Küsi, mida ma võin sinu heaks teha, enne kui ma sinu juurest ära võetakse. Ja Eliša ütles: Olgu, palun, su suu ⟨osast⟩ kaksiku ⟨osa⟩ sinu ruahhist minu jaoks.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ja sündis"
+      "gloss": "Ja kui oli"
     },
     {
       "surface": "כעברם",
-      "gloss": "kui nad olid üle läinud"
+      "gloss": "nad olid üle läinud"
     },
     {
       "surface": "ואליהו",
-      "gloss": "et Elia"
+      "gloss": "Elija"
     },
     {
       "surface": "אמר",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "ma teen"
+      "gloss": "ma võin teha"
     },
     {
       "surface": "לך",
-      "gloss": "sulle"
+      "gloss": "sinu heaks"
     },
     {
       "surface": "בטרם",
-      "gloss": "ennen kui"
+      "gloss": "enne kui"
     },
     {
       "surface": "אלקח",
@@ -103,21 +77,21 @@
     },
     {
       "surface": "פי",
-      "gloss": "kaks osa"
+      "gloss": "su suu ⟨osast⟩"
     },
     {
       "surface": "שנים",
-      "gloss": "kaks"
+      "gloss": "kaksiku ⟨osa⟩"
     },
     {
       "surface": "ברוחך",
-      "gloss": "su ruahhist"
+      "gloss": "sinu ruahhist"
     },
     {
       "surface": "אלי",
-      "gloss": "minul"
+      "gloss": "minu jaoks"
     }
   ],
-  "timestamp": "2026-10-21T01:24:53.833476770Z",
+  "timestamp": "2026-10-21T05:57:21.231777388Z",
   "model": "glm-5.3"
 }

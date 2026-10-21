@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "mina olen",
-      "rationale": "Hebrew אני יהוה is nominal; Estonian adds copula ⟨olen⟩ in translation text as 'olen'"
-    }
-  ],
-  "translation": "et teie põlved teaksid, et mina panin Jisraeli pojad elama sutšedes, kui ma tõin ⟨את⟩ neid välja Mitsraimi maalt; mina olen Jahve, teie Elohim.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/41-44.1792539560035.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Selleks et teie põlved teaksid, et sukkades panin ma ⟨את⟩ Jisraeli pojad elama, kui ma nad välja tõin Mitsraimi maalt; mina olen Jahve, teie Elohim.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "et"
+      "gloss": "selleks et"
     },
     {
       "surface": "ידעו",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "בסכות",
-      "gloss": "sutšedes"
+      "gloss": "sukkad"
     },
     {
       "surface": "הושבתי",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisraeli"
+      "gloss": "Jisrael"
     },
     {
       "surface": "בהוציאי",
@@ -66,8 +50,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "neid"
+      "gloss": "⟨את⟩ nad",
+      "marks": "Mitsraimi maalt"
     },
     {
       "surface": "מארץ",
@@ -75,7 +59,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsraimi"
+      "gloss": "Mitsraim"
     },
     {
       "surface": "אני",
@@ -90,6 +74,6 @@
       "gloss": "teie Elohim"
     }
   ],
-  "timestamp": "2026-10-20T23:39:20.036061824Z",
+  "timestamp": "2026-10-21T06:29:02.679133804Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "rationale": "Määrsõna 'sinna' on juba kaetud eessõnaga 'kuhu' ja jäeti ära."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "'kuulata + poole' eessõna jäeti eesti keeles kaduma."
-    }
-  ],
-  "translation": "et su silmad oleksid avatud selle koda poole päeval ja öösel, selle koha poole, kuhu sa ütlesid panna oma nime, et kuulata palvet, mida sinu teenija selle koha poole palub.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "faf59debe8667017903f21e92674cce58fb365efbd040fd31614e998706307e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/6\/17-20.1792557774820.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Et sinu silmad oleksid avatud selle koja poole päeval ja öösel, selle koha poole, kuhu sa ütlesid panna oma nime, et kuulda palvet, mida sinu sulane selle koha poles palub.",
   "tokens": [
     {
       "surface": "להיות",
-      "gloss": "et ... oleksid"
+      "gloss": "et oleksid"
     },
     {
       "surface": "עיניך",
-      "gloss": "su silmad"
+      "gloss": "sinu silmad"
     },
     {
       "surface": "פתחות",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "koda"
+      "gloss": "selle koja"
     },
     {
       "surface": "הזה",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "sinna"
     },
     {
-      "surface": "לשמע",
-      "gloss": "et kuulata"
+      "surface": "לשמוע",
+      "gloss": "et kuulda"
     },
     {
       "surface": "אל",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "sinu teenija"
+      "gloss": "sinu sulane"
     },
     {
       "surface": "אל",
@@ -125,6 +104,6 @@
       "gloss": "selle"
     }
   ],
-  "timestamp": "2026-10-21T04:42:54.823305332Z",
+  "timestamp": "2026-10-21T05:56:06.194353637Z",
   "model": "glm-5.3"
 }

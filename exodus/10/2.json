@@ -5,53 +5,27 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "räägi oma pojale",
-      "rationale": "Käsk edasi anda — põlvkondade kaudu kutsutakse kuulama, mis Jahve tegi."
-    },
-    {
-      "kind": "crux",
-      "subject": "התעללתי",
-      "rationale": "'Mida ma Mitsraimiga tegin' — tugev verbi põhitähendus on lõpuni mõjutada\/näpistada; tõlkijad jagunevad 'pilkasid\/mängisin' ja 'toiminud' vahel."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ספר",
-      "rationale": "תספר 'räägi' põhineb loendamise\/märkide tegemise juurel — lugu ja arv samas juures."
-    }
-  ],
-  "translation": "ja et sa saaksid rääkida oma poja kõrvas ja oma poja poja kõrvas, mida mina tegin Mitsraimiga, ja ⟨את⟩ oma tunnuseid, mida ma nende keskele panin, ja et te teaksite, et mina olen Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/10\/1-4.1792538412353.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja selleks, et sa saaksid rääkida oma pojale ja oma poja pojale ⟨את⟩ selle, mida ma tegin Mitsraimiga, ja ⟨את⟩ oma tunnustähti, mille ma nende keskele panin, ja et te teaksite, et mina olen Jahve.",
   "tokens": [
     {
       "surface": "ולמען",
-      "gloss": "ja et"
+      "gloss": "ja selleks, et"
     },
     {
       "surface": "תספר",
-      "gloss": "sa räägiksid"
+      "gloss": "sa saaksid rääkida"
     },
     {
       "surface": "באזני",
-      "gloss": "kõrvas"
+      "gloss": "kõrvusid"
     },
     {
       "surface": "בנך",
-      "gloss": "oma poja"
+      "gloss": "oma pojale"
     },
     {
       "surface": "ובן",
-      "gloss": "ja poja"
+      "gloss": "ja pojale"
     },
     {
       "surface": "בנך",
@@ -60,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mida mina tegin"
+      "marks": "selle, mida ma tegin Mitsraimiga"
     },
     {
       "surface": "אשר",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "התעללתי",
-      "gloss": "mina tegin"
+      "gloss": "ma tegin"
     },
     {
       "surface": "במצרים",
@@ -77,15 +51,15 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "oma tunnuseid"
+      "marks": "oma tunnustähti"
     },
     {
       "surface": "אתתי",
-      "gloss": "oma tunnuseid"
+      "gloss": "oma tunnustähti"
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mille"
     },
     {
       "surface": "שמתי",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "ja et te teaksite"
+      "gloss": "ja te teaksite"
     },
     {
       "surface": "כי",
@@ -112,6 +86,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T23:20:12.354606075Z",
+  "timestamp": "2026-10-21T06:04:53.220519500Z",
   "model": "glm-5.3"
 }

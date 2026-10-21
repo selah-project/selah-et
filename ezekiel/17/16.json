@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי אני",
-      "rationale": "Vanne 'nii tõesti kui ma elan' — heebrea otsekui 'elav olen mina'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אלה",
-      "rationale": "'vandetus' ehk needmissõnu pandud vandega; tõlkes 'vandetus', mitte lihtsalt 'vanne'."
-    },
-    {
-      "kind": "crux",
-      "subject": "במקום המלך",
-      "rationale": "Kas 'kuninga kohas' tähendab Babülonit, kus kuningas (Tsidkija) elab, või paika, kus kuningas (Nebukadnetsar) valitseb; KJV\/jps loevad 'kuninga elukoht'."
-    }
-  ],
-  "translation": "Nii tõesti kui ma elan, ütleb Adonai Jahve: kas ta ei sure ⟨on⟩ ⟨selles⟩ kohas, kus ⟨on⟩ kuningas, kes tema tegi kuningaks, kelle vandetust ta põlgas ja kelle lepingut ta rikkus — ⟨את⟩ temaga, Babüloni keskel ta sureb?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "24c18dfa0bb76ad42512295ed28249bf58738609866c7265039e798576eee311",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/17\/16-16.1792558453065.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nii tõesti elan, ütleb Adonai Jahve: eks ta sure koos temaga Babüloni keskel, ⟨selles⟩ paigas, kus ⟨on⟩ kuningas, kes tegi ta kuningaks, kelle vandetõotust ta põlgas ja kelle lepingut ta rikkus?",
   "tokens": [
     {
       "surface": "חי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ma"
+      "gloss": "Nii tõesti mina"
     },
     {
       "surface": "נאם",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "kas"
+      "gloss": "eks"
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "tõesti (eitusest tugev kinnitus)"
     },
     {
       "surface": "במקום",
-      "gloss": "kohas"
+      "gloss": "paigas"
     },
     {
       "surface": "המלך",
@@ -76,11 +50,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "tema"
+      "marks": "teda (keda kuningas kuningaks tegi)"
     },
     {
       "surface": "אשר",
-      "gloss": "kelle"
+      "gloss": "kus"
     },
     {
       "surface": "בזה",
@@ -89,11 +63,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kelle vandetust"
+      "marks": "tema vandetõotuse"
     },
     {
       "surface": "אלתו",
-      "gloss": "vandetust"
+      "gloss": "tema vandetõotust"
     },
     {
       "surface": "ואשר",
@@ -106,15 +80,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kelle lepingut"
+      "marks": "tema lepingu"
     },
     {
       "surface": "בריתו",
-      "gloss": "lepingut"
+      "gloss": "tema lepingut"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ temaga"
+      "gloss": "⟨את⟩ koos temaga"
     },
     {
       "surface": "בתוך",
@@ -129,6 +103,6 @@
       "gloss": "sureb"
     }
   ],
-  "timestamp": "2026-10-21T04:54:13.066202975Z",
+  "timestamp": "2026-10-21T06:08:23.231412370Z",
   "model": "glm-5.3"
 }

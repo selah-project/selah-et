@@ -5,37 +5,16 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "möirgamise pasunad",
-      "rationale": "חצצרות התרועה on 'häire\/kisa pasunad', sõjaväesignaalide riistad"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨neid⟩",
-      "rationale": "asersõna kordus vastab heebrea אתם kordusele"
-    }
-  ],
-  "translation": "Ja Moše saatis nad, tuhat iga hõimu kohta, sõjaväkke, ⟨את⟩ ⟨neid⟩ ja ⟨את⟩ Pinhase, Elasari poja, preestri, sõjaväkke, ja püha riistad ja möirgamise pasunad tema käes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/31\/5-8.1792540454114.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše saatis nad, tuhat iga hõimu kohta, sõjakäigule, ⟨את⟩ neid ja ⟨את⟩ Pinḥasi, El‘azari poega, preestri, sõjakäigule, ja pühad riistad ning hädaldamise pasunad olid ⟨tema⟩ käes.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "ja saatis"
+      "gloss": "Ja saatis"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨neid⟩",
-      "marks": "Moše saadetud mehed"
+      "gloss": "⟨את⟩",
+      "marks": "nad"
     },
     {
       "surface": "משה",
@@ -47,33 +26,33 @@
     },
     {
       "surface": "למטה",
-      "gloss": "hõimu kohta"
+      "gloss": "iga hõimu kohta"
     },
     {
       "surface": "לצבא",
-      "gloss": "sõjaväkke"
+      "gloss": "sõjakäigule"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨neid⟩",
-      "marks": "sõjaväkke saadetud"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Pinhas"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Pinḥasi"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinhase"
+      "gloss": "Pinḥasi"
     },
     {
       "surface": "בן",
-      "gloss": "poja"
+      "gloss": "poega"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elasari"
+      "gloss": "El‘azari"
     },
     {
       "surface": "הכהן",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "לצבא",
-      "gloss": "sõjaväkke"
+      "gloss": "sõjakäigule"
     },
     {
       "surface": "וכלי",
@@ -89,21 +68,21 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "püha"
+      "gloss": "pühad"
     },
     {
       "surface": "וחצצרות",
-      "gloss": "ja pasunad"
+      "gloss": "ning pasunad"
     },
     {
       "surface": "התרועה",
-      "gloss": "möirgamise"
+      "gloss": "hädaldamise"
     },
     {
       "surface": "בידו",
-      "gloss": "tema käes"
+      "gloss": "käes"
     }
   ],
-  "timestamp": "2026-10-20T23:54:14.115528637Z",
+  "timestamp": "2026-10-21T06:35:46.638060011Z",
   "model": "glm-5.3"
 }

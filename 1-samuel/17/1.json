@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "maakonnas",
-      "rationale": "ליהודה on vaid 'Juudale kuuluvale' — eesti vajab kohamääratlise jaoks sõna"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kohanimede loend",
-      "rationale": "Soko, Asseka, Efes-Dammim — sõjatanner pärisnimeliselt määratletud"
-    }
-  ],
-  "translation": "Ja pliistlased kogusid ⟨את⟩ oma laagerdused sõjaks ja kogunesid Sokoni juurde, mis on Juuda ‹maakonnas›, ja laagerdusid Sokoni ja Asseka vahel, Efes-Dammimis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/17\/1-4.1792544037036.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja plistid kogusid ⟨את⟩ oma laagrid sõjaks, ja nad kogunesid Soko juurde, mis on Juudas, ja nad laagerdusid Soko ja Aseka vahele, Efes-Damimis.",
   "tokens": [
     {
       "surface": "ויאספו",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "pliistlased"
+      "gloss": "plistid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma laagerdused"
+      "marks": "oma laagrid"
     },
     {
       "surface": "מחניהם",
-      "gloss": "oma laagerdused"
+      "gloss": "oma laagrid"
     },
     {
       "surface": "למלחמה",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "ויאספו",
-      "gloss": "ja kogunesid"
+      "gloss": "ja nad kogunesid"
     },
     {
       "surface": "שכה",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "ליהודה",
-      "gloss": "on Juuda ‹maakonnas›"
+      "gloss": "on Juudas"
     },
     {
       "surface": "ויחנו",
-      "gloss": "ja laagerdusid"
+      "gloss": "ja nad laagerdusid"
     },
     {
       "surface": "בין",
-      "gloss": "vahel"
+      "gloss": "vahele"
     },
     {
       "surface": "שוכה",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ובין",
-      "gloss": "ja vahel"
+      "gloss": "ja"
     },
     {
       "surface": "עזקה",
-      "gloss": "Asseka"
+      "gloss": "Aseka"
     },
     {
       "surface": "באפס",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "דמים",
-      "gloss": "Dammimis"
+      "gloss": "Damimis"
     }
   ],
-  "timestamp": "2026-10-21T00:53:57.038015839Z",
+  "timestamp": "2026-10-21T05:52:35.389983172Z",
   "model": "glm-5.3"
 }

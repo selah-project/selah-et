@@ -5,37 +5,16 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חשב",
-      "rationale": "'Kavandaja töö' vs 'osava käsitöölise töö' — verbi חשב põhitähendus on 'kuduma, arvutama'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "peksid laiaks",
-      "rationale": "וירקעו tähendab vasaraga laiaks taoks; KJV 'did beat'."
-    }
-  ],
-  "translation": "Ja nad peksid kulla õhukesteks lehtedeks ja lõikasid niite, et kududa neid sinalise sisse, purpurisse, ussitanud punasesse ja linasesse — kudumistöö.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/39\/1-4.1792539055217.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad kirjutasid lahti ⟨את⟩ kullast lehed ja lõikasid niite, et kududa ⟨need⟩ sinise, purpuri, usaspunase ja peenliini sisse — kudumistöö.",
   "tokens": [
     {
       "surface": "וירקעו",
-      "gloss": "Ja nad peksid laiaks"
+      "gloss": "kirjutasid lahti (haamerdasid laiaks)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kulla lehed"
+      "marks": "kullast lehed"
     },
     {
       "surface": "פחי",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "הזהב",
-      "gloss": "kulla"
+      "gloss": "kuld"
     },
     {
       "surface": "וקצץ",
@@ -55,43 +34,43 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "tegema"
+      "gloss": "et teha"
     },
     {
       "surface": "בתוך",
-      "gloss": "sisse"
+      "gloss": "keskel"
     },
     {
       "surface": "התכלת",
-      "gloss": "sinasesse"
+      "gloss": "sinine (hiiakiinus)"
     },
     {
       "surface": "ובתוך",
-      "gloss": "ja sisse"
+      "gloss": "ja keskel"
     },
     {
       "surface": "הארגמן",
-      "gloss": "purpurisse"
+      "gloss": "purpur"
     },
     {
       "surface": "ובתוך",
-      "gloss": "ja sisse"
+      "gloss": "ja keskel"
     },
     {
       "surface": "תולעת",
-      "gloss": "ussitanud"
+      "gloss": "usse-"
     },
     {
       "surface": "השני",
-      "gloss": "punasesse"
+      "gloss": "spunane"
     },
     {
       "surface": "ובתוך",
-      "gloss": "ja sisse"
+      "gloss": "ja keskel"
     },
     {
       "surface": "השש",
-      "gloss": "linasesse"
+      "gloss": "peenliin"
     },
     {
       "surface": "מעשה",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "חשב",
-      "gloss": "kudumis-"
+      "gloss": "kudumistöö (mõtlev kuduja)"
     }
   ],
-  "timestamp": "2026-10-20T23:30:55.218844529Z",
+  "timestamp": "2026-10-21T06:07:17.343646618Z",
   "model": "glm-5.3"
 }

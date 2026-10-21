@@ -5,42 +5,15 @@
   "book": "amos",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "בולס",
-      "rationale": "בולס (from בלס, to pinch\/dress sycamore figs) appears only here in the Tanakh."
-    },
-    {
-      "kind": "crux",
-      "subject": "tense",
-      "rationale": "'Olin' vs 'olen' — KJV 'I was no prophet' vs YLT 'I am no prophet'; Hebrew participles allow both."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "",
-      "rationale": "preposition folded into the dative Amatsjale"
-    }
-  ],
-  "translation": "Ja Amoos vastas ja ütles Amatsjale: ei ole mina prohvet ega prohveti poeg ⟨olen⟩ mina, sest karja_pidaja olen mina ja viigipuude koorija.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/7\/13-16.1792551282579.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Amos vastas ja ütles Amatsjale: ei ⟨ole⟩ mina prohvet ega prohveti poeg ⟨ole⟩ mina, sest karjaseks ⟨olen⟩ mina ja viigpuu-pigistajaks ⟨olen⟩ mina.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "ja vastas"
+      "gloss": "Ja vastas"
     },
     {
       "surface": "עמוס",
-      "gloss": "Amoos"
+      "gloss": "Amos"
     },
     {
       "surface": "ויאמר",
@@ -48,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Amatsjale"
     },
     {
       "surface": "אמציה",
@@ -88,21 +61,21 @@
     },
     {
       "surface": "בוקר",
-      "gloss": "karja_pidaja"
+      "gloss": "karjaseks"
     },
     {
       "surface": "אנכי",
-      "gloss": "olen mina"
+      "gloss": "mina"
     },
     {
       "surface": "ובולס",
-      "gloss": "ja koorija"
+      "gloss": "ja viigpuu-pigistajaks"
     },
     {
       "surface": "שקמים",
-      "gloss": "viigipuude"
+      "gloss": "viigpuuviigud"
     }
   ],
-  "timestamp": "2026-10-21T02:54:42.580716936Z",
+  "timestamp": "2026-10-21T06:01:03.608486724Z",
   "model": "glm-5.3"
 }

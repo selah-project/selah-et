@@ -5,41 +5,15 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebreas puudub kopeslatsiooni; eesti keel vajab 'on'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ראשי אבות המטות",
-      "rationale": "sõna-sõnalt 'isade pead sugude kohta' — liitconstruct, eesti keeles lahtutud"
-    },
-    {
-      "kind": "measurement",
-      "subject": "pärandijaotus",
-      "rationale": "salm loetleb maa pärandamise ja jaotajad — mõõdu- ja jaotamisregister"
-    }
-  ],
-  "translation": "Ja need ⟨on⟩ pärandosad, mille Jisraeli pojad pärisid Kenaani maal, mille nad andsid neile pärandiks: Elasar preester ja Jehošua, Nuuni poeg, ja isade pead sugude kohta Jisraeli poegadele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "dea73aa7e88ebb3cdb9da0a77ba1ce83d433ee8b37ecf020501d173728d622d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/14\/1-4.1792541578434.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja need ⟨on⟩ need, mille Jisraeli pojad Kanaani maal pärisid, ja nad andsid ⟨את⟩ neile päriluse: Elasar preester ja Joošua, Nuuni poeg, ja Jisraeli poegade hõimude isade pead.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "ja need"
+      "gloss": "Ja need"
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "mida"
     },
     {
       "surface": "נחלו",
@@ -59,20 +33,20 @@
     },
     {
       "surface": "כנען",
-      "gloss": "Kenaani"
+      "gloss": "Kanaani"
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "ja"
     },
     {
       "surface": "נחלו",
-      "gloss": "andsid pärandiks"
+      "gloss": "andsid päriluse"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "neile"
+      "gloss": "⟨את⟩ neile",
+      "marks": "Jisraeli poegadele — jagajad: Elasar preester, Joošua ja hõimude pead"
     },
     {
       "surface": "אלעזר",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "ויהושע",
-      "gloss": "ja Jehošua"
+      "gloss": "ja Joošua"
     },
     {
       "surface": "בן",
@@ -104,17 +78,17 @@
     },
     {
       "surface": "המטות",
-      "gloss": "sugude"
+      "gloss": "hõimude"
     },
     {
       "surface": "לבני",
-      "gloss": "Jisraeli poegadele"
+      "gloss": "poegadele"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T00:12:58.435037912Z",
+  "timestamp": "2026-10-21T06:24:06.491928446Z",
   "model": "glm-5.3"
 }

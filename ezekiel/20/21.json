@@ -5,44 +5,23 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "riivasid",
-      "rationale": "חלל põhitoon on 'läbi puurima, haavama'; 'riivama' kannab püha rikkumise tähendust"
-    },
-    {
-      "kind": "idiom",
-      "subject": "üks-participle",
-      "rationale": "heebrea 'üks + osastav' konstruktsioon on eesti keeles 'üks X' lause alguses; 'üks asi, mis oli jäänud'"
-    }
-  ],
-  "translation": "Ja mässasid minus poisid: mu hukketes ei käinud nad ja ⟨את⟩ mu kohtuid ei pidanud nad pidama ⟨את⟩ neid tegema, mida inimene teeb ja elab neist, mu šabateid nad riivasid; ja ma ütlesin valada mu viha nende peale, ära kulutama mu pahameelt nende vastu kõrbes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/20\/21-24.1792549987576.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga lapsed mässasid minu vastu: minu määrustes ei käinud nad ja ⟨את⟩ minu õiguspõhimõtteid ei pidanud nad täitma, teha ⟨את⟩ neid, mida inimene teeb ja elab nende järgi; minu šabateid nad paiskasid pühast. Ja ma ütlesin oma südames: valada oma kibedus nende peale, lõpetada oma viha nende vastu kõrbes.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "ja mässasid"
+      "gloss": "mässasid"
     },
     {
       "surface": "בי",
-      "gloss": "minus"
+      "gloss": "minu vastu"
     },
     {
       "surface": "הבנים",
-      "gloss": "poisid"
+      "gloss": "lapsed"
     },
     {
       "surface": "בחקותי",
-      "gloss": "mu hukketes"
+      "gloss": "minu määrustes"
     },
     {
       "surface": "לא",
@@ -55,11 +34,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "mu kohtuid"
+      "marks": "minu õiguspõhimõtteid"
     },
     {
       "surface": "משפטי",
-      "gloss": "mu kohtuid"
+      "gloss": "minu õiguspõhimõtteid"
     },
     {
       "surface": "לא",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "pidama tegema"
+      "gloss": "teha"
     },
     {
       "surface": "אותם",
@@ -99,20 +78,20 @@
     },
     {
       "surface": "בהם",
-      "gloss": "neist"
+      "gloss": "nende järgi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mu šabateid"
+      "marks": "minu šabateid"
     },
     {
       "surface": "שבתותי",
-      "gloss": "mu šabateid"
+      "gloss": "minu šabateid"
     },
     {
       "surface": "חללו",
-      "gloss": "riivasid nad"
+      "gloss": "paiskasid pühast"
     },
     {
       "surface": "ואמר",
@@ -120,11 +99,11 @@
     },
     {
       "surface": "לשפך",
-      "gloss": "valama"
+      "gloss": "valada"
     },
     {
       "surface": "חמתי",
-      "gloss": "mu viha"
+      "gloss": "oma kibedus"
     },
     {
       "surface": "עליהם",
@@ -132,11 +111,11 @@
     },
     {
       "surface": "לכלות",
-      "gloss": "ära kulutama"
+      "gloss": "lõpetada"
     },
     {
       "surface": "אפי",
-      "gloss": "mu pahameelt"
+      "gloss": "oma viha"
     },
     {
       "surface": "בם",
@@ -147,6 +126,6 @@
       "gloss": "kõrbes"
     }
   ],
-  "timestamp": "2026-10-21T02:33:07.577844706Z",
+  "timestamp": "2026-10-21T06:08:52.308833359Z",
   "model": "glm-5.3"
 }

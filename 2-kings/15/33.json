@@ -5,44 +5,23 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Eesti kõlarida nõuab sidusõna, kus heebrea jääb nimiväljendiks (ושם אמו — ja tema ema nimi Jeruša)"
-    },
-    {
-      "kind": "measurement",
-      "subject": "vanus ja valitsusaastad",
-      "rationale": "Salm loeb kokku Jootami vanuse ja kuusteist valitsusaastat"
-    }
-  ],
-  "translation": "Kakskümne viie aasta poeg oli ta oma valitsemise ajal, ja kuusteist aastat ta valitses Jerušalaimis; ja tema ema nimi ⟨oli⟩ Jeruša, Tsadoki tütar.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "79ec431205073f759e708967e55ca6c57be6a13f13c3e12e5a947796a51ec759",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/15\/33-36.1792546266970.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kakskümmend viis aastat vana oli ta, kui ta hakkas valitsema, ja kuusteist aastat ta valitses Jerušalaimis; ja ta ema nimi oli Jeruša, Tsadoki tütar.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "poeg"
+      "gloss": "vana"
     },
     {
       "surface": "עשרים",
-      "gloss": "kakskümne"
+      "gloss": "kakskümmend"
     },
     {
       "surface": "וחמש",
-      "gloss": "viie"
+      "gloss": "viis"
     },
     {
       "surface": "שנה",
-      "gloss": "aasta"
+      "gloss": "aastat"
     },
     {
       "surface": "היה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "במלכו",
-      "gloss": "oma valitsemise ajal"
+      "gloss": "kui ta hakkas valitsema"
     },
     {
       "surface": "ושש",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "אמו",
-      "gloss": "tema ema"
+      "gloss": "ta ema"
     },
     {
       "surface": "ירושא",
@@ -93,6 +72,6 @@
       "gloss": "Tsadoki"
     }
   ],
-  "timestamp": "2026-10-21T01:31:06.971377292Z",
+  "timestamp": "2026-10-21T05:57:04.176298444Z",
   "model": "glm-5.3"
 }

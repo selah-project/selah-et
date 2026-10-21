@@ -5,31 +5,15 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eesti osastav kääne 'kaitset linna' ei vaja eessõna."
-    }
-  ],
-  "translation": "Ja ma kaitset seda linna, et see päästa, enese pärast ja oma teenri Davidi pärast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "04d597f26110e61a0c292c0e2e4926de0c7072ac00c236b93f726f8de9015060",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/37\/33-36.1792547426978.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma kaitsten seda linna, et ⟨ta⟩ päästa, enda pärast ja mu teenri Davidi pärast.",
   "tokens": [
     {
       "surface": "וגנותי",
-      "gloss": "Ja ma kaitset"
+      "gloss": "ja ma kaitsten"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": " üle"
     },
     {
       "surface": "העיר",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "להושיעה",
-      "gloss": "et see päästa"
+      "gloss": "et ⟨ta⟩ päästa"
     },
     {
       "surface": "למעני",
-      "gloss": "enese pärast"
+      "gloss": "enda pärast"
     },
     {
       "surface": "ולמען",
@@ -57,9 +41,9 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "oma teenri"
+      "gloss": "mu teener"
     }
   ],
-  "timestamp": "2026-10-21T01:50:26.979438727Z",
+  "timestamp": "2026-10-21T06:18:01.534062660Z",
   "model": "glm-5.3"
 }

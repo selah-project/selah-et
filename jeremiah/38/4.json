@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נְרַפֵּא אֶת יָדַיִם",
-      "rationale": "'Käsi lõdvaks laskma' = nõrgestama võitlusvaimu; sõnasõnaline pilt eesti keeles arusaamatu."
-    },
-    {
-      "kind": "you",
-      "subject": "kuningale",
-      "rationale": "Vürstide kõne pöördub otse Sidkija kuninga poole nõudmisega."
-    }
-  ],
-  "translation": "Ja vürstid ütlesid kuningale: surmatagu palun see mees, sest just nõnda nõrgestab ta sõjameeste käsi, kes sellesse linna on jäänud, ja kogu rahva käsi, rääkides neile niisuguseid sõnu; sest see mees ei otsi sellele rahvale rahu, vaid õnnetust.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "991e05c94929d169274f59c05c829f960b69eb83ae5b150ea730f5e495ffa383",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/38\/1-4.1792549110686.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ütlesid vürstid kuningale: lastagu nüüd ⟨את⟩ see mees surma, sest just seepärast lõdvendab ta ⟨את⟩ sõjameeste käsi, kes on alles jäänud selles linnas, ja ⟨את⟩ kogu rahva käsi, rääkides neile nende sõnade kohaselt, sest see mees ei otsi sellele rahvale šalomit, vaid õnnetust.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Ja ütlesid"
+      "gloss": "ja ütlesid"
     },
     {
       "surface": "השרים",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "יומת",
-      "gloss": "surmatagu"
+      "gloss": "lastagu surma"
     },
     {
       "surface": "נא",
-      "gloss": "palun"
+      "gloss": "nüüd"
     },
     {
       "surface": "את",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "mees"
+      "gloss": "see mees"
     },
     {
       "surface": "הזה",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "nõnda"
+      "gloss": "seepärast"
     },
     {
       "surface": "הוא",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "nõrgestab"
+      "gloss": "lõdvendab"
     },
     {
       "surface": "את",
@@ -100,23 +79,23 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "sõja"
+      "gloss": "sõjameeste"
     },
     {
       "surface": "הנשארים",
-      "gloss": "on jäänud"
+      "gloss": "kes on alles jäänud"
     },
     {
       "surface": "בעיר",
-      "gloss": "linna"
+      "gloss": "linnas"
     },
     {
       "surface": "הזאת",
-      "gloss": "sellesse"
+      "gloss": "selles"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "kogu rahva käsi"
     },
     {
@@ -141,11 +120,11 @@
     },
     {
       "surface": "כדברים",
-      "gloss": "niisuguseid sõnu"
+      "gloss": "nende sõnade kohaselt"
     },
     {
       "surface": "האלה",
-      "gloss": "neid"
+      "gloss": "need"
     },
     {
       "surface": "כי",
@@ -153,7 +132,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "mees"
+      "gloss": "see mees"
     },
     {
       "surface": "הזה",
@@ -161,7 +140,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "ei otsi mitte"
+      "gloss": "ei"
     },
     {
       "surface": "דרש",
@@ -169,18 +148,22 @@
     },
     {
       "surface": "לשלום",
-      "gloss": "rahu"
+      "gloss": "šalomit"
     },
     {
       "surface": "לעם",
-      "gloss": "rahvale"
+      "gloss": "sellele rahvale"
     },
     {
       "surface": "הזה",
       "gloss": "sellele"
     },
     {
-      "surface": "כי אם",
+      "surface": "כי",
+      "gloss": "vaid"
+    },
+    {
+      "surface": "אם",
       "gloss": "vaid"
     },
     {
@@ -188,6 +171,6 @@
       "gloss": "õnnetust"
     }
   ],
-  "timestamp": "2026-10-21T02:18:30.687777807Z",
+  "timestamp": "2026-10-21T06:21:12.846983896Z",
   "model": "glm-5.3"
 }

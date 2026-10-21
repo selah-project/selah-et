@@ -5,40 +5,19 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "משכן",
-      "rationale": "משכן jääb heebrea kõla järgi 'miškan', mitte 'telk'."
-    },
-    {
-      "kind": "addition",
-      "subject": "et",
-      "rationale": "Eesti sidesõna 'et' lisatud jaatava kaudlause tähistamiseks, mida heebrea vav- järjestus kandis."
-    }
-  ],
-  "translation": "Ja sündis sel päeval, kui Moše oli lõpetanud ⟨את⟩ miškani püstitamise, et ta võidis selle ja pühitses selle ning ⟨את⟩ kõik selle riistad ja ⟨את⟩ altari ning ⟨את⟩ kõik selle riistad, ja ta võidis need ja pühitses ⟨את⟩ need.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/7\/1-4.1792539809308.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis sel päeval, kui Moše oli lõpetanud miškani püstitamise, et ta võidis ⟨את⟩ ja pühitses ⟨את⟩ selle ja ⟨את⟩ kõik selle riistad, ja ⟨את⟩ altari ja ⟨את⟩ kõik selle riistad, ning ta võidis need ja pühitses ⟨את⟩ neid.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ja-sündis"
+      "gloss": "Ja sündis"
     },
     {
       "surface": "ביום",
-      "gloss": "sel-päeval"
+      "gloss": "sel päeval"
     },
     {
       "surface": "כלות",
-      "gloss": "lõpetanud"
+      "gloss": "kui oli lõpetanud"
     },
     {
       "surface": "משה",
@@ -51,33 +30,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "miškani"
+      "marks": "miškan"
     },
     {
       "surface": "המשכן",
-      "gloss": "miškani"
+      "gloss": "miškan"
     },
     {
       "surface": "וימשח",
-      "gloss": "et-ta-võidis"
+      "gloss": "et ta võidis"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "selle"
+      "marks": "ta (miškan)"
     },
     {
       "surface": "ויקדש",
-      "gloss": "ja-pühitses"
+      "gloss": "ja pühitses"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "selle"
+      "marks": "selle (miškani)"
     },
     {
       "surface": "ואת",
-      "gloss": "ning-⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "kõik selle riistad"
     },
     {
@@ -86,12 +65,12 @@
     },
     {
       "surface": "כליו",
-      "gloss": "selle-riistad"
+      "gloss": "selle riistad"
     },
     {
       "surface": "ואת",
-      "gloss": "ja-⟨את⟩",
-      "marks": "altari"
+      "gloss": "ja ⟨את⟩",
+      "marks": "altar"
     },
     {
       "surface": "המזבח",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ning-⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "kõik selle riistad"
     },
     {
@@ -108,22 +87,22 @@
     },
     {
       "surface": "כליו",
-      "gloss": "selle-riistad"
+      "gloss": "selle riistad"
     },
     {
       "surface": "וימשחם",
-      "gloss": "ja-ta-võidis-need"
+      "gloss": "ning ta võidis need"
     },
     {
       "surface": "ויקדש",
-      "gloss": "ja-pühitses"
+      "gloss": "ja pühitses"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "need"
+      "marks": "neid (kõik riistad)"
     }
   ],
-  "timestamp": "2026-10-20T23:43:29.309320856Z",
+  "timestamp": "2026-10-21T06:36:25.022503424Z",
   "model": "glm-5.3"
 }

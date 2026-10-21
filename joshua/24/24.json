@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נעבד ... נשמע",
-      "rationale": "parallel first-person plural verbs frame the covenant pledge; fronted objects (Jahvet, häält) cleft-style emphasis, kept in Estonian"
-    }
-  ],
-  "translation": "Ja rahvas ütles Jehoošuale: Jahvet, meie Elohimat, me teenime, ja tema häält me kuulame.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/21-24.1792541766309.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja rahvas ütles Jehošuale: ⟨את⟩ Jahvet, meie Elohimit, me teenime, ja tema häält kuuleme.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ja nad ütlesid"
+      "gloss": "ja ütles"
     },
     {
       "surface": "העם",
@@ -33,20 +17,20 @@
     },
     {
       "surface": "אל",
-      "gloss": "kellele"
+      "gloss": "Jehošuale"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoošuale"
+      "gloss": "Jehošua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvet"
+      "marks": "Jahvet, meie Elohimit"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvet"
     },
     {
       "surface": "אלהינו",
@@ -62,9 +46,9 @@
     },
     {
       "surface": "נשמע",
-      "gloss": "me kuulame"
+      "gloss": "me kuuleme"
     }
   ],
-  "timestamp": "2026-10-21T00:16:06.310814283Z",
+  "timestamp": "2026-10-21T06:25:04.430761851Z",
   "model": "glm-5.3"
 }

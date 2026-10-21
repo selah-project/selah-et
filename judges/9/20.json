@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Beit-Millo",
-      "rationale": "בית מלוא kas 'Millo kindlustus' (kivitara) või isikunimi 'Millo perekond'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "kajastruktuur",
-      "rationale": "tuli—sööma kordub peegeldusena: Avimelekist välja → sööb šekemlased, šekemlastest välja → sööb Avimeleki; needsamad verbid mõlemas pooles, võrdne võlg"
-    }
-  ],
-  "translation": "ja kui mitte, siis tulgu Avimelekist tuli ja söögu ⟨את⟩ Šekemi isandad ja ⟨את⟩ Beit-Millo koda, ja tulgu tuli Šekemi isandatest ja Beit-Millo kojast ja söögu ⟨את⟩ Avimeleki",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b4703df232a0d226ce729144c38dfbc42a254080a7de0f1b53454b091be24b91",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/9\/17-20.1792542004937.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga kui ei, siis tulgu tuli välja Avimelekist ja söögu ⟨את⟩ Šekemi isandad ja ⟨את⟩ Millo koja, ja tulgu tuli välja Šekemi isandatest ja Millo kojast ning söögu ⟨את⟩ Avimeleki.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ja kui"
+      "gloss": "Aga kui"
     },
     {
       "surface": "אין",
-      "gloss": "mitte"
+      "gloss": "ei"
     },
     {
       "surface": "תצא",
-      "gloss": "tulgu"
+      "gloss": "tulgu välja"
     },
     {
       "surface": "אש",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "söögu"
+      "gloss": "ja söögu"
     },
     {
       "surface": "את",
@@ -63,24 +42,24 @@
     },
     {
       "surface": "שכם",
-      "gloss": "Šekem"
+      "gloss": "Šekemi"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Beit-Millo koda"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Millo koja"
     },
     {
       "surface": "בית",
-      "gloss": "koda"
+      "gloss": "koja"
     },
     {
-      "surface": "mulו",
+      "surface": "מלוא",
       "gloss": "Millo"
     },
     {
       "surface": "ותצא",
-      "gloss": "ja tulgu"
+      "gloss": "ja tulgu välja"
     },
     {
       "surface": "אש",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "שכם",
-      "gloss": "Šekem"
+      "gloss": "Šekemi"
     },
     {
       "surface": "ומבית",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "ותאכל",
-      "gloss": "söögu"
+      "gloss": "ja söögu"
     },
     {
       "surface": "את",
@@ -113,9 +92,9 @@
     },
     {
       "surface": "אבימלך",
-      "gloss": "Avimelek"
+      "gloss": "Avimeleki"
     }
   ],
-  "timestamp": "2026-10-21T00:20:04.938395298Z",
+  "timestamp": "2026-10-21T06:27:31.257138634Z",
   "model": "glm-5.3"
 }

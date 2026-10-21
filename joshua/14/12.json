@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אולי יהוה אותי",
-      "rationale": "eelarvatud עמי 'Jahve minuga' versus lihtsa את-objekti 'Jahve ⟨mind⟩'; tõlkes järgitud traditsioonilist 'minuga' lugemist"
-    },
-    {
-      "kind": "substitution",
-      "subject": "anaakid",
-      "rationale": "ענקים on rahvanimi, mitte 'hiidud' — nimi hoitud kõla järgi"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "esimene כי loogiline side jääb eesti lauses sidekriipsuga märgituks"
-    }
-  ],
-  "translation": "Ja nüüd anna mulle see mägi, millest Jahve rääkis sel päeval — sina kuulsid sel päeval, et anaakid on seal ja linnad suured ja kindlustatud; võib-olla ⟨on⟩ Jahve minuga ja ma ajan nad välja, nii nagu Jahve rääkis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3d79cd8fc07bdf5534eaea30df10274208d18a3715e96be7af49a84bde24fd52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/14\/9-12.1792541573691.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nüüd anna mulle see ⟨את⟩ mägi, millest rääkis Jahve sel päeval, sest sina kuulsid sel päeval, et anaklased ⟨on⟩ seal ja linnad suured ja kindlaks müüritud; ehk olgu Jahve ⟨את⟩ minuga, ja ma ajan nad välja, nii nagu Jahve on rääkinud.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "sellel"
+      "gloss": "sel"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "sest"
     },
     {
       "surface": "אתה",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "sellel"
+      "gloss": "sel"
     },
     {
       "surface": "כי",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "ענקים",
-      "gloss": "anaakid"
+      "gloss": "anaklased"
     },
     {
       "surface": "שם",
-      "gloss": "on seal"
+      "gloss": "seal"
     },
     {
       "surface": "וערים",
@@ -120,11 +94,11 @@
     },
     {
       "surface": "בצרות",
-      "gloss": "kindlustatud"
+      "gloss": "kindlaks müüritud"
     },
     {
       "surface": "אולי",
-      "gloss": "võib-olla"
+      "gloss": "ehk"
     },
     {
       "surface": "יהוה",
@@ -132,8 +106,7 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩",
-      "marks": "minuga"
+      "gloss": "⟨את⟩ minuga"
     },
     {
       "surface": "והורשתים",
@@ -145,13 +118,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "rääkis"
+      "gloss": "on rääkinud"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T00:12:53.692541294Z",
+  "timestamp": "2026-10-21T06:24:39.806875507Z",
   "model": "glm-5.3"
 }

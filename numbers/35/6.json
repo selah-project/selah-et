@@ -5,42 +5,16 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kuus + nelikümmend kaks",
-      "rationale": "linnade loendus: 6 pelgastuslinna + 42 muud."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pelgastuslinna",
-      "rationale": "מקלט tähendab varjupaika, 'pelgastus' on eesti Piibli traditsiooniline kujund varjupaigast."
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "heebrea puudib kopeela 'need on kuus linna'; eesti keel vajab seda."
-    }
-  ],
-  "translation": "Ja linnadest, mida te annate leviitidele, ⟨on⟩ kuus pelgastuslinna, et neid anda tapja sinna põgenemiseks; ja nende peale annate te nelikümmend kaks linna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/35\/5-8.1792540516809.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ need linnad, mida te annate leviitidele: ⟨את⟩ kuus pelgastuslinna, mida te annate tapja põgenemiseks sinna, ja nende kõrvale annate te nelikümmend kaks linna.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "linnad"
+      "gloss": "⟨את⟩",
+      "marks": "need linnad"
     },
     {
       "surface": "הערים",
-      "gloss": "linnad"
+      "gloss": "need linnad"
     },
     {
       "surface": "אשר",
@@ -57,7 +31,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuus"
+      "marks": "kuus pelgastuslinna"
     },
     {
       "surface": "שש",
@@ -65,11 +39,11 @@
     },
     {
       "surface": "ערי",
-      "gloss": "linnad"
+      "gloss": "linna"
     },
     {
       "surface": "המקלט",
-      "gloss": "pelgastus-"
+      "gloss": "pelgastuslinna"
     },
     {
       "surface": "אשר",
@@ -93,11 +67,11 @@
     },
     {
       "surface": "ועליהם",
-      "gloss": "ja nende peale"
+      "gloss": "nende kõrvale"
     },
     {
       "surface": "תתנו",
-      "gloss": "te annate"
+      "gloss": "annate te"
     },
     {
       "surface": "ארבעים",
@@ -112,6 +86,6 @@
       "gloss": "linna"
     }
   ],
-  "timestamp": "2026-10-20T23:55:16.810938761Z",
+  "timestamp": "2026-10-21T06:36:22.192038080Z",
   "model": "glm-5.3"
 }

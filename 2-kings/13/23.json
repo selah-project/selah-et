@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את (lepingu juures)",
-      "rationale": "See את on sagadik-sünonüüm, mitte otsese objekti marker; põimitud eessõnaga 'Avrahami, Jitshaki ja Jaakoviga'."
-    }
-  ],
-  "translation": "Ja Jahve oli neile armuline ja halastas neile ning pööras nende poole oma lepingu pärast ⟨את⟩ Avrahami, Jitshaki ja Jaakoviga, ega tahtnud neid hukkuda lasta ega visanud neid oma palge eest ära seni praeguseni.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/13\/21-24.1792546107634.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve oli nende suhtes armuline ja halastas neile ning pööras ⟨enda⟩ nende poole oma lepingu pärast ⟨את⟩ Avrahami, Jitshaki ja Jaakoviga, ega tahtnud neid hukkuda lasta ega neid oma palge eest ära heita kuni tänase päevani.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "Ja Jahve oli armuline"
+      "gloss": "oli armuline"
     },
     {
       "surface": "יהוה",
@@ -34,15 +18,15 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "neile"
+      "marks": "neid"
     },
     {
       "surface": "וירחמם",
-      "gloss": "ja halastas neile"
+      "gloss": "halastas neile"
     },
     {
       "surface": "ויפן",
-      "gloss": "ja pööras"
+      "gloss": "pööras"
     },
     {
       "surface": "אליהם",
@@ -58,19 +42,20 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ Avrahami, Jitshaki ja Jaakoviga"
+      "gloss": "⟨את⟩",
+      "marks": "Avrahami"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avraham"
+      "gloss": "Avrahami"
     },
     {
       "surface": "יצחק",
-      "gloss": "Jitshak"
+      "gloss": "Jitshaki"
     },
     {
       "surface": "ויעקב",
-      "gloss": "ja Jaakov"
+      "gloss": "Jaakoviga"
     },
     {
       "surface": "ולא",
@@ -90,11 +75,11 @@
     },
     {
       "surface": "השליכם",
-      "gloss": "visanud neid"
+      "gloss": "neid ära heita"
     },
     {
       "surface": "מעל",
-      "gloss": "eest ära"
+      "gloss": "eest"
     },
     {
       "surface": "פניו",
@@ -102,13 +87,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "seni"
+      "gloss": "kuni"
     },
     {
       "surface": "עתה",
-      "gloss": "praegusini"
+      "gloss": "tänase päevani"
     }
   ],
-  "timestamp": "2026-10-21T01:28:27.637187828Z",
+  "timestamp": "2026-10-21T05:56:44.896018005Z",
   "model": "glm-5.3"
 }

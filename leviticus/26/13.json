@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מטת עלכם",
-      "rationale": "sõna-sõnalt 'teie ike kandlad' — ike kaks puidikanda, mille Jahve murdab"
-    },
-    {
-      "kind": "crux",
-      "subject": "קוממיות",
-      "rationale": "haruldane sõna: 'püsti kõndima' vs 'kõrgesse\/paeda' — enamus tõlkeid 'püsti'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מהית להם עבדים",
-      "rationale": " konstruktsioon 'et te ei oleks neile orjadeks' — eesti edastab otse, heebrea infinitivikonstruktsioon püsib"
-    }
-  ],
-  "translation": "Mina olen Jahve, teie Elohim, kes tõi teid välja Mitsraimi maalt, et te ei peaks neile orjadena teenima, ja murran teie ike kandlad ning viin teid ⟨את⟩ püsti käima.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/13-16.1792539632095.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mina ⟨on⟩ Jahve, teie Elohim, kes tõi ⟨את⟩ teid välja Mitsraimi maalt, et te ei peaks olema neile orjadeks, ja murdsin teie ike palgid ning lasin teid ⟨את⟩ käia püsti — kõrgelt püsti.",
   "tokens": [
     {
       "surface": "אני",
@@ -51,11 +25,12 @@
     },
     {
       "surface": "הוצאתי",
-      "gloss": "tõin välja"
+      "gloss": "tõi välja"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid (Mitsraimi maalt)"
     },
     {
       "surface": "מארץ",
@@ -63,11 +38,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsraimi"
+      "gloss": "Mitsraim"
     },
     {
       "surface": "מהית",
-      "gloss": "et te ei oleks"
+      "gloss": "olemast"
     },
     {
       "surface": "להם",
@@ -75,15 +50,15 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "orjad"
+      "gloss": "orjadeks"
     },
     {
       "surface": "ואשבר",
-      "gloss": "ja murran"
+      "gloss": "ja murdsin"
     },
     {
       "surface": "מטת",
-      "gloss": "kandlad"
+      "gloss": "ike palgid"
     },
     {
       "surface": "עלכם",
@@ -91,18 +66,18 @@
     },
     {
       "surface": "ואולך",
-      "gloss": "ja vien"
+      "gloss": "ja lasin käia"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
-      "marks": "püsti käima"
+      "gloss": "⟨את⟩",
+      "marks": "teid (käima püsti — kõrgelt püsti)"
     },
     {
       "surface": "קוממיות",
-      "gloss": "püsti"
+      "gloss": "püsti — kõrgelt püsti"
     }
   ],
-  "timestamp": "2026-10-20T23:40:32.096216317Z",
+  "timestamp": "2026-10-21T06:29:57.355001251Z",
   "model": "glm-5.3"
 }

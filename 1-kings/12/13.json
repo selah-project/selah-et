@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "karmilt",
-      "rationale": "קשה 'kõva\/raske' adverbiga: 'karmilt', 'kõvasti' — heebrea sõna kannab raskuse pilti"
-    }
-  ],
-  "translation": "Ja kuningas vastas rahvale ⟨את⟩ karmilt ja jättis järele vanemate nõu, mida nad olid talle andnud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/12\/13-16.1792545478623.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas vastas ⟨את⟩ rahvale karmilt ja jättis järele ⟨את⟩ vanemate nõu, mida nad olid talle andnud.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "ja vastas"
+      "gloss": "Ja vastas"
     },
     {
       "surface": "המלך",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahvas"
+      "gloss": "rahvale"
     },
     {
       "surface": "קשה",
@@ -51,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nõu"
+      "marks": "vanemate nõu"
     },
     {
       "surface": "עצת",
@@ -70,6 +54,6 @@
       "gloss": "nad olid talle andnud"
     }
   ],
-  "timestamp": "2026-10-21T01:17:58.624634814Z",
+  "timestamp": "2026-10-21T05:50:36.813632232Z",
   "model": "glm-5.3"
 }

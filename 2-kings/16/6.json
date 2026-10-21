@@ -5,31 +5,15 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "araamlased",
-      "rationale": "כתיב ארמים 'araamlased' vs qere\/märkus אדרים 'edomlased' (JPS, BSB); kontoneendid järgivad kirjapilti."
-    }
-  ],
-  "translation": "Sel ajal andis Retsin, Araami kuningas, Eelati tagasi Araamile ja ajas juudid Eelatist välja; ja araamlased tulid Eelati ja asusid sinna elama selle päevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e8b90a5dce277b41538a13f38f3e909650aa19247dae68f9f35e0a9c2212ba3e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/16\/5-8.1792546311645.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sel ajal andis Retsin, Arami kuningas, ⟨את⟩ Eelati tagasi Aramile ja ajas ⟨את⟩ juudid Eelatist välja; ja edomlased tulid Eelatisse ja asusid sinna elama kuni tänapäevani.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "Sel ajal"
+      "gloss": "sel ajal"
     },
     {
       "surface": "ההיא",
-      "gloss": ""
+      "gloss": "sel"
     },
     {
       "surface": "השיב",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "ארם",
-      "gloss": "Araami"
+      "gloss": "Arami"
     },
     {
       "surface": "את",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "לארם",
-      "gloss": "Araamile"
+      "gloss": "Aramile"
     },
     {
       "surface": "וינשל",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "וארמים",
-      "gloss": "ja araamlased"
+      "gloss": "ja edomlased"
     },
     {
       "surface": "באו",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "אילת",
-      "gloss": "Eelati"
+      "gloss": "Eelatisse"
     },
     {
       "surface": "וישבו",
@@ -103,13 +87,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "selle päevani"
+      "gloss": "tänapäevani"
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "see"
     }
   ],
-  "timestamp": "2026-10-21T01:31:51.648682016Z",
+  "timestamp": "2026-10-21T05:57:22.641023579Z",
   "model": "glm-5.3"
 }

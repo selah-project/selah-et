@@ -5,38 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויכרה \/ כרה",
-      "gloss": null,
-      "rationale": "Tegu ja objekt on sama juure kordus (ostma \/ oste) — 'ostis suure oste', eesti keeles 'söögi' varjab sõnamängu."
-    },
-    {
-      "kind": "hapax",
-      "subject": "כרה",
-      "rationale": "Sõna 'oste\/roog' (כרה) esineb Tanahhis äärmiselt harva; tõlkijad jagunevad 'kulude suureks tegemise' ja 'suure söögi' vahel."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suundevale eessõna sulandub eestikeelsesse käändesse 'isandate juurde'."
-    }
-  ],
-  "translation": "Ja ta ostis neile suure söögi, ja nad sõid ja jõid, ja ta saatis nad ära, ja nad läksid oma isandate juurde; ja Arami salgad ei lisanud enam tulema Jisraeli maale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/6\/21-24.1792546014713.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tegi neile suure külalisroa, ja nad sõid ja jõid, ja ta saatis nad ära, ja nad läksid oma isandate juurde; ja Arami salk ei pöördunud enam tulema Jisraeli maale.",
   "tokens": [
     {
       "surface": "ויכרה",
-      "gloss": "Ja ta ostis"
+      "gloss": "ja ta tegi"
     },
     {
       "surface": "להם",
@@ -44,7 +17,7 @@
     },
     {
       "surface": "כרה",
-      "gloss": "söögi"
+      "gloss": "külalisroa"
     },
     {
       "surface": "גדולה",
@@ -68,19 +41,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "אדניהם",
-      "gloss": "isandate juurde"
+      "gloss": "oma isandate"
     },
     {
       "surface": "ולא",
       "gloss": "ja ei"
     },
     {
-      "surface": "יסספו",
-      "gloss": "lisanud"
+      "surface": "יספו",
+      "gloss": "pöördunud"
     },
     {
       "surface": "עוד",
@@ -88,7 +61,7 @@
     },
     {
       "surface": "גדודי",
-      "gloss": "salgad"
+      "gloss": "salk"
     },
     {
       "surface": "ארם",
@@ -107,6 +80,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T01:26:54.715157431Z",
+  "timestamp": "2026-10-21T05:58:57.689272016Z",
   "model": "glm-5.3"
 }

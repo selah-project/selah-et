@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nad",
-      "rationale": "Subjekt puudub heebrea tekstis, verb נתנו on mitmuses"
-    },
-    {
-      "kind": "substitution",
-      "subject": "karjamaad",
-      "rationale": "מגרש on linna avamaa — karjamaad ja ühised maad linnade ümber"
-    },
-    {
-      "kind": "measurement",
-      "subject": "linnade loend",
-      "rationale": "Preestritele antud linnade ja nende maade loendamine"
-    }
-  ],
-  "translation": "Ja Aharoni poegadele andsid nad pelgulinnad: ⟨את⟩ Hevroni ja ⟨את⟩ Livna ning ⟨את⟩ selle karjamaad, ja ⟨את⟩ Jatiri ning ⟨את⟩ Eštemoa ja ⟨את⟩ selle karjamaad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "64856c99f64cbd4f76b22ebd58503854a0979f8096c54f982adec649990b3571",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/41-44.1792557245364.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Aharoni poegadele nad andsid pelgupaiga linnad: ⟨את⟩ Hevroni ja ⟨את⟩ Livna selle karjamaadega, ja ⟨את⟩ Jattiri ja ⟨את⟩ Eštemoa selle karjamaadega.",
   "tokens": [
     {
       "surface": "ולבני",
@@ -43,12 +17,12 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "andsid"
+      "gloss": "nad andsid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pelgulinnad"
+      "marks": "pelgupaiga linnad"
     },
     {
       "surface": "ערי",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "המקלט",
-      "gloss": "pelgulinnad"
+      "gloss": "pelgupaiga"
     },
     {
       "surface": "את",
@@ -65,11 +39,11 @@
     },
     {
       "surface": "חברון",
-      "gloss": "Hevron"
+      "gloss": "Hevroni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "Livna"
     },
     {
@@ -78,7 +52,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
@@ -87,16 +61,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Jatiri"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Jattiri"
     },
     {
       "surface": "יתר",
-      "gloss": "Jatir"
+      "gloss": "Jattiri"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "Eštemoa"
     },
     {
@@ -105,7 +79,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
@@ -113,6 +87,6 @@
       "gloss": "selle karjamaad"
     }
   ],
-  "timestamp": "2026-10-21T04:34:05.364846180Z",
+  "timestamp": "2026-10-21T05:49:57.468497697Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויזעק",
-      "rationale": "Tavaline tähendus 'karjus'; KJV-järglased loevad passiivselt 'kogunes kokku' — mõlemad võimalikud."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חרב איש ברעהו",
-      "rationale": "Korduv pilt 'mehe mõrk tema kaaslase vastu' kajab 14:16 segadust — pliistid lõid üksteist."
-    }
-  ],
-  "translation": "Ja Šaul ja kogu rahvas, kes ⟨temaga⟩ oli, kogunesid kokku ja jõudsid lahinguni; ja vaata, iga mehe mõrk oli tema kaaslase vastu, ⟨oli⟩ väga suur segadus.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/17-20.1792543982281.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šaul karjus ja kogu rahvas, kes ⟨את⟩ ⟨temaga⟩ ⟨oli⟩, ja nad jõudsid lahinguni, ja vaata, iga mehe mõõk ⟨oli⟩ tema kaaslase vastu — suur segadus, väga suur.",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "ja kogunes kokku"
+      "gloss": "Ja karjus"
     },
     {
       "surface": "שאול",
@@ -50,12 +29,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨temaga⟩",
-      "marks": "kogu rahvas, kes tema juures oli"
+      "gloss": "⟨את⟩ ⟨temaga⟩"
     },
     {
       "surface": "ויבאו",
-      "gloss": "ja jõudsid"
+      "gloss": "ja nad jõudsid"
     },
     {
       "surface": "עד",
@@ -71,11 +49,11 @@
     },
     {
       "surface": "היתה",
-      "gloss": "oli"
+      "gloss": "⟨oli⟩"
     },
     {
       "surface": "חרב",
-      "gloss": "mõrk"
+      "gloss": "mõõk"
     },
     {
       "surface": "איש",
@@ -98,6 +76,6 @@
       "gloss": "väga"
     }
   ],
-  "timestamp": "2026-10-21T00:53:02.283560367Z",
+  "timestamp": "2026-10-21T05:53:00.054827243Z",
   "model": "glm-5.3"
 }

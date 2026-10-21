@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ראש",
-      "rationale": "'mürdikaste\/mürdvett' — heebrea sõna tähendab mürgist taime (arvatavasti tungelterakas), 'gall' on vana tõlge"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חנפה",
-      "rationale": "'jumalatus' vs 'kaksikelu \/ silmakirjalikus' — sõna märgib pühaduse rikkumist"
-    }
-  ],
-  "translation": "Seepärast ütleb nõnda Jahve Tsevaot prohvetite kohta: Vaata, mina söödan neid koirohuga ja jootan neid mürdveega, sest Jerušalaimi prohvetidest on läinud ⟨את⟩ jumalatus kogu maale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/23\/13-16.1792548648805.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sellepärast ütleb nõnda Jahve Tsevaot prohvetite kohta: vaata, mina toidan ⟨את⟩ neid koirohuga ja jootan neid mürdluu veega, sest ⟨את⟩ prohvetidest Jerušalaimist on välja läinud kõlvatus kogu maale.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Seepärast"
+      "gloss": "sellepärast"
     },
     {
       "surface": "כה",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Vaata, mina"
+      "gloss": "vaata, mina"
     },
     {
       "surface": "מאכיל",
-      "gloss": "söödan neid"
+      "gloss": "toidan"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ neid",
-      "marks": "koirohuga neid"
+      "marks": "prohvetid"
     },
     {
       "surface": "לענה",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "ראש",
-      "gloss": "mürdveega"
+      "gloss": "mürdluu"
     },
     {
       "surface": "כי",
@@ -91,8 +70,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
-      "marks": "jumalatus"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "נביאי",
@@ -100,15 +78,15 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "Jerušalaimi"
+      "gloss": "Jerušalaimist"
     },
     {
       "surface": "יצאה",
-      "gloss": "on läinud"
+      "gloss": "on välja läinud"
     },
     {
       "surface": "חנפה",
-      "gloss": "jumalatus"
+      "gloss": "kõlvatus"
     },
     {
       "surface": "לכל",
@@ -119,6 +97,6 @@
       "gloss": "maale"
     }
   ],
-  "timestamp": "2026-10-21T02:10:48.807774030Z",
+  "timestamp": "2026-10-21T06:19:54.967769505Z",
   "model": "glm-5.3"
 }

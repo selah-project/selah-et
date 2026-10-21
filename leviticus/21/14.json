@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Heebrea eitus+tingimus 'ki im' tõlgitud üheks eituseks 'vaid'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חללה \/ יחלל",
-      "rationale": "sama juur חלל 'rüvetama' siin ja j. 15 — preestri naise ja tema seeme rüvetamine"
-    }
-  ],
-  "translation": "Lesknaine, äraaetu ja rüvetatu, hoor — neid ⟨את⟩ ta ei võta, vaid neitsi oma rahva seast võtab ta naiseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "745913d3494e41fdb4387393ee52a5164dc9e3962735156ade6f31ca1d55ccd1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/21\/14-16.1792543579258.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Leske, äraaetud, hävitatud, hoor — neid ⟨את⟩ ta ei võta, vaid võtab neitsi oma rahva seast naiseks.",
   "tokens": [
     {
       "surface": "אלמנה",
-      "gloss": "lesknaine"
+      "gloss": "lesk"
     },
     {
       "surface": "וגרושה",
-      "gloss": "ja äraaetu"
+      "gloss": "äraaetud"
     },
     {
       "surface": "וחללה",
-      "gloss": "ja rüvetatu"
+      "gloss": "hävitatud"
     },
     {
       "surface": "זנה",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "neid (need naised)"
+      "marks": "neid (אלה — need neli naist)"
     },
     {
       "surface": "אלה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "יקח",
-      "gloss": "võta"
+      "gloss": "võtab"
     },
     {
       "surface": "כי",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "בתולה",
@@ -83,9 +62,9 @@
     },
     {
       "surface": "אשה",
-      "gloss": "naiseks"
+      "gloss": "naine"
     }
   ],
-  "timestamp": "2026-10-21T00:46:19.259969867Z",
+  "timestamp": "2026-10-21T06:28:49.285883192Z",
   "model": "glm-5.3"
 }

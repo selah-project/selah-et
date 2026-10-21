@@ -5,17 +5,34 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 119,
-  "translation": "Oma pale loida oma teenija ⟨את⟩ nägu kohale ja õpeta mulle ⟨את⟩ sinnu määrusi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/119\/133-136.1792554038937.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-21T03:40:38.938166806Z",
+  "translation": "Lase oma nägu oma teenija peal särama ja õpeta mulle ⟨את⟩ oma määrused.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "sinu nägu"
+    },
+    {
+      "surface": "האר",
+      "gloss": "lase särama"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "sinu teenija peal"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ja õpeta mulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oma määrused"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "oma määrused"
+    }
+  ],
+  "timestamp": "2026-10-21T06:37:22.911226220Z",
   "model": "glm-5.3"
 }

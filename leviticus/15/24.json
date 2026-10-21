@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שכב ישכב",
-      "rationale": "Infinitivus absolutus + verb: 'tõesti lamab temaga' — täielik kindlus; eestis täiendava mõistega täpsustus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "eraldatuse aeg",
-      "rationale": "נדתה tähendab eraldatust\/ebepuhasust (menstruatsioon); 'eraldatus' hoiab sõna kuju"
-    }
-  ],
-  "translation": "Ja kui mees laseb end temaga magada ja tema eraldatuse aeg tuleb tema peale, saab ta ebepuhaseks seitse päeva; ja iga ase, millel ta lamab, saab ebepuhaseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "504572687b9da9d4f6863a4a6d774b62d2e121003b4b6971da9b8754c3d8cb1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/15\/21-24.1792539398878.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui mees magab temaga ⟨את⟩ teda, ja tema nidda ⟨on⟩ temal, siis on ta rituaalselt ebapuhas seitse päeva; ja iga voodi, millel ta magab, muutub ebapuhaseks.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "ja kui"
+      "gloss": "Ja kui"
     },
     {
       "surface": "שכב",
-      "gloss": "lasta end magada"
+      "gloss": "magab"
     },
     {
       "surface": "ישכב",
-      "gloss": "lamab"
+      "gloss": "magab (teist korda)"
     },
     {
       "surface": "איש",
@@ -47,23 +26,23 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "temaga"
+      "marks": "teda"
     },
     {
       "surface": "ותהי",
-      "gloss": "ja saab"
+      "gloss": "ja on"
     },
     {
       "surface": "נדתה",
-      "gloss": "tema eraldatuse aeg"
+      "gloss": "tema nidda"
     },
     {
       "surface": "עליו",
-      "gloss": "tema peale"
+      "gloss": "temal"
     },
     {
       "surface": "וטמא",
-      "gloss": "saab ebepuhaseks"
+      "gloss": "siis on ta ebapuhas"
     },
     {
       "surface": "שבעת",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "המשכב",
-      "gloss": "ase"
+      "gloss": "voodi"
     },
     {
       "surface": "אשר",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "ta lamab"
+      "gloss": "ta magab"
     },
     {
       "surface": "עליו",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "יטמא",
-      "gloss": "saab ebepuhaseks"
+      "gloss": "muutub ebapuhaseks"
     }
   ],
-  "timestamp": "2026-10-20T23:36:38.879643726Z",
+  "timestamp": "2026-10-21T06:28:26.323487854Z",
   "model": "glm-5.3"
 }

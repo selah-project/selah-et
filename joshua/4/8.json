@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kaksteist kivi",
-      "rationale": "Kivide arv vastab hõimude arvule — loendamine on salmi selgroog."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Sõnad 'Jehoošuale' ja 'peatuspaika' kannavad eessõna אל oma käändelõpus; eraldi sõnana ei ole eesti keeles vaste."
-    }
-  ],
-  "translation": "Ja Jisraeli pojad tegid nii, nagu Jehoošua oli käskinud, ja nad tõstsid Jardeni keskelt kaksteist kivi, nagu Jahve oli Jehoošuale rääkinud, Jisraeli poegade hõimude arvu järgi, ja nad viisid need endaga üle peatuspaika ja asetasid nad sinna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "473862c6670429e30330a4fc36247e2b467a0d15e48910621c866c3b70799cb7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/4\/5-8.1792541402939.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jisraeli poegad tegid nii, nagu Jehoošua oli käskinud, ja nad tõstsid kaksteist kivi Jeerdeni keskkohast, nii nagu Jahve rääkis Jehoošuale, Jisraeli poegade hõimude arvu järgi, ja nad viisid ⟨need⟩ ühes endaga üle laagrisse ja lasksid ⟨need⟩ sinna puhkama.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "Ja tegid"
+      "gloss": "ja tegid"
     },
     {
       "surface": "כן",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "וישאו",
-      "gloss": "ja tõstsid"
+      "gloss": "ja nad tõstsid"
     },
     {
       "surface": "שתי",
-      "gloss": "kaksteist"
+      "gloss": "kaksteist — kaks"
     },
     {
       "surface": "עשרה",
-      "gloss": "kivi"
+      "gloss": "kaksteist — kümmet"
     },
     {
       "surface": "אבנים",
@@ -74,19 +53,19 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "keskelt"
+      "gloss": "keskkohast"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardeni"
+      "gloss": "Jeerdeni"
     },
     {
       "surface": "כאשר",
-      "gloss": "nagu"
+      "gloss": "nii nagu"
     },
     {
       "surface": "דבר",
-      "gloss": "oli rääkinud"
+      "gloss": "rääkis"
     },
     {
       "surface": "יהוה",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…le"
     },
     {
       "surface": "יהושע",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "למספר",
-      "gloss": "arvu järgi"
+      "gloss": "aru järgi"
     },
     {
       "surface": "שבטי",
@@ -122,25 +101,25 @@
     },
     {
       "surface": "עמם",
-      "gloss": "endaga"
+      "gloss": "ühes endaga"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "…sse"
     },
     {
       "surface": "המלון",
-      "gloss": "peatuspaika"
+      "gloss": "laagrisse"
     },
     {
       "surface": "וינחום",
-      "gloss": "ja asetasid nad"
+      "gloss": "ja lasksid puhkama"
     },
     {
       "surface": "שם",
       "gloss": "sinna"
     }
   ],
-  "timestamp": "2026-10-21T00:10:02.940712566Z",
+  "timestamp": "2026-10-21T06:25:10.295406822Z",
   "model": "glm-5.3"
 }

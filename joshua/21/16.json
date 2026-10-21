@@ -5,69 +5,48 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "üheksa linna",
-      "rationale": "salm loendab kokku üheksa preestrite linna kahest hõimust — leevi linnade nimekirja summeeriv loendus"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בית שמש",
-      "rationale": "linnanimi tähendab 'päikese maja'; eesti transkriptsioon Beet-Šemeš jätab tähenduse nähtamatuks"
-    }
-  ],
-  "translation": "ja ⟨את⟩ Ajini ja tema karjamaad, ning ⟨את⟩ Juuta ja tema karjamaad, ⟨את⟩ Beet-Šemeši ja tema karjamaad — üheksa linna ⟨את⟩ neist kahest hõimust.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "18b05d91fa11c26c6731cf8ec5bbcf4653e72e1daa32b94e64cc8d6e2508058c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/21\/13-16.1792541692073.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja ⟨את⟩ Ajiin koos oma karjamaadega, ja ⟨את⟩ Juutta koos oma karjamaadega, ⟨את⟩ Beet-Šemeš koos oma karjamaadega — üheksa linna nendest kahest hõimust.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "Ajini"
+      "gloss": "⟨את⟩",
+      "marks": "Ajiin"
     },
     {
       "surface": "עין",
-      "gloss": "Ajini"
+      "gloss": "Ajiin"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "tema karjamaad"
+      "gloss": "⟨את⟩",
+      "marks": "oma karjamaadega"
     },
     {
       "surface": "מגרשה",
-      "gloss": "tema karjamaad"
+      "gloss": "karjamaadega"
     },
     {
       "surface": "ואת",
-      "gloss": "ning ⟨את⟩",
-      "marks": "Juuta"
+      "gloss": "⟨את⟩",
+      "marks": "Juutta"
     },
     {
       "surface": "יטה",
-      "gloss": "Juuta"
+      "gloss": "Juutta"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "tema karjamaad"
+      "gloss": "⟨את⟩",
+      "marks": "oma karjamaadega"
     },
     {
       "surface": "מגרשה",
-      "gloss": "tema karjamaad"
+      "gloss": "karjamaadega"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Beet-Šemeši"
+      "marks": "Beet-Šemeš"
     },
     {
       "surface": "בית",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "שמש",
-      "gloss": "Šemeši"
+      "gloss": "Šemeš"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "tema karjamaad"
+      "gloss": "⟨את⟩",
+      "marks": "oma karjamaadega"
     },
     {
       "surface": "מגרשה",
-      "gloss": "tema karjamaad"
+      "gloss": "karjamaadega"
     },
     {
       "surface": "ערים",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ nendest"
     },
     {
       "surface": "שני",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "האלה",
-      "gloss": "neist"
+      "gloss": "nendest"
     }
   ],
-  "timestamp": "2026-10-21T00:14:52.074953944Z",
+  "timestamp": "2026-10-21T06:24:43.236078524Z",
   "model": "glm-5.3"
 }

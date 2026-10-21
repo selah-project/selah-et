@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨seal⟩",
-      "rationale": "Eesti keeles vajalik lisa; heebrea אין ('ei ole') seisab üksi."
-    },
-    {
-      "kind": "measurement",
-      "subject": "Loendage",
-      "rationale": "פקדו käsib rahva üle loendada — Saul loendab oma väe."
-    }
-  ],
-  "translation": "Ja Šaul ütles rahvale, kes ⟨temaga⟩ oli: Loendage nüüd ja vaadake, kes on meist ära läinud. Ja nad loendasid, ja vaata, Jonatanit ja tema relvakandjat ei olnud ⟨seal⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/14\/17-20.1792543982281.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ütles Shaul ⟨את⟩-ga-olevale rahvale: Loetuge nüüd ja vaadake, kes on meist ära läinud. Ja nad loetasid, ja vaata, Jonatanit ja tema riistakandjat ei ⟨olnud⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ütles"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaul"
+      "gloss": "Shaul"
     },
     {
       "surface": "לעם",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨temaga⟩",
-      "marks": "rahvas, kes tema juures oli"
+      "gloss": "⟨את⟩-ga-olevale",
+      "marks": "rahvale, kes temaga olid"
     },
     {
       "surface": "פקדו",
-      "gloss": "loendage"
+      "gloss": "Loetuge"
     },
     {
       "surface": "נא",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ויפקדו",
-      "gloss": "ja nad loendasid"
+      "gloss": "Ja nad loetasid"
     },
     {
       "surface": "והנה",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "ei olnud"
+      "gloss": "ei ⟨olnud⟩"
     },
     {
       "surface": "יונתן",
@@ -91,13 +70,13 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "ja kandjat"
+      "gloss": "ja riistakandjat"
     },
     {
       "surface": "כליו",
-      "gloss": "tema relvade"
+      "gloss": "tema riistu"
     }
   ],
-  "timestamp": "2026-10-21T00:53:02.282281889Z",
+  "timestamp": "2026-10-21T05:52:42.772803433Z",
   "model": "glm-5.3"
 }

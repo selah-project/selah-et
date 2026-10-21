@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eesliit על jääb eesti muudeli põimumisel välja"
-    },
-    {
-      "kind": "idiom",
-      "subject": "והשכם ושלח",
-      "rationale": "Tuletõusmise idiom 'varakult üles tõusma ja saatma' tähendab püsivalt, korduvalt saata; 'uuesti ja uuesti' edastab korduse, aga mitte varajase hommiku pilti"
-    }
-  ],
-  "translation": "kuulamaks mu teenrite, prohvetide, sõnu, keda mina teie juurde saadan, varakult üles tõustes ja uuesti ning uuesti saates — aga te ei kuulanud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/26\/5-8.1792548749688.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "kuulataksite mu prohvetite-teenijate sõnu, kelleid mina teie juurde saadan, tõustes varakult ja saates — ja te ei ole kuulnud;",
   "tokens": [
     {
       "surface": "לשמע",
-      "gloss": "kuulamaks"
+      "gloss": "kuulataksite"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "⟨kuulama⟩"
     },
     {
       "surface": "דברי",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "mu teenrite"
+      "gloss": "mu teenijate"
     },
     {
       "surface": "הנבאים",
-      "gloss": "prohvetide"
+      "gloss": "prohvetite"
     },
     {
       "surface": "אשר",
-      "gloss": "keda"
+      "gloss": "kelleid"
     },
     {
       "surface": "אנכי",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "והשכם",
-      "gloss": "varakult üles tõustes"
+      "gloss": "tõustes varakult"
     },
     {
       "surface": "ושלח",
@@ -74,13 +53,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "agа ... ei"
+      "gloss": "ja mitte"
     },
     {
       "surface": "שמעתם",
-      "gloss": "te kuulanud"
+      "gloss": "te ei ole kuulnud"
     }
   ],
-  "timestamp": "2026-10-21T02:12:29.690382858Z",
+  "timestamp": "2026-10-21T06:20:36.110177595Z",
   "model": "glm-5.3"
 }

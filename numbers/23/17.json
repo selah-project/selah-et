@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "H854 'koos temaga', mitte objektimarker; esitatud kui ⟨temaga⟩"
-    }
-  ],
-  "translation": "Ja ta tuli tema juurde, ja vaata, see seisab oma põletusohvri juures ja Moabi ülemad ⟨temaga⟩; ja Balak ütles talle: mida on rääkinud Jahve?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/23\/17-20.1792540267523.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tuli tema juurde, ja vaata, ta seisis oma põletusohvri kõrval ja Moabi vürstid ⟨tema⟩ kõrval; ja Balak ütles talle: mida on Jahve rääkinud?",
   "tokens": [
     {
       "surface": "ויבא",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "נצב",
-      "gloss": "seisab"
+      "gloss": "seisis"
     },
     {
       "surface": "על",
-      "gloss": "juures"
+      "gloss": "kõrval"
     },
     {
       "surface": "עלתו",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "ja ülemad"
+      "gloss": "ja vürstid"
     },
     {
       "surface": "מואב",
@@ -58,7 +42,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "temaga"
+      "marks": "tema kõrval"
     },
     {
       "surface": "ויאמר",
@@ -85,6 +69,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T23:51:07.524327432Z",
+  "timestamp": "2026-10-21T06:32:47.966171094Z",
   "model": "glm-5.3"
 }

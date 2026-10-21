@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "kelle telk",
-      "rationale": "באהלו — 'oma telki' (Davidi oma) või 'telki' (JHWH-i pühapaigad); tõlkijad jagunenud."
-    }
-  ],
-  "translation": "Ja David võttis ⟨את⟩ filistlaste pea ja tõi selle Jerušalaimi, ja tema riistad pani ta oma telki.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ec733bd8fea3bc62283a4684d678d2bdb8b426e343e89844a8cbee86867b89a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/17\/53-56.1792544043997.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David võttis ⟨את⟩ pealstilisti pea ja tõi selle Jerušalaimi, ja ⟨את⟩ tema riistad pani ta oma telki.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "filistlaste pea"
+      "marks": "pealstilisti pea"
     },
     {
       "surface": "ראש",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "filistlaste"
+      "gloss": "pealstilisti"
     },
     {
       "surface": "ויבאהו",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "tema riistad"
     },
     {
@@ -70,6 +54,6 @@
       "gloss": "oma telki"
     }
   ],
-  "timestamp": "2026-10-21T00:54:03.999771740Z",
+  "timestamp": "2026-10-21T05:52:42.683409542Z",
   "model": "glm-5.3"
 }

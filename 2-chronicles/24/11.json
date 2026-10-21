@@ -5,45 +5,19 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ופקיד כהן הראש",
-      "rationale": "'ülempreestri ametnik' (KJV) vs 'tegelik ülempreester ise' — heebrea võimaldab mõlemat"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ליום ביום",
-      "rationale": "'päev päevast' — päev-päevalt, iga päev"
-    },
-    {
-      "kind": "measurement",
-      "subject": "כסף לרב",
-      "rationale": "hõbeda kogumist ja paljusust rõhutakse — loenduslik korduv päevatuks"
-    }
-  ],
-  "translation": "Ja juhtus, ajal mil kirst toodi kuninga ametkonda leevite kätte, ja kui nad nägid, et hõbedat on palju, tuli kuninga kirjutaja ja ülempreestri ametnik ning tühjendasid ⟨את⟩ kirstu, ja tõstsid selle ning viisid selle tagasi selle kohale; nõnda tegid nad päev päevast ja kogusid hõbedat palju.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "46e27553406c618ec60cd02c8b56a2459ebba7deb1279735e3ad6a8ac172c5ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/24\/9-12.1792558053401.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis, ajal, mil toodi ⟨את⟩ kirst kuninga ametliku ülevaatuse juurde leviitide kätte, ja kui nad nägid, et hõbedat ⟨on⟩ palju, tuli kuninga kirjutaja ja ülempreestri poolt määratud ametnik, ja nad tühjendasid ⟨את⟩ kirstu ning tõstsid selle ja viisid selle tagasi tema kohale; nõnda nad tegid päevast päeva ja kogusid hõbedat ohtralt.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ja juhtus"
+      "gloss": "Ja sündis"
     },
     {
       "surface": "בעת",
-      "gloss": "ajal"
+      "gloss": "ajal, mil"
     },
     {
       "surface": "יביא",
-      "gloss": "mil toodi"
+      "gloss": "toodi"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "kuni"
+      "gloss": "juurde"
     },
     {
       "surface": "פקדת",
-      "gloss": "ametkonda"
+      "gloss": "ametlikku ülevaatusesse"
     },
     {
       "surface": "המלך",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "leevite"
+      "gloss": "leviitide"
     },
     {
       "surface": "וכראותם",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "hõbedat on"
+      "gloss": "hõbedat"
     },
     {
       "surface": "ובא",
@@ -108,20 +82,20 @@
     },
     {
       "surface": "כהן",
-      "gloss": "ülempreestri"
+      "gloss": "preestri"
     },
     {
       "surface": "הראש",
-      "gloss": "peakohtu"
+      "gloss": "ülem-"
     },
     {
       "surface": "ויערו",
-      "gloss": "ja tühjendasid"
+      "gloss": "ja nad tühjendasid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kirstu"
+      "marks": "kirst"
     },
     {
       "surface": "הארון",
@@ -137,11 +111,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "tagasi"
+      "gloss": "tema"
     },
     {
       "surface": "מקמו",
-      "gloss": "selle kohale"
+      "gloss": "kohale"
     },
     {
       "surface": "כה",
@@ -149,15 +123,15 @@
     },
     {
       "surface": "עשו",
-      "gloss": "tegid nad"
+      "gloss": "nad tegid"
     },
     {
       "surface": "ליום",
-      "gloss": "päev"
+      "gloss": "päevast"
     },
     {
       "surface": "ביום",
-      "gloss": "päevast"
+      "gloss": "päeva"
     },
     {
       "surface": "ויאספו",
@@ -169,9 +143,9 @@
     },
     {
       "surface": "לרב",
-      "gloss": "palju"
+      "gloss": "ohtralt"
     }
   ],
-  "timestamp": "2026-10-21T04:47:33.405260968Z",
+  "timestamp": "2026-10-21T05:55:24.815644998Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "vaihemaade loend",
-      "rationale": "löödud linnade nimeline loend: Ijon, Dan, Abel-Bet-Maaka, Kinerot, Naftali maa"
-    },
-    {
-      "kind": "alternative",
-      "subject": "וישמע אל",
-      "rationale": "'kuulis ... poole' võib tähendada ka 'sõnas jahtus \/ allus' — kuuletumise tähendus"
-    }
-  ],
-  "translation": "Ja Ben-Hadad kuulis kuningas Asat ja saatas ⟨את⟩ oma väepealikud, kes temal olid, Jisraeli linnade vastu, ja lõi Ijoni ja ⟨את⟩ Dani ja ⟨את⟩ Abel-Bet-Maaka ja ⟨את⟩ kogu Kineroti, kogu Naftali maal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9344ec42730eadce2f499cd0a6e092ea1b6f13d4309e740b868f84d460134a5c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/15\/17-20.1792545587602.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Ben-Hadad kuulis ära kuningas Asa, ja saatis ⟨את⟩ sõjaväe ülemad, kes olid tema käe all, Jisraeli linnade vastu, ja lõi ⟨את⟩ Ijoni ja ⟨את⟩ Dani ja ⟨את⟩ Abel Beit-Maakha ja ⟨את⟩ kogu Kinneroti, koos kogu Naftali maaga.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "ja kuulas"
+      "gloss": "ja kuulis ära"
     },
     {
       "surface": "בן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "poole"
+      "gloss": "kuulatas"
     },
     {
       "surface": "המלך",
@@ -59,15 +38,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma väepealikud"
+      "marks": "sõjaväe ülemad"
     },
     {
       "surface": "שרי",
-      "gloss": "väepealikud"
+      "gloss": "ülemad"
     },
     {
       "surface": "החילים",
-      "gloss": "vägede"
+      "gloss": "sõjaväe"
     },
     {
       "surface": "אשר",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "temal"
+      "gloss": "tema käe all"
     },
     {
       "surface": "על",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "עיון",
-      "gloss": "Ijoni"
+      "gloss": "Ijon"
     },
     {
       "surface": "ואת",
@@ -109,29 +88,29 @@
     },
     {
       "surface": "דן",
-      "gloss": "Dani"
+      "gloss": "Dan"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "Abel-Bet-Maaka"
+      "marks": "Abel Beit-Maakha"
     },
     {
       "surface": "אבל",
-      "gloss": "Abel-"
+      "gloss": "Abel"
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Beit-"
     },
     {
       "surface": "מעכה",
-      "gloss": "Maaka"
+      "gloss": "Maakha"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kogu Kineroti"
+      "marks": "kogu Kinnerot"
     },
     {
       "surface": "כל",
@@ -139,11 +118,11 @@
     },
     {
       "surface": "כנרות",
-      "gloss": "Kineroti"
+      "gloss": "Kinnerot"
     },
     {
       "surface": "על",
-      "gloss": "kogu ... maal"
+      "gloss": "koos"
     },
     {
       "surface": "כל",
@@ -151,13 +130,13 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "maal"
+      "gloss": "maaga"
     },
     {
       "surface": "נפתלי",
       "gloss": "Naftali"
     }
   ],
-  "timestamp": "2026-10-21T01:19:47.609177747Z",
+  "timestamp": "2026-10-21T05:50:56.938493648Z",
   "model": "glm-5.3"
 }

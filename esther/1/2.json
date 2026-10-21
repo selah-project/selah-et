@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "ההם · על",
-      "rationale": "dem ja sidesõna sulandusid eesti ütlusesse ('nendel', 'istus troonil') ja eraldi ei seis"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kindlus",
-      "rationale": "הבירה on tsitadell\/palee, mitte 'linn', nagu vanemad tõlked vahel ütlevad"
-    }
-  ],
-  "translation": "nendel päevadel, kui kuningas Ahašveroš istus oma kuningriigi troonil, mis ⟨on⟩ Šušani kindluses,",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/1-4.1792556198607.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "nendel päevadel, kui kuningas Ahašveroš istus oma kuningriigi troonil, mis ⟨oli⟩ Šušani kindluses",
   "tokens": [
     {
       "surface": "בימים",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ההם",
-      "gloss": ""
+      "gloss": "need"
     },
     {
       "surface": "כשבת",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "peal"
     },
     {
       "surface": "כסא",
@@ -73,6 +52,6 @@
       "gloss": "kindluses"
     }
   ],
-  "timestamp": "2026-10-21T04:16:38.607966376Z",
+  "timestamp": "2026-10-21T06:04:17.158252350Z",
   "model": "glm-5.3"
 }

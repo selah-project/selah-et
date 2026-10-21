@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eessõna 'kellele' sulandub eesti käändesse, eraldi sõnana välja jäetud."
-    },
-    {
-      "kind": "you",
-      "subject": "Mošele",
-      "rationale": "Jahve pöördub otse Moše poole käskudega 'mine', 'vaata'."
-    },
-    {
-      "kind": "mystery",
-      "subject": "maa vaatamine",
-      "rationale": "Moše tohib maad ainult kaugelt näha — nägemine antakse, kuid sisenemine jäetakse kinni peetud (vt 27:13–14)."
-    }
-  ],
-  "translation": "Ja Jahve ütles Mošele: Mine üles sellesse Ha-Avarimi mäkke ja vaata ⟨את⟩ maad, mille mina olen andnud Jisraeli lastele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7e4c998a677d7a4cb6da39597791af69957e25b6180a28c5d2f3f82d076b217d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/27\/9-12.1792540327618.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Mošele: Roni üles sellesse Abarimi mäkke ja vaata ⟨את⟩ maad, mille ma olen andnud Jisraeli poegadele.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "יהוה",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "משה",
       "gloss": "Mošele"
     },
     {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
       "surface": "עלה",
-      "gloss": "Mine üles"
+      "gloss": "Roni üles"
     },
     {
       "surface": "אל",
-      "gloss": "sellesse"
+      "gloss": "sisse"
     },
     {
       "surface": "הר",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "העברים",
-      "gloss": "Ha-Avarimi"
+      "gloss": "Abarimi"
     },
     {
       "surface": "הזה",
-      "gloss": "sedel"
+      "gloss": "sedesse"
     },
     {
       "surface": "וראה",
@@ -88,17 +62,17 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "mina olen andnud"
+      "gloss": "ma olen andnud"
     },
     {
       "surface": "לבני",
-      "gloss": "lastele"
+      "gloss": "poegadele"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-20T23:52:07.619662948Z",
+  "timestamp": "2026-10-21T06:32:52.870058945Z",
   "model": "glm-5.3"
 }

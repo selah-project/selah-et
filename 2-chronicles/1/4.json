@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "paika, mille",
-      "rationale": "Heebreas puudub nimisõna 'paik'; בהכין eeldab objekti — lisatud selguseks."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אבל",
-      "rationale": "'A\/aga' — kontrast Givoni telgi ja Jerušalaimi arki vahel, mis telgi lõigu seob."
-    }
-  ],
-  "translation": "A Elohimi ark oli David üles tõstnud Kirjat-Jearimist, paika, mille David selle jaoks ⟨oli⟩ valmistanud, sest ta oli selle jaoks telgi Jerušalaimis üles püstitanud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "74a559d3fb215ed5566435f912a8be0f953b235e04da055d2384f22a2279d1ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/1\/1-4.1792557683264.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga ⟨את⟩ Elohimi laeka oli David üles toonud Kirjat-Jearimist kohta, mille David oli ⟨tema jaoks⟩ valmistanud, sest ta oli Jerušalaimis ⟨tema jaoks⟩ telgi püstitanud.",
   "tokens": [
     {
       "surface": "אבל",
-      "gloss": "A"
+      "gloss": "Aga"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "laeka"
     },
     {
       "surface": "האלהים",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "oli üles tõstnud"
+      "gloss": "oli üles toonud"
     },
     {
       "surface": "דויד",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "selle jaoks"
+      "gloss": "⟨tema jaoks⟩"
     },
     {
       "surface": "דויד",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "נטה",
-      "gloss": "oli üles püstitanud"
+      "gloss": "oli püstitanud"
     },
     {
       "surface": "לו",
-      "gloss": "selle jaoks"
+      "gloss": "⟨tema jaoks⟩"
     },
     {
       "surface": "אהל",
@@ -89,6 +68,6 @@
       "gloss": "Jerušalaimis"
     }
   ],
-  "timestamp": "2026-10-21T04:41:23.266815693Z",
+  "timestamp": "2026-10-21T06:58:40.185711811Z",
   "model": "glm-5.3"
 }

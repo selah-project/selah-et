@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "laegas",
-      "rationale": "ארון on sõna-sõnalt 'kast, kirst'; 'laegas' on traditsiooniline püha laeka kuju"
-    }
-  ],
-  "translation": "Ja kui laager teele asub, tulevad Aharon ja tema pojad, ja nad võtavad maha eesriide kardina ning kaetavad sellega ⟨את⟩ tunnistuse laeka.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "968df9d9129a9fe67f60856e89afca25dc0c6ace946d74fe86aa26d51ec305ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/5-8.1792539757261.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Aharon ja tema pojad tulevad sisse, kui laager teele asub, ja nad võtavad maha eesriide ja katavad sellega ⟨את⟩ tunnistuse laeka.",
   "tokens": [
     {
       "surface": "ובא",
-      "gloss": "tulevad"
+      "gloss": "ja tulevad sisse"
     },
     {
       "surface": "אהרן",
@@ -45,24 +29,24 @@
     },
     {
       "surface": "והורדו",
-      "gloss": "ja võtavad maha"
+      "gloss": "ja nad võtavad maha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eesriide"
+      "marks": "eesriie"
     },
     {
       "surface": "פרכת",
-      "gloss": "kardina"
+      "gloss": "eesriie"
     },
     {
       "surface": "המסך",
-      "gloss": "eesriide"
+      "gloss": "kardina"
     },
     {
       "surface": "וכסו",
-      "gloss": "ja kaetavad"
+      "gloss": "ja katavad"
     },
     {
       "surface": "בה",
@@ -71,17 +55,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunnistuse laeka"
+      "marks": "tunnistuse arku"
     },
     {
       "surface": "ארן",
-      "gloss": "laeka"
+      "gloss": "laegas"
     },
     {
       "surface": "העדת",
       "gloss": "tunnistuse"
     }
   ],
-  "timestamp": "2026-10-20T23:42:37.261965343Z",
+  "timestamp": "2026-10-21T06:35:53.370418246Z",
   "model": "glm-5.3"
 }

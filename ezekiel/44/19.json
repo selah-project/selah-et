@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "kordus",
-      "rationale": "'õue, välimisse õue' kordub kaks korda — heebrea\tpidulik kajatus, eesti keeles säilitatud"
-    },
-    {
-      "kind": "crux",
-      "subject": "יקדשו",
-      "rationale": "'pühitsema' — kas rõivad kannavad pühadust edasi (BSB) või peavad ära hoidma sobimatu pühitsemise (KJV 'et nad ei pühitseks')"
-    }
-  ],
-  "translation": "Ja kui nad lähevad välja õue, välimisse õue, rahva juurde, siis nad võtavad seljast ⟨את⟩ rõivad, milles nad teenisid, ja panevad ⟨את⟩ need pühadesse kambritesse, ja riietuvad teistesse rõivastesse, et nad ei pühitseks rahvast oma rõivastega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "06c358cd774e2f9c911cb052df60b7d94f2af56b3c5dcc12f5c25485e31122aa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/44\/17-20.1792550826214.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui nad lähevad välja õue — väliskoja õue, väliskoja õue rahva juurde —, panevad nad maha ⟨את⟩ oma rõivad, milles nad neis teenivad, ja asetavad need püha kambriteisse, ja rõivastuvad teistesse rõivastesse, et nad ei pühitseks rahvast oma rõivastega ⟨את⟩ rahvast oma rõivastega.",
   "tokens": [
     {
       "surface": "ובצאתם",
@@ -34,31 +13,31 @@
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
-    },
-    {
-      "surface": "החצר",
       "gloss": "õue"
     },
     {
+      "surface": "החצר",
+      "gloss": "väliskoja õue"
+    },
+    {
       "surface": "החיצונה",
-      "gloss": "välimisse"
+      "gloss": "väliskoja"
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
-    },
-    {
-      "surface": "החצר",
       "gloss": "õue"
     },
     {
+      "surface": "החצר",
+      "gloss": "väliskoja õue"
+    },
+    {
       "surface": "החיצונה",
-      "gloss": "välimisse"
+      "gloss": "väliskoja"
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
+      "gloss": "rahva juurde"
     },
     {
       "surface": "העם",
@@ -66,16 +45,16 @@
     },
     {
       "surface": "יפשטו",
-      "gloss": "nad võtavad seljast"
+      "gloss": "panevad nad maha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rõivad"
+      "marks": "oma rõivad"
     },
     {
       "surface": "בגדיהם",
-      "gloss": "nende rõivad"
+      "gloss": "oma rõivad"
     },
     {
       "surface": "אשר",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "משרתם",
-      "gloss": "teenisid"
+      "gloss": "teenivad"
     },
     {
       "surface": "בם",
@@ -95,23 +74,24 @@
     },
     {
       "surface": "והניחו",
-      "gloss": "ja panevad"
+      "gloss": "ja asetavad"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ need"
+      "gloss": "⟨את⟩ neid",
+      "marks": "püha kambriteisse"
     },
     {
       "surface": "בלשכת",
-      "gloss": "kambritesse"
+      "gloss": "kambriteisse"
     },
     {
       "surface": "הקדש",
-      "gloss": "pühadesse"
+      "gloss": "püha"
     },
     {
       "surface": "ולבשו",
-      "gloss": "ja riietuvad"
+      "gloss": "ja rõivastuvad"
     },
     {
       "surface": "בגדים",
@@ -123,7 +103,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "et nad ei"
     },
     {
       "surface": "יקדשו",
@@ -143,6 +123,6 @@
       "gloss": "oma rõivastega"
     }
   ],
-  "timestamp": "2026-10-21T02:47:06.215492826Z",
+  "timestamp": "2026-10-21T06:12:25.506425860Z",
   "model": "glm-5.3"
 }

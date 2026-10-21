@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti kooseis puudub heebrea tekstis"
-    },
-    {
-      "kind": "substitution",
-      "subject": "otsused",
-      "rationale": "משפטים on kohtulikud otsused\/õigusnormid, mitte lihtsalt 'kohtupidamised'"
-    }
-  ],
-  "translation": "Need ⟨on⟩ tunnistused ja määrused ja otsused, mida Moše rääkis Jisraeli lastele nende väljumisel Mitsraimist.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "53f0dc2ea7a131f64016b7861d3d675064449a6122c4c7a2c1153c0908450a60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/4\/45-48.1792540702901.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Need on tunnistused ja määrused ning otsused, mille Moše rääkis Jisraeli poegadele nende väljumisel Mitsraimist.",
   "tokens": [
     {
       "surface": "אלה",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "והמשפטים",
-      "gloss": "ja otsused"
+      "gloss": "ning otsused"
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mille"
     },
     {
       "surface": "דבר",
-      "gloss": "räkis"
+      "gloss": "rääkis"
     },
     {
       "surface": "משה",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "lastele"
+      "gloss": "poegadele"
     },
     {
       "surface": "ישראל",
@@ -77,6 +56,6 @@
       "gloss": "Mitsraimist"
     }
   ],
-  "timestamp": "2026-10-20T23:58:22.902009253Z",
+  "timestamp": "2026-10-21T06:03:46.364241626Z",
   "model": "glm-5.3"
 }

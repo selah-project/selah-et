@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Estonian needs the auxiliary 'on' for the relative clause; Hebrew participle stands alone"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tänutapmised",
-      "rationale": "שלמים is rendered 'peace\/todah offerings'; literal shape 'wholeness-offerings'"
-    },
-    {
-      "kind": "elision",
-      "subject": "על פני",
-      "rationale": "'on the face of' rendered as 'on the surface of (the field)'; the face-metaphor is reduced"
-    }
-  ],
-  "translation": "Selleks et Jisraeli poojad tooksid oma ohvrid, mida nad ⟨on⟩ tapnud lõdväli palgel, ja tooksid need Jahvele, kohtumistelgi ukse juurde, preestri juurde, ja tapaksid tänutapmiseid Jahvele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/17\/5-8.1792539443653.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Selleks et Jisraeli pojad tooksid ⟨את⟩ oma ohvrid, mida nad tapavad välja ees, ja tooks need Jahvele, kohtumistelgi sissepääsu juurde, preestri juurde, ja tapaksid rahuohvreid Jahvele, ⟨את⟩ neid.",
   "tokens": [
     {
       "surface": "למען",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "-da"
+      "gloss": "et"
     },
     {
       "surface": "יביאו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "poojad"
+      "gloss": "pojad"
     },
     {
       "surface": "ישראל",
@@ -72,23 +46,23 @@
     },
     {
       "surface": "זבחים",
-      "gloss": "tapnud"
+      "gloss": "tapavad"
     },
     {
       "surface": "על",
-      "gloss": "-l"
+      "gloss": "ees"
     },
     {
       "surface": "פני",
-      "gloss": "palgel"
+      "gloss": "näol"
     },
     {
       "surface": "השדה",
-      "gloss": "lõdväli"
+      "gloss": "välja"
     },
     {
       "surface": "והביאם",
-      "gloss": "ja tooksid need"
+      "gloss": "ja tooks need"
     },
     {
       "surface": "ליהוה",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "פתח",
-      "gloss": "uks"
+      "gloss": "sissepääs"
     },
     {
       "surface": "אהל",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "זבחי",
-      "gloss": "tapmised"
+      "gloss": "ohvrid"
     },
     {
       "surface": "שלמים",
-      "gloss": "tänutapmised"
+      "gloss": "rahu-"
     },
     {
       "surface": "ליהוה",
@@ -136,9 +110,10 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neid",
+      "marks": "neid (ohvrid)"
     }
   ],
-  "timestamp": "2026-10-20T23:37:23.654066718Z",
+  "timestamp": "2026-10-21T06:29:23.563906687Z",
   "model": "glm-5.3"
 }

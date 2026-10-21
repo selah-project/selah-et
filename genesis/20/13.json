@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "חסד jääb hesediks, mitte 'lahkus' ega 'halastus'"
-    },
-    {
-      "kind": "crux",
-      "subject": "pani ekslema",
-      "rationale": "התעו causatiiv: Elohim 'tegi ta ekslema' — kummaline jumalik põhjus, mida tõlkijad pehmendavad"
-    }
-  ],
-  "translation": "Ja sündis: kui Elohim pani mind ekslema oma isa majast välja, ütlesin ma talle: see on sinu hesed, mida sa minuga teed — igas paigas, kuhu me jõuame, ütle minu kohta: tema on mu vend.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d2bfbef305f24d5223c52fe1962bfd7d96fc636e402fd9f37690f3df2276bd86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/20\/13-16.1792537654135.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis, kui Elohim pani ⟨את⟩ mind eksile mu isa majast, et ma ütlesin talle: see on sinu hesed, mida sa minuga teed; igas paigas, kuhu me jõuame, ütle minu kohta: tema on mu vend.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ja sündis"
+      "gloss": "Ja sündis"
     },
     {
       "surface": "כאשר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "התעו",
-      "gloss": "pani mind ekslema"
+      "gloss": "pani eksile"
     },
     {
       "surface": "אתי",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "מבית",
-      "gloss": "majast välja"
+      "gloss": "majast"
     },
     {
       "surface": "אבי",
-      "gloss": "oma isa"
+      "gloss": "mu isa"
     },
     {
       "surface": "ואמר",
-      "gloss": "ütlesin"
+      "gloss": "et ma ütlesin"
     },
     {
       "surface": "לה",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "חסדך",
-      "gloss": "sinu hesed"
+      "gloss": "on sinu hesed"
     },
     {
       "surface": "אשר",
@@ -87,19 +66,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "igas"
-    },
-    {
-      "surface": "כל",
-      "gloss": "paigas"
-    },
-    {
-      "surface": "המקום",
       "gloss": "igas paigas"
     },
     {
+      "surface": "כל",
+      "gloss": "kõik"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "paik"
+    },
+    {
       "surface": "אשר",
-      "gloss": "kuhu"
+      "gloss": "mida"
     },
     {
       "surface": "נבוא",
@@ -126,6 +105,6 @@
       "gloss": "tema on"
     }
   ],
-  "timestamp": "2026-10-20T23:07:34.136519253Z",
+  "timestamp": "2026-10-21T06:14:35.009857503Z",
   "model": "glm-5.3"
 }

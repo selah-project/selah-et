@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ונתתי פני בכם",
-      "rationale": "Otsetõlge 'panen oma näo teie vastu' — heebrea idiom vaenulikuks pöördumiseks."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ורדו\/רדף",
-      "rationale": "Juured רדה (valitsema) ja רדף (jälitama) kõlavad sarnaselt — valitsemine ja tagaajamine samas salmis."
-    }
-  ],
-  "translation": "Ja maSean oma näo teie vastu, ja te länge te vaenlaste ees, ja teie vihkajad valitsevad te üle, ja te põgenege, kuigi keegi ⟨tei⟩ jälitama pole.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3a3e711e6513bf6e920b421d8374162b00af64263649142f7ff09d7e80d229fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/17-20.1792539658794.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma pööran oma näo teie vastu, ja te lüüakse tagasi teie vaenlaste ees, ja need, kes teid vihkavad, valitsevad teie üle, ja te põgenete, kuigi keegi ⟨ei⟩ aja ⟨את⟩ teid taga.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "ja ma panen"
+      "gloss": "ja ma pööran"
     },
     {
       "surface": "פני",
@@ -42,46 +21,46 @@
     },
     {
       "surface": "ונגפתם",
-      "gloss": "ja te lange te"
+      "gloss": "ja te lüüakse tagasi"
     },
     {
       "surface": "לפני",
-      "gloss": "(te) ees"
+      "gloss": "ees"
     },
     {
       "surface": "איביכם",
-      "gloss": "teie vaenlased"
+      "gloss": "teie vaenlaste"
     },
     {
       "surface": "ורדו",
-      "gloss": "ja nad valitsevad"
+      "gloss": "ja valitsevad"
     },
     {
       "surface": "בכם",
-      "gloss": "te üle"
+      "gloss": "teie üle"
     },
     {
       "surface": "שנאיכם",
-      "gloss": "teie vihkajad"
+      "gloss": "need, kes teid vihkavad"
     },
     {
       "surface": "ונסתם",
-      "gloss": "ja te põgenege"
+      "gloss": "ja te põgenete"
     },
     {
       "surface": "ואין",
-      "gloss": "kuigi ei ole"
+      "gloss": "kuigi keegi ei"
     },
     {
       "surface": "רדף",
-      "gloss": "jälitajat"
+      "gloss": "aja taga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
+      "gloss": "⟨את⟩",
       "marks": "teid"
     }
   ],
-  "timestamp": "2026-10-20T23:40:58.794612396Z",
+  "timestamp": "2026-10-21T06:29:36.586057951Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,16 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שבר",
-      "rationale": "sõna-sõnalt 'vilja (murdukildudeks)' — 'tema ostetud vilja eest makstud hõbe'"
-    },
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "heebrea puudub mineviku abiverb, eesti täiuslik nõuab seda"
-    }
-  ],
-  "translation": "ja pane minu karikas, hõbekarikas, noorima koti suhu koos tema vilja hõbedaga. Ja ta tegi nõnda, nagu Joosef oli rääkinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/44\/1-4.1792538121567.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ mu karikas, hõbekarikas, pane noorima koti suhu koos tema vilja rahaga. Ja ta tegi nii, nagu Joosep oli öelnud.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "minu karikas"
+      "marks": "mu karikas"
     },
     {
       "surface": "גביעי",
-      "gloss": "minu karikas"
+      "gloss": "mu karikas"
     },
     {
       "surface": "גביע",
@@ -51,28 +30,28 @@
     },
     {
       "surface": "בפי",
-      "gloss": "suhu"
+      "gloss": "suu"
     },
     {
       "surface": "אמתחת",
-      "gloss": "koti"
+      "gloss": "kott"
     },
     {
       "surface": "הקטן",
-      "gloss": "noorima"
+      "gloss": "noorim"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tema vilja hõbe"
+      "marks": "tema vilja raha"
     },
     {
       "surface": "כסף",
-      "gloss": "hõbe"
+      "gloss": "raha"
     },
     {
       "surface": "שברו",
-      "gloss": "tema vilja"
+      "gloss": "vilja"
     },
     {
       "surface": "ויעש",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "nõnda, nagu"
+      "gloss": "nagu sõna"
     },
     {
       "surface": "יוסף",
-      "gloss": "Joosef"
+      "gloss": "Joosep"
     },
     {
       "surface": "אשר",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "oli rääkinud"
+      "gloss": "oli öelnud"
     }
   ],
-  "timestamp": "2026-10-20T23:15:21.568128364Z",
+  "timestamp": "2026-10-21T06:16:32.925641364Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "vanemate, pealike ja eestseisjate loend",
-      "rationale": "kogunemise nimistu: vanemad, sugukondade pealikud, isade perekondade eestseisjad"
-    },
-    {
-      "kind": "you",
-      "subject": "kogukonnale",
-      "rationale": "Šelomo kogu Jisraeli juhid Jerušalaimi — ametlik kokkukutsumine"
-    }
-  ],
-  "translation": "Siis kogunesid Šelomo kutsel Jisraeli vanemad ja kõik sugukondade pealikud, isade perekondade eestseisjad, Jisraeli poegade ⟨juurest⟩ Jerušalaimi, et üles tõsta ⟨את⟩ Jahve lepingu laegas Daividi linnast — see on Siion.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4be76c798d5ca304338842dfe84e2117ef530e87757945bdc9988b9e6f2fe3bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/5\/1-4.1792557694161.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Siis kogus Šelomo ⟨את⟩ Jisraeli vanemad ja ⟨את⟩ kõik sugude pealikud, perekondade isandad Jisraeli poegade hulgast, Jerušalaimi, et üles viia ⟨את⟩ Jahve lepingu laegas Daavidi linnast, ⟨see⟩ on Siion.",
   "tokens": [
     {
       "surface": "אז",
       "gloss": "Siis"
     },
     {
-      "surface": "יקההל",
-      "gloss": "kogunesid Šelomo kutsel"
+      "surface": "יקהיל",
+      "gloss": "kogus"
     },
     {
       "surface": "שלמה",
@@ -56,7 +35,7 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kõik sugukondade pealikud"
+      "marks": "kõik sugude pealikud"
     },
     {
       "surface": "כל",
@@ -68,19 +47,19 @@
     },
     {
       "surface": "המטות",
-      "gloss": "sugukondade"
+      "gloss": "sugude"
     },
     {
       "surface": "נשיאי",
-      "gloss": "eestseisjad"
+      "gloss": "isandad"
     },
     {
       "surface": "האבות",
-      "gloss": "isade perekondade"
+      "gloss": "perekondade"
     },
     {
       "surface": "לבני",
-      "gloss": "poegade"
+      "gloss": "poegade hulgast"
     },
     {
       "surface": "ישראל",
@@ -88,20 +67,20 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨juurest⟩"
-    },
-    {
-      "surface": "ירושלם",
       "gloss": "Jerušalaimi"
     },
     {
+      "surface": "ירושלם",
+      "gloss": "Jerušalaim"
+    },
+    {
       "surface": "להעלות",
-      "gloss": "et üles tõsta"
+      "gloss": "et üles viia"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lepingu laegas"
+      "marks": "Jahve lepingu laegas"
     },
     {
       "surface": "ארון",
@@ -121,17 +100,17 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Daividi"
+      "gloss": "Daavidi"
     },
     {
       "surface": "היא",
-      "gloss": "see on"
+      "gloss": "⟨see⟩ on"
     },
     {
       "surface": "ציון",
       "gloss": "Siion"
     }
   ],
-  "timestamp": "2026-10-21T04:41:34.162658394Z",
+  "timestamp": "2026-10-21T05:56:24.943238406Z",
   "model": "glm-5.3"
 }

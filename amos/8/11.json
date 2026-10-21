@@ -5,32 +5,11 @@
   "book": "amos",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רעב\/רעב",
-      "rationale": "sõna kordus: nälg leiva järele vs nälg sõna järele — kordus kantakse eesti keeles üle"
-    },
-    {
-      "kind": "mystery",
-      "subject": "sõna nälg",
-      "rationale": "Jahve sõna varjub — see, mida otsitakse, ei leita"
-    }
-  ],
-  "translation": "Vaata, päevad tulevad, ütleb Adonai Jahve, ja ma saadan maale nälja — mitte nälja leivast ega janust veest, vaid Jahve sõnade kuulmise nälja.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "afb258fcd798d2b5067b7b193cc9e6248516f227d6ab1b7dbd2aca4a02cb560f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/8\/9-12.1792551319243.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, päevad tulevad, ütleb Adonai Jahve, ja ma saadan nälja maale — mitte nälja leiva järele ega janu vee järele, vaid Jahve sõnade kuulmise ⟨את⟩.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "vaata"
+      "gloss": "Vaata"
     },
     {
       "surface": "ימים",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "רעב",
-      "gloss": "nälja"
+      "gloss": "nälga"
     },
     {
       "surface": "ללחם",
-      "gloss": "leivast"
+      "gloss": "leiva järele"
     },
     {
       "surface": "ולא",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "צמא",
-      "gloss": "janust"
+      "gloss": "janu"
     },
     {
       "surface": "למים",
-      "gloss": "veest"
+      "gloss": "vee järele"
     },
     {
       "surface": "כי",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "vaid"
+      "gloss": "—"
     },
     {
       "surface": "לשמע",
@@ -103,17 +82,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve sõnu"
+      "marks": "Jahve sõnad (דברי יהוה)"
     },
     {
       "surface": "דברי",
-      "gloss": "sõnu"
+      "gloss": "sõnade"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:55:19.245528749Z",
+  "timestamp": "2026-10-21T06:01:10.226689500Z",
   "model": "glm-5.3"
 }

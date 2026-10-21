@@ -5,41 +5,20 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "kopeel puudub heebrea tekstis, eesti keel vajab seda"
-    },
-    {
-      "kind": "crux",
-      "subject": "אבני אלגביש",
-      "rationale": "sõna-sõnalt 'rahekivid'; mõned tõlgid loevad 'tule- ja väävelrahaid', sest 'tuli ja väävel' järgneb vahetult"
-    }
-  ],
-  "translation": "Ja ma astun kohtusse temaga ⟨את⟩ epideemiaga ja verega, uputava vihma ja raheterad, tule ja väävel — ma vihma tema peale ja ta salkade peale ja paljude rahvaste peale, kes temaga ⟨on⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ae1143ca43e705c992ee53b893e855eb45bbc6150cf5f8d25b48dbc176d006ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/38\/21-23.1792550649633.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma mõistan talle kohut ⟨את⟩ katku ja verega, ja vihmaga, mis üle ujutab, ja rahekividega, tule ja väävliga: ma vihman tema peale, ja ta salkkondade peale, ja paljude rahvaste peale, kes ⟨on⟩ ⟨את⟩ temaga.",
   "tokens": [
     {
       "surface": "ונשפטתי",
-      "gloss": "ja ma astun kohtusse"
+      "gloss": "ja ma mõistan kohut"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "temaga"
+      "marks": "tema"
     },
     {
       "surface": "בדבר",
-      "gloss": "epideemiaga"
+      "gloss": "katku"
     },
     {
       "surface": "ובדם",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "שוטף",
-      "gloss": "uputava"
+      "gloss": "mis üle ujutab"
     },
     {
       "surface": "ואבני",
-      "gloss": "ja -kive"
+      "gloss": "ja kividega"
     },
     {
       "surface": "אלגביש",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "אמטיר",
-      "gloss": "ma vihma"
+      "gloss": "ma vihman"
     },
     {
       "surface": "עליו",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אגפיו",
-      "gloss": "ta salkade peale"
+      "gloss": "ta salkkondade"
     },
     {
       "surface": "ועל",
@@ -103,9 +82,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ temaga"
+      "gloss": "⟨את⟩ temaga",
+      "marks": "temaga"
     }
   ],
-  "timestamp": "2026-10-21T02:44:09.634640559Z",
+  "timestamp": "2026-10-21T06:10:18.471562302Z",
   "model": "glm-5.3"
 }

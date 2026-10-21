@@ -5,41 +5,15 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kuuskümmend linna",
-      "rationale": "Kokkuvõttev loendus: Kenat ja selle tütarlinnad kokku kuuskümmend linna."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חות יאיר",
-      "rationale": "Tõlgi 'Jairi asulad'; sõna-sõnalt 'Jairi laagerkülad' (חוה juur)."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בנתיה",
-      "rationale": "'Tütarlinnad' — heebrea 'tütred' metafooriliselt alluvate asulate kohta."
-    }
-  ],
-  "translation": "Ja Gesur ja Aram võtsid ⟨את⟩ Jairi asulad ära neilt — ⟨את⟩ Kenati ja ⟨את⟩ selle tütarlinnad — kuuskümmend linna; kõik need olid Makiri pojad, Gileadi isa.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/2\/21-24.1792557170840.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Gešur ja Aram võtsid neilt ⟨את⟩ Havvot-Ja’iri külad, ⟨את⟩ Kenati ja ⟨את⟩ tema külad — kuuskümmend linna; kõik need olid Makiri, Gileadi isa poegade ⟨omand⟩.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ja võttis"
+      "gloss": "ja võtsid"
     },
     {
       "surface": "גשור",
-      "gloss": "Gesur"
+      "gloss": "Gešur"
     },
     {
       "surface": "וארם",
@@ -48,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jairi asulad"
+      "marks": "Havvot-Ja’iri külad"
     },
     {
       "surface": "חות",
-      "gloss": "asulad"
+      "gloss": "Havvot-Ja’iri külad"
     },
     {
       "surface": "יאיר",
-      "gloss": "Jairi"
+      "gloss": "Ja’iri"
     },
     {
       "surface": "מאתם",
-      "gloss": "⟨את⟩ neilt ära"
+      "gloss": "⟨את⟩ neilt"
     },
     {
       "surface": "את",
@@ -69,16 +43,16 @@
     },
     {
       "surface": "קנת",
-      "gloss": "Kenat"
+      "gloss": "Kenati"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "selle tütarlinnad"
+      "gloss": "ja ⟨את⟩",
+      "marks": "tema külad"
     },
     {
       "surface": "בנתיה",
-      "gloss": "selle tütred"
+      "gloss": "tema külad"
     },
     {
       "surface": "ששים",
@@ -98,7 +72,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "pojad"
+      "gloss": "poegade"
     },
     {
       "surface": "מכיר",
@@ -113,6 +87,6 @@
       "gloss": "Gileadi"
     }
   ],
-  "timestamp": "2026-10-21T04:32:50.841376181Z",
+  "timestamp": "2026-10-21T05:49:33.630701870Z",
   "model": "glm-5.3"
 }

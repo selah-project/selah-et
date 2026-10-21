@@ -5,41 +5,20 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "kuldleht",
-      "rationale": "ציץ on särav, poleeritud plaat või õis; 'leht' vs 'plaat' vs 'õis' (ylt: flower)."
-    },
-    {
-      "kind": "substitution",
-      "subject": "pühenduse kroon",
-      "rationale": "נזר on pühendamisest eraldatud asi, 'kroon' vahendab selle preestri peas kandmist."
-    }
-  ],
-  "translation": "Ja pani mütsi tema pähe, ja pani mütsi peale, otse tema näo ette, ⟨את⟩ kuldlehe, püha pühenduse krooni, nõnda nagu oli käskinud Jahve ⟨את⟩ Mošet.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/8\/9-12.1792539227209.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta pani pealetõmmatava peapaela tema pea peale, ja ta pani peapaela peale, täpselt tema nägu ette, ⟨את⟩ kuldse ehtelehe, püha pühitsemiskrooni, nõnda nagu Jahve oli käskinud ⟨את⟩ Mošet.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "ja pani"
+      "gloss": "ja ta pani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mütsi"
+      "marks": "pealetõmmatav peapael"
     },
     {
       "surface": "המצנפת",
-      "gloss": "mütsi"
+      "gloss": "pealetõmmatav peapael"
     },
     {
       "surface": "על",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "ja pani"
+      "gloss": "ja ta pani"
     },
     {
       "surface": "על",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "המצנפת",
-      "gloss": "mütsi"
+      "gloss": "peapaela"
     },
     {
       "surface": "אל",
-      "gloss": "otse"
+      "gloss": "täpselt"
     },
     {
       "surface": "מול",
@@ -76,19 +55,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuldlehe"
+      "marks": "kuldne ehteleht"
     },
     {
       "surface": "ציץ",
-      "gloss": "lehe"
+      "gloss": "ehteleht"
     },
     {
       "surface": "הזהב",
-      "gloss": "kuld"
+      "gloss": "kuldse"
     },
     {
       "surface": "נזר",
-      "gloss": "pühenduse kroon"
+      "gloss": "pühitsemiskroon"
     },
     {
       "surface": "הקדש",
@@ -109,13 +88,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mošet"
+      "marks": "Moše"
     },
     {
       "surface": "משה",
       "gloss": "Mošet"
     }
   ],
-  "timestamp": "2026-10-20T23:33:47.210177555Z",
+  "timestamp": "2026-10-21T06:30:34.832460163Z",
   "model": "glm-5.3"
 }

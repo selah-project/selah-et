@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר · אל",
-      "rationale": "Suhteadverb ja eesjärje sulanduvad eesti sidesõnadesse."
-    },
-    {
-      "kind": "you",
-      "subject": "pagendatud kogukond",
-      "rationale": "Teises pooles pöördub kõne kolmandalt isikult otseselt 'teie' poole."
-    }
-  ],
-  "translation": "Seetõttu, et nad ei kuulanud mu sõnu, ütleb Jahve, mida ma saatsin neile ⟨את⟩ oma sulastega, prohvetitega, varakult saates, aga teie ei kuulnud, ütleb Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "30064370d8174674835cd2578b44a002828236b96d463df2243dc7cc2f7f6c34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/17-20.1792548784459.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Seetõttu, et nad ei kuulnud ⟨minu⟩ sõnu, ütleb Jahve, kelle ma saatsin nende juurde ⟨את⟩ oma sulaseid prohvetid, varakult saates ja saates, aga te ei kuulnud, ütleb Jahve.",
   "tokens": [
     {
       "surface": "תחת",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "לא",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "kuulanud"
+      "gloss": "kuulnud"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kuulnud (el-) juurde"
     },
     {
       "surface": "דברי",
-      "gloss": "mu sõnu"
+      "gloss": "sõnu"
     },
     {
       "surface": "נאם",
@@ -62,28 +41,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "kelle"
     },
     {
       "surface": "שלחתי",
-      "gloss": "ma saatsin"
+      "gloss": "saatsin"
     },
     {
       "surface": "אליהם",
-      "gloss": "neile"
+      "gloss": "nende juurde"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma sulastega"
+      "marks": "oma sulaseid prohvetid"
     },
     {
       "surface": "עבדי",
-      "gloss": "oma sulastega"
+      "gloss": "oma sulaseid"
     },
     {
       "surface": "הנבאים",
-      "gloss": "prohvetitega"
+      "gloss": "prohvetid"
     },
     {
       "surface": "השכם",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "ושלח",
-      "gloss": "saates"
+      "gloss": "ja saates"
     },
     {
       "surface": "ולא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "teie kuulnud"
+      "gloss": "te kuulnud"
     },
     {
       "surface": "נאם",
@@ -110,6 +89,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:13:04.461777407Z",
+  "timestamp": "2026-10-21T06:20:03.871009599Z",
   "model": "glm-5.3"
 }

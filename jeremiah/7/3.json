@@ -5,27 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lasen elada",
-      "rationale": "ואשכנה tähendab 'asustama, püsivalt elama panema' — ehituslik elupaiga andmine, mitte üldine 'elama jätma'."
-    }
-  ],
-  "translation": "Nii ütleb Jahve Tsevaot, Jisraeli Elohim: Parandage oma teed ja oma teod, ja ma lasen teil elada selles paigas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/7\/1-4.1792548147029.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nõnda ütleb Jahve Tsevaot, Jisraeli Elohim: Parandage oma teed ja oma teod, ja ma lasen ⟨את⟩ teil elada selles paigas.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Nii"
+      "gloss": "Nõnda"
     },
     {
       "surface": "אמר",
@@ -65,8 +49,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
-      "marks": "selles paigas"
+      "gloss": "⟨את⟩",
+      "marks": "teil"
     },
     {
       "surface": "במקום",
@@ -74,9 +58,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ses"
+      "gloss": "sedasamas"
     }
   ],
-  "timestamp": "2026-10-21T02:02:27.030903674Z",
+  "timestamp": "2026-10-21T06:22:40.344277876Z",
   "model": "glm-5.3"
 }

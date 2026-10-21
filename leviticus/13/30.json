@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "netek",
-      "rationale": "נתק 'koorik, kärn' jäetakse heebrea kõlaga sõnaks, sest eesti üks sõna asendaks selle tähendusega"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tsaraat",
-      "rationale": "צרעת ei ole 'pidalitõbi' ega 'lepra' meditsiinilises mõttes — hoitakse kõla järgi"
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Kopula 'on' kahes kohas puudub heebrea keeles: נתק הוא on nimetus-valem 'netek — see on...'"
-    }
-  ],
-  "translation": "siis preester vaatab ⟨את⟩ haigust, ja vaata, kui selle välimus on sügavam kui nahk ja selles on peenike kollakas karv, siis preester kuulutab tema ebapureeriks: see ⟨on⟩ netek — see ⟨on⟩ pea või habeme tsaraat.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "08dd866d5dc9caaa878b0f1cf74cce8a44ede7aab35632f18a52b1c419c0797c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/13\/29-32.1792539365001.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja preester vaatab ⟨את⟩ nahahaigust, ja vaata, selle välimus on sügavam kui ⟨nahk⟩, ja selles on kollakas õhuke karv, siis preester kuulutab ⟨את⟩ ta ebapuhtaks: see on kärnatõbi, see on pea või habeme tsaraat.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "siis vaatab"
+      "gloss": "ja vaatab"
     },
     {
       "surface": "הכהן",
@@ -44,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "haigust"
+      "marks": "nahahaigust"
     },
     {
       "surface": "הנגע",
-      "gloss": "haigust"
+      "gloss": "nahahaigust"
     },
     {
       "surface": "והנה",
@@ -84,16 +58,16 @@
     },
     {
       "surface": "דק",
-      "gloss": "peenike"
+      "gloss": "õhuke"
     },
     {
       "surface": "וטמא",
-      "gloss": "kuulutab ebapureeriks"
+      "gloss": "siis kuulutab ebapuhtaks"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "tema"
+      "gloss": "⟨את⟩",
+      "marks": "ta"
     },
     {
       "surface": "הכהן",
@@ -101,11 +75,11 @@
     },
     {
       "surface": "נתק",
-      "gloss": "netek"
+      "gloss": "kärnatõbi"
     },
     {
       "surface": "הוא",
-      "gloss": "see"
+      "gloss": "see on"
     },
     {
       "surface": "צרעת",
@@ -125,9 +99,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "see"
+      "gloss": "see on"
     }
   ],
-  "timestamp": "2026-10-20T23:36:05.002860653Z",
+  "timestamp": "2026-10-21T06:28:17.280708724Z",
   "model": "glm-5.3"
 }

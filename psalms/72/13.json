@@ -5,58 +5,37 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 72,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eeslint „halastab peale” — eesti keeles mõistetakse eessõna verbiga kokku, eraldi sõnata."
-    },
-    {
-      "kind": "substitution",
-      "subject": "hingi",
-      "rationale": "נפש on hingamine, elujõud, kõri — mitte sealsed „hinged”."
-    }
-  ],
-  "translation": "Ta halastab nõrgale ja vaesele, ja vaeste hingi ta päästab.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/72\/13-16.1792553367829.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tal on kaastunnet vaese ja viletsa suhtes, ning vaeste hingi päästab ta.",
   "tokens": [
     {
       "surface": "יחס",
-      "gloss": "halastab"
+      "gloss": "tal on kaastunnet"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "suhtes"
     },
     {
       "surface": "דל",
-      "gloss": "nõrgale"
+      "gloss": "vaese"
     },
     {
       "surface": "ואביון",
-      "gloss": "ja vaesele"
+      "gloss": "ja viletsa"
     },
     {
       "surface": "ונפשות",
-      "gloss": "ja hingi"
+      "gloss": "ning vaeste hingi"
     },
     {
       "surface": "אביונים",
-      "gloss": "vaeste"
+      "gloss": "⟨vaeste⟩"
     },
     {
       "surface": "יושיע",
-      "gloss": "ta päästab"
+      "gloss": "päästab ta"
     }
   ],
-  "timestamp": "2026-10-21T03:29:27.830515042Z",
+  "timestamp": "2026-10-21T06:38:31.836987599Z",
   "model": "glm-5.3"
 }

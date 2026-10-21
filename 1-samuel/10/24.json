@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "karjus",
-      "rationale": "וירעו sõna-sõnalt 'lõhkusid (kõrvu)' — kõrvu lõhkev hüüe; 'karjus' kannab pildi üle"
-    },
-    {
-      "kind": "idiom",
-      "subject": "Elagu kuningas",
-      "rationale": "יחי המלך otsetõlkes 'elagu kuningas' — eesti tavapraktsis 'elagu' juba küllaldaselt täpne"
-    },
-    {
-      "kind": "you",
-      "subject": "rahvale",
-      "rationale": "Šemuëli kõne on otsepööre kogu rahvale küsimusega 'kas te näete'"
-    }
-  ],
-  "translation": "Ja Šemuël ütles kogu rahvale: Kas te näete, keda Jahve on valinud, sest taolist ei ole kellegi kogu rahva seas? Ja kogu rahvas karjus ja ütles: Elagu kuningas!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/10\/21-24.1792543835705.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ütles Šemuuel kogu rahvale: Kas te näete, keda Jahve on valinud, sest ei ole tema sarnast kogu rahva seas? Ja kogu rahvas rõõmuhõiskas ja ütles: Elagu kuningas!",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuël"
+      "gloss": "Šemuuel"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kogu rahvale"
     },
     {
       "surface": "כל",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "בו",
-      "gloss": ""
+      "gloss": "teda"
     },
     {
       "surface": "יהוה",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "כמהו",
-      "gloss": "taolist"
+      "gloss": "tema sarnast"
     },
     {
       "surface": "בכל",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahva"
+      "gloss": "rahva seas"
     },
     {
       "surface": "וירעו",
-      "gloss": "karjus"
+      "gloss": "ja rõõmuhõiskas"
     },
     {
       "surface": "כל",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ja ütles"
+      "gloss": "ja ütlesid"
     },
     {
       "surface": "יחי",
@@ -118,6 +92,6 @@
       "gloss": "kuningas"
     }
   ],
-  "timestamp": "2026-10-21T00:50:35.727879702Z",
+  "timestamp": "2026-10-21T05:51:59.726360383Z",
   "model": "glm-5.3"
 }

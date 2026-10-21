@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "valvurid",
-      "rationale": "נציב on 'püstitatud asi' — prefekt, sõjaväepost, sammas; 'valvurid' pildi tasandil."
-    },
-    {
-      "kind": "substitution",
-      "subject": "andas võidu",
-      "rationale": "ויושע on põhimõtteliselt 'päästis \/ aitas'; 'võit andma' on kontekstitõlge."
-    }
-  ],
-  "translation": "Ja ta pani Edomisse valvurid; kogu Edomisse pani ta valvurid, ja kogu Edomist sai Davidile alamatene rahvas. Ja Jahve andis Davidile võidu kõiges, kuhu ta käis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/8\/13-16.1792544677540.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta pani Edomis garnisonone; kogu Edomis pani ta garnisonone, ja kogu Edomist sai Davidi teenrid. Ja Jahve andis ⟨את⟩ Davidile võidu kõiges, kuhu ta läks.",
   "tokens": [
     {
       "surface": "וישם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "באדום",
-      "gloss": "Edomisse"
+      "gloss": "Edomis"
     },
     {
       "surface": "נצבים",
-      "gloss": "valvurid"
+      "gloss": "garnisonone"
     },
     {
       "surface": "בכל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אדום",
-      "gloss": "Edomisse"
+      "gloss": "Edomis"
     },
     {
       "surface": "שם",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "נצבים",
-      "gloss": "valvurid"
+      "gloss": "garnisonone"
     },
     {
       "surface": "ויהי",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "alamatene rahvas"
+      "gloss": "teenrid"
     },
     {
       "surface": "לדוד",
-      "gloss": "Davidile"
+      "gloss": "Davidi"
     },
     {
       "surface": "ויושע",
@@ -87,7 +66,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Davidile"
+      "marks": "David"
     },
     {
       "surface": "דוד",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "הלך",
-      "gloss": "ta käis"
+      "gloss": "ta läks"
     }
   ],
-  "timestamp": "2026-10-21T01:04:37.542904666Z",
+  "timestamp": "2026-10-21T06:00:42.503075879Z",
   "model": "glm-5.3"
 }

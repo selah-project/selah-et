@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti keel vajab kopulat, heebrea laseb asjade lihtsalt kõrvuti"
-    },
-    {
-      "kind": "measurement",
-      "subject": "vaate piirid",
-      "rationale": "maa nimetatakse punktideni: Gileadist Danini — mõõdetud ringvaade"
-    }
-  ],
-  "translation": "Ja Moše läks üles Moobi araadelt Nebо mäele, Pisga tippu, mis on Jerihoo ees, ja Jahve näitas talle ⟨את⟩ kogu maad, ⟨את⟩ Gileadi kuni Danini.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/34\/1-4.1792541284169.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše läks üles Moobi tasandikelt Nebo mäele, Pisga tippu, mis on Jeriho palge ees; ja Jahve näitas talle ⟨את⟩ kogu ⟨את⟩ maa — Giljadi, kuni Daanini.",
   "tokens": [
     {
       "surface": "ויעל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מערבת",
-      "gloss": "ara"
+      "gloss": "tasandikelt"
     },
     {
       "surface": "מואב",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "...le"
+      "gloss": "mäele"
     },
     {
       "surface": "הר",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "על",
-      "gloss": "on"
+      "gloss": "ees"
     },
     {
       "surface": "פני",
-      "gloss": "ees"
+      "gloss": "palge"
     },
     {
       "surface": "ירחו",
@@ -99,16 +78,16 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "maad"
+      "gloss": "maa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gilead"
+      "marks": "Giljadi"
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gileadi"
+      "gloss": "Giljadi"
     },
     {
       "surface": "עד",
@@ -116,9 +95,9 @@
     },
     {
       "surface": "דן",
-      "gloss": "Danini"
+      "gloss": "Daanini"
     }
   ],
-  "timestamp": "2026-10-21T00:08:04.169824031Z",
+  "timestamp": "2026-10-21T06:03:30.792341292Z",
   "model": "glm-5.3"
 }

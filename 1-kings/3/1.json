@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sõlmis abielusideme",
-      "rationale": "התחתן tähendab sõna-sõnalt 'sai väimeheks \/ sai äia sugulaseks'; abielusideme hoiab tähenduse üldisust"
-    },
-    {
-      "kind": "measurement",
-      "subject": "ehituste loend",
-      "rationale": "salm loetleb kolm ehitist — Šelomo oma maja, Jahve koda, Jerušalaimi müür — mõõdu-plaanina, mis raamib peatüki 5–7"
-    }
-  ],
-  "translation": "Ja Šelomo sõlmis abielusideme Paroga, Mitsraimi kuningaga, ja võttis ⟨את⟩ Paro tütre ja tõi ta Daavidi linna, kuni ta lõpetas ehitada ⟨את⟩ oma maja ja ⟨את⟩ Jahve koja ja ⟨את⟩ Jerušalaimi müüri ümber.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "13bc83cd5ee81310752fa8490abb43c74b033ccb7bf71fcc2aa250165d31d2fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/3\/1-4.1792545174241.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šelomo sai abikaelaseks Par'o, Mitsraimi kuningaga, ja võttis ⟨את⟩ Par'o tütre ning tõi tema Daavidi linna, kuni ta lõpetas ehitada ⟨את⟩ oma koja ja ⟨את⟩ Jahve koja ning ⟨את⟩ Jerušalaimi müüri ümber.",
   "tokens": [
     {
       "surface": "ויתחתן",
-      "gloss": "sõlmis abielusideme"
+      "gloss": "sai abikaelaseks"
     },
     {
       "surface": "שלמה",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Paro"
+      "marks": "Par'o"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Par'o"
     },
     {
       "surface": "מלך",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "võttis"
+      "gloss": "ja võttis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Paro tütre"
+      "marks": "Par'o tütre"
     },
     {
       "surface": "בת",
@@ -68,15 +47,15 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Par'o"
     },
     {
       "surface": "ויביאה",
-      "gloss": "tõi ta"
+      "gloss": "ja tõi tema"
     },
     {
       "surface": "אל",
-      "gloss": "-"
+      "gloss": "…-sse"
     },
     {
       "surface": "עיר",
@@ -101,20 +80,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma maja"
+      "marks": "oma koja"
     },
     {
       "surface": "ביתו",
-      "gloss": "oma maja"
+      "gloss": "oma koda"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "Jahve koja"
+      "marks": "Jahve koda"
     },
     {
       "surface": "בית",
-      "gloss": "koja"
+      "gloss": "koda"
     },
     {
       "surface": "יהוה",
@@ -138,6 +117,6 @@
       "gloss": "ümber"
     }
   ],
-  "timestamp": "2026-10-21T01:12:54.242277766Z",
+  "timestamp": "2026-10-21T05:51:34.839355441Z",
   "model": "glm-5.3"
 }

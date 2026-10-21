@@ -5,49 +5,23 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פחים",
-      "rationale": "Võrgud (KJV 'snares') vs söed (JPS 'coals', פחם segamine) — mõlemad vana traditsioon."
-    },
-    {
-      "kind": "addition",
-      "subject": "see on",
-      "rationale": "Eesti kõlasem nõuab sidesõna, mida heebrea lubab küllaltki tihedalt."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זלעפות",
-      "rationale": "Sõna tähendab nii põletavat tuult kui raevu — raev ja kuumus kajastuvad koos, eesti keeles kajab vaid 'põletav'."
-    }
-  ],
-  "translation": "Jahve vihma jaatab üle ⟩רשעים⟨ võrgud, tuld ja väävlit, ja põletav ruahh — see on nende karika osa.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bf1321847f19fa7e21a56aa31b487e9d566e04f1691799d495954ef9d4168238",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/11\/6-7.1792558566571.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve laseb sadada pahadele lõkse, tuld ja väävlit, ja kõrbete tuule ruahh on nende karika osa.",
   "tokens": [
     {
       "surface": "ימטר",
-      "gloss": "jaatab"
+      "gloss": "lass sadada"
     },
     {
       "surface": "על",
-      "gloss": "üle"
+      "gloss": "peale"
     },
     {
       "surface": "רשעים",
-      "gloss": "вильсекate"
+      "gloss": "pahadele"
     },
     {
       "surface": "פחים",
-      "gloss": "võrgud"
+      "gloss": "lõkse"
     },
     {
       "surface": "אש",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "ורוח",
-      "gloss": "ja ruahh"
+      "gloss": "ja tuule ruahh"
     },
     {
       "surface": "זלעפות",
-      "gloss": "põletav"
+      "gloss": "kõrbete"
     },
     {
       "surface": "מנת",
@@ -71,9 +45,9 @@
     },
     {
       "surface": "כוסם",
-      "gloss": "nende karikas"
+      "gloss": "nende karika"
     }
   ],
-  "timestamp": "2026-10-21T04:56:06.576052801Z",
+  "timestamp": "2026-10-21T06:37:45.620272237Z",
   "model": "glm-5.3"
 }

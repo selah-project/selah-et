@@ -5,49 +5,23 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידע תדעו",
-      "rationale": "infinitiiv-absoluut + imperfekt kordus ('targalt teate') — eestindatud ühe 'kindlasti teate'ga, rõhukordus kahandatud."
-    },
-    {
-      "kind": "idiom",
-      "subject": "דם נקי נתנים",
-      "rationale": "'süütu verd andma' = vastutust kandma; eestindatud sõnaliselt 'panete süütuse vere'."
-    },
-    {
-      "kind": "you",
-      "subject": "to the princes and the people",
-      "rationale": "Jeremija hoiatab otse kuulajaid nende endi teo tagajärjest."
-    }
-  ],
-  "translation": "Kindlasti teate: kui te mind tapate, siis panete süütuse vere enese peale ja selle linna peale ja selle elanike peale, sest tõeliselt on Jahve mind teie juurde saatnud rääkima teie kõrvu ⟨את⟩ kõiki neid sõnu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/26\/13-16.1792548795121.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga teada tehke kindlalt, et kui te ⟨את⟩ mind suretate, siis teete te süütue verd endi peale ja selle linna peale ning tema elanike peale, sest tões on mind läkitanud Jahve teie juurde rääkima teie kõrvu ⟨את⟩ kõik need sõnad.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "kindlasti"
+      "gloss": "aga"
     },
     {
       "surface": "ידע",
-      "gloss": "teate"
+      "gloss": "teada"
     },
     {
       "surface": "תדעו",
-      "gloss": "⟨teate⟩"
+      "gloss": "tehke kindlalt"
     },
     {
       "surface": "כי",
-      "gloss": ":"
+      "gloss": "et"
     },
     {
       "surface": "אם",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ממתים",
-      "gloss": "tapate"
+      "gloss": "suretate"
     },
     {
       "surface": "אתם",
@@ -64,7 +38,7 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩ mind",
-      "marks": "mind"
+      "marks": "mind (1. üksikud objekt)"
     },
     {
       "surface": "כי",
@@ -84,19 +58,19 @@
     },
     {
       "surface": "נתנים",
-      "gloss": "panete"
+      "gloss": "teete"
     },
     {
       "surface": "עליכם",
-      "gloss": "enese peale"
+      "gloss": "endi peale"
     },
     {
       "surface": "ואל",
-      "gloss": "ja"
+      "gloss": "ja ... peale"
     },
     {
       "surface": "העיר",
-      "gloss": "selle linna peale"
+      "gloss": "linna"
     },
     {
       "surface": "הזאת",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ja"
+      "gloss": "ja ... peale"
     },
     {
       "surface": "ישביה",
-      "gloss": "selle elanike peale"
+      "gloss": "tema elanike"
     },
     {
       "surface": "כי",
@@ -116,11 +90,11 @@
     },
     {
       "surface": "באמת",
-      "gloss": "tõeliselt"
+      "gloss": "tões"
     },
     {
       "surface": "שלחני",
-      "gloss": "on saatnud mind"
+      "gloss": "on mind läkitanud"
     },
     {
       "surface": "יהוה",
@@ -141,21 +115,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõiki neid sõnu"
+      "marks": "kõik need sõnad"
     },
     {
       "surface": "כל",
-      "gloss": "kõiki"
+      "gloss": "kõik"
     },
     {
       "surface": "הדברים",
-      "gloss": "sõnu"
+      "gloss": "sõnad"
     },
     {
       "surface": "האלה",
-      "gloss": "neid"
+      "gloss": "need"
     }
   ],
-  "timestamp": "2026-10-21T02:13:15.123935759Z",
+  "timestamp": "2026-10-21T06:20:32.559925910Z",
   "model": "glm-5.3"
 }

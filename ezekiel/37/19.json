@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חברו",
-      "rationale": "חבר' liitumise tähenduses 'tema kaaslased\/kellega ta on liidetud' — tekstikriitiliselt loetakse ka חֻבְרוֹ 'liidetud temaga'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שבטי",
-      "rationale": "Heebrea 'sauad\/sugukonnad' — välja {'sugukondi'} 'sauad' tähenduses; 'pulgad' looks like it belongs in the thought but the token here is sugukondi."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraeli rahvale",
-      "rationale": "Käsu 'räägi nendega' otsene adressaat on pagenduse rahvas."
-    }
-  ],
-  "translation": "Räägi nendega: nõnda ütleb Adonai Jahve: Vaata, mina võtan ⟨את⟩ Joosepi puu, mis on Efraimi käes, ja Jisraeli sugukondi, tema kaaslasi, ja ma panen nad tema peale, ⟨את⟩ Juuda puu, ja ma teen nad üheks puupuuks, ja nad saavad üheks minu käes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "18696fd18bd90417d1b512fab9fafbad0081578a1c64efe81d16e002edd7f088",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/37\/17-20.1792550560164.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Räägi neile: nõnda ütleb Adonai Jahve: Vaata, mina võtan ⟨את⟩ Joosepi puu, mis on Efrajimi käes, ja Jisraeli sugukondi, tema kaaslasi, ja panen nad ⟨את nad⟩ tema peale ⟨את⟩ Juuda puu, ja teen nad üheks puuks, ja nad saavad üheks minu käes.",
   "tokens": [
     {
       "surface": "דבר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "nendega"
+      "gloss": "neile"
     },
     {
       "surface": "כה",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efraimi"
+      "gloss": "Efrajimi"
     },
     {
       "surface": "ושבטי",
@@ -108,12 +82,12 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "ja ma panen"
+      "gloss": "ja panen"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "Jisraeli sugukonnad"
+      "gloss": "⟨את nad⟩",
+      "marks": "tema peale"
     },
     {
       "surface": "עליו",
@@ -134,11 +108,11 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "ja ma teen nad"
+      "gloss": "ja teen"
     },
     {
       "surface": "לעץ",
-      "gloss": "üheks puupuuks"
+      "gloss": "üheks puuks"
     },
     {
       "surface": "אחד",
@@ -157,6 +131,6 @@
       "gloss": "minu käes"
     }
   ],
-  "timestamp": "2026-10-21T02:42:40.165010004Z",
+  "timestamp": "2026-10-21T06:10:29.190183007Z",
   "model": "glm-5.3"
 }

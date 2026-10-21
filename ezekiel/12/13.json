@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואותה — 'seda'",
-      "rationale": "Naise-soost asesõna viitab kas Babyloni maale või mu püünisele; enamik tõlkeid valivad 'seda maad ta ei näe'."
-    },
-    {
-      "kind": "you",
-      "subject": "kuningas Sidkija",
-      "rationale": "Salm räägib vangistatavast vürstist kaudselt, otse adresseerimata."
-    }
-  ],
-  "translation": "Ja ma laotan ⟨את⟩ oma võrgu tema peale, ja ta püütakse kinni mu püünises; ja ma viin ⟨את⟩ ta Babyloni, Kaasdimi maale, ja ⟨את⟩ seda ta ei näe, ja seal ta sureb.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/12\/13-16.1792549791701.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma laotan oma võrgu tema peale, ja ta püütakse kinni minu püünises; ja ma toon ta Babülonisse, Kaaside maale, ja seda ⟨maad⟩ ta ei näe, ja seal ta sureb.",
   "tokens": [
     {
       "surface": "ופרשתי",
@@ -51,33 +30,33 @@
     },
     {
       "surface": "במצודתי",
-      "gloss": "mu püünises"
+      "gloss": "minu püünises"
     },
     {
       "surface": "והבאתי",
-      "gloss": "ja ma viin"
+      "gloss": "ja ma toon"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ta",
-      "marks": "Babyloni"
+      "gloss": "⟨את⟩",
+      "marks": "ta"
     },
     {
       "surface": "בבלה",
-      "gloss": "Babyloni"
+      "gloss": "Babülonisse"
     },
     {
       "surface": "ארץ",
-      "gloss": "maale"
+      "gloss": "maa"
     },
     {
       "surface": "כשדים",
-      "gloss": "Kaasdimi"
+      "gloss": "Kaaside"
     },
     {
       "surface": "ואותה",
-      "gloss": "⟨את⟩ seda",
-      "marks": "Babyloni"
+      "gloss": "⟨את⟩",
+      "marks": "sedä ⟨maad⟩"
     },
     {
       "surface": "לא",
@@ -96,6 +75,6 @@
       "gloss": "ta sureb"
     }
   ],
-  "timestamp": "2026-10-21T02:29:51.702506616Z",
+  "timestamp": "2026-10-21T06:08:17.340911606Z",
   "model": "glm-5.3"
 }

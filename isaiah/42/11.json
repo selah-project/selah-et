@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "translation_error",
-      "subject": "asugu息 חצרים",
-      "rationale": "Parandus: 'asulad — need, mida Kedar asustab, asugu' ehk חצרים on Kedari külad, mitte eraldiseisev lause."
-    },
-    {
-      "kind": "alternative",
-      "subject": "תשב",
-      "rationale": "יָשֵׁב Pi'el imperatiiv: 'elabugu \/ asustagu' Kedar — jussiiv, mitte 'istugu'."
-    }
-  ],
-  "translation": "Kõrgustgu kõrb ja tema linnad, asugu息 חצרים — Kedari asulad — hõiskugu Sela asukad, mägede otsast karjugu nad!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/42\/9-12.1792547336404.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Laskuudigu kõrgemale kõrb ja selle linnad, asulad, kus Qedar istub; hõiskugu kalju asukad, mäetippudelt karjugu nad.",
   "tokens": [
     {
       "surface": "ישאו",
-      "gloss": "kõrgustgu"
+      "gloss": "laskuudigu kõrgemale"
     },
     {
       "surface": "מדבר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ועריו",
-      "gloss": "ja tema linnad"
+      "gloss": "ja selle linnad"
     },
     {
       "surface": "חצרים",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "תשב",
-      "gloss": "asugu"
+      "gloss": "istub"
     },
     {
       "surface": "קדר",
-      "gloss": "Kedar"
+      "gloss": "Qedar"
     },
     {
       "surface": "ירנו",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "סלע",
-      "gloss": "Sela"
+      "gloss": "kalju"
     },
     {
       "surface": "מראש",
-      "gloss": "otsast"
+      "gloss": "tipud"
     },
     {
       "surface": "הרים",
@@ -77,6 +56,6 @@
       "gloss": "karjugu nad"
     }
   ],
-  "timestamp": "2026-10-21T01:48:56.405249327Z",
+  "timestamp": "2026-10-21T06:18:10.173907342Z",
   "model": "glm-5.3"
 }

@@ -5,81 +5,55 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויארכו tegija",
-      "rationale": "hifiil 'nad pikendasid' — keda? KJV 'nemad tõmbasid välja' (preestrid); teised lugevad kange kui alust: 'olid pikad'"
-    },
-    {
-      "kind": "addition",
-      "subject": "kangid \/ on",
-      "rationale": "tegemata subjekt ja kopeelatt lisatud, et lause eesti keeles seisuks"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kangide pikkus",
-      "rationale": "salm mõõdab ruumi kangede nähtavuse kaudu: pühast paistsid, välja ei paistnud"
-    }
-  ],
-  "translation": "Ja ⟨kangid⟩ olid pikad, ja kangide otsad paistsid pühast debiri ees, välja ei paistnud neid, ja need ⟨on⟩ seal selle päevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/8\/5-8.1792545333741.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kandsalgad olid pikad, ja salgade pead olid näha pühadusest, deviiri näo ees, aga väljapoolt ei olnud nad näha; ja nad on seal ⟨sel⟩ päevani ⟨astani⟩.",
   "tokens": [
     {
       "surface": "ויארכו",
-      "gloss": "Ja olid pikad"
+      "gloss": "olid pikad"
     },
     {
       "surface": "הבדים",
-      "gloss": "⟨kangid⟩"
+      "gloss": "kandsalgad"
     },
     {
       "surface": "ויראו",
-      "gloss": "ja paistsid"
+      "gloss": "ja olid näha"
     },
     {
       "surface": "ראשי",
-      "gloss": "otsad"
+      "gloss": "pead"
     },
     {
       "surface": "הבדים",
-      "gloss": "kangide"
+      "gloss": "salkadest"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "-st"
     },
     {
       "surface": "הקדש",
-      "gloss": "pühast"
+      "gloss": "pühadusest"
     },
     {
       "surface": "על",
-      "gloss": ""
-    },
-    {
-      "surface": "פני",
       "gloss": "ees"
     },
     {
+      "surface": "פני",
+      "gloss": "näo"
+    },
+    {
       "surface": "הדביר",
-      "gloss": "debiri"
+      "gloss": "deviiri"
     },
     {
       "surface": "ולא",
-      "gloss": "ja ei"
+      "gloss": "agada mitte"
     },
     {
       "surface": "יראו",
-      "gloss": "paistnud"
+      "gloss": "nähtud"
     },
     {
       "surface": "החוצה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "ja need ⟨on⟩"
+      "gloss": "ja nad on"
     },
     {
       "surface": "שם",
@@ -103,9 +77,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "selle"
+      "gloss": "tänapäevani"
     }
   ],
-  "timestamp": "2026-10-21T01:15:33.743474309Z",
+  "timestamp": "2026-10-21T05:51:49.637268275Z",
   "model": "glm-5.3"
 }

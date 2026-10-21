@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בקרי",
-      "rationale": "'kangekaelselt\/vastuhäda' — haruldane sõna, tõlkijad jagunevad: 'astusin nende vastu' (KJV) vs 'kangekaelselt' (Geneva)."
-    },
-    {
-      "kind": "crux",
-      "subject": "ירצו את עונם",
-      "rationale": "otse: 'on rahul oma süüga \/ kannab oma süü (võlga) ära' — רצה tähendab ka võla tasumist."
-    },
-    {
-      "kind": "substitution",
-      "subject": "roostmata süda",
-      "rationale": "ערל on eesnaha sõna — 'roostmata' jätab pildi, mida 'ummistunud' kaotaks."
-    }
-  ],
-  "translation": "Ka mina astun nendele vastu kangekaelselt ja too nad nende vaenlaste maale; või siis paindub nende roostmata süda alandlikuks ja siis nad kannavad ära oma süü.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "62160dc84f4ede1a8f56087e4b0ba757293bffea11a318710f943bf0ebdd9854",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/26\/41-44.1792539661404.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka mina lähen nendega vastasseisus ja toon nad nende vaenlaste maale; või siis paindub nende nüristamata süda, ja siis nad leevendust leiavad oma süüle ⟨את⟩",
   "tokens": [
     {
       "surface": "אף",
@@ -43,24 +17,24 @@
     },
     {
       "surface": "אלך",
-      "gloss": "astun"
+      "gloss": "lähen"
     },
     {
       "surface": "עמם",
-      "gloss": "nendele vastu"
+      "gloss": "nendega"
     },
     {
       "surface": "בקרי",
-      "gloss": "kangekaelselt"
+      "gloss": "vastasseisus"
     },
     {
       "surface": "והבאתי",
-      "gloss": "ja too"
+      "gloss": "ja toon"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nad"
+      "marks": "neid"
     },
     {
       "surface": "בארץ",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "יכנע",
-      "gloss": "paindub alandlikuks"
+      "gloss": "paindub"
     },
     {
       "surface": "לבבם",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "הערל",
-      "gloss": "roostmata"
+      "gloss": "nüristamata"
     },
     {
       "surface": "ואז",
@@ -96,18 +70,18 @@
     },
     {
       "surface": "ירצו",
-      "gloss": "kannavad ära"
+      "gloss": "leevendust leiavad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma süü"
+      "marks": "oma süüle"
     },
     {
       "surface": "עונם",
       "gloss": "oma süü"
     }
   ],
-  "timestamp": "2026-10-20T23:41:01.405363956Z",
+  "timestamp": "2026-10-21T06:29:59.232930304Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jeehu kõne rahvale",
-      "rationale": "Jeehu pöördub otse Jisreeli rahva poole, et õigustada toimunut."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eesliit üheneb eestisse 'ütles kogu rahvale'; eraldi sõna ei vaja."
-    }
-  ],
-  "translation": "Ja hommikul läks ta välja ja seisis ning ütles kogu rahvale: Teie olete õiged; vaata, mina tegin vandenõu oma isanda vastu ja tapsin ta, aga kes lõi ⟨את⟩ kõik need?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b180fdfdd8d108379f4744b103dbfee88ea5cb7433427e93e4420117d032d337",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/10\/9-12.1792546159630.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja hommikul läks ta välja ja seisis ning ütles kogu rahvale: Tsedeki ⟨on⟩ teie. Vaata, mina sõlmisin vandenõu oma isanda vastu ja tapsin ta, aga kes lõi ⟨את⟩ kõik need?",
   "tokens": [
     {
       "surface": "ויהי",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "läks ta välja"
+      "gloss": "läks välja"
     },
     {
       "surface": "ויעמד",
-      "gloss": "ja seisis"
+      "gloss": "seisis"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "ütles"
     },
     {
       "surface": "אל",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "צדקים",
-      "gloss": "õiged"
+      "gloss": "tsedeki"
     },
     {
       "surface": "אתם",
-      "gloss": "teie olete"
+      "gloss": "teie"
     },
     {
       "surface": "הנה",
-      "gloss": "vaata"
+      "gloss": "Vaata"
     },
     {
       "surface": "אני",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "קשרתי",
-      "gloss": "tegin vandenõu"
+      "gloss": "sõlmisin vandenõu"
     },
     {
       "surface": "על",
@@ -114,6 +93,6 @@
       "gloss": "need"
     }
   ],
-  "timestamp": "2026-10-21T01:29:19.631790691Z",
+  "timestamp": "2026-10-21T05:56:41.944964762Z",
   "model": "glm-5.3"
 }

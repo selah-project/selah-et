@@ -5,53 +5,27 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ידעתיו",
-      "rationale": "'mina teda tunnen' vs 'mina olen ta ära valinud' (BSB) — ידע võib tähendada valimist, kuid sõna kuju on 'tundma'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "tsedekat",
-      "rationale": "צדקה ei ole ainult 'õigus' — üks juur tsedek, hoitakse kõlana."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר (kolmas sõna)",
-      "rationale": "Teine אשר pärast למען on liiteseos, eesti keeles jääb tõlke pinnal lahutamata."
-    }
-  ],
-  "translation": "Sest mina teda tunnen, selleks et ta käseks ⟨את⟩ oma poegi ja ⟨את⟩ oma maja pärast enda järel, ja nad hoiaksid Jahve teed, teha tsedekat ja kohust, et Jahve tooks Avrahami peale ⟨את⟩ selle, mida ta tema kohta rääkinud on.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "30fc63de129fd5a53448b3993e9ed6eafa2881d3c70312d96c097918b8545aac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/18\/17-20.1792537587961.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest ma tundsin ⟨ta⟩ teda — selleks, et ta käseb ⟨את⟩ oma poegi ja ⟨את⟩ oma maja pärast endat, ja nad hoiavad Jahve teed, teha tsedekat ja õigust, et Jahve toob Avrahamile ⟨tema⟩ peale selle, ⟨את⟩ mida ta temast rääkis.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sest"
+      "gloss": "sest"
     },
     {
       "surface": "ידעתיו",
-      "gloss": "mina teda tunnen"
+      "gloss": "ma tundsin ⟨ta⟩ teda"
     },
     {
       "surface": "למען",
-      "gloss": "selleks et"
+      "gloss": "selleks, et"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "יצוה",
-      "gloss": "ta käseks"
+      "gloss": "ta käseb"
     },
     {
       "surface": "את",
@@ -64,20 +38,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "oma maja"
     },
     {
       "surface": "ביתו",
-      "gloss": "ja oma maja"
+      "gloss": "oma maja"
     },
     {
       "surface": "אחריו",
-      "gloss": "pärast enda järel"
+      "gloss": "pärast endat"
     },
     {
       "surface": "ושמרו",
-      "gloss": "ja nad hoiaksid"
+      "gloss": "ja nad hoiavad"
     },
     {
       "surface": "דרך",
@@ -97,15 +71,15 @@
     },
     {
       "surface": "ומשפט",
-      "gloss": "ja kohust"
+      "gloss": "ja õigust"
     },
     {
       "surface": "למען",
-      "gloss": "et"
+      "gloss": "selleks, et"
     },
     {
       "surface": "הביא",
-      "gloss": "tooks"
+      "gloss": "toob"
     },
     {
       "surface": "יהוה",
@@ -117,26 +91,26 @@
     },
     {
       "surface": "אברהם",
-      "gloss": "Avrahami"
+      "gloss": "Avrahamile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle, mida ta rääkinud on"
+      "marks": "mida ta temast rääkis"
     },
     {
       "surface": "אשר",
-      "gloss": "selle, mida"
+      "gloss": "mida"
     },
     {
       "surface": "דבר",
-      "gloss": "ta rääkinud on"
+      "gloss": "rääkis"
     },
     {
       "surface": "עליו",
-      "gloss": "tema kohta"
+      "gloss": "temast"
     }
   ],
-  "timestamp": "2026-10-20T23:06:27.962680210Z",
+  "timestamp": "2026-10-21T06:14:18.153064314Z",
   "model": "glm-5.3"
 }

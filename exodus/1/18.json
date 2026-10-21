@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "ämmaemandid",
-      "rationale": "Farao pöördub otse ämmaemandite poole küsimusega"
-    }
-  ],
-  "translation": "Ja Mitsraimi kuningas kutsus ämmaemandid ja ütles neile: miks te tegite selle asja ja lasksite poistel elada?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/1\/17-20.1792538242289.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Mitsraimi kuningas kutsus ämmaemandad ja ütles neile: miks te tegite selle asja ja jätsite ⟨את⟩ poisid ellu?",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "kutsus"
+      "gloss": "ja kutsus"
     },
     {
       "surface": "מלך",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "למילדת",
-      "gloss": "ämmaemandid"
+      "gloss": "ämmaemandad"
     },
     {
       "surface": "ויאמר",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "asja"
+      "gloss": "selle asja"
     },
     {
       "surface": "הזה",
@@ -65,7 +49,7 @@
     },
     {
       "surface": "ותחיין",
-      "gloss": "lasksite elada"
+      "gloss": "jätsite ellu"
     },
     {
       "surface": "את",
@@ -77,6 +61,6 @@
       "gloss": "poisid"
     }
   ],
-  "timestamp": "2026-10-20T23:17:22.290185323Z",
+  "timestamp": "2026-10-21T06:04:57.214687538Z",
   "model": "glm-5.3"
 }

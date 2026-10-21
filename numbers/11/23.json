@@ -5,38 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea puudub koopula küsis küsimuses"
-    },
-    {
-      "kind": "idiom",
-      "subject": "Jahve käsi lühikeseks jäänud",
-      "rationale": "Idiom jõu puudumise kohta; sõna-sõnalt jäetud"
-    },
-    {
-      "kind": "crux",
-      "subject": "היקרך",
-      "rationale": "Sõna-sõnalt 'kas see leiab sind' — kreeka tõlgitakse 'saabub sulle'; hoop 'tabab sind' vs 'saab täide sinu jaoks'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve ütleb Mošele",
-      "rationale": "Otsene pöördumine Moše poole"
-    }
-  ],
-  "translation": "Ja Jahve ütles Mošele: kas Jahve käsi ⟨on⟩ lühikeseks jäänud? Nüüd sa näed, kas mu sõna saabub sulle või mitte.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/11\/21-24.1792539956256.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Mošele: kas Jahve käsi on lühikeseks jäänud? Nüüd sa näed, kas minu sõna sind tabab või mitte.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Mošele"
     },
     {
       "surface": "משה",
-      "gloss": "Mošele"
+      "gloss": "⟨Mošele⟩"
     },
     {
       "surface": "היד",
@@ -76,11 +45,11 @@
     },
     {
       "surface": "היקרך",
-      "gloss": "kas saabub"
+      "gloss": "sind tabab"
     },
     {
       "surface": "דברי",
-      "gloss": "mu sõna"
+      "gloss": "minu sõna"
     },
     {
       "surface": "אם",
@@ -91,6 +60,6 @@
       "gloss": "või mitte"
     }
   ],
-  "timestamp": "2026-10-20T23:45:56.257838828Z",
+  "timestamp": "2026-10-21T06:31:55.965856097Z",
   "model": "glm-5.3"
 }

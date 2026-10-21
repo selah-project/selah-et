@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "יש nõuab eesti keeles kopeeli; heebreas puudub."
-    },
-    {
-      "kind": "substitution",
-      "subject": "יסגרך",
-      "rationale": "põhitähendus 'sulle kinni panema \/ sulgema'; 'kätte andma' on kontekstipõhine tõlge."
-    }
-  ],
-  "translation": "Täna annab Jahve sind minu kätte, ja ma löön sind maha ning eemaldan ⟨את⟩ sinu pea sinult, ja ma annan tänasel päeval pliistlaste leeri laiba taeva lindudele ja maa elajasid; ja kogu maa teab, et Jisraeli jaoks ⟨on⟩ Elohim.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9e521234a842e7f8e35bad6847d26d15556d57f26aa1522c46e88c8b91a6303e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/17\/45-48.1792544069563.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Täna annab Jahve su kätte minu kätte, ja ma löön sind ja võtan su pealt ⟨את⟩ su pea, ja ma annan tänaRDD laibad Plisti sõjaväe lindudele taeva all ja metsloomadele maal, et kogu maa teaks, et Jisraelis ⟨on⟩ Elohim.",
   "tokens": [
     {
       "surface": "היום",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "see"
     },
     {
       "surface": "יסגרך",
-      "gloss": "annab sind"
+      "gloss": "sulgeb su"
     },
     {
       "surface": "יהוה",
@@ -50,24 +29,24 @@
     },
     {
       "surface": "והכיתך",
-      "gloss": "ja löön sind maha"
+      "gloss": "ja ma löön sind"
     },
     {
       "surface": "והסרתי",
-      "gloss": "ja eemaldan"
+      "gloss": "ja ma eemaldan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu pea"
+      "marks": "su pea"
     },
     {
       "surface": "ראשך",
-      "gloss": "sinu pea"
+      "gloss": "su pea"
     },
     {
       "surface": "מעליך",
-      "gloss": "sinult"
+      "gloss": "su pealt"
     },
     {
       "surface": "ונתתי",
@@ -79,19 +58,19 @@
     },
     {
       "surface": "מחנה",
-      "gloss": "leeri"
+      "gloss": "sõjaväe"
     },
     {
       "surface": "פלשתים",
-      "gloss": "pliistlaste"
+      "gloss": "Plisti"
     },
     {
       "surface": "היום",
-      "gloss": "tänasel"
+      "gloss": "täna"
     },
     {
       "surface": "הזה",
-      "gloss": "päeval"
+      "gloss": "see"
     },
     {
       "surface": "לעוף",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "ולחית",
-      "gloss": "ja elajasid"
+      "gloss": "ja metsloomadele"
     },
     {
       "surface": "הארץ",
@@ -111,7 +90,7 @@
     },
     {
       "surface": "וידעו",
-      "gloss": "ja teab"
+      "gloss": "ja teaksid"
     },
     {
       "surface": "כל",
@@ -135,9 +114,9 @@
     },
     {
       "surface": "לישראל",
-      "gloss": "Jisraeli jaoks"
+      "gloss": "Jisraelis"
     }
   ],
-  "timestamp": "2026-10-21T00:54:29.566344656Z",
+  "timestamp": "2026-10-21T05:52:37.953162393Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "tema (looma)",
-      "rationale": "Eesti peab rakenduse kokkuleppelise kaudtäienduse määrama; heebrea kasutab אתו"
-    }
-  ],
-  "translation": "Ja kui su vend ei ole ⟨sulle⟩ lähedal ja sa ei teda tunne, siis vii ta oma koja sisse, ja ta olgu sinu juures, kuni su vend teda otsib, ja sa annad ta temale tagasi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/22\/1-4.1792541038359.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui su vend ei ole ⟨sulle⟩ lähedal ja sa ei teda tunne, siis võta ta oma koja sisse, ja ta olgu sinu juures, kuni su vend teda otsib; siis anna ta ⟨את⟩ talle tagasi.",
   "tokens": [
     {
       "surface": "ואם",
@@ -49,11 +33,11 @@
     },
     {
       "surface": "ידעתו",
-      "gloss": "sa ei teda tunne"
+      "gloss": "tunne teda"
     },
     {
       "surface": "ואספתו",
-      "gloss": "siis vii ta"
+      "gloss": "võta ta kokku"
     },
     {
       "surface": "אל",
@@ -61,15 +45,15 @@
     },
     {
       "surface": "תוך",
-      "gloss": "koida sisse"
+      "gloss": " keskpaika"
     },
     {
       "surface": "ביתך",
-      "gloss": "oma koja"
+      "gloss": "su koda"
     },
     {
       "surface": "והיה",
-      "gloss": "ja ta olgu"
+      "gloss": "ja olgu"
     },
     {
       "surface": "עמך",
@@ -89,18 +73,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
-      "marks": "tema (looma)"
+      "gloss": "⟨את⟩",
+      "marks": "tema (kaotatud loom)"
     },
     {
       "surface": "והשבתו",
-      "gloss": "ja sa annad ta tagasi"
+      "gloss": "anna tagasi"
     },
     {
       "surface": "לו",
-      "gloss": "temale"
+      "gloss": "talle"
     }
   ],
-  "timestamp": "2026-10-21T00:03:58.360335126Z",
+  "timestamp": "2026-10-21T06:02:49.765404868Z",
   "model": "glm-5.3"
 }

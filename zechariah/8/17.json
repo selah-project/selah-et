@@ -5,41 +5,20 @@
   "book": "zechariah",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רעת\/רעהו",
-      "rationale": "Sama juur רע nii kurjas kui kaaslasewahekates: 'kaaslase kurjus', eesti keeles kaos."
-    },
-    {
-      "kind": "addition",
-      "subject": "אשר",
-      "rationale": "Suhteline sidesõna jääb eesti käänete tõttu tühjaks."
-    }
-  ],
-  "translation": "Ja igaüks ärgu kavatsegu ⟨את⟩ oma kaaslaseta kurja oma südames, ja valet vannumist ärgu armastagu, sest kõiki neid ma vihkan, ütleb Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6008d542dbb234553308463f5ce6c412b014a422f93681c93fed88a8135da93c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/8\/17-20.1792552074665.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ärgu ükski inimene mõelgu ⟨את⟩ oma kaaslase kurjust oma südames, ja väärast vandust ärge armastage, sest ⟨את⟩ kõiki neid ma vihkan, ütleb Jahve.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ja igaüks"
+      "gloss": "Ja ükski inimene"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma kaaslase kurja"
+      "marks": "oma kaaslase kurjust"
     },
     {
       "surface": "רעת",
-      "gloss": "kurja"
+      "gloss": "kurjus"
     },
     {
       "surface": "רעהו",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ärgu"
+      "gloss": "ärge"
     },
     {
       "surface": "תחשבו",
-      "gloss": "kavatsugu"
+      "gloss": "mõelgu"
     },
     {
       "surface": "בלבבכם",
@@ -59,19 +38,19 @@
     },
     {
       "surface": "ושבעת",
-      "gloss": "ja vannumine"
+      "gloss": "ja vandus"
     },
     {
       "surface": "שקר",
-      "gloss": "vale"
+      "gloss": "väärast"
     },
     {
       "surface": "אל",
-      "gloss": "ärgu"
+      "gloss": "ärge"
     },
     {
       "surface": "תאהבו",
-      "gloss": "armastagu"
+      "gloss": "armastage"
     },
     {
       "surface": "כי",
@@ -84,15 +63,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "kõiki"
+      "gloss": "kõik"
     },
     {
       "surface": "אלה",
-      "gloss": "neid"
+      "gloss": "need"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "mida"
     },
     {
       "surface": "שנאתי",
@@ -107,6 +86,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T03:07:54.666024622Z",
+  "timestamp": "2026-10-21T06:39:03.142261060Z",
   "model": "glm-5.3"
 }

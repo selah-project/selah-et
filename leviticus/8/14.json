@@ -5,36 +5,20 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "patu-noar",
-      "rationale": "פר החטאת on 'patutõve noar' — חטאת tähendab nii pattu kui patutõve ohvrit"
-    }
-  ],
-  "translation": "Ja ta viis ligi ⟨את⟩ patu-noaskit, ja Aharon ja tema pojad asetasid oma käed noarse peale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/8\/13-16.1792539263995.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tõi ligi ⟨את⟩ patuveise, ja Aharon ja ta pojad pöörasid ⟨את⟩ oma käed patuveise pea peale.",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "viis ligi"
+      "gloss": "ja ta tõi ligi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "patu-noar"
+      "marks": "patuveise"
     },
     {
       "surface": "פר",
-      "gloss": "noar"
+      "gloss": "veise"
     },
     {
       "surface": "החטאת",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "ויסמך",
-      "gloss": "asetasid"
+      "gloss": "ja pööras"
     },
     {
       "surface": "אהרן",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "ja tema pojad"
+      "gloss": "ja ta pojad"
     },
     {
       "surface": "את",
@@ -71,13 +55,13 @@
     },
     {
       "surface": "פר",
-      "gloss": "noarse"
+      "gloss": "veise"
     },
     {
       "surface": "החטאת",
-      "gloss": "patu-noarse"
+      "gloss": "patu-"
     }
   ],
-  "timestamp": "2026-10-20T23:34:23.996551037Z",
+  "timestamp": "2026-10-21T06:29:31.766722900Z",
   "model": "glm-5.3"
 }

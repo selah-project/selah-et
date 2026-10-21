@@ -5,23 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ועל אשר הכה אתו",
-      "rationale": "Kes lõi keda? Lugejad lähevad lahku: Baša lõi Jaarobami koda (nii ASV\/BSB), või Jehoova lõi Bašat (nii KJV\/JPS 'sellepärast et ta (Jumal) teda lõi')."
-    }
-  ],
-  "translation": "Ja käija Jaahoo, Hanani poeg, prohveti läbi tuli Jehoova sõna Bašale ja tema majale kogu kurja pärast, mida ta tegi Jehoova silmis, viies teda pahandama oma käte tööga, saamaks nagu Jaarobami koda, ja selle pärast, et ta teda lõi (selle pärast, et ta tema lõi) — tema ja ta(??).",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "358ddb6159f4f329c581e58cc5d04a4ad391262b9aaa95365cdda115335db540",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/16\/5-8.1792545589855.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ka Jehuu, Hanani poja, prohveti käe läbi tuli Jahve sõna Bašale ja tema kojale, ja kogu kurja kohta, mida ta tegi Jahve silmis, et teda vihastada oma käte teoga, saamaks nagu Jerobeami koda, ja selle kohta, et ta lõi ⟨את⟩ teda.",
   "tokens": [
     {
       "surface": "וגם",
@@ -29,15 +13,15 @@
     },
     {
       "surface": "ביד",
-      "gloss": "läbi"
+      "gloss": "käe läbi"
     },
     {
       "surface": "יהוא",
-      "gloss": "Jaahoo"
+      "gloss": "Jehuu"
     },
     {
       "surface": "בן",
-      "gloss": "poeg"
+      "gloss": "poja"
     },
     {
       "surface": "חנני",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "prohvet"
+      "gloss": "prohveti"
     },
     {
       "surface": "דבר",
@@ -53,7 +37,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Jehoova"
+      "gloss": "Jahve"
     },
     {
       "surface": "היה",
@@ -61,7 +45,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "kellelegi"
+      "gloss": "Bašale"
     },
     {
       "surface": "בעשא",
@@ -69,15 +53,15 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ja kellegile"
+      "gloss": "ja kojale"
     },
     {
       "surface": "ביתו",
-      "gloss": "tema kojas"
+      "gloss": "tema koda"
     },
     {
       "surface": "ועל",
-      "gloss": "ja üle"
+      "gloss": "ja kohta"
     },
     {
       "surface": "כל",
@@ -97,19 +81,19 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "silmis"
+      "gloss": "silis"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jehoova"
+      "gloss": "Jahve"
     },
     {
       "surface": "להכעיסו",
-      "gloss": "teda pahandama"
+      "gloss": "et teda vihastada"
     },
     {
       "surface": "במעשה",
-      "gloss": "tööga"
+      "gloss": "teoga"
     },
     {
       "surface": "ידיו",
@@ -125,15 +109,15 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jaarobami"
+      "gloss": "Jerobeami"
     },
     {
       "surface": "ועל",
-      "gloss": "ja selle pärast"
+      "gloss": "ja selle kohta, et"
     },
     {
       "surface": "אשר",
-      "gloss": "et"
+      "gloss": "—"
     },
     {
       "surface": "הכה",
@@ -142,9 +126,9 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "teda"
+      "marks": "teda (Baša või Jerobeami koda — klausel)"
     }
   ],
-  "timestamp": "2026-10-21T01:19:49.858976952Z",
+  "timestamp": "2026-10-21T05:51:14.466911745Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "את בניכם",
-      "rationale": "Esimene את on siin osutussõna lause alguses ('just teie lapsed pole need'), eesti keeles renditud kaudselt."
-    },
-    {
-      "kind": "substitution",
-      "subject": "זרוע",
-      "rationale": "זרוע on 'käsivars', mitte 'käsi'; eesti kasutab 'käsi' sõnaõige pikkuse vältimiseks."
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "Silmapilkne pöördumine mitmuses: teadke täna, et teie — mitte teie lapsed — nägite."
-    }
-  ],
-  "translation": "Ja teie teate täna, et ⟨את⟩ ⟨see pole⟩ teie lapsed, kes pole tundnud ega näinud Jahve, oma Elohimi õpetust, ⟨את⟩ tema suurust, ⟨את⟩ tema tugevat kätt ja tema väljasirutatud kätt.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/11\/1-4.1792540818365.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja teate täna, et mitte ⟨את⟩ teie lapsed ⟨on⟩ see, kes pole teadnud ega näinud ⟨את⟩ Jahve, teie Elohimi karistust, ⟨את⟩ tema suurust, ⟨את⟩ tema tugevat kätt ja tema väljasirutatud kätt.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "Ja teie teate"
+      "gloss": "Ja teate"
     },
     {
       "surface": "היום",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "pole"
+      "gloss": "mitte"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ ⟨see pole⟩",
+      "gloss": "⟨את⟩",
       "marks": "teie lapsed"
     },
     {
@@ -68,7 +42,7 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "tundnud"
+      "gloss": "teadnud"
     },
     {
       "surface": "ואשר",
@@ -85,11 +59,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "õpetust"
+      "marks": "karistust"
     },
     {
       "surface": "מוסר",
-      "gloss": "õpetust"
+      "gloss": "karistust"
     },
     {
       "surface": "יהוה",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "oma Elohimi"
+      "gloss": "teie Elohim"
     },
     {
       "surface": "את",
@@ -111,7 +85,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema kätt"
+      "marks": "tema tugevat kätt"
     },
     {
       "surface": "ידו",
@@ -130,6 +104,6 @@
       "gloss": "väljasirutatud"
     }
   ],
-  "timestamp": "2026-10-21T00:00:18.366533646Z",
+  "timestamp": "2026-10-21T06:02:41.332025113Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עם לבבך",
-      "rationale": "'koos sinu südaga' = 'südames soov'"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve Davidile (Shelomo edasi rääkib)",
-      "rationale": "Jumala kõne viidataud adressaadile, korduva"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "היה עם לבבך ×2",
-      "rationale": "sama fraas kordub raamis ümber הטיבות — kimbu välja jäetakse sõnasõnaliselt, kuid kordus jääb"
-    }
-  ],
-  "translation": "Ja Jahve ütles mu isa Davidile: seepärast, et sinu südames ⟨oli⟩ soov ehitada maja mu nimele, sa tegid hästi, et see sinu südames ⟨oli⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6a24b8c18f5212b601a082fc279d04c5e309091375145823c8d6f21b76a81f16",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/6\/5-8.1792557688302.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Davidile, mu isale: Et sinu südames ⟨oli⟩ tahta ehitada hoone minu nimele, sina tegid hästi, sest see oli sinu südames.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,27 +17,27 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kellele"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidile"
+      "gloss": "David"
     },
     {
       "surface": "אבי",
-      "gloss": "mu isa"
+      "gloss": "mu isale"
     },
     {
       "surface": "יען",
-      "gloss": "seepärast, et"
+      "gloss": "et"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "mis"
     },
     {
       "surface": "היה",
-      "gloss": "⟨oli⟩"
+      "gloss": "oli"
     },
     {
       "surface": "עם",
@@ -79,23 +53,23 @@
     },
     {
       "surface": "בית",
-      "gloss": "maja"
+      "gloss": "hoone"
     },
     {
       "surface": "לשמי",
-      "gloss": "mu nimele"
+      "gloss": "minu nimele"
     },
     {
       "surface": "הטיבות",
-      "gloss": "sa tegid hästi"
+      "gloss": "tegid hästi"
     },
     {
       "surface": "כי",
-      "gloss": "et"
+      "gloss": "sest"
     },
     {
       "surface": "היה",
-      "gloss": "⟨oli⟩"
+      "gloss": "oli"
     },
     {
       "surface": "עם",
@@ -103,9 +77,9 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "sinu süda"
+      "gloss": "sinu südames"
     }
   ],
-  "timestamp": "2026-10-21T04:41:28.303902516Z",
+  "timestamp": "2026-10-21T05:56:10.344725950Z",
   "model": "glm-5.3"
 }

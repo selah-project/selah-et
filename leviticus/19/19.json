@@ -5,50 +5,20 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "שעטנז",
-      "rationale": "ša'atnez — võõra päritoluga sõna, esineb Tanahhis ainult siin ja 5Ms 22:11; jäetud kõla järgi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kahe võõra liigiga",
-      "rationale": "כלאים tähendab otseselt 'kaks kinnipandut, kaks erinevat' — topelt כלא juurest, 'kaks peetud koos'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolm eraldust",
-      "rationale": "Salm loetleb kolm paari: loom, põld, riietus — piiride mõõtmine loomise kordade vahel."
-    }
-  ],
-  "translation": "⟨את⟩ minu määrusi peaku te: oma kariloomi ära lase paarida kahe võõra liigiga; oma põldu ära külva kahe liigiga; ja kahest liigist riiet — ša'atnez — ei tohi tulla sinu peale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/19\/17-20.1792539510747.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ mu seaduseid te peate kinni pidama. Oma kariloomi ära lase paaritada kahe liiki vahel, oma põldu ära külvata kahe liiki seemnega, ja riiet kahe liiki kiududest, šaatnes, ära tulgu sinu peale.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minu määrusi"
+      "marks": "mu seaduseid"
     },
     {
       "surface": "חקתי",
-      "gloss": "minu määrusi"
-    },
-    {
-      "surface": "תשמoru",
-      "gloss": "peaksid"
+      "gloss": "mu seaduseid"
     },
     {
       "surface": "תשמרו",
-      "gloss": "peaku te"
+      "gloss": "te peate kinni pidama"
     },
     {
       "surface": "בהמתך",
@@ -60,11 +30,11 @@
     },
     {
       "surface": "תרביע",
-      "gloss": "lase paarida"
+      "gloss": "lase paaritada"
     },
     {
       "surface": "כלאים",
-      "gloss": "kahe võõra liigiga"
+      "gloss": "kahe liiki vahel"
     },
     {
       "surface": "שדך",
@@ -76,11 +46,11 @@
     },
     {
       "surface": "תזרע",
-      "gloss": "külva"
+      "gloss": "külvata"
     },
     {
       "surface": "כלאים",
-      "gloss": "kahe liigiga"
+      "gloss": "kahe liiki seemnega"
     },
     {
       "surface": "ובגד",
@@ -88,25 +58,25 @@
     },
     {
       "surface": "כלאים",
-      "gloss": "kahest liigist"
+      "gloss": "kahe liiki kiududest"
     },
     {
       "surface": "שעטנז",
-      "gloss": "ša'atnez"
+      "gloss": "šaatnes"
     },
     {
       "surface": "לא",
-      "gloss": "ei tohi"
+      "gloss": "ära"
     },
     {
       "surface": "יעלה",
-      "gloss": "tulla"
+      "gloss": "tulgu"
     },
     {
       "surface": "עליך",
       "gloss": "sinu peale"
     }
   ],
-  "timestamp": "2026-10-20T23:38:30.749202825Z",
+  "timestamp": "2026-10-21T06:29:03.924441823Z",
   "model": "glm-5.3"
 }

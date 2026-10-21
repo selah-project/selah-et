@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "komme",
-      "rationale": "משפט on otseselt 'kohus\/õigusmöiste', siin tavaõiguslik 'konkreetne kohustus' — 'komme' tabab jäädes truuks D3 tabeli lubadusele"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolme hambaga",
-      "rationale": "kahvli hammaste arv täpselt loetud: שלש השנים — 'kolm hammast'"
-    }
-  ],
-  "translation": "Ja preestrite komme rahvaga ⟨oli⟩ see: kui iga mees tappis ohvri, tuli preestri nooruk, kui liha keedis, ja kolmehambaline kahvel ⟨oli⟩ tema käes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/2\/13-16.1792543773152.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja preestrite komme ⟨את⟩ rahvaga ⟨oli⟩ see: kui iga mees sai tapetud ohvri, tuli preestri nooruk, kui liha ⟨oligi⟩ keetmise ajal, ja kolmehambaline haak käes.",
   "tokens": [
     {
       "surface": "ומשפט",
-      "gloss": "ja komme"
+      "gloss": "Ja komme"
     },
     {
       "surface": "הכהנים",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahvas"
+      "gloss": "rahvaga"
     },
     {
       "surface": "כל",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "זבח",
-      "gloss": "tappis ohvri"
+      "gloss": "sai tapetud"
     },
     {
       "surface": "זבח",
-      "gloss": "ohver"
+      "gloss": "ohvri"
     },
     {
       "surface": "ובא",
-      "gloss": "ja tuli"
+      "gloss": "tuli"
     },
     {
       "surface": "נער",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "כבשל",
-      "gloss": "kui keedis"
+      "gloss": "keetmise ajal"
     },
     {
       "surface": "הבשר",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "והמזלג",
-      "gloss": "ja kahvel"
+      "gloss": "ja haak"
     },
     {
       "surface": "שלש",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "בידו",
-      "gloss": "tema käes"
+      "gloss": "käes"
     }
   ],
-  "timestamp": "2026-10-21T00:49:33.153669680Z",
+  "timestamp": "2026-10-21T05:53:16.232290459Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "altARID\/altARite",
-      "rationale": "trükivigade vältimiseks loe: altarid, altarite — מזבחות 'altARid'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "valvurid",
-      "rationale": "פקדות on 'ülevaatused\/ametikohustused',loodud valvamise tähenduses"
-    }
-  ],
-  "translation": "Ja kogu maa rahvas läks Baali templisse ja lammutas selle; ⟨את⟩ tema altARID ja ⟨את⟩ tema kujud purustasid nad põhjalikult, ja Mattani, Baali preestri, tapsid nad altARite ees. Ja preeter pani valvurid Jahve koja peale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/17-20.1792546172679.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kogu maa rahvas tuli Baali templisse ja lammutas ⟨את⟩ selle altari ning ⟨את⟩ selle kujud, mis nad lõhkusid põhjalikult, ja ⟨את⟩ Mattani, Baali preestri, tapsid nad altarite ees; ja preester seadis valvurid Jahve templi peale.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "ja läks"
+      "gloss": "ja tuli"
     },
     {
       "surface": "כל",
@@ -54,29 +33,29 @@
     },
     {
       "surface": "ויתצהו",
-      "gloss": "ja lammutas selle"
+      "gloss": "ja lammutas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema altarid"
+      "marks": "selle altari"
     },
     {
       "surface": "מזבחתו",
-      "gloss": "tema altarid"
+      "gloss": "selle altar"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "tema kujud"
+      "marks": "selle kujud"
     },
     {
       "surface": "צלמיו",
-      "gloss": "tema kujud"
+      "gloss": "selle kujud"
     },
     {
       "surface": "שברו",
-      "gloss": "purustasid"
+      "gloss": "lõhkusid"
     },
     {
       "surface": "היטב",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "הרגו",
-      "gloss": "tapsid nad"
+      "gloss": "tapsid"
     },
     {
       "surface": "לפני",
@@ -113,7 +92,7 @@
     },
     {
       "surface": "וישם",
-      "gloss": "ja pani"
+      "gloss": "ja seadis"
     },
     {
       "surface": "הכהן",
@@ -129,13 +108,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "koja"
+      "gloss": "templi"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T01:29:32.681556605Z",
+  "timestamp": "2026-10-21T05:56:50.320840805Z",
   "model": "glm-5.3"
 }

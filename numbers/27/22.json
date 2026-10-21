@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Eesti imperfekt nõuab abitegusõna, heebrea צוה on tegusõnaävelduse väline vorm."
-    }
-  ],
-  "translation": "Ja Moše tegi nii, nagu Jahve oli talle ⟨את⟩ käskinud, ja võttis Jehošua ning pani ta seisma Elazari preestri ja kogu koguduse ette.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b00ac22eff1690ee6d1b9b57002958b15c6cf37929006a231829eb6992574035",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/27\/21-23.1792540330131.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše tegi nii, nagu Jahve teda käskis, ja võttis ⟨את⟩ Jehošua ning pani ⟨tema⟩ seisma El‘azari, preestri, ette ja kogu koguduse ette.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "ja tegi"
+      "gloss": "Ja Moše tegi"
     },
     {
       "surface": "משה",
@@ -46,7 +30,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "talle"
+      "marks": "teda (Mošed)"
     },
     {
       "surface": "ויקח",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "ויעמדהו",
-      "gloss": "ja pani ta seisma"
+      "gloss": "ja pani ⟨tema⟩ seisma"
     },
     {
       "surface": "לפני",
@@ -71,15 +55,15 @@
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "El‘azari"
     },
     {
       "surface": "הכהן",
-      "gloss": "preester"
+      "gloss": "preestri"
     },
     {
       "surface": "ולפני",
-      "gloss": "ja ette"
+      "gloss": "ja ... ette"
     },
     {
       "surface": "כל",
@@ -87,9 +71,9 @@
     },
     {
       "surface": "העדה",
-      "gloss": "kogudus"
+      "gloss": "koguduse"
     }
   ],
-  "timestamp": "2026-10-20T23:52:10.132245361Z",
+  "timestamp": "2026-10-21T06:32:56.359615334Z",
   "model": "glm-5.3"
 }

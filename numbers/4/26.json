@@ -5,28 +5,12 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kandmise loend",
-      "rationale": "Salm loetleb üksikasjalikult Geršoni perekondade koormad — kõik esemed nimeliselt."
-    }
-  ],
-  "translation": "ja ⟨את⟩ õue eesriided ning ⟨את⟩ eesriie õue värava suul, mis on miškani ja altari juures ringi, ja ⟨את⟩ nende köied ning ⟨את⟩ kõik nende teenistuse riistad ja ⟨את⟩ kõik, mida nendega tehakse — ja nad teenigu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8c956c6740649aa4c93f3dee1c336c37a394416e15e3f06c590c2e3f9fe704bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/25-28.1792539776633.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja ⟨את⟩ õue eesriided ja ⟨את⟩ eesriide õue värava suu ees, mis on miškani ja altari juures ümberkaudu, ja ⟨את⟩ nende nöörid ja ⟨את⟩ kõik nende teenistuse riistad ja ⟨את⟩ kõik, mis nendega teha tuleb — ja nad teenivad.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "eesriided"
+      "gloss": "⟨את⟩",
+      "marks": "õue eesriided"
     },
     {
       "surface": "קלעי",
@@ -38,16 +22,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ning ⟨את⟩",
-      "marks": "eesriie"
+      "gloss": "⟨את⟩",
+      "marks": "eesriide"
     },
     {
-      "surface": "mסך",
-      "gloss": "eesriie"
+      "surface": "מסך",
+      "gloss": "eesriide"
     },
     {
       "surface": "פתח",
-      "gloss": "suul"
+      "gloss": "suu"
     },
     {
       "surface": "שער",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "על",
-      "gloss": "on"
+      "gloss": "juures"
     },
     {
       "surface": "המשכן",
@@ -71,7 +55,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ja"
+      "gloss": "ja juures"
     },
     {
       "surface": "המזבח",
@@ -79,21 +63,21 @@
     },
     {
       "surface": "סביב",
-      "gloss": "juures ringi"
+      "gloss": "ümberkaudu"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "köied"
+      "gloss": "⟨את⟩",
+      "marks": "nende nöörid"
     },
     {
       "surface": "מיתריהם",
-      "gloss": "nende köied"
+      "gloss": "nende nöörid"
     },
     {
       "surface": "ואת",
-      "gloss": "ning ⟨את⟩",
-      "marks": "kõik"
+      "gloss": "⟨את⟩",
+      "marks": "kõik nende teenistuse riistad"
     },
     {
       "surface": "כל",
@@ -109,8 +93,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "kõik"
+      "gloss": "⟨את⟩",
+      "marks": "kõik, mis nendega teha tuleb"
     },
     {
       "surface": "כל",
@@ -118,11 +102,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mis"
     },
     {
       "surface": "יעשה",
-      "gloss": "tehakse"
+      "gloss": "teha tuleb"
     },
     {
       "surface": "להם",
@@ -130,9 +114,9 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "ja nad teenigu"
+      "gloss": "ja nad teenivad"
     }
   ],
-  "timestamp": "2026-10-20T23:42:56.634392137Z",
+  "timestamp": "2026-10-21T06:35:55.770953085Z",
   "model": "glm-5.3"
 }

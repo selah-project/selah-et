@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "טמא \/ תקיא",
-      "rationale": "t-klahvri alliteratsioon 'ebapuhas\/oksendama' — טִמֵּאתֶם ja תָקִיא תִטְמָא kordub läbi salmide 25–28, eesti keeles osaliselt kadunud"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "otse hoiatus Jisraelile: maa oksendab ka nad välja, kui nad teevad samu tegusid"
-    }
-  ],
-  "translation": "et maa ei oksendaks ⟨את⟩ teid välja, kui teitate selle ebapuhtaks, nõnda nagu ta oksendas ⟨את⟩ välja rahva, mis enne teid ⟨oli⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/18\/25-28.1792539406841.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "et maa ei oksendaks ⟨את⟩ teid välja, kui te ⟨את⟩ teda rüvetate, nagu ta oksendas välja ⟨את⟩ rahva, kes ⟨oli⟩ teie ees.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "et mitte"
+      "gloss": "ja ei"
     },
     {
       "surface": "תקיא",
-      "gloss": "oksendaks"
+      "gloss": "oksendaks välja"
     },
     {
       "surface": "הארץ",
@@ -47,20 +26,20 @@
     },
     {
       "surface": "בטמאכם",
-      "gloss": "kui teitate ebapuhtaks"
+      "gloss": "kui te rüvetate"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ seda",
-      "marks": "seda (maad)"
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda (maad)"
     },
     {
       "surface": "כאשר",
-      "gloss": "nõnda nagu"
+      "gloss": "nagu"
     },
     {
       "surface": "קאה",
-      "gloss": "oksendas"
+      "gloss": "oksendas välja"
     },
     {
       "surface": "את",
@@ -73,13 +52,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "kes"
     },
     {
       "surface": "לפניכם",
-      "gloss": "enne teid"
+      "gloss": "teie ees"
     }
   ],
-  "timestamp": "2026-10-20T23:36:46.843235372Z",
+  "timestamp": "2026-10-21T06:29:21.040962574Z",
   "model": "glm-5.3"
 }

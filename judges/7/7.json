@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Gideonile",
-      "rationale": "Jahve kõneleb otseselt Gideonile, kõnes sees 'teid' kolmesajale."
-    },
-    {
-      "kind": "crux",
-      "subject": "בשלש מאות האיש",
-      "rationale": "instrumentaal 'kolmesaja mehega' vs 'nende kolmesaja mehe läbi' — tuum sama: päästmine toimub nende kaudu."
-    }
-  ],
-  "translation": "Ja ütles Jahve Gideonile: kolmesaja mehega, kes lakkusid, päästan minu ⟨את⟩ teid, ja annan ⟨את⟩ Midjani su kätte, ja kogu ülejäänud rahvas olgu igaüks läinud oma kohta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/7\/5-8.1792541932222.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Gid'onile: kolmesaja mehega, need-leegutajatega, päästan ⟨את⟩ teid, ja ma annan ⟨את⟩ Midjani sinu kätte; ja kogu rahvas läheb igaüks oma kohta.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ütles"
     },
     {
       "surface": "יהוה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "(Gid'onile)"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideonile"
+      "gloss": "Gid'onile"
     },
     {
       "surface": "בשלש",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "המלקקים",
-      "gloss": "kes lakkusid"
+      "gloss": "need-leegutajatega"
     },
     {
       "surface": "אושיע",
@@ -66,11 +45,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "päästan — teid (אתכם on päridesuffixiga את)"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ja annan"
+      "gloss": "ja ma annan"
     },
     {
       "surface": "את",
@@ -83,7 +63,7 @@
     },
     {
       "surface": "בידך",
-      "gloss": "su kätte"
+      "gloss": "sinu kätte"
     },
     {
       "surface": "וכל",
@@ -95,7 +75,7 @@
     },
     {
       "surface": "ילכו",
-      "gloss": "olgu läinud"
+      "gloss": "läheb"
     },
     {
       "surface": "איש",
@@ -106,6 +86,6 @@
       "gloss": "oma kohta"
     }
   ],
-  "timestamp": "2026-10-21T00:18:52.224134032Z",
+  "timestamp": "2026-10-21T06:27:21.035177602Z",
   "model": "glm-5.3"
 }

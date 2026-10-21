@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "esimene rida",
-      "rationale": "כי לא מועף לאשר מוצק לה tume koht: JPS 'ei pimedust sellele, kes oli ustav' vs KXX 'esimest korda on tehtud häbi... maa' vs tõlkijad loevad sageli koos 8:20 lõpuga"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הקל\/הכביד",
-      "rationale": "kerge\/raske antonüümipaar — 'tehti kergeks' vs 'raskendas', võrdlus hoitud"
-    },
-    {
-      "kind": "elision",
-      "subject": "לה",
-      "rationale": "sufiks 'tema jaoks' sulatud eesti omastusse"
-    }
-  ],
-  "translation": "Sest ei ole pimedust sellele, kelle jaoks oli ahastus; nagu esimesel korral tehti kergeks Sebuloni maa ja Naftali maa, ja viimasel ajal raskendas ⟨ta⟩ järve tee, Jordani taguse, goje ringkonna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3bd7ec781d3481e83851bee0060aee8e6ee659abce1502efb6930234177ad070",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/8\/21-23.1792546824984.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest ei pimedust sellele, kelle jaoks ⟨on⟩ ahastus; nagu esimesel ajal tegi ta kergeks Zevuluni maa ja Naftali maa, ja viimase ta raskendas: mere tee, Jordani teisel kaldal, rahvaste Gilil.",
   "tokens": [
     {
       "surface": "כי",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "לאשר",
-      "gloss": "sellele, kelle jaoks"
+      "gloss": "kelle jaoks"
     },
     {
       "surface": "מוצק",
-      "gloss": "oli ahastus"
+      "gloss": "ahastus"
     },
     {
       "surface": "לה",
-      "gloss": ""
+      "gloss": "sellele"
     },
     {
       "surface": "כעת",
-      "gloss": "nagu esimesel korral"
+      "gloss": "nagu esimesel ajal"
     },
     {
       "surface": "הראשון",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "הקל",
-      "gloss": "tehti kergeks"
+      "gloss": "tegi kergeks"
     },
     {
       "surface": "ארצה",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "זבלון",
-      "gloss": "Sebuloni"
+      "gloss": "Zevuluni"
     },
     {
       "surface": "וארצה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "והאחרון",
-      "gloss": "ja viimasel ajal"
+      "gloss": "ja viimase"
     },
     {
       "surface": "הכביד",
@@ -99,11 +73,11 @@
     },
     {
       "surface": "הים",
-      "gloss": "järve"
+      "gloss": "mere"
     },
     {
       "surface": "עבר",
-      "gloss": "taguse"
+      "gloss": "teisel kaldal"
     },
     {
       "surface": "הירדן",
@@ -111,13 +85,13 @@
     },
     {
       "surface": "גליל",
-      "gloss": "ringkonna"
+      "gloss": "Gilil"
     },
     {
       "surface": "הגוים",
-      "gloss": "goje"
+      "gloss": "rahvaste"
     }
   ],
-  "timestamp": "2026-10-21T01:40:24.986047188Z",
+  "timestamp": "2026-10-21T06:18:42.974418222Z",
   "model": "glm-5.3"
 }

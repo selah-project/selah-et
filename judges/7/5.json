@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "eelistsõna sulandub eesti käänetesse (Gideonile, vee äärde), eraldi sõnata."
-    },
-    {
-      "kind": "substitution",
-      "subject": "heidab põlvi",
-      "rationale": "כרע otse: 'põlvitab\/kummardab põlvi' — kujundina edasi antud."
-    }
-  ],
-  "translation": "Ja viis ta ⟨את⟩ rahva vee äärde, ja ütles Jahve Gideonile: igaüks, kes lakub keelega vett, nii nagu koer lakub, ⟨את⟩ tema sea sind eraldi, ja igaüks, kes heidab põlvi, et juua.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6337701ab14eab8413441eb524757598cec4fd6a2d4f4c1dde3e8dd8f0c370e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/7\/5-8.1792541932222.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta viis rahva alla vee juurde, ja Jahve ütles Gidoni poole: igaüks, kes lambib keelega vett, nagu koer lambib, selle pane ⟨את⟩ eraldi; ja igaüks, kes põlvitab ⟨את⟩ oma põlvedel, et juua.",
   "tokens": [
     {
       "surface": "ויורד",
-      "gloss": "viis alla"
+      "gloss": "ja ta viis alla"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "äärde"
+      "gloss": "juurde"
     },
     {
       "surface": "המים",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "poole"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideonile"
+      "gloss": "Gidoni"
     },
     {
       "surface": "כל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ילק",
-      "gloss": "lakub"
+      "gloss": "lambib"
     },
     {
       "surface": "בלשונו",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "המים",
-      "gloss": "vett"
+      "gloss": "veest"
     },
     {
       "surface": "כאשר",
-      "gloss": "nii nagu"
+      "gloss": "nagu"
     },
     {
       "surface": "ילק",
-      "gloss": "lakub"
+      "gloss": "lambib"
     },
     {
       "surface": "הכלב",
@@ -103,11 +82,12 @@
     },
     {
       "surface": "תציג",
-      "gloss": "sea eraldi"
+      "gloss": "pane"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ tema"
+      "gloss": "⟨את⟩ teda",
+      "marks": "eraldi"
     },
     {
       "surface": "לבד",
@@ -123,21 +103,21 @@
     },
     {
       "surface": "יכרע",
-      "gloss": "heidab põlvi"
+      "gloss": "põlvitab"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": "peal"
     },
     {
       "surface": "ברכיו",
-      "gloss": "põlvi"
+      "gloss": "oma põlvedel"
     },
     {
       "surface": "לשתות",
       "gloss": "et juua"
     }
   ],
-  "timestamp": "2026-10-21T00:18:52.223594953Z",
+  "timestamp": "2026-10-21T06:27:19.341065975Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Geihazi",
-      "rationale": "Elisha commands his servant; direct address reported."
-    },
-    {
-      "kind": "substitution",
-      "subject": "eemalt",
-      "rationale": "מנגד on sõna-sõnalt 'teesidest, vastasest' — 'eemalt' on tõlgendus."
-    }
-  ],
-  "translation": "Ja ta läks ja tuli mehe, Elohimi mehe juurde, Kaarmeli mäele. Ja kui Elohimi mees nägi teda eemalt ⟨מנגד⟩, ütles ta oma sulasele Geihazile: Vaata, see šunemititar!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/4\/25-28.1792545919382.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta läks ja tuli Elohimi mehe juurde, Karmeli mäele. Ja sündis, kui Elohimi mees nägi teda ⟨את⟩ eemal vastas, et ta ütles oma noorukile Geihazile: Vaata, see šunemitlanne seal.",
   "tokens": [
     {
       "surface": "ותלך",
-      "gloss": "Ja ta läks"
+      "gloss": "ja ta läks"
     },
     {
       "surface": "ותבוא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "mehe"
+      "gloss": "mees"
     },
     {
       "surface": "האלהים",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "mäele"
+      "gloss": "(mäe) juurde"
     },
     {
       "surface": "הר",
-      "gloss": "mäe"
+      "gloss": "mäele"
     },
     {
       "surface": "הכרמל",
-      "gloss": "Kaarmeli"
+      "gloss": "Karmeli"
     },
     {
       "surface": "ויהי",
-      "gloss": "Ja sündis"
+      "gloss": "ja sündis"
     },
     {
       "surface": "כראות",
-      "gloss": "kui nägi"
+      "gloss": "kui ... nägi"
     },
     {
       "surface": "איש",
@@ -79,19 +58,19 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "teda"
+      "marks": "teda (eemal vastas)"
     },
     {
       "surface": "מנגד",
-      "gloss": "eemalt"
+      "gloss": "eemal vastas"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ütles ta"
+      "gloss": "et ta ütles"
     },
     {
       "surface": "אל",
-      "gloss": "–"
+      "gloss": "(noorukile)"
     },
     {
       "surface": "גיחזי",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "נערו",
-      "gloss": "oma sulasele"
+      "gloss": "oma noorukile"
     },
     {
       "surface": "הנה",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "השונמית",
-      "gloss": "šunemititar"
+      "gloss": "see šunemitlanne"
     },
     {
       "surface": "הלז",
-      "gloss": "see"
+      "gloss": "seal"
     }
   ],
-  "timestamp": "2026-10-21T01:25:19.383659739Z",
+  "timestamp": "2026-10-21T05:58:42.774523066Z",
   "model": "glm-5.3"
 }

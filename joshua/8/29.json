@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נבלה",
-      "rationale": "'laip' — heebrea sõna tähistab lõtvu, surnud keha, halvustava varjundiga"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העי \/ העיר",
-      "rationale": "Hai ja 'linna' kõlavad heebreas sarnaselt (ha-ʿAj \/ ha-ʿir)"
-    }
-  ],
-  "translation": "Ja ⟨את⟩ Hai kuninga pookis ta puu otsa kuni õhtu ajani, ja kui päike loojus, käskis Jehoošua, ja nad võtsid ta laiba puu otsast maha ja heitsid ⟨את⟩ selle linna värava suudmesse, ja kuhjasid tema peale suure kividest kuhiliku tänaseni päevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/8\/29-32.1792541510120.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ Hai kuninga pani ta puu otsa rippuma õhtuajani; ja kui päike loojus, käskis Jehoošua, ja nad võtsid ta laiba puu otsast maha ja viskasid ⟨את⟩ selle linna värava suudme juurde, ja kogusid tema kohale suure kivikuhja, mis ⟨on⟩ seal tänapäevani.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Hai kuninga"
     },
     {
@@ -43,7 +22,7 @@
     },
     {
       "surface": "תלה",
-      "gloss": "pookis"
+      "gloss": "pani rippuma"
     },
     {
       "surface": "על",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "וכבוא",
-      "gloss": "ja kui ... loojus"
+      "gloss": "ja kui loojus"
     },
     {
       "surface": "השמש",
@@ -104,19 +83,20 @@
     },
     {
       "surface": "וישליכו",
-      "gloss": "ja nad heitsid"
+      "gloss": "ja viskasid"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ selle"
+      "gloss": "⟨את⟩",
+      "marks": "selle (linna värava suudme juurde)"
     },
     {
       "surface": "אל",
-      "gloss": "suudmesse"
+      "gloss": "juurde"
     },
     {
       "surface": "פתח",
-      "gloss": "värava suudme"
+      "gloss": "suudmele"
     },
     {
       "surface": "שער",
@@ -128,19 +108,19 @@
     },
     {
       "surface": "ויקימו",
-      "gloss": "ja nad kuhjasid"
+      "gloss": "ja kogusid kokku"
     },
     {
       "surface": "עליו",
-      "gloss": "tema peale"
+      "gloss": "tema kohale"
     },
     {
       "surface": "גל",
-      "gloss": "kuhila"
+      "gloss": "kuhja"
     },
     {
       "surface": "אבנים",
-      "gloss": "kividest"
+      "gloss": "kivide"
     },
     {
       "surface": "גדול",
@@ -152,13 +132,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "tänaseni"
+      "gloss": "tänapäevani"
     },
     {
       "surface": "הזה",
-      "gloss": "päevani"
+      "gloss": "see"
     }
   ],
-  "timestamp": "2026-10-21T00:11:50.122409934Z",
+  "timestamp": "2026-10-21T06:25:48.837752088Z",
   "model": "glm-5.3"
 }

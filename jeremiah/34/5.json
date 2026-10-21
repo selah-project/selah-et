@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "põletused",
-      "rationale": "משרפות: KJV 'burn odours' (vürtside põletamine surnu kuninga auks) vs YLT 'make a burning' (tulist leinata; mõned loevad kuninga enda põletamist)"
-    },
-    {
-      "kind": "substitution",
-      "subject": "isand",
-      "rationale": "אדון on siin inimese (Tsedekija) tiitel, mitte Jumala Nimi — D1 reegli järgi 'isand'"
-    },
-    {
-      "kind": "you",
-      "subject": "Tsedekijale",
-      "rationale": "Jahve kõneleb otse Juuda kuningale Tsedekijale"
-    }
-  ],
-  "translation": "Rahus sa sured, ja nagu su isade, endiste kuningate, kes olid sinu ees, põletuste nõnda põletatakse sinule, ja-vae, isand! nad nutavad sind, sest sõna, mina olen rääkinud, ütleb Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6a8bd8a6e8524e744cf586d8ea6bdf42ac4c7c19f885d9f74d0632bf6f6dd0a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/34\/5-8.1792548971439.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rahus sa sured, ja nagu põletati su vanemaid, varasemaid kuningaid, kes ⟨olid⟩ enne sind, nõnda põletatakse ⟨ka⟩ sind, ja hüüdes «hoi, mu isand!» nad nutavad sind, sest sõna, mis mina olen rääkinud — ütleb Jahve.",
   "tokens": [
     {
       "surface": "בשלום",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "וכמשרפות",
-      "gloss": "ja nagu-põletuste"
+      "gloss": "ja nagu põletati"
     },
     {
       "surface": "אבותיך",
-      "gloss": "su isade"
+      "gloss": "su vanemaid"
     },
     {
       "surface": "המלכים",
-      "gloss": "kuningate"
+      "gloss": "kuningaid"
     },
     {
       "surface": "הראשנים",
-      "gloss": "endiste"
+      "gloss": "varasemaid"
     },
     {
       "surface": "אשר",
@@ -63,31 +37,31 @@
     },
     {
       "surface": "היו",
-      "gloss": "olid"
+      "gloss": "⟨olid⟩"
     },
     {
       "surface": "לפניך",
-      "gloss": "sinu ees"
+      "gloss": "enne sind"
     },
     {
       "surface": "כן",
       "gloss": "nõnda"
     },
     {
-      "surface": "ישרpו",
+      "surface": "ישרפו",
       "gloss": "põletatakse"
     },
     {
       "surface": "לך",
-      "gloss": "sinule"
+      "gloss": "⟨ka⟩ sind"
     },
     {
       "surface": "והוי",
-      "gloss": "ja-vae"
+      "gloss": "ja hüüdes «hoi"
     },
     {
       "surface": "אדון",
-      "gloss": "isand"
+      "gloss": "mu isand!»"
     },
     {
       "surface": "יספדו",
@@ -122,6 +96,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:16:11.441394028Z",
+  "timestamp": "2026-10-21T06:21:22.316510856Z",
   "model": "glm-5.3"
 }

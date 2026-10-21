@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨olen⟩",
-      "rationale": "Eesti keel nõuab kopulat, heebrea puudub see."
-    },
-    {
-      "kind": "hapax",
-      "subject": "סלון",
-      "rationale": "tuleksibas — sõna tuleb Tanahhis ainult selles salmis."
-    }
-  ],
-  "translation": "Ja ei ole enam Jisraeli kojale tuleksibas, mis kibedust teeb, ega kibuvitsa, mis valu teeb, kõikidest nende ümberkaudsetest, kes neid põlgavad, ja nad tunnevad, et mina ⟨olen⟩ Adonai Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "220d8c7a45d6df066f1c93654310aa45daa615d836d24eb69465c58f080b106f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/28\/21-24.1792550335435.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ei ole enam Jisraeli jaoks astlaid, mis kibedaks teevad, ega okast, mis valu teeb, neist kõigist, kes nende ümber on — neist, kes neid põlgasid; ja nad tunnevad ära, et mina olen Adonai Jahve.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "ole"
+      "gloss": "ole enam"
     },
     {
       "surface": "עוד",
@@ -42,23 +21,23 @@
     },
     {
       "surface": "לבית",
-      "gloss": "kojale"
+      "gloss": "jaoks"
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Jisraeli"
     },
     {
       "surface": "סלון",
-      "gloss": "tuleksibas"
+      "gloss": "astlaid"
     },
     {
       "surface": "ממאיר",
-      "gloss": "mis kibedust teeb"
+      "gloss": "mis kibedaks teevad"
     },
     {
       "surface": "וקוץ",
-      "gloss": "ja kibuvits"
+      "gloss": "ega okast"
     },
     {
       "surface": "מכאב",
@@ -66,24 +45,24 @@
     },
     {
       "surface": "מכל",
-      "gloss": "kõikidest"
+      "gloss": "neist kõigist"
     },
     {
       "surface": "סביבתם",
-      "gloss": "nende ümberkaudsetest"
+      "gloss": "kes nende ümber on"
     },
     {
       "surface": "השאטים",
-      "gloss": "kes põlgavad"
+      "gloss": "kes neid põlgasid"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "neid"
+      "marks": "neid (põlgasid)"
     },
     {
       "surface": "וידעו",
-      "gloss": "ja nad tunnevad"
+      "gloss": "ja nad tunnevad ära"
     },
     {
       "surface": "כי",
@@ -102,6 +81,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:38:55.437114060Z",
+  "timestamp": "2026-10-21T06:09:51.386875316Z",
   "model": "glm-5.3"
 }

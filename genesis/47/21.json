@@ -5,37 +5,16 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העביר אתו לערים",
-      "rationale": "'Viis nad üle linnadesse' (KJV\/JPS) vs 'tegi nad orjadeks' (BSB, Targumi Onkelose 'למסים' põhjal)."
-    },
-    {
-      "kind": "measurement",
-      "subject": "Mitsraimi piirid",
-      "rationale": "Pääd ühest äärest teiseni — kogu maa haaratus."
-    }
-  ],
-  "translation": "Ja ⟨את⟩ rahva viis ta üle linnadesse, ühest Mitsraimi piiri äärest kuni selle teise ääreni.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/47\/21-24.1792538162998.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ rahva viis ta üle linnadesse, ühest Mitsraimi piiri otsast kuni ⟨את⟩ tema teise otsani.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "rahva"
     },
     {
       "surface": "העם",
-      "gloss": "rahvas"
+      "gloss": "rahva"
     },
     {
       "surface": "העביר",
@@ -52,7 +31,7 @@
     },
     {
       "surface": "מקצה",
-      "gloss": "äärest"
+      "gloss": "otsast"
     },
     {
       "surface": "גבול",
@@ -64,13 +43,13 @@
     },
     {
       "surface": "ועד",
-      "gloss": "ja kuni"
+      "gloss": "kuni"
     },
     {
       "surface": "קצהו",
-      "gloss": "selle ääreni"
+      "gloss": "tema teise otsani"
     }
   ],
-  "timestamp": "2026-10-20T23:16:02.999551610Z",
+  "timestamp": "2026-10-21T06:16:31.616868529Z",
   "model": "glm-5.3"
 }

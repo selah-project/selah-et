@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olid\/oli",
-      "rationale": "Heebrea suhtelause lühidus nõuab eesti keeles kopeeli"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ים הנחשת",
-      "rationale": "'vaskmeri' — templi suur veenõu nimetus 'Meri' jäetud sõna-sõnalt, nagu heebrea"
-    }
-  ],
-  "translation": "Ja ⟨את⟩ vasesambad, mis ⟨olid⟩ Jahve majas, ja ⟨את⟩ alused, ja ⟨את⟩ vaskmere, mis ⟨oli⟩ Jahve majas, purustasid kaldealased, ja nad tõstsid nende vase Babüloni.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/25\/13-16.1792546501067.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ vase sammas-postid, mis ⟨olid⟩ Jahve kojas, ja ⟨את⟩ alused, ja ⟨את⟩ vase meri, mis oli Jahve kojas, lõhkusid kaldeed, ja nad tõstsid ⟨את⟩ nende vase Babüloni.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "vasesambad"
+      "marks": "vase sammas-postid"
     },
     {
       "surface": "עמודי",
-      "gloss": "sambad"
+      "gloss": "sammas-postid"
     },
     {
       "surface": "הנחשת",
-      "gloss": "vase-"
+      "gloss": "vase"
     },
     {
       "surface": "אשר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "majas"
+      "gloss": "kojas"
     },
     {
       "surface": "יהוה",
@@ -65,7 +44,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "vaskmere"
+      "marks": "vase meri"
     },
     {
       "surface": "ים",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "vask-"
+      "gloss": "vase"
     },
     {
       "surface": "אשר",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "majas"
+      "gloss": "kojas"
     },
     {
       "surface": "יהוה",
@@ -89,11 +68,11 @@
     },
     {
       "surface": "שברו",
-      "gloss": "purustasid"
+      "gloss": "lõhkusid"
     },
     {
       "surface": "כשדים",
-      "gloss": "kaldealased"
+      "gloss": "kaldeed"
     },
     {
       "surface": "וישאו",
@@ -106,13 +85,13 @@
     },
     {
       "surface": "נחשתם",
-      "gloss": "nende vask"
+      "gloss": "nende vase"
     },
     {
       "surface": "בבלה",
       "gloss": "Babüloni"
     }
   ],
-  "timestamp": "2026-10-21T01:35:01.068832753Z",
+  "timestamp": "2026-10-21T05:58:08.583054421Z",
   "model": "glm-5.3"
 }

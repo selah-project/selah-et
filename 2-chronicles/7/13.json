@@ -5,23 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "preposition 'üle\/peale' sulandus eesti ülevaatavasse käändesse, eraldi sõnata"
-    }
-  ],
-  "translation": "Kui ma sulgen taeva ega tule vihma, või kui ma käsin tirtsil maad ära süüa, või kui saadan katku mu rahva sekka —",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/7\/13-16.1792557771626.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui ma sulgen taeva ja vihma ei tule, ja kui ma käsin tirtsul süüa ⟨את⟩ maad, ja kui ma saadan katku mu rahva keskele,",
   "tokens": [
     {
       "surface": "הן",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ega"
+      "gloss": "ja ei"
     },
     {
       "surface": "יהיה",
-      "gloss": "tuleb"
+      "gloss": "tule"
     },
     {
       "surface": "מטר",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "והן",
-      "gloss": "või kui"
+      "gloss": "ja kui"
     },
     {
       "surface": "אצוה",
@@ -57,23 +41,23 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "peale"
     },
     {
       "surface": "חגב",
-      "gloss": "tirtsil"
+      "gloss": "tirtsu"
     },
     {
       "surface": "לאכול",
-      "gloss": "ära süüa"
+      "gloss": "sööma"
     },
     {
       "surface": "הארץ",
-      "gloss": "maad"
+      "gloss": "⟨את⟩ maad"
     },
     {
       "surface": "ואם",
-      "gloss": "või kui"
+      "gloss": "ja kui"
     },
     {
       "surface": "אשלח",
@@ -85,9 +69,9 @@
     },
     {
       "surface": "בעמי",
-      "gloss": "mu rahva sekka"
+      "gloss": "mu rahva keskele"
     }
   ],
-  "timestamp": "2026-10-21T04:42:51.627129183Z",
+  "timestamp": "2026-10-21T06:39:50.875991938Z",
   "model": "glm-5.3"
 }

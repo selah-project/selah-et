@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ביננו\/וביניכם",
-      "rationale": "kolmekordne 'vahele'-kordus tähistab piiri retoorikat, eesti keeles säilub vaid osaliselt"
-    },
-    {
-      "kind": "crux",
-      "subject": "והשביתו",
-      "rationale": "pöördepööratus 'nad lõpetaksid' vs kindel 'nad lõpetavad'; tõlkijad lahkarvamusel, kas see on kartus või väide"
-    }
-  ],
-  "translation": "sest piiri on pannud Jahve meie vahele ja teie vahele, te Ruubeni pojad ja Gaadi pojad — ⟨את⟩ Jordaani; teile ei ole osa Jahves, ja teie pojad lõpetaksid meie poegadel ⟨את⟩ Jahve kartmise.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3d758ebc8cab4bdb07db3ce945d89197dfdeaaa363b0eb4ebe45210754f97bc6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/22\/25-28.1792541727388.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "sest piiri on Jahve pannud meie ja teie vahele, teie, Ruubeni pojad ja Gaadi pojad — ⟨את⟩ Jordaani; ei ole teil osa Jahves; ja teie pojad panevad meie pojad lakkama ⟨את⟩ meie poegade ⟨ei⟩ kartmast ⟨את⟩ Jahvet.",
   "tokens": [
     {
       "surface": "וגבול",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "ביננו",
-      "gloss": "meie vahele"
+      "gloss": "meie ja"
     },
     {
       "surface": "וביניכם",
-      "gloss": "ja teie vahele"
+      "gloss": "teie vahele"
     },
     {
       "surface": "בני",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "teile"
+      "gloss": "teil"
     },
     {
       "surface": "חלק",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "והשביתו",
-      "gloss": "ja lõpetaksid"
+      "gloss": "ja panevad lakkama"
     },
     {
       "surface": "בניכם",
@@ -100,19 +79,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meie poegadel"
+      "marks": "meie poegade"
     },
     {
       "surface": "בנינו",
-      "gloss": "meie poegadel"
+      "gloss": "meie poegade"
     },
     {
       "surface": "לבלתי",
-      "gloss": "et mitte"
+      "gloss": "mitte"
     },
     {
       "surface": "ירא",
-      "gloss": "kartma"
+      "gloss": "kartmast"
     },
     {
       "surface": "את",
@@ -124,6 +103,6 @@
       "gloss": "Jahvet"
     }
   ],
-  "timestamp": "2026-10-21T00:15:27.388975033Z",
+  "timestamp": "2026-10-21T06:25:10.526557605Z",
   "model": "glm-5.3"
 }

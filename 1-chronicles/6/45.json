@@ -5,90 +5,69 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "karjamaad",
-      "rationale": "מגרש on preestrilinnade juurde kuuluv avamaa-ala, mida tavaliselt tõlgitakse 'karjamaad' või 'väljaväljad'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolmteist linna",
-      "rationale": "linnade loendus ja kokkuvõttev arv"
-    }
-  ],
-  "translation": "Ja Binjamini hõimust ⟨את⟩ Geba ja selle karjamaad, ja ⟨את⟩ Alemeti ja selle karjamaad, ja ⟨את⟩ Anatoti ja selle karjamaad; kõik nende linnad, nende perekondade järgi, kolmteist linna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a7409880ce582f06fa95305e39b70b183dd60d791ac74ba19a0ebca198048f92",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/45-48.1792557250514.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Benjamini hõimust ⟨את⟩ Geeva ja selle karjamaad, ⟨את⟩ Alemeti ja selle karjamaad, ⟨את⟩ Anatoti ja selle karjamaad; kõik nende linnad nende perekondade järgi — kolmteist linna.",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "ja ... hõimust"
+      "gloss": "Ja ... hõimust"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binjamin"
+      "gloss": "Benjamini"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Geba"
+      "marks": "Geeva"
     },
     {
       "surface": "גבע",
-      "gloss": "Geba"
+      "gloss": "Geeva"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "selle karjamaad"
+      "gloss": "ja selle karjamaad"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "Alemeti"
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
     },
     {
       "surface": "עלמת",
-      "gloss": "Alemeti"
+      "gloss": "Alemet"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "selle karjamaad"
+      "gloss": "ja selle karjamaad"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "Anatoti"
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
     },
     {
       "surface": "ענתות",
-      "gloss": "Anatoti"
+      "gloss": "Anatot"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "selle karjamaad"
+      "gloss": "ja selle karjamaad"
     },
     {
       "surface": "כל",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "שלש",
-      "gloss": "kolm-"
+      "gloss": "kolm"
     },
     {
       "surface": "עשרה",
@@ -115,6 +94,6 @@
       "gloss": "nende perekondade järgi"
     }
   ],
-  "timestamp": "2026-10-21T04:34:10.514989209Z",
+  "timestamp": "2026-10-21T05:50:06.416707228Z",
   "model": "glm-5.3"
 }

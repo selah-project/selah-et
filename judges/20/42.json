@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "jäi neile kannul",
-      "rationale": "הדביקתהו on sõna-sõnalt 'kleebis tema külge' — jälitas kärmelt, nagu kinni pidamisel"
-    },
-    {
-      "kind": "substitution",
-      "subject": "põgenesid",
-      "rationale": "ויפנו on sõna-sõnalt 'pöörasid' — pöörasid selja, idiom põgenemiseks"
-    }
-  ],
-  "translation": "Ja nad põgenesid Jisraeli meeste eest kõrbe teele, ja lahing jäi neile kannul, ja need, kes linnadest välja tulid, hävitasid neid nende endi keskel.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "43653826fb48b1a52140556f7050b487d2433044684541d9dbd5f4e2520b6591",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/20\/41-44.1792542239196.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad pöördusid Jisraeli meeste eest kõrbesuuna poole, aga lahing jõudis neile järele, ja need, kes linnadest välja tulid, hävitasid teda ⟨את⟩ tema keskel.",
   "tokens": [
     {
       "surface": "ויפנו",
-      "gloss": "põgenesid"
+      "gloss": "ja nad pöördusid"
     },
     {
       "surface": "לפני",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "kõrbe"
+      "gloss": "poole"
     },
     {
       "surface": "דרך",
-      "gloss": "teele"
+      "gloss": "suuna"
     },
     {
       "surface": "המדבר",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "והמלחמה",
-      "gloss": "ja lahing"
+      "gloss": "aga lahing"
     },
     {
       "surface": "הדביקתהו",
-      "gloss": "jäi neile kannul"
+      "gloss": "jõudis neile järele"
     },
     {
       "surface": "ואשר",
@@ -79,13 +58,13 @@
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "neid"
+      "marks": "teda"
     },
     {
       "surface": "בתוכו",
-      "gloss": "nende endi keskel"
+      "gloss": "tema keskel"
     }
   ],
-  "timestamp": "2026-10-21T00:23:59.197644303Z",
+  "timestamp": "2026-10-21T06:26:56.118946340Z",
   "model": "glm-5.3"
 }

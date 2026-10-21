@@ -5,45 +5,19 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ole",
-      "rationale": "Eesti keel nõuab kopulat, heebreas puudub"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "eelposit.sõna liideti eesti käänetega üheks väljendiks"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kuninklike kroonikate viide",
-      "rationale": " ametlikku üleskirjutamise aktile"
-    }
-  ],
-  "translation": "Ülejäänud Menasse sõnad ja kõik, mis ta tegi, ja tema patt, mille ta patustas — ega need ⟨ole⟩ kirja pandud Juuda kuningate päevateoste raamatus?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "786749ba22c8d02d0acd4246740a4f77ff037717b5a2c0492ab61c67e7a47b5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/21\/17-20.1792546394313.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Menašše ülejäänud asjad ja kõik, mida ta tegi, ja tema patt, mille ta tegi — ega pole need kirjas Juuda kuningate päevade raamatus?",
   "tokens": [
     {
       "surface": "ויתר",
-      "gloss": "Ülejäänud"
+      "gloss": "ülejäänud"
     },
     {
       "surface": "דברי",
-      "gloss": "sõnad"
+      "gloss": "asjad"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menasse"
+      "gloss": "Menašše"
     },
     {
       "surface": "וכל",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "mida"
     },
     {
       "surface": "עשה",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "חטא",
-      "gloss": "ta patustas"
+      "gloss": "ta tegi"
     },
     {
       "surface": "הלא",
-      "gloss": "ega"
+      "gloss": "ega pole"
     },
     {
       "surface": "הם",
@@ -79,19 +53,19 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "kirja pandud"
+      "gloss": "kirjas"
     },
     {
       "surface": "על",
-      "gloss": ""
-    },
-    {
-      "surface": "ספר",
       "gloss": "raamatus"
     },
     {
+      "surface": "ספר",
+      "gloss": "raamat"
+    },
+    {
       "surface": "דברי",
-      "gloss": "teoste"
+      "gloss": "asjade"
     },
     {
       "surface": "הימים",
@@ -106,6 +80,6 @@
       "gloss": "Juuda"
     }
   ],
-  "timestamp": "2026-10-21T01:33:14.314992166Z",
+  "timestamp": "2026-10-21T05:58:16.167131508Z",
   "model": "glm-5.3"
 }

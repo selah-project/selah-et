@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "eessõna sulandus pöördsõnaga 'palus Jahvet', eraldi ei renderdatud"
-    }
-  ],
-  "translation": "Ja ta läks sisse ja sulges ukse nende kahe eest ning palus Jahvet.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "58b2edced5804a88780a958ea83a70be3a19b9e85fb287b193fcd109beb67634",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/4\/33-36.1792545877311.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta läks sisse ja sulges ukse nende kahe ⟨את⟩ tagant, ja palus Jahvet.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "בעד",
-      "gloss": "eest"
+      "gloss": "tagant"
     },
     {
       "surface": "שניהם",
@@ -49,13 +33,14 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "⟨את⟩",
+      "marks": "Jahvet"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahvet"
     }
   ],
-  "timestamp": "2026-10-21T01:24:37.312526881Z",
+  "timestamp": "2026-10-21T05:58:35.770017171Z",
   "model": "glm-5.3"
 }

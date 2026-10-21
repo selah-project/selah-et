@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וימשח \/ משיח",
-      "rationale": "Šelomo võitmise (salvamine) tegu viitab mašihhi mõistele — kuningas kui võitu"
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti eeldab kaudse kõne sidesõna, heebreas otsekõne ilma selleta"
-    }
-  ],
-  "translation": "Ja Tsadok preester võttis sarve õlist telgist ja võidis Šelomo, ja nad puhusid šofarit, ja kogu rahvas ütles: Elagu kuningas Šelomo!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/1\/37-40.1792545098591.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Tsadok preester võttis ⟨את⟩ õlisarve telgist ja võitis ⟨את⟩ Shelomot, ja nad puhusid šofarit, ja ütles kogu rahvas: Elagu kuningas Shelomoh!",
   "tokens": [
     {
       "surface": "ויקח",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sarve õli"
+      "marks": "õlisarve"
     },
     {
       "surface": "קרן",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "השמן",
-      "gloss": "õli"
+      "gloss": "õli-"
     },
     {
       "surface": "מן",
-      "gloss": "(andest)"
+      "gloss": "-st"
     },
     {
       "surface": "האהל",
-      "gloss": "telgist"
+      "gloss": "telk"
     },
     {
       "surface": "וימשח",
@@ -68,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šelomo"
+      "marks": "Shelomoh"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "ויתקעו",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "ja nad ütlesid"
+      "gloss": "ja ütlesid"
     },
     {
       "surface": "כל",
@@ -100,13 +79,13 @@
     },
     {
       "surface": "המלך",
-      "gloss": "kuningas"
+      "gloss": "kunings"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomo"
+      "gloss": "Shelomoh"
     }
   ],
-  "timestamp": "2026-10-21T01:11:38.595994220Z",
+  "timestamp": "2026-10-21T05:50:21.302667632Z",
   "model": "glm-5.3"
 }

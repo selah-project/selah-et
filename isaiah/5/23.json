@@ -5,40 +5,19 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צדקת",
-      "rationale": "צדקה rendered as tsedek per discipline, not 'õigus' alone — the root's shape is kept."
-    },
-    {
-      "kind": "crux",
-      "subject": "עקב",
-      "rationale": "'ütlusega' (põhjus, 'selle tagajärjel') vs 'kannaks' (sõnasõnaline 'kand'); KJV 'for reward'."
-    }
-  ],
-  "translation": "kes õigustavad ütlusega רשע altkäemaksu eest ja tsedeki õigetelt pööravad nad temalt ära!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d58ec96a7d2900cba89cb8bf81c6479fafabe8a79bb33a2d3f7b6f053dbbd1e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/5\/21-24.1792546690986.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "kes õigeks teevad ⟩reegli? ⟨ei⟩ — kes õigeks teevad üleastuja kannult altkäemaksu eest, ja õigete tsedeki pööravad nad ära tema juurest.",
   "tokens": [
     {
       "surface": "מצדיקי",
-      "gloss": "kes õigustavad"
+      "gloss": "kes õigeks teevad"
     },
     {
       "surface": "רשע",
-      "gloss": "רשע"
+      "gloss": "üleastuja"
     },
     {
       "surface": "עקב",
-      "gloss": "ütlusega"
+      "gloss": "kannul"
     },
     {
       "surface": "שחד",
@@ -46,21 +25,21 @@
     },
     {
       "surface": "וצדקת",
-      "gloss": "ja tsedeki"
+      "gloss": "ja tsedek"
     },
     {
       "surface": "צדיקים",
-      "gloss": "õigetelt"
+      "gloss": "õigete"
     },
     {
       "surface": "יסירו",
-      "gloss": "pööravad ära"
+      "gloss": "pööravad nad ära"
     },
     {
       "surface": "ממנו",
-      "gloss": "temalt"
+      "gloss": "tema juurest"
     }
   ],
-  "timestamp": "2026-10-21T01:38:10.987441817Z",
+  "timestamp": "2026-10-21T06:18:00.596728160Z",
   "model": "glm-5.3"
 }

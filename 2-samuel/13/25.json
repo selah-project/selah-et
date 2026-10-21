@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "surus",
-      "rationale": "ויפרץ tähendab sõna-sõnalt 'lõi läbi\/purskas'; tõlkes 'surus tema peale' kujundi järgi, mida enamik tõlkeid jagab."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל \/ בו",
-      "rationale": "Eeslippartikkel ja isikuline sufiks sulanduvad eesti nimetavas\/käändesse ega saa eraldi seisvata."
-    }
-  ],
-  "translation": "Ja kuningas ütles Avšalomile: ära, mu poeg, ära palun, et me kõik läheksime, ja ärge olgu meie sulle koormaks. Ja ta surus tema peale, aga ta ei tahtnud minna, ja ta õnnistas teda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/13\/25-28.1792544739014.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas ütles Avšaloomile: Ära, mu poeg, ära palugi, et me kõik läheksime, et me poleks ⟨sulle⟩ koormaks. Ja Avšaloom ⟨tema⟩ peale käis sisuliselt ⟨endale⟩, aga ta ei tahtnud minna, ja ta õnnistas teda.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "המלך",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Avšaloomile poole"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avšalomile"
+      "gloss": "Avšaloomile"
     },
     {
       "surface": "אל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "נא",
-      "gloss": "palun"
+      "gloss": "palugi"
     },
     {
       "surface": "נלך",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ja ärge"
+      "gloss": "et mitte"
     },
     {
       "surface": "נכבד",
-      "gloss": "olgu koormaks"
+      "gloss": "poleks koormaks"
     },
     {
       "surface": "עליך",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ויפרץ",
-      "gloss": "ja surus"
+      "gloss": "ja käis sisuliselt"
     },
     {
       "surface": "בו",
-      "gloss": ""
+      "gloss": "tema peale"
     },
     {
       "surface": "ולא",
@@ -105,6 +84,6 @@
       "gloss": "ja õnnistas teda"
     }
   ],
-  "timestamp": "2026-10-21T01:05:39.017794385Z",
+  "timestamp": "2026-10-21T05:59:33.164491239Z",
   "model": "glm-5.3"
 }

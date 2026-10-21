@@ -5,46 +5,15 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ארץ אכלת יושביה",
-      "rationale": "'maa, mis sööb ära oma asukad': kas kirjeldab sisejagamisi ja haudu, mis tappa rahvast, või hirmuülevõimulist liialdust — tõlkijad jagunevad"
-    },
-    {
-      "kind": "crux",
-      "subject": "אנשי מדות",
-      "rationale": "sõna-sõnalt 'mõõtude mehed' — kas 'suure mõõduga mehed' või 'mõõduvõtjad' (katastroofi mõõtjad); traditsioon valib esimese"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "heebrea puuduv koopula 'on' — nimilause nõuab eesti keeles sidet"
-    },
-    {
-      "kind": "hapax",
-      "subject": "דבת",
-      "rationale": "'laim, kurakõne' esineb Tanahhis harva ja siin märgib ametliku aruande moonutamist"
-    }
-  ],
-  "translation": "Ja nad tõid välja ⟨את⟩ laimu selle maa kohta, mida nad olid luuranud, Jisraeli lastele, öeldes: maa, mille me läbisime seda luurates, ⟨את⟩ ⟨tema⟩ — maa, mis sööb ära tema asukad; ja kogu rahvas, keda me nägime tema sees, ⟨on⟩ mõõtude mehed.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/13\/29-32.1792540034147.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad välja tõid laimu selle maa kohta, mida nad luuramas olid ⟨את⟩, Jisraeli poegadele, öeldes: maa, millest me läbi oleme käinud seda luuramas ⟨את⟩, ⟨on⟩ maa, mis sööb ära oma elanikud, ja kogu rahvas, keda me nägime tema keskel, ⟨on⟩ suure-mõõduga mehed.",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "Ja nad tõid välja"
+      "gloss": "Ja nad välja tõid"
     },
     {
       "surface": "דבת",
-      "gloss": "⟨את⟩ laimu"
+      "gloss": "laimu"
     },
     {
       "surface": "הארץ",
@@ -56,20 +25,20 @@
     },
     {
       "surface": "תרו",
-      "gloss": "olid luuranud"
+      "gloss": "luuramas olid"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨tema⟩",
-      "marks": "tema (maa)"
+      "gloss": "⟨את⟩",
+      "marks": "seda (maa)"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "-le"
     },
     {
       "surface": "בני",
-      "gloss": "lastele"
+      "gloss": "poegadele"
     },
     {
       "surface": "ישראל",
@@ -85,24 +54,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "millest"
     },
     {
       "surface": "עברנו",
-      "gloss": "me läbisime"
+      "gloss": "me läbi oleme käinud"
     },
     {
       "surface": "בה",
-      "gloss": "teda"
+      "gloss": "temas"
     },
     {
       "surface": "לתור",
-      "gloss": "luurates"
+      "gloss": "luuramas"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ ⟨tema⟩",
-      "marks": "tema (maa)"
+      "gloss": "⟨את⟩",
+      "marks": "seda (maa)"
     },
     {
       "surface": "ארץ",
@@ -114,11 +83,11 @@
     },
     {
       "surface": "יושביה",
-      "gloss": "tema asukad"
+      "gloss": "oma elanikud"
     },
     {
       "surface": "הוא",
-      "gloss": "tema"
+      "gloss": ""
     },
     {
       "surface": "וכל",
@@ -138,7 +107,7 @@
     },
     {
       "surface": "בתוכה",
-      "gloss": "tema sees"
+      "gloss": "tema keskel"
     },
     {
       "surface": "אנשי",
@@ -146,9 +115,9 @@
     },
     {
       "surface": "מדות",
-      "gloss": "mõõtude"
+      "gloss": "suure-mõõduga"
     }
   ],
-  "timestamp": "2026-10-20T23:47:14.148772847Z",
+  "timestamp": "2026-10-21T06:31:39.570929576Z",
   "model": "glm-5.3"
 }

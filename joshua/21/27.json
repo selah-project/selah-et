@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "anti",
-      "rationale": "Heebrea tekst jätab tegusõna siin jaama järgnevast wa-jitten-kontekstist välja; eesti keel vajab tegusõna."
-    },
-    {
-      "kind": "crux",
-      "subject": "Beetštera",
-      "rationale": "בעשתרה: tõenäoliselt sama koht kui Aštart (Astarte pühamu); KJV 'Beeshterah', LXX variandid."
-    }
-  ],
-  "translation": "Ja Gersjoni poegadele, leviitide suguvõsadest, anti Menasše suguharu pooltelt ⟨את⟩ varjepaoalinna tapja jaoks, ⟨את⟩ Golani Bašanis ja selle karjamaad, ning ⟨את⟩ Beetštera ja selle karjamaad: kaks linna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e88e41bee1b3f95ff6e1024da988452e33f92fbd99f425bb879f5f0e4a9f789f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/21\/25-28.1792541700794.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Geršoni poegadele, leevi suguvõsadest, andsid nad poolt Menaše suguharust põgenemislinna, tapja ⟨linna⟩, ⟨את⟩ Golani Bašanis ja ⟨את⟩ selle karjamaad, ning ⟨את⟩ Beštera ja ⟨את⟩ selle karjamaad — kaks linna.",
   "tokens": [
     {
       "surface": "ולבני",
-      "gloss": "Ja poegadele"
+      "gloss": "Ja ... poegadele"
     },
     {
       "surface": "גרשון",
-      "gloss": "Gersjoni"
+      "gloss": "Geršoni"
     },
     {
       "surface": "ממשפחת",
@@ -42,24 +21,24 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "leviitide"
+      "gloss": "leevi"
     },
     {
       "surface": "מחצי",
-      "gloss": "pooltelt"
+      "gloss": "poolt"
     },
     {
       "surface": "מטה",
-      "gloss": "suguharult"
+      "gloss": "suguharust"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menasše"
+      "gloss": "Menaše"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "linna"
+      "marks": "Golani"
     },
     {
       "surface": "עיר",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "מקלט",
-      "gloss": "varjepao"
+      "gloss": "põgenemis-"
     },
     {
       "surface": "הרצח",
-      "gloss": "tapja jaoks"
+      "gloss": "tapja"
     },
     {
       "surface": "את",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
@@ -97,16 +76,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ning ⟨את⟩",
-      "marks": "Beetštera"
+      "gloss": "⟨את⟩",
+      "marks": "Beštera"
     },
     {
       "surface": "בעשתרה",
-      "gloss": "Beetštera"
+      "gloss": "Beštera"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "selle karjamaad"
     },
     {
@@ -115,13 +94,13 @@
     },
     {
       "surface": "ערים",
-      "gloss": "linna"
+      "gloss": "kaks linna"
     },
     {
       "surface": "שתים",
       "gloss": "kaks"
     }
   ],
-  "timestamp": "2026-10-21T00:15:00.795040536Z",
+  "timestamp": "2026-10-21T06:24:19.526823187Z",
   "model": "glm-5.3"
 }

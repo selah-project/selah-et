@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kahetsen",
-      "rationale": "נחם on otseselt 'ohkama, hinge tõmbama' — 'kahetsema' on kohanemise kohta levinud, kuid kitsendav tõlge"
-    },
-    {
-      "kind": "crux",
-      "subject": "אותו",
-      "rationale": "suffikseeritud vorm 'teda', mitte eraldiseisev aleph-tav marker ⟨את⟩"
-    }
-  ],
-  "translation": "ja see teeb kurja mu silmis, nii et ei kuula mu häält, siis kahetsen ma seda head, mida ma ütlesin teha temale heaga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cb81abf17754ffca6a0538ed112c745fa2257be1153f34b19028f34897ea6f1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/18\/9-12.1792548483351.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja see teeb halba mu silmis, kuulamata mu häält, siis kahetse ma ⟨את⟩ head, mida ma olin lubanud talle teha.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "ja see teeb"
+      "gloss": "ja teeb"
     },
     {
       "surface": "הרעה",
-      "gloss": "kurja"
+      "gloss": "halba"
     },
     {
       "surface": "בעיני",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "nii et mitte"
+      "gloss": "kuulamata"
     },
     {
       "surface": "שמע",
-      "gloss": "kuulda"
+      "gloss": ""
     },
     {
       "surface": "בקולי",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "ונחמתי",
-      "gloss": "siis kahetsen ma"
+      "gloss": "siis kahetse ma"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": ""
     },
     {
       "surface": "הטובה",
@@ -70,17 +49,18 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "ma ütlesin"
+      "gloss": "ma olin lubanud"
     },
     {
       "surface": "להיטיב",
-      "gloss": "heaga tegema"
+      "gloss": "tema heaks tegema"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ teda"
+      "gloss": "⟨את⟩",
+      "marks": "head — talle teha"
     }
   ],
-  "timestamp": "2026-10-21T02:08:03.352838915Z",
+  "timestamp": "2026-10-21T06:19:26.091752045Z",
   "model": "glm-5.3"
 }

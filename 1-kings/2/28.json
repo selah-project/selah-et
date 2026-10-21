@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עד · אל",
-      "rationale": "suunavad eessõnad, mida eesti kääne juba kannab ('Joabini', 'telki')"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kaldunud",
-      "rationale": "נטה otseselt 'kaldu õigest teest kõrvale'; ' kaldus ... järele' hoiab kõrvalekaldu pildi"
-    }
-  ],
-  "translation": "Ja kuuldus jõudis Joabini, et Joab oli kaldunud Adonija järele, aga Avšalomi järele ei kaldunud, ja Joab põgenes Jahve telki ja haaras kinni altari sarvedest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b5214810363284f83c04fc9d0eeb1a94acc59dcea7eb9e9ae870a4c5ba566b38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/2\/25-28.1792545165915.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuuldi jõudis Joabinini, sest Joab oli kaldunud Adonija järele, aga Avšalomi järele ⟨ei⟩ olnud ta kaldunud, ja Joab põgenes Jahve telki ja haaras kinni altari sarvedest.",
   "tokens": [
     {
       "surface": "והשמעה",
-      "gloss": "kuuldus"
+      "gloss": "Ja kuuldi"
     },
     {
       "surface": "באה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "עד",
-      "gloss": ""
+      "gloss": "-ni"
     },
     {
       "surface": "יואב",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "et"
+      "gloss": "sest"
     },
     {
       "surface": "יואב",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "ואחרי",
-      "gloss": "aga"
+      "gloss": "agad Avšalomi järele"
     },
     {
       "surface": "אבשלום",
-      "gloss": "Avšalomi"
+      "gloss": "Avšalom"
     },
     {
       "surface": "לא",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "וינס",
-      "gloss": "põgenes"
+      "gloss": "ja põgenes"
     },
     {
       "surface": "יואב",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "jou"
     },
     {
       "surface": "אהל",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "ויחזק",
-      "gloss": "haaris kinni"
+      "gloss": "ja haaras kinni"
     },
     {
       "surface": "בקרנות",
@@ -113,6 +92,6 @@
       "gloss": "altari"
     }
   ],
-  "timestamp": "2026-10-21T01:12:45.918988482Z",
+  "timestamp": "2026-10-21T05:51:09.043798302Z",
   "model": "glm-5.3"
 }

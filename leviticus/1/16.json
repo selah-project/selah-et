@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "idapoolne külg",
-      "rationale": "Salm määrab täpse koha — altarist ida pool, tuhakoht"
-    },
-    {
-      "kind": "crux",
-      "subject": "מראתו",
-      "rationale": "'Pugar' (linnu söögutoru laiendus) — KJV 'koos sulgedega' vs LXX 'koos roojaga'; sõna tähendab silmatorkavat osa"
-    }
-  ],
-  "translation": "Ja ta eemaldab ⟨את⟩ tema pugara koos sulgedega ja viskab selle kaldale altari idapoolsele poole, tuhakoha juurde.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/1\/13-16.1792539114886.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta eemaldab ⟨את⟩ tema(poa) söögi-\/õhukoti sulgedega ja viskab ⟨את⟩ selle tue poole, ida pool, tuhapaiga kohale.",
   "tokens": [
     {
       "surface": "והסיר",
-      "gloss": "ja eemaldab"
+      "gloss": "Ja ta eemaldab"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema pugara"
+      "marks": "tema soogi-\/õhukott (מראתו)"
     },
     {
       "surface": "מראתו",
-      "gloss": "tema pugar"
+      "gloss": "tema nokkakott"
     },
     {
       "surface": "בנצתה",
-      "gloss": "koos sulgedega"
+      "gloss": "sulgedega"
     },
     {
       "surface": "והשליך",
@@ -52,11 +31,11 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "selle"
+      "marks": "selle (nokkakoti) — viskab tua"
     },
     {
       "surface": "אצל",
-      "gloss": "kaldale"
+      "gloss": "kõrvale"
     },
     {
       "surface": "המזבח",
@@ -64,21 +43,21 @@
     },
     {
       "surface": "קדמה",
-      "gloss": "idapoolsele poole"
+      "gloss": "ida poole"
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
-    },
-    {
-      "surface": "מקום",
       "gloss": "kohale"
     },
     {
+      "surface": "מקום",
+      "gloss": "paika"
+    },
+    {
       "surface": "הדשן",
-      "gloss": "tuhale"
+      "gloss": "tuha"
     }
   ],
-  "timestamp": "2026-10-20T23:31:54.888146334Z",
+  "timestamp": "2026-10-21T06:27:58.001805853Z",
   "model": "glm-5.3"
 }

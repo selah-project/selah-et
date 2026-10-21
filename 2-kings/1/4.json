@@ -5,40 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מות תמות",
-      "rationale": "Infinitiiv absoluts + käänetav kuju — 'surema sa sured' — kordus on kindluse väljendus ja eesti keeles osaliselt taasesitatud."
-    },
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "gloss": "'seal' liideti eesti tekstis relatiivi 'kuhu' sisse, eraldi sõnana ära jäetud."
-    }
-  ],
-  "translation": "Ja seepärast nõnda ütleb Jahve: Voodist, kuhu sa oled üles läinud, sellest sa ei astu alla, sest surema sa sured. Ja Elija läksi minema.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/1\/1-4.1792545829609.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja seepärast ütleb Jahve: voodist, kuhu sa oled seal üles läinud, sa ei astu sellest alla, sest surema sa sured. Ja Elija läks minema.",
   "tokens": [
     {
-      "surface": "וילך",
-      "gloss": "Ja läksi minema"
-    },
-    {
-      "surface": "אליה",
-      "gloss": "Elija"
-    },
-    {
       "surface": "ולכן",
-      "gloss": "Ja seepärast"
+      "gloss": "ja seepärast"
     },
     {
       "surface": "כה",
@@ -54,7 +25,7 @@
     },
     {
       "surface": "המטה",
-      "gloss": "Voodist"
+      "gloss": "voodist"
     },
     {
       "surface": "אשר",
@@ -62,11 +33,11 @@
     },
     {
       "surface": "עלית",
-      "gloss": "sa oled üles läinud"
+      "gloss": "oled üles läinud"
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "seal"
     },
     {
       "surface": "לא",
@@ -74,7 +45,7 @@
     },
     {
       "surface": "תרד",
-      "gloss": "asta alla"
+      "gloss": "astu alla"
     },
     {
       "surface": "ממנה",
@@ -90,9 +61,17 @@
     },
     {
       "surface": "תמות",
-      "gloss": "sa sured"
+      "gloss": "sured"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ja läks minema"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elija"
     }
   ],
-  "timestamp": "2026-10-21T01:23:49.612064721Z",
+  "timestamp": "2026-10-21T05:56:44.476384172Z",
   "model": "glm-5.3"
 }

@@ -5,50 +5,24 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kaelapuud",
-      "rationale": "המהפכת on otseselt 'pööramis-(tõmbe)riist', kangatald; tõlgitud kaelapuudeks, pilt kadub"
-    },
-    {
-      "kind": "addition",
-      "subject": "olid \/ oli",
-      "rationale": "Eesti kõrvulause nõuab kopulat, mida heebrea אשר ei kanna"
-    },
-    {
-      "kind": "measurement",
-      "subject": "asukoha määrang",
-      "rationale": "salm täpsustab kaelapuude asukohta: Binyamini ülemine värav, Jahve koja juures"
-    }
-  ],
-  "translation": "Ja Pashhur lõi ⟨את⟩ Jirmejahu prohvetit ja pani ⟨את⟩ ta kaelapuudesse, mis ⟨olid⟩ Binyamini ülemise värava juures, mis ⟨oli⟩ Jahve kojas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e72d2f508e80c5afdc6cefd95d8428c89bfeef38f41ee02de8c0e148e48cd6cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/20\/2-3.1792558433037.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Pašhur lõi ⟨את⟩ prohvetit Jirmejat ja pani ta pöörde-pingile, mis ⟨on⟩ Benjamine ülemise värava juures, mis ⟨on⟩ Jahve hoones.",
   "tokens": [
     {
       "surface": "ויכה",
-      "gloss": "Ja lõi"
+      "gloss": "ja lõi"
     },
     {
       "surface": "פשחור",
-      "gloss": "Pashhur"
+      "gloss": "Pašhur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jirmejahu"
+      "marks": "prohvetit Jirmejat"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejahu"
+      "gloss": "Jirmejat"
     },
     {
       "surface": "הנביא",
@@ -60,15 +34,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ta"
+      "gloss": "⟨את⟩ teda",
+      "marks": "ta pöörde-pingile"
     },
     {
       "surface": "על",
-      "gloss": "kaelapuudesse"
+      "gloss": "peale"
     },
     {
       "surface": "המהפכת",
-      "gloss": "püüdes"
+      "gloss": "pöörde-pingile"
     },
     {
       "surface": "אשר",
@@ -80,7 +55,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamini"
+      "gloss": "Benjamine"
     },
     {
       "surface": "העליון",
@@ -92,13 +67,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "kojas"
+      "gloss": "hoones"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T04:53:53.037708954Z",
+  "timestamp": "2026-10-21T06:19:27.817316819Z",
   "model": "glm-5.3"
 }

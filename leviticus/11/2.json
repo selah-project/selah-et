@@ -5,40 +5,19 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jisraeli lastele",
-      "rationale": "Käsk suunatud Mošele ja Aharoni kaudu Jisraeli lastele"
-    },
-    {
-      "kind": "substitution",
-      "subject": "elusolendid",
-      "rationale": "החיה on 'elav' mitmus — 'elusolendid' hoiab sõna kuju, 'loomad' oleks liiga üldine"
-    }
-  ],
-  "translation": "Rääkige Jisraeli lastele ja öelge: need on elusolendid, mida te võite süüa kõigist kariloomadest, mis on maa peal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/11\/1-4.1792539259161.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rääkige Jisraeli poegadega, öeldes: See on elaja, keda te võite süüa kõigist kariloomadest, mis maal ⟨on⟩.",
   "tokens": [
     {
       "surface": "דברו",
-      "gloss": "Rääkige"
+      "gloss": "rääkige"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kohaga"
     },
     {
       "surface": "בני",
-      "gloss": "lastele"
+      "gloss": "poegadega"
     },
     {
       "surface": "ישראל",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "öelge"
+      "gloss": "öeldes"
     },
     {
       "surface": "זאת",
-      "gloss": "need"
+      "gloss": "see"
     },
     {
       "surface": "החיה",
-      "gloss": "elusolendid"
+      "gloss": "elaja"
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "keda"
     },
     {
       "surface": "תאכלו",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "על",
-      "gloss": "on"
+      "gloss": "maa peal"
     },
     {
       "surface": "הארץ",
-      "gloss": "maa peal"
+      "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-20T23:34:19.162123098Z",
+  "timestamp": "2026-10-21T06:27:56.101196992Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "päeval",
-      "rationale": "Heebrea ütleb vaid 'kümnendal', eesti keel vajab sõna 'päeval'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kuupäevad",
-      "rationale": "Salm paigutab nägemuse täpsega: aasta, kuu, päev, aastaarv linnalöömise järel"
-    }
-  ],
-  "translation": "Kakskümmend viis aastat meie pagulusest, aasta alguses, kuu kümnendal ⟨päeval⟩, neljateistkümnendal aastal pärast seda, kui linn löödi — täpselt sel päeval oli Jahve käsi minu peal, ja ta tõi ⟨את⟩ mind sinna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "84f70214e5fe999decba9cfc87d9b3f554c983178566108eafeb60697f29857e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/40\/1-4.1792550709678.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kakskümmend viis aastat meie pagulusest, aasta alguses, kuu kümnendal päeval, neljateistkümnendal aastal pärast seda, kui linn löödi — täpselt sel päeval oli minu peal Jahve käsi ja ta tõi mind ⟨את⟩ sinna.",
   "tokens": [
     {
       "surface": "בעשרים",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "בארבע",
-      "gloss": "neljateistkümnendal"
+      "gloss": "neljal"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "teistkümnendal"
     },
     {
       "surface": "שנה",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sedu, kui"
+      "gloss": "sedu, et"
     },
     {
       "surface": "הכתה",
@@ -94,11 +73,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "päeval"
+      "gloss": "sel päeval"
     },
     {
       "surface": "הזה",
-      "gloss": "sel"
+      "gloss": "see"
     },
     {
       "surface": "היתה",
@@ -123,13 +102,13 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mind"
+      "marks": "mind (sinna viiduna)"
     },
     {
       "surface": "שמה",
       "gloss": "sinna"
     }
   ],
-  "timestamp": "2026-10-21T02:45:09.679376298Z",
+  "timestamp": "2026-10-21T06:39:25.670622284Z",
   "model": "glm-5.3"
 }

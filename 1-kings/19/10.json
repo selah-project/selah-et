@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קנא קנאתי",
-      "rationale": "Sama juur kaks korda järjest — korduse teravus, eesti keeles kaotatud"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hing",
-      "rationale": "נפש on elujõud, mitte 'hing' pikemas mõttes; nad tahavad mu elu võtta"
-    }
-  ],
-  "translation": "Ja ta ütles: Olen olnud täis kibuvaimu, kibedalt kade Jahve, Elohim Tsevaoti pärast, sest Jisraeli pojad on hüljanud sinu lepingu, sinu altarid on nad maha kiskunud ja sinu prohveteid on nad mõõgaga tapnud, ja mina ainult olen järele jäänud, ja nad otsivad ⟨את⟩ mu hingesid, et need ära võtta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "66be424d0aaf562f1d9b295ea91326dc9473343133ffd5d58af94cabf5c6bae9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/19\/9-12.1792545668003.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles: Kade, kade olen ma olnud Jahve, Elohim Tsevaoti pärast, sest Jisraeli pojad on hüljanud sinu lepingu — ⟨את⟩ sinu altareid on nad maha kiskunud ja ⟨את⟩ sinu prohveteid on nad mõõgaga tapnud, ja alles jäetud olen mina üksi, ja nad otsivad ⟨את⟩ mu hinge, et ta ära võtta.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "קנא",
-      "gloss": "kibuvaimu täis"
+      "gloss": "kade"
     },
     {
       "surface": "קנאתי",
-      "gloss": "olen olnud kade"
+      "gloss": "kade olen ma olnud"
     },
     {
       "surface": "ליהוה",
@@ -75,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu altarid"
+      "marks": "sinu altareid"
     },
     {
       "surface": "מזבחתיך",
-      "gloss": "sinu altarid"
+      "gloss": "sinu altareid"
     },
     {
       "surface": "הרסו",
@@ -87,12 +66,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "sinu prohvetid"
+      "gloss": "ja ⟨את⟩",
+      "marks": "sinu prohveteid"
     },
     {
       "surface": "נביאיך",
-      "gloss": "sinu prohvetid"
+      "gloss": "sinu prohveteid"
     },
     {
       "surface": "הרגו",
@@ -104,15 +83,15 @@
     },
     {
       "surface": "ואותר",
-      "gloss": "ja olen järele jäänud"
+      "gloss": "ja alles jäetud"
     },
     {
       "surface": "אני",
-      "gloss": "mina"
+      "gloss": "olen mina"
     },
     {
       "surface": "לבדי",
-      "gloss": "ainult"
+      "gloss": "üksinda"
     },
     {
       "surface": "ויבקשו",
@@ -121,17 +100,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mu hing"
+      "marks": "mu hinge"
     },
     {
       "surface": "נפשי",
-      "gloss": "mu hingesid"
+      "gloss": "mu hinge"
     },
     {
       "surface": "לקחתה",
-      "gloss": "et ära võtta"
+      "gloss": "et ta ära võtta"
     }
   ],
-  "timestamp": "2026-10-21T01:21:08.006129147Z",
+  "timestamp": "2026-10-21T05:51:12.501603533Z",
   "model": "glm-5.3"
 }

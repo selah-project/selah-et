@@ -5,45 +5,24 @@
   "book": "esther",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פתשגן",
-      "rationale": "Pärsia laensõna 'koopia', esineb Tanahhis vaid Estri raamatus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "armu paluda",
-      "rationale": "להתחנן on hitpael-heimiline 'endaale armu otsima'; 'tembeldama' või 'anuma' kaotab enese kohendamise pildi"
-    }
-  ],
-  "translation": "Ja koopia seadusekirjast, mis oli antud Šušanis nende hävitamiseks, andis ta talle, et näidata seda Esterile ja tema jaoks ⟨את⟩ Ester ära seletada ning temale käsida minna kuninga ette, et tema ees armu paluda ja tema palge ees oma rahva eest abitaotlema.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ba5c112211ac4f9b594524261378a6c0fb947db8182c689de5888a532ac8a99e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/4\/5-8.1792556264568.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ ürikirja koopia seadusest, mis anti Šušanis nende hävitamiseks, andis talle, et näidata Esterile ⟨את⟩ ja temale selgitada, ning talle käskida, et ta läheks kuninga juurde, temalt armu paluma ja tema näo eest oma rahva pärast paluma.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "koopia seadusekirjast"
+      "gloss": "⟨את⟩",
+      "marks": "ürikirja koopia"
     },
     {
       "surface": "פתשגן",
-      "gloss": "koopia"
+      "gloss": "ürikirja koopia"
     },
     {
       "surface": "כתב",
-      "gloss": "kirjast"
+      "gloss": "kirja"
     },
     {
       "surface": "הדת",
-      "gloss": "seaduse"
+      "gloss": "seadusest"
     },
     {
       "surface": "אשר",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "oli antud"
+      "gloss": "anti"
     },
     {
       "surface": "בשושן",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ולהגיד",
-      "gloss": "ja seletada"
+      "gloss": "ja selgitada"
     },
     {
       "surface": "לה",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "ולצוות",
-      "gloss": "ja käsida"
+      "gloss": "ja käskida"
     },
     {
       "surface": "עליה",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "minna"
+      "gloss": "läheks"
     },
     {
       "surface": "אל",
-      "gloss": "ette"
+      "gloss": "juurde"
     },
     {
       "surface": "המלך",
@@ -112,29 +91,29 @@
     },
     {
       "surface": "להתחנן",
-      "gloss": "armu paluda"
+      "gloss": "temalt armu paluma"
     },
     {
       "surface": "לו",
-      "gloss": "tema ees"
+      "gloss": "temalt"
     },
     {
       "surface": "ולבקש",
-      "gloss": "ja abitaotlema"
+      "gloss": "ja paluma"
     },
     {
       "surface": "מלפניו",
-      "gloss": "tema palge ees"
+      "gloss": "tema näo eest"
     },
     {
       "surface": "על",
-      "gloss": "eest"
+      "gloss": "pärast"
     },
     {
       "surface": "עמה",
       "gloss": "oma rahva"
     }
   ],
-  "timestamp": "2026-10-21T04:17:44.569995697Z",
+  "timestamp": "2026-10-21T06:04:28.265057647Z",
   "model": "glm-5.3"
 }

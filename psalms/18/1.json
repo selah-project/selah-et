@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "koorijuhataja",
-      "rationale": "למנצח sõna-sõnalt 'särivaimale\/eesseisjale'; muusikaline amet, mitte 'võitjale'"
-    },
-    {
-      "kind": "elision",
-      "subject": "lamed-eeisisaldus",
-      "rationale": "לדוד 'Davidi jaoks \/ Davidi poolt' — eesti peab valima ühe"
-    }
-  ],
-  "translation": "Koorijuhatajale. Jahve teenri, Davidi jaoks, kes rääkis Jahvele ⟨את⟩ selle laulu sõnad päeval, mil Jahve päästis tema kõigi tema vaenlaste käest ja Sauli käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/18\/1-4.1792552401362.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Koorijuhatajale. Jahve teenurile, Davidile, kes rääkis Jahvele ⟨את⟩ selle laulu sõnad päeval, mil Jahve ⟨את⟩ teda päästis kõigi tema vaenlaste käest ja Šauli käest.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "koorijuhatajale"
+      "gloss": "Koorijuhatajale"
     },
     {
       "surface": "לעבד",
-      "gloss": "teenile"
+      "gloss": "teenurile"
     },
     {
       "surface": "יהוה",
@@ -87,7 +66,8 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ ⟨teda⟩"
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda"
     },
     {
       "surface": "מכף",
@@ -107,9 +87,9 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sauli"
+      "gloss": "Šauli"
     }
   ],
-  "timestamp": "2026-10-21T03:13:21.363193593Z",
+  "timestamp": "2026-10-21T06:41:06.787798376Z",
   "model": "glm-5.3"
 }

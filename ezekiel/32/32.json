@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חתיתו",
-      "rationale": "'tema õudus' või nagu mõned tõlked 'minu õudus' — heebrea tekstil on kolmanda isiku sufiks"
-    },
-    {
-      "kind": "mystery",
-      "subject": "elavate maa",
-      "rationale": "eraldatud grupp, mis vaid Paabeli prohvetites mainitud; langemise kujund varjatu"
-    }
-  ],
-  "translation": "Sest ma olen pannud tema õuduse elavate maale, ja ta laseb lamada ümberlõikamatute keskel ⟨את⟩ mõõga langenute hulgas — Paro ja kogu tema hulk, ütleb Adonai Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8d20e7485cce3f378d490e4a7c9c84ed329371057383174cf1277606efdef7d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/32\/29-32.1792550467514.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest ma olen pannud ⟨את⟩ tema hirmu elavate maale, ja ta pannakse lamama ümberlõikamata meeste keskele, ⟨את⟩ mõõga-langevate kõrvale — Paro ja kogu tema hulga — Adonai Jahve kõne.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema õuduse"
+      "marks": "tema hirmu"
     },
     {
       "surface": "חתיתו",
-      "gloss": "tema õuduse"
+      "gloss": "tema hirmu"
     },
     {
       "surface": "בארץ",
@@ -55,24 +34,24 @@
     },
     {
       "surface": "והשכב",
-      "gloss": "ja ta laseb lamada"
+      "gloss": "ja ta pannakse lamama"
     },
     {
       "surface": "בתוך",
-      "gloss": "keskel"
+      "gloss": "keskele"
     },
     {
       "surface": "ערלים",
-      "gloss": "ümberlõikamatute"
+      "gloss": "ümberlõikamata meeste"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mõõga langenute hulgas"
+      "marks": "mõõga-langevate"
     },
     {
       "surface": "חללי",
-      "gloss": "langenud"
+      "gloss": "mõõga-langevate"
     },
     {
       "surface": "חרב",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "ütleb"
+      "gloss": "kõne"
     },
     {
       "surface": "אדני",
@@ -103,6 +82,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:41:07.515873494Z",
+  "timestamp": "2026-10-21T06:09:31.808796080Z",
   "model": "glm-5.3"
 }

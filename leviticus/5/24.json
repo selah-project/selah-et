@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "viies osa",
-      "rationale": "kahjutasu põhisummale lisandub viiendik — arvutuslik määr"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בראשו",
-      "gloss": "sõna-sõnalt 'peaga', st põhisummas, tervikuna"
-    }
-  ],
-  "translation": "või ühegi asja kohta, mille kohta ta valelt vannub: ta maksab selle põhiosas tagasi ja lisab sellele oma viiendiku; sellele, kellele see kuulub, annab ta selle oma süü päeval.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/5\/21-24.1792539188762.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "või kõigest, mille kohta ta on vandunud valet, ja ta tasub selle põhiosaga ja lisab sellele viiendiku sellele, kellele see kuulub, andes selle ära oma süüpäeval.",
   "tokens": [
     {
       "surface": "או",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מכל",
-      "gloss": "ühegi asja"
+      "gloss": "kõigest"
     },
     {
       "surface": "אשר",
@@ -42,31 +21,32 @@
     },
     {
       "surface": "ישבע",
-      "gloss": "ta vannub"
+      "gloss": "on vandunud"
     },
     {
       "surface": "עליו",
-      "gloss": "selle kohta"
+      "gloss": "ta"
     },
     {
       "surface": "לשקר",
-      "gloss": "valelt"
+      "gloss": "valet"
     },
     {
       "surface": "ושלם",
-      "gloss": "ta maksab tagasi"
+      "gloss": "ja ta tasub"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ selle"
+      "gloss": "⟨את⟩",
+      "marks": "selle"
     },
     {
       "surface": "בראשו",
-      "gloss": "põhiosas"
+      "gloss": "põhiosaga"
     },
     {
       "surface": "וחמשתיו",
-      "gloss": "ja oma viiendiku"
+      "gloss": "ja viiendiku"
     },
     {
       "surface": "יסף",
@@ -78,7 +58,7 @@
     },
     {
       "surface": "לאשר",
-      "gloss": "sellele, kellele"
+      "gloss": "kellele"
     },
     {
       "surface": "הוא",
@@ -90,7 +70,7 @@
     },
     {
       "surface": "יתננו",
-      "gloss": "annab ta selle"
+      "gloss": "andes selle"
     },
     {
       "surface": "ביום",
@@ -101,6 +81,6 @@
       "gloss": "oma süü"
     }
   ],
-  "timestamp": "2026-10-20T23:33:08.764556103Z",
+  "timestamp": "2026-10-21T06:29:33.091930252Z",
   "model": "glm-5.3"
 }

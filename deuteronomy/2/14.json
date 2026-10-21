@@ -5,41 +5,11 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olid",
-      "rationale": "heebrea puudub kopeeruva verbi 'olid'; eesti vajab seda arv-tekstiks sidumiseks"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolmkümmend ja kaheksa aastat",
-      "rationale": "täpne ajaarvutus Kaades-Barnest Zeredi oruni"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מקרב",
-      "rationale": "sõna-sõnalt 'keskosast'; eesti 'keset' teeb lokaalse täpsuse"
-    }
-  ],
-  "translation": "Ja päevad, mil meie kõndisime Kaades-Barnessa, kuni ⟨את⟩ meie läksime üle ⟨את⟩ Zeredi oru, ⟨olid⟩ kolmkümmend ja kaheksa aastat — kuni ⟨oli⟩ otsas kogu see põlv, sõja mehed, kes ⟨olid⟩ keset ⟨את⟩ laagrit, nii nagu Jahve neile oli vandunud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3ac84bd16af5cf35aeb1d4cd78ab0f97c2e4ff2844f1033019636e9829fba0cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/2\/13-16.1792540568844.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja päevad, mil me käisime Kaades-Barneast, kuni me läbisime ⟨את⟩ Seredi jõeorgu, ⟨olid⟩ kolmkümmend kaheksa aastat, kuni ⟨oli⟩ lõppenud kogu see põlvkond, sõjamehed, laagri keskelt, nii nagu Jahve neile vandunud ⟨oli⟩.",
   "tokens": [
     {
-      "surface": "ויהמים",
-      "gloss": ""
-    },
-    {
       "surface": "והימים",
-      "gloss": "Ja päevad"
+      "gloss": "ja päevad"
     },
     {
       "surface": "אשר",
@@ -47,15 +17,15 @@
     },
     {
       "surface": "הלכנו",
-      "gloss": "meie kõndisime"
+      "gloss": "me käisime"
     },
     {
       "surface": "מקדש",
-      "gloss": "Kaades-Barnessa"
+      "gloss": "Kaadesist"
     },
     {
       "surface": "ברנע",
-      "gloss": ""
+      "gloss": "-Barneast"
     },
     {
       "surface": "עד",
@@ -63,24 +33,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kui"
+      "gloss": "et"
     },
     {
       "surface": "עברנו",
-      "gloss": "⟨את⟩ meie läksime üle"
+      "gloss": "me läbisime"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Zeredi org"
+      "marks": "Seredi jõeorg"
     },
     {
       "surface": "נחל",
-      "gloss": "org"
+      "gloss": "jõeorg"
     },
     {
       "surface": "זרד",
-      "gloss": "Zered"
+      "gloss": "Sered"
     },
     {
       "surface": "שלשים",
@@ -88,7 +58,7 @@
     },
     {
       "surface": "ושמנה",
-      "gloss": "ja kaheksa"
+      "gloss": "kaheksa"
     },
     {
       "surface": "שנה",
@@ -100,7 +70,7 @@
     },
     {
       "surface": "תם",
-      "gloss": "oli otsas"
+      "gloss": "lõppenud"
     },
     {
       "surface": "כל",
@@ -108,11 +78,11 @@
     },
     {
       "surface": "הדור",
-      "gloss": "see põlv"
+      "gloss": "see põlvkond"
     },
     {
       "surface": "אנשי",
-      "gloss": "mehed"
+      "gloss": "sõjamehed"
     },
     {
       "surface": "המלחמה",
@@ -120,11 +90,11 @@
     },
     {
       "surface": "מקרב",
-      "gloss": "keset"
+      "gloss": "keskelt"
     },
     {
       "surface": "המחנה",
-      "gloss": "laagrit"
+      "gloss": "laagri"
     },
     {
       "surface": "כאשר",
@@ -132,7 +102,7 @@
     },
     {
       "surface": "נשבע",
-      "gloss": "oli vandunud"
+      "gloss": "vandunud"
     },
     {
       "surface": "יהוה",
@@ -143,6 +113,6 @@
       "gloss": "neile"
     }
   ],
-  "timestamp": "2026-10-20T23:56:08.844971368Z",
+  "timestamp": "2026-10-21T06:02:40.489713852Z",
   "model": "glm-5.3"
 }

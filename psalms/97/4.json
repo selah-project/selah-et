@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 97,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Puudub kopeeritud subjekt: heebrea lühilauses on 'nägev maa' — eesti jaoks lisatud ⟨on⟩ märgitud sõnadeta"
-    },
-    {
-      "kind": "crux",
-      "subject": "ותחל",
-      "rationale": "'värises' (hirmust) vs 'vangus sünnitusvalus' — sama verbi מחול juurt kasutatakse Psalmides ka võbelemise kohta"
-    }
-  ],
-  "translation": "Tema välgud valgustasid ⟨את⟩ ilmamaa, nägi maa ja värises.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/97\/1-4.1792553721498.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tema välgud valgustasid ⟨את⟩ ilmamaa: maa nägi ja vappus.",
   "tokens": [
     {
       "surface": "האירו",
@@ -38,7 +17,8 @@
     },
     {
       "surface": "תבל",
-      "gloss": "⟨את⟩ ilmamaa"
+      "gloss": "⟨את⟩ ilmamaa",
+      "marks": "ilmamaa"
     },
     {
       "surface": "ראתה",
@@ -46,13 +26,13 @@
     },
     {
       "surface": "ותחל",
-      "gloss": "ja värises"
+      "gloss": "ja vappus"
     },
     {
       "surface": "הארץ",
       "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-21T03:35:21.499341265Z",
+  "timestamp": "2026-10-21T06:38:39.724927356Z",
   "model": "glm-5.3"
 }

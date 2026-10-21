@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti nõuab kõneside; heebrea verbi ei ole"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ביתה",
-      "rationale": "sõna-sõnalt 'majapoole' — suund sissepoole, sisekelu suunas"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kaheteistkümme veist",
-      "rationale": "kolm igas ilmakaeras — põhi, lääs, lõunas, idas"
-    }
-  ],
-  "translation": "See seisab kaheteistkümnel veisel: kolm nägu põhja ja kolm nägu lääne ja kolm nägu lõunasse ja kolm nägu itta, ja meri ⟨on⟩ nende peal ülalpool, ja kõik nende tagaosad sissepoole.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/4\/1-4.1792557686113.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨See⟩ seisab kaheteistkümnel veisel: kolm nägu pööratud põhja poole, ja kolm nägu lääne poole, ja kolm nägu lõuna poole, ja kolm nägu ida poole; ja meri ⟨on⟩ nende peal ülalpool, ja kõik nende tagaosad sissepoole.",
   "tokens": [
     {
       "surface": "עומד",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "שנים",
-      "gloss": "kaheteist-"
+      "gloss": "kaheteistkümnel"
     },
     {
       "surface": "עשר",
-      "gloss": "kümnel"
+      "gloss": "kaheteistkümnel"
     },
     {
       "surface": "בקר",
@@ -63,19 +37,19 @@
     },
     {
       "surface": "צפונה",
-      "gloss": "põhja"
+      "gloss": "põhja poole"
     },
     {
       "surface": "ושלושה",
       "gloss": "ja kolm"
     },
     {
-      "surface": "پנים",
+      "surface": "פנים",
       "gloss": "nägu"
     },
     {
       "surface": "ימה",
-      "gloss": "lääne"
+      "gloss": "lääne poole"
     },
     {
       "surface": "ושלשה",
@@ -87,10 +61,10 @@
     },
     {
       "surface": "נגבה",
-      "gloss": "lõunasse"
+      "gloss": "lõuna poole"
     },
     {
-      "surface": "ושלושה",
+      "surface": "ושלשה",
       "gloss": "ja kolm"
     },
     {
@@ -99,7 +73,7 @@
     },
     {
       "surface": "מזרחה",
-      "gloss": "itta"
+      "gloss": "ida poole"
     },
     {
       "surface": "והים",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "אחריהם",
-      "gloss": "nende tagaosad"
+      "gloss": "nende taguosad"
     },
     {
       "surface": "ביתה",
       "gloss": "sissepoole"
     }
   ],
-  "timestamp": "2026-10-21T04:41:26.115434781Z",
+  "timestamp": "2026-10-21T05:56:16.902708518Z",
   "model": "glm-5.3"
 }

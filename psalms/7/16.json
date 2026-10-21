@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨seda⟩",
-      "rationale": "Otsesesihitislik asesõna on lisatud liitverbi jaoks, heebrea sufiks -הו kannab seda."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בור-בשחת",
-      "rationale": "Kaevu-sõnade kaja: בור ja בשחת — kaevatud auk langeb kokku hävingu-auguga; kord loob lõksu-akti."
-    }
-  ],
-  "translation": "Augu on ta kaevanud ja süvendanud ⟨seda⟩, ja langeb 𝘢𝘶𝘨𝘶, mille ta tegi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/7\/13-16.1792552276263.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Augu ta kaevas ja kaevates tühjendas selle, ja ta langeb auku, mille ta tegi.",
   "tokens": [
     {
       "surface": "בור",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "כרה",
-      "gloss": "on ta kaevanud"
+      "gloss": "ta kaevas"
     },
     {
       "surface": "ויחפרהו",
-      "gloss": "ja süvendanud ⟨seda⟩"
+      "gloss": "ja kaevates tühjendas selle"
     },
     {
       "surface": "ויפל",
-      "gloss": "ja langeb"
+      "gloss": "ja ta langeb"
     },
     {
       "surface": "בשחת",
@@ -53,6 +32,6 @@
       "gloss": "mille ta tegi"
     }
   ],
-  "timestamp": "2026-10-21T03:11:16.265465383Z",
+  "timestamp": "2026-10-21T06:38:01.846403681Z",
   "model": "glm-5.3"
 }

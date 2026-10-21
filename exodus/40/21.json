@@ -5,45 +5,24 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "miškan",
-      "rationale": "המשכן jääb vastavalt keelereeglitele ühte kirjapilti miškan, mitte 'telk' või 'paik'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "kattes sellega",
-      "rationale": "ויסך על otsetõlge 'ja kattis üle' — verb kordab juurt, mis paistab ka nimetuses 'katte eesriide'"
-    }
-  ],
-  "translation": "Ja ta tõi ⟨את⟩ arki miškani ja pani üles ⟨את⟩ katte eesriide ja kattes sellega tunnistuse arki, nii nagu Jahve oli Mošele käskinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ca386917ae716b1888d0e1f4f11a0d75aa51c4f81888070e677886de7de03e35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/40\/21-24.1792539074553.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tõi ⟨את⟩ laeka miškani sisse ja pani ⟨את⟩ eesriide katede ja kattis tunnistuse laeka, nii nagu Jahve käskis ⟨את⟩ Mošet.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "ja ta tõi"
+      "gloss": "ja tõi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arki"
+      "marks": "aru"
     },
     {
       "surface": "הארן",
-      "gloss": "arki"
+      "gloss": "laeka"
     },
     {
       "surface": "אל",
-      "gloss": "miškani"
+      "gloss": "sisse"
     },
     {
       "surface": "המשכן",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "וישם",
-      "gloss": "ja pani üles"
+      "gloss": "ja pani"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "katte eesriide"
+      "marks": "eesriide"
     },
     {
       "surface": "פרכת",
@@ -64,19 +43,19 @@
     },
     {
       "surface": "המסך",
-      "gloss": "katte"
+      "gloss": "katede"
     },
     {
       "surface": "ויסך",
-      "gloss": "ja kattes sellega"
+      "gloss": "ja kattis"
     },
     {
       "surface": "על",
-      "gloss": "üle"
+      "gloss": "peale"
     },
     {
       "surface": "ארון",
-      "gloss": "arki"
+      "gloss": "laeka"
     },
     {
       "surface": "העדות",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "oli käskinud"
+      "gloss": "käskis"
     },
     {
       "surface": "יהוה",
@@ -97,13 +76,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moše"
+      "marks": "Mošet"
     },
     {
       "surface": "משה",
-      "gloss": "Mošele"
+      "gloss": "Mošet"
     }
   ],
-  "timestamp": "2026-10-20T23:31:14.553892844Z",
+  "timestamp": "2026-10-21T06:58:26.058349139Z",
   "model": "glm-5.3"
 }

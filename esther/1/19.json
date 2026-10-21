@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם על המלך טוב",
-      "rationale": "Õukonnaväljend 'kui see on hea kuninga silmis' — tõlgitud 'kui kuningale on hea'."
-    },
-    {
-      "kind": "alternative",
-      "subject": "לרעותה",
-      "rationale": "רעוה tähendab 'kaaslan(na)'; KJV 'teisele naisele' — tekst ütleb sõna-sõnalt 'tema kaaslannale', võimalik ka 'tema sõbrannale'."
-    }
-  ],
-  "translation": "Kui kuningale ⟨on⟩ hea, väljugu tema eest kuninglik sõna ja kirjutatagu see Pärsia ja Meedia seadustesse, ning see ei möödu — et Vašti ei tuleks enam kuninga Ahašveroši ette, ja tema kuningliku võimu andku kuningas tema kaaslannale, kes on temast parem.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/1\/17-20.1792556212286.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui on kuningale hea, välku kuninglik sõna tema palgest ja kirjutatagu see Parasi ja Madai seadustesse ega see ei lähe üle, et Vašti ei tuleks enam kuninga Ahhašveroši ette, ja tema kuningliku pale andku kuningas tema kaaslannale, kes on temast parem.",
   "tokens": [
     {
       "surface": "אם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "kohta"
     },
     {
       "surface": "המלך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "väljugu"
+      "gloss": "välku"
     },
     {
       "surface": "דבר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "מלפניו",
-      "gloss": "tema eest"
+      "gloss": "tema palgest"
     },
     {
       "surface": "ויכתב",
@@ -70,19 +49,19 @@
     },
     {
       "surface": "פרס",
-      "gloss": "Pärsia"
+      "gloss": "Parasi"
     },
     {
       "surface": "ומדי",
-      "gloss": "ja Meedia"
+      "gloss": "ja Madai"
     },
     {
       "surface": "ולא",
-      "gloss": "ja ei"
+      "gloss": "ega"
     },
     {
       "surface": "יעבור",
-      "gloss": "möödu"
+      "gloss": "see ei lähe üle"
     },
     {
       "surface": "אשר",
@@ -90,11 +69,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "mitte"
     },
     {
       "surface": "תבוא",
-      "gloss": " tuleks"
+      "gloss": "tuleks"
     },
     {
       "surface": "ושתי",
@@ -110,11 +89,11 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Ahašveroši"
+      "gloss": "Ahhašveroši"
     },
     {
       "surface": "ומלכותה",
-      "gloss": "tema kuningliku võimu"
+      "gloss": "ja tema kuningliku pale"
     },
     {
       "surface": "יתן",
@@ -130,13 +109,13 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "kes on parem"
+      "gloss": "kes on"
     },
     {
       "surface": "ממנה",
-      "gloss": "temast"
+      "gloss": "temast parem"
     }
   ],
-  "timestamp": "2026-10-21T04:16:52.287564773Z",
+  "timestamp": "2026-10-21T06:04:32.485276678Z",
   "model": "glm-5.3"
 }

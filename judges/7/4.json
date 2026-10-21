@@ -5,28 +5,7 @@
   "book": "judges",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "proovin läbi",
-      "rationale": "אצרפנו on metallurgiline 'sulatada, rafineerida' — kullassepa pilt, mitte lihtsalt katse"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ילך ... ילך ... לא ילך ... לא ילך",
-      "rationale": "kaja-kordus: kaks kinnitust ja kaks eitust täpselt samade sõnadega, kirjutatud rütm"
-    }
-  ],
-  "translation": "Ja Jahve ütles Gideonile: Rahvas on veel liiga palju; vii nad alla vee juurde ja ma proovin nad sulle seal läbi. Ja see juhtugu: igaüks, kellest ma ütlen sulle: see läheb ⟨את⟩ sinuga — see läheb ⟨את⟩ sinuga; ja igaüks, kellest ma ütlen sulle: see ei lähe sinuga — see ei lähe.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f541274791300c57c5679772f88d7066f34433eebd3ab744c852817390f3d123",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/7\/2-4.1792543662991.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Gideonile: rahvast on veel liiga palju; too nad ⟨את⟩ alla vee juurde, ja ma sulatan nad sinu jaoks seal; ja see juhtugu: igaühe, kellest ma sinule ütlen: see läheb ⟨את⟩ sinuga, see läheb sinuga; ja kõik, kellest ma sinule ütlen: see ei lähe sinuga, see ei lähe.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "(Gideonile)"
+      "gloss": "...ile (Gideonile)"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gideonile"
+      "gloss": "Gideon"
     },
     {
       "surface": "עוד",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahvas"
+      "gloss": "rahvast"
     },
     {
       "surface": "רב",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "הורד",
-      "gloss": "vii alla"
+      "gloss": "too alla"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid",
-      "marks": "nad (rahvas)"
+      "gloss": "⟨את⟩ nad",
+      "marks": "rahvas (nemad)"
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
+      "gloss": "...i juurde"
     },
     {
       "surface": "המים",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "ואצרפנו",
-      "gloss": "ja ma proovin läbi"
+      "gloss": "ja ma sulatan nad"
     },
     {
       "surface": "לך",
-      "gloss": "sulle"
+      "gloss": "sinu jaoks"
     },
     {
       "surface": "שם",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "אליך",
-      "gloss": "sulle"
+      "gloss": "sinule"
     },
     {
       "surface": "זה",
@@ -115,7 +94,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "see"
+      "gloss": "tema"
     },
     {
       "surface": "ילך",
@@ -127,7 +106,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "ja igaüks"
+      "gloss": "ja kõik"
     },
     {
       "surface": "אשר",
@@ -139,7 +118,7 @@
     },
     {
       "surface": "אליך",
-      "gloss": "sulle"
+      "gloss": "sinule"
     },
     {
       "surface": "זה",
@@ -159,7 +138,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "see"
+      "gloss": "tema"
     },
     {
       "surface": "לא",
@@ -170,6 +149,6 @@
       "gloss": "lähe"
     }
   ],
-  "timestamp": "2026-10-21T00:47:43.006175646Z",
+  "timestamp": "2026-10-21T06:27:44.812646170Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hingeline",
-      "rationale": "נשמה on 'hingus, hingav olend' — 'ükski, kes hingab'"
-    },
-    {
-      "kind": "you",
-      "subject": "addressee puudub",
-      "rationale": "—"
-    }
-  ],
-  "translation": "Ja sündis, kui tema hakkas valitsema, lõi ta ⟨את⟩ kogu Jaarobeami perekonda; ei jätnud ta Jaarobeamile mingit hingelist, kuni tema hävitas tema, Jehoova sõna järgi, mille ta rääkis oma teenori Ahija, šiilonlase käe kaudu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/15\/29-32.1792545569015.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis, kohe kui tema ⟨oli⟩ kuningas, lõi ta ⟨את⟩ kogu Jaarobeami perekonna; ta ei jätnud Jaarobeamile mitte ühtegi hingelist, vaid hävitas ⟨ta⟩ täielikult — vastavalt sõnale, mille Jahve oli rääkinud oma teenri Ahija, šilonlase, käe kaudu.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "כמלכו",
-      "gloss": "kui tema hakkas valitsema"
+      "gloss": "kohe kui tema ⟨oli⟩ kuningas"
     },
     {
       "surface": "הכה",
-      "gloss": "lõi"
+      "gloss": "lõi ta"
     },
     {
       "surface": "את",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "perekonda"
+      "gloss": "perekonna"
     },
     {
       "surface": "ירבעם",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "mingit"
+      "gloss": "mitte ühtegi"
     },
     {
       "surface": "נשמה",
@@ -79,19 +58,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "kuni"
+      "gloss": "vaid ... täielikult"
     },
     {
       "surface": "השמדו",
-      "gloss": "hävitas tema"
+      "gloss": "hävitas ⟨ta⟩"
     },
     {
       "surface": "כדבר",
-      "gloss": "sõna järgi"
+      "gloss": "vastavalt sõnale"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jehoova"
+      "gloss": "Jahve"
     },
     {
       "surface": "אשר",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "rääkis"
+      "gloss": "oli rääkinud"
     },
     {
       "surface": "ביד",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "oma teenori"
+      "gloss": "oma teenri"
     },
     {
       "surface": "אחיה",
@@ -115,9 +94,9 @@
     },
     {
       "surface": "השילני",
-      "gloss": "šiilonlase"
+      "gloss": "šilonlase"
     }
   ],
-  "timestamp": "2026-10-21T01:19:29.018478909Z",
+  "timestamp": "2026-10-21T05:50:27.777508691Z",
   "model": "glm-5.3"
 }

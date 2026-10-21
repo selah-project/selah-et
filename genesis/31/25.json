@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "koos",
-      "rationale": "see את on siin läheduse eessõna ('koos'), mitte objektimarker; lisatud ⟨koos⟩, et lause loetav oleks"
-    },
-    {
-      "kind": "you",
-      "subject": "Lavan kõne Jaakobile",
-      "rationale": "salm algatab Lahvani otsese kõne Jaakobile (v 26–28)"
-    }
-  ],
-  "translation": "Ja Laban jõudis jaatab Jaakobi; Jaakob oli püstitanud ⟨את⟩ oma telgi mäele, ja Laban püstitas ⟨את⟩ ⟨koos⟩ oma vendadega Gileadi mäele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "41260baf6d5efe62ab21a2932e9e12d366584ed1314db333bdd3936b9bc33e12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/31\/25-28.1792537872005.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Laban jõudis ⟨את⟩ Jaakovi järel, Jaakob aga oli püstitanud ⟨את⟩ oma telgi mäele, ja Laban püstitas ⟨את⟩ oma vendadega telgi Gileadi mäel.",
   "tokens": [
     {
       "surface": "וישג",
-      "gloss": "jõudis jaatab"
+      "gloss": "ja jõudis järel"
     },
     {
       "surface": "לבן",
@@ -39,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaakobi"
+      "marks": "Jaakovi"
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakobi"
+      "gloss": "Jaakovi"
     },
     {
       "surface": "ויעקב",
-      "gloss": "Jaakob"
+      "gloss": "Jaakob aga"
     },
     {
       "surface": "תקע",
-      "gloss": "püstitas"
+      "gloss": "oli püstitanud"
     },
     {
       "surface": "את",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "תקע",
-      "gloss": "püstitas"
+      "gloss": "püstitas telgi"
     },
     {
       "surface": "את",
@@ -81,17 +60,17 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "oma vennad"
+      "gloss": "oma vendadega"
     },
     {
       "surface": "בהר",
-      "gloss": "mäele"
+      "gloss": "mäel"
     },
     {
       "surface": "הגלעד",
-      "gloss": "Gilead"
+      "gloss": "Gileadi"
     }
   ],
-  "timestamp": "2026-10-20T23:11:12.006022416Z",
+  "timestamp": "2026-10-21T06:15:32.508324960Z",
   "model": "glm-5.3"
 }

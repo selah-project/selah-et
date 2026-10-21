@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 105,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "eespool \/ juurde — teele viitav osake, eesti omasõnade puhul sulandub"
-    }
-  ],
-  "translation": "Ja nad rändasid rahvast rahvasse, riigist teise rahva juurde.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/105\/13-16.1792553786313.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad rändasid rahva juurest rahva juurde, ühest kuningriigist teise rahva juurde.",
   "tokens": [
     {
       "surface": "ויתהלכו",
@@ -29,19 +13,19 @@
     },
     {
       "surface": "מגוי",
-      "gloss": "rahvast"
+      "gloss": "rahva juurest"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "גוי",
-      "gloss": "rahvasse"
+      "gloss": "rahva"
     },
     {
       "surface": "מממלכה",
-      "gloss": "riigist"
+      "gloss": "ühest kuningriigist"
     },
     {
       "surface": "אל",
@@ -56,6 +40,6 @@
       "gloss": "teise"
     }
   ],
-  "timestamp": "2026-10-21T03:36:26.313870094Z",
+  "timestamp": "2026-10-21T06:37:39.997756622Z",
   "model": "glm-5.3"
 }

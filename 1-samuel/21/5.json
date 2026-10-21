@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti keel nõuab olemasolu-verbi, heebrea יש jääb olemasolu-osakeseks"
-    },
-    {
-      "kind": "idiom",
-      "subject": "תחת ידי",
-      "rationale": "Otse: 'mu käe all' = minu käeulatuses, mu valduses"
-    }
-  ],
-  "translation": "Ja preester vastas Davidile ja ütles: pühadusetut leiba ei ole mu käe all, vaid püha leiba ⟨on⟩; kui noormehed on ainult end naisest hoidnud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/21\/5-8.1792544225030.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja preester vastas ⟨את⟩ Davidile ja ütles: tavalist leiba ei ole minu käe all, vaid ⟨on⟩ püha leiba — kui noormehed ⟨on⟩ hoidnud end ainult naisest.",
   "tokens": [
     {
       "surface": "ויען",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "David"
+      "marks": "Davidile"
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Davidile"
     },
     {
       "surface": "ויאמר",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "חל",
-      "gloss": "pühadusetut"
+      "gloss": "tavalist"
     },
     {
       "surface": "אל",
-      "gloss": "juures"
+      "gloss": ""
     },
     {
       "surface": "תחת",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "ידי",
-      "gloss": "mu käe"
+      "gloss": "minu käe"
     },
     {
       "surface": "כי",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "vaid"
     },
     {
       "surface": "לחם",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "יש",
-      "gloss": "on"
+      "gloss": "⟨on⟩"
     },
     {
       "surface": "אם",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "נשמרו",
-      "gloss": "on end hoidnud"
+      "gloss": "hoidnud"
     },
     {
       "surface": "הנערים",
@@ -114,6 +93,6 @@
       "gloss": "naisest"
     }
   ],
-  "timestamp": "2026-10-21T00:57:05.031705009Z",
+  "timestamp": "2026-10-21T05:53:34.908421536Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התיקנו",
-      "rationale": "tõlkijad lähevad lahku: 'eemale tõmmatud' (KJV 'drawn away') vs 'ära kiskunud'; järgitud sõna otseses tähenduses 'ära kiskuma'"
-    }
-  ],
-  "translation": "Ja nad tulevad meie järele, kuni me oleme nad linnast eemale tõmmanud; sest nad ütlevad: nad põgenevad meie eest, nagu esimesel korral; ja me põgenevame nende eest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/8\/5-8.1792541463399.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tulevad meie järele, kuni me oleme nad lõiganud ⟨את⟩ eemale linnast, sest nad ütlevad: nad põgenevad meie eest, nagu esimesel korral; ja me põgeneme nende eest.",
   "tokens": [
     {
       "surface": "ויצאו",
-      "gloss": "ja nad tulevad"
+      "gloss": "Ja nad tulevad välja"
     },
     {
       "surface": "אחרינו",
@@ -37,16 +21,16 @@
     },
     {
       "surface": "התיקנו",
-      "gloss": "oleme ... eemale tõmmanud"
+      "gloss": "me oleme lõiganud"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "nad"
+      "gloss": "⟨את⟩",
+      "marks": "neid (linna mehi)"
     },
     {
       "surface": "מן",
-      "gloss": "linnast"
+      "gloss": "eemale"
     },
     {
       "surface": "העיר",
@@ -78,13 +62,13 @@
     },
     {
       "surface": "ונסנו",
-      "gloss": "ja me põgenevame"
+      "gloss": "ja me põgeneme"
     },
     {
       "surface": "לפניהם",
       "gloss": "nende eest"
     }
   ],
-  "timestamp": "2026-10-21T00:11:03.400819497Z",
+  "timestamp": "2026-10-21T06:26:04.401252019Z",
   "model": "glm-5.3"
 }

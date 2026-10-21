@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וילונו",
-      "rationale": "siin לון II 'nurisema' (nagu 14:2,27), mitte לון I 'järgi jääma'; tõlkijad on vahel eksinud"
-    },
-    {
-      "kind": "addition",
-      "subject": "maad halvasti kõnelev",
-      "rationale": "דבה = 'laim, halb kõne' — eesti kõlavam väljend kohta-käänet nõuab täiendit"
-    }
-  ],
-  "translation": "Ja mehed, keda Moše oli saatnud maad uurima, ja kes tagasi tulid ning pannes kogu kogu tema vastu nurisema, tõid maad halvasti kõneleva kuulujutu maa kohta —",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3a3b33d9034a9d91091743cf25cd433f1e894fea3b9acb70fc01da0b50f130de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/14\/33-36.1792540008103.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja mehed, kelle Moše oli saatnud nuurile ⟨את⟩ maad, tulid tagasi ja panid ⟨את⟩ kogu koguduse tema vastu nurisema, välja tuues laimu selle maa kohta",
   "tokens": [
     {
       "surface": "והאנשים",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "keda"
+      "gloss": "kelle"
     },
     {
       "surface": "שלח",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לתור",
-      "gloss": "uurima"
+      "gloss": "nuurile"
     },
     {
       "surface": "את",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ja kes tagasi tulid"
+      "gloss": "tulid tagasi"
     },
     {
       "surface": "וילונו",
-      "gloss": "pannes nurisema"
+      "gloss": "panid nurisema"
     },
     {
       "surface": "עליו",
@@ -72,7 +51,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kogu kogu"
+      "marks": "kogu koguduse"
     },
     {
       "surface": "כל",
@@ -80,15 +59,15 @@
     },
     {
       "surface": "העדה",
-      "gloss": "kogu"
+      "gloss": "koguduse"
     },
     {
       "surface": "להוציא",
-      "gloss": "tõid välja"
+      "gloss": "välja tuues"
     },
     {
       "surface": "דבה",
-      "gloss": "kuulujutu"
+      "gloss": "laimu"
     },
     {
       "surface": "על",
@@ -99,6 +78,6 @@
       "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-20T23:46:48.105387301Z",
+  "timestamp": "2026-10-21T06:31:48.166625299Z",
   "model": "glm-5.3"
 }

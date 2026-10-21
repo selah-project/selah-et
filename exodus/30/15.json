@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hinged",
-      "rationale": "נפש on hingamine\/kurk\/elujõud, mitte immateriaalne 'hing'."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eesrakend 'lepitada üle' lülitus eesti väljendisse 'lepitada ... eest' sisse."
-    },
-    {
-      "kind": "you",
-      "subject": "teie hinged",
-      "rationale": "Pöördumine otse Iisraeli kogukonnale: 'teie' mitmus."
-    }
-  ],
-  "translation": "Rikas ei anna rohkem ega vaene vähem kui pool seeklit, andes ⟨את⟩ Jahve annetuse, et lepitada teie hinged.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/30\/13-16.1792538869850.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rikas ei anna rohkem ja vaene ei anna vähem poolelt seeklilt, kui nad annavad ⟨את⟩ Jahve andi, et lepitada ⟨oma⟩ hingede eest.",
   "tokens": [
     {
       "surface": "העשיר",
-      "gloss": "rikas"
+      "gloss": "Rikas"
     },
     {
       "surface": "לא",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "והדל",
-      "gloss": "ega vaene"
+      "gloss": "ja vaene"
     },
     {
       "surface": "לא",
@@ -55,28 +29,28 @@
     },
     {
       "surface": "ימעיט",
-      "gloss": "vähem"
+      "gloss": "anna vähem"
     },
     {
       "surface": "ממחצית",
-      "gloss": "kui pool"
+      "gloss": "poolelt"
     },
     {
       "surface": "השקל",
-      "gloss": "seeklit"
+      "gloss": "seeklilt"
     },
     {
       "surface": "לתת",
-      "gloss": "andes"
+      "gloss": "kui nad annavad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve annetuse"
+      "marks": "Jahve and"
     },
     {
       "surface": "תרומת",
-      "gloss": "annetuse"
+      "gloss": "and"
     },
     {
       "surface": "יהוה",
@@ -84,17 +58,17 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "lepitada"
+      "gloss": "et lepitada"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "eest"
     },
     {
       "surface": "נפשתיכם",
-      "gloss": "teie hinged"
+      "gloss": "hingede"
     }
   ],
-  "timestamp": "2026-10-20T23:27:49.851622123Z",
+  "timestamp": "2026-10-21T06:06:27.892607759Z",
   "model": "glm-5.3"
 }

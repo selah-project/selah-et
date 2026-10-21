@@ -5,28 +5,7 @@
   "book": "amos",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מטר kordus",
-      "rationale": "Juur מטר kordub salmis neli korda (lasksin sadada \/ ei lasknud sadada \/ sai vihma \/ ei sadanud) — vihma ja vihma puudumise vaheldumine on salmi struktuur ise."
-    },
-    {
-      "kind": "addition",
-      "subject": "ma",
-      "gloss": "אמטיר eituse juures lisandub 'ma', et eesti eitus loomulikult kulgeks."
-    }
-  ],
-  "translation": "Ja ka mina hoian teilt ära ⟨את⟩ vihma, kui veel kolm kuudi oli saagini, ja lasksin vihma ühele linnale ja teisele linnale ei lasknud ma vihma sadada; üks põld sai vihma ja põld, millele ei sadanud, kuivas ära.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "01788a73c3911aba3f095390bfb732025a645c717b7074fc86890dd3e1b34069",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/amos\/4\/5-8.1792551365086.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ka mina hoian tagasi teie käest vihma, kui veel kolm kuud ⟨olid⟩ lõikuseni, ja ma lasksin vihma sadada ühele linnale, ja teisele linnale ei lasknud ma vihma sadada; üks osa maad sai vihma, ja osa, millele ei sadanud vihma, kuivas ära.",
   "tokens": [
     {
       "surface": "וגם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "מנעתי",
-      "gloss": "hoian ära"
+      "gloss": "hoian tagasi"
     },
     {
       "surface": "מכם",
-      "gloss": "teilt"
+      "gloss": "teie käest"
     },
     {
       "surface": "את",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "הגשם",
-      "gloss": "viihma"
+      "gloss": "vihm"
     },
     {
       "surface": "בעוד",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "לקציר",
-      "gloss": "saagini"
+      "gloss": "lõikuseni"
     },
     {
       "surface": "והמטרתי",
-      "gloss": "ja lasksin vihma sadada"
+      "gloss": "ja ma lasksin vihma sadada"
     },
     {
       "surface": "על",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "חלקה",
-      "gloss": "põld"
+      "gloss": "osa maad"
     },
     {
       "surface": "אחת",
@@ -119,7 +98,7 @@
     },
     {
       "surface": "וחלקה",
-      "gloss": "ja põld"
+      "gloss": "ja osa"
     },
     {
       "surface": "אשר",
@@ -131,17 +110,17 @@
     },
     {
       "surface": "תמטיר",
-      "gloss": "sadanud"
+      "gloss": "sadanud vihma"
     },
     {
       "surface": "עליה",
-      "gloss": ""
+      "gloss": "selle peale"
     },
     {
       "surface": "תיבש",
       "gloss": "kuivas ära"
     }
   ],
-  "timestamp": "2026-10-21T02:56:05.088513422Z",
+  "timestamp": "2026-10-21T06:01:01.512291625Z",
   "model": "glm-5.3"
 }

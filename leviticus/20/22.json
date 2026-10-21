@@ -5,62 +5,41 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "maa oksendab",
-      "rationale": "קוֹא 'oksendama' — maa viskab elanikud endast välja kui vastiku"
-    },
-    {
-      "kind": "you",
-      "subject": "Jisraelile",
-      "rationale": "ootäiene käsk jäägi leeri adressaadile"
-    }
-  ],
-  "translation": "Ja te peaksite ⟨את⟩ kõiki mu määrusi ja ⟨את⟩ kõiki mu kohtumõistisi ning täidma ⟨את⟩ neid, et maa, kuhu mina viin teid elama seal, teid ei oksendaks välja.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/20\/21-24.1792539534995.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te peate järge pidama ⟨את⟩ kõigile mu hukkudele ja ⟨את⟩ kõigile mu õigustele ning tegema ⟨את⟩ neid, et maa, kuhu mina teid viin sinna elama, teid välja ei oksendaks.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Ja te peaksite"
+      "gloss": "ja te peate järge pidama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõiki mu määrusi"
+      "marks": "kõigile mu hukkudele"
     },
     {
       "surface": "כל",
-      "gloss": "kõiki"
+      "gloss": "kõigile"
     },
     {
       "surface": "חקתי",
-      "gloss": "mu määrusi"
+      "gloss": "mu hukkudele"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "kõiki mu kohtumõistisi"
+      "gloss": "ja ⟨את⟩",
+      "marks": "kõigile mu õigustele"
     },
     {
       "surface": "כל",
-      "gloss": "kõiki"
+      "gloss": "kõigile"
     },
     {
       "surface": "משפטי",
-      "gloss": "mu kohtumõistisi"
+      "gloss": "mu õigustele"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "ning täidma"
+      "gloss": "ja tegema"
     },
     {
       "surface": "אתם",
@@ -73,7 +52,7 @@
     },
     {
       "surface": "תקיא",
-      "gloss": "oksendaks välja"
+      "gloss": "välja oksendaks"
     },
     {
       "surface": "אתכם",
@@ -109,9 +88,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "seal"
+      "gloss": "selles"
     }
   ],
-  "timestamp": "2026-10-20T23:38:54.996619591Z",
+  "timestamp": "2026-10-21T06:29:22.741154992Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מועדי \/ במועדם",
-      "rationale": "sama sõna kordus 'määratud aeg' — juhtlõng läbi salmi"
-    }
-  ],
-  "translation": "Need on Jahve määratud ajad, püha kokkukutsumised, mille teie kuulutate nende määratud ajal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/23\/1-4.1792539541986.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Need on Jahve kokkutuleku ajad, püha kutsungid, mida te peaksite kuulutama ⟨את⟩ nende oma ajal.",
   "tokens": [
     {
       "surface": "אלה",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "määratud ajad"
+      "gloss": "kokkutuleku ajad"
     },
     {
       "surface": "יהוה",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "מקראי",
-      "gloss": "kokkukutsumised"
+      "gloss": "kutsungid"
     },
     {
       "surface": "קדש",
@@ -45,22 +29,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "mida"
     },
     {
       "surface": "תקראו",
-      "gloss": "teie kuulutate"
+      "gloss": "te peaksite kuulutama"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nende määratud ajal"
+      "marks": "nende (kokkutuleku ajad)"
     },
     {
       "surface": "במועדם",
-      "gloss": "nende määratud ajal"
+      "gloss": "nende oma ajal"
     }
   ],
-  "timestamp": "2026-10-20T23:39:01.987706903Z",
+  "timestamp": "2026-10-21T06:29:01.036525264Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "alandas",
-      "rationale": "ענה on sõnasõnalt 'võlgima\/alandama', korduv Piiblis vägistamise kohta."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨neid⟩",
-      "rationale": "אתם on asesõna 'neid', eesti lauses täiendatud nagu algupäraseltgi märgitud objekt."
-    }
-  ],
-  "translation": "siis viite nemad mõlemad välja selle linna väravasse ja kivirajute ⟨את⟩ neid kividega, ja nad surevad — ⟨את⟩ tüdruku sellepärast, et ta linnas ei karjunud, ja ⟨את⟩ mehe sellepärast, et ta alandas ⟨את⟩ oma kaaslase naist; ja sa kõrvaldad kurja oma keskelt.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f2829f5f6a2edff0ac3297e2d8d0ae1d249907aceb7521191e23b2d670c98a84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/22\/21-24.1792541114079.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te viite ⟨את⟩ nad mõlemad välja selle linna väravasse ja te viskute neid kividega ⟨אתם⟩ kividega, et nad sureksid: ⟨את⟩ neiu, sellepärast et ta ei kisendanud linnas, ja ⟨את⟩ mehe, sellepärast et ta nögustas ⟨את⟩ oma kaaslase naist; ja sa hävitad kurja oma keskest.",
   "tokens": [
     {
       "surface": "והוצאתם",
-      "gloss": "siis viite välja"
+      "gloss": "ja te viite välja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nemad mõlemad"
+      "marks": "nad mõlemad"
     },
     {
       "surface": "שניהם",
-      "gloss": "nemad mõlemad"
+      "gloss": "nad mõlemad"
     },
     {
       "surface": "אל",
@@ -59,11 +38,12 @@
     },
     {
       "surface": "וסקלתם",
-      "gloss": "ja kivirajute"
+      "gloss": "ja te viskute kividega"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨neid⟩"
+      "gloss": "⟨אתם⟩",
+      "marks": "neid kividega"
     },
     {
       "surface": "באבנים",
@@ -71,24 +51,24 @@
     },
     {
       "surface": "ומתו",
-      "gloss": "ja nad surevad"
+      "gloss": "et nad sureksid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tüdruku"
+      "marks": "neiu"
     },
     {
       "surface": "הנער",
-      "gloss": "tüdruku"
+      "gloss": "neiu"
     },
     {
       "surface": "על",
-      "gloss": "sellepärast"
+      "gloss": "sellepärast et"
     },
     {
       "surface": "דבר",
-      "gloss": "asja pärast"
+      "gloss": "asja tõttu"
     },
     {
       "surface": "אשר",
@@ -100,7 +80,7 @@
     },
     {
       "surface": "צעקה",
-      "gloss": "karjunud"
+      "gloss": "kisendanud"
     },
     {
       "surface": "בעיר",
@@ -108,7 +88,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "mehe"
     },
     {
@@ -117,11 +97,11 @@
     },
     {
       "surface": "על",
-      "gloss": "sellepärast"
+      "gloss": "sellepärast et"
     },
     {
       "surface": "דבר",
-      "gloss": "asja pärast"
+      "gloss": "asja tõttu"
     },
     {
       "surface": "אשר",
@@ -129,16 +109,16 @@
     },
     {
       "surface": "ענה",
-      "gloss": "alandas"
+      "gloss": "nögustas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "naise"
+      "marks": "kaaslase naist"
     },
     {
       "surface": "אשת",
-      "gloss": "naise"
+      "gloss": "naist"
     },
     {
       "surface": "רעהו",
@@ -146,7 +126,7 @@
     },
     {
       "surface": "ובערת",
-      "gloss": "ja sa kõrvaldad"
+      "gloss": "ja sa hävitad"
     },
     {
       "surface": "הרע",
@@ -154,9 +134,9 @@
     },
     {
       "surface": "מקרבך",
-      "gloss": "oma keskelt"
+      "gloss": "oma keskest"
     }
   ],
-  "timestamp": "2026-10-21T00:05:14.081314794Z",
+  "timestamp": "2026-10-21T06:02:59.543188441Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebrea puudub koppel; eesti keel nõuab selle narrause juures"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נבל \/ נבלה",
-      "rationale": "Nabali nimi ja 'narrus' kõlavad ühtmoodi — sõnamäng jääb eesti keeles nähtavaks tänu nimelähedasele kõlale"
-    },
-    {
-      "kind": "substitution",
-      "subject": "belijaalimees",
-      "rationale": "איש הבליעל otse 'belijaali mees' — mitte 'paharett' ega 'kelm'"
-    }
-  ],
-  "translation": "Ärgu pangu, palun, mu isand ⟨את⟩ oma südant selle belijaalimehe peale, Nabali peale, sest nagu tema nimi, nõnda on tema: Nabal on tema nimi ja narrus ⟨on⟩ temaga; ja mina, sinu orjatar, ei ⟨את⟩ näinud ⟨את⟩ mu isanda noorukeid, keda sa läkitasid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "193b1b23fad23c9a764039782d4f7707d74ef1f55606b09075641da6cd0586e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/25\/25-28.1792544283524.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ärgu pangu, palun, mu isand ⟨את⟩ oma südant selle belijaali-mehe, Nabali peale, sest nagu on tema nimi, nii on tema: Nabal on tema nimi ja narrus ⟨on⟩ temaga; aga mina, sinu teenijanna, ei näinud neid ⟨את⟩ noorukid, sinu isanda omi, keda sa saatsid.",
   "tokens": [
     {
       "surface": "אל",
@@ -42,16 +16,12 @@
       "gloss": "palun"
     },
     {
-      "surface": "אל",
-      "gloss": ""
-    },
-    {
       "surface": "ישים",
       "gloss": "pangu"
     },
     {
       "surface": "אדני",
-      "gloss": "⟨את⟩ mu isand"
+      "gloss": "mu isand"
     },
     {
       "surface": "את",
@@ -68,11 +38,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "mehe"
+      "gloss": "mees"
     },
     {
       "surface": "הבליעל",
-      "gloss": "belijaali"
+      "gloss": "belijaali-"
     },
     {
       "surface": "הזה",
@@ -92,11 +62,11 @@
     },
     {
       "surface": "כשמו",
-      "gloss": "nagu tema nimi"
+      "gloss": "nagu on tema nimi"
     },
     {
       "surface": "כן",
-      "gloss": "nõnda"
+      "gloss": "nii"
     },
     {
       "surface": "הוא",
@@ -120,11 +90,11 @@
     },
     {
       "surface": "ואני",
-      "gloss": "ja mina"
+      "gloss": "aga mina"
     },
     {
       "surface": "אמתך",
-      "gloss": "sinu orjatar"
+      "gloss": "sinu teenijanna"
     },
     {
       "surface": "לא",
@@ -132,20 +102,20 @@
     },
     {
       "surface": "ראיתי",
-      "gloss": "⟨את⟩ näinud"
+      "gloss": "näinud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mu isanda noorukeid"
+      "marks": "neid noorukid"
     },
     {
       "surface": "נערי",
-      "gloss": "noorukeid"
+      "gloss": "noorukid"
     },
     {
       "surface": "אדני",
-      "gloss": "mu isanda"
+      "gloss": "sinu isanda"
     },
     {
       "surface": "אשר",
@@ -153,9 +123,9 @@
     },
     {
       "surface": "שלחת",
-      "gloss": "sa läkitasid"
+      "gloss": "sa saatsid"
     }
   ],
-  "timestamp": "2026-10-21T00:58:03.526463688Z",
+  "timestamp": "2026-10-21T05:53:42.690446349Z",
   "model": "glm-5.3"
 }

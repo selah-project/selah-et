@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olid",
-      "rationale": "Suhtelause jaoks lisatud kopeer; heebrea אשר ei nõua öeldist"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Näo leib",
-      "rationale": "לחם הפנים on 'Näo (paigalseisu) leib'; eesti traditsioon 'näiduleib' varjab sõnasõnalise kuju"
-    },
-    {
-      "kind": "alternative",
-      "subject": "kullast",
-      "rationale": "Salmi lõpp זהב võib kehtida nii laua kui kogu loendi kohta — 'kõik kullast'"
-    }
-  ],
-  "translation": "Ja Shelomo tegi kõik nõud, mis ⟨olid⟩ Jahve kojas: ⟨את⟩ kuldse altari ja ⟨את⟩ laua, millel ⟨on⟩ Näo leib, — kullast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/7\/45-48.1792545382838.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šelomo tegi ⟨את⟩ kõik nõud, mis olid Jahve kojas: ⟨את⟩ kulda Altari ja ⟨את⟩ laua, millel peal olid nägu-leiva leivad, kullast.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "tegi"
+      "gloss": "Ja tegi"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Šelomo"
     },
     {
       "surface": "את",
@@ -69,15 +43,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuldse altari"
+      "marks": "kulda Altari"
     },
     {
       "surface": "מזבח",
-      "gloss": "altari"
+      "gloss": "Altari"
     },
     {
       "surface": "הזהב",
-      "gloss": "kuldse"
+      "gloss": "kulda"
     },
     {
       "surface": "ואת",
@@ -94,21 +68,21 @@
     },
     {
       "surface": "עליו",
-      "gloss": "sellel"
+      "gloss": "peal"
     },
     {
       "surface": "לחם",
-      "gloss": "leib"
+      "gloss": "leivad"
     },
     {
       "surface": "הפנים",
-      "gloss": "Näo"
+      "gloss": "nägu-leiva"
     },
     {
       "surface": "זהב",
       "gloss": "kullast"
     }
   ],
-  "timestamp": "2026-10-21T01:16:22.843713536Z",
+  "timestamp": "2026-10-21T05:52:01.132628001Z",
   "model": "glm-5.3"
 }

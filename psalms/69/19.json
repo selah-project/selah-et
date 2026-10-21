@@ -5,44 +5,23 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 69,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hing",
-      "rationale": "נפש on pigem 'elu-jõud, kõri', mitte immateriaalne 'hing'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "גאלה lahus",
-      "rationale": "גְאָלָהּ võib olla 'lunasta seda (minu hinge)' või liitsõna 'lunasta'; valitud esimene"
-    }
-  ],
-  "translation": "Lähene mu hingele ja lunasta ⟨את⟩ see; mu vaenlaste pärast osta mind vabaks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/69\/17-20.1792553226700.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Astu mu hinge juurde, lunasta ⟨tema⟩; minu vaenlaste pärast osta ⟨mind⟩ vabaks.",
   "tokens": [
     {
       "surface": "קרבה",
-      "gloss": "Lähene"
+      "gloss": "Astu juurde"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "mu hinge"
     },
     {
       "surface": "נפשי",
-      "gloss": "mu hingele"
+      "gloss": "hing"
     },
     {
       "surface": "גאלה",
-      "gloss": "ja lunasta ⟨את⟩ see"
+      "gloss": "lunasta ⟨tema⟩"
     },
     {
       "surface": "למען",
@@ -50,13 +29,13 @@
     },
     {
       "surface": "איבי",
-      "gloss": "mu vaenlaste"
+      "gloss": "minu vaenlaste"
     },
     {
       "surface": "פדני",
-      "gloss": "osta mind vabaks"
+      "gloss": "osta ⟨mind⟩ vabaks"
     }
   ],
-  "timestamp": "2026-10-21T03:27:06.701747202Z",
+  "timestamp": "2026-10-21T06:37:48.067131391Z",
   "model": "glm-5.3"
 }

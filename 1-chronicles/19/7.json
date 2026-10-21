@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kolmkümmend kaks tuhat sõjavankri",
-      "rationale": "arv öeldud täielikult välja nagu heebrea keeles"
-    },
-    {
-      "kind": "crux",
-      "subject": "kahekordne את",
-      "rationale": "את tähistab ka palgatud isikuid (Maaha kuningas ja ta rahvas), mitte ainult vankreid"
-    }
-  ],
-  "translation": "Ja nad palgasid endile kolmkümmend kaks tuhat sõjavankri <!-- no -->ja ⟨את⟩ Maaha kuninga ja ⟨את⟩ ta rahva, ja nad tulid ja laagerusid Meedeba ette; ja Ammoni pojad kogunesid oma linnadest ja tulid sõtta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f4cb67fd85b37ba5e111b527b31a655a4c2e9ba872c8605606bd8491895fcedc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/19\/5-8.1792557446727.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad palkasid endile kakskümmend kaks tuhat vankrit ning ⟨את⟩ Maaka kuninga ja ⟨את⟩ tema rahva; nad tulid ja laageritusid Medeba ette, ja ammonlased kogunesid oma linnadest ning tulid sõtta.",
   "tokens": [
     {
       "surface": "וישכרו",
-      "gloss": "Ja nad palgasid"
+      "gloss": "ja nad palkasid"
     },
     {
       "surface": "להם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "שנים",
-      "gloss": "kaks"
+      "gloss": "kakskümmend"
     },
     {
       "surface": "ושלשים",
-      "gloss": "ja kolmkümmend"
+      "gloss": "kaks"
     },
     {
       "surface": "אלף",
@@ -50,37 +29,37 @@
     },
     {
       "surface": "רכב",
-      "gloss": "sõjavankri"
+      "gloss": "vankrit"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Maaha kuninga"
+      "marks": "Maaka kuninga"
     },
     {
       "surface": "מלך",
-      "gloss": "kuninga"
+      "gloss": "kuningas"
     },
     {
       "surface": "מעכה",
-      "gloss": "Maaha"
+      "gloss": "Maaka"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ta rahva"
+      "marks": "tema rahva"
     },
     {
       "surface": "עמו",
-      "gloss": "ta rahva"
+      "gloss": "tema rahvas"
     },
     {
       "surface": "ויבאו",
-      "gloss": "ja nad tulid"
+      "gloss": "nad tulid"
     },
     {
       "surface": "ויחנו",
-      "gloss": "ja laagerusid"
+      "gloss": "laageritusid"
     },
     {
       "surface": "לפני",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "מידבא",
-      "gloss": "Meedeba"
+      "gloss": "Medeba"
     },
     {
       "surface": "ובני",
-      "gloss": "ja pojad"
+      "gloss": "ja ... pojad"
     },
     {
       "surface": "עמון",
@@ -108,13 +87,13 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "ja tulid"
+      "gloss": "tulid"
     },
     {
       "surface": "למלחמה",
       "gloss": "sõtta"
     }
   ],
-  "timestamp": "2026-10-21T04:37:26.728740882Z",
+  "timestamp": "2026-10-21T05:49:46.117997372Z",
   "model": "glm-5.3"
 }

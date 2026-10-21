@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Moše",
-      "rationale": "Jumala kõne jätkub: 'sa purustasid', 'sa paned'."
-    }
-  ],
-  "translation": "ja ma kirjutan tahvlitele ⟨את⟩ need sõnad, mis olid esimestel tahvlitel, mille sa purustasid, ja sa paned need arku.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b271a3e442c49beb7e6f752a2ed9e082a3529a768624f4a9f20b44cb682bfd5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/10\/1-4.1792540793876.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma kirjutan tahvlitele ⟨את⟩ sõnad, mis olid esimestel tahvlitel, mille sa purustasid, ja sa paned need laeka.",
   "tokens": [
     {
       "surface": "ואכתב",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "על",
-      "gloss": "-le"
+      "gloss": "peale"
     },
     {
       "surface": "הלחת",
@@ -38,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "need sõnad"
+      "marks": "sõnad"
     },
     {
       "surface": "הדברים",
-      "gloss": "need sõnad"
+      "gloss": "sõnad"
     },
     {
       "surface": "אשר",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "על",
-      "gloss": "-l"
+      "gloss": "peal"
     },
     {
       "surface": "הלחת",
-      "gloss": "tahvlite"
+      "gloss": "tahvlitel"
     },
     {
       "surface": "הראשנים",
@@ -74,13 +58,13 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "ja sa paned"
+      "gloss": "ja sa paned need"
     },
     {
       "surface": "בארון",
-      "gloss": "arku"
+      "gloss": "laeka"
     }
   ],
-  "timestamp": "2026-10-20T23:59:53.877260466Z",
+  "timestamp": "2026-10-21T06:58:44.361343912Z",
   "model": "glm-5.3"
 }

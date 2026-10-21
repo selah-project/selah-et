@@ -5,36 +5,15 @@
   "book": "judges",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ninaviha",
-      "rationale": "אף on 'nina\/ninasõõr' — viha puhkab ninas; 'viha' üksi kaotab kehapildi"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ületanud",
-      "rationale": "עברו 'läbisid\/üle läksid' lepingu — lepingu rikkumise pilt on 'ületasid'; 'rikkusid' on harjumuspärane, aga kaotab liikumispildi"
-    }
-  ],
-  "translation": "Ja Jahve ninaviha põles Jisraeli vastu, ja ta ütles: Et see rahvas on ületanud ⟨את⟩ minu lepingu, mille ma olen käskinud ⟨את⟩ nende isadel, ja nad ei ole kuulanud minu häält —",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ebbd53621e9b3aad402d757c7248d852a8c6e241059828cb2ee9572485a4ef99",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/2\/17-20.1792541818765.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve viha põles Jisraeli vastu, ja ta ütles: Et see rahvas on ületanud ⟨את⟩ minu lepingu, mille ma käsisin ⟨את⟩ nende isadel, ega kuulanud minu häält,",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "põles"
+      "gloss": "ja ... viha põles"
     },
     {
       "surface": "אף",
-      "gloss": "ninaviha"
+      "gloss": "viha"
     },
     {
       "surface": "יהוה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "יען",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "עברו",
-      "gloss": "ületanud"
+      "gloss": "on ületanud"
     },
     {
       "surface": "הגוי",
-      "gloss": "rahvas"
+      "gloss": "see rahvas"
     },
     {
       "surface": "הזה",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "käskinud"
+      "gloss": "ma käsisin"
     },
     {
       "surface": "את",
@@ -95,8 +74,8 @@
       "gloss": "nende isadel"
     },
     {
-      "surface": "ויאמרלא",
-      "gloss": ""
+      "surface": "ולא",
+      "gloss": "ega"
     },
     {
       "surface": "שמעו",
@@ -107,6 +86,6 @@
       "gloss": "minu häält"
     }
   ],
-  "timestamp": "2026-10-21T00:16:58.767655013Z",
+  "timestamp": "2026-10-21T06:26:34.606930718Z",
   "model": "glm-5.3"
 }

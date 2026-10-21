@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jooksjad \/ aarded",
-      "rationale": "אוצרות sõna-sõnalt 'hoiume kohad' → 'aarded'; מגני הזהב on liit: 'kulla kilbid'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויקח … לקח … ויקח",
-      "rationale": "kolmekordne 'võtma' kordus rõhutab röövi täielikkust; eesti keeles osaliselt tasandatud."
-    }
-  ],
-  "translation": "Ja Šišak, Mitsraimi kuningas, tuli üles Jerušalaimi vastu ja võttis ⟨את⟩ Jahve koja aarded ja ⟨את⟩ kuninga koja aardid — kõik võttis ta — ja võttis ⟨את⟩ kuldkilbid, mille Šlomo oli teinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/12\/9-12.1792557855718.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šišak, Mitsraimi kuningas, tuli üles Jerušalaimi vastu ja võttis ⟨את⟩ Jahve koja aarded ja ⟨את⟩ kuninga koja aarded — ⟨את⟩ kõige võttis ta — ja võttis ⟨את⟩ kuldsete kilpide, mis Šelomo oli teinud.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "tuli üles"
+      "gloss": "ja tuli üles"
     },
     {
       "surface": "שישק",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "kuninga koja aarded"
     },
     {
@@ -93,11 +72,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik"
+      "marks": "kõige"
     },
     {
       "surface": "הכל",
-      "gloss": "kõik"
+      "gloss": "kõige"
     },
     {
       "surface": "לקח",
@@ -110,19 +89,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuldkilbid"
+      "marks": "kuldsete kilpide"
     },
     {
       "surface": "מגני",
-      "gloss": "kilbid"
+      "gloss": "kilpide"
     },
     {
       "surface": "הזהב",
-      "gloss": "kuld-"
+      "gloss": "kuldsete"
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "mis"
     },
     {
       "surface": "עשה",
@@ -130,9 +109,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šlomo"
+      "gloss": "Šelomo"
     }
   ],
-  "timestamp": "2026-10-21T04:44:15.720605481Z",
+  "timestamp": "2026-10-21T05:54:46.467825081Z",
   "model": "glm-5.3"
 }

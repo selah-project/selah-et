@@ -5,44 +5,23 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "היה",
-      "rationale": "'oli prohvet' — eesti aeg köidub 'prohvetis'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "koja mägi",
-      "rationale": "הר הבית sõna-sõnalt 'koja (templi) mägi'"
-    }
-  ],
-  "translation": "Miika, mooraslane, prohvetis Hiskija, Juuda kuninga päevil, ja ta ütles kogu Juuda rahvale, öeldes: nõnda ütleb Jahve Tsevaot: Siion küntakse põlluks ja Jerušalaim saab varemeteks ning koja mäest saab metsakõrgendik.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ef7e6037dc8473860b5b015ab157bed5020022900f7bd16b93acb258bf26092f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/26\/17-20.1792548772474.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Miikja Moorasetist prohvetas Hizkija, Juuda kuninga, päevil ja ütles kogu Juuda rahvale, öeldes: nii ütleb Jahve Tsevaot: Siion küntakse põlluks ja Jerušalaim saab varemeteks ning ⟨koja⟩ mäe kõrgused saavad metsakõrgusteks.",
   "tokens": [
     {
       "surface": "מיכיה",
-      "gloss": "Miika"
+      "gloss": "Miikja"
     },
     {
       "surface": "המורשתי",
-      "gloss": "mooraslane"
+      "gloss": "Moorasetist"
     },
     {
       "surface": "היה",
-      "gloss": ""
+      "gloss": "⟨oli⟩"
     },
     {
       "surface": "נבא",
-      "gloss": "prohvetis"
+      "gloss": "prohvetas"
     },
     {
       "surface": "בימי",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hiskija"
+      "gloss": "Hizkija"
     },
     {
       "surface": "מלך",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ta ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kogu"
     },
     {
       "surface": "כל",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "nõnda"
+      "gloss": "nii"
     },
     {
       "surface": "אמר",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "והר",
-      "gloss": "ja mäest"
+      "gloss": "ja mäe"
     },
     {
       "surface": "הבית",
@@ -134,13 +113,13 @@
     },
     {
       "surface": "לבמות",
-      "gloss": "kõrgendik"
+      "gloss": "kõrgused"
     },
     {
       "surface": "יער",
-      "gloss": "metsa"
+      "gloss": "metsakõrgusteks"
     }
   ],
-  "timestamp": "2026-10-21T02:12:52.476581728Z",
+  "timestamp": "2026-10-21T06:20:19.794826583Z",
   "model": "glm-5.3"
 }

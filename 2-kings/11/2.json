@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הממותתים",
-      "rationale": "partitsip passiivist 'keda tapeti' vs 'keda pidi tapetud saama'; 'keda tapeti' jäetakse arusaamatuks, miks Joaš alles jäi"
-    },
-    {
-      "kind": "hapax",
-      "subject": "הממותתים",
-      "rationale": "selle partitsipi kuju esineb Tanahhis ainult siin"
-    },
-    {
-      "kind": "secret",
-      "subject": "peitmine",
-      "rationale": "lapse varjamine voodetoas Atalja eest — kogu salaseits kandub salmi peal"
-    }
-  ],
-  "translation": "Aga Jehošeba, kuningas Joorami tütar, Ahasja õde, võttis ⟨את⟩ Joaši, Ahasja poja, ja varastas ta ära kuninga poegade seast, keda tapeti — tema ja tema amme — voodetuppa, ja nad peitsid ta Atalja näo eest, ja teda ei tapetud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/11\/1-4.1792546213061.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jehošeba, kuningas Joorami tütar, Ahazja õde, võttis ⟨את⟩ Joaši, Ahazja poja, ja varastas ta keskkohast kuninga poegade seast, keda tapeti, tema ja tema imetaja, voodikambrisse, ja nad peitsid ta Atalja eest ega lastud teda tappa.",
   "tokens": [
     {
       "surface": "ותקח",
-      "gloss": "Aga võttis"
+      "gloss": "ja võttis"
     },
     {
       "surface": "יהושבע",
@@ -59,12 +33,12 @@
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Ahasja"
+      "gloss": "Ahazja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joaši, Ahasja poja"
+      "marks": "Joaši"
     },
     {
       "surface": "יואש",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "אחזיה",
-      "gloss": "Ahasja"
+      "gloss": "Ahazja"
     },
     {
       "surface": "ותגנב",
@@ -84,12 +58,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ta",
-      "marks": "ta ära kuninga poegade seast"
+      "gloss": "⟨את⟩ teda",
+      "marks": "ta (Joaš)"
     },
     {
       "surface": "מתוך",
-      "gloss": "seast"
+      "gloss": "keskkohast"
     },
     {
       "surface": "בני",
@@ -106,24 +80,24 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ teda",
-      "marks": "tema ja tema amme"
+      "marks": "teda (Joaš)"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "tema amme"
+      "marks": "tema imetaja"
     },
     {
       "surface": "מינקתו",
-      "gloss": "tema amme"
+      "gloss": "tema imetaja"
     },
     {
       "surface": "בחדר",
-      "gloss": "tuppa"
+      "gloss": "kambrisse"
     },
     {
       "surface": "המטות",
-      "gloss": "voodete"
+      "gloss": "voodi"
     },
     {
       "surface": "ויסתרו",
@@ -132,11 +106,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ ta",
-      "marks": "ta Atalja näo eest"
+      "marks": "ta (Joaš)"
     },
     {
       "surface": "מפני",
-      "gloss": "näo eest"
+      "gloss": "eest"
     },
     {
       "surface": "עתליהו",
@@ -144,13 +118,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "ja ei"
     },
     {
       "surface": "הומת",
       "gloss": "tapetud"
     }
   ],
-  "timestamp": "2026-10-21T01:30:13.063693604Z",
+  "timestamp": "2026-10-21T05:56:58.902638639Z",
   "model": "glm-5.3"
 }

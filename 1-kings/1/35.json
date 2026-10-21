@@ -5,35 +5,19 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vürst",
-      "rationale": "נגיד on 'eesseiseja, vürst, ülem' - 'valitseja' läheks kokku ימלך 'valitseb' sõnaga"
-    }
-  ],
-  "translation": "Ja tulge üles tema järel, ja ta tuleb ja istub mu troonile, ja tema valitseb minu asemel; ja tema olen ma käskinud olla vürst Jisraeli üle ja Jehuda üle.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/1\/33-36.1792545122278.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te tõuske tema järele ⟨üles⟩, ja tema tuleb ja istub mu troonile, ja temaolgu see, kes valitseb minu asemel; ja ⟨את⟩ tema olen mina käskinud olla vürst Jisraeli üle ja Juuda üle.",
   "tokens": [
     {
       "surface": "ועליתם",
-      "gloss": "ja tulge üles"
+      "gloss": "ja te tõuske"
     },
     {
       "surface": "אחריו",
-      "gloss": "tema järel"
+      "gloss": "tema järele"
     },
     {
       "surface": "ובא",
-      "gloss": "ja ta tuleb"
+      "gloss": "ja tema tuleb"
     },
     {
       "surface": "וישב",
@@ -61,12 +45,12 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "ja ⟨את⟩ teda",
-      "marks": "käskinud"
+      "gloss": "⟨את⟩",
+      "marks": "tema"
     },
     {
       "surface": "צויתי",
-      "gloss": "olen ma käskinud"
+      "gloss": "olen mina käskinud"
     },
     {
       "surface": "להיות",
@@ -82,7 +66,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Jisrael"
+      "gloss": "Jisraeli"
     },
     {
       "surface": "ועל",
@@ -90,9 +74,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "Juuda"
     }
   ],
-  "timestamp": "2026-10-21T01:12:02.282781666Z",
+  "timestamp": "2026-10-21T05:50:15.104566463Z",
   "model": "glm-5.3"
 }

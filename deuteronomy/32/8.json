@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בני ישראל",
-      "rationale": "Masoreedi tekst 'Jisraeli poegade arvu järgi', aga Qumrani käsikirjad ja LXX: 'Jumala (Elohimi) poegade arvu järgi' — viide jumalikele nõukogu liikmetele."
-    },
-    {
-      "kind": "measurement",
-      "subject": "rahvaste piirid ... arvu järgi",
-      "rationale": "Rahvaste arv ja piirid seotakse arvu mõõduga."
-    }
-  ],
-  "translation": "Kui Elyon andis rahvastele nende pärandi, kui ta eraldas inimeste pojad, püstitas ta rahvaste piirid Jisraeli poegade arvu järgi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/32\/5-8.1792541230444.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui Elijon andis rahvastele nende pärandi, kui ta eraldas inimkonna pojad, püstitas ta rahvaste piirid Jisraeli poegade arvu järgi.",
   "tokens": [
     {
       "surface": "בהנחל",
-      "gloss": "kui ... andis pärandi"
+      "gloss": "andis pärandi"
     },
     {
       "surface": "עליון",
-      "gloss": "Elyon"
+      "gloss": "Elijon"
     },
     {
       "surface": "גוים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "inimeste"
+      "gloss": "inimkonna"
     },
     {
       "surface": "יצב",
@@ -70,13 +49,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "poegade"
+      "gloss": "pojad"
     },
     {
       "surface": "ישראל",
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T00:07:10.445690181Z",
+  "timestamp": "2026-10-21T06:03:40.326750958Z",
   "model": "glm-5.3"
 }

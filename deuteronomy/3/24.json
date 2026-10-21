@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Estonian copula supplied in the rhetorical question; Hebrew is verbless"
-    },
-    {
-      "kind": "hapax",
-      "subject": "גדלך",
-      "rationale": "גֹּדֶל 'greatness' occurs rarely; the absolute form of this noun appears only here and in Ps 71:21"
-    },
-    {
-      "kind": "you",
-      "subject": "Moše palve Jahvele",
-      "rationale": "Direct second-person address to Jahve — Moshe's prayer beginning here"
-    }
-  ],
-  "translation": "Adonai Jahve, sina oled alustanud näidata oma sulusele ⟨את⟩ oma suurust ja ⟨את⟩ oma tugevat kätt; sest kes ⟨on⟩ El taeva peal või maal peal, kes teeks sinu tegude sarnaseid ja sinu vägevuste sarnaseid?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b5ada990de1836bf3691b784021a2406ca4d67bd89c68ef9402fd127bfad40e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/3\/21-24.1792540567222.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Adonai Jahve, sina oled hakanud näitama ⟨את⟩ oma sulasel ⟨את⟩ oma suurust ja ⟨את⟩ oma tugevat kätt; sest kes ⟨on⟩ El taeva peal või maal peal, kes teeks sinu tegude sarnaseid ja sinu vägevuse sarnaseid?",
   "tokens": [
     {
       "surface": "אדני",
@@ -47,20 +21,20 @@
     },
     {
       "surface": "החלות",
-      "gloss": "oled alustanud"
+      "gloss": "oled hakanud"
     },
     {
       "surface": "להראות",
-      "gloss": "näidata"
+      "gloss": "näitama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma sulusele"
+      "marks": "oma sulasel"
     },
     {
       "surface": "עבדך",
-      "gloss": "oma sulusele"
+      "gloss": "oma sulasel"
     },
     {
       "surface": "את",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "oma tugevat kätt"
     },
     {
@@ -86,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sest"
+      "gloss": "sest kes"
     },
     {
       "surface": "מי",
@@ -118,9 +92,9 @@
     },
     {
       "surface": "וכגבורתך",
-      "gloss": "ja sinu vägevuste sarnaseid"
+      "gloss": "ja sinu vägevuse sarnaseid"
     }
   ],
-  "timestamp": "2026-10-20T23:56:07.223584510Z",
+  "timestamp": "2026-10-21T06:03:19.017662801Z",
   "model": "glm-5.3"
 }

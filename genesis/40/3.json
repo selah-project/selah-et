@@ -5,61 +5,40 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hukkajate ülem",
-      "rationale": "טבח on 'lihunik \/ timukas' — ihukaitsja, kes ka hukkamisi teeb; 'hukkajate ülem' hoiab verise pildi"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "heebrea kaudne väljend 'aseotud' eeldab eestis kopeela 'oli'"
-    }
-  ],
-  "translation": "Ja ta pani nad vahi alla hukkajate ülema koju, ümmargusse vanglamajja, kohta, kus Joosef ⟨oli⟩ seal seotud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f19d19edcc53c1c029aa89a6634d5e75d2a4de24161a969c71c25bb35d2e967a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/40\/1-4.1792537980406.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta pani nad neid valve alla — kõrgema õuemeistri kotta, vanglasse, paika, kus Joosep ⟨oli⟩ seotud seal.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Ja ta pani"
+      "gloss": "ja ta pani"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nad"
+      "marks": "nad (kaks ametnikku)"
     },
     {
       "surface": "במשמר",
-      "gloss": "vahi alla"
+      "gloss": "valve alla"
     },
     {
       "surface": "בית",
-      "gloss": "koju"
+      "gloss": "kotta"
     },
     {
       "surface": "שר",
-      "gloss": "ülema"
+      "gloss": "kõrgema õuemeistri"
     },
     {
       "surface": "הטבחים",
-      "gloss": "hukkajate"
+      "gloss": "õuemeistri (hukkamistalgist)"
     },
     {
       "surface": "אל",
-      "gloss": "ümmargusse"
+      "gloss": "vanglasse"
     },
     {
       "surface": "בית",
-      "gloss": "majja"
+      "gloss": "kotta"
     },
     {
       "surface": "הסהר",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "מקום",
-      "gloss": "kohta"
+      "gloss": "paika"
     },
     {
       "surface": "אשר",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Joosef"
+      "gloss": "Joosep"
     },
     {
       "surface": "אסור",
@@ -86,6 +65,6 @@
       "gloss": "seal"
     }
   ],
-  "timestamp": "2026-10-20T23:13:00.407327947Z",
+  "timestamp": "2026-10-21T06:15:55.911918807Z",
   "model": "glm-5.3"
 }

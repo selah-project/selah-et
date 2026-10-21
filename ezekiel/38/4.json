@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מכלול",
-      "rationale": "'hiilgavalt riides' (JPS 'gorgeously') vs 'täielikusse relvarüsse' (KJV 'all sorts of armour')"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חחים",
-      "rationale": "sõna-sõnalt 'ninarõngad\/konksud' — kujutab Gogi kui looma, keda talutakse"
-    }
-  ],
-  "translation": "Ja ma pööran sind tagasi ja panen konksud su lõugadesse ja viin sind välja, ja ⟨את⟩ kogu su väe, hobused ja ratsanikud, kõik riietatud hiilgavalt, kõik suur kogu, suur- ja väiksekilbiga, mõõku kätel pidavad, kõik nemad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "63ba2c2326d2feccb2c1b68ae65c0ceccbc8126d11679a95ed6f5070e039dcf0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/38\/1-4.1792550587038.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma pööran sind tagasi, ja panen haked sinu lõugadesse, ja ma viin välja ⟨את⟩ sind ja ⟨את⟩ kogu sinu väe, hobused ja ratsanikud, riietatud täielikku rõivastusse, kõik nemad, suur koguaskond, suure ja väikse kilbiga, mõõku käsutades, kõik nemad.",
   "tokens": [
     {
       "surface": "ושובבתיך",
-      "gloss": "Ja ma pööran sind tagasi"
+      "gloss": "pööran sind tagasi"
     },
     {
       "surface": "ונתתי",
@@ -38,24 +17,25 @@
     },
     {
       "surface": "חחים",
-      "gloss": "konksud"
+      "gloss": "haked"
     },
     {
       "surface": "בלחייך",
-      "gloss": "su lõugadesse"
+      "gloss": "sinu lõugadesse"
     },
     {
       "surface": "והוצאתי",
-      "gloss": "ja viin sind välja"
+      "gloss": "ja viin välja"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "sind"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kogu su väe"
+      "marks": "kogu sinu väe"
     },
     {
       "surface": "כל",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "חילך",
-      "gloss": "su väe"
+      "gloss": "sinu väe"
     },
     {
       "surface": "סוסים",
@@ -79,15 +59,15 @@
     },
     {
       "surface": "מכלול",
-      "gloss": "hiilgavalt"
+      "gloss": "täielikku rõivastusse"
     },
     {
       "surface": "כלם",
-      "gloss": "kõik"
+      "gloss": "kõik nemad"
     },
     {
       "surface": "קהל",
-      "gloss": "kogu"
+      "gloss": "koguaskond"
     },
     {
       "surface": "רב",
@@ -95,15 +75,15 @@
     },
     {
       "surface": "צנה",
-      "gloss": "suurkilbiga"
+      "gloss": "suure kilbiga"
     },
     {
       "surface": "ומגן",
-      "gloss": "ja väiksekilbiga"
+      "gloss": "ja väikse kilbiga"
     },
     {
       "surface": "תפשי",
-      "gloss": "kätel pidavad"
+      "gloss": "käsutades"
     },
     {
       "surface": "חרבות",
@@ -114,6 +94,6 @@
       "gloss": "kõik nemad"
     }
   ],
-  "timestamp": "2026-10-21T02:43:07.039535362Z",
+  "timestamp": "2026-10-21T06:10:11.867355535Z",
   "model": "glm-5.3"
 }

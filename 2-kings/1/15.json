@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אותו = temaga",
-      "rationale": "siin on את kaassõnana ('koos temaga'), mitte otsese objekti marker; KJV 'with him'"
-    }
-  ],
-  "translation": "Ja Jahve ingel rääkis Eelijaga: Mine temaga alla, ära karda teda; ja ta tõusis ja läks temaga alla kuninga juurde.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/1\/13-16.1792545839150.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ingel rääkis Elijaga: Mine alla temaga ⟨את⟩, ära karda teda. Ja ta tõusis ja läks alla temaga ⟨את⟩ kuninga juurde.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-"
+      "gloss": "...uga"
     },
     {
       "surface": "אליהו",
-      "gloss": "Eelija"
+      "gloss": "Elija"
     },
     {
       "surface": "רד",
@@ -49,7 +33,8 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ temaga"
+      "gloss": "⟨את⟩",
+      "marks": "temaga"
     },
     {
       "surface": "אל",
@@ -69,21 +54,22 @@
     },
     {
       "surface": "וירד",
-      "gloss": "ja läks alla"
+      "gloss": "läks alla"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ temaga"
+      "gloss": "⟨את⟩",
+      "marks": "temaga"
     },
     {
       "surface": "אל",
-      "gloss": "juurde"
+      "gloss": "...u juurde"
     },
     {
       "surface": "המלך",
       "gloss": "kuninga"
     }
   ],
-  "timestamp": "2026-10-21T01:23:59.153302016Z",
+  "timestamp": "2026-10-21T05:56:36.951185976Z",
   "model": "glm-5.3"
 }

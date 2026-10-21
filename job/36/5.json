@@ -5,33 +5,7 @@
   "book": "job",
   "lang": "et",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea puudub koopula; eesti keel vajab seda"
-    },
-    {
-      "kind": "substitution",
-      "subject": "südames",
-      "rationale": " paljud tõlked annavad לב kui 'mõistus', aga sõna on 'süda'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "kedagi",
-      "rationale": "ימאס öeldis on absoluutne — 'ei põlga maha'; objekt on lisatud nagu vana tõlgetes"
-    }
-  ],
-  "translation": "Vaata, El ⟨on⟩ vägev ega põlga ⟨kedagi⟩ maha, vägev jõus ja südames.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/36\/5-8.1792555641984.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, El on vägev ja ⟨tema⟩ ei põlga ühtegi: vägev jõus ja südames.",
   "tokens": [
     {
       "surface": "הן",
@@ -46,16 +20,12 @@
       "gloss": "vägev"
     },
     {
-      "surface": "ו",
-      "gloss": "ja"
-    },
-    {
-      "surface": "לא",
-      "gloss": "ei"
+      "surface": "ולא",
+      "gloss": "ja ei"
     },
     {
       "surface": "ימאס",
-      "gloss": "põlga maha"
+      "gloss": "põlga"
     },
     {
       "surface": "כביר",
@@ -70,6 +40,6 @@
       "gloss": "südames"
     }
   ],
-  "timestamp": "2026-10-21T04:07:21.985135409Z",
+  "timestamp": "2026-10-21T06:23:40.678364370Z",
   "model": "glm-5.3"
 }

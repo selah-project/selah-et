@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את",
-      "rationale": "haruldane את isikulise küsimisõna või nime ees — mõned loevad siin 'koos', teised ott-markerit, mis tavaliselt küsimärkide juures ei esine"
-    }
-  ],
-  "translation": "Ja naine ütles: Kelle ⟨את⟩ ma sinule üles toon? Ja tema ütles: Šemueli — too üles minule.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/28\/9-12.1792544253353.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja naine ütles: kelle ⟨את⟩ ma sulle üles toon? Ja ta ütles: too mulle üles ⟨את⟩ Šemuël.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -42,11 +26,11 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "ma üles toon"
+      "gloss": "toon üles"
     },
     {
       "surface": "לך",
-      "gloss": "sinule"
+      "gloss": "sulle"
     },
     {
       "surface": "ויאמר",
@@ -55,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šemueli"
+      "marks": "Šemuël"
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemueli"
+      "gloss": "Šemuël"
     },
     {
       "surface": "העלי",
@@ -67,9 +51,9 @@
     },
     {
       "surface": "לי",
-      "gloss": "minule"
+      "gloss": "mulle"
     }
   ],
-  "timestamp": "2026-10-21T00:57:33.355060321Z",
+  "timestamp": "2026-10-21T05:53:47.882390024Z",
   "model": "glm-5.3"
 }

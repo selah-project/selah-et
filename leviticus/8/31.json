@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Aharon ja tema pojad",
-      "rationale": "Otsekõne käskkäsitlusega: Moše pöördub preestrite poole mitmuses (keetke, sööge, põletage)."
-    }
-  ],
-  "translation": "Ja Moše ütles Aharonile ja tema poegadele: keetke ⟨את⟩ liha kohtumise telgi sissepääsu juures ja sööge seda seal ning ⟨את⟩ leiba, mis on pühitsemisohrite korvis, nagu ma olen käskinud, öeldes: Aharon ja tema pojad söögu seda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e9c0a9c7556e10711889309311c8d321d46ad6f63b7b54de6293c9e889d8e556",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/8\/29-32.1792539279155.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše ütles Aharonile ja tema poegadele: keetke ⟨את⟩ liha kohtumise teli sissepääsu juures ja sööge seda seal ⟨את⟩ ning ⟨את⟩ leiba, mis on pühitsemise korvis, nagu ma käskisin, öeldes: Aharon ja tema pojad peavad seda sööma.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "משה",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "-le"
+      "gloss": "abile"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharonile"
+      "gloss": "Aharon"
     },
     {
       "surface": "ואל",
-      "gloss": "ja -le"
+      "gloss": "ja"
     },
     {
       "surface": "בניו",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "telgi"
+      "gloss": "teli"
     },
     {
       "surface": "מועד",
@@ -82,8 +66,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "seda"
+      "gloss": "⟨את⟩ teda",
+      "marks": "liha"
     },
     {
       "surface": "ואת",
@@ -104,7 +88,7 @@
     },
     {
       "surface": "המלאים",
-      "gloss": "pühitsemisohrite"
+      "gloss": "pühitsemise"
     },
     {
       "surface": "כאשר",
@@ -112,7 +96,7 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "olen käskinud"
+      "gloss": "ma käskisin"
     },
     {
       "surface": "לאמר",
@@ -128,9 +112,9 @@
     },
     {
       "surface": "יאכלהו",
-      "gloss": "söögu seda"
+      "gloss": "peavad seda sööma"
     }
   ],
-  "timestamp": "2026-10-20T23:34:39.157127736Z",
+  "timestamp": "2026-10-21T06:31:09.052845529Z",
   "model": "glm-5.3"
 }

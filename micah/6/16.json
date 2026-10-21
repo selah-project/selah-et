@@ -5,41 +5,15 @@
   "book": "micah",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Beet",
-      "rationale": "בית אחאב on nimi 'Ahabi maja'; eesti saab siduda kui ühe nime"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לשמה \/ לשרקה",
-      "rationale": "Kaks lõppriimi: häving ja pilk — heebrea kõla-vastus, eesti keeles osaliselt alles"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahve kõne",
-      "rationale": "Jumala kohtuotsus käib otseselt 'sina\/teie' peale — Mi 6 vaidlus lõpeb lasitusega"
-    }
-  ],
-  "translation": "Ja Omri määrusi on peetud ja kogu Beet Ahabi teod, ja te käite nende nõuandes, et anda sind ⟨את⟩ hävinguks ja tema elanikke pilkeks, ja teie kannate mu rahva häbi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6ab8c8cba877c067032a1c2fb66b983d29614d6356603e7d07090f9e4cebb5bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/micah\/6\/13-16.1792551578115.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Omri määrused ⟨on⟩ peetud ja kogu Beet-Ahhabi teod, ja te olete käinud nende plaanides, et ma annaksin ⟨את⟩ sind hävinguks ja tema elanikud vihistamiseks; ja mu rahva pilke te kannate.",
   "tokens": [
     {
       "surface": "וישתמר",
-      "gloss": "ja on peetud"
+      "gloss": "ja ⟨on⟩ peetud"
     },
     {
       "surface": "חקות",
-      "gloss": "määrusi"
+      "gloss": "määrused"
     },
     {
       "surface": "עמרי",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beet"
+      "gloss": "Beet-"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahabi"
+      "gloss": "Ahhab"
     },
     {
       "surface": "ותלכו",
-      "gloss": "ja te käite"
+      "gloss": "ja te olete käinud"
     },
     {
       "surface": "במעצותם",
-      "gloss": "nende nõuandes"
+      "gloss": "nende plaanides"
     },
     {
       "surface": "למען",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "תתי",
-      "gloss": "anda"
+      "gloss": "ma annaksin"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ sind",
       "marks": "sind (hävinguks)"
     },
     {
@@ -88,15 +62,15 @@
     },
     {
       "surface": "וישביה",
-      "gloss": "ja tema elanikke"
+      "gloss": "ja tema elanikud"
     },
     {
-      "surface": "לשרקha",
-      "gloss": "pilkeks"
+      "surface": "לשרקה",
+      "gloss": "vihistamiseks"
     },
     {
       "surface": "וחרפת",
-      "gloss": "ja häbi"
+      "gloss": "ja pilke"
     },
     {
       "surface": "עמי",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "תשאו",
-      "gloss": "teie kannate"
+      "gloss": "te kannate"
     }
   ],
-  "timestamp": "2026-10-21T02:59:38.117377622Z",
+  "timestamp": "2026-10-21T06:31:11.605396649Z",
   "model": "glm-5.3"
 }

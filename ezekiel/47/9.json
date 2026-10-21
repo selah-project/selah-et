@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hing",
-      "rationale": "נפש on 'hingav olend', elujõud, mitte hingesell"
-    },
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "rationale": "heebrea 'seal\/sinna' koos kohasõnaga jääb eesti käänetesse"
-    },
-    {
-      "kind": "alternative",
-      "subject": "kaks jõge",
-      "rationale": "נחלים on kaksus; võib tähendada ka jõe kaht haru nagu 1Ms 2:10"
-    }
-  ],
-  "translation": "Ja saab olema: iga elav hing, mis sigidab igale poole, kuhu nood kaks jõge tulevad, saab elama; ja kala saab olema väga palju, sest need veed on sinna tulnud ja neid ravitakse; ja kõik, kuhu jõgi tuleb, elab.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e77c9ec621f5a2b845df5dc3d99c7c5db607d0ddd71665db7cddc69059d82a4c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/47\/9-12.1792550946886.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja iga elav olend, kes tungib kõikjale, kuhu jõed jõuavad, saab elada, ja kala saab olema väga palju, sest need veed on sinna jõudnud ja need ⟨on⟩ parandatud; ja kõik, kuhu jõgi jõuab, saab elama.",
   "tokens": [
     {
       "surface": "והיה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "נפש",
-      "gloss": "hing"
+      "gloss": "olend"
     },
     {
       "surface": "חיה",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "kes"
     },
     {
       "surface": "ישרץ",
-      "gloss": "sigidab"
+      "gloss": "tungib kõikjale"
     },
     {
       "surface": "אל",
-      "gloss": "igale"
+      "gloss": ""
     },
     {
       "surface": "כל",
-      "gloss": "poole"
+      "gloss": "kõikjale"
     },
     {
       "surface": "אשר",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "nad tulevad"
+      "gloss": "jõuavad"
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "sinna"
     },
     {
       "surface": "נחלים",
-      "gloss": "kaks jõge"
+      "gloss": "jõed"
     },
     {
       "surface": "יחיה",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "באו",
-      "gloss": "on tulnud"
+      "gloss": "on jõudnud"
     },
     {
       "surface": "שמה",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "המים",
-      "gloss": "veed"
+      "gloss": "need veed"
     },
     {
       "surface": "האלה",
@@ -123,11 +97,11 @@
     },
     {
       "surface": "וירפאו",
-      "gloss": "ja neid ravitakse"
+      "gloss": "ja on parandatud"
     },
     {
       "surface": "וחי",
-      "gloss": "ja elab"
+      "gloss": "saab elama"
     },
     {
       "surface": "כל",
@@ -139,17 +113,17 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "tuleb"
+      "gloss": "jõuab"
     },
     {
       "surface": "שמה",
-      "gloss": ""
+      "gloss": "sinna"
     },
     {
       "surface": "הנחל",
       "gloss": "jõgi"
     }
   ],
-  "timestamp": "2026-10-21T02:49:06.888769819Z",
+  "timestamp": "2026-10-21T06:11:58.819889366Z",
   "model": "glm-5.3"
 }

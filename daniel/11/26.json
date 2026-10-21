@@ -5,53 +5,27 @@
   "book": "daniel",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨tema⟩",
-      "rationale": "Sufiksiline objekt -הו nõuab eesti keeles avalikku asesõna"
-    },
-    {
-      "kind": "hapax",
-      "subject": "פת בגו",
-      "rationale": "paith bagō esineb Tanahhis vaid Taanieli õue loendes; 'leivahõrgutised'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ישטוף",
-      "rationale": "Sõna-sõnalt 'voolab üle \/ uhutakse', kujund väe purustamiseks"
-    }
-  ],
-  "translation": "Ja tema eine osalised purustavad ⟨tema⟩, ja ta vägi uhutakse ära, ja langenud surnuid langeb palju.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5c68907e5f0fc625db5200ce256dfbd7692c5bd13602fd261b25b8bbf3f9a158",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/11\/25-28.1792556562351.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tema hõrgutisi söövad purustavad ⟨tema⟩, ja tema vägi uhutakse ära, ja langeb palju läbitorgatuid.",
   "tokens": [
     {
       "surface": "ואכלי",
-      "gloss": "ja ... osalised"
+      "gloss": "ja ... söövad"
     },
     {
       "surface": "פת",
-      "gloss": "eine"
-    },
-    {
-      "surface": "בגו",
       "gloss": "hõrgutisi"
     },
     {
+      "surface": "בגו",
+      "gloss": "tema hõrgutised"
+    },
+    {
       "surface": "ישברוהו",
-      "gloss": "purustavad"
+      "gloss": "purustavad tema"
     },
     {
       "surface": "וחילו",
-      "gloss": "ja ta vägi"
+      "gloss": "ja tema vägi"
     },
     {
       "surface": "ישטוף",
@@ -59,17 +33,17 @@
     },
     {
       "surface": "ונפלו",
-      "gloss": "ja langeb"
+      "gloss": "ja langevad"
     },
     {
-      "surface": "חלallevim",
-      "gloss": "langenud surnuid"
+      "surface": "חללים",
+      "gloss": "läbitorgatud"
     },
     {
       "surface": "רבים",
       "gloss": "palju"
     }
   ],
-  "timestamp": "2026-10-21T04:22:42.352117786Z",
+  "timestamp": "2026-10-21T06:01:41.122327153Z",
   "model": "glm-5.3"
 }

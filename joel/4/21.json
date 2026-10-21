@@ -5,32 +5,11 @@
   "book": "joel",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ונקיתי דמם לא נקיתי",
-      "rationale": "nqy verbi kordus: 'ma tunnistan nende vere süütuks, mida ma ei olnud tunnistanud süütuks' vs passiivne 'nende veri puhastatakse'; kummagi poole tähendus jätab lause ebaselgeks"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויהוה",
-      "rationale": "võimalik ka põhjuslik 'ja Jahve' ilma 'sest'-ta; JPS jätab side lahtiseks"
-    }
-  ],
-  "translation": "Ja ma puhastan nende vere, mida ma ei olnud puhastanud, sest Jahve elab Tsijonis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6bc40d6388ef16b5ac0edee08774ba4a05b82c447dce6fa6ccb0baee84ae514d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joel\/4\/21-21.1792551099241.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma teen nende vere puhtaks, mida ma ei ole teinud puhtaks, ja Jahve elab Tsijonis.",
   "tokens": [
     {
       "surface": "ונקיתי",
-      "gloss": "ja ma puhastan"
+      "gloss": "Ja ma teen ... puhtaks"
     },
     {
       "surface": "דמם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "נקיתי",
-      "gloss": "olin puhastanud"
+      "gloss": "ma olema teinud puhtaks"
     },
     {
       "surface": "ויהוה",
-      "gloss": "sest Jahve"
+      "gloss": "ja Jahve"
     },
     {
       "surface": "שכן",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "בציון",
-      "gloss": "Tsiyonis"
+      "gloss": "Tsijonis"
     }
   ],
-  "timestamp": "2026-10-21T02:51:39.242306481Z",
+  "timestamp": "2026-10-21T06:23:42.612951516Z",
   "model": "glm-5.3"
 }

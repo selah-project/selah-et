@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 56,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hing (nefesh)",
-      "rationale": "נפש on elujõud\/kõri\/hingamine, mitte immateriaalne 'hing'."
-    },
-    {
-      "kind": "crux",
-      "subject": "הלא",
-      "rationale": "KJV loeb küsimusena ('eks sa siis ei too?'), teised jaatusena — 'eks sa toonud mu jalad komistamast'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "tänutõusud → nadrid",
-      "rationale": "Ps 56:13 'תודות' on ohver, mida siin nimetatakse ka 'nadriteks' — erinevad traditsioonid."
-    }
-  ],
-  "translation": "Sest sina kiskusid mu hinge (nefesh) surmast, ⟨ja⟩ mu jalad polnud<\/span>, et nad komistaksid, kui ma kõnnin Elohimi ees elavate valguses.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/56\/13-14.1792553041635.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest sa oled päästnud ⟨minu⟩ hinge surmast — kas mitte ⟨ka⟩ mu jalad külvatumast langemast, et ma käiksin Elohimi ees elavate valguses?",
   "tokens": [
     {
       "surface": "כי",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "הצלת",
-      "gloss": "sina kiskusid"
+      "gloss": "oled päästnud"
     },
     {
       "surface": "נפשי",
-      "gloss": "mu hinge (nefesh)"
+      "gloss": "hinge"
     },
     {
       "surface": "ממות",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "הלא",
-      "gloss": "polnud"
+      "gloss": "kas mitte"
     },
     {
       "surface": "רגלי",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "מדחי",
-      "gloss": "et nad komistaksid"
+      "gloss": "langemast külvatusest"
     },
     {
       "surface": "להתהלך",
-      "gloss": "kui ma kõnnin"
+      "gloss": "et ma käiksin"
     },
     {
       "surface": "לפני",
@@ -82,6 +56,6 @@
       "gloss": "elavate"
     }
   ],
-  "timestamp": "2026-10-21T03:24:01.636190484Z",
+  "timestamp": "2026-10-21T06:38:10.097264863Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "palge",
-      "rationale": "לִפְנֵי tähendab sõna-sõnalt 'palge (ees)' — lisatud 'palge', et säilitada heebrea keha-kujund."
-    }
-  ],
-  "translation": "Kui ta tall toob oma andamina, siis toob ta ⟨את⟩ selle Jahve palge ette.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/3\/5-8.1792539126122.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui tall ⟨הוא⟩ on see, kes ⟨את⟩ oma korruse ohvri toob, siis toogu ta selle ⟨אתו⟩ Jahve palge ette.",
   "tokens": [
     {
       "surface": "אם",
@@ -33,39 +17,39 @@
     },
     {
       "surface": "הוא",
-      "gloss": "see"
+      "gloss": "⟨on⟩ see"
     },
     {
       "surface": "מקריב",
-      "gloss": "toob"
+      "gloss": "toob (lähedale)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma andam"
+      "marks": "oma korruse ohvri"
     },
     {
       "surface": "קרבנו",
-      "gloss": "oma andami"
+      "gloss": "oma korruse ohvri"
     },
     {
       "surface": "והקריב",
-      "gloss": "siis toob"
+      "gloss": "siis toogu ta"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ selle",
-      "marks": "selle (talle)"
+      "gloss": "⟨אתו⟩",
+      "marks": "selle"
     },
     {
       "surface": "לפני",
-      "gloss": "ette"
+      "gloss": "palge ette"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T23:32:06.123450254Z",
+  "timestamp": "2026-10-21T06:30:02.280854126Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Jisraeli mehed Gidjonile",
-      "rationale": "Otsene pöördumine Gidjoni poole pakkumisega: 'valitse meid'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גם ×3",
-      "rationale": "Kolmekordne 'samuti' rõhutab dünastilist pakkumist — sina, poeg, pojapoeg."
-    }
-  ],
-  "translation": "Ja Jisraeli mehed ütlesid Gidjonile: Valitse meid, nii sina kui ka sinu poeg ja sinu pojapoeg, sest sina päästsid meid Midjani käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a88b6f6f2c58200a3a45db8cd32daade81e883ed19a3d60f11399208a2cfc90a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/8\/21-24.1792541983733.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jisraeli mehed ütlesid Gidonile: Valitse ⟨meie⟩ üle, nii sina kui ka sinu poeg ja sinu poja poeg, sest sina päästsid meid Midjani käest.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ja ütlesid"
+      "gloss": "Ja ütlesid"
     },
     {
       "surface": "איש",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "stile"
     },
     {
       "surface": "גדעון",
-      "gloss": "Gidjonile"
+      "gloss": "Gidonile"
     },
     {
       "surface": "משל",
-      "gloss": "valitse"
+      "gloss": "Valitse"
     },
     {
       "surface": "בנו",
-      "gloss": "meid"
+      "gloss": "üle"
     },
     {
       "surface": "גם",
@@ -74,15 +53,15 @@
     },
     {
       "surface": "גם",
-      "gloss": "kui ka"
+      "gloss": "ja"
     },
     {
       "surface": "בן",
-      "gloss": "poeg"
+      "gloss": "poja"
     },
     {
       "surface": "בנך",
-      "gloss": "sinu pojapoeg"
+      "gloss": "sinu pojal"
     },
     {
       "surface": "כי",
@@ -101,6 +80,6 @@
       "gloss": "Midjani"
     }
   ],
-  "timestamp": "2026-10-21T00:19:43.734215447Z",
+  "timestamp": "2026-10-21T06:27:20.677676644Z",
   "model": "glm-5.3"
 }

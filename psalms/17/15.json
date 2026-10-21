@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tsedek",
-      "rationale": "צדק jääb heebrea kõlana \"tsedek\" eesti tekstis, sest \"õigus\" üksi kaotaks sõna kuju."
-    },
-    {
-      "kind": "crux",
-      "subject": "בהקיץ",
-      "rationale": "\"Kui ärkan\" — unest või surmast ( traditsioon loeb äramist kui ärkamist pärast surma); tekst ise ei otsusta."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישבעו\/אשבעה",
-      "rationale": "Salmid 14–15 kordavad küllastumise juurt: pahad küllastuvad poegadest, mina sinu kujust."
-    }
-  ],
-  "translation": "Aga mina — tsedekis näen ma su palget, tahan küllastuda, kui ärkan, su kujust.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/17\/13-15.1792552361018.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mina — tsedekis näen ma su nägu, saan küllalt ⟨kui⟩ ma ärkan, su kuju ⟨nähes⟩.",
   "tokens": [
     {
       "surface": "אני",
-      "gloss": "Aga mina"
+      "gloss": "mina"
     },
     {
       "surface": "בצדק",
@@ -47,21 +21,21 @@
     },
     {
       "surface": "פניך",
-      "gloss": "su palget"
+      "gloss": "su nägu"
     },
     {
       "surface": "אשבעה",
-      "gloss": "tahan kyllastuda"
+      "gloss": "saan küllalt"
     },
     {
       "surface": "בהקיץ",
-      "gloss": "kui ärkan"
+      "gloss": "kui ma ärkan"
     },
     {
       "surface": "תמונתך",
-      "gloss": "su kujust"
+      "gloss": "su kuju ⟨nähes⟩"
     }
   ],
-  "timestamp": "2026-10-21T03:12:41.020560604Z",
+  "timestamp": "2026-10-21T06:37:53.587531486Z",
   "model": "glm-5.3"
 }

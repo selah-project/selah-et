@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea puudub kopeeruv verbi; eesti keel vajab 'on'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kümnendik eefa",
-      "rationale": "Teravilja mõõt ja jagatus pooleks hommikul ja õhtul"
-    },
-    {
-      "kind": "substitution",
-      "subject": "minja",
-      "rationale": "מנחה jääb vaste minutiin 'minja', mitte 'jahuohver'"
-    }
-  ],
-  "translation": "See ⟨on⟩ ohver, mida Aharon ja ta poegad toovad Jahvele päeval, mil tema ⟨võidakse⟩: kümnendik eefa peenjahu minjana, pide-ohver; pool sellest hommikul ja pool sellest õhtul.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/6\/13-16.1792539172350.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "See on Aharoni ja tema poegade ohver, mille nad toovad Jahvele päeval, mil ta ⟨tema⟩ võidetakse ⟨את⟩: kümnendik eefa peenjahu, pidev minha; pooled sellest hommikul ja pooled sellest õhtul.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "see"
+      "gloss": "See"
     },
     {
       "surface": "קרבן",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Aharoni"
     },
     {
       "surface": "ובניו",
-      "gloss": "ja ta poegad"
+      "gloss": "ja tema poegade"
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mille"
     },
     {
       "surface": "יקריבו",
-      "gloss": "toovad"
+      "gloss": "nad toovad"
     },
     {
       "surface": "ליהוה",
@@ -67,12 +41,12 @@
     },
     {
       "surface": "המשח",
-      "gloss": "võidakse"
+      "gloss": "võidetakse"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "tema (Aharoni)"
+      "marks": "tema — võidetava Aharoni osutab järgnev kümnendik-eefa-minha"
     },
     {
       "surface": "עשירת",
@@ -88,15 +62,15 @@
     },
     {
       "surface": "מנחה",
-      "gloss": "minja"
+      "gloss": "minha"
     },
     {
       "surface": "תמיד",
-      "gloss": "pide-ohver"
+      "gloss": "pidev"
     },
     {
       "surface": "מחציתה",
-      "gloss": "pool sellest"
+      "gloss": "pooled sellest"
     },
     {
       "surface": "בבקר",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "ומחציתה",
-      "gloss": "ja pool sellest"
+      "gloss": "ja pooled sellest"
     },
     {
       "surface": "בערב",
       "gloss": "õhtul"
     }
   ],
-  "timestamp": "2026-10-20T23:32:52.351448153Z",
+  "timestamp": "2026-10-21T06:29:46.620655528Z",
   "model": "glm-5.3"
 }

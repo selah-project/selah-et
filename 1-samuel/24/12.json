@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "elu",
-      "rationale": "נפש on 'kurguhingus\/elujõud', mitte immateriaalne 'hing'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ta",
-      "rationale": "lõpp-מ-location 'tema\/see' taandub eesti tárgatusele, märgitud sulgudes"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ראה...ראה...דע וראה",
-      "rationale": "korduv 'vaata, jah vaata... tea ja näe' — retooriline liitimine, eesti hoiab korduse"
-    }
-  ],
-  "translation": "Ja mu isa, vaata, jah vaata ⟨את⟩ sinu kuue hõlma minu käes, et ma lõikasin ⟨את⟩ sinu kuue hõlma ära ega tapnud sind. Tea ja näe, et minu käes ei ole kurja ega ülestõusu, ja ma ei ole sinu vastu pattu teinud, aga sina jaht minu elu jahti, et ⟨ta⟩ võtta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/24\/9-12.1792544225157.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja mu isa, vaata, jah, vaata ⟨את⟩ sinu kuue äärt minu käes: sest ma lõikasin ⟨את⟩ sinu kuue ääre ega tapnud sind. Tea ja vaata, et minu käes ei ole kurja ega ülestõusu, ja ma ei ole sinu vastu patustanud; aga sina jahtid ⟨את⟩ mu hinge, et ⟨see⟩ võtta.",
   "tokens": [
     {
       "surface": "ואבי",
-      "gloss": "ja mu isa"
+      "gloss": "Ja mu isa"
     },
     {
       "surface": "ראה",
@@ -52,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu kuue hõlma"
+      "marks": "sinu kuue äärt"
     },
     {
       "surface": "כנף",
-      "gloss": "kuue hõlma"
+      "gloss": "äär"
     },
     {
       "surface": "מעילך",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "et"
+      "gloss": "sest"
     },
     {
       "surface": "בכרתי",
@@ -77,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu kuue hõlma"
+      "marks": "sinu kuue ääre"
     },
     {
       "surface": "כנף",
-      "gloss": "kuue hõlma"
+      "gloss": "äär"
     },
     {
       "surface": "מעילך",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "e"
+      "gloss": "ja ei"
     },
     {
       "surface": "הרגתיך",
@@ -97,11 +71,11 @@
     },
     {
       "surface": "דע",
-      "gloss": "tea"
+      "gloss": "Tea"
     },
     {
       "surface": "וראה",
-      "gloss": "ja näe"
+      "gloss": "ja vaata"
     },
     {
       "surface": "כי",
@@ -121,7 +95,7 @@
     },
     {
       "surface": "ופשע",
-      "gloss": "ülestõusu"
+      "gloss": "ega ülestõusu"
     },
     {
       "surface": "ולא",
@@ -129,7 +103,7 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "ole pattu teinud"
+      "gloss": "ole ma patustanud"
     },
     {
       "surface": "לך",
@@ -141,22 +115,22 @@
     },
     {
       "surface": "צדה",
-      "gloss": "jaht jahti"
+      "gloss": "jahtid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "minu elu"
+      "marks": "mu hinge"
     },
     {
       "surface": "נפשי",
-      "gloss": "minu elu"
+      "gloss": "mu hinge"
     },
     {
       "surface": "לקחתה",
-      "gloss": "et ⟨ta⟩ võtta"
+      "gloss": "et võtta"
     }
   ],
-  "timestamp": "2026-10-21T00:57:05.159277671Z",
+  "timestamp": "2026-10-21T05:53:45.251906598Z",
   "model": "glm-5.3"
 }

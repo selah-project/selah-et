@@ -5,23 +5,7 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "sammas",
-      "rationale": "מצבה on mälestussammas, mujal Tanahhis sageli keelatud kultussammas; siin Jahvele püstitatud — tähendusvaheldus teksti sees."
-    }
-  ],
-  "translation": "Sel päeval on Jahvele altar Mitsraimi maa keskel ja sammas selle piiri ääres Jahvele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/17-20.1792546945350.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sel päeval on ⟨on⟩ alttar Jahvele Mitsraimi maal keskel, ja tulemasing ⟨on⟩ tema piiri ääres Jahvele.",
   "tokens": [
     {
       "surface": "ביום",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "sel"
     },
     {
       "surface": "יהיה",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "altar"
+      "gloss": "alttar"
     },
     {
       "surface": "ליהוה",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsraimi"
+      "gloss": "Mitsraim"
     },
     {
       "surface": "ומצבה",
-      "gloss": "ja sammas"
+      "gloss": "ja tulemasing"
     },
     {
       "surface": "אצל",
@@ -65,13 +49,13 @@
     },
     {
       "surface": "גבולה",
-      "gloss": "selle piiri"
+      "gloss": "tema piiri"
     },
     {
       "surface": "ליהוה",
       "gloss": "Jahvele"
     }
   ],
-  "timestamp": "2026-10-21T01:42:25.351681300Z",
+  "timestamp": "2026-10-21T06:17:36.658377775Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתהן\/אתם",
-      "rationale": "Lemma את, kuid otseobjekti asesõnad 'neid', mitte tunnusmarker ⟨את⟩."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רעה",
-      "rationale": "Salm kordab karjase-verbi neli korda (רעה ×4), kaja Hes 34 kogu karjase-teenäitajale."
-    },
-    {
-      "kind": "addition",
-      "subject": "kes",
-      "rationale": "Sidesõna 'kes' lisatud eesti keele jaoks, heebrea osalause ei vaja seda."
-    }
-  ],
-  "translation": "Ja ma tõstan nende kohale ühe karjase, kes neid karjatatab — ⟨את⟩ oma sulase Davidi; tema karjatatab neid ja tema on neile karjaseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/34\/21-24.1792550550888.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma tõstan nende üle ühe karjase, ja ta karjatrab ⟨את⟩ neid — ⟨את⟩ mu teener Davidi; tema karjatrab ⟨את⟩ neid, ja tema on neile karjaseks.",
   "tokens": [
     {
       "surface": "והקמתי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "עליהם",
-      "gloss": "nende kohale"
+      "gloss": "nende üle"
     },
     {
       "surface": "רעה",
@@ -51,24 +25,25 @@
     },
     {
       "surface": "ורעה",
-      "gloss": "kes karjatatab"
+      "gloss": "ja ta karjatrab"
     },
     {
       "surface": "אתהן",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma sulase Davidi"
+      "marks": "mu teener Davidi"
     },
     {
       "surface": "עבדי",
-      "gloss": "oma sulase"
+      "gloss": "mu teener"
     },
     {
       "surface": "דויד",
-      "gloss": "Davidi"
+      "gloss": "David"
     },
     {
       "surface": "הוא",
@@ -76,11 +51,12 @@
     },
     {
       "surface": "ירעה",
-      "gloss": "karjatatab"
+      "gloss": "karjatrab"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "והוא",
@@ -99,6 +75,6 @@
       "gloss": "karjaseks"
     }
   ],
-  "timestamp": "2026-10-21T02:42:30.889871923Z",
+  "timestamp": "2026-10-21T06:10:09.728554405Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "malachi",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את לוי",
-      "rationale": "זאת 'koos Leeviga' eeldab ühilduvat לויתי; mõned loevad selles markerit את"
-    },
-    {
-      "kind": "addition",
-      "subject": "püsiks",
-      "rationale": "להיות 'olemaks' nõuab eesti keeles öeldistäidet"
-    }
-  ],
-  "translation": "Ja te teate, et ma olen saadanud teile ⟨את⟩ selle käsu, et minu leping Leeviga ⟨püsiks⟩, ütleb Jahve Tsevaot.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/malachi\/2\/1-4.1792552221166.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te saate teada, et mina olen saatnud teile ⟨את⟩ selle käsu, et minu leping ⟨את⟩ Leeviga püsiks, ütleb Jahve Tsevaot.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "ja te teate"
+      "gloss": "Ja te saate teada"
     },
     {
       "surface": "כי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "ma olen saadanud"
+      "gloss": "mina olen saatnud"
     },
     {
       "surface": "אליכם",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "להיות",
-      "gloss": "⟨püsiks⟩"
+      "gloss": "et ... püsiks"
     },
     {
       "surface": "בריתי",
@@ -67,11 +46,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ koos"
+      "gloss": "⟨את⟩",
+      "marks": "Leeviga"
     },
     {
       "surface": "לוי",
-      "gloss": "Leeviga"
+      "gloss": "Leevi"
     },
     {
       "surface": "אמר",
@@ -86,6 +66,6 @@
       "gloss": "Tsevaot"
     }
   ],
-  "timestamp": "2026-10-21T03:10:21.168550329Z",
+  "timestamp": "2026-10-21T06:30:51.669265160Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebrea küsi lause'מה־לי' on kopulavaba; eesti vajab 'on'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "שבעתי",
-      "rationale": "Sõna-sõnalt 'olen söönud täis \/ küllastunud', mitte pelgalt 'olen tüdinud'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רב ... שבעתי",
-      "rationale": "'Hulk' vs 'küllastus' — ohvrite paljus vastandub Jumala küllastusele."
-    }
-  ],
-  "translation": "Miks ⟨on⟩ mulle teie ohvrite hulk? ütleb Jahve. Olen kyllaks saanud jäärate põletusohvritest ja nuumvasikate rasvast; ja härjade, tallede ja sokkide verd ma ei ole soovinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/1\/9-12.1792546527772.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Milleks on mulle rohkus teie ohvritest? ütleb Jahve. Olen kõhu täis saanud põletusohvritest, hirvedest, ja nuumveiste rasvast, ning härgade, tallade ja tëkkide verest — seda ma ei ole soovinud.",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "Miks"
+      "gloss": "Milleks"
     },
     {
       "surface": "לי",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "hulk"
+      "gloss": "rohkus"
     },
     {
       "surface": "זבחיכם",
-      "gloss": "teie ohvrite"
+      "gloss": "teie ohvritest"
     },
     {
       "surface": "יאמר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "שבעתי",
-      "gloss": "Olen kyllaks saanud"
+      "gloss": "olen kõhu täis saanud"
     },
     {
       "surface": "עלות",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "אילים",
-      "gloss": "jäärate"
+      "gloss": "hirvedest"
     },
     {
       "surface": "וחלב",
@@ -75,23 +49,23 @@
     },
     {
       "surface": "מריאים",
-      "gloss": "nuumvasikate"
+      "gloss": "nuumveiste"
     },
     {
       "surface": "ודם",
-      "gloss": "ja verd"
+      "gloss": "ning verest"
     },
     {
       "surface": "פרים",
-      "gloss": "härjade"
+      "gloss": "härgade"
     },
     {
       "surface": "וכבשים",
-      "gloss": "tallede"
+      "gloss": "tallade"
     },
     {
       "surface": "ועתודים",
-      "gloss": "sokkide"
+      "gloss": "ja tëkkide"
     },
     {
       "surface": "לא",
@@ -99,9 +73,9 @@
     },
     {
       "surface": "חפצתי",
-      "gloss": "ole ma soovinud"
+      "gloss": "ma ole soovinud"
     }
   ],
-  "timestamp": "2026-10-21T01:35:27.773572553Z",
+  "timestamp": "2026-10-21T06:17:28.445958557Z",
   "model": "glm-5.3"
 }

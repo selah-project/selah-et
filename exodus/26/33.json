@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "spatial layout",
-      "rationale": "Verse fixes the ark's position and divides space into holy and most holy — a dimensioning instruction."
-    },
-    {
-      "kind": "you",
-      "subject": "Mošele",
-      "rationale": "Imperatives addressed to Moše, the builder of the miškan."
-    }
-  ],
-  "translation": "Ja sa paned ⟨את⟩ eesriide haakide alla ja tood sinna eesriide taha ⟨את⟩ tunnistuse ark, ja eesriide eraldab teile püha ja pühade püha vahel.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9e95b6355f2a7811fc417cdad5b1ec31f41beb388786189f6cbb95c16b1cff41",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/26\/33-36.1792538758774.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sa paned ⟨את⟩ eesriide konksude alla, ja tood sinna, eesriide siseküljele, ⟨את⟩ tunnistuse kirstu; ja eesriide eraldab teile püha paiga ja pühade püha.",
   "tokens": [
     {
       "surface": "ונתתה",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "הקרסים",
-      "gloss": "haakide"
+      "gloss": "konksud"
     },
     {
       "surface": "והבאת",
-      "gloss": "ja sa tood"
+      "gloss": "ja tood"
     },
     {
       "surface": "שמה",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "taha"
+      "gloss": "eesriide siseküljele"
     },
     {
       "surface": "לפרכת",
@@ -68,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tunnistuse ark"
+      "marks": "tunnistuse kirstu"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "kirstu"
     },
     {
       "surface": "העדות",
@@ -92,15 +71,15 @@
     },
     {
       "surface": "בין",
-      "gloss": "vahel"
+      "gloss": "vahel — püha paiga"
     },
     {
       "surface": "הקדש",
-      "gloss": "püha"
+      "gloss": "püha paiga"
     },
     {
       "surface": "ובין",
-      "gloss": "ja pühade"
+      "gloss": "ja"
     },
     {
       "surface": "קדש",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "הקדשים",
-      "gloss": "püha"
+      "gloss": "pühade püha"
     }
   ],
-  "timestamp": "2026-10-20T23:25:58.775250211Z",
+  "timestamp": "2026-10-21T06:58:58.989082424Z",
   "model": "glm-5.3"
 }

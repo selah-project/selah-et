@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "jumalate",
-      "rationale": "באלהיו on mitmus 'oma jumalaid (paganlike)'; üksik 'oma jumalat' on vähem tõenäoline, mitmus jäetakse mitmuseks."
-    },
-    {
-      "kind": "you",
-      "subject": "filistlase kõne",
-      "rationale": "Kaudne pöördumine Davidi poole: küsimus 'kas ma olen koer' on pilkav otsekõne."
-    }
-  ],
-  "translation": "Ja filistlane ütles Davidile: kas ma olen koer, et sina tuled minu juurde keppidega? Ja filistlane kneebas ⟨את⟩ Davidi oma jumalate poolt.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/17\/41-44.1792544033810.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja peletist ütles Davidile: kas olen ma koer, et sina tuled minu juurde keppega? Ja peletist needis ⟨את⟩ Davidi oma jumalate nimel.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "filistlane"
+      "gloss": "peletist"
     },
     {
       "surface": "אל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ma olen"
+      "gloss": "ma"
     },
     {
       "surface": "כי",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "במקלות",
-      "gloss": "keppidega"
+      "gloss": "keppega"
     },
     {
       "surface": "ויקלל",
-      "gloss": "Ja kneebas"
+      "gloss": "ja needis"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "filistlane"
+      "gloss": "peletist"
     },
     {
       "surface": "את",
@@ -91,9 +70,9 @@
     },
     {
       "surface": "באלהיו",
-      "gloss": "oma jumalate poolt"
+      "gloss": "oma jumalate nimel"
     }
   ],
-  "timestamp": "2026-10-21T00:53:53.813159709Z",
+  "timestamp": "2026-10-21T05:53:01.273876966Z",
   "model": "glm-5.3"
 }

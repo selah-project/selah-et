@@ -5,53 +5,32 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשא את ראש",
-      "rationale": "tõlgi 'tõstma pead' = loendama; sõnasõnaline pilt loenduses kadunud"
-    },
-    {
-      "kind": "substitution",
-      "subject": "isade järgi",
-      "rationale": "לבית אבתם on sidumisvorm 'nende isade majale', eesti kasutab järgi-konstruktsiooni"
-    }
-  ],
-  "translation": "Võta loendus ka Gersoni poegade üle, nende isade järgi, nende suguvõsade kaupa.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/21-24.1792539754794.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tõsta ⟨את⟩ peettled Geršoni poegadelegi, nende isade järgi, nende perekondade kaupa;",
   "tokens": [
     {
       "surface": "נשא",
-      "gloss": "võta loendus"
+      "gloss": "tõsta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pea"
+      "marks": "peettled (ראש)"
     },
     {
       "surface": "ראש",
-      "gloss": "pea"
+      "gloss": "peettled"
     },
     {
       "surface": "בני",
-      "gloss": "poegade"
+      "gloss": "poegadele"
     },
     {
       "surface": "גרשון",
-      "gloss": "Gersoni"
+      "gloss": "Geršonile"
     },
     {
       "surface": "גם",
-      "gloss": "ka"
+      "gloss": "-gi"
     },
     {
       "surface": "הם",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "maja järgi"
+      "gloss": "nende isade järgi"
     },
     {
       "surface": "אבתם",
@@ -67,9 +46,9 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "nende suguvõsade kaupa"
+      "gloss": "nende perekondade kaupa"
     }
   ],
-  "timestamp": "2026-10-20T23:42:34.795231671Z",
+  "timestamp": "2026-10-21T06:35:53.830628174Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "daniel",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨omab⟩",
-      "rationale": "Heebrea kopeerita fraas 'sinule õigus' vajab eesti keeles verb 'omab'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מעלו בך",
-      "rationale": "מעל on 'kattima, salaja tegutsema' — truudusetus\/kargus, mitte lihtsalt 'patustasid'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הקרבים\/והרחקים",
-      "rationale": "Lähedal-kaugel vastandpaar, väljasaatmise geomeetria"
-    }
-  ],
-  "translation": "Sinule, Adonai, ⟨omab⟩ tsedek, ja meile näo häbi, nagu tänapäeval: Juuda mehele ja Jerušalaimi elanikele ja kogu Jisraelile, lähedale ja kaugele, kõigis maades, kuhu sa nad sealt ära ajasid nende truudusetuse pärast, millega nad sinu vastu truudusetust tegid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "714d5f9a3cd558c7da94b4ef10349b2a86872b528f93f39d71ebb165a4d1b855",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/9\/5-8.1792556610874.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sulle, Adonai, ⟨käib⟩ tsedek, ja meile näo häbi nagu tänapäeval — mehele Jehuudast ja Jerušalaimi elanikele ja kogu Jisraelile, ⟨nii⟩ lähedatele kui kaugel olevatele, kõigis maades, kuhu sa nad sealt ära ajasid nende truudusetuse pärast, millega nad sinu vastu truudusetult talitasid.",
   "tokens": [
     {
       "surface": "לך",
-      "gloss": "Sinule"
+      "gloss": "Sulle"
     },
     {
       "surface": "אדני",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": ""
+      "gloss": "seda (päeva)"
     },
     {
       "surface": "לאיש",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Juuda"
+      "gloss": "Jehuuda"
     },
     {
       "surface": "וליושבי",
-      "gloss": "ja ... elanikele"
+      "gloss": "ja elanikele"
     },
     {
       "surface": "ירושלם",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "הקרבים",
-      "gloss": "lähedale"
+      "gloss": "lähedatele"
     },
     {
       "surface": "והרחקים",
-      "gloss": "ja kaugele"
+      "gloss": "ja kaugel olevatele"
     },
     {
       "surface": "בכל",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "הדחתם",
-      "gloss": "sa ... ajasid"
+      "gloss": "sa ajasid nad ära"
     },
     {
       "surface": "שם",
@@ -127,13 +101,13 @@
     },
     {
       "surface": "מעלו",
-      "gloss": "nad ... truudusetust tegid"
+      "gloss": "nad talitasid truudusetult"
     },
     {
       "surface": "בך",
       "gloss": "sinu vastu"
     }
   ],
-  "timestamp": "2026-10-21T04:23:30.875764757Z",
+  "timestamp": "2026-10-21T06:02:03.231381930Z",
   "model": "glm-5.3"
 }

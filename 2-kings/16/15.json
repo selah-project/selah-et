@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "uurimiseks",
-      "rationale": "לבקר: 'uurima' (Jumalalt küsima) vs 'kaaluma, hoolitsema' — tõlkijad lähevad lahku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "minhi",
-      "rationale": "מנחה jäänud heebrea kõla järgi"
-    }
-  ],
-  "translation": "Ja kuningas Ahas käskis Urijat, preestri, öelda: Suurel altaril suitsuta ⟨את⟩ hommikuse põletusohvri ja ⟨את⟩ õhtuse minhi ning ⟨את⟩ kuninga põletusohvri ja ⟨את⟩ tema minhi ja ⟨את⟩ kogu maa rahva põletusohvri, nende minhi ja nende joogiohvrid; ja kogu põletusohvri veri ja kogu tapaohvri veri selle peale piserda; ja vaskaltar olgu minu jaoks uurimiseks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/16\/13-16.1792546244190.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas Ahaz käskis ⟨את⟩ preestrit Uurijat öelda: suurel altaril suitsuta ⟨את⟩ hommiku põletusohver ja ⟨את⟩ õhtu minha, ja ⟨את⟩ kuninga põletusohver ja ⟨את⟩ tema minha, ja ⟨את⟩ kogu maarahva põletusohver, ja nende minha ja nende jookohvrid; ja kogu põletusohvri vere ja kogu tapaohvri vere pihuta selle peale; aga pronksaltar olgu minu jaoks ⟨kaalutlemiseks⟩.",
   "tokens": [
     {
       "surface": "ויצוהו",
-      "gloss": "ja käskis"
+      "gloss": "käskis"
     },
     {
       "surface": "המלך",
@@ -38,20 +17,20 @@
     },
     {
       "surface": "אחז",
-      "gloss": "Ahas"
+      "gloss": "Ahaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Urijat"
+      "marks": "preestrit Uurijat"
     },
     {
       "surface": "אוריה",
-      "gloss": "Urijat"
+      "gloss": "Uurija"
     },
     {
       "surface": "הכהן",
-      "gloss": "preestri"
+      "gloss": "preester"
     },
     {
       "surface": "לאמר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altaril"
+      "gloss": "altARIl"
     },
     {
       "surface": "הגדול",
@@ -76,37 +55,37 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hommikuse põletusohvri"
+      "marks": "hommiku põletusohver"
     },
     {
       "surface": "עלת",
-      "gloss": "põletusohvri"
+      "gloss": "põletusohver"
     },
     {
       "surface": "הבקר",
-      "gloss": "hommikuse"
+      "gloss": "hommiku"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "õhtuse minhi"
+      "gloss": "⟨את⟩",
+      "marks": "õhtu minha"
     },
     {
       "surface": "מנחת",
-      "gloss": "minhi"
+      "gloss": "minha"
     },
     {
       "surface": "הערב",
-      "gloss": "õhtuse"
+      "gloss": "õhtu"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "kuninga põletusohvri"
+      "gloss": "⟨את⟩",
+      "marks": "kuninga põletusohver"
     },
     {
       "surface": "עלת",
-      "gloss": "põletusohvri"
+      "gloss": "põletusohver"
     },
     {
       "surface": "המלך",
@@ -114,21 +93,21 @@
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "tema minhi"
+      "gloss": "⟨את⟩",
+      "marks": "tema minha"
     },
     {
       "surface": "מנחתו",
-      "gloss": "tema minhi"
+      "gloss": "tema minha"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "kogu maa rahva põletusohvri"
+      "gloss": "⟨את⟩",
+      "marks": "kogu maarahva põletusohver"
     },
     {
       "surface": "עלת",
-      "gloss": "põletusohvri"
+      "gloss": "põletusohver"
     },
     {
       "surface": "כל",
@@ -144,11 +123,11 @@
     },
     {
       "surface": "ומנחתם",
-      "gloss": "nende minhi"
+      "gloss": "ja nende minha"
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "nende joogiohvrid"
+      "gloss": "ja nende jookohvrid"
     },
     {
       "surface": "וכל",
@@ -156,7 +135,7 @@
     },
     {
       "surface": "דם",
-      "gloss": "veri"
+      "gloss": "vere"
     },
     {
       "surface": "עלה",
@@ -168,7 +147,7 @@
     },
     {
       "surface": "דם",
-      "gloss": "veri"
+      "gloss": "vere"
     },
     {
       "surface": "זבח",
@@ -180,15 +159,15 @@
     },
     {
       "surface": "תזרק",
-      "gloss": "piserda"
+      "gloss": "pihuta"
     },
     {
       "surface": "ומזבח",
-      "gloss": "ja vaskaltar"
+      "gloss": "aga pronksaltar"
     },
     {
       "surface": "הנחשת",
-      "gloss": "vask"
+      "gloss": "pronksist"
     },
     {
       "surface": "יהיה",
@@ -200,9 +179,9 @@
     },
     {
       "surface": "לבקר",
-      "gloss": "uurimiseks"
+      "gloss": "kaalutlemiseks"
     }
   ],
-  "timestamp": "2026-10-21T01:30:44.193887231Z",
+  "timestamp": "2026-10-21T05:57:49.619592693Z",
   "model": "glm-5.3"
 }

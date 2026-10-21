@@ -5,36 +5,15 @@
   "book": "malachi",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "segula",
-      "rationale": "סגלה tähendab 'hoolikalt kaitstud varandust, eri-omandit'; 'ehted' (KJV 'jewels') on vildunud pärimus"
-    },
-    {
-      "kind": "elision",
-      "subject": "לי",
-      "rationale": "'saavad mulle omaks' — heebrea ütleb kähedalt 'ja nad olid mulle'; omaks on lisatud"
-    }
-  ],
-  "translation": "Ja nad saavad mulle omaks, ütleb Jahve Tsevaot, päeval, mil mina teen segula, ja ma halastan neile, nii nagu mees halastab oma pojale, kes teda teenib.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4179814540675d8e2fed1f9e4aaf901ec4cf6677193b96ea0499eca887b07834",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/malachi\/3\/17-20.1792552237548.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad saavad olema minu omaks, ütleb Jahve Tsevaot, päeval, mil mina teen ⟨את⟩ neist eri-omandi, ja ma säästan neid, nõnda nagu mees säästab oma poega, kes teda teenib.",
   "tokens": [
     {
       "surface": "והיו",
-      "gloss": "ja nad saavad"
+      "gloss": "ja nad saavad olema"
     },
     {
       "surface": "לי",
-      "gloss": "mulle"
+      "gloss": "minu omaks"
     },
     {
       "surface": "אמר",
@@ -66,23 +45,23 @@
     },
     {
       "surface": "סגלה",
-      "gloss": "segula"
+      "gloss": "⟨את⟩ neist eri-omandi"
     },
     {
       "surface": "וחמלתי",
-      "gloss": "ja ma halastan"
+      "gloss": "ja ma säästan"
     },
     {
       "surface": "עליהם",
-      "gloss": "neile"
+      "gloss": "neid"
     },
     {
       "surface": "כאשר",
-      "gloss": "nii nagu"
+      "gloss": "nõnda nagu"
     },
     {
       "surface": "יחמל",
-      "gloss": "halastab"
+      "gloss": "säästab"
     },
     {
       "surface": "איש",
@@ -90,22 +69,21 @@
     },
     {
       "surface": "על",
-      "gloss": "üle"
+      "gloss": "oma"
     },
     {
       "surface": "בנו",
-      "gloss": "oma pojale"
+      "gloss": "poega"
     },
     {
       "surface": "העבד",
-      "gloss": "teenivale"
+      "gloss": "kes teda teenib"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨teda⟩",
-      "marks": "teenivale pojale"
+      "gloss": "⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-21T03:10:37.549734990Z",
+  "timestamp": "2026-10-21T06:30:44.507765094Z",
   "model": "glm-5.3"
 }

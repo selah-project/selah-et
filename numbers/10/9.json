@@ -5,45 +5,19 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "häiresignaal",
-      "rationale": "והרעע tähendab sõna-sõnalt 'kõrvu lõhkuma' — valju sarveheli; tõlgitud 'häiresignaali puhkma'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הצר \/ הצרר",
-      "rationale": "samas konsonantjuure kordus 'kitsas vaenlane, kes kitsasse seab' — eesti keeles osaliselt kadunud"
-    },
-    {
-      "kind": "addition",
-      "subject": "käest",
-      "rationale": "מ eessõna 'pärit\/kaudult' tõlgitud vabamalt 'käest'"
-    }
-  ],
-  "translation": "Ja kui te lähte sõda oma maal ähvardava vaenlase vastu, kes teid kitsasse ahastab, puhuge sarvedel häiresignaali, ja teid tuletatakse meelde Jahve, teie Elohim'i ees, ja te päästete oma vaenlaste käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9152fec1d34acf5463d5e34546881be49ed75b311e9cd7ba45889f20dbfabae1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/10\/9-12.1792539902287.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui te lähenete sõtta oma maal surutise vastu, kes surub ⟨את⟩ teid, siis andke signaal sarvedega, ja teid tuletakse meelde Jahve, teie Elohim'i näo ees, ja te päästetakse oma vaenlastest.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "ja kui"
+      "gloss": "Ja kui"
     },
     {
       "surface": "תבאו",
-      "gloss": "te lähte"
+      "gloss": "te lähenete"
     },
     {
       "surface": "מלחמה",
-      "gloss": "sõda"
+      "gloss": "sõtta"
     },
     {
       "surface": "בארצכם",
@@ -55,32 +29,32 @@
     },
     {
       "surface": "הצר",
-      "gloss": "ähvardava vaenlase"
+      "gloss": "surutise"
     },
     {
       "surface": "הצרר",
-      "gloss": "kes ahastab"
+      "gloss": "kes surub"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ teid",
-      "marks": "הצרר"
+      "marks": "teid — otseobjekt: see, keda surutis surub"
     },
     {
       "surface": "והרעתם",
-      "gloss": "puhute häiresignaali"
+      "gloss": "andke signaal"
     },
     {
       "surface": "בחצצרות",
-      "gloss": "sarvedel"
+      "gloss": "sarvedega"
     },
     {
       "surface": "ונזכרתם",
-      "gloss": "ja teid tuletatakse meelde"
+      "gloss": "ja teid tuletakse meelde"
     },
     {
       "surface": "לפני",
-      "gloss": "ees"
+      "gloss": "näo ees"
     },
     {
       "surface": "יהוה",
@@ -92,13 +66,13 @@
     },
     {
       "surface": "ונושעתם",
-      "gloss": "ja te päästete"
+      "gloss": "ja te päästetakse"
     },
     {
       "surface": "מאיביכם",
-      "gloss": "oma vaenlaste käest"
+      "gloss": "oma vaenlastest"
     }
   ],
-  "timestamp": "2026-10-20T23:45:02.288341937Z",
+  "timestamp": "2026-10-21T06:31:55.161959004Z",
   "model": "glm-5.3"
 }

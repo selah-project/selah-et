@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti keel nõuab kopulat, heebrea puudub"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tsedek",
-      "rationale": "צדקתי on 'mu tsedek' — õigus\/kohus; jäänud 'õigus', kuigi tabel soovitab tsedek-juurt, siin on tavaomaduse tähenduses"
-    },
-    {
-      "kind": "crux",
-      "subject": "גנוב הוא אתי",
-      "rationale": "'see on varastatud minu käes' vs 'loetakse varastatuks minu juures' — Jaakobi kaitseklausel"
-    }
-  ],
-  "translation": "Ja mu õigus vastab eest mind homsel päeval, kui sa tuled mu palga üle minu palge ees: igaüks, kes ei ole kirju ega täpik kitsedest ja tume lammastest, see ⟨on⟩ varastatud minu käes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f4838232e6eefdf8770429829089b41c6b7fe00fb30a21d1263253471ef93b5b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/30\/33-36.1792537834696.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja minu tsedek vastab ⟨eest⟩ homse päeva päeval, kui sa tuled mu palga üle minu palge ette: igaüks, kes ei ole täpiline ega laikus kitsede seas ja mustjas tähtede seas, see ⟨on⟩ varastatud ⟨את⟩ minu juurest.",
   "tokens": [
     {
       "surface": "וענתה",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "בי",
-      "gloss": "eest mind"
+      "gloss": "minu eest"
     },
     {
       "surface": "צדקתי",
-      "gloss": "mu õigus"
+      "gloss": "minu tsedek"
     },
     {
       "surface": "ביום",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "שכרי",
-      "gloss": "mu palga"
+      "gloss": "mu palk"
     },
     {
       "surface": "לפניך",
-      "gloss": "sinu palge ees"
+      "gloss": "sinu pale ette"
     },
     {
       "surface": "כל",
@@ -87,23 +61,23 @@
     },
     {
       "surface": "נקד",
-      "gloss": "kirju"
+      "gloss": "täpiline"
     },
     {
       "surface": "וטלוא",
-      "gloss": "ja täpik"
+      "gloss": "ja laikus"
     },
     {
       "surface": "בעזים",
-      "gloss": "kitsedest"
+      "gloss": "kitsede seas"
     },
     {
       "surface": "וחום",
-      "gloss": "ja tume"
+      "gloss": "ja mustjas"
     },
     {
       "surface": "בכשבים",
-      "gloss": "lammastest"
+      "gloss": "tähtede seas"
     },
     {
       "surface": "גנוב",
@@ -115,9 +89,9 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ minu juures"
+      "gloss": "⟨את⟩ minu juurest"
     }
   ],
-  "timestamp": "2026-10-20T23:10:34.697208221Z",
+  "timestamp": "2026-10-21T06:15:45.996218312Z",
   "model": "glm-5.3"
 }

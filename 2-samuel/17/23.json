@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "leivakoda",
-      "rationale": "ביתו on 'maja\/kodu' — 'leivakoda' on 'perkondliku korra andmise' idioomi tõlkevaste, heebrea ütleb sõna-sõnalt 'maja'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויחנק",
-      "rationale": "Otsesed kõneviisi tähendus 'ta kärgitas end \/ oma kaela' — tõlgitud 'poodi end üles'; mõned lugemid 'ta lämmatas end'."
-    }
-  ],
-  "translation": "Ja Ahitofel nägi, et tema nõu ei olnud tehtud, ja ta sadulis ⟨את⟩ eesli ning tõusis ja läks oma koju, oma linna, ja andis korralduse oma leivakojale ning poodi end üles ja suri; ja ta maeti oma isa hauda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d7ecdda80f8bfca4f13817209edcb061966a2b15561bea0ab5b6517c19d8cbc9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/17\/21-24.1792544889343.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ahitofel aga nägi, et tema nõu ei olnud tehtud, ja ta sadulas ⟨את⟩ eesli, tõusis ja läks oma koju, oma linna, ja andis korralduse oma majale, ja poos end üles, ning suri, ja maeti oma isa hauda.",
   "tokens": [
     {
       "surface": "ואחיתפל",
-      "gloss": "ja Ahitofel"
+      "gloss": "Ahitofel aga"
     },
     {
       "surface": "ראה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ויחבש",
-      "gloss": "ja ta sadulis"
+      "gloss": "ja sadulas"
     },
     {
       "surface": "את",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "החמור",
-      "gloss": "eesli"
+      "gloss": "eesel"
     },
     {
       "surface": "ויקם",
@@ -75,19 +54,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "oma koju poole"
     },
     {
       "surface": "ביתו",
-      "gloss": "oma koju"
+      "gloss": "oma koda"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "linna poole"
     },
     {
       "surface": "עירו",
-      "gloss": "oma linna"
+      "gloss": "oma linn"
     },
     {
       "surface": "ויצו",
@@ -95,23 +74,23 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "poole"
     },
     {
       "surface": "ביתו",
-      "gloss": "oma leivakojale"
+      "gloss": "oma maja"
     },
     {
       "surface": "ויחנק",
-      "gloss": "ja poodi end üles"
+      "gloss": "ja poos end üles"
     },
     {
       "surface": "וימת",
-      "gloss": "ja suri"
+      "gloss": "ning suri"
     },
     {
       "surface": "ויקבר",
-      "gloss": "ja ta maeti"
+      "gloss": "ja maeti"
     },
     {
       "surface": "בקבר",
@@ -122,6 +101,6 @@
       "gloss": "oma isa"
     }
   ],
-  "timestamp": "2026-10-21T01:08:09.344612662Z",
+  "timestamp": "2026-10-21T05:59:12.757255451Z",
   "model": "glm-5.3"
 }

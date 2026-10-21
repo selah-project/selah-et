@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebrea puudub koopula; laegas kardinate all — öeldis lisatud"
-    },
-    {
-      "kind": "substitution",
-      "subject": "laegas",
-      "rationale": "ארון on sõna-sõnalt kast\/laegas, mitte 'ahi'"
-    }
-  ],
-  "translation": "Ja sündis, kui David istus oma majas, et David ütles Nathanile prohvetile: Vaata, mina istutan seedrimajas, aga Jahve lepingu laegas ⟨on⟩ kardinate all.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "287722a0e1f603d0e56eb133e2a293d7a8f64ec5518a9387296a0bf4bd2643b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/17\/1-4.1792557431497.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis, et kui David istus oma kojas, ütles David prohvetile Naatanile: Vaata, mina istun seedritekojas, aga Jahve lepingu ⟨את⟩ laegas ⟨on⟩ kardinate all.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kui"
+      "gloss": "et kui"
     },
     {
       "surface": "ישב",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "בביתו",
-      "gloss": "oma majas"
+      "gloss": "oma kojas"
     },
     {
       "surface": "ויאמר",
-      "gloss": "ütlес"
+      "gloss": "ütles"
     },
     {
       "surface": "דויד",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "-le"
+      "gloss": "prohvetile"
     },
     {
       "surface": "נתן",
-      "gloss": "Natan"
+      "gloss": "Naatanile"
     },
     {
       "surface": "הנביא",
-      "gloss": "prohvetile"
+      "gloss": "prohvet"
     },
     {
       "surface": "הנה",
@@ -78,19 +57,19 @@
     },
     {
       "surface": "יושב",
-      "gloss": "istun"
+      "gloss": "istan"
     },
     {
       "surface": "בבית",
-      "gloss": "majas"
+      "gloss": "kojas"
     },
     {
       "surface": "הארזים",
-      "gloss": "seedri-"
+      "gloss": "seedrite"
     },
     {
       "surface": "וארון",
-      "gloss": "agaa laegas"
+      "gloss": "aga laegas"
     },
     {
       "surface": "ברית",
@@ -109,6 +88,6 @@
       "gloss": "kardinate"
     }
   ],
-  "timestamp": "2026-10-21T04:37:11.497631574Z",
+  "timestamp": "2026-10-21T06:39:53.216587136Z",
   "model": "glm-5.3"
 }

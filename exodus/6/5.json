@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olen",
-      "rationale": "Heebrea piikprefiks-kuju ואזכר onõi kaudne minevik; eesti keel vajab abiverbi"
-    }
-  ],
-  "translation": "Ja ka mina olen kuulnud ⟨את⟩ Jisraeli poegade oiget, keda Mitsraim sunnitab orjusele, ja mäletan ⟨את⟩ oma lepingut.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/6\/5-8.1792538339685.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ka mina olen kuulnud ⟨את⟩ Jisraeli poegade ohkamist, keda Mitsraim sunnib töötama, ja ma olen meelde tuletanud ⟨את⟩ oma lepingu.",
   "tokens": [
     {
       "surface": "וגם",
@@ -38,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraeli poegade oiget"
+      "marks": "Jisraeli poegade ohkamist"
     },
     {
       "surface": "נאקת",
-      "gloss": "oiget"
+      "gloss": "ohkamist"
     },
     {
       "surface": "בני",
@@ -62,26 +46,27 @@
     },
     {
       "surface": "מעבדים",
-      "gloss": "sunnitab orjusele"
+      "gloss": "sunnivad töötama"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid (Jisraeli poegi)"
     },
     {
       "surface": "ואזכר",
-      "gloss": "ja mäletan"
+      "gloss": "ja ma olen meelde tuletanud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma lepingut"
+      "marks": "oma lepingu"
     },
     {
       "surface": "בריתי",
-      "gloss": "oma lepingut"
+      "gloss": "oma lepingu"
     }
   ],
-  "timestamp": "2026-10-20T23:18:59.686409252Z",
+  "timestamp": "2026-10-21T06:07:56.311940737Z",
   "model": "glm-5.3"
 }

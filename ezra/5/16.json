@@ -5,28 +5,7 @@
   "book": "ezra",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨see⟩",
-      "rationale": "eesti keeles lisatud subjekt-sidesõna viimases klauslis, arameas märkimata"
-    },
-    {
-      "kind": "measurement",
-      "subject": "sellest ajast kuni praegu",
-      "rationale": "ajaline piiramine: ehituse kestvus Šešbatsari päevast kuni teksti kirjutamiseni"
-    }
-  ],
-  "translation": "Siis tuli see Šešbatsar ja pani aluse Eloahi kojale, mis on Jerušalaimis, ja sellest ajast kuni praegu on seda ehitatud ja ⟨see⟩ ei ole lõpetatud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a07c4da2ceeef8267fb0cd0b22fdda7c4bf63bc54d8d591390e6d80d784cf694",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/5\/13-16.1792556713283.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Siis tuli see Šešbatsar ja pani alused Eloahi templile, mis on Jerušalaimis, ja sellest ajast kuni nüüd on seda ehitatud, ja see ei ole ⟨veel⟩ lõpetatud.",
   "tokens": [
     {
       "surface": "אדין",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "אשיא",
-      "gloss": "aluse"
+      "gloss": "alused"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "mis on"
     },
     {
       "surface": "בית",
-      "gloss": "kojale"
+      "gloss": "templile"
     },
     {
       "surface": "אלהא",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "די",
-      "gloss": "mis"
+      "gloss": "mis on"
     },
     {
       "surface": "בירושלם",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "sellest"
+      "gloss": "ja sellest"
     },
     {
       "surface": "אדין",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "כען",
-      "gloss": "praegu"
+      "gloss": "nüüd"
     },
     {
       "surface": "מתבנא",
@@ -94,13 +73,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ja ei"
+      "gloss": "ja ei ole"
     },
     {
       "surface": "שלם",
       "gloss": "lõpetatud"
     }
   ],
-  "timestamp": "2026-10-21T04:25:13.284805708Z",
+  "timestamp": "2026-10-21T06:39:26.563225425Z",
   "model": "glm-5.3"
 }

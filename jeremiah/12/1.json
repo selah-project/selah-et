@@ -5,46 +5,15 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oled⟩",
-      "rationale": "Heebrea puudub koprula; nimiväide eeldab eestis verbi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בגדי בגד",
-      "rationale": "sama juure kordus: 'petja petab petmusega', lõppmängu kadu"
-    },
-    {
-      "kind": "crux",
-      "subject": "שלו",
-      "rationale": "'rahulikud\/õitsengus' vs 'turvalised' — heebrea שָׁלָה tähendab rahulikku õitsengut"
-    },
-    {
-      "kind": "you",
-      "subject": "Jahvele",
-      "rationale": "Jeremija kõneleb otse Jahvele"
-    }
-  ],
-  "translation": "Õige ⟨oled⟩ sina, Jahve, kui ma sinuga vaidlen; ometi räägin sinuga kohtuasju. Miks õnnestub kurjade tee, kuidas ⟨on⟩ rahulikud kõik, kes petmusega petavad?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/12\/1-4.1792548400276.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Õige ⟨oled⟩ Sina, Jahve, et ⟨ma⟩ vaidlen sinuga; ainult õiguse asjus räägin ⟨את⟩ sinuga ⟨kohta⟩: miks õigete teel õnnestub tegelikkuses kurjade tee, ja rahulikud on kõik, kes petavad ⟨petmises⟩?",
   "tokens": [
     {
       "surface": "צדיק",
-      "gloss": "õige"
+      "gloss": "Õige"
     },
     {
       "surface": "אתה",
-      "gloss": "sina"
+      "gloss": "Sina"
     },
     {
       "surface": "יהוה",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "kui"
+      "gloss": "et"
     },
     {
       "surface": "אריב",
@@ -64,11 +33,11 @@
     },
     {
       "surface": "אך",
-      "gloss": "ometi"
+      "gloss": "ainult"
     },
     {
       "surface": "משפטים",
-      "gloss": "kohtuasju"
+      "gloss": "õiguse asjus"
     },
     {
       "surface": "אדבר",
@@ -76,7 +45,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ sinuga"
+      "gloss": "⟨את⟩",
+      "marks": "sinuga"
     },
     {
       "surface": "מדוע",
@@ -108,9 +78,9 @@
     },
     {
       "surface": "בגד",
-      "gloss": "petmusega"
+      "gloss": "petmises"
     }
   ],
-  "timestamp": "2026-10-21T02:06:40.277185292Z",
+  "timestamp": "2026-10-21T06:18:48.291546361Z",
   "model": "glm-5.3"
 }

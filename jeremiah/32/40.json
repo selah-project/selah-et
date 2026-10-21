@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lõikan lepingu",
-      "rationale": "כרת ברית sõnasõna 'lepingut lõigata' — leping tehakse kariloomade tükkide vahelt käies (1Ms 15); eesti 'sõlmima' looks kaotaks pildi."
-    },
-    {
-      "kind": "crux",
-      "subject": "igavese",
-      "rationale": "עולם juure 'peitma, kaugus' — 'igavene' vs 'pikkajaline, tunnetatu piirini' (rasvakeelne ulatus vs lõpmatus)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אשוב \/ סור",
-      "rationale": "Kaks pöördumist: Jahve 'ei pöördu ära' (שוב) ja rahvas 'ei kaldu ära' (סור) — vastastikune truudus ühes salmis."
-    }
-  ],
-  "translation": "Ja ma lõikan neile igavese lepingu, et ma ei pöördu ära nende jäljest, et neile head teha, ja oma kartuse ⟨את⟩ panen ma nende südamesse, et nad ei kalduks minult ära.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f142d11fac7caf5530022656cfc0d7024b363a2c207127d1c66bd621d6485916",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/32\/37-40.1792548856622.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma lõikan neile igavese lepingu, et ma ei pöördu nende järelt tagasi, et neile head teha, ja ⟨את⟩ mu kartust annan ma nende südamesse, et nad ei kalduks minust kõrvale.",
   "tokens": [
     {
       "surface": "וכרתי",
-      "gloss": "Ja ma lõikan"
+      "gloss": "ja ma lõikan"
     },
     {
       "surface": "להם",
@@ -59,31 +33,32 @@
     },
     {
       "surface": "אשוב",
-      "gloss": "pöördu"
+      "gloss": "pöördu tagasi"
     },
     {
       "surface": "מאחריהם",
-      "gloss": "nende jäljest"
+      "gloss": "nende järelt"
     },
     {
       "surface": "להיטיבי",
-      "gloss": "et neile head teha"
+      "gloss": "head tegema"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩ neile"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "mu kartust"
     },
     {
       "surface": "יראתי",
-      "gloss": "oma kartuse"
+      "gloss": "mu kartust"
     },
     {
       "surface": "אתן",
-      "gloss": "panen ma"
+      "gloss": "annan ma"
     },
     {
       "surface": "בלבבם",
@@ -91,17 +66,17 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "et nad ei"
+      "gloss": "et mitte"
     },
     {
       "surface": "סור",
-      "gloss": "kalduks"
+      "gloss": "kalduda kõrvale"
     },
     {
       "surface": "מעלי",
-      "gloss": "minult ära"
+      "gloss": "minust"
     }
   ],
-  "timestamp": "2026-10-21T02:14:16.624714568Z",
+  "timestamp": "2026-10-21T06:21:14.525952489Z",
   "model": "glm-5.3"
 }

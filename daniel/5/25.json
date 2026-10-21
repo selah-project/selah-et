@@ -5,41 +5,15 @@
   "book": "daniel",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Aramaic has no copula; Estonian requires it"
-    },
-    {
-      "kind": "mystery",
-      "subject": "kirjutis",
-      "rationale": "The inscription is deliberately opaque until interpreted in vv. 26-28"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מנא תקל פרסין",
-      "rationale": "Each word is both a measure (mina, seekel, poolseekel) and a verb (counted, weighed, divided); the pun unfolds in vv. 26-28"
-    }
-  ],
-  "translation": "Ja see ⟨on⟩ kirjutis, mis ⟨on⟩ üles kirjutatud: מנא מנא תקל ופרסין.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/daniel\/5\/25-28.1792556422100.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja see ⟨on⟩ kiri, mis ⟨oli⟩ üles kirjutatud: MENE, MENE, TEKEL ja PARSIN.",
   "tokens": [
     {
       "surface": "ודנה",
-      "gloss": "Ja see"
+      "gloss": "ja see"
     },
     {
       "surface": "כתבא",
-      "gloss": "kirjutis"
+      "gloss": "kiri"
     },
     {
       "surface": "די",
@@ -51,21 +25,21 @@
     },
     {
       "surface": "מנא",
-      "gloss": "מנא"
+      "gloss": "MENE"
     },
     {
       "surface": "מנא",
-      "gloss": "מנא"
+      "gloss": "MENE"
     },
     {
       "surface": "תקל",
-      "gloss": "תקל"
+      "gloss": "TEKEL"
     },
     {
       "surface": "ופרסין",
-      "gloss": "ja פרסין"
+      "gloss": "ja PARSIN"
     }
   ],
-  "timestamp": "2026-10-21T04:20:22.101499285Z",
+  "timestamp": "2026-10-21T06:01:30.265189036Z",
   "model": "glm-5.3"
 }

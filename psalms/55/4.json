@@ -5,38 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מפני",
-      "rationale": "Tõlkesõnastik 'näo eest' = heebrea idioom 'pärast\/tõttu', pilti on hoitud"
-    },
-    {
-      "kind": "crux",
-      "subject": "ימיטו עלי און",
-      "rationale": "Otsene: 'nad panevad kõlvatuse minu peale vankuma laskma' — KJV 'cast iniquity upon me', BSB 'release disaster upon me'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nад",
-      "rationale": " välja "
-    },
-    {
-      "kind": "",
-      "subject": "",
-      "rationale": ""
-    }
-  ],
-  "translation": "Vaenlase hääle pärast, kurjate ahastuse näo eest, sest nad lasevad kõlvatusel minu peale langeda ja vihas nad mind vihkavad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/55\/1-4.1792553019189.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaenlase hääle pärast, kurjade rõhumise pärast, sest nad lasevad minu peale õnnetust ja vihas nad mind taga kiusavad.",
   "tokens": [
     {
       "surface": "מקול",
@@ -48,15 +17,15 @@
     },
     {
       "surface": "מפני",
-      "gloss": "näo eest"
+      "gloss": "pärast"
     },
     {
       "surface": "עקת",
-      "gloss": "ahastuse"
+      "gloss": "rõhumise"
     },
     {
       "surface": "רשע",
-      "gloss": "kurjate"
+      "gloss": "kurjade"
     },
     {
       "surface": "כי",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "ימיטו",
-      "gloss": "lasevad langeda"
+      "gloss": "nad lasevad vankuma"
     },
     {
       "surface": "עלי",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "און",
-      "gloss": "kõlvatus"
+      "gloss": "õnnetust"
     },
     {
       "surface": "ובאף",
@@ -80,9 +49,9 @@
     },
     {
       "surface": "ישטמוני",
-      "gloss": "nад mind vihkavad"
+      "gloss": "nad mind taga kiusavad"
     }
   ],
-  "timestamp": "2026-10-21T03:23:39.192158969Z",
+  "timestamp": "2026-10-21T06:38:06.593747938Z",
   "model": "glm-5.3"
 }

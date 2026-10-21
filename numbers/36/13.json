@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea puudub kaudkääne; eesti keel vajab 'on'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בערבת",
-      "rationale": "Sõna tähendab 'stepi\/arabah' — siin 'tasandikud', kohanime Arabah asemel"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suundetagusõna sulandus eesti käänetesse 'poegadele'"
-    }
-  ],
-  "translation": "Need on käsud ja õigused, mida Jahve käsis Moše käe kaudu Jisraeli poegadele Moabi tasandikel Jardeni ääres Jeerihho vastas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a591563ca066a5abfb5a18ff7fcd3bbf30feaac692cca7ad43e2d2464648a318",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/36\/13-13.1792540541097.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Need on käsud ja õigusotsused, mille Jahve käskis Moše käe läbi Jisraeli poegadele, Moobi arvatel Jaardani ääres Jeerihho vastas.",
   "tokens": [
     {
       "surface": "אלה",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "והמשפטים",
-      "gloss": "ja õigused"
+      "gloss": "ja õigusotsused"
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mille"
     },
     {
       "surface": "צוה",
-      "gloss": "käsis"
+      "gloss": "käskis"
     },
     {
       "surface": "יהוה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "käe kaudu"
+      "gloss": "käe läbi"
     },
     {
       "surface": "משה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Jisraeli poegadele"
     },
     {
       "surface": "בני",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "בערבת",
-      "gloss": "Moabi tasandikel"
+      "gloss": "Moobi arvatel"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabi"
+      "gloss": "Moobi"
     },
     {
       "surface": "על",
@@ -91,13 +65,13 @@
     },
     {
       "surface": "ירדן",
-      "gloss": "Jardeni"
+      "gloss": "Jaardani"
     },
     {
       "surface": "ירחו",
       "gloss": "Jeerihho vastas"
     }
   ],
-  "timestamp": "2026-10-20T23:55:41.098371024Z",
+  "timestamp": "2026-10-21T06:35:44.240849710Z",
   "model": "glm-5.3"
 }

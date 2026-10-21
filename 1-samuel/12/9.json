@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "müüs",
-      "rationale": "וימכר 'müüs' sõnasõnaline kujund jääb; JPS pehmendab 'andis üle'"
-    },
-    {
-      "kind": "you",
-      "subject": "kogudusele",
-      "rationale": "Šmueli kõne pöördub kogu Iisraeli poole ajaloolise ülevaate kaudu"
-    }
-  ],
-  "translation": "Ja nad unustasid ⟨את⟩ Jahve, oma Elohimi, ja ta müüs nad kätte Siiseraile, Hatsori väe ülemale, ja filistlaste kätte, ja Moabi kuninga kätte, ja need võitlesid nende vastu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/12\/9-12.1792543844332.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad unustasid ⟨את⟩ Jahve, oma Elohimi, ja ta müüs nad ⟨את⟩ kätte Siiseraile, Hoosiri väe ülemale, ja plaatlaste kätte ja Moabi kuninga kätte, ja need sõdisid nende vastu.",
   "tokens": [
     {
       "surface": "וישכחו",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "oma Elohim"
+      "gloss": "oma Elohimi"
     },
     {
       "surface": "וימכר",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad",
+      "gloss": "⟨את⟩",
       "marks": "nad"
     },
     {
@@ -60,11 +39,11 @@
     },
     {
       "surface": "סיסרא",
-      "gloss": "Siisera"
+      "gloss": "Siiseraile"
     },
     {
       "surface": "שר",
-      "gloss": "ülemb"
+      "gloss": "ülemale"
     },
     {
       "surface": "צבא",
@@ -72,19 +51,19 @@
     },
     {
       "surface": "חצור",
-      "gloss": "Hatsori"
+      "gloss": "Hoosiri"
     },
     {
       "surface": "וביד",
-      "gloss": "ja kätte"
+      "gloss": "ja plaatlaste kätte"
     },
     {
       "surface": "פלשתים",
-      "gloss": "filistlaste"
+      "gloss": "plaatlaste"
     },
     {
       "surface": "וביד",
-      "gloss": "ja kätte"
+      "gloss": "ja Moabi kuninga kätte"
     },
     {
       "surface": "מלך",
@@ -96,13 +75,13 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "ja nad võitlesid"
+      "gloss": "ja nad sõdisid"
     },
     {
       "surface": "בם",
       "gloss": "nende vastu"
     }
   ],
-  "timestamp": "2026-10-21T00:50:44.335083351Z",
+  "timestamp": "2026-10-21T05:52:36.058622144Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "והיך לב דוד אתו",
-      "rationale": "Sõna-sõnalt 'ja Davidi süda lõi teda' — südametunnistuse piinamise idiom."
-    },
-    {
-      "kind": "addition",
-      "subject": "oma",
-      "rationale": "Eesti omadussõna 'oma' lisatud selguseks, heebreas puudub."
-    }
-  ],
-  "translation": "Ja Davidi süda lõi teda pärast seda, kui ta oli rahva üles lugenud, ja David ütles Jahvele: Ma olen väga patustanud selles, mida tegin; ja nüüd, Jahve, palun võta ära ⟨את⟩ oma teenri süü, sest ma olen väga rumalalt teinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ccb36c88e6943138e0a0fce5cd265d3d4dab3a87660e26bf9fdebdd84e6eac7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/24\/9-12.1792545083264.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Davidi süda lõi ⟨את⟩ teda pärast seda, kui ta oli loendanud ⟨את⟩ rahva; ja David ütles Jahvele: Ma olen väga pattu teinud selles, mida tegin; ja nüüd, Jahve, palun võta ⟨את⟩ ära oma sulase süüd, sest ma olen toimínud väga rumalalt.",
   "tokens": [
     {
       "surface": "ויך",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davidi"
+      "gloss": "David"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ teda",
+      "gloss": "⟨את⟩",
       "marks": "teda"
     },
     {
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ספר",
-      "gloss": "oli üles lugenud"
+      "gloss": "loendanud"
     },
     {
       "surface": "את",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "חטאתי",
-      "gloss": "ma olen patustanud"
+      "gloss": "pattu teinud"
     },
     {
       "surface": "מאד",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "ma tegin"
+      "gloss": "tegin"
     },
     {
       "surface": "ועתה",
@@ -117,15 +96,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "süü"
+      "marks": "süüd"
     },
     {
       "surface": "עון",
-      "gloss": "süü"
+      "gloss": "süüd"
     },
     {
       "surface": "עבדך",
-      "gloss": "oma teenri"
+      "gloss": "oma sulase"
     },
     {
       "surface": "כי",
@@ -133,13 +112,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "ma oles rumalalt teinud"
+      "gloss": "toimínud rumalalt"
     },
     {
       "surface": "מאד",
       "gloss": "väga"
     }
   ],
-  "timestamp": "2026-10-21T01:11:23.267236741Z",
+  "timestamp": "2026-10-21T06:00:25.740400689Z",
   "model": "glm-5.3"
 }

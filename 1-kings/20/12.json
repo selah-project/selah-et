@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "asetuge",
-      "rationale": "שימו sõna-sõnalt 'pange!' ilma objektita; KJV 'Set yourselves in array', mõned 'võtke (kindlusi) ette' — objekt on määramata."
-    },
-    {
-      "kind": "substitution",
-      "subject": "onnides",
-      "rationale": "בסכות sõna-sõnalt 'onnides\/aidades', mitte 'paviljonides' (kuldne keskaegne sõna)."
-    }
-  ],
-  "translation": "Ja sündis, kui ta kuulis ⟨את⟩ selle sõna — tema aga jõi, tema ja kuningad, onnides —, et ta ütles oma teenijatele: Asetuge! Ja nad asetusid linna vastu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "881bab84f5dd4601c59c81eebb036a7873d1c49872824062203fbd481ad4990f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/20\/9-12.1792545717264.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis, kui ⟨Ben-Hadad⟩ kuulis ⟨את⟩ selle sõna — ja tema jõi, tema ja kuningad onnides —, et ta ütles oma teenritele: Võtke ⟨kohad⟩ sisse. Ja nad võtsid ⟨kohad⟩ sisse linna vastu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "ja sündis"
+      "gloss": "Ja sündis"
     },
     {
       "surface": "כשמע",
@@ -43,15 +22,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "sõna"
+      "gloss": "selle sõna"
     },
     {
       "surface": "הזה",
-      "gloss": "selle"
+      "gloss": "see"
     },
     {
       "surface": "והוא",
-      "gloss": "tema aga"
+      "gloss": "ja tema"
     },
     {
       "surface": "שתה",
@@ -75,19 +54,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "endale"
     },
     {
       "surface": "עבדיו",
-      "gloss": "oma teenijatele"
+      "gloss": "oma teenritele"
     },
     {
       "surface": "שימו",
-      "gloss": "asetuge"
+      "gloss": "Võtke ⟨kohad⟩ sisse"
     },
     {
       "surface": "וישימו",
-      "gloss": "ja nad asetusid"
+      "gloss": "Ja nad võtsid ⟨kohad⟩ sisse"
     },
     {
       "surface": "על",
@@ -98,6 +77,6 @@
       "gloss": "linna"
     }
   ],
-  "timestamp": "2026-10-21T01:21:57.268416679Z",
+  "timestamp": "2026-10-21T05:51:28.200759243Z",
   "model": "glm-5.3"
 }

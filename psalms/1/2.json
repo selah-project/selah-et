@@ -5,41 +5,15 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "paired particle 'but rather' rendered as single 'Vaid'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "יהגה",
-      "rationale": "literally to murmur\/low like an animal; 'mõtiskleb' (meditate) keeps the murmured recitation partly"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Hebrew nominal clause lacks copula"
-    }
-  ],
-  "translation": "Vaid Jahve Tooras ⟨on⟩ tema meeldimus, ja tema Tooras mõtiskleb ta päeval ja öösel.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/1\/1-4.1792552192640.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaid Jahve Tooras ⟨on⟩ tema meeldivus, ja Oma Tooras igatseb ta päeval ja öösel.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "vaid"
     },
     {
       "surface": "אם",
-      "gloss": "Vaid"
+      "gloss": "ainult"
     },
     {
       "surface": "בתורת",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "חפצו",
-      "gloss": "tema meeldimus"
+      "gloss": "tema meeldivus"
     },
     {
       "surface": "ובתורתו",
-      "gloss": "ja tema Tooras"
+      "gloss": "ja Oma Tooras"
     },
     {
       "surface": "יהגה",
-      "gloss": "mõtiskleb"
+      "gloss": "igatseb"
     },
     {
       "surface": "יומם",
@@ -70,6 +44,6 @@
       "gloss": "ja öösel"
     }
   ],
-  "timestamp": "2026-10-21T03:09:52.641695033Z",
+  "timestamp": "2026-10-21T06:37:31.959711282Z",
   "model": "glm-5.3"
 }

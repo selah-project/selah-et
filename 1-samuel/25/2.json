@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "Heebrea keeles puudub kopeeriv verbi olemasolu verbi lauses kandev verbi vorm; eesti keel vajab seda"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מעשהו",
-      "rationale": "Sõna tähendab otseselt 'tema tegu\/tegevus', tõlgitud kui 'varandus' konteksti järgi"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kolm tuhat ja tuhat kitsi",
-      "rationale": "Loendus: kariloomade arvuline suurus"
-    }
-  ],
-  "translation": "Ja ⟨oli⟩ mees Maonis, ja tema varandus Karmelis; ja mees oli väga suur, ja temal olid lambad ja kitsed — kolm tuhat ja tuhat kitsi — ja juhtus, kui ta pügis ⟨את⟩ oma karja Karmelis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8054a7e88969f656c2e3111dab3cce736f9adb04bba96124b8aa5426e88a2eab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/25\/1-4.1792544283525.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨oli⟩ mees Maonis ja tema varandus Karmelis, ja see mees ⟨oli⟩ väga suur, ja temal olid kariloomad — kolm tuhat talli ja tuhat kitt — ja juhtus, et ta pügäs ⟨את⟩ oma karja Karmelis.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "ja ⟨oli⟩ mees"
+      "gloss": "Ja mees"
     },
     {
       "surface": "במעון",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "ja mees"
+      "gloss": "ja see mees"
     },
     {
       "surface": "גדול",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "צאן",
-      "gloss": "kariloomad — lambad ja kitsed"
+      "gloss": "kariloomad"
     },
     {
       "surface": "שלשת",
@@ -78,12 +52,20 @@
       "gloss": "tuhat"
     },
     {
+      "surface": "ואלף",
+      "gloss": "ja tuhat"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kitt"
+    },
+    {
       "surface": "ויהי",
       "gloss": "ja juhtus"
     },
     {
       "surface": "בגזז",
-      "gloss": "kui pügis"
+      "gloss": "pügama"
     },
     {
       "surface": "את",
@@ -92,13 +74,13 @@
     },
     {
       "surface": "צאנו",
-      "gloss": "tema karjaaed"
+      "gloss": "oma karja"
     },
     {
       "surface": "בכרמל",
-      "gloss": "⟨את⟩ Karmelis"
+      "gloss": "Karmelis"
     }
   ],
-  "timestamp": "2026-10-21T00:58:03.526686081Z",
+  "timestamp": "2026-10-21T05:53:40.320584448Z",
   "model": "glm-5.3"
 }

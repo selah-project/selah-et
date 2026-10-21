@@ -5,28 +5,7 @@
   "book": "joel",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "rahvastele",
-      "rationale": "Jahve kõneleb otse Türose ja Siidoni rahvastele ('te müüsite', 'teie endi pähe')."
-    },
-    {
-      "kind": "idiom",
-      "subject": "בראשכם",
-      "rationale": "'Teie pea peale' — tasu tagasipööramine peale on heebrea võlanek idiom."
-    }
-  ],
-  "translation": "Vaata, mina äratan nad sellest kohast, kuhu te nad müüsite, ja pööran teie tasu tagasi teie endi pähe.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joel\/4\/5-8.1792551162131.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, mina äratan nad sellest kohast, kuhu te nad müüsite, ⟨את⟩ nad sinna, ja ma pööran teie tasu tagasi teie endi peale.",
   "tokens": [
     {
       "surface": "הנני",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "sest \/ ...st"
+      "gloss": "tilis"
     },
     {
       "surface": "המקום",
-      "gloss": "see koht"
+      "gloss": "sellest kohast"
     },
     {
       "surface": "אשר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "והשבתי",
-      "gloss": "ja pööran tagasi"
+      "gloss": "ja ma pööran tagasi"
     },
     {
       "surface": "גמלכם",
@@ -71,9 +50,9 @@
     },
     {
       "surface": "בראשכם",
-      "gloss": "teie endi pähe"
+      "gloss": "teie endi peale"
     }
   ],
-  "timestamp": "2026-10-21T02:52:42.132969278Z",
+  "timestamp": "2026-10-21T06:23:43.102551536Z",
   "model": "glm-5.3"
 }

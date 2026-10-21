@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Eesti eitusvorm nõuab olema-verbi, heebrea puudub"
-    },
-    {
-      "kind": "you",
-      "subject": "Ješaja küsimus Hiskijale",
-      "rationale": "Otsene pöördumine: 'mida nad su kojas nägid'"
-    }
-  ],
-  "translation": "Ja ta ütles: Mida nad su kojas nägid? Ja Hiskija ütles: Kõik, mis mu kojas on, nad nägid; ei olnud asja, mida ma neile ei oleks näidanud oma varades.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f6e64e2d65824a065ae85d3d29728f5935025c8c82149b1a313268e8f56d2416",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/20\/13-16.1792546407783.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles: Mida nad nägid su kodus? Ja Hiskija ütles: ⟨את⟩ kõik, mis mu kodus ⟨on⟩, nad nägid; ei olnud ühtki asja, mida ma neile ei näidanud oma varakambrites.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "מה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בביתך",
-      "gloss": "su kojas"
+      "gloss": "su kodus"
     },
     {
       "surface": "ויאמר",
@@ -55,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik, mis mu kojas on"
+      "marks": "kõik, mis mu kodus"
     },
     {
       "surface": "כל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "בביתי",
-      "gloss": "mu kojas"
+      "gloss": "mu kodus"
     },
     {
       "surface": "ראו",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "olnud"
+      "gloss": "oli"
     },
     {
       "surface": "דבר",
-      "gloss": "asi"
+      "gloss": "asja"
     },
     {
       "surface": "אשר",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "הראיתם",
-      "gloss": "oleks ma neile näidanud"
+      "gloss": "ma neile näidanud"
     },
     {
       "surface": "באצרתי",
-      "gloss": "mu varades"
+      "gloss": "oma varakambrites"
     }
   ],
-  "timestamp": "2026-10-21T01:33:27.785299229Z",
+  "timestamp": "2026-10-21T05:57:02.520231972Z",
   "model": "glm-5.3"
 }

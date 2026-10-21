@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Ahabile",
-      "rationale": "Eelija kõne pöördub kuningas Ahabi poole."
-    },
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "vanadeeesti 'nii tõesti kui elab Jahve' on heebrea vannetuväljend 'Jahve elab'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כי אם",
-      "rationale": "kinnistav eituse konstruktsioon 'ei ... välja arvatud', eestis kahe sõnaga."
-    }
-  ],
-  "translation": "Ja Elia, Tišblast, Giladi asukate seast, ütles Ahabile: Nii tõesti kui elab Jahve, Jisraeli Elohim, kelle ees ma seisan — ei ole neil aastatel kaste ega vihma, välja arvatud minu sõna järgi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/17\/1-4.1792545640530.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Eelija, Tisbitest, Giladi asukate hulgast, ütles Ahabi juurde: nii tõesti kui elab Jahve, Jisraeli Elohim, kelle ees ⟨ma⟩ seisan — kui nendel aastatel saab olema kaste või vihma, siis ainult minu sõna ←järgi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "אליהו",
-      "gloss": "Elia"
+      "gloss": "Eelija"
     },
     {
       "surface": "התשבי",
-      "gloss": "Tišblast"
+      "gloss": "Tisbitest"
     },
     {
       "surface": "מתשבי",
-      "gloss": "asukate seast"
+      "gloss": "asukate"
     },
     {
       "surface": "גלעד",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Ahabile"
+      "gloss": "juurde"
     },
     {
       "surface": "אחאב",
-      "gloss": ""
+      "gloss": "Ahab"
     },
     {
       "surface": "חי",
@@ -79,31 +53,31 @@
     },
     {
       "surface": "אשר",
-      "gloss": " kelle"
+      "gloss": "kelle"
     },
     {
       "surface": "עמדתי",
-      "gloss": "ees ma seisan"
+      "gloss": "ees ⟨ma⟩ seisan"
     },
     {
       "surface": "לפניו",
-      "gloss": ""
+      "gloss": "tema ees"
     },
     {
       "surface": "אם",
-      "gloss": "ei ole"
+      "gloss": "kui"
     },
     {
       "surface": "יהיה",
-      "gloss": "olnud"
+      "gloss": "saab olema"
     },
     {
       "surface": "השנים",
-      "gloss": "neil aastatel"
+      "gloss": "aastatel"
     },
     {
       "surface": "האלה",
-      "gloss": ""
+      "gloss": "nendel"
     },
     {
       "surface": "טל",
@@ -111,25 +85,25 @@
     },
     {
       "surface": "ומטר",
-      "gloss": "ega vihma"
+      "gloss": "või vihma"
     },
     {
       "surface": "כי",
-      "gloss": "välja arvatud"
+      "gloss": "siis"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ainult"
     },
     {
       "surface": "לפי",
-      "gloss": "sõna järgi"
+      "gloss": "sõna ←järgi"
     },
     {
       "surface": "דברי",
-      "gloss": "minu"
+      "gloss": "minu sõna"
     }
   ],
-  "timestamp": "2026-10-21T01:20:40.532441084Z",
+  "timestamp": "2026-10-21T05:51:07.127783278Z",
   "model": "glm-5.3"
 }

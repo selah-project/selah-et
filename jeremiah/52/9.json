@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וידבר אתו משפטים",
-      "rationale": "otsetähendus 'kõneles temaga kohtumõistmisi'; tavamõistetes 'mõistis temaga kohut' või 'langetas tema üle otsuse'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו (teine)",
-      "rationale": "eessõnaline את koos asesõnaga; kandub märgina ⟨את⟩"
-    }
-  ],
-  "translation": "Ja nad tabasid ⟨את⟩ kuninga ja viisid ta üles Babeli kuninga juurde Rivlasse, Hamati maal, ja ta kõneles ⟨את⟩ temaga kohtumõistmisi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/52\/9-12.1792549465759.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tabasid ⟨את⟩ kuninga ning viisid ta üles Babüloonia kuninga juurde Rivlasse, Haamati maal, ja too kõneles temaga kohtuotsuseid.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "ja nad tabasid"
+      "gloss": "Ja nad tabasid"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "ja viisid üles"
+      "gloss": "ning viisid üles"
     },
     {
       "surface": "אתו",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babeli"
+      "gloss": "Babüloonia"
     },
     {
       "surface": "רבלתה",
@@ -72,21 +51,22 @@
     },
     {
       "surface": "חמת",
-      "gloss": "Hamati"
+      "gloss": "Haamati"
     },
     {
       "surface": "וידבר",
-      "gloss": "ja ta kõneles"
+      "gloss": "ja kõneles"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ temaga"
+      "gloss": "⟨את⟩",
+      "marks": "temaga"
     },
     {
       "surface": "משפטים",
-      "gloss": "kohtumõistmisi"
+      "gloss": "kohtuotsuseid"
     }
   ],
-  "timestamp": "2026-10-21T02:24:25.760576954Z",
+  "timestamp": "2026-10-21T06:22:33.513732541Z",
   "model": "glm-5.3"
 }

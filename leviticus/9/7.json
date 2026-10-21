@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Aharon",
-      "rationale": "Moše pöördub otse Aharoni poole imperatiividega"
-    },
-    {
-      "kind": "substitution",
-      "subject": "lepituse",
-      "rationale": "כפר on 'katta' — kaane pilt, mitte abstraktne lepitus"
-    },
-    {
-      "kind": "elision",
-      "subject": "בעדך",
-      "rationale": "'sinu jaoks' kohati kui 'ennast', heebrea ego-fraas ei tõlgi sõna-sõnalt"
-    }
-  ],
-  "translation": "Ja Moše ütles Aharonile: Lähened altari juurde ja tee ⟨את⟩ oma patuohver ja ⟨את⟩ oma põletusohver ning lepituse ennast ja rahva eest; ja tee ⟨את⟩ rahva karban ja lepituse nende eest, nii nagu Jahve on käskinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9a6b0a4b7254ccbee1a9dae91d85e8b344ac8123d31fd6b41f47bc8086a09aee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/9\/5-8.1792539247405.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše ütles Aharonile: astu altari juurde ja tee ⟨את⟩ oma patutoojand ja ⟨את⟩ oma põletusohvri, ja lepi enda ja rahva eest; ja tee ⟨את⟩ rahva ohver ja lepi nende eest, nõnda nagu Jahve on käskinud.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "משה",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Aharonile juurde"
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharonile"
+      "gloss": "Aharon"
     },
     {
       "surface": "קרב",
-      "gloss": "Lähened"
+      "gloss": "astu lähedale"
     },
     {
       "surface": "אל",
@@ -68,32 +42,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma patuohvri"
+      "marks": "oma patutoojand"
     },
     {
       "surface": "חטאתך",
-      "gloss": "oma patuohver"
+      "gloss": "oma patutoojand"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "oma põletusohvri"
     },
     {
       "surface": "עלתך",
-      "gloss": "oma põletusohver"
+      "gloss": "oma põletusohvri"
     },
     {
       "surface": "וכפר",
-      "gloss": "ja lepituse"
+      "gloss": "ja lepi"
     },
     {
       "surface": "בעדך",
-      "gloss": "ennast"
+      "gloss": "enda eest"
     },
     {
       "surface": "ובעד",
-      "gloss": "ja eest"
+      "gloss": "ja ... eest"
     },
     {
       "surface": "העם",
@@ -106,11 +80,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rahva karbani"
+      "marks": "rahva ohver"
     },
     {
       "surface": "קרבן",
-      "gloss": "karban"
+      "gloss": "ohver"
     },
     {
       "surface": "העם",
@@ -118,7 +92,7 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "ja lepituse"
+      "gloss": "ja lepi"
     },
     {
       "surface": "בעדם",
@@ -126,7 +100,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "nii nagu"
+      "gloss": "nõnda nagu"
     },
     {
       "surface": "צוה",
@@ -137,6 +111,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T23:34:07.406810980Z",
+  "timestamp": "2026-10-21T06:30:50.185211399Z",
   "model": "glm-5.3"
 }

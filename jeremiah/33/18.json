@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "minha",
-      "rationale": "מנחה kui ohver jääb kõla järgi 'minhaks', mitte 'viljaohvriks'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יכרת … מכרת",
-      "rationale": "salmides 17–18 kordub כרת 'ära lõigata' leviitide ja Davidi kohta — kordus läheb eesti keeles kaduma"
-    }
-  ],
-  "translation": "ja preestritele, leevidele, ei ära lõigata minu palge eest meest, kes viib üles põletusohvrit ja suitsutab minhat ning teeb ohvrit kõik päevad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "536010f4029c2e6799bad06c98b91fb4b0cc5413c4e94b27365538b6cbb567fc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/33\/17-20.1792548851951.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja preestritele, leevidele, ei lõigata minu palge eest ära meheks olijat, kes teeb tõusvaid ohvreid suitsutama ja kes suitsutab minhat ning kes teeb teovali — kõik päevad.",
   "tokens": [
     {
       "surface": "ולכהנים",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "יכרת",
-      "gloss": "ära lõigata"
+      "gloss": "lõigata ära"
     },
     {
       "surface": "איש",
-      "gloss": "meest"
+      "gloss": "meheks olijat"
     },
     {
       "surface": "מלפני",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "מעלה",
-      "gloss": "kes viib üles"
+      "gloss": "teeb tõusvaid ohvreid"
     },
     {
       "surface": "עולה",
-      "gloss": "põletusohvrit"
+      "gloss": "tõusev ohver"
     },
     {
       "surface": "ומקטיר",
       "gloss": "ja suitsutab"
     },
     {
-      "surface": "מנחha",
-      "gloss": "minhat"
+      "surface": "מנחה",
+      "gloss": "minha"
     },
     {
       "surface": "ועשה",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "זבח",
-      "gloss": "ohvrit"
+      "gloss": "teoval"
     },
     {
       "surface": "כל",
@@ -85,6 +64,6 @@
       "gloss": "päevad"
     }
   ],
-  "timestamp": "2026-10-21T02:14:11.953351483Z",
+  "timestamp": "2026-10-21T06:20:51.160722398Z",
   "model": "glm-5.3"
 }

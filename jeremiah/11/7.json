@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "העד העידתי",
-      "rationale": "Infinitiiv-absoluut + sama verb: 'tunnistades ma tunnistasin' — rõhutav kordus, eestis jäänud osaliselt"
-    },
-    {
-      "kind": "invitation",
-      "subject": "שמעו בקולי",
-      "rationale": "Jahve korduv käsk: 'Kuulge mu häält'"
-    }
-  ],
-  "translation": "Sest ma tunnistasin, jah tunnistasin teie isadele päeval, mil ma tõstsin nad üles Mitsraimi maalt, ja kuni tänapäevani — varakult tõustes ja tunnistades, öeldes: Kuulge mu häält.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/11\/5-8.1792548365305.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest ma olen tunnistust andnud teie isadele, päeval, mil ma tõinsin nad üles ⟨את⟩ maalt Mitsraimist, ja kuni selle päevani tänaseni, tõusin vara ja andsin tunnistust, öeldes: Kuulake minu häält.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "sest"
+      "gloss": "Sest"
     },
     {
       "surface": "העד",
-      "gloss": "tunnistas"
+      "gloss": "tunnistust andma"
     },
     {
       "surface": "העדתי",
-      "gloss": "ma tunnistasin"
+      "gloss": "ma olen tunnistanud"
     },
     {
       "surface": "באבותיכם",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "העלותי",
-      "gloss": "mil ma tõstsin üles"
+      "gloss": "mil ma tõinsin nad üles"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "nad"
     },
     {
       "surface": "מארץ",
@@ -70,19 +50,19 @@
     },
     {
       "surface": "היום",
-      "gloss": "päevani"
+      "gloss": "selle päevani"
     },
     {
       "surface": "הזה",
-      "gloss": "selle"
+      "gloss": "tänaseni"
     },
     {
       "surface": "השכם",
-      "gloss": "varakult tõustes"
+      "gloss": "tõusin vara"
     },
     {
       "surface": "והעד",
-      "gloss": "ja tunnistades"
+      "gloss": "ja andsin tunnistust"
     },
     {
       "surface": "לאמר",
@@ -90,13 +70,13 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "kuulge"
+      "gloss": "Kuulake"
     },
     {
       "surface": "בקולי",
-      "gloss": "mu häält"
+      "gloss": "minu häält"
     }
   ],
-  "timestamp": "2026-10-21T02:06:05.307190761Z",
+  "timestamp": "2026-10-21T06:18:53.910831004Z",
   "model": "glm-5.3"
 }

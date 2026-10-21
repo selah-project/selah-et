@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suund=”” (maole)=”” ja=”” מכל=”” ees=”” liitub=”” eesti=”” elatiivi=”” kaudu; eraldi sõnana ei jagata."
-    },
-    {
-      "kind": "substitution",
-      "subject": "elu päevad",
-      "rationale": "Heebrea ימי חייך on kakskõne 'su elu päevad' — otse jäetud, sõnajärjekord muudetud."
-    }
-  ],
-  "translation": "Ja Jahve Elohim ütles maole: Et sa seda tegid, oled sa neetud kõigist kariloomadest ja kõigist põllu elukatest; kõhul sa käid ja tolmu sööd kõik su elu päevad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "de587e3961d7380c4318bb6c10222ab44911e8d0eafc7146027ccee031e19888",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/3\/13-16.1792537324722.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve Elohim ütles maole: et sa tegid ⟨את⟩ selle, oled sa neetud rohkem kui kõik kariloomad ja kui kõik välja loomad; oma kõhul sa käid ja tolmust sa sööd kõik oma elu päevad.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "maole"
     },
     {
       "surface": "הנחש",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "seda"
+      "gloss": "selle"
     },
     {
       "surface": "ארור",
@@ -66,27 +45,27 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sa"
+      "gloss": "oled sa"
     },
     {
       "surface": "מכל",
-      "gloss": "kõigist"
+      "gloss": "rohkem kui kõik"
     },
     {
       "surface": "הבהמה",
-      "gloss": "kariloomadest"
+      "gloss": "kariloomad"
     },
     {
       "surface": "ומכל",
-      "gloss": "ja kõigist"
+      "gloss": "ja kui kõik"
     },
     {
       "surface": "חית",
-      "gloss": "elukatest"
+      "gloss": "välja loomad"
     },
     {
       "surface": "השדה",
-      "gloss": "põllu"
+      "gloss": "välja"
     },
     {
       "surface": "על",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "גחנך",
-      "gloss": "su kõht"
+      "gloss": "oma kõhul"
     },
     {
       "surface": "תלך",
@@ -102,11 +81,11 @@
     },
     {
       "surface": "ועפר",
-      "gloss": "ja tolmu"
+      "gloss": "ja tolmust"
     },
     {
       "surface": "תאכל",
-      "gloss": "sööd"
+      "gloss": "sa sööd"
     },
     {
       "surface": "כל",
@@ -114,13 +93,13 @@
     },
     {
       "surface": "ימי",
-      "gloss": "päevad"
+      "gloss": "elu päevad"
     },
     {
       "surface": "חייך",
-      "gloss": "su elu"
+      "gloss": "oma elu"
     }
   ],
-  "timestamp": "2026-10-20T23:02:04.723018641Z",
+  "timestamp": "2026-10-21T06:15:13.724813893Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "eesoolt 'maale' on eesti keeles kokku sulatatud; eraldi sõnal pole kohta"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tüürimehed",
-      "rationale": "חבלי הים otse 'mere köiedejad', kergemasi väljendeid mööda tüürimehed"
-    }
-  ],
-  "translation": "Ja astuvad maha nende laevadest kõik aaretõmbajad, meremehed, kõik mere tüürimehed; maal nad seisavad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "26e011cb0655ff1672a89858f7fee264ddd2b1056094426da4ca37da19bd0182",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/27\/29-32.1792550330789.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tulevad alla oma laevadelt kõik aaret hoidvad, meremehed, kõik mere tüürimehed — maale nad jäävad seisma.",
   "tokens": [
     {
       "surface": "וירדו",
-      "gloss": "ja astuvad maha"
+      "gloss": "ja tulevad alla"
     },
     {
       "surface": "מאניותיהם",
-      "gloss": "nende laevadest"
+      "gloss": "oma laevadelt"
     },
     {
       "surface": "כל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "תפשי",
-      "gloss": "aaretõmbajad"
+      "gloss": "hoidvad"
     },
     {
       "surface": "משוט",
@@ -66,17 +45,17 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "maale"
     },
     {
       "surface": "הארץ",
-      "gloss": "maal"
+      "gloss": "maale"
     },
     {
       "surface": "יעמדו",
-      "gloss": "nad seisavad"
+      "gloss": "jäävad seisma"
     }
   ],
-  "timestamp": "2026-10-21T02:38:50.789939476Z",
+  "timestamp": "2026-10-21T06:09:12.184540802Z",
   "model": "glm-5.3"
 }

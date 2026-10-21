@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי פרעה",
-      "rationale": "otsetõlge 'Parho suu peal' = Parho käsu\/korralduse järgi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העריך \/ כערכו",
-      "rationale": "sama juur ערך kordub: 'hindas maa... oma väärtuse järgi' — hinnangu kajastus"
-    }
-  ],
-  "translation": "Ja hõbeda ja kulla andis Jehojakim Parohile; aga ta hindas maa, et ⟨את⟩ hõbedat anda Parho käsu järgi; iga mees oma väärtuse järgi — ta nõudsis ⟨את⟩ hõbeda ja ⟨את⟩ kulla ⟨את⟩ maa rahvalt, et anda Parohile, Nekole.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "327eebf7fad89bbdde33886decd6ae3075d053671f3a7bfebe26dfb35a890da7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/23\/33-36.1792546548339.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja hõbeda ja kulla andis Jehojakim Parohile; aga ⟨ainult⟩ tema hindas ⟨את⟩ maad, et hõbedat anda Parohi suu järgi; igaüks oma hinnangu järgi — temalt nõuti ⟨את⟩ hõbe ja ⟨את⟩ kuld ⟨את⟩ maa rahvalt, et anda Paroh-Nehole.",
   "tokens": [
     {
       "surface": "והכסף",
@@ -59,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maa"
+      "marks": "maad"
     },
     {
       "surface": "הארץ",
-      "gloss": "maa"
+      "gloss": "maad"
     },
     {
       "surface": "לתת",
@@ -84,41 +63,41 @@
     },
     {
       "surface": "פי",
-      "gloss": "käsu"
+      "gloss": "suu"
     },
     {
       "surface": "פרעה",
-      "gloss": "Parho"
+      "gloss": "Parohi"
     },
     {
       "surface": "איש",
-      "gloss": "iga mees"
+      "gloss": "igaüks"
     },
     {
       "surface": "כערכו",
-      "gloss": "oma väärtuse järgi"
+      "gloss": "oma hinnangu järgi"
     },
     {
       "surface": "נגש",
-      "gloss": "nõudsis"
+      "gloss": "temalt nõuti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hõbeda"
+      "marks": "hõbe"
     },
     {
       "surface": "הכסף",
-      "gloss": "hõbeda"
+      "gloss": "hõbe"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kulla"
+      "marks": "kuld"
     },
     {
       "surface": "הזהב",
-      "gloss": "kulla"
+      "gloss": "kuld"
     },
     {
       "surface": "את",
@@ -139,13 +118,13 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "Parohile"
+      "gloss": "Paroh-Nehole"
     },
     {
       "surface": "נכה",
-      "gloss": "Nekole"
+      "gloss": "Neho"
     }
   ],
-  "timestamp": "2026-10-21T01:35:48.340989574Z",
+  "timestamp": "2026-10-21T05:58:28.804382119Z",
   "model": "glm-5.3"
 }

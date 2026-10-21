@@ -5,36 +5,16 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨see on⟩",
-      "rationale": "Heebrea lühilause קדש הוא nõuab eesti keeles koopulat"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tõsteohver",
-      "rationale": "תרומה on 'üles tõstetud osa'; 'tõsteohver' hoiab pildi, alternatiivne 'teruma' kõlana"
-    }
-  ],
-  "translation": "Ja preester vappab neid vappeohvrina Jahve ees; püha ⟨see on⟩ preestrile — vappeohvri rind ja tõsteohvri säär; ja pärast seda võib nasiir juua veini.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5c0c6a99105a177a605235c94bf6c3b575be447c9ed9022b1c168e65fb1e3968",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/6\/17-20.1792539840208.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja preester liigutab neid ⟨את⟩-laiutamisena Jahve ees; püha ⟨on⟩ see preestrile, peale lainnu-rinda ja üles-tõstetud säärt, ja pärast seda võib nasir juua veini.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "Ja vappab"
+      "gloss": "ja liigutab-laiutades"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ nad"
+      "gloss": "⟨את⟩",
+      "marks": "neid (asjad, mida preester laiutab)"
     },
     {
       "surface": "הכהן",
@@ -42,7 +22,7 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "vappeohvrina"
+      "gloss": "laiutamine"
     },
     {
       "surface": "לפני",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨see on⟩"
+      "gloss": "see"
     },
     {
       "surface": "לכהן",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "peale"
     },
     {
       "surface": "חזה",
@@ -74,11 +54,11 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "vappeohvri"
+      "gloss": "laiutamise"
     },
     {
       "surface": "ועל",
-      "gloss": "ja ... säär"
+      "gloss": "ja peale"
     },
     {
       "surface": "שוק",
@@ -86,7 +66,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "tõsteohvri"
+      "gloss": "üles-tõstmise"
     },
     {
       "surface": "ואחר",
@@ -98,13 +78,13 @@
     },
     {
       "surface": "הנזיר",
-      "gloss": "nasiir"
+      "gloss": "nasir"
     },
     {
       "surface": "יין",
       "gloss": "veini"
     }
   ],
-  "timestamp": "2026-10-20T23:44:00.209805168Z",
+  "timestamp": "2026-10-21T06:36:15.594991681Z",
   "model": "glm-5.3"
 }

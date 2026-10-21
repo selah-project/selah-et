@@ -5,41 +5,20 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "küljele",
-      "rationale": "ירך tähendab sõna-sõnalt 'reit', siin 'külg' — kuju hoitud ühe sõnaga"
-    },
-    {
-      "kind": "crux",
-      "subject": "מאת",
-      "rationale": "H854 'eest, ära' — mõned lugevad את; tähendus 'tõi eemale' vs KJV 'tõi'"
-    }
-  ],
-  "translation": "Ja vaskaltari, mis oli Jahve ees, tõi ta eemale templi näolt, altarist ja Jahve koja vahelt, ja pani selle altari küljele, põhja poole.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/16\/13-16.1792546244190.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ⟨את⟩ vaskaltari, mis oli Jahve ees, tõi ta eemale templi näolt, altarist ja Jahve koja vahelt, ja pani selle uue altari küljele, põhja poole.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "vaskaltari"
     },
     {
       "surface": "המזבח",
-      "gloss": "altari"
+      "gloss": "vaskaltari"
     },
     {
       "surface": "הנחשת",
-      "gloss": "vask"
+      "gloss": "vask-"
     },
     {
       "surface": "אשר",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ויקרב",
-      "gloss": "ja tõi"
+      "gloss": "tõi ta eemale"
     },
     {
       "surface": "מאת",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altarist"
+      "gloss": "altari"
     },
     {
       "surface": "ומבין",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "koja"
+      "gloss": "koda"
     },
     {
       "surface": "יהוה",
@@ -95,12 +74,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ selle",
-      "marks": "vaskaltari"
+      "gloss": "⟨את⟩ seda",
+      "marks": "selle (vaskaltari)"
     },
     {
       "surface": "על",
-      "gloss": "küljele"
+      "gloss": "peale"
     },
     {
       "surface": "ירך",
@@ -108,13 +87,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altari"
+      "gloss": "uue altari"
     },
     {
       "surface": "צפונה",
       "gloss": "põhja poole"
     }
   ],
-  "timestamp": "2026-10-21T01:30:44.193218655Z",
+  "timestamp": "2026-10-21T05:57:13.340497871Z",
   "model": "glm-5.3"
 }

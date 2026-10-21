@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "esimese kuu kolmeteistkümnendal päeval",
-      "rationale": "Täpne kuupäev, millel kirjad kirjutati."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מדינה ומדינה \/ עם ועם",
-      "rationale": "Korduv jaotusvalem 'maakond ja maakond, rahvas ja rahvas' annab jäägitu ulatuse; eesti keeles jäetud korduseks."
-    }
-  ],
-  "translation": "Ja kuninga kirjutajad kutsuti esimeses kuus, kolmeteistkümnendal päeval selles, ja kirjutati kõik, mis Haman käsis, kuninga asehalduritele ja maakondade pealikutele, kes olid maakonna ja maakonna üle, ja rahva ja rahva ülemadele, maakond maakonniti oma kirjas ja rahvas rahvati oma keeles; kuningas Ahšveroši nimel ⟨see⟩ kirjutati ja pitseeriti kuninga sõrmusega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/3\/9-12.1792556186043.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kutsuti kokku kuninga kirjutajad esimeses kuus, kolmeteistkümnendal päeval selles, ja kirjutati kõik, mis Haman oli käskinud, kuninga satrappidele ja pealikele, kes olid maakonna ja maakonna üle, ja rahva ja rahva ülematele — maakond ja maakond oma kirjuti järgi ning rahvas ja rahvas oma keele järgi; kuningas Ahhashveroši nimel see kirjutati ja pitseeriti kuninga sõrmusega.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "Ja kutsuti"
+      "gloss": "ja kutsuti kokku"
     },
     {
       "surface": "ספרי",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "בשלושה",
-      "gloss": "kolme"
+      "gloss": "kolmeteistkümnendal"
     },
     {
       "surface": "עשר",
-      "gloss": "teist"
+      "gloss": "⟨kümnendal⟩"
     },
     {
       "surface": "יום",
-      "gloss": "kümnendal päeval"
+      "gloss": "päeval"
     },
     {
       "surface": "בו",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "käsis"
+      "gloss": "oli käskinud"
     },
     {
       "surface": "המן",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "אחשדרפני",
-      "gloss": "asehalduritele"
+      "gloss": "satrappidele"
     },
     {
       "surface": "המלך",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "הפחות",
-      "gloss": "pealikutele"
+      "gloss": "pealikele"
     },
     {
       "surface": "אשר",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "על",
-      "gloss": "üle"
+      "gloss": "olid"
     },
     {
       "surface": "מדינה",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "ülemadele"
+      "gloss": "ülematele"
     },
     {
       "surface": "עם",
@@ -146,11 +125,11 @@
     },
     {
       "surface": "ככתבה",
-      "gloss": "oma kirjas"
+      "gloss": "oma kirjuti järgi"
     },
     {
       "surface": "ועם",
-      "gloss": "ja rahvas"
+      "gloss": "ning rahvas"
     },
     {
       "surface": "ועם",
@@ -158,7 +137,7 @@
     },
     {
       "surface": "כלשונו",
-      "gloss": "oma keeles"
+      "gloss": "oma keele järgi"
     },
     {
       "surface": "בשם",
@@ -166,11 +145,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "kuninga"
+      "gloss": "kuningas"
     },
     {
       "surface": "אחשורש",
-      "gloss": "Ahšveroši"
+      "gloss": "Ahhashveroši"
     },
     {
       "surface": "נכתב",
@@ -189,6 +168,6 @@
       "gloss": "kuninga"
     }
   ],
-  "timestamp": "2026-10-21T04:16:26.045110467Z",
+  "timestamp": "2026-10-21T06:04:43.720760536Z",
   "model": "glm-5.3"
 }

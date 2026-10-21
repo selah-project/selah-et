@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "elu",
-      "rationale": "נפש on elujõud, mitte 'hing' eesti mõttes"
-    },
-    {
-      "kind": "idiom",
-      "subject": "mu süsi",
-      "rationale": "גחלתי 'mu süsi' — kustuv tuli kui viimane elujälg, kujund jääb sõnasõnaliselt"
-    }
-  ],
-  "translation": "Ja vaata, tõusis kogu suguvõsa su orjatari vastu, ja nad ütlesid: Anna välja see, kes lõi oma venda, ja tapkem ta oma elu eest, kelle ta tappis, ja hävitagem ka ⟨את⟩ pärija; ja nad kustutavad mu süsi, mis on järele jäänud, nii et ei jää mu mehele nime ega jäänukit kogu maa peale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/14\/5-8.1792544726162.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja vaata, kogu suguvõsa on tõusnud su orjatari vastu ja nad ütlesid: Anna ⟨את⟩ see, kes lõi oma venda, ja tapkem ta tema venna elu eest, keda ta tappis, ja hävitagem ka ⟨את⟩ pärija; nii kustutavad nad ⟨את⟩ mu sütte, mis on järele jäänud, et mitte jätta mu mehele nime ega järeltulijat maa pinnal.",
   "tokens": [
     {
       "surface": "והנה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "קמה",
-      "gloss": "tõusis"
+      "gloss": "on tõusnud"
     },
     {
       "surface": "כל",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "תני",
-      "gloss": "anna välja"
+      "gloss": "anna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "see, kes lõi"
+      "marks": "see, kes lõi oma venda"
     },
     {
       "surface": "מכה",
-      "gloss": "lööja"
+      "gloss": "kes lõi"
     },
     {
       "surface": "אחיו",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "oma venna"
+      "gloss": "tema venna"
     },
     {
       "surface": "אשר",
@@ -117,11 +96,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mu süsi"
+      "marks": "mu sütte"
     },
     {
       "surface": "גחלתי",
-      "gloss": "mu süsi"
+      "gloss": "mu sütte"
     },
     {
       "surface": "אשר",
@@ -133,11 +112,11 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "nii et ei"
+      "gloss": "et mitte"
     },
     {
       "surface": "שום",
-      "gloss": "jäta"
+      "gloss": "jätta"
     },
     {
       "surface": "לאישי",
@@ -149,21 +128,21 @@
     },
     {
       "surface": "ושארית",
-      "gloss": "ega jäänukit"
+      "gloss": "ega järeltulijat"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": "peal"
     },
     {
       "surface": "פני",
-      "gloss": "pinnale"
+      "gloss": "pinnal"
     },
     {
       "surface": "האדמה",
       "gloss": "maa"
     }
   ],
-  "timestamp": "2026-10-21T01:05:26.166058763Z",
+  "timestamp": "2026-10-21T05:59:53.201218872Z",
   "model": "glm-5.3"
 }

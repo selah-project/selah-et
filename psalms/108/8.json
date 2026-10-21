@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 108,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בקדשו",
-      "rationale": "'oma pühas ⟨paigas⟩' — קדש võib tähendada nii pühadust kui püha paika (pühamikku)"
-    },
-    {
-      "kind": "measurement",
-      "subject": "mõõdan",
-      "rationale": "Mõõtmine kui võidu-motiiv: maa jaotamine ja Sükkoti oru mõõtmine"
-    },
-    {
-      "kind": "crux",
-      "subject": "אעלזה",
-      "rationale": "Vorm on kohativine: JPS loeb 'et ma rõõmustaksin', teised 'ma rõõmustan'"
-    }
-  ],
-  "translation": "Elohim rääkis oma pühas ⟨paigas⟩: ma rõõmustan, jaotan ⟨את⟩ Šekemi ja mõõdan Sukkoti oru.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/108\/5-8.1792553916648.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elohim rääkis oma pühas: ⟨ma⟩ hüppan rõõmus, jaotan Šekemi ja mõõdan Sukkoti oru.",
   "tokens": [
     {
       "surface": "אלהים",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "בקדשו",
-      "gloss": "oma pühas ⟨paigas⟩"
+      "gloss": "oma pühas"
     },
     {
       "surface": "אעלזה",
-      "gloss": "ma rõõmustan"
+      "gloss": "hüppan rõõmus"
     },
     {
       "surface": "אחלקה",
@@ -55,11 +29,11 @@
     },
     {
       "surface": "שכם",
-      "gloss": "⟨את⟩ Šekemi"
+      "gloss": "Šekemi"
     },
     {
       "surface": "ועמק",
-      "gloss": "ja orgu"
+      "gloss": "ja org"
     },
     {
       "surface": "סכות",
@@ -70,6 +44,6 @@
       "gloss": "mõõdan"
     }
   ],
-  "timestamp": "2026-10-21T03:38:36.649653521Z",
+  "timestamp": "2026-10-21T06:37:29.830068054Z",
   "model": "glm-5.3"
 }

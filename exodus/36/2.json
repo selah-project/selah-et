@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאו לבו",
-      "rationale": "sõna-sõnalt 'tõstis tema süda' = süda tegi ta valmis; eesti 'süda tõstis teda' hoiab pildi."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eelias eesliide sulandub eesti kutsuva vormiga, eraldi sõnata."
-    }
-  ],
-  "translation": "Ja Moše kutsus Betsaleli ja Aholiabi ja iga targa südamega mehe, kelle südamesse Jahve oli andnud tarkust, igaühe, kelle süda teda tõstis töö juurde tulema, et seda ⟨את⟩ teha.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7a219b3c461b27ebd6ae7485b5bb37f3f5ef6e1e0930d4d194985f1c7fbd02b1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/36\/1-4.1792539054663.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Moše kutsus Betsoleli ja Aholiabi ja iga targa-südmega mehe, kelle südamesse Jahve oli andnud tarkuse, igaühe, kelle süda teda tõstis, et läheneda tööle ja seda teha ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Ja kutsus"
+      "gloss": "ja kutsus"
     },
     {
       "surface": "משה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "בצלאל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ja"
+      "gloss": "ja juurde"
     },
     {
       "surface": "אהליאב",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ja"
+      "gloss": "ja juurde"
     },
     {
       "surface": "כל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "südamega"
+      "gloss": "südmega"
     },
     {
       "surface": "אשר",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "חכמה",
-      "gloss": "tarkust"
+      "gloss": "tarkuse"
     },
     {
       "surface": "בלבו",
-      "gloss": "südamesse"
+      "gloss": "tema südamesse"
     },
     {
       "surface": "כל",
@@ -98,23 +77,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kelle"
+      "gloss": "keda"
     },
     {
       "surface": "נשאו",
-      "gloss": "süda tõstis teda"
+      "gloss": "tema süda tõstis"
     },
     {
       "surface": "לבו",
-      "gloss": "süda"
+      "gloss": "tema süda"
     },
     {
       "surface": "לקרבה",
-      "gloss": "juurde tulema"
+      "gloss": "et läheneda"
     },
     {
       "surface": "אל",
-      "gloss": "töö"
+      "gloss": "poole"
     },
     {
       "surface": "המלאכה",
@@ -127,9 +106,9 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "seda (töö)"
+      "marks": "töö (seda)"
     }
   ],
-  "timestamp": "2026-10-20T23:30:54.664201801Z",
+  "timestamp": "2026-10-21T06:07:20.224868976Z",
   "model": "glm-5.3"
 }

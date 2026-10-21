@@ -5,42 +5,11 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ריח\/הניחח",
-      "rationale": "lõhn \/ rahu-lõhn — juur-šŽošošla kordus נוח, 'rahu', mida eesti keeles ei saa ühe sõnaga edasi anda"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kujund",
-      "rationale": "יצר on 'vorm, kujund', mitte 'kujutlus'; hearts moodustatud kuju"
-    },
-    {
-      "kind": "idiom",
-      "subject": "אל לבו",
-      "rationale": "tähendab otse 'oma südamele', eesti keeles 'oma südames'"
-    },
-    {
-      "kind": "crux",
-      "subject": "בעבור האדם",
-      "rationale": "'inimese pärast' — hävitamise või jäämise põhjus: inimese heaks või inimese süü tõttu"
-    }
-  ],
-  "translation": "Ja Jahve nuusutas ⟨את⟩ lõhna ⟨lõhnatust⟩ rahu-lõhnast, ja Jahve ütles oma südames: ei lisa ma enam ⟨את⟩ maad vanduda inimese pärast, sest inimese südame kujund on kurat juba noorpõlvest, ega löö ma enam ⟨את⟩ kõike elavat, nõnda nagu ma olen teinud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "94288cd3a3445fc046d116af9c28f62658a7eab9a0c0fdc05fa11c1ed15650a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/8\/21-22.1792537381277.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve nuusutas ⟨את⟩ rahulõhu lõhna, ja Jahve ütles oma südames: ei lisa ma enam nedama ⟨את⟩ maad inimese pärast, sest inimsüdame kujund on kurat noorpõlvest saadik, ega lisa ma enam lüüa kõiki ⟨את⟩ elavaid, nii nagu ma olen teinud.",
   "tokens": [
     {
       "surface": "וירח",
-      "gloss": "ja nuusutas"
+      "gloss": "nuusutas"
     },
     {
       "surface": "יהוה",
@@ -49,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lõhna"
+      "marks": "rahulõhu lõhna"
     },
     {
       "surface": "ריח",
@@ -57,7 +26,7 @@
     },
     {
       "surface": "הניחח",
-      "gloss": "rahu-lõhnast"
+      "gloss": "rahulõhu"
     },
     {
       "surface": "ויאמר",
@@ -69,11 +38,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "omas"
     },
     {
       "surface": "לבו",
-      "gloss": "oma südames"
+      "gloss": "südames"
     },
     {
       "surface": "לא",
@@ -81,15 +50,15 @@
     },
     {
       "surface": "אסף",
-      "gloss": "lisa ma"
+      "gloss": "lisa"
     },
     {
       "surface": "לקלל",
-      "gloss": "vanduma"
+      "gloss": "nedama"
     },
     {
       "surface": "עוד",
-      "gloss": "enam"
+      "gloss": "enem"
     },
     {
       "surface": "את",
@@ -118,7 +87,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "südame"
+      "gloss": "süda"
     },
     {
       "surface": "האדם",
@@ -126,11 +95,11 @@
     },
     {
       "surface": "רע",
-      "gloss": "on kurat"
+      "gloss": "kurat"
     },
     {
       "surface": "מנעריו",
-      "gloss": "juba noorpõlvest"
+      "gloss": "noorpõlvest saadik"
     },
     {
       "surface": "ולא",
@@ -138,38 +107,38 @@
     },
     {
       "surface": "אסף",
-      "gloss": "lisa ma"
+      "gloss": "lisa"
     },
     {
       "surface": "עוד",
-      "gloss": "enam"
+      "gloss": "enem"
     },
     {
       "surface": "להכות",
-      "gloss": "lööma"
+      "gloss": "lüüa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõike elavat"
+      "marks": "kõiki elavaid"
     },
     {
       "surface": "כל",
-      "gloss": "kõike"
+      "gloss": "kõiki"
     },
     {
       "surface": "חי",
-      "gloss": "elavat"
+      "gloss": "elavaid"
     },
     {
       "surface": "כאשר",
-      "gloss": "nõnda nagu"
+      "gloss": "nii nagu"
     },
     {
       "surface": "עשיתי",
       "gloss": "ma olen teinud"
     }
   ],
-  "timestamp": "2026-10-20T23:03:01.278376781Z",
+  "timestamp": "2026-10-21T06:16:53.717843223Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "viis linna",
-      "rationale": "Arv loendus: täpselt viis linna nimetamata."
-    },
-    {
-      "kind": "crux",
-      "subject": "hävingu linn",
-      "rationale": "עיר ההרס: 'hävingu linn' (kreeka 'päikese linn' Heliopolise järgi mõne käsitluse järgi) vs 'päikese linn'; BSB valib Päikese, heebrea tekst ütleb 'häving'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Kenaani keelt",
-      "rationale": "שפת כנען on sõn-sõnalt 'Kenaani huul'; eesti keeles 'keel'."
-    }
-  ],
-  "translation": "Sel päeval on viis linna Mitsraimi maal, kes räägivad Kenaani keelt ja vannuvad Jahve Tsevaoti nimel; ühele öeldakse: hävingu linn.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/17-20.1792546945350.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sel päeval on viis linna Mitsraimi maal, kõnelevad Kenaani keelt ja vannuvad Jahve Tsevaoti nimme; ühele öeldakse: Hävingu linn.",
   "tokens": [
     {
       "surface": "ביום",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": ""
+      "gloss": "see"
     },
     {
       "surface": "יהיו",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "maas"
+      "gloss": "maal"
     },
     {
       "surface": "מצרים",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "מדברות",
-      "gloss": "räägivad"
+      "gloss": "kõnelevad"
     },
     {
       "surface": "שפת",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Jahve"
+      "gloss": "Jahvele"
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaoti"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "עיר",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ההרס",
-      "gloss": "hävingu"
+      "gloss": "Hävingu"
     },
     {
       "surface": "יאמר",
@@ -102,6 +76,6 @@
       "gloss": "ühele"
     }
   ],
-  "timestamp": "2026-10-21T01:42:25.351516182Z",
+  "timestamp": "2026-10-21T06:17:14.786142887Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hesed",
-      "rationale": "Hesed jäetakse kõladesse, mitte 'armastus' ega 'halastus' üksi."
-    },
-    {
-      "kind": "crux",
-      "subject": "verb puudub",
-      "rationale": "Heebrea jätab teise lause osas verbi lisamata: 'ja Elyoni hesedis — ei kõigu'; ⟨paistab⟩ täiendab seda."
-    }
-  ],
-  "translation": "Sest kuningas loodab Jahve peale ja Elyoni hesedi ⟨paistab⟩ — ta ei kõigu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/21\/5-8.1792552430602.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest kuningas loodab Jahve peale ja Eljoni hesedi kaudu ei lange ta ⟨mitte kunagi⟩ kõikuma.",
   "tokens": [
     {
       "surface": "כי",
@@ -46,21 +25,21 @@
     },
     {
       "surface": "ובחסד",
-      "gloss": "ja hesedis"
+      "gloss": "ja hesedi kaudu"
     },
     {
       "surface": "עליון",
-      "gloss": "Elyoni"
+      "gloss": "Eljoni"
     },
     {
       "surface": "בל",
-      "gloss": "mitte"
+      "gloss": "ei"
     },
     {
       "surface": "ימוט",
-      "gloss": "kõigu"
+      "gloss": "lange kõikuma"
     }
   ],
-  "timestamp": "2026-10-21T03:13:50.603854594Z",
+  "timestamp": "2026-10-21T06:38:09.824397788Z",
   "model": "glm-5.3"
 }

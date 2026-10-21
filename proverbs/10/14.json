@@ -5,62 +5,37 @@
   "book": "proverbs",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti keeles on vajalik kopeel: heebrea keeles öeldis puudub"
-    },
-    {
-      "kind": "alternative",
-      "subject": "מחתה",
-      "rationale": "'Häda' ehk 'kangestus' — sõna tähendab nii varemeid kui õudust; 'häda' hõlmab mõlemad"
-    }
-  ],
-  "translation": "Targad varjavad teadmisi, aga rumala suu ⟨on⟩ hukk ja häda ligi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3327ddd08224dd2b01ba9ebc43fe55f4beea596d03ea59b3aef588bb4393e959",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/10\/13-16.1792554624287.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Targad hoiavad ⟨teadmis⟩ varjul, aga narri suu — häving ⟨on⟩ lähedal.",
   "tokens": [
     {
       "surface": "חכמים",
-      "gloss": "targad"
-    },
-    {
-      "surface": "יצצפנו",
-      "gloss": ""
+      "gloss": "Targad"
     },
     {
       "surface": "יצפנו",
-      "gloss": "varjavad"
+      "gloss": "hoiad varjul"
     },
     {
       "surface": "דעת",
-      "gloss": "teadmisi"
+      "gloss": "teadmine"
     },
     {
       "surface": "ופי",
-      "gloss": "aga suu"
+      "gloss": "aga narri suu"
     },
     {
       "surface": "אויל",
-      "gloss": "rumala"
+      "gloss": "narr"
     },
     {
       "surface": "מחתה",
-      "gloss": "hukk ja häda"
+      "gloss": "häving"
     },
     {
       "surface": "קרבה",
-      "gloss": "ligi"
+      "gloss": "lähedal"
     }
   ],
-  "timestamp": "2026-10-21T03:50:24.288115591Z",
+  "timestamp": "2026-10-21T06:36:35.411245434Z",
   "model": "glm-5.3"
 }

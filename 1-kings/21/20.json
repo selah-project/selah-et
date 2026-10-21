@@ -5,49 +5,27 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בעיני יהוה",
-      "rationale": "sõna-sõnalt 'Jahve silmais' — eesti võiks öelda 'Jahve meelest', kuid pilt hoitud"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "",
-      "rationale": "eesliide sulandus eesti üld- või alale käände konstruktsiooni"
-    }
-  ],
-  "translation": "Ja Ahhav ütles Eliale: kas leidsid sa mind, mu vaenlane? Ja tema ütles: leidsin, sest sa oled end ära müünud, et teha kurja Jahve silmis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cfe06adb1a864f03155dbb52bc2b021c86bd30e3218163e2ab62e5f8da3b78df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/21\/17-20.1792545821190.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Ahav ütles Eliale: Kas sa leidsid ⟨את⟩ mind, mu vaenlane? Ja tema ütles: Ma leidsin ⟨את⟩ sind, sest sa oled end ära müünud, et teha kurja Jahve silmis.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ütles"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahhav"
+      "gloss": "Ahav"
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "אליהו",
       "gloss": "Eliale"
     },
     {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
       "surface": "המצאתני",
-      "gloss": "kas leidsid sa mind"
+      "gloss": "Kas sa leidsid mind"
     },
     {
       "surface": "איבי",
@@ -55,19 +33,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja tema ütles"
+      "gloss": "Ja tema ütles"
     },
     {
       "surface": "מצאתי",
-      "gloss": "leidsin"
+      "gloss": "Ma leidsin"
     },
     {
       "surface": "יען",
-      "gloss": "sest"
+      "gloss": "seest"
     },
     {
       "surface": "התמכרך",
-      "gloss": "sa oled end ära müünud"
+      "gloss": "oled end ära müünud"
     },
     {
       "surface": "לעשות",
@@ -86,6 +64,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T01:23:41.192569021Z",
+  "timestamp": "2026-10-21T05:51:26.843822261Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "koos",
-      "rationale": "Heebrea paigutab את יעקב tagasihäälikuna; eesti keel vajab kaasa-tulija märkimiseks sõna"
-    },
-    {
-      "kind": "measurement",
-      "subject": "nimekiri",
-      "rationale": "Salm avab Jaakovi poegade loendi — nimed loetakse üles"
-    }
-  ],
-  "translation": "Ja need on Jisraeli poegade nimed, kes tulid Mitsraimasse; koos Jaakoviga, iga mees ja tema koda, tulid nad.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b38a24f04bb804665731a3d0914fac7206ba14193922a5f26e45f04c7f21c9a1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/1\/1-4.1792538247470.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja need on nimed Jisraeli poegadele, kes tulevad Mitsraimasse; koos Jaakoviga, ⟨את⟩ ⟨Jaakovi⟩, tuli iga mees ja tema pere.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "poegade"
+      "gloss": "poegadele"
     },
     {
       "surface": "ישראל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הבאים",
-      "gloss": "kes tulid"
+      "gloss": "kes tulevad"
     },
     {
       "surface": "מצרימה",
@@ -55,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jaakov"
+      "marks": "Jaakovi"
     },
     {
       "surface": "יעקב",
@@ -67,13 +46,13 @@
     },
     {
       "surface": "וביתו",
-      "gloss": "ja tema koda"
+      "gloss": "ja tema pere"
     },
     {
       "surface": "באו",
-      "gloss": "tulid nad"
+      "gloss": "tuli"
     }
   ],
-  "timestamp": "2026-10-20T23:17:27.470807128Z",
+  "timestamp": "2026-10-21T06:04:55.744046212Z",
   "model": "glm-5.3"
 }

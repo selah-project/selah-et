@@ -5,53 +5,27 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "paired particle 'but rather' rendered as single 'vaid'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "רוח",
-      "gloss": "ruahh held untranslated: wind\/breath\/Spirit one word"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Estonian requires copula in the nominal clause"
-    }
-  ],
-  "translation": "Ei niimoodi ⟨on⟩ õelad, vaid nagu kõrs, mille ruahh eemale puhub.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/1\/1-4.1792552192640.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nii ei ole pahad, vaid nad on nagu kõrs, mida ruahh minna ajab.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "Ei"
+      "gloss": "ei"
     },
     {
       "surface": "כן",
-      "gloss": "niimoodi"
+      "gloss": "nii"
     },
     {
       "surface": "הרשעים",
-      "gloss": "õelad"
+      "gloss": "pahad"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "vaid"
     },
     {
       "surface": "אם",
-      "gloss": "vaid"
+      "gloss": ""
     },
     {
       "surface": "כמץ",
@@ -59,17 +33,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "mida"
     },
     {
       "surface": "תדפנו",
-      "gloss": "eemale puhub"
+      "gloss": "minna ajab"
     },
     {
       "surface": "רוח",
       "gloss": "ruahh"
     }
   ],
-  "timestamp": "2026-10-21T03:09:52.642463211Z",
+  "timestamp": "2026-10-21T06:37:34.734820969Z",
   "model": "glm-5.3"
 }

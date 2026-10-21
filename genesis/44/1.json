@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "על ביתו",
-      "rationale": "sõna-sõnalt 'kellel on võim tema koja üle' — 'koja ülem' on kontekstipõhine roll, mitte heebrea sõna kuju"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאת \/ נשא",
-      "rationale": "'kanda' ja 'kott' kõlavad koos — lasta kottidel täituda sedamööda, mida nad 'kandma suudavad'"
-    }
-  ],
-  "translation": "Ja ta käskis ⟨את⟩ oma koja ülemjat öelda: Täida meeste kotid toiduga, niipalju kui nad suudavad kanda, ja pane iga mehe hõbe tema koti suhu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/44\/1-4.1792538121567.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta käskis ⟨את⟩ tema, kes tema maja üle ⟨oli⟩, öelda: Täida nende meeste kotid toiduga, niipalja kui nad kanda suudavad, ja pane igaühe hõbe tema koti suule.",
   "tokens": [
     {
       "surface": "ויצו",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma koja ülemjat"
+      "marks": "tema, kes tema maja üle"
     },
     {
       "surface": "אשר",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "tema koda"
+      "gloss": "tema maja"
     },
     {
       "surface": "לאמר",
@@ -60,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "meeste kotid"
+      "marks": "kotid"
     },
     {
       "surface": "אמתחת",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "meeste"
+      "gloss": "nende meeste"
     },
     {
       "surface": "אכל",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "niipalju kui"
+      "gloss": "niipalja kui"
     },
     {
       "surface": "יוכלון",
@@ -96,17 +75,17 @@
     },
     {
       "surface": "איש",
-      "gloss": "iga mehe"
+      "gloss": "igaühe"
     },
     {
       "surface": "בפי",
-      "gloss": "suhu"
+      "gloss": "suule"
     },
     {
       "surface": "אמתחתו",
       "gloss": "tema koti"
     }
   ],
-  "timestamp": "2026-10-20T23:15:21.567825857Z",
+  "timestamp": "2026-10-21T06:16:22.871635016Z",
   "model": "glm-5.3"
 }

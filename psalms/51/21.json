@@ -5,50 +5,19 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "oled Sa rahul",
-      "rationale": "חפץ tähendab 'soovima, meeldima'; 'rahul olma' on eesti idioom soovi kohta"
-    },
-    {
-      "kind": "substitution",
-      "subject": "koguohver",
-      "rationale": "כליל on täielikult põletatav ohver, 'kogu' jätab sõna kuju alles"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "eelpositsoon 'peale' on eestlaslikus sõnajärjes liidetud sõnaga 'altarile'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "tuuakse",
-      "rationale": "יעלו otseselt 'nad toovad üles \/ nad ohverdavad' — tegelasest lahtisem"
-    }
-  ],
-  "translation": "Siis oled Sa rahul tsedeki ohvritega, põletusohver ja koguohver; siis tuuakse Sinu altarile härgi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/51\/21-21.1792552929836.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Siis on sulle meeltmööda tsedeki ohvrid, põletusohver ja koguohver; siis tuuakse sinu altarile pullid.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "Siis"
+      "gloss": "siis"
     },
     {
       "surface": "תחפץ",
-      "gloss": "oled Sa rahul"
+      "gloss": "on sulle meeltmööda"
     },
     {
       "surface": "זבחי",
-      "gloss": "ohvritega"
+      "gloss": "ohvrid"
     },
     {
       "surface": "צדק",
@@ -72,17 +41,17 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "…-le"
     },
     {
       "surface": "מזבחך",
-      "gloss": "Sinu altarile"
+      "gloss": "sinu altarile"
     },
     {
       "surface": "פרים",
-      "gloss": "härgi"
+      "gloss": "pullid"
     }
   ],
-  "timestamp": "2026-10-21T03:22:09.836827847Z",
+  "timestamp": "2026-10-21T06:38:14.573519275Z",
   "model": "glm-5.3"
 }

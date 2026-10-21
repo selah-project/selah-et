@@ -5,40 +5,19 @@
   "book": "job",
   "lang": "et",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ערוד",
-      "rationale": "Parallel animal name: 'metsik eesel' vs 'üksik metsik eesel' (from its lonesome habits); rendered as elision in apposition."
-    },
-    {
-      "kind": "invitation",
-      "subject": "kümme küsimust",
-      "rationale": "Jumala küsimus Iiobile — v.5 avab otse kuulajale suunatud küsimuste rea."
-    }
-  ],
-  "translation": "Kes on lasknud metsiku eesli vabaks, ja kes on avanud ⟨את⟩ tema köied?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/39\/5-8.1792555655508.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kes on saatnud mets-eesli vabaks, ja kelle jaoks on avanud mets-eesli köied?",
   "tokens": [
     {
       "surface": "מי",
-      "gloss": "kes"
+      "gloss": "Kes"
     },
     {
       "surface": "שלח",
-      "gloss": "on lasknud"
+      "gloss": "on saatnud"
     },
     {
       "surface": "פרא",
-      "gloss": "metsiku eesli"
+      "gloss": "mets-eesli"
     },
     {
       "surface": "חפשי",
@@ -46,21 +25,21 @@
     },
     {
       "surface": "ומסרות",
-      "gloss": "ja tema köied"
+      "gloss": "ja ... köied"
     },
     {
       "surface": "ערוד",
-      "gloss": ""
+      "gloss": "mets-eesli"
     },
     {
       "surface": "מי",
-      "gloss": "kes"
+      "gloss": "kelle jaoks on"
     },
     {
       "surface": "פתח",
-      "gloss": "on avanud"
+      "gloss": "avanud"
     }
   ],
-  "timestamp": "2026-10-21T04:07:35.509250713Z",
+  "timestamp": "2026-10-21T06:23:39.432950833Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "Aleph-tav marker with 1cs suffix rendered as 'mille üle' — the pointed object of the command is Jahve's word, marked as 'mulle'."
-    }
-  ],
-  "translation": "Sest nõnda on mulle kästud Jahve sõnaga, öeldes: Ära söö leiba ega joo vett ega pöördu tagasi teed, mida sa tulid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/13\/9-12.1792545544556.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest nõnda on kästud ⟨את⟩ mind Jahve sõna ⟨poolt⟩, öeldes: ära söö leiba, ära joo vett ega pöördu tagasi teele, mida mööda sa tulid.",
   "tokens": [
     {
       "surface": "כי",
@@ -37,12 +21,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mille üle",
-      "marks": "mulle"
+      "gloss": "⟨את⟩",
+      "marks": "mind"
     },
     {
       "surface": "בדבר",
-      "gloss": "sõnaga"
+      "gloss": "sõna ⟨poolt⟩"
     },
     {
       "surface": "יהוה",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "ega"
+      "gloss": "ära"
     },
     {
       "surface": "תשתה",
@@ -86,17 +70,17 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "teed"
+      "gloss": "teele"
     },
     {
       "surface": "אשר",
-      "gloss": "mida"
+      "gloss": "mida mööda"
     },
     {
       "surface": "הלכת",
       "gloss": "sa tulid"
     }
   ],
-  "timestamp": "2026-10-21T01:19:04.558355517Z",
+  "timestamp": "2026-10-21T05:50:54.971868127Z",
   "model": "glm-5.3"
 }

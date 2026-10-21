@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "surnud väärivad",
-      "rationale": "בני מות on sõna-sõnalt 'surma pojad'; KJV 'worthy to die' kaotab pildi"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "relatiiv eesti 'mis\/et' juba varasemas kohas; teine אשר ühenduses מראשתו jääb märkimata"
-    },
-    {
-      "kind": "crux",
-      "subject": "חי יהוה",
-      "rationale": "vanne 'nii tõesti kui Jahve elab' — eesti 'leb' heebrea elavvormi vastu"
-    }
-  ],
-  "translation": "Pole hea see asi, mis sa teinud oled. Nii tõesti kui Jahve elab, olete te surma pojad, et te ei valvanud oma isandat, Jahve võitud üle. Ja nüüd vaata, kus on kuninga oda ja ⟨את⟩ veekann tema peauhast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/26\/13-16.1792544341080.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ei ole hea see asi, mida sa oled teinud. Nii tõesti kui Jahve elab, olete te surma pojad, sest te ei valvanud oma isandat, Jahve võitut. Ja nüüd vaata, kus on kuninga oda ja ⟨את⟩ veekann, mis oli tema pea juures.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "pole"
+      "gloss": "ei"
     },
     {
       "surface": "טוב",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "asi"
+      "gloss": "see asi"
     },
     {
       "surface": "הזה",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "mida"
     },
     {
       "surface": "עשית",
-      "gloss": "sa teinud oled"
+      "gloss": "oled teinud"
     },
     {
       "surface": "חי",
-      "gloss": "leb"
+      "gloss": " elab"
     },
     {
       "surface": "יהוה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "et"
+      "gloss": "sest"
     },
     {
       "surface": "בני",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "ote te"
+      "gloss": "te"
     },
     {
       "surface": "אשר",
-      "gloss": "et"
+      "gloss": "kuna"
     },
     {
       "surface": "לא",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "oma isandat"
+      "gloss": "oma isanda"
     },
     {
       "surface": "על",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "משיח",
-      "gloss": "võitud"
+      "gloss": "võitu"
     },
     {
       "surface": "יהוה",
@@ -148,13 +122,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "mis"
     },
     {
       "surface": "מראשתו",
-      "gloss": "tema peauhast"
+      "gloss": "oli tema pea juures"
     }
   ],
-  "timestamp": "2026-10-21T00:59:01.087258258Z",
+  "timestamp": "2026-10-21T05:54:19.940522729Z",
   "model": "glm-5.3"
 }

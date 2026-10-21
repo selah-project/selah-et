@@ -5,29 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כליו",
-      "rationale": "'Oma tarvikud\/relvad' — KJV 'artillery', teised 'bow and arrows'; sõna on üldine 'riistad, varustus'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss-empty": true,
-      "rationale": "Eeslend אל sulandub eestisse 'oma pojale'; eraldi sõnata."
-    }
-  ],
-  "translation": "Ja Jehonatan andis ⟨את⟩ oma tarvikud oma pojale, kes ⟨tema juures⟩ oli, ja ütles talle: Mine, too linna!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/20\/37-40.1792544129421.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Joonatan andis ⟨את⟩ oma riistad poisile, kes tema juures ⟨oli⟩, ja ütles talle: Mine, too linna.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -35,24 +13,24 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jehonatan"
+      "gloss": "Joonatan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma tarvikud"
+      "marks": "oma riistad"
     },
     {
       "surface": "כליו",
-      "gloss": "oma tarvikud"
+      "gloss": "oma riistad"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "poisile"
     },
     {
       "surface": "הנער",
-      "gloss": "oma pojale"
+      "gloss": "poiss"
     },
     {
       "surface": "אשר",
@@ -60,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "⟨tema juures⟩ oli"
+      "gloss": "tema juures"
     },
     {
       "surface": "ויאמר",
@@ -83,6 +61,6 @@
       "gloss": "linna"
     }
   ],
-  "timestamp": "2026-10-21T00:55:29.424035920Z",
+  "timestamp": "2026-10-21T05:53:33.817325826Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "juubeli aasta",
-      "rationale": "juubel (יובל, paasusarve puhang) seab 50. aastal kõik maavaldused tagasi algsetele omanikele"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ומצאה ידו",
-      "rationale": "sõna-sõnalt 'ja tema käsi on leidnud' — jõukuse idiom, nagu 25:26"
-    }
-  ],
-  "translation": "Ja kui tema käsi ei leia küllalt talle tagastamiseks, siis jääb tema müük ostja kätte kuni juubeli aastani, ja see läheb välja juubelil, ja ta pöördub tagasi oma valdusse.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/25\/25-28.1792539630415.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui tema käsi ei leia küllalt, et ⟨את⟩ see talle tagasi anda, siis jääb tema müüdud asi ostja kätte kuni juubeliaastani, ja see läheb välja juubelil, ja ta pöördub tagasi oma pärandvaldusse.",
   "tokens": [
     {
       "surface": "ואם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מצאה",
-      "gloss": "leia"
+      "gloss": "leiab"
     },
     {
       "surface": "ידו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "tagastamiseks"
+      "gloss": "tagasi anda"
     },
     {
       "surface": "לו",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ממכרו",
-      "gloss": "tema müük"
+      "gloss": "tema müüdud asi"
     },
     {
       "surface": "ביד",
@@ -75,7 +54,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "see (müük)"
+      "marks": "see (tema müüdud asi)"
     },
     {
       "surface": "עד",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "לאחזתו",
-      "gloss": "oma valdusse"
+      "gloss": "oma pärandvaldusse"
     }
   ],
-  "timestamp": "2026-10-20T23:40:30.416728352Z",
+  "timestamp": "2026-10-21T06:29:35.941899250Z",
   "model": "glm-5.3"
 }

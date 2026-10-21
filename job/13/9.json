@@ -5,37 +5,11 @@
   "book": "job",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti keel nõuab olevat, heebrea seda ei ütle"
-    },
-    {
-      "kind": "crux",
-      "subject": "התל",
-      "rationale": "'narritama' (KJV\/JPS) vs 'petma' (Geneva\/ASV) — juur ühendab mõlemad"
-    },
-    {
-      "kind": "you",
-      "subject": "sõpradele",
-      "rationale": "Iiob pöördub otse kolme sõbra poole"
-    }
-  ],
-  "translation": "Kas ⟨on⟩ hea, et ta teid põhjalikult uurib? Kas te petate teda, nagu petetakse surelikku?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/13\/9-12.1792555274663.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kas on hea, et ta ⟨את⟩ teid läbi uurib? Või nagu narritakse surlikku inimest, kas narrite temagi?",
   "tokens": [
     {
       "surface": "הטוב",
-      "gloss": "kas ⟨on⟩ hea"
+      "gloss": "kas on hea"
     },
     {
       "surface": "כי",
@@ -43,34 +17,34 @@
     },
     {
       "surface": "יחקר",
-      "gloss": "põhjalikult uurib"
+      "gloss": "läbi uurib"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "אם — 'teid' (voordlus: teie, keda ta uurib)"
     },
     {
       "surface": "אם",
-      "gloss": "kas"
+      "gloss": "või"
     },
     {
       "surface": "כהתל",
-      "gloss": "nagu petetakse"
+      "gloss": "narritakse"
     },
     {
       "surface": "באנוש",
-      "gloss": "surelikku"
+      "gloss": "surlikku inimest"
     },
     {
       "surface": "תהתלו",
-      "gloss": "te petate"
+      "gloss": "narrite temagi"
     },
     {
       "surface": "בו",
-      "gloss": "teda"
+      "gloss": "temas"
     }
   ],
-  "timestamp": "2026-10-21T04:01:14.664413878Z",
+  "timestamp": "2026-10-21T06:23:00.611009919Z",
   "model": "glm-5.3"
 }

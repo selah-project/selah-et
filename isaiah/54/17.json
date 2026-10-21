@@ -5,38 +5,7 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 54,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti keel nõuab öeldistäit, heebrea puudub"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tsedek",
-      "rationale": "צדקתם jääb kõla järgi 'tsedekiks', mitte 'õiguseks', D2 reegli järgi"
-    },
-    {
-      "kind": "crux",
-      "subject": "למשפט תרשיעי",
-      "rationale": "'kohtus sind süüdi mõistad' vs JPS 'sinu õiguse tasu Minult' — kes mõistab kelle süüdi"
-    },
-    {
-      "kind": "alternative",
-      "subject": "תרשיעי",
-      "rationale": "Pöördeline imperfekt: 'sina mõistad ta süüdi', vastu KJV 'thou shalt condemn'"
-    }
-  ],
-  "translation": "Iga riist, mis sinu vastu vormitakse, ei õnnestu, ja iga keel, kes sinu vastu tõstab kohtu, mõistad sa süüdi; see on pärand, mis kuulub Jahve teenijatele, ja nende tsedek ⟨on⟩ minult — ütleb Jahve Tsevaot.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/54\/17-17.1792547575710.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Iga riist, mis sinu vastu valatakse, ei õnnestu, ja iga keel, mis sinu vastu tõuseb kohtu jaoks, saad sina õigeks mõistma ⟨את⟩ süüdi. See on pärandiks Jahve teenritele ja nende tsedek ⟨on⟩ ⟨את⟩ minu käest, ütleb Jahve.",
   "tokens": [
     {
       "surface": "כל",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "יוצר",
-      "gloss": "vormitakse"
+      "gloss": "valatakse"
     },
     {
       "surface": "עליך",
@@ -72,19 +41,20 @@
     },
     {
       "surface": "תקום",
-      "gloss": "tõstab"
+      "gloss": "tõuseb"
     },
     {
       "surface": "אתך",
-      "gloss": "sinu vastu ⟨את⟩"
+      "gloss": "sinu vastu ⟨את⟩",
+      "marks": "sinu vastu"
     },
     {
       "surface": "למשפט",
-      "gloss": "kohtu"
+      "gloss": "kohtu jaoks"
     },
     {
       "surface": "תרשיעי",
-      "gloss": "mõistad sa süüdi"
+      "gloss": "saad sina süüdi mõistma"
     },
     {
       "surface": "זאת",
@@ -92,11 +62,11 @@
     },
     {
       "surface": "נחלת",
-      "gloss": "pärand"
+      "gloss": "pärandiks"
     },
     {
       "surface": "עבדי",
-      "gloss": "teenijatele"
+      "gloss": "teenritele"
     },
     {
       "surface": "יהוה",
@@ -108,7 +78,7 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "minult ⟨את⟩"
+      "gloss": "⟨את⟩ minu käest"
     },
     {
       "surface": "נאם",
@@ -119,6 +89,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T01:52:55.710812284Z",
+  "timestamp": "2026-10-21T06:19:08.319306939Z",
   "model": "glm-5.3"
 }

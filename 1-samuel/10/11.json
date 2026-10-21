@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מאתמול שלשום",
-      "rationale": "'eilselt ja üleeilselt' — heebreaidiom 'ammu, varem' eest; eesti lugeja võib vajada glossi 'varasemast ajast'."
-    },
-    {
-      "kind": "you",
-      "subject": "rahva küsimus",
-      "rationale": "Rahvas pöördub teineteise poole retoorilise küsimusega 'kas ka Šaul prohvetite seas?' — kõne-akt, millest sai vanasõna (v. 12)."
-    }
-  ],
-  "translation": "Ja sündis: kõik, kes teda tundsid eilselt ja üleeilselt, nägid, ja vaata, koos prohvetitega ta prohetas, ja rahvas ütles, igaüks oma kaaslasele: mis see on juhtunud Kiši pojaga? kas ka Šaul on prohvetite seas?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/10\/9-12.1792543850462.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis: kõik, kes teda tundsid eilsest päevast ja üle-eilsest, nägid — ja vaata, koos prohvetitega ta prohvetistas — ja rahvas ütles, igaüks oma kaasale: mis see on, mis on juhtunud Kiši pojaga? kas ka Šaoul on prohvetite seas?",
   "tokens": [
     {
       "surface": "ויהי",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "מאתמול",
-      "gloss": "eilselt"
+      "gloss": "eilsest päevast"
     },
     {
       "surface": "שלשום",
-      "gloss": "ja üleeilselt"
+      "gloss": "ja üle-eilsest"
     },
     {
       "surface": "ויראו",
-      "gloss": "nägid"
+      "gloss": "näidsid"
     },
     {
       "surface": "והנה",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "ta prohetas"
+      "gloss": "ta prohvetistas"
     },
     {
       "surface": "ויאמר",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "oma kaasale"
     },
     {
       "surface": "רעהו",
-      "gloss": "oma kaaslasele"
+      "gloss": ""
     },
     {
       "surface": "מה",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "see"
+      "gloss": "see on"
     },
     {
       "surface": "היה",
@@ -114,13 +93,13 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Šaul"
+      "gloss": "Šaoul"
     },
     {
       "surface": "בנביאים",
       "gloss": "prohvetite seas"
     }
   ],
-  "timestamp": "2026-10-21T00:50:50.466729010Z",
+  "timestamp": "2026-10-21T05:52:02.662834638Z",
   "model": "glm-5.3"
 }

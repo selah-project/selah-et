@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וישבו אותם דבר",
-      "rationale": "Sõna-sõnalt 'ja tõid nad [tagasi] sõna' — teateviimise idioom."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אותם",
-      "rationale": "אותם viitab siin kõnelejatele ('neile'), mitte tagasitoodavale esemele; hiphili tähendus 'tagasi tooma' dikteerib renderduse."
-    }
-  ],
-  "translation": "Ja Pinehas, Elazari poeg, preester, ja vürstid naasid Reuveni poegade juurest ja Gadi poegade juurest, Giladi maalt, Kenaani maale, Jisraeli poegade juurde, ja nad tõid neile tagasi sõna.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8188e0934e48e7b8783d1de86a2a9544413c41f37f4539eba88755708655a4e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/22\/30-32.1792543681256.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Pinhas, Elasari poeg, preester, ja vürstid pöörasid tagasi RUbiini poegade juurest ja ⟨את⟩ Gaadi poegade juurest Giladi maalt Kenaani maale, Jisraeli poegade juurde, ja tõid neile ⟨את⟩ sõna tagasi.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "ja naasid"
+      "gloss": "ja pööras tagasi"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinehas"
+      "gloss": "Pinhas"
     },
     {
       "surface": "בן",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazari"
+      "gloss": "Elasar"
     },
     {
       "surface": "הכהן",
@@ -54,7 +33,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ juurest"
+      "gloss": "juurest ⟨את⟩",
+      "marks": "RUbiini poegade"
     },
     {
       "surface": "בני",
@@ -62,11 +42,12 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Reuveni"
+      "gloss": "RUbiini"
     },
     {
       "surface": "ומאת",
-      "gloss": "ja ⟨את⟩ juurest"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Gaadi poegade"
     },
     {
       "surface": "בני",
@@ -74,7 +55,7 @@
     },
     {
       "surface": "גד",
-      "gloss": "Gadi"
+      "gloss": "Gaadi"
     },
     {
       "surface": "מארץ",
@@ -86,15 +67,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "…le"
-    },
-    {
-      "surface": "ארץ",
       "gloss": "maale"
     },
     {
-      "surface": "כנען",
+      "surface": "ארץ",
       "gloss": "Kenaani"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
     },
     {
       "surface": "אל",
@@ -110,7 +91,7 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ja nad tõid tagasi"
+      "gloss": "ja tõid tagasi"
     },
     {
       "surface": "אותם",
@@ -122,6 +103,6 @@
       "gloss": "sõna"
     }
   ],
-  "timestamp": "2026-10-21T00:48:01.261485651Z",
+  "timestamp": "2026-10-21T06:25:33.926012500Z",
   "model": "glm-5.3"
 }

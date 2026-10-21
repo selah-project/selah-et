@@ -5,43 +5,7 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ja tema pea taevas",
-      "rationale": "heebrea ei ütle 'ulatuks taevasse' — lause on peaaegu peata: 'ja tema pea taevastes'; tavatõlked lisavad tegusõna"
-    },
-    {
-      "kind": "idiom",
-      "subject": "teeme endile nime",
-      "rationale": "נַעֲשֶׂה לָּנוּ שֵׁם — 'teha endale nime' on idiom 'jätta püsiv mälestus, kuulsus'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שֵׁם \/ שָׁם",
-      "rationale": "v. 2 'sinna' (שָׁם) ja v. 4 'nimi' (שֵׁם) — sama kõlapilt; ka Babüloni-ürgsete samuti 'nime' poole püüdlemine"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Hääd",
-      "rationale": "häväh kutsung 'Tulge' avab kõne"
-    },
-    {
-      "kind": "you",
-      "subject": "kaaslased",
-      "rationale": "kõne pöördub vahetult oma kaaslaste poole, mitte lugeja poole"
-    }
-  ],
-  "translation": "Ja nad ütlesid: Tulge, ehitame endile linna ja torni, ja tema pea taevas, ja teeme endile nime, et meid ei paisataks kogu maa palgele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/11\/1-4.1792537517051.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad ütlesid: Tulge, ehitagem endile linn ja torn, mille pea ⟨on⟩ taeva sees, ja teeme endile nimi, et meid ei pillutataks kogu maamaa näo peale.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -53,7 +17,7 @@
     },
     {
       "surface": "נבנה",
-      "gloss": "ehitame"
+      "gloss": "ehitagem"
     },
     {
       "surface": "לנו",
@@ -61,19 +25,19 @@
     },
     {
       "surface": "עיר",
-      "gloss": "linna"
+      "gloss": "linn"
     },
     {
       "surface": "ומגדל",
-      "gloss": "ja torni"
+      "gloss": "ja torn"
     },
     {
       "surface": "וראשו",
-      "gloss": "ja tema pea"
+      "gloss": "mille pea"
     },
     {
       "surface": "בשמים",
-      "gloss": "taevas"
+      "gloss": "taeva sees"
     },
     {
       "surface": "ונעשה",
@@ -85,7 +49,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "nime"
+      "gloss": "nimi"
     },
     {
       "surface": "פן",
@@ -93,15 +57,15 @@
     },
     {
       "surface": "נפוץ",
-      "gloss": "paisataks"
+      "gloss": "pillutataks"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "üle"
     },
     {
       "surface": "פני",
-      "gloss": "palgele"
+      "gloss": "näo"
     },
     {
       "surface": "כל",
@@ -109,9 +73,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "maa"
+      "gloss": "maamaa"
     }
   ],
-  "timestamp": "2026-10-20T23:05:17.052726297Z",
+  "timestamp": "2026-10-21T06:13:00.933959155Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,27 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תכלת",
-      "rationale": "'Sinine purpur' — sõna tähistab erilist sinist värvilõnga; ei ole tavaline 'sinine'."
-    },
-    {
-      "kind": "hapax",
-      "subject": "משזר",
-      "rationale": "Keeratud (linase) lõnga kohta — sõna esineb vaid eefodi\/rinnakilbi kirjeldustes."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חשב",
-      "rationale": "Tähendab nii 'kuduma' kui 'mõtlema\/arvutama' — 'mõtleva kudumise' varjund kaob."
-    }
-  ],
-  "translation": "Ja teed kohtumõistmise rinnakilbi, kootud tööna; nagu eefodi töö teed selle: kullast, sinisest purpurist, punasest karmiinist ja keeratud inimest — teed selle.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8af7dc851610b916a89b57dd3ef42c14ba9c1516a86a119b5e95285705d9b81f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/28\/13-16.1792538774553.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sa teed õiguse-rinnakilbi, mõeldud-kudumise töö; nagu efodi töö sa teed ⟨את⟩ selle: kuldist, sinisest, purpurist, ussi-karmiinist ja värditud valgest linasest sa teed ⟨את⟩ selle.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "Ja teed"
+      "gloss": "Ja sa teed"
     },
     {
       "surface": "חשן",
-      "gloss": "rinnakilbi"
+      "gloss": "rinnakilp"
     },
     {
       "surface": "משפט",
-      "gloss": "kohtumõistmise"
+      "gloss": "õiguse-"
     },
     {
       "surface": "מעשה",
-      "gloss": "tööna"
+      "gloss": "töö"
     },
     {
       "surface": "חשב",
-      "gloss": "kootud"
+      "gloss": "mõeldud-kudumise"
     },
     {
       "surface": "כמעשה",
@@ -59,27 +33,27 @@
     },
     {
       "surface": "אפד",
-      "gloss": "eefodi"
+      "gloss": "efod"
     },
     {
       "surface": "תעשנו",
-      "gloss": "teed selle"
+      "gloss": "sa teed selle"
     },
     {
       "surface": "זהב",
-      "gloss": "kullast"
+      "gloss": "kuldist"
     },
     {
       "surface": "תכלת",
-      "gloss": "sinisest purpurist"
+      "gloss": "sinisest"
     },
     {
       "surface": "וארגמן",
-      "gloss": "punasest purpurist"
+      "gloss": "ja purpurist"
     },
     {
       "surface": "ותולעת",
-      "gloss": "karmiiniussist"
+      "gloss": "ja ussi-"
     },
     {
       "surface": "שני",
@@ -87,21 +61,22 @@
     },
     {
       "surface": "ושש",
-      "gloss": "ja inimesest"
+      "gloss": "ja valgest linasest"
     },
     {
       "surface": "משזר",
-      "gloss": "keeratud"
+      "gloss": "värditud"
     },
     {
       "surface": "תעשה",
-      "gloss": "teed"
+      "gloss": "sa teed"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ selle"
+      "gloss": "⟨את⟩",
+      "marks": "selle (õiguse-rinnakilbi)"
     }
   ],
-  "timestamp": "2026-10-20T23:26:14.555023884Z",
+  "timestamp": "2026-10-21T06:06:10.050045094Z",
   "model": "glm-5.3"
 }

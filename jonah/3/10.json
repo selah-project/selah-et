@@ -5,33 +5,7 @@
   "book": "jonah",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kahetles",
-      "rationale": "נחם on sõna-sõnalt 'ohkama, tugevalt hinge tõmbama' — 'kahetsema' on tavatõlge, kuid ei kannata hinge tõmmet"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הרעה \/ הרעה",
-      "rationale": "Sama sõna 'kurja\/halva' kordub: nad pöörasid kurjalt teelt, ja Elohim kahetsetud kurja — sõnamäng, mis seob teo ja tagajärje"
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eesliit 'üle\/kohal' ei ole eesti kaudobjekti puhul eraldi tõlgitav"
-    }
-  ],
-  "translation": "Ja Elohim nägi ⟨את⟩ nende tegusid, et nad olid pöördunud tagasi oma kurjalt teelt; ja Elohim kahetses ⟨את⟩ ⟩kohaliku halva⟨ ⟨את⟩ halva, millest ta oli rääkinud, et ta neile teeks, ja ta ei teinud seda.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6031ce02ce939b657b0177961c6f38b3208d515c28720403195cb14caf36a199",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jonah\/3\/9-10.1792558533770.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nägi Elohim ⟨את⟩ nende tegusid, et nad pöördusid tagasi oma kurjalt teelt; ja jäi Elohim kahetsema ⟩kohale⟨⟨ \/ ⟩kurbuseks⟨ selle kurja üle, mida ta oli rääkinud neile teha, ega teinud seda.",
   "tokens": [
     {
       "surface": "וירא",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "שבו",
-      "gloss": "nad olid pöördunud tagasi"
+      "gloss": "pöördusid tagasi"
     },
     {
       "surface": "מדרכם",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "וינחם",
-      "gloss": "ja kahetses"
+      "gloss": "ja jäi kahetsema"
     },
     {
       "surface": "האלהים",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "üle"
     },
     {
       "surface": "הרעה",
-      "gloss": "halva"
+      "gloss": "selle kurja"
     },
     {
       "surface": "אשר",
-      "gloss": "millest"
+      "gloss": "mida"
     },
     {
       "surface": "דבר",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "et teeks"
+      "gloss": "teha"
     },
     {
       "surface": "להם",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "teinud"
+      "gloss": "teinud seda"
     }
   ],
-  "timestamp": "2026-10-21T04:55:33.775573605Z",
+  "timestamp": "2026-10-21T06:23:36.647497185Z",
   "model": "glm-5.3"
 }

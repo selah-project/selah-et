@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "inimesepoeg",
-      "rationale": "Jahve pöördub otse Hesekieli poole: 'ja sina, inimene'."
-    },
-    {
-      "kind": "crux",
-      "subject": "משוש תפארתם",
-      "rationale": "'rõõm nende uhkusest' vs 'rõõm nende au' — siduv konstrukt, mõned loevad 'rõõm ja au' kaheks eraldiseisvaks objektiks."
-    },
-    {
-      "kind": "substitution",
-      "subject": "hing",
-      "rationale": "נפש on elujõud, mitte hingesell; 'nende hinge koorma' = see, millele nende elujõud toetub."
-    }
-  ],
-  "translation": "Ja sina, inimene, eiks ⟨see⟩ ole nii: päeval, mil ma võtan neilt ära nende varjupaiga, nende rõõmu nende uhkusest, ⟨את⟩ nende silmade ihalduse ja ⟨את⟩ nende hinge koorma — nende pojad ja nende tütred?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "aee37606ced6680217e51216b957dfb27a704d1575e3d6e77ea11b2c74cfe485",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/24\/25-27.1792550260448.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sina, inimene-pojale: kas ⟨ei⟩ just päeval, mil ma võtan neilt ⟨את⟩ nende kindluse, rõõmu nende ilust, ⟨את⟩ nende silmade himu ja ⟨את⟩ nende hinge koorma — nende pojad ja nende tütred?",
   "tokens": [
     {
       "surface": "ואתה",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "inimesepoeg"
+      "gloss": "poeg"
     },
     {
       "surface": "אדם",
-      "gloss": "inimene"
+      "gloss": "inimese"
     },
     {
       "surface": "הלוא",
-      "gloss": "eks"
+      "gloss": "kas ⟨ei⟩"
     },
     {
       "surface": "ביום",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "קחתי",
-      "gloss": "võtan"
+      "gloss": "kui ma võtan"
     },
     {
       "surface": "מהם",
@@ -64,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nende varjupaik"
+      "marks": "nende kindluse"
     },
     {
       "surface": "מעוזם",
-      "gloss": "nende varjupaik"
+      "gloss": "nende kindluse"
     },
     {
       "surface": "משוש",
@@ -76,16 +50,16 @@
     },
     {
       "surface": "תפארתם",
-      "gloss": "nende uhkusest"
+      "gloss": "nende ilust"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nende silmade ihalduse"
+      "marks": "nende silmade himu"
     },
     {
       "surface": "מחמד",
-      "gloss": "ihalduse"
+      "gloss": "himu"
     },
     {
       "surface": "עיניהם",
@@ -110,9 +84,9 @@
     },
     {
       "surface": "ובנותיהם",
-      "gloss": "nende tütred"
+      "gloss": "ja nende tütred"
     }
   ],
-  "timestamp": "2026-10-21T02:37:40.449176638Z",
+  "timestamp": "2026-10-21T06:09:15.699379869Z",
   "model": "glm-5.3"
 }

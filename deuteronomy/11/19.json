@@ -5,36 +5,21 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בשבתך...ובקומך",
-      "rationale": "neli infinitivikonstruktsiooni paaris (istuma\/käima\/heitma\/tõusma) moodustavad ööpäeva ringi, kordus jääb eestis osaliselt sarnaseks"
-    }
-  ],
-  "translation": "ja õpetage ⟨את⟩ neid ⟨את⟩ oma lastele, rääkides neist, kui sa istud oma majas ja kui sa käid teel ning kui sa heidad magama ja kui sa tõused.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/11\/17-20.1792540797482.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te õpetate ⟨את⟩ neid ⟨את⟩ oma lastele, et rääkida neist, kui sa istud oma kodus ja kui sa käid teel ning kui sa heidad magama ja kui sa tõused üles.",
   "tokens": [
     {
       "surface": "ולמדתם",
-      "gloss": "ja õpetage"
+      "gloss": "ja te õpetate"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid (need sõnad)"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma lastele"
+      "marks": "oma lapsi"
     },
     {
       "surface": "בניכם",
@@ -42,7 +27,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "rääkima"
+      "gloss": "et rääkida"
     },
     {
       "surface": "בם",
@@ -53,8 +38,8 @@
       "gloss": "kui sa istud"
     },
     {
-      "surface": "вביתך",
-      "gloss": "oma majas"
+      "surface": "בביתך",
+      "gloss": "oma kodus"
     },
     {
       "surface": "ובלכתך",
@@ -66,13 +51,13 @@
     },
     {
       "surface": "ובשכבך",
-      "gloss": "ja kui sa heidad"
+      "gloss": "ja kui sa heidad magama"
     },
     {
       "surface": "ובקומך",
-      "gloss": "ja kui sa tõused"
+      "gloss": "ja kui sa tõused üles"
     }
   ],
-  "timestamp": "2026-10-20T23:59:57.483922881Z",
+  "timestamp": "2026-10-21T06:02:27.400070789Z",
   "model": "glm-5.3"
 }

@@ -5,34 +5,7 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on tal",
-      "rationale": "heebrea nimetatud puudub olemisverbi; eesti keel nõuab 'ei ole tal teadmist'"
-    },
-    {
-      "kind": "crux",
-      "subject": "אסגוד",
-      "rationale": "küsimus või kindel kõne: 'kas ma kummardan?' (KJV küsiv) vs 'ma heitun pikali' (YLT indikatiivne)"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "",
-      "rationale": "eespond 'אל לבו' sulandub eesti täiendkäände 'oma südamesse'"
-    }
-  ],
-  "translation": "Ja ta ei pööra seda oma südamesse, ega ole tal teadmist ega taipu, et öelda: Poole sellest põletasin tule sees, ja küpsetasin veel selle sütel leiba, röstisin liha ja sõin; ja selle jäägist teen ma jäleduse, puidutüki ees ma kummardan?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/44\/17-20.1792547564303.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tema ei pöörata seda tagasi oma südamesse, ega ole teadmist ega mõistmist öelda: pooltema olen ma põletanud tule sees, ja küpsetasin tema süte peal leiba, röstin liha ja söön, ning tema jäägist teen ma jäleduse — palkpuu ees ma kummardan?",
   "tokens": [
     {
       "surface": "ולא",
@@ -40,11 +13,11 @@
     },
     {
       "surface": "ישיב",
-      "gloss": "pööra"
+      "gloss": "pöörata tagasi"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "sisse"
     },
     {
       "surface": "לבו",
@@ -64,19 +37,19 @@
     },
     {
       "surface": "תבונה",
-      "gloss": "taipu"
+      "gloss": "mõistmist"
     },
     {
       "surface": "לאמר",
-      "gloss": "et öelda"
+      "gloss": "öelda"
     },
     {
       "surface": "חציו",
-      "gloss": "poole sellest"
+      "gloss": "pooltema"
     },
     {
       "surface": "שרפתי",
-      "gloss": "põletasin"
+      "gloss": "olen ma põletanud"
     },
     {
       "surface": "במו",
@@ -88,7 +61,7 @@
     },
     {
       "surface": "ואף",
-      "gloss": "ja veel"
+      "gloss": "ja"
     },
     {
       "surface": "אפיתי",
@@ -100,7 +73,7 @@
     },
     {
       "surface": "גחליו",
-      "gloss": "selle sütel"
+      "gloss": "tema süte"
     },
     {
       "surface": "לחם",
@@ -108,7 +81,7 @@
     },
     {
       "surface": "אצלה",
-      "gloss": "röstisin"
+      "gloss": "röstin"
     },
     {
       "surface": "בשר",
@@ -116,11 +89,11 @@
     },
     {
       "surface": "ואכל",
-      "gloss": "ja sõin"
+      "gloss": "ja söön"
     },
     {
       "surface": "ויתרו",
-      "gloss": "ja selle jääk"
+      "gloss": "tema jäägist"
     },
     {
       "surface": "לתועבה",
@@ -132,17 +105,17 @@
     },
     {
       "surface": "לבול",
-      "gloss": "puidutüki"
+      "gloss": "palkpuu ees"
     },
     {
       "surface": "עץ",
-      "gloss": "puust"
+      "gloss": "puu"
     },
     {
       "surface": "אסגוד",
-      "gloss": "ma kummardan"
+      "gloss": "kummardan"
     }
   ],
-  "timestamp": "2026-10-21T01:52:44.304128967Z",
+  "timestamp": "2026-10-21T06:18:20.323084646Z",
   "model": "glm-5.3"
 }

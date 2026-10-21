@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ארבה",
-      "gloss": "rohtirtõugud — 'tõugud rohu peale'; levinud tõlge 'tirtslased' jätab nimetuse pildi minema."
-    },
-    {
-      "kind": "you",
-      "subject": "Mošele",
-      "rationale": "Jahve pöördub otse Moše poole käskjutuslikus kõnes."
-    }
-  ],
-  "translation": "Ja Jahve ütles Mošele: Siruta oma käsi Mitsraimi maa kohale rohtirtõugude pärast, ja see tõusku Mitsraimi maa peale ja ärgu sööma kõik maa rohu, ⟨את⟩ kõik, mis rahe on järele jätnud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ee90873ce6996c091a60876c31e586c08f6354397c8e0b15d32cfc5ed7a752ab",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/10\/9-12.1792538421755.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Mošele: Siruta oma käsi Mitsraimi maa kohale roigastest ⟨ja tuaapsed⟩, et need tõuseksid Mitsraimi maa peale ja sööksid ⟨את⟩ kogu maa rohu — ⟨את⟩ kõik, mille rahe on järele jätnud.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "Ja ütles"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "Mošele"
+      "gloss": "Mošele suunas"
     },
     {
       "surface": "משה",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "בארבה",
-      "gloss": "rohtirtõugude pärast"
+      "gloss": "roigastest"
     },
     {
       "surface": "ויעל",
-      "gloss": "ja tõusku"
+      "gloss": "et need tõuseksid"
     },
     {
       "surface": "על",
@@ -86,20 +65,20 @@
     },
     {
       "surface": "ויאכל",
-      "gloss": "ja söögu"
+      "gloss": "ja sööksid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik maa rohu"
+      "marks": "kogu maa rohu"
     },
     {
       "surface": "כל",
-      "gloss": "kõik"
+      "gloss": "kogu"
     },
     {
       "surface": "עשב",
-      "gloss": "rohi"
+      "gloss": "rohu"
     },
     {
       "surface": "הארץ",
@@ -108,7 +87,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik, mis rahe on järele jätnud"
+      "marks": "kõik, mille rahe on järele jätnud"
     },
     {
       "surface": "כל",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mis"
+      "gloss": "mille"
     },
     {
       "surface": "השאיר",
@@ -127,6 +106,6 @@
       "gloss": "rahe"
     }
   ],
-  "timestamp": "2026-10-20T23:20:21.757070609Z",
+  "timestamp": "2026-10-21T06:04:50.890947545Z",
   "model": "glm-5.3"
 }

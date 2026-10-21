@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "גפר",
-      "rationale": "gofer-puu — puuliigi täpne tähendus on teadmata, ilmub Tanahhis ainult siin"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כפרת\/כפר",
-      "rationale": "sama juur 'kpr' — 'katma' ja 'pehm' (vaik): kajab hilisemat lepituse tähendust, eesti keeles kaotsiläinud"
-    },
-    {
-      "kind": "substitution",
-      "subject": "קנים",
-      "rationale": "sõna-sõnalt 'pesad' (nagu linnupesad), tõlgitud kambrite tähenduses"
-    }
-  ],
-  "translation": "Tee endale gofer-puust laeva, pesad teed sa laeva sisse ja katad selle ⟨את⟩ seestpoolt ja väljastpoolt vaiguga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/genesis\/6\/13-16.1792537420756.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tee endale laev gofer-puidust; pesad tee laeva sisse ja katta ⟨את⟩ see seest ja väljast kattega.",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "tee"
+      "gloss": "Tee"
     },
     {
       "surface": "לך",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "תבת",
-      "gloss": "laeva"
+      "gloss": "laev"
     },
     {
       "surface": "עצי",
-      "gloss": "puust"
+      "gloss": "puidust"
     },
     {
       "surface": "גפר",
-      "gloss": "gofer"
+      "gloss": "gofer-"
     },
     {
       "surface": "קנים",
@@ -59,39 +33,39 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "teed sa"
+      "gloss": "tee"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "laeva sisse"
+      "marks": "laeva"
     },
     {
       "surface": "התבה",
-      "gloss": "laeva"
+      "gloss": "laeva sisse"
     },
     {
       "surface": "וכפרת",
-      "gloss": "ja katad"
+      "gloss": "ja katta"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "selle (laeva)"
+      "marks": "see"
     },
     {
       "surface": "מבית",
-      "gloss": "seestpoolt"
+      "gloss": "seest"
     },
     {
       "surface": "ומחוץ",
-      "gloss": "ja väljastpoolt"
+      "gloss": "ja väljast"
     },
     {
       "surface": "בכפר",
-      "gloss": "vaiguga"
+      "gloss": "kattega"
     }
   ],
-  "timestamp": "2026-10-20T23:03:40.757793585Z",
+  "timestamp": "2026-10-21T06:17:08.916398337Z",
   "model": "glm-5.3"
 }

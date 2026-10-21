@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לרצנו",
-      "rationale": "'tema (ohvrija) rahuloluks\/lepituseks' vs 'tema (Jahve) meelepärasuseks' — kelle rahulolu on mõeldud"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "קרבן\/יקריב",
-      "rationale": "Sama juur kordub kolm korda — 'lähedale toomine' ohvrina, eesti keeles kaotub sidus"
-    }
-  ],
-  "translation": "Kui tema ohver on põletusohver veistest, toogu täiusliku isase; kohtumise telgi sissepääsu juurde toogu ta selle ⟨tema rahuloluks⟩ Jahve palge ette.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/1\/1-4.1792539122053.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui tema ohver on põletusohver veistest, isane, veatu, olgu ta selle tooma kohtumise teli ava juurde; ta toogu ⟨את⟩ selle oma meeleldi, Jahve palge ette.",
   "tokens": [
     {
       "surface": "אם",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "-st"
+      "gloss": "seast"
     },
     {
       "surface": "הבקר",
-      "gloss": "veistest"
+      "gloss": "veiste"
     },
     {
       "surface": "זכר",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "תמים",
-      "gloss": "täiuslik"
+      "gloss": "veatu"
     },
     {
       "surface": "יקריבנו",
-      "gloss": "toogu ta selle"
+      "gloss": "olgu ta selle tooma"
     },
     {
       "surface": "אל",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "sissepääsu"
+      "gloss": "ava"
     },
     {
       "surface": "אהל",
-      "gloss": "telgi"
+      "gloss": "teli"
     },
     {
       "surface": "מועד",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "יקריב",
-      "gloss": "toogu"
+      "gloss": "ta toogu"
     },
     {
       "surface": "אתו",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "לרצנו",
-      "gloss": "tema rahuloluks"
+      "gloss": "oma meeleldi"
     },
     {
       "surface": "לפני",
@@ -98,6 +77,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-20T23:32:02.054721349Z",
+  "timestamp": "2026-10-21T06:28:13.976635078Z",
   "model": "glm-5.3"
 }

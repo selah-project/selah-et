@@ -5,28 +5,7 @@
   "book": "proverbs",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "selle",
-      "rationale": "Heebrea omab käändsõna omanikule; eesti vajab täpsustavat selle"
-    },
-    {
-      "kind": "crux",
-      "subject": "מוסר",
-      "rationale": "Karistus vs õpetus — rumalate karistus on juba rumalus või nende õpetus on rumalus"
-    }
-  ],
-  "translation": "Elu allikas on mõistus ⟨selle⟩ omanikule, aga rumalate õpetus on narrus.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/proverbs\/16\/21-24.1792554682057.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Elu allikas on mõistus ⟨tema⟩ omanikule, aga narri õpetus on narrus.",
   "tokens": [
     {
       "surface": "מקור",
@@ -41,22 +20,22 @@
       "gloss": "mõistus"
     },
     {
-      "surface": "בעליv",
-      "gloss": "selle omanikule"
+      "surface": "בעליו",
+      "gloss": "tema omanikule"
     },
     {
       "surface": "ומוסר",
-      "gloss": "aga õpetus"
+      "gloss": "ag õpetus"
     },
     {
       "surface": "אולים",
-      "gloss": "rumalate"
+      "gloss": "narri"
     },
     {
       "surface": "אולת",
       "gloss": "narrus"
     }
   ],
-  "timestamp": "2026-10-21T03:51:22.058260949Z",
+  "timestamp": "2026-10-21T06:36:35.543290962Z",
   "model": "glm-5.3"
 }

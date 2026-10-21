@@ -5,37 +5,11 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "nad",
-      "rationale": "eesti keeles nõutav subjekt, heebreas puudub"
-    },
-    {
-      "kind": "substitution",
-      "subject": "varjulinn",
-      "rationale": "ערי המקלט otse 'põgenemise\/paigaldamise linnad' — varjulinn on eesti tavapärane pilt varjumisest"
-    },
-    {
-      "kind": "measurement",
-      "subject": "linnade loend",
-      "rationale": "leviitide linnade täpne nimeline loendamine"
-    }
-  ],
-  "translation": "Ja nad andsid neile ⟨את⟩ varjulinnad: ⟨את⟩ Škemi ja selle maad-linna ümber Efrajimi mäel, ja ⟨את⟩ Gezeri ja selle maid-linna ümber.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/6\/49-52.1792557227716.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad andsid neile ⟨את⟩ varjulinnad: ⟨את⟩ Shekemi ja selle karjamaad Efraimi mäel, ja ⟨את⟩ Gezeri ja selle karjamaad.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "ja nad andsid"
+      "gloss": "Ja nad andsid"
     },
     {
       "surface": "להם",
@@ -52,25 +26,25 @@
     },
     {
       "surface": "המקלט",
-      "gloss": "varju"
+      "gloss": "varjupaiga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Škem"
+      "marks": "Shekemi"
     },
     {
       "surface": "שכם",
-      "gloss": "Škem"
+      "gloss": "Shekem"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "selle maad-linna ümber"
+      "gloss": "⟨את⟩",
+      "marks": "selle karjamaad"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "selle maad-linna ümber"
+      "gloss": "selle karjamaad"
     },
     {
       "surface": "בהר",
@@ -78,27 +52,27 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrajimi"
+      "gloss": "Efraim"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "Gezer"
+      "gloss": "⟨את⟩",
+      "marks": "Gezeri"
     },
     {
       "surface": "גזר",
-      "gloss": "Gezeri"
+      "gloss": "Gezer"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
-      "marks": "selle maid-linna ümber"
+      "gloss": "⟨את⟩",
+      "marks": "selle karjamaad"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "selle maid-linna ümber"
+      "gloss": "selle karjamaad"
     }
   ],
-  "timestamp": "2026-10-21T04:33:47.717625436Z",
+  "timestamp": "2026-10-21T05:49:57.918559976Z",
   "model": "glm-5.3"
 }

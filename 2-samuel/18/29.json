@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebrea küsimusel puudub kopeel; eesti keeles lisatud ⟨on⟩"
-    },
-    {
-      "kind": "crux",
-      "subject": "l\/7971 לשלח",
-      "rationale": "Otsene objekt on ebamäärane: 'kui Joab saatis kuninga sulase ja minu' vs 'saatmise ajal'; tõlkijad lahendavad erinevalt"
-    },
-    {
-      "kind": "you",
-      "subject": "kuningale Daavidile",
-      "rationale": "Kuninga küsimus Ahimaatsile Avšalomist"
-    }
-  ],
-  "translation": "Ja kuningas ütles: Kas noormehel Avšalomil ⟨on⟩ rahu? Ja Ahimaats ütles: Ma nägin suurt rahvahulka, kui kuninga sulase Joabi ⟨sulast⟩ saadeti ja sinu sulast ⟨את⟩, aga ma ei teadnud, mis see oli.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "788bebdaae4b07be151c51cf8c63fc2727efb03454dbfce47825c057536fa767",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/18\/29-32.1792544884175.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas ütles: kas noormehel, Avšalomil, on hästi? Ja Ahimaas ütles: nägin suurt rahvahulka, kui saatis Joob, kuninga teenija, ⟨את⟩ kuninga teenija ja ⟨את⟩ sinu teenija, aga ma ei teadnud, mis see oli.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "שלום",
-      "gloss": "rahu"
+      "gloss": "kas ... on hästi"
     },
     {
       "surface": "לנער",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "אחימעץ",
-      "gloss": "Ahimaats"
+      "gloss": "Ahimaas"
     },
     {
       "surface": "ראיתי",
-      "gloss": "ma nägin"
+      "gloss": "nägin"
     },
     {
       "surface": "ההמון",
-      "gloss": "rahvahulka"
+      "gloss": "rahvahulk"
     },
     {
       "surface": "הגדול",
@@ -75,16 +49,16 @@
     },
     {
       "surface": "לשלח",
-      "gloss": "saadeti"
+      "gloss": "saatma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sulast"
+      "marks": "kuninga teenija"
     },
     {
       "surface": "עבד",
-      "gloss": "sulase"
+      "gloss": "teenija"
     },
     {
       "surface": "המלך",
@@ -92,30 +66,30 @@
     },
     {
       "surface": "יואב",
-      "gloss": "Joabi"
+      "gloss": "Joob"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "sulast"
+      "marks": "sinu teenija"
     },
     {
       "surface": "עבדך",
-      "gloss": "sinu sulast"
+      "gloss": "sinu teenija"
     },
     {
       "surface": "ולא",
-      "gloss": "aga ei"
+      "gloss": "aga mitte"
     },
     {
       "surface": "ידעתי",
-      "gloss": "ma teadnud"
+      "gloss": "ma teadsin"
     },
     {
       "surface": "מה",
       "gloss": "mis"
     }
   ],
-  "timestamp": "2026-10-21T01:08:04.176957492Z",
+  "timestamp": "2026-10-21T06:00:09.054268296Z",
   "model": "glm-5.3"
 }

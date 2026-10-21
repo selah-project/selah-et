@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kohtumise telk",
-      "rationale": "אהל מועד otse: 'kohtumise(aja) telk'; 'paiku' või 'koguduse telk' jätaks מועד kuju kaotsi."
-    },
-    {
-      "kind": "addition",
-      "subject": "selle",
-      "rationale": "Eesti omastav vajab omaniku, heebrea ' tema' kontekstist: ohvri pea, ohvri veri."
-    }
-  ],
-  "translation": "Ja ta toetab ⟨את⟩ oma käe selle peale oma peas ja tapab selle ette kohtumise telgi, ja Aharoni pojad piserdavad ⟨את⟩ selle vere altari peale ümber.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "3703fb957efdab0483655ee3856dae97ba262d1c85c4a1ccd530835e415a7472",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/3\/13-16.1792539104046.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta pani ⟨את⟩ oma käe selle pähe ja tappis selle kokkupäeva telgi ees, ja Aharoni pojad piserdasid ⟨את⟩ selle veri altarile ümber ja ümber.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "ja ta toetab"
+      "gloss": "ja ta pani"
     },
     {
       "surface": "את",
@@ -51,16 +30,16 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "ja tapab"
+      "gloss": "ja tappis"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "selle"
+      "gloss": "⟨את⟩ teda",
+      "marks": "selle (kits)"
     },
     {
       "surface": "לפני",
-      "gloss": "ette"
+      "gloss": "ees"
     },
     {
       "surface": "אהל",
@@ -68,11 +47,11 @@
     },
     {
       "surface": "מועד",
-      "gloss": "kohtumise"
+      "gloss": "kokkupäeva"
     },
     {
       "surface": "וזרקו",
-      "gloss": "ja piserdavad"
+      "gloss": "ja piserdasid"
     },
     {
       "surface": "בני",
@@ -85,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle vere"
+      "marks": "selle veri"
     },
     {
       "surface": "דמו",
@@ -97,13 +76,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altari"
+      "gloss": "altarile"
     },
     {
       "surface": "סביב",
-      "gloss": "ümber"
+      "gloss": "ümber ja ümber"
     }
   ],
-  "timestamp": "2026-10-20T23:31:44.047264422Z",
+  "timestamp": "2026-10-21T06:29:41.225167724Z",
   "model": "glm-5.3"
 }

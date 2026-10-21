@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "kuningas → Eliša",
-      "rationale": "Kuningas pöördub otse prohveti poole aupõlvedega."
-    },
-    {
-      "kind": "idiom",
-      "subject": "אבי — mu isa",
-      "rationale": "Aupõlge õpetajale, mitte otsene sugulusside; korduv האכה אכה annab ärevuse kaja."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "האכה אכה",
-      "rationale": "Kahekordne lööma-küsimine, infiniitivi kordus jääb eesti keeles osaliselt kadunuks."
-    }
-  ],
-  "translation": "Ja Jisraeli kuningas ütles Elišale, kui ta ⟨את⟩ neid nägi: kas lüa, lüa, mu isa?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/6\/21-24.1792546014713.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jisraeli kuningas ütles Elišale, kui tema nad nägi: kas löön ⟨את⟩ neid, kas löön, mu isand-isa?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "מלך",
@@ -47,33 +21,34 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "...le"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elišale"
+      "gloss": "Eliša"
     },
     {
       "surface": "כראתו",
-      "gloss": "kui ta nägi"
+      "gloss": "kui tema nägi"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid"
     },
     {
       "surface": "האכה",
-      "gloss": "kas lüa"
+      "gloss": "kas löön"
     },
     {
       "surface": "אכה",
-      "gloss": "lüa"
+      "gloss": "kas löön"
     },
     {
       "surface": "אבי",
-      "gloss": "mu isa"
+      "gloss": "mu isand-isa"
     }
   ],
-  "timestamp": "2026-10-21T01:26:54.714347414Z",
+  "timestamp": "2026-10-21T05:58:51.741288511Z",
   "model": "glm-5.3"
 }

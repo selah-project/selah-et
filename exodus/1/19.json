@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "חָיוֹת",
-      "rationale": "חָיוֹת 'elujõulised' esineb Tanahhis vaid siin"
-    },
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "heebrea puuduv koopula, märgitud ⟨on⟩"
-    },
-    {
-      "kind": "crux",
-      "subject": "המילדת (ainsuse)",
-      "rationale": "ainsuse vorm 'ämmemand' mitmuse asemel — üldistav või vahetult sünnituse juures olev isik"
-    }
-  ],
-  "translation": "Ja ämmaemandid ütlesid Paraole: sest ei ole heebrelannad nagu mitsritarlannad, sest nad ⟨on⟩ elujõulised — enne kui ämmemand nende juurde tuleb, on nad juba ilmale toonud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/1\/17-20.1792538242289.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ütlesid ämmaemandad Parole: ei ole nagu mitsriitlannad heebrilannad, sest elujõulised ⟨need on⟩; enne kui ämmaemand nende juurde tuleb, on nad juba ilmale toonud.",
   "tokens": [
     {
       "surface": "ותאמרן",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "המילדת",
-      "gloss": "ämmaemandid"
+      "gloss": "ämmaemandad"
     },
     {
       "surface": "אל",
@@ -47,27 +21,27 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Parao"
+      "gloss": "Parole"
     },
     {
       "surface": "כי",
-      "gloss": "sest"
+      "gloss": ""
     },
     {
       "surface": "לא",
-      "gloss": "ei"
+      "gloss": "ei ole"
     },
     {
       "surface": "כנשים",
-      "gloss": "nagu ... naised"
+      "gloss": "nagu naised"
     },
     {
       "surface": "המצרית",
-      "gloss": "mitsritarlannad"
+      "gloss": "mitsriitlannad"
     },
     {
       "surface": "העברית",
-      "gloss": "heebrelannad"
+      "gloss": "heebrilannad"
     },
     {
       "surface": "כי",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "הנה",
-      "gloss": "nad"
+      "gloss": "need on"
     },
     {
       "surface": "בטרם",
-      "gloss": "enne kui"
+      "gloss": "ennen kui"
     },
     {
       "surface": "תבוא",
@@ -95,13 +69,13 @@
     },
     {
       "surface": "המילדת",
-      "gloss": "ämmemand"
+      "gloss": "ämmaemand"
     },
     {
       "surface": "וילדו",
-      "gloss": "on juba ilmale toonud"
+      "gloss": "on nad juba ilmale toonud"
     }
   ],
-  "timestamp": "2026-10-20T23:17:22.290358194Z",
+  "timestamp": "2026-10-21T06:04:59.817043787Z",
   "model": "glm-5.3"
 }

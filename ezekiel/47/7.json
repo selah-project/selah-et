@@ -5,44 +5,23 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "Heebrea nimetav lause ilma köitesõnata; eesti keeles vajalik 'oli'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suuna eessõna 'āl' sulandub eesti kohakäändega ja eraldi ei renderda"
-    }
-  ],
-  "translation": "Kui ta mind tagasi tõi, ennäe, oja serval ⟨oli⟩ paiki väga palju, sellelt poolt ja sellelt poolt.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "53277dd60d0f85ca606a1330d185ca700db31d862b8c943ccd88a3f905fd82cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/47\/5-8.1792550877151.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kui ma tagasi pöördusin, ja vaata, oja kallast mööda ⟨olid⟩ palju ⟨palju⟩ puid, sellelt poolt ja sellelt poolt.",
   "tokens": [
     {
       "surface": "בשובני",
-      "gloss": "kui ta mind tagasi tõi"
+      "gloss": "kui ma tagasi pöördusin"
     },
     {
       "surface": "והנה",
-      "gloss": "ja ennäe"
+      "gloss": "ja vaata"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "mööda"
     },
     {
       "surface": "שפת",
-      "gloss": "serval"
+      "gloss": "kallast"
     },
     {
       "surface": "הנחל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "עץ",
-      "gloss": "paiki"
+      "gloss": "puid"
     },
     {
       "surface": "רב",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "מאד",
-      "gloss": "väga"
+      "gloss": "⟨palju⟩"
     },
     {
       "surface": "מזה",
@@ -69,6 +48,6 @@
       "gloss": "ja sellelt poolt"
     }
   ],
-  "timestamp": "2026-10-21T02:47:57.152166998Z",
+  "timestamp": "2026-10-21T06:12:11.777147777Z",
   "model": "glm-5.3"
 }

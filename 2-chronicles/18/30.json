@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "כי אם 'vaid\/ainult' — eitus + erand, 'ainult temaga'"
-    },
-    {
-      "kind": "addition",
-      "subject": "oma",
-      "rationale": "אשר לו 'kes temale' — eesti lühendab possessiiviks 'oma'"
-    }
-  ],
-  "translation": "Ja Arami kuningas käsis ⟨את⟩ oma sõjavankrite ülemadel, öeldes: ärge võidelge väiksega ega suurega, vaid ainult Jisraeli kuningaga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c9d1aeb95b3d3d6dcc254840197b793605355f4159f9dc6cb0e54c2316841357",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/18\/29-32.1792557966429.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Araami kuningas käsis ⟨את⟩ oma sõjavankrite ülemadel, öeldes: Äge võidelge ⟨את⟩ väikese ega ⟨את⟩ suurega, vaid ainult ⟨את⟩ Jisraeli kuningaga, temaga üksi.",
   "tokens": [
     {
       "surface": "ומלך",
-      "gloss": "ja kuningas"
+      "gloss": "Ja kuningas"
     },
     {
       "surface": "ארם",
-      "gloss": "Arami"
+      "gloss": "Araami"
     },
     {
       "surface": "צוה",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "ülemad"
+      "gloss": "ülemadel"
     },
     {
       "surface": "הרכב",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "temale"
+      "gloss": "tema"
     },
     {
       "surface": "לאמר",
@@ -67,16 +46,16 @@
     },
     {
       "surface": "לא",
-      "gloss": "ärge"
+      "gloss": "mitte"
     },
     {
       "surface": "תלחמו",
-      "gloss": "võidelge"
+      "gloss": "äge võidelge"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "väike"
+      "marks": "väiksega"
     },
     {
       "surface": "הקטן",
@@ -85,7 +64,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "suur"
+      "marks": "suurega"
     },
     {
       "surface": "הגדול",
@@ -102,7 +81,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jisraeli kuningas"
+      "marks": "Jisraeli kuningaga"
     },
     {
       "surface": "מלך",
@@ -114,9 +93,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "ainult"
+      "gloss": "temaga üksi"
     }
   ],
-  "timestamp": "2026-10-21T04:46:06.430223744Z",
+  "timestamp": "2026-10-21T05:54:39.968660810Z",
   "model": "glm-5.3"
 }

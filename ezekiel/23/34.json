@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תגרמי",
-      "rationale": "Juure tähendus 'luid paljastama\/närima': KJV 'break the sherds', ASV 'gnaw' — kildude närimine vastab sõna luupildile"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kisutad endalt ära",
-      "rationale": "תנתקי 'kiskuma\/rebima' — rindade endalt kiskumise kohutav pilt jäetakse kogu liikumisega"
-    }
-  ],
-  "translation": "Ja sina jood ⟨את⟩ selle lõpuni ja ammutad välja, ja selle kildusid närid, ja oma rinnad kisutad endalt ära, sest mina olen rääkinud, ütleb Adonai Jahve.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/23\/33-36.1792550135117.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sina jood selle ja imed ⟨את⟩ välja, ja ⟨את⟩ selle potikillud närid puruks, ja oma rinnad kiskud ära, sest mina olen rääkinud, ütleb Adonai Jahve.",
   "tokens": [
     {
       "surface": "ושתית",
@@ -35,24 +14,24 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "selle (karika)"
+      "marks": "selle (imd välja)"
     },
     {
       "surface": "ומצית",
-      "gloss": "ja ammutad välja"
+      "gloss": "ja imed välja"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "selle kildusid"
+      "marks": "selle potikillud"
     },
     {
       "surface": "חרשיה",
-      "gloss": "selle kildusid"
+      "gloss": "selle potikillud"
     },
     {
       "surface": "תגרמי",
-      "gloss": "närid"
+      "gloss": "närid puruks"
     },
     {
       "surface": "ושדיך",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "תנתקי",
-      "gloss": "kisutad endalt ära"
+      "gloss": "kiskud ära"
     },
     {
       "surface": "כי",
@@ -87,6 +66,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:35:35.117873578Z",
+  "timestamp": "2026-10-21T06:09:22.837402526Z",
   "model": "glm-5.3"
 }

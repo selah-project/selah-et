@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "jookohvrid",
-      "rationale": "נסכים tähendab valatud joobiveini; 'jookohver' hoiab valamise pildi"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Eesti eitus- ja tingimusstruktuur nõuab sidesõna, mida heebrea ei väljenda"
-    }
-  ],
-  "translation": "Ja kaldealased, kes võitlevad selle linna vastu, tulevad ja süütavad selle linna põlema ja põletavad selle, ja ⟨את⟩ majad, mille katustel nad suitsutasid Baalile ja valasid jookohvreid teistele jumalatele, et mind vihastada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "186fa36cc00deac4ae78daef4d1420703448bbc593609ffef2a91306c9b77acd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/32\/29-30.1792558418136.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kaldeed, kes sõdivad selle linna vastu, tulevad ja süüdataks selle linna põlema ⟨את⟩ ja põletavad ta põlema tulega, ja ⟨את⟩ majad, kelle katusel nad suitsutasid Baalile ja kallasid jookohvreid teistele jumalatele, et mind vihastada.",
   "tokens": [
     {
       "surface": "ובאו",
-      "gloss": "tulevad"
+      "gloss": "ja tulevad"
     },
     {
       "surface": "הכשדים",
-      "gloss": "kaldealased"
+      "gloss": "kaldeed"
     },
     {
       "surface": "הנלחמים",
-      "gloss": "kes võitlevad"
+      "gloss": "kes sõdivad"
     },
     {
       "surface": "על",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "והציתו",
-      "gloss": "süütavad põlema"
+      "gloss": "ja süüdataksid põlema"
     },
     {
       "surface": "את",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "באש",
-      "gloss": "tules"
+      "gloss": "tulega"
     },
     {
       "surface": "ושרפוה",
-      "gloss": "põletavad selle"
+      "gloss": "ja põletavad ta"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "majad"
     },
     {
@@ -88,7 +67,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "kelle"
     },
     {
       "surface": "קטרו",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "גגותיהם",
-      "gloss": "nende katustel"
+      "gloss": "nende katusel"
     },
     {
       "surface": "לבעל",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "והסכו",
-      "gloss": "valasid"
+      "gloss": "ja kallasid"
     },
     {
       "surface": "נסכים",
@@ -131,6 +110,6 @@
       "gloss": "mind vihastada"
     }
   ],
-  "timestamp": "2026-10-21T04:53:38.137081859Z",
+  "timestamp": "2026-10-21T06:20:49.823537550Z",
   "model": "glm-5.3"
 }

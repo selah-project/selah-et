@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חרב נתנה",
-      "rationale": "kordus: 'mõõk ... mõõk' — hukkumise määratus kajab; eesti keeles jäänud korduseks"
-    },
-    {
-      "kind": "crux",
-      "subject": "משכו",
-      "rationale": "'tõmmake ära' (matuse rongi pilt) vs 'ulatage talle mõõk' — verbi tähendus on vaidlustatud"
-    }
-  ],
-  "translation": "Mõõga läbistatute keskel nad langevad; mõõk on antud — tõmmake tema ja kogu ta hulk ära.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "eb4619097714268d26e62c845b47fb33c3340b71b087247bca010ce21b2354bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/32\/17-20.1792550412163.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Langema peavad mõõga läbilöödute keskel; mõõk ⟨on⟩ antud — vedage ⟨את⟩ teda ja kogu ta hulka.",
   "tokens": [
     {
       "surface": "בתוך",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "חללי",
-      "gloss": "läbistatute"
+      "gloss": "läbilöödute"
     },
     {
       "surface": "חרב",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "יפלו",
-      "gloss": "nad langevad"
+      "gloss": "langema peavad"
     },
     {
       "surface": "חרב",
@@ -50,16 +29,16 @@
     },
     {
       "surface": "נתנה",
-      "gloss": "on antud"
+      "gloss": "⟨on⟩ antud"
     },
     {
       "surface": "משכו",
-      "gloss": "tõmmake ära"
+      "gloss": "vedage"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "tema (Mitsraim)"
+      "marks": "teda ja kogu ta hulka"
     },
     {
       "surface": "וכל",
@@ -70,6 +49,6 @@
       "gloss": "ta hulk"
     }
   ],
-  "timestamp": "2026-10-21T02:40:12.164921214Z",
+  "timestamp": "2026-10-21T06:09:32.406687353Z",
   "model": "glm-5.3"
 }

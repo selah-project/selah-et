@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "עוון",
-      "rationale": "עוון on 'põimumus\/kallelus, süü' — 'süü' edasiannab moraalse kõrvalekalde."
-    },
-    {
-      "kind": "alternative",
-      "subject": "נסכלתי",
-      "rationale": "סכל 'rumal, narri olema' — võimalik ka 'ma toimisin rumalalt'."
-    }
-  ],
-  "translation": "Ja David ütles Eloahimile: Ma olen väga pattu teinud, et ma tegin ⟨את⟩ selle asja; ja nüüd palun, vii mööda sinu teenri süü, sest ma olen väga narri olnud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/21\/5-8.1792557490123.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David ütles Elohimile: Ma olen väga pattu teinud, sest ma tegin ⟨את⟩ selle asja, ja nüüd palun, vii ⟨את⟩ oma teenimehe süü üle, sest ma olen väga rumalalt käitunud.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Elohimile"
     },
     {
       "surface": "האלהים",
-      "gloss": "Eloahimile"
+      "gloss": "Elohimile"
     },
     {
       "surface": "חטאתי",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "et"
+      "gloss": "sest"
     },
     {
       "surface": "עשיתי",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "העבר",
-      "gloss": "vii mööda"
+      "gloss": "vii üle"
     },
     {
       "surface": "נא",
@@ -88,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sinu teenri süü"
+      "marks": "oma teenimehe süü"
     },
     {
       "surface": "עוון",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "sinu teenri"
+      "gloss": "oma teenimehe"
     },
     {
       "surface": "כי",
@@ -104,13 +83,13 @@
     },
     {
       "surface": "נסכלתי",
-      "gloss": "ma olen narri olnud"
+      "gloss": "ma olen rumalalt käitunud"
     },
     {
       "surface": "מאד",
       "gloss": "väga"
     }
   ],
-  "timestamp": "2026-10-21T04:38:10.124928630Z",
+  "timestamp": "2026-10-21T05:49:39.709829460Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתכם",
-      "rationale": "Aleph-tav koos 2. mitm. sufiksiga: 'teie vastu' \/ 'teie pärast' — heebrea ei ütle viisi, kuidas kuningas võimetu on."
-    },
-    {
-      "kind": "you",
-      "subject": "teie käes",
-      "rationale": "Kuningas pöördub otse vürstide poole ja loobub Jirmjast."
-    }
-  ],
-  "translation": "Ja kuningas Sidkija ütles: Vaata, ta on teie käes, sest kuningas ei suuda teie vastu ⟨teha⟩ ühtegi asja.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/38\/5-8.1792549081847.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas Sidkija ütles: Vaata, tema on teie käes, sest kuningas ei suuda ⟨את⟩ teie suhtes ühtegi sõna.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ta"
+      "gloss": "tema"
     },
     {
       "surface": "בידכם",
@@ -70,14 +49,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teie",
-      "marks": "teie (2. mitm.)"
+      "gloss": "⟨את⟩",
+      "marks": "teie (suhtes) — osutab järgnevale דבר-konstruktsioonile"
     },
     {
       "surface": "דבר",
-      "gloss": "asja"
+      "gloss": "ühtegi sõna"
     }
   ],
-  "timestamp": "2026-10-21T02:18:01.849516653Z",
+  "timestamp": "2026-10-21T06:21:10.908910750Z",
   "model": "glm-5.3"
 }

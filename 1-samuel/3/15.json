@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "nägemus",
-      "rationale": "המראה pärineb 'nägemisest' — see, mida nähti, ka 'peegeldus'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "suunav eessõna liideti eestlasesse käände 'Eelile'."
-    }
-  ],
-  "translation": "Ja Šemuuel magas hommikuni ja avas ⟨את⟩ Jahve koja uksed; ja Šemuuel kartis nägemust Eelile kuulutada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/3\/13-16.1792543704702.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šmuuel magas hommikuni ning avas ⟨את⟩ Jahve koja uksed; ja Šmuuel kartis näidata ⟨את⟩ nägemust Elile.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuuel"
+      "gloss": "Šmuuel"
     },
     {
       "surface": "עד",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "hommik"
+      "gloss": "hommikuni"
     },
     {
       "surface": "ויפתח",
@@ -51,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uksed"
+      "marks": "Jahve koja uksed"
     },
     {
       "surface": "דלתות",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "koda"
+      "gloss": "koja"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ושמואל",
-      "gloss": "ja Šemuuel"
+      "gloss": "ja Šmuuel"
     },
     {
       "surface": "ירא",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "מהגיד",
-      "gloss": "kuulutada"
+      "gloss": "näidata"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nägemus"
+      "marks": "nägemust"
     },
     {
       "surface": "המראה",
-      "gloss": "nägemus"
+      "gloss": "nägemust"
     },
     {
       "surface": "אל",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "עלי",
-      "gloss": "Eelile"
+      "gloss": "Elile"
     }
   ],
-  "timestamp": "2026-10-21T00:48:24.706050126Z",
+  "timestamp": "2026-10-21T05:54:08.717753103Z",
   "model": "glm-5.3"
 }

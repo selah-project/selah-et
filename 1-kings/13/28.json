@@ -5,44 +5,28 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נבלה...שבר",
-      "rationale": "laiba laitamatus (ei söönud ega lõhunud) kordab jumalikku piiri — lõvi täitis täpselt selle, mis käsutatud"
-    }
-  ],
-  "translation": "Ja ta läks ning leidis ⟨את⟩ tema laiba teele heidetud, ja eesel ning lõvi seismas laiba kõrval; lõvi ei olnud ⟨את⟩ laiba söönud ega olnud ⟨את⟩ eeslit lõhkunud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "778fcf381ecb93f44f205f8091eab4ed73711681e4082c05db0ac4ca3d2060cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/13\/25-28.1792545551835.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta läks ja leidis ⟨את⟩ ta laiba teele visatuna, ja eesel ja lõvi seisid laiba kõrval; lõvi ei olnud söönud ⟨את⟩ laiba ega murdnud ⟨את⟩ eeslit.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "läks"
+      "gloss": "Ja ta läks"
     },
     {
       "surface": "וימצא",
-      "gloss": "leidis"
+      "gloss": "ja leidis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tema laiba"
+      "marks": "ta laiba"
     },
     {
       "surface": "נבלתו",
-      "gloss": "tema laiba"
+      "gloss": "ta laiba"
     },
     {
       "surface": "משלכת",
-      "gloss": "heitud"
+      "gloss": "visatuna"
     },
     {
       "surface": "בדרך",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "והאריה",
-      "gloss": "ning lõvi"
+      "gloss": "ja lõvi"
     },
     {
       "surface": "עמדים",
-      "gloss": "seismas"
+      "gloss": "seisid"
     },
     {
       "surface": "אצל",
@@ -90,16 +74,12 @@
       "gloss": "laiba"
     },
     {
-      "surface": "וילא",
-      "gloss": "ega"
-    },
-    {
       "surface": "ולא",
       "gloss": "ega"
     },
     {
       "surface": "שבר",
-      "gloss": "⟨את⟩ olinud lõhkunud"
+      "gloss": "murdnud"
     },
     {
       "surface": "את",
@@ -111,6 +91,6 @@
       "gloss": "eeslit"
     }
   ],
-  "timestamp": "2026-10-21T01:19:11.837323433Z",
+  "timestamp": "2026-10-21T05:50:55.057584653Z",
   "model": "glm-5.3"
 }

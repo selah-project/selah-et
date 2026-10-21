@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואתי אלית",
-      "rationale": "Sõna otseses mõttes 'ja mina needsin'; tõlkijad loevad tihti 'millest ma kuulsin sind noomivat' (KJV\/JPS) — säilitatud otsem tähendus"
-    },
-    {
-      "kind": "elision",
-      "subject": "seeklid",
-      "rationale": "'tuhat ja sada hõbedat' — heebrea ei ütle 'seeklit', arv on otse hõbeda küljes"
-    },
-    {
-      "kind": "measurement",
-      "subject": "tuhat ja sada hõbedat",
-      "rationale": "Täpne summa, mis seondub 16. peatükiga (Delila palgas)"
-    }
-  ],
-  "translation": "Ja ta ütles oma emale: tuhat ja sada hõbedat, mis sinult ära võeti, mille kohta sa needsid ja ka mu kõrvus ütlesid — vaata, hõbe on minu juures; mina võtsin selle. Ja tema ema ütles: õnnistatud olgu mu poeg Jahve poolt.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8476d80ac6af9b6b943d6d97895c8102b4d620e1a86e7437ffb1f06d6413581d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/17\/1-4.1792542177438.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles oma emale: Tuhat ja sada hõbedat, mis sinult ära võeti, ja mida sa vandes needsid ning ka mu kõrvu ütlesid — vaata, hõbedas on minu juures ⟨את⟩, mina võtsin selle. Ja tema ema ütles: Õnnistatud olgu mu poeg Jahve poolt.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ta ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "לאמו",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "võeti"
+      "gloss": "ära võeti"
     },
     {
       "surface": "לך",
@@ -67,11 +41,11 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ ja mina"
+      "gloss": "ja mind"
     },
     {
       "surface": "אלית",
-      "gloss": "noiin"
+      "gloss": "vandes needsid"
     },
     {
       "surface": "וגם",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "באזני",
-      "gloss": "mu kõrvus"
+      "gloss": "mu kõrvu"
     },
     {
       "surface": "הנה",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "הכסף",
-      "gloss": "hõbe"
+      "gloss": "hõbedas"
     },
     {
       "surface": "אתי",
-      "gloss": "minu juures ⟨את⟩"
+      "gloss": "⟨את⟩ minu juures"
     },
     {
       "surface": "אני",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "אמו",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "ברוך",
-      "gloss": "õnnistatud"
+      "gloss": "õnnistatud olgu"
     },
     {
       "surface": "בני",
@@ -126,6 +100,6 @@
       "gloss": "Jahve poolt"
     }
   ],
-  "timestamp": "2026-10-21T00:22:57.439833291Z",
+  "timestamp": "2026-10-21T06:27:03.415750954Z",
   "model": "glm-5.3"
 }

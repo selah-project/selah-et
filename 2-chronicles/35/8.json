@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הרימו",
-      "rationale": "Tõlgitud 'andsid' — sõna-sõnalt 'tõstsid üles', sama verbi juur mis 35:7 'tõstis üle'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "2600 ja 300",
-      "rationale": "Täpne arv: 2600 pesah-ohvrit ja 300 veist."
-    },
-    {
-      "kind": "elision",
-      "subject": "מאות",
-      "rationale": "Eesti numbrisuland 'kuussada' katab esimese מאות; teine מאות tõlgitud 'sada'."
-    }
-  ],
-  "translation": "Ja tema vürstid andsid vabatahtliku annetuseks rahvale, preestritele ja leviitidele; Hilkija ja Sakarja ja Jehhiel, Elohimi maja vürstid, andsid preestritele pesah-ohvriks kaks tuhat kuussada ja veiseid kolmsada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "222e660984a6101e96b5e5262be30bf4f613f811e6ae2ec49640c1f5e66453e1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/35\/5-8.1792558239136.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja tema ülemused andsid vabatahtlikult annetust rahvale, preestritele ja leviitidele: Hilkija ja Sakarja ja Jehiel, Elohimi koja juhid, andsid preestritele paasatalle kakstuhhat kuussada ja veiseid kolmsada.",
   "tokens": [
     {
       "surface": "ושריו",
-      "gloss": "ja tema vürstid"
+      "gloss": "ja tema ülemused"
     },
     {
       "surface": "לנדבה",
-      "gloss": "vabatahtliku annetuseks"
+      "gloss": "vabatahtlikult annetust"
     },
     {
       "surface": "לעם",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "הרימו",
-      "gloss": "andsid"
+      "gloss": "andsid (tõstsid panuse)"
     },
     {
       "surface": "חלקיה",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "ויחיאל",
-      "gloss": "ja Jehhiel"
+      "gloss": "ja Jehiel"
     },
     {
       "surface": "נגידי",
-      "gloss": "vürstid"
+      "gloss": "juhid"
     },
     {
       "surface": "בית",
-      "gloss": "maja"
+      "gloss": "koja"
     },
     {
       "surface": "האלהים",
@@ -91,19 +65,19 @@
     },
     {
       "surface": "לפסחים",
-      "gloss": "pesah-ohvriks"
+      "gloss": "paasatalled"
     },
     {
       "surface": "אלפים",
-      "gloss": "kaks tuhat"
+      "gloss": "kakstuhhat"
     },
     {
       "surface": "ושש",
-      "gloss": "kuussada"
+      "gloss": "ja kuus"
     },
     {
       "surface": "מאות",
-      "gloss": ""
+      "gloss": "sada"
     },
     {
       "surface": "ובקר",
@@ -118,6 +92,6 @@
       "gloss": "sada"
     }
   ],
-  "timestamp": "2026-10-21T04:50:39.137437268Z",
+  "timestamp": "2026-10-21T05:56:02.763399919Z",
   "model": "glm-5.3"
 }

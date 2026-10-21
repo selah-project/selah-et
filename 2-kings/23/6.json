@@ -5,23 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ašera",
-      "rationale": "האשרה on nii jumalanna Ašera kui tema puitsammas; KJV 'puistu' kaotab nime"
-    }
-  ],
-  "translation": "Ja ta tõi välja ⟨את⟩ ašera Jahve hamblast, Jerušalaimi välisküljele, Kidroni orgu, ja põletas selle Kidroni orus, ja peenestas ta tolmuks, ja puistas ⟨את⟩ selle tolmuse rahva poegade haudade peale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/23\/5-8.1792546549341.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta tõi välja ⟨את⟩ ašera Jahve majast, väljapoole Jerušalaimi, Kidroni orgu, ja põletas ⟨את⟩ selle Kidroni orus, ja peenestas tolmuks, ja viskas ⟨את⟩ selle tolmu rahva poegade haudadele.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -38,7 +22,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "hamblast"
+      "gloss": "majast"
     },
     {
       "surface": "יהוה",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "välisküljele"
+      "gloss": "väljapoole"
     },
     {
       "surface": "לירושלם",
@@ -54,11 +38,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "kuni"
+      "gloss": "orgu"
     },
     {
       "surface": "נחל",
-      "gloss": "orgu"
+      "gloss": "org"
     },
     {
       "surface": "קדרון",
@@ -70,7 +54,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ seda"
+      "gloss": "⟨את⟩",
+      "marks": "selle"
     },
     {
       "surface": "בנחל",
@@ -90,16 +75,16 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "ja puistas"
+      "gloss": "ja viskas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle tolmuse"
+      "marks": "selle tolmu"
     },
     {
       "surface": "עפרה",
-      "gloss": "selle tolmuse"
+      "gloss": "selle tolm"
     },
     {
       "surface": "על",
@@ -107,7 +92,7 @@
     },
     {
       "surface": "קבר",
-      "gloss": "haudade"
+      "gloss": "haudadele"
     },
     {
       "surface": "בני",
@@ -118,6 +103,6 @@
       "gloss": "rahva"
     }
   ],
-  "timestamp": "2026-10-21T01:35:49.342117399Z",
+  "timestamp": "2026-10-21T05:58:18.660681862Z",
   "model": "glm-5.3"
 }

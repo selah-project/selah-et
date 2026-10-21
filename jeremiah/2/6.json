@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צלמות",
-      "rationale": "Otse 'surmavari' (tsal-mavet) — tihedam kui 'pimedus'; kujund surma lähedusest."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בארץ kordus",
-      "rationale": "Neljakordne 'maale' kordus rajab monotoonse kõrbe rütmi, eesti keeles säilitatud."
-    }
-  ],
-  "translation": "Ja nad ei ütelnud: kus on Jahve, kes tõi meid üles ⟨את⟩ Mitsraimi maalt, kes viis meid kõrbe­maale, orgude ja kuristikute maale, kuiva ja surmavarju maale, maale, kus ükski mees ei ole läbi käinud ja kus ükski inimene ei ela?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/2\/5-8.1792547988880.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad ei öelnud: kus on Jahve, kes tõstis meid üles ⟨את⟩ maalt, Mitsraimist, kes viis meid kõrbemaal, stepimaal ja lohkusid täis maal, põuda täis maal ja surmavarju maal, maal, kust ükski mees ei ole läbi läinud ja kus ükski inimene pole elanud seal.",
   "tokens": [
     {
       "surface": "ולא",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "ütlenud"
+      "gloss": "öelnud"
     },
     {
       "surface": "איה",
-      "gloss": "kus"
+      "gloss": "kus on"
     },
     {
       "surface": "יהוה",
@@ -46,12 +25,12 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "kes tõi üles"
+      "gloss": "kes tõstis üles"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "meid"
+      "gloss": "⟨את⟩ meid",
+      "marks": "maalt Mitsraimist"
     },
     {
       "surface": "מארץ",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsraim"
+      "gloss": "Mitsraimist"
     },
     {
       "surface": "המוליך",
@@ -67,8 +46,8 @@
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
-      "marks": "meid"
+      "gloss": "⟨את⟩ meid",
+      "marks": "kõrbemaal"
     },
     {
       "surface": "במדבר",
@@ -76,31 +55,31 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "maale"
+      "gloss": "maal"
     },
     {
       "surface": "ערבה",
-      "gloss": "orgude"
+      "gloss": "stepimaal"
     },
     {
       "surface": "ושוחה",
-      "gloss": "ja kuristikute"
+      "gloss": "ja lohkud"
     },
     {
       "surface": "בארץ",
-      "gloss": "maale"
+      "gloss": "maal"
     },
     {
       "surface": "ציה",
-      "gloss": "kuiva"
+      "gloss": "põua-"
     },
     {
       "surface": "וצלמות",
-      "gloss": "ja surmavarju"
+      "gloss": "ja surmavari"
     },
     {
       "surface": "בארץ",
-      "gloss": "maale"
+      "gloss": "maal"
     },
     {
       "surface": "לא",
@@ -108,11 +87,11 @@
     },
     {
       "surface": "עבר",
-      "gloss": "läbi käinud"
+      "gloss": "läbi läinud"
     },
     {
       "surface": "בה",
-      "gloss": "seal"
+      "gloss": "sealt"
     },
     {
       "surface": "איש",
@@ -124,7 +103,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "ela"
+      "gloss": "elanud"
     },
     {
       "surface": "אדם",
@@ -135,6 +114,6 @@
       "gloss": "seal"
     }
   ],
-  "timestamp": "2026-10-21T01:59:48.883590073Z",
+  "timestamp": "2026-10-21T06:19:54.923762017Z",
   "model": "glm-5.3"
 }

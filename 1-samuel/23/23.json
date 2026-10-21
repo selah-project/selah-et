@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אל נכון",
-      "rationale": "sõna-sõnalt 'kindluse juurde': mõned loevad 'kindla teatega', teised 'õige teabega'; 'teatega' on lisatud selguseks"
-    },
-    {
-      "kind": "crux",
-      "subject": "אלפי",
-      "rationale": "'tuhanded' võivad olla hõimuüksused (klaanid), mitte sõnaline arv"
-    }
-  ],
-  "translation": "Ja vaadake ning teadke kõiki varjupaiku, kus ta seal end peidab, ja tulge mulle kindla teatega tagasi, ja mina lähen ⟨את⟩ teiega; ja juhtub, kui ta ⟨on⟩ maal, siis otsin ta välja kõigist Juuda tuhandetest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/23\/21-24.1792544174243.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja vaadake ning teadke kõik varjekohtadest, kuhu ta seal varjab end, ja tulge tagasi minu juurde kindlalt teatades, ja mina lähen ⟨את⟩ teiega; ja juhtub, kui ta on maal, siis otsin ma ⟨את⟩ teda läbi kõigi Juuda tuhandike.",
   "tokens": [
     {
       "surface": "וראו",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "מכל",
-      "gloss": "kõiki"
+      "gloss": "kõik"
     },
     {
       "surface": "המחבאים",
-      "gloss": "varjupaiku"
+      "gloss": "varjekohtadest"
     },
     {
       "surface": "אשר",
-      "gloss": "kus"
+      "gloss": "kuhu"
     },
     {
       "surface": "יתחבא",
-      "gloss": "end peidab"
+      "gloss": "ta varjab end"
     },
     {
       "surface": "שם",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "mulle"
+      "gloss": "minu juurde"
     },
     {
       "surface": "אל",
-      "gloss": "kindla"
+      "gloss": "kindlalt"
     },
     {
       "surface": "נכון",
-      "gloss": "teatega"
+      "gloss": "teatades"
     },
     {
       "surface": "והלכתי",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "ישנו",
-      "gloss": "ta ⟨on⟩"
+      "gloss": "ta on"
     },
     {
       "surface": "בארץ",
@@ -98,26 +77,26 @@
     },
     {
       "surface": "וחפשתי",
-      "gloss": "siis otsin"
+      "gloss": "siis otsin ma"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ta"
+      "marks": "teda"
     },
     {
       "surface": "בכל",
-      "gloss": "välja kõigist"
+      "gloss": "läbi kõigi"
     },
     {
       "surface": "אלפי",
-      "gloss": "tuhandetest"
+      "gloss": "tuhandike"
     },
     {
       "surface": "יהודה",
       "gloss": "Juuda"
     }
   ],
-  "timestamp": "2026-10-21T00:56:14.245271818Z",
+  "timestamp": "2026-10-21T05:53:26.834055149Z",
   "model": "glm-5.3"
 }

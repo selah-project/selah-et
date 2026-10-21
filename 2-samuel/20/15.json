@@ -5,45 +5,19 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ותעמד בחל",
-      "rationale": "Keeruline koht: kas vall 'seisis vallikraavis', 'seisis müüri vastu' või langes ümbritsesse"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "Eesti suhtelause vajab tegusõna, heebrea puudub"
-    },
-    {
-      "kind": "substitution",
-      "subject": "משחיתם",
-      "rationale": "Partitsiip 'purustajad' tõlgitud tegusõnana 'müürirasid'"
-    }
-  ],
-  "translation": "Ja nad tulid ning piirasid teda Aabelis, Beet-Maakas, ja nad kallasid pinnast valli linnale, ja see langes vallikraavi; ja kogu rahvas, kes ⟨oli⟩ ⟨את⟩ Joaviga, müürirasid müüri, et see maha kukutada.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7120b89be40f9f73844613ffaeb44ec0a7f73a1b0699fa68aeacec9792354e9f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/20\/13-16.1792544934355.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad tulid ning piirasid teda sisse Aabelis, Beet-Maahas, ja nad valasid valli linna vastu, ja see ⟨seisis⟩ vallikraavis; ja kogu rahvas, kes ⟨oli⟩ koos ⟨את⟩ Joabiga, lõhustasid müüri, et see maha kukutada.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "ja nad tulid"
+      "gloss": "Ja nad tulid"
     },
     {
       "surface": "ויצרו",
-      "gloss": "ning piirasid"
+      "gloss": "ning piirasid sisse"
     },
     {
       "surface": "עליו",
-      "gloss": "teda"
+      "gloss": "teda vastu"
     },
     {
       "surface": "באבלה",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "Beet"
+      "gloss": "Beet-"
     },
     {
       "surface": "המעכה",
-      "gloss": "Maakas"
+      "gloss": "Maahas"
     },
     {
-      "surface": "וישפכu",
-      "gloss": "ja nad kallasid"
+      "surface": "וישפכו",
+      "gloss": "ja nad valasid"
     },
     {
       "surface": "סללה",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "vastu"
     },
     {
       "surface": "העיר",
-      "gloss": "linnale"
+      "gloss": "linna"
     },
     {
       "surface": "ותעמד",
-      "gloss": "ja see langes"
+      "gloss": "ja ⟨seisis⟩"
     },
     {
       "surface": "בחל",
-      "gloss": "vallikraavi"
+      "gloss": "vallikraavis"
     },
     {
       "surface": "וכל",
@@ -96,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Joavi"
+      "marks": "Joabiga"
     },
     {
       "surface": "יואב",
-      "gloss": "Joaviga"
+      "gloss": "Joabiga"
     },
     {
       "surface": "משחיתם",
-      "gloss": "müürirasid"
+      "gloss": "lõhustasid"
     },
     {
       "surface": "להפיל",
@@ -115,6 +89,6 @@
       "gloss": "müüri"
     }
   ],
-  "timestamp": "2026-10-21T01:08:54.359453969Z",
+  "timestamp": "2026-10-21T06:00:10.390484164Z",
   "model": "glm-5.3"
 }

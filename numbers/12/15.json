@@ -5,44 +5,23 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "Eesti keeles lisatud abiverb, heebrea infinitivus האסף seda ei väljenda."
-    },
-    {
-      "kind": "measurement",
-      "subject": "seitsmeks päevaks",
-      "rationale": "Väljasulgemise kestus loendatud."
-    }
-  ],
-  "translation": "Ja Mirjam suleti väljapoole laagrit seitsmeks päevaks, ja rahvas ei läinud teele, enne kui Mirjam ⟨oli⟩ tagasi võetud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "5d23b82ea1cfb47341f3dc477d967297480fcddc572ca356354cd7fb970dfece",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/12\/13-16.1792539960382.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Mirjam suleti ⟩laagrist⟨ välja seitsmeks päevaks, ja rahvas ei läinud teele, enne kui Mirjam ⟩võieti⟨ tagasi.",
   "tokens": [
     {
       "surface": "ותסגר",
-      "gloss": "ja suleti"
+      "gloss": "Ja Mirjam suleti"
     },
     {
       "surface": "מרים",
       "gloss": "Mirjam"
     },
     {
-      "surface": "m chuts",
-      "gloss": "väljapoole"
+      "surface": "מחוץ",
+      "gloss": "välja"
     },
     {
       "surface": "למחנה",
-      "gloss": "laagrit"
+      "gloss": "laagrist"
     },
     {
       "surface": "שבעת",
@@ -66,17 +45,17 @@
     },
     {
       "surface": "עד",
-      "gloss": "ennen kui"
+      "gloss": "enne kui"
     },
     {
       "surface": "האסף",
-      "gloss": "tagasi võetud"
+      "gloss": "võieti tagasi"
     },
     {
       "surface": "מרים",
       "gloss": "Mirjam"
     }
   ],
-  "timestamp": "2026-10-20T23:46:00.383710950Z",
+  "timestamp": "2026-10-21T06:31:48.794582906Z",
   "model": "glm-5.3"
 }

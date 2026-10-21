@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Heebrea puudub kopolula; eesti keel nõuab"
-    },
-    {
-      "kind": "crux",
-      "subject": "נטמאה",
-      "rationale": "'saanud ebapuhtaks' — kultuslik ebapuhtus vs moraalne rikkumine"
-    }
-  ],
-  "translation": "ja mees läheb tema juurde seemne vahekorraga, ja see jääb peidetuks tema mehe silmade eest, ja tema on varjul, kuid tema ⟨on⟩ saanud rituaalselt ebapuhtaks, ja tunnistajat ei ole tema kohta, ja teda ei ole tabatud",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c691609de67c4f0dd35a440b402c302d61d2b1f41d9ea9dcbca698d449888f14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/5\/13-16.1792539811329.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "ja mees lebab temaga seeme lamamisega, ja see on jäänud varjatuks tema mehe silmade eest, ja tema on end salajanud ja ⟩tema⟨⟨on⟩ rituaalselt saastunud, ja tunnistajat ei ole tema juures, ja teda ei ole tabatud —",
   "tokens": [
     {
       "surface": "ושכב",
-      "gloss": "ja läheb tema juurde"
+      "gloss": "ja lebab"
     },
     {
       "surface": "איש",
@@ -39,19 +18,19 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "tema"
+      "marks": "temaga"
     },
     {
       "surface": "שכבת",
-      "gloss": "vahekorraga"
+      "gloss": "lamamisega"
     },
     {
       "surface": "זרע",
-      "gloss": "seemne"
+      "gloss": "seeme"
     },
     {
       "surface": "ונעלם",
-      "gloss": "ja jääb peidetuks"
+      "gloss": "ja on jäänud varjatuks"
     },
     {
       "surface": "מעיני",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "ונסתרה",
-      "gloss": "ja tema on varjul"
+      "gloss": "ja on end salajanud"
     },
     {
       "surface": "והיא",
-      "gloss": "kuid tema"
+      "gloss": "ja tema"
     },
     {
       "surface": "נטמאה",
-      "gloss": "⟨on⟩ saanud rituaalselt ebapuhtaks"
+      "gloss": "on rittuaalselt saastunud"
     },
     {
       "surface": "ועד",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "tema kohta"
+      "gloss": "tema juures"
     },
     {
       "surface": "והוא",
@@ -98,6 +77,6 @@
       "gloss": "ole tabatud"
     }
   ],
-  "timestamp": "2026-10-20T23:43:31.330451932Z",
+  "timestamp": "2026-10-21T06:36:20.783444397Z",
   "model": "glm-5.3"
 }

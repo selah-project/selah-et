@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי אני ... אם",
-      "rationale": "Vanne eitusega: 'kui Sedom nii tegi!' tähendab 'Sedom ei teinud nii'; eestis vajab see hüüumärki ja tingivat viisi"
-    },
-    {
-      "kind": "crux",
-      "subject": "אם",
-      "rationale": "Tõlkijad lahenevad eituseks (KJV 'hath not done') või küsimuseks (Wycliffe); heebrea jättab eituse vannetooraku tõttu lisamata"
-    }
-  ],
-  "translation": "Nii tõesti kui mina elan, ütleb Adonai Jahve: kui Sedom, su õde, tema ja tema tütred, oleksid teinud nii, nagu sina ja su tütred olete teinud!",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/16\/45-48.1792549886634.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nii tõesti kui mina elan, ütleb Adonai Jahve: Sedom, sinu õde, tema ega tema tütred ei teinud nii, nagu sina ja su tütred olete teinud.",
   "tokens": [
     {
       "surface": "חי",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "kui"
+      "gloss": "nii tõesti kui"
     },
     {
       "surface": "עשתה",
-      "gloss": "oleksid teinud"
+      "gloss": "ei teinud"
     },
     {
       "surface": "סדם",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אחותך",
-      "gloss": "su õde"
+      "gloss": "sinu õde"
     },
     {
       "surface": "היא",
@@ -70,26 +49,25 @@
     },
     {
       "surface": "ובנותיה",
-      "gloss": "ja tema tütred"
+      "gloss": "ega tema tütred"
     },
     {
       "surface": "כאשר",
-      "gloss": "nii, nagu"
+      "gloss": "nii nagu"
     },
     {
       "surface": "עשית",
-      "gloss": "oled teinud"
+      "gloss": "olid teinud"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "ja su tütred"
+      "gloss": "sina"
     },
     {
       "surface": "ובנותיך",
       "gloss": "ja su tütred"
     }
   ],
-  "timestamp": "2026-10-21T02:31:26.636492794Z",
+  "timestamp": "2026-10-21T06:08:40.804981068Z",
   "model": "glm-5.3"
 }

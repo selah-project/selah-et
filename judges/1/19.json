@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "et",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי לא להוריש",
-      "rationale": "Käskivate lubaduste (Jt 1:19 'Jahve oli Juudaga') ja ebaõnnestumise pinge; korduv כי võib tähendada nii 'sest' kui 'aga'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "את Juudaga",
-      "rationale": "Siin on את läheduse tähendusega prepositsioon ('koos'), mitte otsese objekti marker."
-    }
-  ],
-  "translation": "Ja Jahve oli Juudaga, ja ta hõivas mäestiku, sest oru elanikke ei suutnud ta ära ajada, sest neil olid rauast sõjavankrid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/judges\/1\/17-20.1792541785528.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve oli ⟨את⟩ Juudaga, ja ta võttis oma valdusse ⟨את⟩ mäe; aga oru ⟨את⟩ elanikke ei suutnud ta ära ajada, sest neil oli raudvankrid.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Ja oli"
+      "gloss": "ja oli"
     },
     {
       "surface": "יהוה",
@@ -38,8 +17,8 @@
     },
     {
       "surface": "את",
-      "gloss": "koos ⟨את⟩",
-      "marks": "Juudaga"
+      "gloss": "⟨את⟩",
+      "marks": "Juuda"
     },
     {
       "surface": "יהודה",
@@ -47,20 +26,20 @@
     },
     {
       "surface": "וירש",
-      "gloss": "ja ta hõivas"
+      "gloss": "ja võttis oma valdusse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mäestiku"
+      "marks": "mäe"
     },
     {
       "surface": "ההר",
-      "gloss": "mäestiku"
+      "gloss": "mäe"
     },
     {
       "surface": "כי",
-      "gloss": "sest"
+      "gloss": "aga"
     },
     {
       "surface": "לא",
@@ -73,7 +52,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elanikke"
+      "marks": "oru elanikke"
     },
     {
       "surface": "ישבי",
@@ -89,17 +68,17 @@
     },
     {
       "surface": "רכב",
-      "gloss": "sõjavankrid"
+      "gloss": "vankrid"
     },
     {
       "surface": "ברזל",
-      "gloss": "rauast"
+      "gloss": "raud-"
     },
     {
       "surface": "להם",
-      "gloss": "neil olid"
+      "gloss": "neil oli"
     }
   ],
-  "timestamp": "2026-10-21T00:16:25.529499127Z",
+  "timestamp": "2026-10-21T06:26:25.380507966Z",
   "model": "glm-5.3"
 }

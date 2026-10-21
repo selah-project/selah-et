@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kerubite tronil",
-      "rationale": "יֹשֵׁב הַכְּרֻבִים tähendab sõna-sõnalt 'kerubite istuja', mitte 'kerubite vahel' (KJV eeldus) ega 'kerubite peal'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kaks poega",
-      "rationale": "kaks nimega isikut loetletud: Hofni ja Pinhas"
-    }
-  ],
-  "translation": "Ja rahvas saatis šiloole, ja nad tõstsid sealt üles ⟨את⟩ Jahve Tsevaoti lepingu arku, kes istub kerubite tronil, ja seal olid kaks Eli poega arku juures, Elohimi lepingu arku, Hofni ja Pinhas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/4\/1-4.1792543784446.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja rahvas saatis Šilosse, ja nad tõstsid sealt ⟨את⟩ Jahve Tsevaoti lepinguirst, kes istub kerubitel; ja seal olid Eeli kaks poega lepinguirstiga, Elohimi ⟨את⟩ lepinguirst — Hofni ja Pinhas.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "שלה",
-      "gloss": "Šilole"
+      "gloss": "Šilosse"
     },
     {
       "surface": "וישאו",
-      "gloss": "ja nad tõstsid üles"
+      "gloss": "ja nad tõstsid"
     },
     {
       "surface": "משם",
@@ -51,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve Tsevaoti lepingu arku"
+      "marks": "Jahve Tsevaoti lepinguirst"
     },
     {
       "surface": "ארון",
-      "gloss": "arku"
+      "gloss": "lepinguirst"
     },
     {
       "surface": "ברית",
-      "gloss": "lepingu"
+      "gloss": "lepingu-"
     },
     {
       "surface": "יהוה",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerubite tronil"
+      "gloss": "kerubitel"
     },
     {
       "surface": "ושם",
-      "gloss": "ja seal olid"
+      "gloss": "ja seal"
     },
     {
       "surface": "שני",
@@ -91,19 +70,19 @@
     },
     {
       "surface": "עלי",
-      "gloss": "Eli"
+      "gloss": "Eeli"
     },
     {
       "surface": "עם",
-      "gloss": "juures"
+      "gloss": "koos"
     },
     {
       "surface": "ארון",
-      "gloss": "arku"
+      "gloss": "lepinguirstiga"
     },
     {
       "surface": "ברית",
-      "gloss": "lepingu"
+      "gloss": "lepingu-"
     },
     {
       "surface": "האלהים",
@@ -118,6 +97,6 @@
       "gloss": "ja Pinhas"
     }
   ],
-  "timestamp": "2026-10-21T00:49:44.448921740Z",
+  "timestamp": "2026-10-21T06:58:56.280348845Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ושבתי את שביתכם",
-      "rationale": "Sõnamäng שוב\/שבות: 'pööran tagasi teie vangipõlve' vs 'tagasi teie endisse seisundisse'; eesti peab valima."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mind leitakse teilt",
-      "rationale": "נמצאתי on niphal: 'ma laskun end leida', mitte aktiiv 'ma leian'."
-    }
-  ],
-  "translation": "Ja mind leitakse teilt, ütleb Jahve, ja ma pööran tagasi teie vangipõlve ja kogun ⟨את⟩ teid kõigist rahvastest ja kõigist paikadest, kuhu ma teid olen kihutanud, ütleb Jahve, ja ma toon ⟨את⟩ teid tagasi paika, kust ma teid olen viinud asumisele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "4286214981f127433d9ad0f1b765efd89bcc27cc6352472951980359d5b9464a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/29\/13-16.1792548818726.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja mind leitakse teie poolt, ütleb Jahve; ja ma pööran tagasi teie vangipõlve ning kogun kokku ⟨את⟩ teid kõigist rahvastest ja kõigist paikadest, kuhu ma teid sinna ajanud olen, ütleb Jahve; ja ma toon tagasi ⟨את⟩ teid paika, kust ma teid sealt ära viisin.",
   "tokens": [
     {
       "surface": "ונמצאתי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "teilt"
+      "gloss": "teie poolt"
     },
     {
       "surface": "נאם",
@@ -59,12 +38,12 @@
     },
     {
       "surface": "וקבצתי",
-      "gloss": "ja kogun"
+      "gloss": "ja ma kogun kokku"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ teid",
-      "marks": "kõigist rahvastest"
+      "marks": "kõigist rahvastest ja kõigist paikadest"
     },
     {
       "surface": "מכל",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "הדחתי",
-      "gloss": "ma olen kihutanud"
+      "gloss": "ma olen ajanud"
     },
     {
       "surface": "אתכם",
@@ -118,11 +97,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "tagasi paika"
+      "gloss": "tagasi"
     },
     {
       "surface": "המקום",
-      "gloss": "paik"
+      "gloss": "paika"
     },
     {
       "surface": "אשר",
@@ -130,7 +109,7 @@
     },
     {
       "surface": "הגליתי",
-      "gloss": "ma olen viinud asumisele"
+      "gloss": "ma viisin pagulusse"
     },
     {
       "surface": "אתכם",
@@ -142,6 +121,6 @@
       "gloss": "sealt"
     }
   ],
-  "timestamp": "2026-10-21T02:13:38.728265992Z",
+  "timestamp": "2026-10-21T06:20:47.971944932Z",
   "model": "glm-5.3"
 }

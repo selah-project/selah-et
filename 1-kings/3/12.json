@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כמוך kordus",
-      "rationale": "kiiavorm 'sinu sarnane' kordub v9 mas ja v12 kaks korda, ümbritsetes nagu rõngas"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ma annan",
-      "rationale": "perfekt נתתי võib olla ka 'ma olen andnud' — juba täideviidud kingitus"
-    }
-  ],
-  "translation": "vaata, ma olen teinud sinu sõnade järgi; vaata, ma annan sulle targase ja mõistva südame — sinu sarnast ei ole olnud enne sind, ja sinu järele ei tõuse sinu sarnast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/3\/9-12.1792545202823.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, ma olen teinud ⟨sina⟩ sõnade järgi; vaata, ma olen sulle andnud targa ja aruka südame, et sinu sarnast ei ⟨ole⟩ olnud enne sind ja sinu järel ei tõuse sinu sarnast.",
   "tokens": [
     {
       "surface": "הנה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "כדבריך",
-      "gloss": "sinu sõnade järgi"
+      "gloss": "sõnade järgi"
     },
     {
       "surface": "הנה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "ma annan"
+      "gloss": "ma olen andnud"
     },
     {
       "surface": "לך",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "חכם",
-      "gloss": "targase"
+      "gloss": "targa"
     },
     {
       "surface": "ונבון",
-      "gloss": "ja mõistva"
+      "gloss": "ja aruka"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "כמוך",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "ole olnud"
+      "gloss": "⟨ole⟩ olnud"
     },
     {
       "surface": "לפניך",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ואחריך",
-      "gloss": "ja sinu järele"
+      "gloss": "ja sinu järel"
     },
     {
       "surface": "לא",
@@ -101,6 +80,6 @@
       "gloss": "sinu sarnast"
     }
   ],
-  "timestamp": "2026-10-21T01:13:22.826137127Z",
+  "timestamp": "2026-10-21T05:51:33.114590639Z",
   "model": "glm-5.3"
 }

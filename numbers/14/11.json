@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suunaline eessõna õigustub eesti käänamõlgu (Mošele), eraldi sõnana ei renderda"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עד אנה... ועד אנה",
-      "rationale": "Korduv 'kui kaua... ja kui kaua' — paralips, Jahve nördimuse tõstuk, eesti keeles säilinud"
-    }
-  ],
-  "translation": "Ja ütles Jahve Mošele: kui kaua põlgab mind see rahvas, ja kui kaua nad ei usu mind kõigi märkide pärast, mida ma olen teinud tema sees?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f6907bd14e11587dcc09a235beae6a6789133c1bfa4de14bbe494ee83127bec0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/14\/9-12.1792539997742.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Mošele: kui kaua põlgab mind see rahvas, ja kui kaua nad ei usu mind ⟨koos⟩ kõigi tunnustähtedega, mida ma olen teinud tema keskel?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Mošele"
     },
     {
       "surface": "משה",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "kuni"
+      "gloss": "kui kaua"
     },
     {
       "surface": "אנה",
-      "gloss": "kaua"
+      "gloss": "kuni milleni"
     },
     {
       "surface": "ינאצני",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahvas"
+      "gloss": "see rahvas"
     },
     {
       "surface": "הזה",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "ועד",
-      "gloss": "ja kuni"
+      "gloss": "ja kui kaua"
     },
     {
       "surface": "אנה",
-      "gloss": "kaua"
+      "gloss": "kuni milleni"
     },
     {
       "surface": "לא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "יאמינו",
-      "gloss": "nad ei usu → usu"
+      "gloss": "nad ei usu"
     },
     {
       "surface": "בי",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "kõigi"
+      "gloss": "koos kõigiga"
     },
     {
       "surface": "האתות",
-      "gloss": "märkide"
+      "gloss": "tunnustähtedega"
     },
     {
       "surface": "אשר",
@@ -102,9 +81,9 @@
     },
     {
       "surface": "בקרבו",
-      "gloss": "tema sees"
+      "gloss": "tema keskel"
     }
   ],
-  "timestamp": "2026-10-20T23:46:37.743656306Z",
+  "timestamp": "2026-10-21T06:31:38.858444758Z",
   "model": "glm-5.3"
 }

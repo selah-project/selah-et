@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "skorpionidega",
-      "rationale": "בעקרבים: sõna-sõnalt 'skorpionidega' vs tõlgendus 'sõlmes piitsadega' — kujund piitsade valust"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ואני … ואני",
-      "rationale": "kahekordne 'aga mina' kontrast isa ja poja vahel, korduv parallelism"
-    }
-  ],
-  "translation": "ja rääkis nendega noorte nõu järgi, öeldes: mu isas teeb raskeks ⟨את⟩ teie ike, aga mina lisan sellele; mu isa karistas teid piitsadega, aga mina karistan teid skorpionidega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/10\/13-16.1792557771207.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta rääkis nendega noorte nõu järgi, öeldes: mu isaraskendas ⟨את⟩ teie ikekest, ja minu lisan sellele veel; mu isatõsis teid ⟨את⟩ piitsadega, ja mina — skorpionidega.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "rääkis"
+      "gloss": "ja ta rääkis"
     },
     {
       "surface": "אלהם",
@@ -50,20 +29,20 @@
     },
     {
       "surface": "אכביד",
-      "gloss": "teen raskeks"
+      "gloss": "mu isaraskendas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "teie ike"
+      "marks": "teie ike (עלכם)"
     },
     {
       "surface": "עלכם",
-      "gloss": "teie ike"
+      "gloss": "teie ikekest"
     },
     {
       "surface": "ואני",
-      "gloss": "aga mina"
+      "gloss": "ja minu"
     },
     {
       "surface": "אסיף",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "יסר",
-      "gloss": "karistas"
+      "gloss": "tõsis"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "teid ⟨את⟩"
     },
     {
       "surface": "בשוטים",
@@ -91,13 +70,13 @@
     },
     {
       "surface": "ואני",
-      "gloss": "aga mina"
+      "gloss": "ja mina"
     },
     {
       "surface": "בעקרבים",
       "gloss": "skorpionidega"
     }
   ],
-  "timestamp": "2026-10-21T04:42:51.209058130Z",
+  "timestamp": "2026-10-21T05:54:57.777281357Z",
   "model": "glm-5.3"
 }

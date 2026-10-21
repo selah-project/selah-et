@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "על\/אל לõppu lähedane elision; eesti ei vaja eraldi sõna"
-    },
-    {
-      "kind": "you",
-      "subject": "Abnerile",
-      "rationale": "David hurmab Abnerit otseküsimustega"
-    }
-  ],
-  "translation": "Ja David ütles Abnerile: Eks sa ole mees? Ja kes on sinu sarnane Jisraelis? Ja miks ei valvanud sa oma isandat, kuningat? Sest tuli üks rahva seast hukkama ⟨את⟩ kuningat, sinu isandat.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/26\/13-16.1792544341080.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David ütles Avnerile: ega sa ole mees, ja kes on sinu sarnane Jisraelis? ja miks sa ei valvanud ⟨את⟩ oma isandat, kuningat? sest üks rahvast tuli hukkama tegema ⟨את⟩ kuningat, su isandat.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "Abnerile"
+      "gloss": "Avnerile kohale"
     },
     {
       "surface": "אבנר",
-      "gloss": "Abner"
+      "gloss": "Avner"
     },
     {
       "surface": "הלוא",
-      "gloss": "eks"
+      "gloss": "ega"
     },
     {
       "surface": "איש",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sa oled"
+      "gloss": "sa"
     },
     {
       "surface": "ומי",
@@ -78,11 +57,11 @@
     },
     {
       "surface": "שמרת",
-      "gloss": "valvanud sa"
+      "gloss": "valvanud"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kohale"
     },
     {
       "surface": "אדניך",
@@ -106,11 +85,11 @@
     },
     {
       "surface": "העם",
-      "gloss": "rahva seast"
+      "gloss": "rahvast"
     },
     {
       "surface": "להשחית",
-      "gloss": "hukkama"
+      "gloss": "hukkama tegema"
     },
     {
       "surface": "את",
@@ -123,9 +102,9 @@
     },
     {
       "surface": "אדניך",
-      "gloss": "sinu isandat"
+      "gloss": "su isandat"
     }
   ],
-  "timestamp": "2026-10-21T00:59:01.085765628Z",
+  "timestamp": "2026-10-21T05:54:22.255768479Z",
   "model": "glm-5.3"
 }

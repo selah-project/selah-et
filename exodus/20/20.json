@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בא האלהים",
-      "rationale": "Järelik_infinitiivi lugemine 'on tulnud teid proovile panema' vs näidanud kord 'proovilepanija' —'Elohim on tulnud, et teid proovile panna'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kartus",
-      "rationale": "יראתו on nii 'hirm' kui 'austus' — 'tema kartus' vs 'tema kartus' eesti traditsioonis kipub ühele varvandile."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suunaline partikkel sulandub käändesse 'rahvale'."
-    }
-  ],
-  "translation": "Ja Moše ütles rahvale: ärge kardke, sest Elohim on tulnud ⟨את⟩ teid proovile panema ja et tema kartus oleks teie näo ees, et te ei eksiks pattu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/17-20.1792538593004.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ütles Moše rahvale: ärge kartke, sest selleks on Elohim tulnud, et teid proovile panna ⟨את⟩, ja selleks, et ta kartus oleks teie näo ees, et te ei eksiks.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja Moše ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "משה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "rahvale"
     },
     {
       "surface": "העם",
-      "gloss": "rahvale"
+      "gloss": "rahvas"
     },
     {
       "surface": "אל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "kardke"
+      "gloss": "kartke"
     },
     {
       "surface": "כי",
@@ -67,16 +41,16 @@
     },
     {
       "surface": "נסות",
-      "gloss": "proovile panema"
+      "gloss": "proovile panna"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ teid",
-      "marks": "teid"
+      "marks": "בא — Elohimi tulemine"
     },
     {
       "surface": "בא",
-      "gloss": "on tulnud"
+      "gloss": "tulnud"
     },
     {
       "surface": "האלהים",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "ובעבור",
-      "gloss": "ja et"
+      "gloss": "ja selleks et"
     },
     {
       "surface": "תהיה",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "יראתו",
-      "gloss": "tema kartus"
+      "gloss": "ta kartus"
     },
     {
       "surface": "על",
-      "gloss": "peal"
+      "gloss": "ees"
     },
     {
       "surface": "פניכם",
@@ -108,9 +82,9 @@
     },
     {
       "surface": "תחטאו",
-      "gloss": "eksiks pattu"
+      "gloss": "eksiks"
     }
   ],
-  "timestamp": "2026-10-20T23:23:13.005959684Z",
+  "timestamp": "2026-10-21T06:05:59.667086358Z",
   "model": "glm-5.3"
 }

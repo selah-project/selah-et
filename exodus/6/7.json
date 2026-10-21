@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "olen",
-      "rationale": "והייתי tuleviku-\/kohustusekuju; eesti keele kohuke vajab 'saan olema' asemel lihtsustatud abiverbi"
-    }
-  ],
-  "translation": "Ja võtan teid endale rahvaks ja olen teile Elohimiks, ja te saate teada, et mina olen Jahve, teie Elohim, kes teid viib välja Mitsraimi koormate alt.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/6\/5-8.1792538339685.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja võtan ⟨את⟩ teid endale rahvaks ja olen ⟨teile⟩ Elohimiks, ja te saate teada, et mina olen Jahve, teie Elohim, kes viib ⟨את⟩ teid välja Mitsraimi koormate alt.",
   "tokens": [
     {
       "surface": "ולקחתי",
@@ -29,7 +13,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid (esimene isiku objekt)"
     },
     {
       "surface": "לי",
@@ -77,7 +62,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid"
+      "gloss": "⟨את⟩ teid",
+      "marks": "teid (viib välja)"
     },
     {
       "surface": "מתחת",
@@ -92,6 +78,6 @@
       "gloss": "Mitsraimi"
     }
   ],
-  "timestamp": "2026-10-20T23:18:59.686862768Z",
+  "timestamp": "2026-10-21T06:08:01.063872157Z",
   "model": "glm-5.3"
 }

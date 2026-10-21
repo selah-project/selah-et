@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "julmusega",
-      "rationale": "בפרך tähendab sõna-sõnalt 'murdmisega', 'karedusega' — halastamatu rõhumise mõõt"
-    },
-    {
-      "kind": "substitution",
-      "subject": "valitseda",
-      "rationale": "רדה on 'jalaga tallata, allutada', mitte lihtsalt 'valitseda'"
-    }
-  ],
-  "translation": "Ja te annate nad pärandiks oma lastele pärast teid, et nad valdaksid päriseks igaveseks; nendega võite teha tööd, aga oma vendadega, Jisraeli poegadega, igaüks oma vennaga ei tohi te valitseda julmusega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "28a7ffe09a56485bef6b6209ef777444e3baaf7d109136ccd0b572894270db24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/25\/45-48.1792539626652.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja te pärandate ⟨את⟩ neid oma poegadele pärast teid, et omada pärusvarana; igavesti võite te neid tööle panna; aga oma vendade, Jisraeli poegade üle, igaüks oma venna üle, ei tohi te valitseda karmusega.",
   "tokens": [
     {
       "surface": "והתנחלתם",
-      "gloss": "ja te annate pärandiks"
+      "gloss": "ja te pärandate"
     },
     {
       "surface": "אתם",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "לבניכם",
-      "gloss": "oma lastele"
+      "gloss": "oma poegadele"
     },
     {
       "surface": "אחריכם",
@@ -47,31 +26,31 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "et nad valdaksid"
+      "gloss": "et omada"
     },
     {
       "surface": "אחזה",
-      "gloss": "päriseks"
+      "gloss": "pärusvarana"
     },
     {
       "surface": "לעלם",
-      "gloss": "igaveseks"
+      "gloss": "igavesti"
     },
     {
       "surface": "בהם",
-      "gloss": "nendega"
+      "gloss": "neid"
     },
     {
       "surface": "תעבדו",
-      "gloss": "võite teha tööd"
+      "gloss": "võite tööle panna"
     },
     {
       "surface": "ובאחיכם",
-      "gloss": "aga oma vendadega"
+      "gloss": "aga oma vendade"
     },
     {
       "surface": "בני",
-      "gloss": "Jisraeli poegadega"
+      "gloss": "poegade"
     },
     {
       "surface": "ישראל",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "באחיו",
-      "gloss": "oma vennaga"
+      "gloss": "oma venna üle"
     },
     {
       "surface": "לא",
-      "gloss": "ei tohi"
+      "gloss": "ei"
     },
     {
       "surface": "תרדה",
-      "gloss": "te valitseda"
+      "gloss": "tohi valitseda"
     },
     {
       "surface": "בו",
@@ -99,9 +78,9 @@
     },
     {
       "surface": "בפרך",
-      "gloss": "julmusega"
+      "gloss": "karmusega"
     }
   ],
-  "timestamp": "2026-10-20T23:40:26.653640826Z",
+  "timestamp": "2026-10-21T06:30:13.637040199Z",
   "model": "glm-5.3"
 }

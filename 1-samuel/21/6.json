@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יקדש בכלי",
-      "rationale": "Kelle riist pühitsetakse: leib riistades (KJV) või noorte mehed ise (ASV 'how much more'); heebrea jääb mitmetähenduslikuks"
-    },
-    {
-      "kind": "crux",
-      "subject": "והוא דרך חל",
-      "rationale": "'Ja tee on pühadusetu' — kas Davidi teekond või võrdlus: isegi tavalisel teel olid riistad püha"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כלי",
-      "rationale": "Sõna tähendab nii nõu, relva kui ka ihu; 'riistad' hoiab mitmetähenduslikkust"
-    }
-  ],
-  "translation": "Ja David vastas ⟨את⟩ preestrile ja ütles talle: tõesti, naine on meil kinni hoitud juba eile-esi-eil, alates minu väljumisest, ja noorte meeste riistad on olnud püha; ja see on pühadusetu tee; ja veel enam — täna pühitsetakse see riistas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/21\/5-8.1792544225030.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja David vastas ⟨את⟩ preestrile ja ütles talle: tõepoolest, naised on meie juurest kinni peetud eile-ta-eil, sest ma läksin välja, ja noormeeste riided olid püha; aga see ⟩on⟨ tavaline tee, ja veel enam — täna pühitsetakse ⟩see⟨ riides.",
   "tokens": [
     {
       "surface": "ויען",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "preester"
+      "marks": "preestrile"
     },
     {
       "surface": "הכהן",
@@ -60,23 +34,23 @@
     },
     {
       "surface": "כי",
-      "gloss": "tõesti"
+      "gloss": "tõepoolest"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kui ka"
     },
     {
       "surface": "אשה",
-      "gloss": "naine"
+      "gloss": "naised"
     },
     {
       "surface": "עצרה",
-      "gloss": "on kinni hoitud"
+      "gloss": "kinni peetud"
     },
     {
       "surface": "לנו",
-      "gloss": "meil"
+      "gloss": "meie juurest"
     },
     {
       "surface": "כתמול",
@@ -84,23 +58,23 @@
     },
     {
       "surface": "שלשם",
-      "gloss": "esi-eil"
+      "gloss": "ta-eil"
     },
     {
       "surface": "בצאתי",
-      "gloss": "minu väljumisest"
+      "gloss": "kui ma läksin välja"
     },
     {
       "surface": "ויהיו",
-      "gloss": "on olnud"
+      "gloss": "ja nad olid"
     },
     {
       "surface": "כלי",
-      "gloss": "riistad"
+      "gloss": "riided"
     },
     {
       "surface": "הנערים",
-      "gloss": "noorte meeste"
+      "gloss": "noormeeste"
     },
     {
       "surface": "קדש",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "והוא",
-      "gloss": "ja see"
+      "gloss": "aga see"
     },
     {
       "surface": "דרך",
@@ -116,7 +90,7 @@
     },
     {
       "surface": "חל",
-      "gloss": "pühadusetu"
+      "gloss": "tavaline"
     },
     {
       "surface": "ואף",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "sest"
     },
     {
       "surface": "היום",
@@ -136,9 +110,9 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "riistas"
+      "gloss": "riides"
     }
   ],
-  "timestamp": "2026-10-21T00:57:05.032052777Z",
+  "timestamp": "2026-10-21T05:53:35.827978695Z",
   "model": "glm-5.3"
 }

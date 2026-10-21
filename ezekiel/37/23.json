@@ -5,31 +5,15 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אהיה",
-      "rationale": "'mina olen' — sama verbitüvi nagu 2Ms 3:14, eesti keeles kaotatud"
-    }
-  ],
-  "translation": "Ja nad ei rüvasta end enam oma ebajumalatega ega oma jäledustega ega ühegi oma üleastumisega, ja ma päästan nad kõigist nende asupaikadest, kus nad nendes patustasid, ja ma puhastan nad, ja nad saavad mulle rahvaks ja mina olen neile Elohimiks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1155d77f394997fe1785ddd74ac3245a70f75f7251d02b290c1b81557a390890",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/37\/21-24.1792550595743.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad ei saasta end enam oma ebajumalatega ega oma jäledustega ega ühegi oma ülestõusudega; ja ma päästan nad ⟨את⟩ kõigist nende asupaikadest, kus nad neis pattu tegid, ja ma pühendan nad ⟨את⟩, ja nad saavad mulle rahvaks ja mina olen neile Elohimiks.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "ja mitte"
+      "gloss": "ja ei"
     },
     {
       "surface": "יטמאו",
-      "gloss": "nad rüvasta end"
+      "gloss": "saastavad"
     },
     {
       "surface": "עוד",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "פשעיהם",
-      "gloss": "oma üleastumisega"
+      "gloss": "oma ülestõusudega"
     },
     {
       "surface": "והושעתי",
@@ -57,8 +41,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "kõigist nende asupaikadest"
+      "gloss": "⟨את⟩",
+      "marks": "nad"
     },
     {
       "surface": "מכל",
@@ -74,20 +58,20 @@
     },
     {
       "surface": "חטאו",
-      "gloss": "nad patustasid"
+      "gloss": "nad pattu tegid"
     },
     {
       "surface": "בהם",
-      "gloss": "nendes"
+      "gloss": "neis"
     },
     {
       "surface": "וטהרתי",
-      "gloss": "ja ma puhastan"
+      "gloss": "ja ma pühendan"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ nad",
-      "marks": "nad saavad mulle rahvaks"
+      "gloss": "⟨את⟩",
+      "marks": "nad"
     },
     {
       "surface": "והיו",
@@ -107,7 +91,7 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "ma olen"
+      "gloss": "olen"
     },
     {
       "surface": "להם",
@@ -118,6 +102,6 @@
       "gloss": "Elohimiks"
     }
   ],
-  "timestamp": "2026-10-21T02:43:15.744830034Z",
+  "timestamp": "2026-10-21T06:10:01.891470710Z",
   "model": "glm-5.3"
 }

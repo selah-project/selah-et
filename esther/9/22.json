@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מיגון לשמחה \/ מאבל ליום",
-      "rationale": "Kaks pöördpaari kurbus→rõõm, lein→hea päev; eesti keeles jäänud struktuur, mitte kõla."
-    },
-    {
-      "kind": "addition",
-      "subject": "oma",
-      "rationale": "Eesti keel nõuab possessiivi 'oma vaenlaste', 'oma kaaslase'."
-    }
-  ],
-  "translation": "nagu päevad, millal juudid said hingata oma vaenlaste eest, ja kuu, mis pöörati neile kurbusest rõõmuks ja leinast heaks päevaks, et teha ⟨את⟩ need päevad pidusöögi ja rõõmu päevadeks ja osade saatmiseks igaüks oma kaaslasele ja kingitusteks vaestele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "afb35f8b97601cd5d31cf30a07ffa2c173831fda55d7190397f6c413de80bd54",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/9\/21-24.1792556237085.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nagu päevad, mil juudid said hingamist oma vaenlastest, ja kuu, mis pöörati neile kurbusest rõõmuks ja leinast heaks päevaks, et teha ⟨את⟩ need päevad pidustuste ja rõõmu päevadeks, ja et saata osi igaüks oma kaasselle ja kinkideks vaestele.",
   "tokens": [
     {
       "surface": "כימים",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "millal"
+      "gloss": "mil"
     },
     {
       "surface": "נחו",
-      "gloss": "said hingata"
+      "gloss": "said hingamist"
     },
     {
       "surface": "בהם",
-      "gloss": ""
+      "gloss": "nendes"
     },
     {
       "surface": "היהודים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "מאויביהם",
-      "gloss": "oma vaenlaste eest"
+      "gloss": "oma vaenlastest"
     },
     {
       "surface": "והחדש",
@@ -94,7 +73,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ need"
+      "gloss": "⟨את⟩",
+      "marks": "need päevad"
     },
     {
       "surface": "ימי",
@@ -102,7 +82,7 @@
     },
     {
       "surface": "משתה",
-      "gloss": "pidusöögi"
+      "gloss": "pidustuste"
     },
     {
       "surface": "ושמחה",
@@ -110,11 +90,11 @@
     },
     {
       "surface": "ומשלוח",
-      "gloss": "ja saatmiseks"
+      "gloss": "ja et saata"
     },
     {
       "surface": "מנות",
-      "gloss": "osade"
+      "gloss": "osi"
     },
     {
       "surface": "איש",
@@ -122,17 +102,17 @@
     },
     {
       "surface": "לרעהו",
-      "gloss": "oma kaaslasele"
+      "gloss": "oma kaasselle"
     },
     {
       "surface": "ומתנות",
-      "gloss": "ja kingitusteks"
+      "gloss": "ja kinkideks"
     },
     {
       "surface": "לאביונים",
       "gloss": "vaestele"
     }
   ],
-  "timestamp": "2026-10-21T04:17:17.087375028Z",
+  "timestamp": "2026-10-21T06:04:44.575223607Z",
   "model": "glm-5.3"
 }

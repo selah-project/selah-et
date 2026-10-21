@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "seina-pisserdaja",
-      "rationale": "משתין בקיר on idiom meessoost isiku kohta; kirjakeeles on see tõlgitud 'meessoost laps' või 'ükski mees'"
-    },
-    {
-      "kind": "crux",
-      "subject": "גואליו",
-      "rationale": "Kas 'lunastajad' (lähiperekond) või 'veresugulased' - Vulgata ja eesti tavatõlked valivad erinevalt"
-    },
-    {
-      "kind": "addition",
-      "subject": "lauses 'tema' kordus",
-      "rationale": "Eesti keele süntaks vajab selguseks asesõna kordust"
-    }
-  ],
-  "translation": "Ja sündis, kui tema hakkas valitsema, kohe kui tema istus oma troonile, lõi ta ⟨את⟩ kogu Baasa perekonda; tema ei jätnud temale alles ühtegi seina-pisserdajat, ega tema lunastajaid ega tema kaaslast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-kings\/16\/9-12.1792545616853.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündis tema valitsedes, kohe kui ta istus oma troonile, lõi ta ⟨את⟩ kogu Baša koja; ta ei jätnud talle ühtegi seina-pissijat, ega tema lunastajaid ega tema sõpra.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -39,28 +13,28 @@
     },
     {
       "surface": "במלכו",
-      "gloss": "kui tema hakkas valitsema"
+      "gloss": "tema valitsedes"
     },
     {
       "surface": "כשבתו",
-      "gloss": "kui tema istus"
+      "gloss": "kohe kui ta istus"
     },
     {
       "surface": "על",
-      "gloss": "peale"
+      "gloss": "üle"
     },
     {
       "surface": "כסאו",
-      "gloss": "oma troonile"
+      "gloss": "oma trooni"
     },
     {
       "surface": "הכה",
-      "gloss": "lõi"
+      "gloss": "löi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kogu Baasa perekonna"
+      "marks": "kogu Baša koda"
     },
     {
       "surface": "כל",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "בית",
-      "gloss": "perekonda"
+      "gloss": "koda"
     },
     {
       "surface": "בעשא",
-      "gloss": "Baasa"
+      "gloss": "Baša"
     },
     {
       "surface": "לא",
@@ -84,25 +58,25 @@
     },
     {
       "surface": "לו",
-      "gloss": "temale"
+      "gloss": "talle"
     },
     {
       "surface": "משתין",
-      "gloss": "pisserdajat"
+      "gloss": "pissija"
     },
     {
       "surface": "בקיר",
-      "gloss": "seina"
+      "gloss": "seina-pissija"
     },
     {
       "surface": "וגאליו",
       "gloss": "ega tema lunastajaid"
     },
     {
-      "surface": "ורעהu",
-      "gloss": "ega tema kaaslast"
+      "surface": "ורעהו",
+      "gloss": "ega tema sõpra"
     }
   ],
-  "timestamp": "2026-10-21T01:20:16.857439222Z",
+  "timestamp": "2026-10-21T05:50:42.214255364Z",
   "model": "glm-5.3"
 }

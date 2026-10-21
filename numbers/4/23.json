@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kolmekümneaastasest",
-      "rationale": "מבן שלשים on sõnasõnalt 'kolmekümne pojast', eesti kasutab vanusevormi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לצבא צבא",
-      "rationale": "sama juure kordus 'teenistusse teenistama', eesti eraldab kaheks sõnaks"
-    },
-    {
-      "kind": "measurement",
-      "subject": "vanusepiirid",
-      "rationale": "30–50 aastat: leviitide teenistuskohustuse loendusvanus"
-    }
-  ],
-  "translation": "Kolmekümneaastasest ja ülespoole kuni viiekümneaastaseni neid loendama, igaüks, kes tuleb teenistusse väeteenistuseks, et teha tööd kohtumise telgis.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/4\/21-24.1792539754794.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kolmekümneaastasest poolest ja ülespoole kuni viiekümneaastase poisini pead sa loendama ⟨את⟩ neid, kõiki, kes tulevad teenistusse väkke, et teha tööd kokkutulemise telgis.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "vanuses"
+      "gloss": "poolest"
     },
     {
       "surface": "שלשים",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "שנה",
-      "gloss": "aastat"
+      "gloss": "aastane"
     },
     {
       "surface": "ומעלה",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "vanuses"
+      "gloss": "pojani"
     },
     {
       "surface": "חמשים",
@@ -63,24 +37,24 @@
     },
     {
       "surface": "שנה",
-      "gloss": "aastat"
+      "gloss": "aastane"
     },
     {
       "surface": "תפקד",
-      "gloss": "loendama neid"
+      "gloss": "pead sa loendama"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "neid"
+      "marks": "neid, kõiki"
     },
     {
       "surface": "כל",
-      "gloss": "igaüks"
+      "gloss": "kõiki"
     },
     {
       "surface": "הבא",
-      "gloss": "kes tuleb"
+      "gloss": "kes tulevad"
     },
     {
       "surface": "לצבא",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "צבא",
-      "gloss": "väeteenistuseks"
+      "gloss": "väkke"
     },
     {
       "surface": "לעבד",
@@ -104,9 +78,9 @@
     },
     {
       "surface": "מועד",
-      "gloss": "kohtumise"
+      "gloss": "kokkutulemise"
     }
   ],
-  "timestamp": "2026-10-20T23:42:34.795409292Z",
+  "timestamp": "2026-10-21T06:35:55.783692254Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pühenda hävitamisele",
-      "rationale": "חרם tähendab tabustamist, pühendamist hävitamisse; 'hävita täielikult' jätks tabu-mõiste kaotsi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nendega",
-      "rationale": "Heebrea בו on ainsuses 'temaga', viidatud objekt rahvana mitmuses"
-    }
-  ],
-  "translation": "Ja Jahve saatis sind teele ja ütles: Mine ja pühenda hävitamisele ⟨את⟩ need, kes on süüdi teinud, ⟨את⟩ Amaleki, ja võitle nendega, kuni nad on lõpuni hävitatud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/15\/17-20.1792543967099.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve saatis sind teele ja ütles: Mine ja pühenda hävitamisele ⟨את⟩ süüdlased, ⟨את⟩ Amaleki, ja võitle nendega, kuni oled nad hävitanud ⟨את⟩ neid.",
   "tokens": [
     {
       "surface": "וישלחך",
-      "gloss": "ja saatis sind"
+      "gloss": "Ja saatis sind"
     },
     {
       "surface": "יהוה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "בדרך",
-      "gloss": "teele"
+      "gloss": "teel"
     },
     {
       "surface": "ויאמר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "mine"
+      "gloss": "Mine"
     },
     {
       "surface": "והחרמתה",
@@ -55,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "need, kes on süüdi teinud"
+      "marks": "süüdlased"
     },
     {
       "surface": "החטאים",
-      "gloss": "need, kes on süüdi teinud"
+      "gloss": "süüdlased"
     },
     {
       "surface": "את",
@@ -84,14 +63,14 @@
     },
     {
       "surface": "כלותם",
-      "gloss": "nad on lõpuni hävitatud"
+      "gloss": "oled nad hävitanud"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "nemad"
+      "marks": "neid"
     }
   ],
-  "timestamp": "2026-10-21T00:52:47.100886377Z",
+  "timestamp": "2026-10-21T05:52:43.268126158Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti keel vajab kopeelat, heebrea keeles puudub."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Eessõna õlitati, sest eesti öeldis 'raamatus' kannab seda koormad."
-    },
-    {
-      "kind": "measurement",
-      "subject": "kuningate raamat",
-      "rationale": "Kroonikaviide kuningate kronoloogilisele üleskirjutusele."
-    }
-  ],
-  "translation": "Ja ülejäänud tema sõnad ja kõik tema teed, esimesed ja viimased, ennäe, need ⟨on⟩ kirja pandud Juuda ja Jisraeli kuningate raamatus.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b3711484b43a3f66c1b884d6d3d0ebd6b0b25be071d4ec820aa96a5c586ff06d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/28\/25-27.1792558082209.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ülejäänud tema asjad ja kõik tema teed, esimesed ja viimased, ennäe, need ⟨on⟩ kirja pandud Juuda ja Jisraeli kuningate raamatus.",
   "tokens": [
     {
       "surface": "ויתר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "דבריו",
-      "gloss": "tema sõnad"
+      "gloss": "tema asjad"
     },
     {
       "surface": "וכל",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "raamatus"
     },
     {
       "surface": "ספר",
@@ -86,6 +60,6 @@
       "gloss": "ja Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T04:48:02.210651922Z",
+  "timestamp": "2026-10-21T05:55:13.085038676Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אמיתך",
-      "rationale": "KJV\/BSB loevad ähvardusena 'muidu ma tapan sind'; YLT\/JPS küsiva küsimusena 'miks ma peaksin sind tapma?' — heebrea lubab mõlemat."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eesliprefiks sulandub eesti käänetesse ega eraldu sõnana."
-    }
-  ],
-  "translation": "Ja Šaul ütles Mikalile: miks sa nii mind pettisid ja saatsid ära ⟨את⟩ mu vaenlase, et ta pääses? Ja Mikal ütles Šaulile: tema ütles mulle: saada mind minema, miks sind tappa?",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "b57c9e3ddc42367bb016a920bed103aee4c73931e2827e0a995ff34605d74eb8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/19\/17-20.1792544092423.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šaul ütles Miikalile: miks sa nii mind pettisid ja saatsid ⟨את⟩ minu vaenlase ära, et ta pääses? Ja Miikal ütles Šaulile: tema ütles mulle: saada mind ära, miks ma peaksin sind tapma?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "שאול",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "(kellelegi)"
     },
     {
       "surface": "מיכל",
-      "gloss": "Mikalile"
+      "gloss": "Miikal"
     },
     {
       "surface": "למה",
@@ -54,20 +33,20 @@
     },
     {
       "surface": "רמיתני",
-      "gloss": "sind pettis mind"
+      "gloss": "pettisid mind"
     },
     {
       "surface": "ותשלחי",
-      "gloss": "ja saatsid ära"
+      "gloss": "ja saatsid"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mu vaenlase"
+      "marks": "minu vaenlase"
     },
     {
       "surface": "איבי",
-      "gloss": "mu vaenlase"
+      "gloss": "minu vaenlase"
     },
     {
       "surface": "וימלט",
@@ -75,19 +54,19 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "מיכל",
-      "gloss": "Mikal"
+      "gloss": "Miikal"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "(kellelegi)"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaulile"
+      "gloss": "Šaul"
     },
     {
       "surface": "הוא",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "שלחני",
-      "gloss": "saada mind minema"
+      "gloss": "saada mind ära"
     },
     {
       "surface": "למה",
@@ -111,9 +90,9 @@
     },
     {
       "surface": "אמיתך",
-      "gloss": "sind tappa"
+      "gloss": "ma peaksin sind tapma"
     }
   ],
-  "timestamp": "2026-10-21T00:54:52.425206458Z",
+  "timestamp": "2026-10-21T05:53:27.742141398Z",
   "model": "glm-5.3"
 }

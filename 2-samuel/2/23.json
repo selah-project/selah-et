@@ -5,35 +5,19 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "החמש",
-      "rationale": "'viiendas roides' (KJV) vs 'kõht' (ASV) vs 'kubeme' (JPS) — sõna tähendab rasvast kõhtu."
-    }
-  ],
-  "translation": "Aga ta keeldus pööramast, ja Avner lõi teda oda tagumise otsaga kõhtu, nii et oda tuli välja tema seljast, ja ta langes seal ja suri tema all. Ja igaüks, kes tuli kohale, kus Asahel oli langenud ja surnud, jäi seisma.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6c89a07db6279238c712748cd557ac4f3925e8d5739a99cc249f763a8ff0b35a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/2\/21-24.1792544367219.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aga tema keeldus kõrvale pöördumast, ja Avner lõi teda oda tagumise otsaga viiendasse roidesse, nii et oda tuli välja tema seljast, ja ta langes seal ja suri selle all. Ja ⟨oli nii⟩: igaüks, kes tuli kohale, kus Asahel oli langenud ja surnud, jäi seisma.",
   "tokens": [
     {
       "surface": "וימאן",
-      "gloss": "aga keeldus"
+      "gloss": "keeldus"
     },
     {
       "surface": "לסור",
-      "gloss": "pööramast"
+      "gloss": "kõrvale pöördumast"
     },
     {
       "surface": "ויכהו",
-      "gloss": "ja lõi teda"
+      "gloss": "löi teda"
     },
     {
       "surface": "אבנר",
@@ -49,20 +33,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "-sse"
+      "gloss": "viiendasse roidesse"
     },
     {
       "surface": "החמש",
-      "gloss": "kõhtu"
-    },
-    {
-      "surface": "תצא",
-      "gloss": "ja tuli välja",
-      "gloss_alt": null
+      "gloss": "⟨roie⟩"
     },
     {
       "surface": "ותצא",
-      "gloss": "ja tuli välja"
+      "gloss": "tuli välja"
     },
     {
       "surface": "החנית",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "ויפל",
-      "gloss": "ja ta langes"
+      "gloss": "lankes"
     },
     {
       "surface": "שם",
@@ -82,15 +61,15 @@
     },
     {
       "surface": "וימת",
-      "gloss": "ja suri"
+      "gloss": "suri"
     },
     {
       "surface": "תחתו",
-      "gloss": "tema all"
+      "gloss": "selle all"
     },
     {
       "surface": "ויהי",
-      "gloss": "ja sündis"
+      "gloss": "⟨oli nii⟩"
     },
     {
       "surface": "כל",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "-le"
+      "gloss": "kohale"
     },
     {
       "surface": "המקום",
@@ -126,13 +105,13 @@
     },
     {
       "surface": "וימת",
-      "gloss": "ja surnud"
+      "gloss": "suri"
     },
     {
       "surface": "ויעמדו",
-      "gloss": "jäi seisma"
+      "gloss": "jäid seisma"
     }
   ],
-  "timestamp": "2026-10-21T00:59:27.222113561Z",
+  "timestamp": "2026-10-21T06:00:28.578799457Z",
   "model": "glm-5.3"
 }

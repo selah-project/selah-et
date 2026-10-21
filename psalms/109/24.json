@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 109,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כחש",
-      "rationale": "põhiline tähendus 'valetama\/eitama'; siin kehalises mõttes 'kahanema, rasvust kaotama'"
-    }
-  ],
-  "translation": "Mu põlved on kõigel valusad paastust, ja mu liha ⟨on⟩ kahaneva rasvata.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/109\/21-24.1792553870247.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mu põlved komistavad paastust ja mu liha ⟨on⟩ lootusetult ilma rasvast",
   "tokens": [
     {
       "surface": "ברכי",
       "gloss": "mu põlved"
     },
     {
-      "surface": "כשלu",
-      "gloss": "on kõigel valusad"
+      "surface": "כשלו",
+      "gloss": "komistavad"
     },
     {
       "surface": "מצום",
@@ -41,13 +25,13 @@
     },
     {
       "surface": "כחש",
-      "gloss": "kahaneva"
+      "gloss": "lootusetult ilma"
     },
     {
       "surface": "משמן",
-      "gloss": "rasvata"
+      "gloss": "rasvast"
     }
   ],
-  "timestamp": "2026-10-21T03:37:50.248591016Z",
+  "timestamp": "2026-10-21T06:37:21.827674432Z",
   "model": "glm-5.3"
 }

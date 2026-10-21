@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כל ברכים תלכנה מים",
-      "rationale": "Sõnasõnalt 'kõik põlved käivad vett' — ehk tilguvad nagu vesi, hirmust kontrolli kaotus."
-    },
-    {
-      "kind": "elision",
-      "subject": "על מה",
-      "rationale": "'Mispärast' — eesti keeles katab ühe sõnaga."
-    }
-  ],
-  "translation": "Ja sündigu: kui nad ütlevad sulle: Miks sa ohkad? — siis ütle: Kuulduse tõttu, sest see tuleb, ja iga süda sulab, ja kõik käed lõtvuvad, ja iga ruahh nõrkestub, ja kõik põlved tilguvad vett. Vaata, see tuleb ja see saab tehtud — Adonai Jahve kõne.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "a10d42eeb63e6229eba5cbd5ce9b5ddf8664549a8e04c0dfc3bc1b9974d810a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/21\/9-12.1792550152791.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sündigu: kui nad ütlevad sinule: millepärast sa ohkad?, siis ütled sina: kuuldu tõttu, sest see tuleb, ja sulab iga süda, ja lõtvub iga käed, ja iga ruahh nõrkestub, ja kõik põlved jooksevad vett. Vaata, see tuleb ja saab ⟨see⟩ — ütleb Adonai Jahve.",
   "tokens": [
     {
       "surface": "והיה",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אליך",
-      "gloss": "sulle"
+      "gloss": "sinule"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "millepärast"
     },
     {
       "surface": "מה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sa"
+      "gloss": "sina"
     },
     {
       "surface": "נאנח",
@@ -62,19 +41,19 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "siis ütle"
+      "gloss": "ja ütled"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "-"
     },
     {
       "surface": "שמועה",
-      "gloss": "kuulduse"
+      "gloss": "kuuldu"
     },
     {
       "surface": "כי",
-      "gloss": "tõttu, sest"
+      "gloss": "sest"
     },
     {
       "surface": "באה",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "ורפו",
-      "gloss": "ja lõtvuvad"
+      "gloss": "ja lõtvub"
     },
     {
       "surface": "כל",
@@ -126,7 +105,7 @@
     },
     {
       "surface": "תלכנה",
-      "gloss": "tilguvad"
+      "gloss": "jooksevad"
     },
     {
       "surface": "מים",
@@ -142,11 +121,11 @@
     },
     {
       "surface": "ונהיתה",
-      "gloss": "ja saab tehtud"
+      "gloss": "ja saab"
     },
     {
       "surface": "נאם",
-      "gloss": "kõne"
+      "gloss": "ütleb"
     },
     {
       "surface": "אדני",
@@ -157,6 +136,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-21T02:35:52.793319298Z",
+  "timestamp": "2026-10-21T06:09:08.350775712Z",
   "model": "glm-5.3"
 }

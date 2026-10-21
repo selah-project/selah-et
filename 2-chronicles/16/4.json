@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "'kuulis Asat' kannab suuna juba käändes"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מסכנות ערי נפתלי",
-      "rationale": "Construct-ahel 'varulinnad Naftali linnadest' — linnustik-loend, korduv ערי 'linna'"
-    }
-  ],
-  "translation": "Ja Ben-Hadad kuulas kuningas Asat ning saatis oma ⟨את⟩ väepealikud, kes temale kuulusid, Jisraeli linnade vastu; ja nad lõid ⟨את⟩ Ijoni ja ⟨את⟩ Dani ning ⟨את⟩ Abel-Majimi ja ⟨את⟩ kõik Naftali linnade varuladnu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "d3831cefd66f3f17cac39da0ac006a5c564b300585b67c230e9a06c21a5c166a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/16\/1-4.1792557892007.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Ben-Hadad kuulis kui Asa, ⟨ja⟩ saatis ⟨את⟩ oma väepealikud, kes olid tema käe all, Jisraeli linnade vastu; ja nad lõid ⟨את⟩ Ijoni ja ⟨את⟩ Dani ja ⟨את⟩ Abel-Majimi ja ⟨את⟩ kõik Naftali linnade lao-tagi.",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "ja kuulas"
+      "gloss": "ja kuulis"
     },
     {
       "surface": "בן",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "kui"
     },
     {
       "surface": "המלך",
-      "gloss": "kuningas"
+      "gloss": "Asa"
     },
     {
       "surface": "אסא",
-      "gloss": "Asat"
+      "gloss": "kuningas"
     },
     {
       "surface": "וישלח",
@@ -59,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "väepealikud"
+      "marks": "oma väepealikud"
     },
     {
       "surface": "שרי",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "temale kuulusid"
+      "gloss": "tema käe all"
     },
     {
       "surface": "אל",
@@ -127,7 +106,7 @@
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kõik varulinnad"
+      "marks": "kõik lao-tagi"
     },
     {
       "surface": "כל",
@@ -135,17 +114,17 @@
     },
     {
       "surface": "מסכנות",
-      "gloss": "varulinnad"
+      "gloss": "lao-tagi"
     },
     {
       "surface": "ערי",
-      "gloss": "linnad"
+      "gloss": "linnade"
     },
     {
       "surface": "נפתלי",
       "gloss": "Naftali"
     }
   ],
-  "timestamp": "2026-10-21T04:44:52.011286452Z",
+  "timestamp": "2026-10-21T05:54:41.237567930Z",
   "model": "glm-5.3"
 }

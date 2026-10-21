@@ -5,37 +5,11 @@
   "book": "job",
   "lang": "et",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אֵל (suund)",
-      "rationale": "teine אל on suunaline 'eluti'; eesti üldand sulab selle prepositsiooni üleandmise tähenduse sisse"
-    },
-    {
-      "kind": "hapax",
-      "subject": "יָרַט",
-      "rationale": "'peadligi paiskama' — haruldane tegusõna, sõna-sõnalt 'jooksuga pea ees tõugata'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kõlvatud",
-      "rationale": "עֲוִיל on 'perversne, kõver'; tõlked kasutavad sageli lihtsalt 'julm'"
-    }
-  ],
-  "translation": "El annab mind üle kõlvatutele ja kurjade kätte ta mind peadligi paiskab.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c70bcd1716e6fc2653a632d76a53c18aee3266788fcff44c0bde4e049d1d0b37",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/job\/16\/10-11.1792558667788.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "El ⟨את⟩ minu loovutab pöörasesse ja koletute kätte ⟨mind⟩ alla, kes mind peadegu heidab.",
   "tokens": [
     {
       "surface": "יסגירני",
-      "gloss": "annab mind üle"
+      "gloss": "loovutab ⟨את⟩ minu"
     },
     {
       "surface": "אל",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "pöörasesse"
     },
     {
       "surface": "עויל",
-      "gloss": "kõlvatutele"
+      "gloss": "pöörane"
     },
     {
       "surface": "ועל",
-      "gloss": "ja"
+      "gloss": "ja alla"
     },
     {
       "surface": "ידי",
@@ -59,13 +33,13 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "kurjade"
+      "gloss": "koletute"
     },
     {
       "surface": "ירטני",
-      "gloss": "ta mind peadligi paiskab"
+      "gloss": "peadegu heidab mind"
     }
   ],
-  "timestamp": "2026-10-21T04:57:47.792408453Z",
+  "timestamp": "2026-10-21T06:22:57.909934204Z",
   "model": "glm-5.3"
 }

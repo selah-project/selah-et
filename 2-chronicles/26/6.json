@@ -5,23 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חומת…חומת…חומת",
-      "rationale": "kolmekordne kordus — müür, müür, müür — rütmiline loetelu"
-    }
-  ],
-  "translation": "Ja ta läks välja ja sõdis pliistlastega ning lõi läbi Gat'i müüri ja Jabne müüri ja Ashdodi müüri; ja ta ehitas linnu Ashdodi maal ja pliistlaste keskel.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "50a683df0e5585681c2c5294b6b8ee1de9309486b130b38594e3694a3e2f94eb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/26\/5-8.1792558025989.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta läks välja ja sõdis pliistlaste vastu ning murdis läbi ⟨את⟩ Gat-i müüri ja ⟨את⟩ Javne müüri ja ⟨את⟩ Ašdodi müüri; ja ta ehitas linnu Ašdodis ja pliistlaste maal.",
   "tokens": [
     {
       "surface": "ויצא",
@@ -33,16 +17,16 @@
     },
     {
       "surface": "בפלשתים",
-      "gloss": "pliistlastega"
+      "gloss": "pliistlaste vastu"
     },
     {
       "surface": "ויפרץ",
-      "gloss": "ja lõi läbi"
+      "gloss": "ja murdis läbi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gat'i müüri"
+      "marks": "Gat-i müüri"
     },
     {
       "surface": "חומת",
@@ -50,12 +34,12 @@
     },
     {
       "surface": "גת",
-      "gloss": "Gat'i"
+      "gloss": "Gat"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Jabne müüri"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Javne müüri"
     },
     {
       "surface": "חומת",
@@ -63,12 +47,12 @@
     },
     {
       "surface": "יבנה",
-      "gloss": "Jabne"
+      "gloss": "Javne"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Ashdodi müüri"
+      "gloss": "ja ⟨את⟩",
+      "marks": "Ašdodi müüri"
     },
     {
       "surface": "חומת",
@@ -76,7 +60,7 @@
     },
     {
       "surface": "אשדוד",
-      "gloss": "Ashdodi"
+      "gloss": "Ašdodi"
     },
     {
       "surface": "ויבנה",
@@ -88,13 +72,13 @@
     },
     {
       "surface": "באשדוד",
-      "gloss": "Ashdodi maal"
+      "gloss": "Ašdodis"
     },
     {
       "surface": "ובפלשתים",
-      "gloss": "ja pliistlaste keskel"
+      "gloss": "ja pliistlaste maal"
     }
   ],
-  "timestamp": "2026-10-21T04:47:05.990871417Z",
+  "timestamp": "2026-10-21T05:55:07.556299344Z",
   "model": "glm-5.3"
 }

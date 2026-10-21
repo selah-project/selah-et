@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויברך ברוך",
-      "rationale": "Infinitivus absolutus – 'õnnistas õnnistades': sama juur kaks korda, eesti keeles ümber kirjutatud 'õnnistas õnnistusega'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ויברך ברוך אתכם",
-      "rationale": "Kelle tegu on? KJV 'tema õnnistas sind ikka ja jälle' (Bilam) vs lugemine, kus Jahve keeldus kuulmast ja seejärel õnnistus tuli – heebrea laseb mõlemat lugeda."
-    }
-  ],
-  "translation": "Aga ma ei tahtnud kuulata Bilamit, ja ta õnnistas teid õnnistusega, ja ma päästsin teid tema käest.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/24\/9-12.1792541764485.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma ei tahtnud kuulata Bileami, vaid ta õnnistas teid õnnistusega, ja ma päästsin ⟨את⟩ teid tema käest.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "aga ei"
+      "gloss": "ja ei"
     },
     {
       "surface": "אביתי",
-      "gloss": "tahtnud"
+      "gloss": "ma tahtnud"
     },
     {
       "surface": "לשמע",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "לבלעם",
-      "gloss": "Bilamit"
+      "gloss": "Bileami"
     },
     {
       "surface": "ויברך",
-      "gloss": "ja ta õnnistas"
+      "gloss": "ta õnnistas"
     },
     {
       "surface": "ברוך",
@@ -54,8 +33,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
-      "marks": "teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid (päästsin objekt)"
     },
     {
       "surface": "ואצל",
@@ -63,14 +42,14 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ teid",
-      "marks": "teid"
+      "gloss": "⟨את⟩",
+      "marks": "teid tema käest"
     },
     {
       "surface": "מידו",
       "gloss": "tema käest"
     }
   ],
-  "timestamp": "2026-10-21T00:16:04.486051665Z",
+  "timestamp": "2026-10-21T06:25:00.678518223Z",
   "model": "glm-5.3"
 }

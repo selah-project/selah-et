@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "imperatiivid",
-      "rationale": "Kolm käsku — vaata, kuula, pane süda — köidavad kuulaja enne nägemuse kirjeldust"
-    },
-    {
-      "kind": "you",
-      "subject": "inimesepoeg",
-      "rationale": "Otsene pöördumine Hesekieli poole: 'inimesepoeg', käsud teises isikus"
-    },
-    {
-      "kind": "substitution",
-      "subject": "linast nöör",
-      "rationale": "פתיל פשתים on tross\/nöör pikamaa mõõtmiseks, rõõgas lühimaa jaoks — kaks eri mõõtu"
-    }
-  ],
-  "translation": "Ja mees rääkis minuga: inimesepoeg, vaata oma silmadega ja oma kõrvadega kuula ja pane oma süda kõigele, mida mina sind näitan ⟨את⟩, sest selleks, et sulle seda näidata, sind siia toodi; kuuluta ⟨את⟩ kõik, mida sa näed, Jisraeli kojale.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "84f70214e5fe999decba9cfc87d9b3f554c983178566108eafeb60697f29857e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/40\/1-4.1792550709678.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja mees rääkis minuga: inimesepoeg, vaata oma silmadega ja kuula oma kõrvadega ning pane oma süda kõigele, mida mina sulle ⟨את⟩ näitan, sest selleks, et sulle seda näidata, sind ⟨on⟩ siia toodud; kuuluta kõik, mida sa näed, Jisraeli kojale.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": ""
+      "gloss": "inimese"
     },
     {
       "surface": "ראה",
@@ -95,8 +69,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩",
-      "marks": "sind"
+      "gloss": "⟨את⟩ sulle",
+      "marks": "sulle"
     },
     {
       "surface": "כי",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "הבאתה",
-      "gloss": "sind siia toodi"
+      "gloss": "siia toodud"
     },
     {
       "surface": "הנה",
@@ -152,6 +126,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T02:45:09.679987878Z",
+  "timestamp": "2026-10-21T06:10:01.023456405Z",
   "model": "glm-5.3"
 }

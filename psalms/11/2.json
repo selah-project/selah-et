@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "et",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידרכון",
-      "rationale": "דרך tähendab nii 'astuma' kui 'vibu tallates vibutama' — pilt jalaga vibutallavast lasust, eesti keeles 'painutama'"
-    },
-    {
-      "kind": "elision",
-      "subject": "במו",
-      "rationale": "tugevdatud eessõna 'just ... sees' ilma eraldi vasteta"
-    }
-  ],
-  "translation": "Sest vaata, õelad painutavad vine, nad seavad oma noole nöörile, et lasta pimeduses sirge südamega lastele.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/psalms\/11\/1-4.1792552344549.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest vaata, õelad Tallavad ⟨את⟩ vibu, nad on valmis pannud oma noole keecele, et lasta pimeduses otse-südameste pihta.",
   "tokens": [
     {
       "surface": "כי",
@@ -42,15 +21,20 @@
     },
     {
       "surface": "ידרכון",
-      "gloss": "painutavad"
+      "gloss": "Tallavad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vibu"
     },
     {
       "surface": "קשת",
-      "gloss": "vine"
+      "gloss": "vibu"
     },
     {
       "surface": "כוננו",
-      "gloss": "seavad"
+      "gloss": "nad on valmis pannud"
     },
     {
       "surface": "חצם",
@@ -58,11 +42,11 @@
     },
     {
       "surface": "על",
-      "gloss": "nöörile"
+      "gloss": "…-cele"
     },
     {
       "surface": "יתר",
-      "gloss": "nöörile"
+      "gloss": "keel"
     },
     {
       "surface": "לירות",
@@ -70,21 +54,17 @@
     },
     {
       "surface": "במו",
-      "gloss": ""
+      "gloss": "…s"
     },
     {
       "surface": "אפל",
-      "gloss": "pimeduses"
+      "gloss": "pimeduse"
     },
     {
-      "surface": "לישרי",
-      "gloss": "sirge"
-    },
-    {
-      "surface": "לב",
-      "gloss": "südamega lastele"
+      "surface": "לישרי לב",
+      "gloss": "otse-südameste pihta"
     }
   ],
-  "timestamp": "2026-10-21T03:12:24.551159567Z",
+  "timestamp": "2026-10-21T06:37:45.251425857Z",
   "model": "glm-5.3"
 }

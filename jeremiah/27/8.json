@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אפקד — 'nuhtlen'",
-      "rationale": "Tõeline 'külastan\/päran arve' — פקד mahukaim tähendus; 'nuhtlen' kitsam valik."
-    },
-    {
-      "kind": "idiom",
-      "subject": "kaela ikkesse andmine",
-      "rationale": "Heebrea pilt: kael ike alla — eestis samuti arusaadav, pilt säilitatud."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "iketest teenimine",
-      "rationale": "Salmiahel 27:2–8 kannab ike-kujundit läbi kogu peatüki; siin jõuab see karistuseni."
-    }
-  ],
-  "translation": "Ja see saabub: rahvas ja kuningriik, kes ei teeni teda — ⟨את⟩ Nevukadnetsarit, Babüloni kuningat — ja kes ei pane ⟨את⟩ oma kaela Babüloni kuninga ikkesse, seda rahvast ma nuhtlen mõõga, nälja ja katkuga, ütleb Jahve, kuni ma nad olen tema käe läbi hävitanud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6daa34ae43df54ac910cc02c1020e968402961072fa170fadbff0c42b14dfd21",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/27\/5-8.1792548825952.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja see juhtugu: see rahvas ja see kuningriik, kes ei teeni ⟨את⟩ teda — ⟨את⟩ Nebukadnetsarit, Baabeli kuningat — ja kes ei pane ⟨את⟩ oma kaela Baabeli kuninga ikkesse, mõõga ja nälja ja katkuga külastan ma seda rahvast, ütleb Jahve, kuni ma olen ⟨את⟩ nad lõpuni viinud tema kätte.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Ja see saabub"
+      "gloss": "ja see juhtugu"
     },
     {
       "surface": "הגוי",
-      "gloss": "rahvas"
+      "gloss": "see rahvas"
     },
     {
       "surface": "והממלכה",
-      "gloss": "ja kuningriik"
+      "gloss": "ja see kuningriik"
     },
     {
       "surface": "אשר",
@@ -60,16 +34,16 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ teda",
-      "marks": "teda"
+      "marks": "teda — Nebukadnetsarit"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nevukadnetsarit"
+      "marks": "Nebukadnetsarit"
     },
     {
       "surface": "נבוכדנאצר",
-      "gloss": "Nevukadnetsarit"
+      "gloss": "Nebukadnetsarit"
     },
     {
       "surface": "מלך",
@@ -77,12 +51,12 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babüloni"
+      "gloss": "Baabeli"
     },
     {
       "surface": "ואת",
       "gloss": "ja ⟨את⟩",
-      "marks": "kes ei pane oma kaela"
+      "marks": "kes (ei pane kaela ikkesse)"
     },
     {
       "surface": "אשר",
@@ -115,7 +89,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Babüloni"
+      "gloss": "Baabeli"
     },
     {
       "surface": "בחרב",
@@ -123,7 +97,7 @@
     },
     {
       "surface": "וברעב",
-      "gloss": "nälja"
+      "gloss": "ja nälja"
     },
     {
       "surface": "ובדבר",
@@ -131,7 +105,7 @@
     },
     {
       "surface": "אפקד",
-      "gloss": "ma nuhtlen"
+      "gloss": "külastan"
     },
     {
       "surface": "על",
@@ -139,7 +113,7 @@
     },
     {
       "surface": "הגוי",
-      "gloss": "rahva"
+      "gloss": "seda rahvast"
     },
     {
       "surface": "ההוא",
@@ -159,18 +133,18 @@
     },
     {
       "surface": "תמי",
-      "gloss": "ma olen hävitanud"
+      "gloss": "lõpuni viinud"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid",
-      "marks": "neid"
+      "gloss": "⟨את⟩ nad",
+      "marks": "nad — tema kätte"
     },
     {
       "surface": "בידו",
-      "gloss": "tema käe läbi"
+      "gloss": "tema kätte"
     }
   ],
-  "timestamp": "2026-10-21T02:13:45.955038463Z",
+  "timestamp": "2026-10-21T06:20:40.390381860Z",
   "model": "glm-5.3"
 }

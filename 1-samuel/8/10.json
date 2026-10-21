@@ -5,23 +5,7 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eessõna 'kellelegi' sulandub eesti sihutisse 'rahvale', eraldi sõnata."
-    }
-  ],
-  "translation": "Ja Šemuuel rääkis ⟨את⟩ kõik Jahve sõnad rahvale, kes ⟨את⟩ temalt kuningat palusid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/8\/9-12.1792543815453.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Šemuël rääkis ⟨את⟩ kõik Jahve sõnad rahvale, kes küsisid ⟨את⟩ temalt kuningas.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -29,12 +13,12 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Šemuuel"
+      "gloss": "Šemuël"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik"
+      "marks": "kõik Jahve sõnad"
     },
     {
       "surface": "כל",
@@ -50,25 +34,25 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "העם",
       "gloss": "rahvale"
     },
     {
+      "surface": "העם",
+      "gloss": "rahvas"
+    },
+    {
       "surface": "השאלים",
-      "gloss": "kes palusid"
+      "gloss": "kes küsisid"
     },
     {
       "surface": "מאתו",
-      "gloss": "⟨את⟩ temalt"
+      "gloss": "temalt ⟨את⟩"
     },
     {
       "surface": "מלך",
-      "gloss": "kuningat"
+      "gloss": "kuningas"
     }
   ],
-  "timestamp": "2026-10-21T00:50:15.456185908Z",
+  "timestamp": "2026-10-21T05:54:00.237053382Z",
   "model": "glm-5.3"
 }

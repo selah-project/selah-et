@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שפות בקר",
-      "rationale": "'lehmajuust veistest' vs 'piimakarja juust' (ASV) — hapax-lemma שפות, ainult siin Tanahhis."
-    },
-    {
-      "kind": "hapax",
-      "subject": "ושפות",
-      "rationale": "Lemma שפות esineb Tanahhis ainult selles salmis."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kõrbes",
-      "rationale": "מדבר on karjamaa\/lahtine väli, mis kõrbeks muutub; 'kõrb' on kitsendus."
-    }
-  ],
-  "translation": "ja mett ja võid ja lambad-kitsed ning lehmajuustu veistest — nad tõid ette Davidele ja rahvale, kes oli ⟨temaga⟩, et süüa, sest nad ütlesid: rahvas on näljane ja väsinud ja janune kõrbes.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ad80ee17e5ed0af436d794e08767f346f10d018b304876747af69c815cd1646b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-samuel\/17\/29-29.1792544827213.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja mett ja võid ja lambad-kitsed ja veiste juustu — need toodi ligi Davidi juurde ja rahva juurde, kes ⟨temaga⟩ oli, et süüa; sest nad ütlesid: rahvas on näljas ja väsinud ja januneb kõrbes.",
   "tokens": [
     {
       "surface": "ודבש",
@@ -47,23 +21,23 @@
     },
     {
       "surface": "ושפות",
-      "gloss": "ja lehmajuustu"
+      "gloss": "ja juustu"
     },
     {
       "surface": "בקר",
-      "gloss": "veistest"
+      "gloss": "veiste"
     },
     {
       "surface": "הגישו",
-      "gloss": "nad tõid ette"
+      "gloss": "need toodi ligi"
     },
     {
       "surface": "לדוד",
-      "gloss": "Davidele"
+      "gloss": "Davidi juurde"
     },
     {
       "surface": "ולעם",
-      "gloss": "ja rahvale"
+      "gloss": "ja rahva juurde"
     },
     {
       "surface": "אשר",
@@ -71,8 +45,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "temaga"
+      "gloss": "⟨את⟩ tema"
     },
     {
       "surface": "לאכול",
@@ -92,7 +65,7 @@
     },
     {
       "surface": "רעב",
-      "gloss": "näljane"
+      "gloss": "on näljas"
     },
     {
       "surface": "ועיף",
@@ -100,13 +73,13 @@
     },
     {
       "surface": "וצמא",
-      "gloss": "ja janune"
+      "gloss": "ja januneb"
     },
     {
       "surface": "במדבר",
       "gloss": "kõrbes"
     }
   ],
-  "timestamp": "2026-10-21T01:07:07.214230138Z",
+  "timestamp": "2026-10-21T05:59:34.023161333Z",
   "model": "glm-5.3"
 }

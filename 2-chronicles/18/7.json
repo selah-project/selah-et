@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "heebrea kopeerata; 'tema on Miikja' nõuab eesti keeles olema-verbi"
-    },
-    {
-      "kind": "elision",
-      "subject": "לטובה...לרעה käänete struktuur",
-      "rationale": "'hüvaks\/kurjaks' säilitab heebrea eesmärgikäände kuju, kuid loomulik eesti ütleks 'head\/kurja'"
-    },
-    {
-      "kind": "crux",
-      "subject": "מאתו",
-      "rationale": "aleph-tav järelpräfix; tähistab siin küsitud objekti (Jahve sõna), mitte lauseliiget tervikuna"
-    }
-  ],
-  "translation": "Ja Jisraeli kuningas ütles Jehošafatile: on veel üks mees, kellelt küsida ⟨את⟩ Jahvet ⟨את⟩ temalt; ja mina vihkan teda, sest tema ei prohveteeri minu kohta hüvaks — sest kõik tema päevad kurjaks. Tema ⟨on⟩ Miikja, Jimla poeg. Ja Jehošafat ütles: ärgu kuningas nii rääkigu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/18\/5-8.1792557954599.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jisraeli kuningas ütles Jehošafatile: veel ⟨on⟩ üks mees, kellelt Jahvet ⟨את⟩ küsida, aga mina vihkan teda, sest tema ei prohveti minu kohta head, sest kogu oma päevi (ennustab) kurja — tema ⟨on⟩ Mikaju, Jimla poeg. Ja Jehošafat ütles: ärgu kuningas nii räägigu.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ülempreester"
     },
     {
       "surface": "יהושפט",
@@ -72,7 +46,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve"
+      "marks": "Jahvet"
     },
     {
       "surface": "יהוה",
@@ -80,11 +54,12 @@
     },
     {
       "surface": "מאתו",
-      "gloss": "temalt ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "tema"
     },
     {
       "surface": "ואני",
-      "gloss": "ja mina"
+      "gloss": "aga mina"
     },
     {
       "surface": "שנאתיהו",
@@ -100,7 +75,7 @@
     },
     {
       "surface": "מתנבא",
-      "gloss": "prohveteeri"
+      "gloss": "prohveti"
     },
     {
       "surface": "עלי",
@@ -108,7 +83,7 @@
     },
     {
       "surface": "לטובה",
-      "gloss": "hüvaks"
+      "gloss": "head"
     },
     {
       "surface": "כי",
@@ -116,15 +91,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "kõik"
+      "gloss": "kogu"
     },
     {
       "surface": "ימיו",
-      "gloss": "tema päevad"
+      "gloss": "oma päevi"
     },
     {
       "surface": "לרעה",
-      "gloss": "kurjaks"
+      "gloss": "kurja"
     },
     {
       "surface": "הוא",
@@ -132,7 +107,7 @@
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Miikja"
+      "gloss": "Mikaju"
     },
     {
       "surface": "בן",
@@ -156,7 +131,7 @@
     },
     {
       "surface": "יאמר",
-      "gloss": "rääkigu"
+      "gloss": "räägigu"
     },
     {
       "surface": "המלך",
@@ -167,6 +142,6 @@
       "gloss": "nii"
     }
   ],
-  "timestamp": "2026-10-21T04:45:54.600591269Z",
+  "timestamp": "2026-10-21T05:54:42.526686563Z",
   "model": "glm-5.3"
 }

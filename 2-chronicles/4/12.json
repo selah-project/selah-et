@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "kaks ja kaks",
-      "rationale": "Kahekordne loendus: kaks sammas, kaks kuulit, kaks võrestikku."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kattsammas \/ kuul",
-      "rationale": "כתרת on samba kattetalg (kapiteel); גלה on 'ümar nõu\/kuul' — 'pommel' (KJV) on tõlgendus."
-    }
-  ],
-  "translation": "kaks samast, ja ‹kuulid›, ja kattsammaspad nende kahe samma pea kohal, ja kaks võrestikku kahe kuuli katmiseks, mis on kattsammaspatel, mis on kahe samma pea kohal.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/4\/9-12.1792557644416.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "kaks sammast, ja kumerad nõud, ja kapiteelid kahe samba pääl, kaks võrgustikku katma ⟨את⟩ kaht kumerat nõudu kapiteelidel, mis on sammaste pääl.",
   "tokens": [
     {
       "surface": "עמודים",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "והגלות",
-      "gloss": "ja kuulid"
+      "gloss": "ja kumerad nõud"
     },
     {
       "surface": "והכתרות",
-      "gloss": "ja kattsammaspad"
+      "gloss": "ja kapiteelid"
     },
     {
       "surface": "על",
-      "gloss": "kohal"
+      "gloss": "pääl"
     },
     {
       "surface": "ראש",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "העמודים",
-      "gloss": "kõigi sammaste"
+      "gloss": "sambad"
     },
     {
       "surface": "שתים",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "והשבכות",
-      "gloss": "ja võrestikud"
+      "gloss": "ja võrgustikud"
     },
     {
       "surface": "שתים",
@@ -70,12 +49,12 @@
     },
     {
       "surface": "לכסות",
-      "gloss": "katmiseks"
+      "gloss": "katma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kaks kuuli"
+      "marks": "kaht kumerat nõudu"
     },
     {
       "surface": "שתי",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "גלות",
-      "gloss": "kuuli"
+      "gloss": "kumerad nõud"
     },
     {
       "surface": "הכתרות",
-      "gloss": "kattsammaspatted"
+      "gloss": "kapiteelid"
     },
     {
       "surface": "אשר",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "על",
-      "gloss": "kohal"
+      "gloss": "pääl"
     },
     {
       "surface": "ראש",
@@ -103,9 +82,9 @@
     },
     {
       "surface": "העמודים",
-      "gloss": "sammaste"
+      "gloss": "sambad"
     }
   ],
-  "timestamp": "2026-10-21T04:40:44.419194119Z",
+  "timestamp": "2026-10-21T05:56:19.437965807Z",
   "model": "glm-5.3"
 }

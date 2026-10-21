@@ -5,37 +5,16 @@
   "book": "leviticus",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שרף\/ישרף",
-      "rationale": "Juure kordus: 'ta põletab' ja 'ta põletatakse' — aktiivi ja passiivi peegeldus säilitatud."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Aleph-tav sufiksiga (אתו) on üheks tõlgitud 'ta', marker pole eraldi näidatav."
-    }
-  ],
-  "translation": "ja ta viib välja ⟨את⟩ kogu vasika väljapoole laagrit, puhtasse paika, tuhapildumise kohale, ja põletab ta puidul tulega — tuhapildumise kohal ta põletatakse.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/leviticus\/4\/9-12.1792539144234.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta viib ⟨את⟩ kogu selle pulli väljapoonda laagrist, puhtasse paika, tuhapildumise kohale, ja põletab ⟨את⟩ teda puidul tulega; tuhapildumise kohal põletatakse ta.",
   "tokens": [
     {
       "surface": "והוציא",
-      "gloss": "ja ta viib välja"
+      "gloss": "ja ta viib"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kogu vasika"
+      "marks": "kogu selle pulli"
     },
     {
       "surface": "כל",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "הפר",
-      "gloss": "vasika"
+      "gloss": "selle pulli"
     },
     {
       "surface": "אל",
-      "gloss": "väljapoole"
+      "gloss": "väljapoonda"
     },
     {
       "surface": "מחוץ",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "laagrit"
+      "gloss": "laagrist"
     },
     {
       "surface": "אל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "טהור",
-      "gloss": "puhtasse"
+      "gloss": "puhas"
     },
     {
       "surface": "אל",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "tuhapildumise"
+      "gloss": "tuhapildumise kohale"
     },
     {
       "surface": "הדשן",
@@ -87,7 +66,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ta"
+      "gloss": "⟨את⟩ teda",
+      "marks": "teda (pulli)"
     },
     {
       "surface": "על",
@@ -107,7 +87,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "tuhapildumise"
+      "gloss": "tuhapildumise kohal"
     },
     {
       "surface": "הדשן",
@@ -115,9 +95,9 @@
     },
     {
       "surface": "ישרף",
-      "gloss": "ta põletatakse"
+      "gloss": "põletatakse ta"
     }
   ],
-  "timestamp": "2026-10-20T23:32:24.235819792Z",
+  "timestamp": "2026-10-21T06:30:00.138004300Z",
   "model": "glm-5.3"
 }

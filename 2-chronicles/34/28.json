@@ -5,36 +5,15 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל (teine)",
-      "rationale": "korduv 'juurde' enne 'hauadesse' jäeti eesti sujuvuse huvides esitamata"
-    },
-    {
-      "kind": "addition",
-      "subject": "oma",
-      "rationale": "'oma isade' ja 'oma hauadesse' — eesti omastav side vajab omadussõna, heebreas omistub see isikuliste sufiksitega"
-    }
-  ],
-  "translation": "Vaata, ma kogun sinu oma isade juurde ja sinu kogutakse oma hauadesse rahus, ega näe su silmed kogu seda halba, mida ma toon sellele paigale ja selle asukatele. Ja nad tõid ⟨את⟩ kuningale sõna tagasi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "bfe03f4d35e4171b8b866c7b615c4d5de45299f643b0f28652a8d4636eed0009",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/34\/25-28.1792558254956.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, ma kogun sind su vanemate juurde, ja sina kogutakse su hauade juurde rahus, ega näe su silmad kogu seda kurja, mida ma toon sellele kohale ja selle elanikele. Ja nad viisid kuningale sõna tagasi ⟨את⟩.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "vaata, mina"
+      "gloss": "Vaata, mina"
     },
     {
       "surface": "אספך",
-      "gloss": "kogun sinu"
+      "gloss": "kogun sind"
     },
     {
       "surface": "אל",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אבתיך",
-      "gloss": "oma isade"
+      "gloss": "su vanemate"
     },
     {
       "surface": "ונאספת",
-      "gloss": "ja sinu kogutakse"
+      "gloss": "ja sina kogutakse"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "juurde"
     },
     {
       "surface": "קברתיך",
-      "gloss": "oma hauadesse"
+      "gloss": "su hauade"
     },
     {
       "surface": "בשלום",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "עיניך",
-      "gloss": "su silmed"
+      "gloss": "su silmad"
     },
     {
       "surface": "בכל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "halba"
+      "gloss": "kurja"
     },
     {
       "surface": "אשר",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "mina"
+      "gloss": "ma"
     },
     {
       "surface": "מביא",
@@ -98,7 +77,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "paigale"
+      "gloss": "kohale"
     },
     {
       "surface": "הזה",
@@ -106,15 +85,15 @@
     },
     {
       "surface": "ועל",
-      "gloss": "ja"
+      "gloss": "ja selle"
     },
     {
       "surface": "ישביו",
-      "gloss": "selle asukatele"
+      "gloss": "elanikele"
     },
     {
       "surface": "וישיבו",
-      "gloss": "ja nad tõid tagasi"
+      "gloss": "ja nad viisid tagasi"
     },
     {
       "surface": "את",
@@ -130,6 +109,6 @@
       "gloss": "sõna"
     }
   ],
-  "timestamp": "2026-10-21T04:50:54.958608692Z",
+  "timestamp": "2026-10-21T05:56:02.192643296Z",
   "model": "glm-5.3"
 }

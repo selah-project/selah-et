@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "et",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "לחגא",
-      "rationale": "Pearingluse sõna (chag'a) esineb siin ainsana Tanahhis; tõlkes 'õudus-pearinglus' sõna kuju järgi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kohkub selle pärast",
-      "rationale": "Heebrea 'tema pärast' viitab Mitsraimile; eesti keel vajab selgust, et kardetav on Juuda maa, mitte kuulaja."
-    }
-  ],
-  "translation": "Ja Juuda maast saab Mitsraimile õudus-pearinglus; igaüks, kes seda ⟨teda⟩ talle meenutab, kohkub selle pärast, Jahve Tsevaoti plaani tõttu, mille ta tema üle plaanib.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/isaiah\/19\/17-20.1792546945350.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Juuda maast saab Mitsraimile õudus: igaüks, kes seda ⟨את⟩ talle meenutab, kardab, Jahve Tsevaoti nõu pärast, mida ta selle vastu nõu pidanud on.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "לחגא",
-      "gloss": "õudus-pearinglus"
+      "gloss": "õuduseks"
     },
     {
       "surface": "כל",
@@ -62,8 +41,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ teda",
-      "marks": "Juuda maad"
+      "gloss": "⟨את⟩",
+      "marks": "talle"
     },
     {
       "surface": "אליו",
@@ -71,15 +50,15 @@
     },
     {
       "surface": "יפחד",
-      "gloss": "kohkub"
+      "gloss": "kardab"
     },
     {
       "surface": "מפני",
-      "gloss": "selle pärast"
+      "gloss": "pärast"
     },
     {
       "surface": "עצת",
-      "gloss": "plaani"
+      "gloss": "nõu"
     },
     {
       "surface": "יהוה",
@@ -87,25 +66,25 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Tsevaoti"
     },
     {
       "surface": "אשר",
-      "gloss": "mille"
+      "gloss": "mida"
     },
     {
       "surface": "הוא",
-      "gloss": "tema"
+      "gloss": "ta"
     },
     {
       "surface": "יועץ",
-      "gloss": "plaanib"
+      "gloss": "nõu pidanud on"
     },
     {
       "surface": "עליו",
-      "gloss": "tema üle"
+      "gloss": "selle vastu"
     }
   ],
-  "timestamp": "2026-10-21T01:42:25.351260682Z",
+  "timestamp": "2026-10-21T06:17:09.220479867Z",
   "model": "glm-5.3"
 }

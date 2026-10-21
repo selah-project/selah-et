@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עזר",
-      "rationale": "juur עזר kordub neli korda (maozrim, ezer, azroveini) — Ahasase petlik loogika ja selle pööramine ümber"
-    },
-    {
-      "kind": "substitution",
-      "subject": "jumalad",
-      "rationale": "אלהי siin rahvate ebajumalate kohta — väikse tähega, mitte Elohim"
-    }
-  ],
-  "translation": "Ja ta ohverdas Damaskuse jumalatele, kes teda lõid, ja ütles: Kuna Arami kuningate jumalad neid aitasid, ohverdan mina neile, ja nemad aitavad mind. Aga nemad said talle komistuseks temale ja kogu Jisraelile.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "031377ad0499ba6ff6041194d59a2a85601f74ce06e035188c44fcec9cc68d0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/28\/21-24.1792558103092.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ohverdas Damaski jumalatele, kes teda lõid, ja ta ütles: Kuna Arami kuningate jumalad on neid ⟨את⟩ abistanud, neile ohverdan ma, ja nemad abistavad mind. Aga nemad said talle ja kogu Jisraelile komistuseks.",
   "tokens": [
     {
       "surface": "ויזבח",
-      "gloss": "ja ohverdas"
+      "gloss": "Ja ta ohverdas"
     },
     {
       "surface": "לאלהי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "דרמשק",
-      "gloss": "Damaskuse"
+      "gloss": "Damaski"
     },
     {
       "surface": "המכים",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "ja ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "כי",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "מעזרים",
-      "gloss": "aitasid"
+      "gloss": "abistavad"
     },
     {
       "surface": "אותם",
@@ -83,15 +62,15 @@
     },
     {
       "surface": "להם",
-      "gloss": "nemad"
+      "gloss": "neile"
     },
     {
       "surface": "אזבח",
-      "gloss": "ohverdan"
+      "gloss": "ohverdan ma"
     },
     {
       "surface": "ויעזרוני",
-      "gloss": "ja aitavad mind"
+      "gloss": "ja nemad abistavad mind"
     },
     {
       "surface": "והם",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "temale"
+      "gloss": "talle"
     },
     {
       "surface": "להכשילו",
@@ -118,6 +97,6 @@
       "gloss": "Jisraelile"
     }
   ],
-  "timestamp": "2026-10-21T04:48:23.094657503Z",
+  "timestamp": "2026-10-21T05:55:32.225659878Z",
   "model": "glm-5.3"
 }

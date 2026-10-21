@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Suunaline partikkel sulandub eesti käändesse 'Mošele'."
-    },
-    {
-      "kind": "you",
-      "subject": "rahvas Mošele",
-      "rationale": "Otsene pöördumine: rahvas kõneleb Mošega, käsk 'räägi sina meiega'."
-    }
-  ],
-  "translation": "Ja nad ütlesid Mošele: räägi sina meiega ja me kuuleme; ärgu räägigu Elohim meiega, et me ei sureks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/20\/17-20.1792538593004.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja nad ütlesid Mošele: räägi sina meiega ja me kuuleme; aga ärgu räägigu Elohim meiega, et me ei sureks.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "Ja nad ütlesid"
+      "gloss": "ja nad ütlesid"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Mošele"
     },
     {
       "surface": "משה",
-      "gloss": "Mošele"
+      "gloss": "Moše"
     },
     {
       "surface": "דבר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "ärgu"
+      "gloss": "äg-ärgu"
     },
     {
       "surface": "ידבר",
@@ -74,13 +53,13 @@
     },
     {
       "surface": "פן",
-      "gloss": "et"
+      "gloss": "et mitte"
     },
     {
       "surface": "נמות",
-      "gloss": "me ei sureks"
+      "gloss": "me sureks"
     }
   ],
-  "timestamp": "2026-10-20T23:23:13.005586142Z",
+  "timestamp": "2026-10-21T06:05:53.869349529Z",
   "model": "glm-5.3"
 }

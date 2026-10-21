@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ונאק נאקות",
-      "rationale": "tegu ja objekt sama juurest (נאק), oigama oiget — kordus jääb eestis osaliselt"
-    },
-    {
-      "kind": "crux",
-      "subject": "חלל לפניו",
-      "rationale": "kelle näo ees oigab: Par'ao kui läbistatud Baveli kuninga ees, või Par'ao oigeb tema (Baveli) ees"
-    }
-  ],
-  "translation": "Ja ma tugevdan ⟨את⟩ Baveli kuninga käed ja panen oma mõõga ta kätte, ja ma murran ⟨את⟩ Par'ao käed, ja ta oigab läbistatu oiget tema näo ees.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "31b3e1482e918f00fc874357b540115985ed29e47bacfcd3acc6d32c690f0581",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/30\/21-24.1792550402729.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ma tugevdan ⟨את⟩ Babeli kuninga käed ja annan ⟨את⟩ oma mõõga tema kätte, aga ma purustan ⟨את⟩ Parao käed, ja tema oigab languoiet nagu läbistatu tema ees.",
   "tokens": [
     {
       "surface": "וחזקתי",
-      "gloss": "Ja ma tugevdan"
+      "gloss": "ja ma tugevdan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Baveli kuninga käed"
+      "marks": "Babeli kuninga käed"
     },
     {
       "surface": "זרעות",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Baveli"
+      "gloss": "Babel"
     },
     {
       "surface": "ונתתי",
-      "gloss": "ja panen"
+      "gloss": "ja annan"
     },
     {
       "surface": "את",
@@ -64,16 +43,16 @@
     },
     {
       "surface": "בידו",
-      "gloss": "ta kätte"
+      "gloss": "tema kätte"
     },
     {
       "surface": "ושברתי",
-      "gloss": "ja ma murran"
+      "gloss": "aga ma purustan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Par'ao käed"
+      "marks": "Parao käed"
     },
     {
       "surface": "זרעות",
@@ -81,15 +60,15 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Par'ao"
+      "gloss": "Parao"
     },
     {
       "surface": "ונאק",
-      "gloss": "ja ta oigab"
+      "gloss": "ja tema oigab"
     },
     {
       "surface": "נאקות",
-      "gloss": "oiget"
+      "gloss": "languoiet"
     },
     {
       "surface": "חלל",
@@ -97,9 +76,9 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "tema näo ees"
+      "gloss": "tema ees"
     }
   ],
-  "timestamp": "2026-10-21T02:40:02.730532009Z",
+  "timestamp": "2026-10-21T06:09:33.537256701Z",
   "model": "glm-5.3"
 }

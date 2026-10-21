@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "צפצפה",
-      "rationale": "Hapaksõna tsaftsafah — paperpuu (Salix babylonica) või lihtsalt 'istuta kui istik' (JPS 'slip'); 'paperpuu' järgib sõna kuju."
-    },
-    {
-      "kind": "hapax",
-      "subject": "צפצפה",
-      "rationale": "Sõna esineb Tanahhis ainult siin."
-    },
-    {
-      "kind": "alternative",
-      "subject": "קח על מים רבים",
-      "rationale": "Võib lugeda 'et ta juurduks paljude veede juures', nagu YLT; eelistatud sõnasõnaline 'võtma paljude veede juurde'."
-    }
-  ],
-  "translation": "Ja ta võttis maapiimse seemnest ja pani selle külviväljale, <võttma> paljude veede juurde; ta istutas selle kui paperpuu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6f1b8712f0957807e81fb0f9039ff14c96fb850605e743c4f37eebc1fa1f0841",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/17\/5-8.1792550024572.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta võttis maa seemnest ja pani ta seemneväljale; võtmaks paljude vetete juureta(?), pajuks pani ta ta.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Ja ta võttis"
+      "gloss": "ja ta võttis"
     },
     {
       "surface": "מזרע",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "ויתנהו",
-      "gloss": "ja pani selle"
+      "gloss": "ja pani ta"
     },
     {
       "surface": "בשדה",
-      "gloss": "külviväljale"
+      "gloss": "seemneväljale"
     },
     {
       "surface": "זרע",
-      "gloss": "külv"
+      "gloss": "seeme"
     },
     {
       "surface": "קח",
-      "gloss": "<võtma>"
+      "gloss": "võtmaks"
     },
     {
       "surface": "על",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "מים",
-      "gloss": "vede"
+      "gloss": "vetete"
     },
     {
       "surface": "רבים",
@@ -75,13 +49,13 @@
     },
     {
       "surface": "צפצפה",
-      "gloss": "kui paperpuu"
+      "gloss": "pajuks"
     },
     {
       "surface": "שמו",
-      "gloss": "ta istutas selle"
+      "gloss": "pani ta"
     }
   ],
-  "timestamp": "2026-10-21T02:33:44.573648722Z",
+  "timestamp": "2026-10-21T06:08:25.497619831Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ספות הרוה את הצמאה",
-      "rationale": "Sõna-sõnalt „et niisketu pühitaks ära koos janusega”; KJV „jooksu janule”, JPS „märg viidaks ära koos kuivaga” — kujund süüdiohus, mis haarab süütu."
-    }
-  ],
-  "translation": "Ja juhtub, et kui ta kuuleb ⟨את⟩ selle needuse sõnu, siis ta õnnistab ennast oma südames öeldes: rahu olgu mul, kuigi ma käin oma südame kangeuse järgi — selleks et küllastunu kaotataks ära koos janusega.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9aca2e4fe966082c9a08f4d4d4a4948f7ab076ca1310842f6f8d5ef18b5d7e9f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/29\/17-20.1792541218253.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja juhtub, et kui ta kuuleb ⟨את⟩ selle needmise sõnu, õnnistab ta ennast oma südames, öeldes: rahu olgu minul, sest ma käin oma südame kange järgi — nii pühitakse ⟨את⟩ küllastunu ära koos janusega.",
   "tokens": [
     {
       "surface": "והיה",
@@ -34,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle needuse sõnu"
+      "marks": "selle needmise sõnu"
     },
     {
       "surface": "דברי",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "האלה",
-      "gloss": "needuse"
+      "gloss": "needmise"
     },
     {
       "surface": "הזאת",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "והתברך",
-      "gloss": "siis ta õnnistab ennast"
+      "gloss": "õnnistab ta ennast"
     },
     {
       "surface": "בלבבו",
@@ -70,15 +54,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "mul"
+      "gloss": "minul"
     },
     {
       "surface": "כי",
-      "gloss": "kuigi"
+      "gloss": "sest"
     },
     {
       "surface": "בשררות",
-      "gloss": "kangeuse järgi"
+      "gloss": "kange"
     },
     {
       "surface": "לבי",
@@ -90,11 +74,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "selleks et"
+      "gloss": "nii"
     },
     {
       "surface": "ספות",
-      "gloss": "kaotataks ära"
+      "gloss": "pühitakse ära"
     },
     {
       "surface": "הרוה",
@@ -107,9 +91,9 @@
     },
     {
       "surface": "הצמאה",
-      "gloss": "koos janusega"
+      "gloss": "januse"
     }
   ],
-  "timestamp": "2026-10-21T00:06:58.254857479Z",
+  "timestamp": "2026-10-21T06:03:11.044201111Z",
   "model": "glm-5.3"
 }

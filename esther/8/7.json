@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "et",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שלח ידו",
-      "rationale": "'külge saatma oma käe' = rünnakut alustama; eestis 'käe sirutama kellegi vastu'"
-    },
-    {
-      "kind": "you",
-      "subject": "kuningas Estrile ja Mordekaile",
-      "rationale": "Otsene pöördumine kahe nimelise adressaadi poide"
-    }
-  ],
-  "translation": "Ja kuningas Ahasveros ütles kuninganna Estrile ja juudile Mordekaile: Vaata, Hamani maja olen ma andnud Estrile, ja tema on poogud puu külge, selle eest, et ta sirutas oma käe juutide vastu.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "133dd0839d4065e557d272c5b4d3654d7eabc871c7c4fd88cf9411641a2400f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/esther\/8\/5-8.1792556287057.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kuningas Ahasveros ütles kuninganna Estri ja juudi Mordokajale: Vaata, Hamani maja olen ma andnud Estrile, ja ⟨את⟩ teda on nad üles poonud puu peale, sest ta sirutas oma käe juutide vastu.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "המלך",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "לאסתר",
-      "gloss": "Estrile"
+      "gloss": "Estri"
     },
     {
       "surface": "המלכה",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "ולמרדכי",
-      "gloss": "ja Mordekaile"
+      "gloss": "ja Mordokajale"
     },
     {
       "surface": "היהודי",
-      "gloss": "juudile"
+      "gloss": "juudi"
     },
     {
       "surface": "הנה",
-      "gloss": "Vaata"
+      "gloss": "vaata"
     },
     {
       "surface": "בית",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "olen andnud"
+      "gloss": "olen ma andnud"
     },
     {
       "surface": "לאסתר",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "ja ⟨את⟩",
-      "marks": "tema (Haman)"
+      "gloss": "ja ⟨את⟩ teda",
+      "marks": "teda on nad üles poonud"
     },
     {
       "surface": "תלו",
-      "gloss": "on poogud"
+      "gloss": "on nad üles poonud"
     },
     {
       "surface": "על",
-      "gloss": "külge"
+      "gloss": "peale"
     },
     {
       "surface": "העץ",
@@ -95,11 +74,11 @@
     },
     {
       "surface": "על",
-      "gloss": "selle eest, et"
+      "gloss": "sest"
     },
     {
       "surface": "אשר",
-      "gloss": "sest"
+      "gloss": "et"
     },
     {
       "surface": "שלח",
@@ -114,6 +93,6 @@
       "gloss": "juutide vastu"
     }
   ],
-  "timestamp": "2026-10-21T04:18:07.058584745Z",
+  "timestamp": "2026-10-21T06:04:23.868396882Z",
   "model": "glm-5.3"
 }

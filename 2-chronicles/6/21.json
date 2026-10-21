@@ -5,44 +5,23 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "eesliide 'kuuled oma teenri ANUPALUSI' — heebrea eraldiseisev eessõna sulandub eesti käändeisse"
-    },
-    {
-      "kind": "addition",
-      "subject": "oma",
-      "rationale": "omadussõna lisatud, et näidata, kelle teenrite ja eluaseme jutt on"
-    }
-  ],
-  "translation": "Ja sina kuuled oma teenri anupalusi ja oma rahva Jisraeli, kes selle koha poolest palvetavad, ja sina kuuled oma eluaseme paigast, taevast, ja kuulad ning annad andeks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "1743845ebee4d2a33fae10f1646de824c15cb5fd09f6bdcfd476f621bd22b62a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/6\/21-24.1792557736269.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sina kuuled oma sulase ja oma rahva Jisraeli anupalveid, kes selle paiga poolest paluvad; ja sina kuuled oma asupaigast, taevast, ja sina kuuled ⟨ja annad andeks⟩.",
   "tokens": [
     {
       "surface": "ושמעת",
-      "gloss": "ja kuuled"
+      "gloss": "ja sina kuuled"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "תחנוני",
-      "gloss": "anupalusi"
+      "gloss": "anupalveid"
     },
     {
       "surface": "עבדך",
-      "gloss": "oma teenri"
+      "gloss": "oma sulase"
     },
     {
       "surface": "ועמך",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "יתפללו",
-      "gloss": "palvetavad"
+      "gloss": "paluvad"
     },
     {
       "surface": "אל",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "koha"
+      "gloss": "selle paiga"
     },
     {
       "surface": "הזה",
@@ -82,15 +61,15 @@
     },
     {
       "surface": "ממקום",
-      "gloss": "paigast"
+      "gloss": "oma asupaigast"
     },
     {
       "surface": "שבתך",
-      "gloss": "eluaseme"
+      "gloss": "oma istumise"
     },
     {
       "surface": "מן",
-      "gloss": "st"
+      "gloss": "—"
     },
     {
       "surface": "השמים",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "ושמעת",
-      "gloss": "ja kuulad"
+      "gloss": "ja sina kuuled"
     },
     {
       "surface": "וסלחת",
-      "gloss": "ning annad andeks"
+      "gloss": "ja annad andeks"
     }
   ],
-  "timestamp": "2026-10-21T04:42:16.270277189Z",
+  "timestamp": "2026-10-21T05:56:15.303697755Z",
   "model": "glm-5.3"
 }

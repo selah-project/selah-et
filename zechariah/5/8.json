@@ -5,37 +5,11 @@
   "book": "zechariah",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "on",
-      "rationale": "Heebreal puudub kopula; eesti keel vajab sõna 'on'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kurjus",
-      "rationale": "הרשעה on naissoost isikustatud 'paha naine'; eesti 'kurjus' kaotab soovahemängu, mida 5:7 'naine' jätkab"
-    },
-    {
-      "kind": "measurement",
-      "subject": "eefa",
-      "rationale": "Teraviku kuulutuses ilmub mõõt (eefa) ja plii(kivi) kaal — paha asub mõõdu sees"
-    }
-  ],
-  "translation": "Ja tema ütles: See ⟨on⟩ kurjus, ja ta heitis ta ⟨את⟩ eefa keskele ja heitis pliikivi tema suule.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "cb58598e3208af28a3db2253b132a32a2ddbd658f903aa35a23851d4bafe3d43",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/zechariah\/5\/8-8.1792558542191.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta ütles: See ⟨on⟩ see langus, ja ta heitis ⟨את⟩ ta eefa keskele ja heitis ⟨את⟩ plii-kivi tema suule.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "ja tema ütles"
+      "gloss": "ja ta ütles"
     },
     {
       "surface": "זאת",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "הרשעה",
-      "gloss": "kurjus"
+      "gloss": "see langus"
     },
     {
       "surface": "וישלך",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "eefa keskele (suunas)"
+      "gloss": "sisse"
     },
     {
       "surface": "תוך",
@@ -68,12 +42,12 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "ja heitis"
+      "gloss": "ja ta heitis"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "pliikivi"
+      "marks": "plii-kivi"
     },
     {
       "surface": "אבן",
@@ -81,17 +55,17 @@
     },
     {
       "surface": "העפרת",
-      "gloss": "pliikivi"
+      "gloss": "plii-"
     },
     {
       "surface": "אל",
-      "gloss": "tema suule (suunas)"
+      "gloss": "üle"
     },
     {
       "surface": "פיה",
       "gloss": "tema suu"
     }
   ],
-  "timestamp": "2026-10-21T04:55:42.199403915Z",
+  "timestamp": "2026-10-21T06:38:52.723582932Z",
   "model": "glm-5.3"
 }

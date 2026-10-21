@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "et",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "להורתם",
-      "rationale": "'neid õpetamaks' (juur ירה); alternatively 'neid juhatamaks' — Toora enda juur tähendab õpetust."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Tõuse minu juurde mäele",
-      "rationale": "Jahve käsutab Mošet otse mäele kutsumisega."
-    },
-    {
-      "kind": "you",
-      "subject": "Moše",
-      "rationale": "Otsene pöördumine: käsud addressed Mošele."
-    }
-  ],
-  "translation": "Ja Jahve ütles Mošele: Tõuse minu juurde mäele ja ole seal, ja ma annan sulle ⟨את⟩ kiviloojad ning Toora ja käsu, mille ma olen kirjutanud, neid õpetamaks.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "76aab1f6f0da20091688ce2fda593455a4a3835a058e8c058584ccfbf9f6a1d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/exodus\/24\/9-12.1792538672885.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Mošele: Tõuse minu juurde mäele ja ole seal, ja ma annan sulle ⟨את⟩ kivilauad ning Toora ja käsu, mille ma olen kirjutanud, neid õpetama.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Mošele-juurde"
     },
     {
       "surface": "משה",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "Tõuse"
+      "gloss": "tõuse"
     },
     {
       "surface": "אלי",
@@ -80,15 +54,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kiviloojad"
+      "marks": "kivilauad"
     },
     {
       "surface": "לחת",
-      "gloss": "loojad"
+      "gloss": "lauad"
     },
     {
       "surface": "האבן",
-      "gloss": "kivi"
+      "gloss": "kivi-"
     },
     {
       "surface": "והתורה",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "והמצוה",
-      "gloss": "ja käsu"
+      "gloss": "ja käsk"
     },
     {
       "surface": "אשר",
@@ -108,9 +82,9 @@
     },
     {
       "surface": "להורתם",
-      "gloss": "neid õpetamaks"
+      "gloss": "neid õpetama"
     }
   ],
-  "timestamp": "2026-10-20T23:24:32.887219782Z",
+  "timestamp": "2026-10-21T06:05:52.434416496Z",
   "model": "glm-5.3"
 }

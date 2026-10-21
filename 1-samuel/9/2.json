@@ -5,41 +5,15 @@
   "book": "1-samuel",
   "lang": "et",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "oli",
-      "rationale": "Eesti keele predikatiivi kohustuslik sidesõna"
-    },
-    {
-      "kind": "substitution",
-      "subject": "nooruk ja ilus",
-      "rationale": "בחור וטוב sõna-sõnalt 'valitu ja hea' - 'nooruk ja ilus'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kõrgem kui kogu rahvas",
-      "rationale": "Šauli mõõtmine - õlgadest ülespolet kõrgem, kehaline mõõt"
-    }
-  ],
-  "translation": "Ja temal ⟨oli⟩ poeg, ja tema nimi ⟨oli⟩ Šaul, nooruk ja ilus; ja ei olnud Jisraeli poegade seas meest ilusamat kui tema; õlgadest ülespoole oli ta kõrgem kui kogu rahvas.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-samuel\/9\/1-4.1792543892488.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja temal oli poeg, tema nimi oli Šaul, valitud noor mees ja ilus, ja ei olnud ühtki meest Jisraeli poegade seas ilusam kui tema; tema õlgadest ülespoole oli ta kõrgem kui kogu rahvas.",
   "tokens": [
     {
       "surface": "ולו",
-      "gloss": "Ja temal"
+      "gloss": "ja temal"
     },
     {
       "surface": "היה",
-      "gloss": "⟨oli⟩"
+      "gloss": "oli"
     },
     {
       "surface": "בן",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ושמו",
-      "gloss": "ja tema nimi ⟨oli⟩"
+      "gloss": "ja tema nimi"
     },
     {
-      "surface": "Šaul",
+      "surface": "שאול",
       "gloss": "Šaul"
     },
     {
       "surface": "בחור",
-      "gloss": "nooruk"
+      "gloss": "valitud noor mees"
     },
     {
       "surface": "וטוב",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "טוב",
-      "gloss": "ilusamat"
+      "gloss": "ilusam"
     },
     {
       "surface": "ממנו",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "משכמו",
-      "gloss": "õlgadest"
+      "gloss": "tema õlgadest"
     },
     {
       "surface": "ומעלה",
@@ -106,6 +80,6 @@
       "gloss": "rahvas"
     }
   ],
-  "timestamp": "2026-10-21T00:51:32.490758225Z",
+  "timestamp": "2026-10-21T05:54:02.102936750Z",
   "model": "glm-5.3"
 }

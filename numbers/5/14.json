@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "et",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רוח קנאה",
-      "rationale": "kordus: kaks täiesti sarnast klauslit peale 'või' — kordamine rõhutab kaht võimalust"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruahh kadedusest",
-      "rationale": "רוח קנאה on 'kadeduse ruahh\/hingus', mitte abstraktne 'tunne'"
-    }
-  ],
-  "translation": "ja kadeduse ruahh tuleb üle tema, ja ta muutub kadeks oma naise suhtes, ja tema ⟨on⟩ saanud rituaalselt ebapuhtaks — või kadeduse ruahh tuleb üle tema, ja ta muutub kadeks oma naise suhtes, ja tema ei ⟨ole⟩ saanud rituaalselt ebapuhtaks —",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c691609de67c4f0dd35a440b402c302d61d2b1f41d9ea9dcbca698d449888f14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/numbers\/5\/13-16.1792539811329.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kui läheb üle tema üle kadeduse ruahh ja ta on kade ⟨את⟩ oma naise peale, ja tema on saanud ebapuhas, või kui läheb üle tema üle kadeduse ruahh ja ta on kade ⟨את⟩ oma naise peale, ja tema ei ole saanud ebapuhas —",
   "tokens": [
     {
       "surface": "ועבר",
-      "gloss": "ja tuleb"
+      "gloss": "ja läheb üle"
     },
     {
       "surface": "עליו",
-      "gloss": "üle tema"
+      "gloss": "tema üle"
     },
     {
       "surface": "רוח",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "וקנא",
-      "gloss": "ja ta muutub kadeks"
+      "gloss": "ja ta on kade"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma naist"
+      "marks": "oma naise"
     },
     {
       "surface": "אשתו",
-      "gloss": "oma naise"
+      "gloss": "oma naine"
     },
     {
       "surface": "והוא",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "נטמאה",
-      "gloss": "⟨on⟩ saanud rituaalselt ebapuhtaks"
+      "gloss": "on saanud ebapuhas"
     },
     {
       "surface": "או",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "עבר",
-      "gloss": "tuleb"
+      "gloss": "läheb üle"
     },
     {
       "surface": "עליו",
-      "gloss": "üle tema"
+      "gloss": "tema üle"
     },
     {
       "surface": "רוח",
@@ -87,16 +66,16 @@
     },
     {
       "surface": "וקנא",
-      "gloss": "ja ta muutub kadeks"
+      "gloss": "ja ta on kade"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oma naist"
+      "marks": "oma naise"
     },
     {
       "surface": "אשתו",
-      "gloss": "oma naise"
+      "gloss": "oma naine"
     },
     {
       "surface": "והיא",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "נטמאה",
-      "gloss": "saanud rituaalselt ebapuhtaks"
+      "gloss": "ole saanud ebapuhas"
     }
   ],
-  "timestamp": "2026-10-20T23:43:31.330671601Z",
+  "timestamp": "2026-10-21T06:36:05.488725700Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨mina⟩",
-      "rationale": "Heebrea אהיה on rõhutus, kuid ilma rõhutava asesõnata jääks eesti lause lõdvemaks"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הייתי \/ אהיה",
-      "rationale": "Sama verb היה kordub: 'ma olin Mošega — ma olen sinuga', peegelkõne, mis seob Jehoosua Mošega"
-    }
-  ],
-  "translation": "Ja Jahve ütles Jehoosuale: Tänapäeval hakkan sind suurendama kogu Jisraeli silmis, et nad teaksid, et nii nagu ma olin Mošega, nii olen ⟨mina⟩ sinuga.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "86a2358d45a1ada112fb21cab48e93067e12010bcb825e11e7f364afb5ba08cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/3\/5-8.1792541381513.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve ütles Joošuale: Tänapäeval hakkan ma sind suurendama kogu Jisraeli silmis, et nad teaksid, et nii nagu ma olin Mošega, olen mina sinuga.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ja ütles"
+      "gloss": "ja ütles"
     },
     {
       "surface": "יהוה",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Joošuale poole"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehoosuale"
+      "gloss": "Joošua"
     },
     {
       "surface": "היום",
-      "gloss": "Tänapäeval"
+      "gloss": "tänapäeval"
     },
     {
       "surface": "הזה",
-      "gloss": "sellel"
+      "gloss": "see"
     },
     {
       "surface": "אחל",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "בעיני",
-      "gloss": "silmis"
+      "gloss": "silmais"
     },
     {
       "surface": "כל",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "et"
     },
     {
       "surface": "ידעון",
-      "gloss": "et nad teaksid"
+      "gloss": "nad teaksid"
     },
     {
       "surface": "כי",
@@ -109,6 +88,6 @@
       "gloss": "sinuga"
     }
   ],
-  "timestamp": "2026-10-21T00:09:41.514249792Z",
+  "timestamp": "2026-10-21T06:25:03.850575289Z",
   "model": "glm-5.3"
 }

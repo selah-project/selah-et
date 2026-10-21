@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "et",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Eesliit 'el' ('endale', 'suunas') sulandub eesti käänetesse ega saa eraldi seista."
-    },
-    {
-      "kind": "mystery",
-      "subject": "päevi tuleb",
-      "rationale": "Tulevased päevad kuulutatakse, aga nende aeg on kinnipeetud."
-    },
-    {
-      "kind": "addition",
-      "subject": "selle hea sõna (kordus)",
-      "rationale": "Eesti sõnajärg nõuab objekti kordamist enne suhtelause lauset; kordus on toimetamise õmblus — parandatav: 'ma tõstan üles ⟨את⟩ hea sõna'."
-    }
-  ],
-  "translation": "Vaata, päevi tuleb, ütleb Jahve, ja ma tõstan selle ülе hea sõna, ⟨את⟩ selle hea sõna, mille ma rääkisin Jisraeli soole ja Jehuda soo kohta.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "fe4b7d3d799a3a830b5c52bfada97e382f78a355b9712ca9736c85ed6c94374f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/jeremiah\/33\/13-16.1792548852453.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vaata, päevad tulevad, ütleb Jahve, ja ma tõstan püsti ⟨את⟩ hea sõna, mille ma rääkisin Jisraeli koja vastu ja Jehuda koja kohta.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "vaata"
+      "gloss": "Vaata"
     },
     {
       "surface": "ימים",
-      "gloss": "päevi"
+      "gloss": "päevad"
     },
     {
       "surface": "באים",
-      "gloss": "tuleb"
+      "gloss": "tulevad"
     },
     {
       "surface": "נאם",
@@ -55,12 +29,12 @@
     },
     {
       "surface": "והקמתי",
-      "gloss": "ja ma tõstan üles"
+      "gloss": "ja ma tõstan püsti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "selle hea sõna"
+      "marks": "hea sõna"
     },
     {
       "surface": "הדבר",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "--"
+      "gloss": "vastu"
     },
     {
       "surface": "בית",
-      "gloss": "soo"
+      "gloss": "koja"
     },
     {
       "surface": "ישראל",
@@ -96,13 +70,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "soo"
+      "gloss": "koja"
     },
     {
       "surface": "יהודה",
       "gloss": "Jehuda"
     }
   ],
-  "timestamp": "2026-10-21T02:14:12.455387203Z",
+  "timestamp": "2026-10-21T06:39:58.790724643Z",
   "model": "glm-5.3"
 }

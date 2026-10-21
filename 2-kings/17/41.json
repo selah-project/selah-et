@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rahvad",
-      "rationale": "Vene piibli traditsioon kasutab 'rahvad' גוים jaoks; eesti keeles sobib ka 'paganrahvad', kuid 'rahvad' on neutraalseim."
-    },
-    {
-      "kind": "idiom",
-      "subject": "עד היום הזה",
-      "rationale": "Heebrea idiom 'kuni see päev' = 'sel päeval, mil see tekst kirjutati'; tõlgitud kui 'päevani' + 'selle'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יראים... עבדים",
-      "rationale": "Salm kontrastib kahe teenimisviisi vahel (Jehoova kartmine vs. ebajumalate teenimine) — paralleelstruktuur, mida tõlge säilitab."
-    }
-  ],
-  "translation": "Ja need rahvad jäid ⟨את⟩ Jehoovat kartma, aga ⟨את⟩ oma ebajumalaid nad teenisid; ka nende pojad ja nende pojapojad — nagu nende isad tegid, nii teevad nemad ⟨sellesama⟩ päevani.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "780839612f5290f3f2f1611271345b764a2dacc02cb8b1ee28576f9b253199f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/17\/41-41.1792546225265.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja need rahvad olid ⟨את⟩ Jahvet kartvad, aga ⟨את⟩ oma ebajumalaid nad teenisid; ka nende pojad ja nende pojapojad — nagu nende isad tegid, nõnda nemad teevad kuni selle päevani.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "ja jäid"
+      "gloss": "ja nad olid"
     },
     {
       "surface": "הגוים",
@@ -47,20 +21,20 @@
     },
     {
       "surface": "יראים",
-      "gloss": "kartma"
+      "gloss": "kartvad"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehoova"
+      "marks": "Jahvet"
     },
     {
       "surface": "יהוה",
-      "gloss": "Jehoovat"
+      "gloss": "Jahvet"
     },
     {
       "surface": "ואת",
-      "gloss": "ja ⟨את⟩",
+      "gloss": "aga ⟨את⟩",
       "marks": "oma ebajumalaid"
     },
     {
@@ -69,7 +43,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "olid"
+      "gloss": "nad olid"
     },
     {
       "surface": "עבדים",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "בניהם",
-      "gloss": "nende poegade"
+      "gloss": "nende pojapojad"
     },
     {
       "surface": "כאשר",
@@ -113,17 +87,17 @@
     },
     {
       "surface": "עד",
-      "gloss": "päevani"
+      "gloss": "kuni"
     },
     {
       "surface": "היום",
-      "gloss": "päeva"
+      "gloss": "selle päevani"
     },
     {
       "surface": "הזה",
       "gloss": "selle"
     }
   ],
-  "timestamp": "2026-10-21T01:30:25.266815576Z",
+  "timestamp": "2026-10-21T05:57:15.691563580Z",
   "model": "glm-5.3"
 }

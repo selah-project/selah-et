@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "et",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "האלה",
-      "rationale": "korduv demonstratiiv 'need' sulandus eesti omastusse 'kõik need juhised'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ליראה את יהוה",
-      "rationale": "'karta Jahvet' vs 'Jahvet austada\/kartus-austada' — eesti traditsioonis sageli 'karta'"
-    }
-  ],
-  "translation": "Ja Jahve käsis meil teha kõik need juhised, et karta ⟨את⟩ Jahvet, meie Elohimit, meile heaks kõik päevad, et hoida meid elus, nagu tänapäevgi.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "ce9b49351a73e9bdeef410d886571be476648e183811742638424001e4b5364c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/deuteronomy\/6\/21-24.1792540666234.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja Jahve käskis meil teha ⟨את⟩ kõik need määrused, kartma ⟨את⟩ Jahvet, meie Elohimit, ⟨see⟩ ⟨on⟩ meile heaks kõikidel päevadel, hoidmaks meid elus, nagu sel päeval.",
   "tokens": [
     {
       "surface": "ויצונו",
-      "gloss": "käsis meil"
+      "gloss": "käskis meil"
     },
     {
       "surface": "יהוה",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kõik need juhised"
+      "marks": "kõik need määrused"
     },
     {
       "surface": "כל",
@@ -51,7 +30,7 @@
     },
     {
       "surface": "החקים",
-      "gloss": "need juhised"
+      "gloss": "määrused"
     },
     {
       "surface": "האלה",
@@ -59,12 +38,12 @@
     },
     {
       "surface": "ליראה",
-      "gloss": "et karta"
+      "gloss": "kartma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahvet"
+      "marks": "Jahvet, meie Elohimit"
     },
     {
       "surface": "יהוה",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "meie Elohimit"
+      "gloss": "meie Elohim"
     },
     {
       "surface": "לטוב",
@@ -84,25 +63,25 @@
     },
     {
       "surface": "כל",
-      "gloss": "kõik"
+      "gloss": "kõikidel"
     },
     {
       "surface": "הימים",
-      "gloss": "päevad"
+      "gloss": "päevadel"
     },
     {
       "surface": "לחיתנו",
-      "gloss": "et hoida meid elus"
+      "gloss": "hoidmaks meid elus"
     },
     {
       "surface": "כהיום",
-      "gloss": "nagu tänapäev"
+      "gloss": "nagu sel päeval"
     },
     {
       "surface": "הזה",
-      "gloss": "gi"
+      "gloss": "sel"
     }
   ],
-  "timestamp": "2026-10-20T23:57:46.235576925Z",
+  "timestamp": "2026-10-21T06:03:59.476828721Z",
   "model": "glm-5.3"
 }

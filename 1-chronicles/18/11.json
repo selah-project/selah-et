@@ -5,32 +5,16 @@
   "book": "1-chronicles",
   "lang": "et",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pühitses",
-      "rationale": "הקדיש 'pühaks tegema', קדש juure üks vorm"
-    }
-  ],
-  "translation": "Ka need pühitses kuningas David Jahvele koos hõbeda ja kullaga, mille ta tõi kõigilt rahvastelt — Edomist ja Moabist ja Amoni poegadelt ja filistidelt ja Amalekist.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "eb2d7147291a18cfc0afb577cc2f62e46ebc37b7abb25145a20439b229c596d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/1-chronicles\/18\/9-12.1792557432825.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka need pühitses kuningas David Jahvele ⟨את⟩, koos hõbeda ja kullaga, mille ta tõi ära kõigilt rahvastelt: Edomist ja Moabist ja Ammoni poegadelt ja vilistlastelt ja Amalekilt.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "Ka"
+      "gloss": "ka"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ neid",
-      "marks": "need (kuldnõud)"
+      "gloss": "⟨את⟩",
+      "marks": "need"
     },
     {
       "surface": "הקדיש",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "נשא",
-      "gloss": "ta tõi"
+      "gloss": "tõi ära"
     },
     {
       "surface": "מכל",
@@ -86,21 +70,21 @@
     },
     {
       "surface": "ומבני",
-      "gloss": "ja poegadelt"
+      "gloss": "ja ... poegadelt"
     },
     {
       "surface": "עמון",
-      "gloss": "Amoni"
+      "gloss": "Ammoni"
     },
     {
       "surface": "ומפלשתים",
-      "gloss": "ja filistidelt"
+      "gloss": "ja vilistlastelt"
     },
     {
       "surface": "ומעמלק",
-      "gloss": "ja Amalekist"
+      "gloss": "ja Amalekilt"
     }
   ],
-  "timestamp": "2026-10-21T04:37:12.826288821Z",
+  "timestamp": "2026-10-21T05:49:37.445490644Z",
   "model": "glm-5.3"
 }

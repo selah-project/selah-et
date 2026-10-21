@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "et",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨on⟩",
-      "rationale": "Eesti köitelause nõuab köitlit, heebrea יהיה ei ole lihtne köitla."
-    },
-    {
-      "kind": "crux",
-      "subject": "מחבת",
-      "rationale": "'Raudpann' vs 'raudplaat' — küpsetusnõu, mis sümboliseerib eraldusseina Jahve ja linna vahel."
-    },
-    {
-      "kind": "you",
-      "subject": "to Hesekiel",
-      "rationale": "Otsekäsk prohvetile näiteksinguks."
-    }
-  ],
-  "translation": "Ja sina võta endale raudpann ja pane see raudseinaks enda ja linna vahele, ning suuna ⟨את⟩ oma nägu selle poole, ja see olgu piiramises, ja sa piira seda; see ⟨on⟩ tunnus Jisraeli soole.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezekiel\/4\/1-4.1792549665624.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja sina võta endale raudpann ja pane ⟨את⟩ see raudseinaks enda ja linna vahele, ja pane ⟨את⟩ oma nägu kindlalt selle poole, ja see on piiramises, ja sa piirad seda — see on märk Jisraeli soole.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "Ja sina"
+      "gloss": "ja sina"
     },
     {
       "surface": "קח",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "ברזל",
-      "gloss": "raud-"
+      "gloss": "raud"
     },
     {
       "surface": "ונתתה",
@@ -60,23 +34,23 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "see (raudpann)"
+      "marks": "see (raudsein)"
     },
     {
       "surface": "קיר",
-      "gloss": "seinaks"
+      "gloss": "sein"
     },
     {
       "surface": "ברזל",
-      "gloss": "raud-"
+      "gloss": "raud"
     },
     {
       "surface": "בינך",
-      "gloss": "enda"
+      "gloss": "enda ja"
     },
     {
       "surface": "ובין",
-      "gloss": "ja linna vahele"
+      "gloss": "linna vahele"
     },
     {
       "surface": "העיר",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "והכינתה",
-      "gloss": "ja suuna"
+      "gloss": "ja pane kindlalt"
     },
     {
       "surface": "את",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "ja see olgu"
+      "gloss": "ja see on"
     },
     {
       "surface": "במצור",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "וצרת",
-      "gloss": "ja sa piira"
+      "gloss": "ja sa piirad"
     },
     {
       "surface": "עליה",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "אות",
-      "gloss": "tunnus"
+      "gloss": "märk"
     },
     {
       "surface": "היא",
@@ -132,6 +106,6 @@
       "gloss": "Jisraeli"
     }
   ],
-  "timestamp": "2026-10-21T02:27:45.626851380Z",
+  "timestamp": "2026-10-21T06:10:21.132733817Z",
   "model": "glm-5.3"
 }

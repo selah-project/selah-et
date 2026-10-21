@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "למ",
-      "rationale": "הeleneb eessõna-ütlus 'ləmaddej' koosseisus, eraldi ei tõlgita."
-    },
-    {
-      "kind": "crux",
-      "subject": "לא התקדשו למדי",
-      "rationale": "KJV\/tõlgid: 'ei pühitsenud end küllaldaselt' vs 'ei olnud piisavalt pühitsetud (arvuliselt)' — ASV\/JPS loevad arvuliselt."
-    },
-    {
-      "kind": "addition",
-      "subject": "veel",
-      "rationale": "Eesti kaasaegmine aspektimarker, heebreas puudub."
-    }
-  ],
-  "translation": "Sest nad ei suutnud seda teha sel ajal, sest preestrid ei olnud ennast pühitsenud küllaldaselt ja rahvas ei olnud veel Jerušalaimi kogunenud.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "82adde529565cb408ab5347a4164ad69f0939b7edb167d3900c6489abd01e9ef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/30\/1-4.1792558120535.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "sest nad ei suutnud seda täita sel ajal, sest preestrid ei olnud end pühitsenud küllaldaselt ja rahvas ei olnud kogunenud Jerušalaimi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Sest"
+      "gloss": "sest"
     },
     {
       "surface": "לא",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "לעשתו",
-      "gloss": "seda teha"
+      "gloss": "sedä täita"
     },
     {
       "surface": "בעת",
-      "gloss": "ajal"
+      "gloss": "sel ajal"
     },
     {
       "surface": "ההיא",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "התקדשו",
-      "gloss": "pühitsenud"
+      "gloss": "olnud end pühitsenud"
     },
     {
       "surface": "למ",
-      "gloss": ""
+      "gloss": "küllaldaselt"
     },
     {
       "surface": "די",
@@ -91,13 +65,13 @@
     },
     {
       "surface": "נאספו",
-      "gloss": "kogunenud"
+      "gloss": "olinud kogunenud"
     },
     {
       "surface": "לירושלם",
       "gloss": "Jerušalaimi"
     }
   ],
-  "timestamp": "2026-10-21T04:48:40.537012794Z",
+  "timestamp": "2026-10-21T05:55:29.616687171Z",
   "model": "glm-5.3"
 }

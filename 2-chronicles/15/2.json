@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "et",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "kuulake mind",
-      "rationale": "Kuulake mind Asa ja kogu Juuda ja Binitamin' — kõne kutsub kuulajaid otseselt."
-    },
-    {
-      "kind": "you",
-      "subject": "Asa, Juuda ja Binjamin",
-      "rationale": "Otsene pöördumine Asa ja kogu Juuda ning Binjamini poole."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עמכם\/עמו · תדרשהו\/ימצא · תעזבהו\/יעזב",
-      "rationale": "Peegeldav parallelism: 'teiega\/temaga', 'otsite\/leitakse', 'hülgate\/hülgab' — tingimuse ja vastuse sümmeetria."
-    }
-  ],
-  "translation": "Ja ta läks Asa ette ning ütles talle: Kuulake mind, Asa ja kogu Juuda ja Binitamin! Jahve on teiega, olles niivõrd, kui teie olete temaga; ja kui te teda otsite, leitakse ta teile; aga kui te teda hülgate, hülgab ta teid.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9059ddff500bc0f4dc7cf018806b30ef51d37eb8fce0f6494dfde09069cf70e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-chronicles\/15\/2-3.1792558760727.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ta läks väl Asa ette ning ütles talle: Kuulake mind, Asa ja kogu Juuda ja Binjamin! Jahve on teiega, niipeal kui te olete temaga; ja kui te teda otsite, leitakse ta teile; ja kui te ta maha jätte, jätab ta ⟨את⟩ teid maha.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "ja ta läks"
+      "gloss": "Ja ta läks väl"
     },
     {
       "surface": "לפני",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "שמעוני",
-      "gloss": "kuulake mind"
+      "gloss": "Kuulake mind"
     },
     {
       "surface": "אסא",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "בהיותכם",
-      "gloss": "teie olles"
+      "gloss": "niipeal kui te olete"
     },
     {
       "surface": "עמו",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "ימצא",
-      "gloss": "leitakse"
+      "gloss": "leitakse ta"
     },
     {
       "surface": "לכם",
@@ -107,15 +81,15 @@
     },
     {
       "surface": "ואם",
-      "gloss": "aga kui"
+      "gloss": "ja kui"
     },
     {
       "surface": "תעזבהו",
-      "gloss": "te teda hülgate"
+      "gloss": "te ta maha jätte"
     },
     {
       "surface": "יעזב",
-      "gloss": "hülgab"
+      "gloss": "jätab ta maha"
     },
     {
       "surface": "אתכם",
@@ -123,6 +97,6 @@
       "marks": "teid"
     }
   ],
-  "timestamp": "2026-10-21T04:59:20.728797493Z",
+  "timestamp": "2026-10-21T05:55:00.621470957Z",
   "model": "glm-5.3"
 }

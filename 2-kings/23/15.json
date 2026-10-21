@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "et",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨oli⟩",
-      "rationale": "Heebrea keel puudub koopula 'mis Beet-Elis' — eesti keel vajab seda."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גם … גם",
-      "rationale": "Kahekordne גם raamistab: 'ka altari … ka selle altari' — võimendus, mida tõlge osaliselt edasi annab."
-    }
-  ],
-  "translation": "Ja ka altari, mis ⟨oli⟩ Beet-Elis, kõrgkoha, mille Jaarobeam, Nevati poeg, kes pani Jisraeli pattu tegema, oli teinud — ka selle altari ja kõrgkoha rebis ta maha, ja põletas kõrgkoha, peenestas tolmuks ja põletas ašera.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "c7181d931840394dcd83a87bd06ca5d981d933ea47b0b9bb94f7c1ccd29bf53f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/2-kings\/23\/13-16.1792546606598.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja ka ⟨את⟩ altari, mis ⟨oli⟩ Beet-Elis, kõrgkoha, mille Jarovam, Nevati poeg, oli teinud, kes oli pannud Jisraeli pattu tegema — ka selle altari ja ⟨את⟩ kõrgkoha ta lõhkus, ja ta põletas ⟨את⟩ kõrgkoha, peenestas selle tolmaks, ja põletas ašera.",
   "tokens": [
     {
       "surface": "וגם",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "בבית",
-      "gloss": "Beet-"
+      "gloss": "Beet-Elis"
     },
     {
       "surface": "אל",
-      "gloss": "-Elis"
+      "gloss": "Beet-"
     },
     {
       "surface": "הבמה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jaarobeam"
+      "gloss": "Jarovam"
     },
     {
       "surface": "בן",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "pani pattu tegema"
+      "gloss": "oli pannud pattu tegema"
     },
     {
       "surface": "את",
@@ -101,7 +80,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "altari"
+      "marks": "selle altari"
     },
     {
       "surface": "המזבח",
@@ -113,7 +92,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "ja ⟨את⟩",
       "marks": "kõrgkoha"
     },
     {
@@ -122,11 +101,11 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "rebis maha"
+      "gloss": "lõhkus"
     },
     {
       "surface": "וישרף",
-      "gloss": "ja põletas"
+      "gloss": "ja ta põletas"
     },
     {
       "surface": "את",
@@ -143,7 +122,7 @@
     },
     {
       "surface": "לעפר",
-      "gloss": "tolmuks"
+      "gloss": "tolmaks"
     },
     {
       "surface": "ושרף",
@@ -154,6 +133,6 @@
       "gloss": "ašera"
     }
   ],
-  "timestamp": "2026-10-21T01:36:46.600541236Z",
+  "timestamp": "2026-10-21T05:58:23.351381780Z",
   "model": "glm-5.3"
 }

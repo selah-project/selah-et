@@ -5,33 +5,7 @@
   "book": "ezra",
   "lang": "et",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "see oli",
-      "rationale": "Heebrea הוא koopulata; eesti keeles lisatud sulgudeta, kuna tekst seda rõhutab"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kuupäev",
-      "rationale": "Kolm päeva, üheksas kuu, kuu kaheteistkümnes päev"
-    },
-    {
-      "kind": "substitution",
-      "subject": "plats",
-      "rationale": "רחוב on 'laius, avatud ala', mitte tänav kitsas mõttes"
-    }
-  ],
-  "translation": "Ja kogunesid kõik Juuda ja Binyamini mehed Jerušalaimi kolme päeva jooksul — see oli üheksas kuu, kuu kaheteistkümnel päeval — ja kogu rahvas istus Elohimi koja platsil, väriseden selle asja pärast ja sademete pärast.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "9f9f29d41547f27acca2cbb80ea88b76eef33363cefd452f4051d3d6e31f1b94",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/ezra\/10\/9-12.1792556749158.json",
-    "code": "c5a8972d0-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ja kogunesid kõks Jehuda ja Binjamiini mehed Jerušalaimisse kolme päeva jooksul — see ⟨oli⟩ üheksas kuu, kaheteistkümnendal päeval... tool kaheteistkümnendal... tool: see ⟨oli⟩ üheksas kuu, kaheteistkümnendal päeval kuu sees; ja kogu rahvas istus Elohimi koja platsil, värisedes selle asja pärast ja vihmahoogude pärast.",
   "tokens": [
     {
       "surface": "ויקבצו",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Juuda"
+      "gloss": "Jehuda"
     },
     {
       "surface": "ובנימן",
-      "gloss": "ja Binyamini"
+      "gloss": "ja Binjamiini"
     },
     {
       "surface": "ירושלם",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "הימים",
-      "gloss": "päeva jooksul"
+      "gloss": "päeva"
     },
     {
       "surface": "הוא",
-      "gloss": "see oli"
+      "gloss": "see ⟨oli⟩"
     },
     {
       "surface": "חדש",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "בעשרים",
-      "gloss": "kaheteistkümnel"
+      "gloss": "kaheteistkümnendal"
     },
     {
       "surface": "בחדש",
-      "gloss": "kuu"
+      "gloss": "kuu sees"
     },
     {
       "surface": "וישבו",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "מרעידים",
-      "gloss": "väriseden"
+      "gloss": "värisedes"
     },
     {
       "surface": "על",
@@ -123,9 +97,9 @@
     },
     {
       "surface": "ומהגשמים",
-      "gloss": "ja sademete pärast"
+      "gloss": "ja vihmahoogude pärast"
     }
   ],
-  "timestamp": "2026-10-21T04:25:49.158806344Z",
+  "timestamp": "2026-10-21T06:12:14.765536654Z",
   "model": "glm-5.3"
 }

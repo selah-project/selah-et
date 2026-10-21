@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "et",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "pilliroo meri",
-      "rationale": "ים סוף on sõna-sõnalt 'roo meri' (punane meri on hilisem tava)"
-    },
-    {
-      "kind": "crux",
-      "subject": "החרמתם",
-      "rationale": "ḥerem: 'pühitsesite hävitusandmiks' vs 'hävitasite täielikult' — sõna kannab pühendumise ja hävituse tähendust ühes"
-    }
-  ],
-  "translation": "Sest me kuulsime, kuidas Jahve teie palge eel kuivatas ⟨את⟩ pilliroo mere veed, kui te väljusite Mitsraimist, ja mida te tegite kahele emorlaste kuningale, kes on teisel pool Jordani, Sihonile ja Ogile, kelle te hävitusandmiks pühitsesite ⟨את⟩ ⟨neid⟩.",
-  "provenance": {
-    "system-sha256": "8091b9fe033e6a281e7bce8814ae1b88ec2e45c40ee46173068a2bc996219e12",
-    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/et\/joshua\/2\/9-12.1792541378452.json",
-    "code": "c0503ae6d-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sest me oleme kuulnud, kuidas Jahve kuivatas ⟨את⟩ Sufi mere veed teie eest, kui te läksite välja Mitsraimist, ja mida te tegite kahele emorlaste kuningale, kes olid teisel pool Jordani, Sihhonile ja Oogile, keda te pühitsesite ⟨את⟩ hävitamisele.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,16 +13,16 @@
     },
     {
       "surface": "שמענו",
-      "gloss": "me kuulsime"
+      "gloss": "me oleme kuulnud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kuidas"
+      "marks": "mida"
     },
     {
       "surface": "אשר",
-      "gloss": "kuidas"
+      "gloss": "mida"
     },
     {
       "surface": "הוביש",
@@ -56,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "veed"
+      "marks": "Sufi mere veed"
     },
     {
       "surface": "מי",
@@ -68,15 +47,15 @@
     },
     {
       "surface": "סוף",
-      "gloss": "pilliroo"
+      "gloss": "Sufi"
     },
     {
       "surface": "מפניכם",
-      "gloss": "teie palge eel"
+      "gloss": "teie eest"
     },
     {
       "surface": "בצאתכם",
-      "gloss": "kui te väljusite"
+      "gloss": "kui te läksite välja"
     },
     {
       "surface": "ממצרים",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kes"
+      "gloss": "kes olid"
     },
     {
       "surface": "בעבר",
@@ -116,25 +95,26 @@
     },
     {
       "surface": "לסיחן",
-      "gloss": "Sihonile"
+      "gloss": "Sihhonile"
     },
     {
       "surface": "ולעוג",
-      "gloss": "ja Ogile"
+      "gloss": "ja Oogile"
     },
     {
       "surface": "אשר",
-      "gloss": "kelle"
+      "gloss": "keda"
     },
     {
       "surface": "החרמתם",
-      "gloss": "hävitusandmiks pühitsesite"
+      "gloss": "te pühitsesite hävitamisele"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ neid"
+      "gloss": "⟨את⟩",
+      "marks": "neid (Sihhon ja Oog)"
     }
   ],
-  "timestamp": "2026-10-21T00:09:38.454017924Z",
+  "timestamp": "2026-10-21T06:24:45.650502790Z",
   "model": "glm-5.3"
 }
