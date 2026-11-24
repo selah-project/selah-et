@@ -15,7 +15,7 @@ Rahvusvaheline (CC BY-SA 4.0)** alusel.
 
 ## Järgmistel tingimustel
 
-- **Autorile viitamine** — märgi, kust teos pärineb (**Selah**, https://selahproject.com), lisa link sellele
+- **Autorile viitamine** — märgi, kust teos pärineb (**Selah**, https://s33k3r.com), lisa link sellele
   litsentsile ja märgi, kas sa midagi muutsid.
 - **Jagamine samadel tingimustel** — mida sa muudad või selle teose põhjal lood, levita sama litsentsiga.
 
